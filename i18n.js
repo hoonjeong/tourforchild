@@ -53,7 +53,8 @@ window.TFC_I18N = {
       todayCity: "🎈 오늘의 여행지", randomCity: "🎲 랜덤 여행",
       related: "🧳 이런 도시는 어때요?", photoBy: "사진", quickMenu: "메뉴",
       share: "🔗 공유하기", print: "🖨️ 인쇄·PDF", linkCopied: "링크가 복사됐어요! 📋",
-      progressTitle: "🌍 대륙별 수집 현황", badgesTitle: "🏅 획득한 배지"
+      progressTitle: "🌍 대륙별 수집 현황", badgesTitle: "🏅 획득한 배지",
+      removeSticker: "스티커 떼기", clearAll: "전체 비우기", confirmClear: "스티커북을 모두 비울까요?"
     },
     en: {
       brandTag: "Travel stories for kids",
@@ -99,7 +100,8 @@ window.TFC_I18N = {
       todayCity: "🎈 Today's destination", randomCity: "🎲 Surprise me",
       related: "🧳 You might also like", photoBy: "Photo", quickMenu: "Menu",
       share: "🔗 Share", print: "🖨️ Print / PDF", linkCopied: "Link copied! 📋",
-      progressTitle: "🌍 Progress by continent", badgesTitle: "🏅 Badges earned"
+      progressTitle: "🌍 Progress by continent", badgesTitle: "🏅 Badges earned",
+      removeSticker: "Remove", clearAll: "Clear all", confirmClear: "Clear your whole sticker book?"
     },
     ja: {
       brandTag: "子どもと楽しむ旅のお話",
@@ -145,7 +147,8 @@ window.TFC_I18N = {
       todayCity: "🎈 今日の旅先", randomCity: "🎲 ランダム",
       related: "🧳 こんな都市はいかが？", photoBy: "写真", quickMenu: "メニュー",
       share: "🔗 シェア", print: "🖨️ 印刷・PDF", linkCopied: "リンクをコピーしました！ 📋",
-      progressTitle: "🌍 大陸別コレクション", badgesTitle: "🏅 獲得バッジ"
+      progressTitle: "🌍 大陸別コレクション", badgesTitle: "🏅 獲得バッジ",
+      removeSticker: "はがす", clearAll: "すべて消す", confirmClear: "シールブックを全部消しますか？"
     },
     zh: {
       brandTag: "和孩子一起的旅行故事",
@@ -191,7 +194,8 @@ window.TFC_I18N = {
       todayCity: "🎈 今日目的地", randomCity: "🎲 随机",
       related: "🧳 你可能也喜欢", photoBy: "图片", quickMenu: "菜单",
       share: "🔗 分享", print: "🖨️ 打印/PDF", linkCopied: "链接已复制！ 📋",
-      progressTitle: "🌍 各大洲收集进度", badgesTitle: "🏅 已获得徽章"
+      progressTitle: "🌍 各大洲收集进度", badgesTitle: "🏅 已获得徽章",
+      removeSticker: "移除", clearAll: "清空全部", confirmClear: "要清空整个贴纸簿吗？"
     }
   },
   continents: {

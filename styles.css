@@ -238,6 +238,13 @@ button { font-family: inherit; cursor: pointer; }
   padding: 14px; text-align: center; color: var(--ink-soft); font-weight: 700; box-shadow: var(--shadow); }
 .pstat b { display: block; font-size: 1.8rem; color: var(--brand); }
 .stamp-badge { position: absolute; top: 12px; left: 12px; font-size: 1.1rem; filter: saturate(1.2); }
+.pass-tools { display: flex; justify-content: flex-end; margin: -6px 0 12px; }
+.pass-card { position: relative; }
+.pass-card .flag { display: none; }
+.card-del { position: absolute; top: 8px; right: 8px; z-index: 3; width: 26px; height: 26px;
+  border: 0; border-radius: 50%; background: rgba(255,107,107,.94); color: #fff; font-weight: 800;
+  font-size: .82rem; line-height: 1; display: grid; place-items: center; box-shadow: var(--shadow); }
+.card-del:hover { transform: scale(1.12); background: var(--brand); }
 
 /* ---------- Stamp button / hero actions ---------- */
 .hero-actions { margin-top: 14px; }

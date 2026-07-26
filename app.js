@@ -53,7 +53,16 @@
   function isVisited(id) { return getVisited().indexOf(id) >= 0; }
   function addVisited(id) {
     var v = getVisited();
-    if (v.indexOf(id) < 0) { v.push(id); localStorage.setItem("tfc_visited", JSON.stringify(v)); }
+    if (v.indexOf(id) < 0) { v.push(id); try { localStorage.setItem("tfc_visited", JSON.stringify(v)); } catch (e) {} }
+    updatePassportBadge();
+  }
+  function removeVisited(id) {
+    var v = getVisited().filter(function (x) { return x !== id; });
+    try { localStorage.setItem("tfc_visited", JSON.stringify(v)); } catch (e) {}
+    updatePassportBadge();
+  }
+  function clearVisited() {
+    try { localStorage.setItem("tfc_visited", "[]"); } catch (e) {}
     updatePassportBadge();
   }
   function updatePassportBadge() {
@@ -350,6 +359,7 @@
         '<div class="pstat"><b>' + Object.keys(countries).length + '</b>' + esc(t("collectedCountries")) + "</div>" +
         '<div class="pstat"><b>' + Object.keys(continents).length + '</b>' + esc(t("collectedContinents")) + "</div>" +
       "</div>";
+    if (cities.length) html += '<div class="pass-tools"><button class="btn ghost mini" id="clearAll">🗑️ ' + esc(t("clearAll")) + "</button></div>";
 
     // continent progress bars
     var contTotal = {}, contGot = {};
@@ -374,9 +384,19 @@
       badges.map(function (b) { return '<div class="badge-item"><span class="be">' + b.e + '</span><span class="bl">' + esc(b.l) + "</span></div>"; }).join("") + "</div></div>";
 
     if (!cities.length) html += '<div class="loading">📖 ' + esc(t("passportEmpty")) + "</div>";
-    else html += '<div class="block"><div class="grid">' + cities.map(cityCardHTML).join("") + "</div></div>";
+    else html += '<div class="block"><div class="grid">' + cities.map(function (c) {
+      return '<div class="pass-card">' + cityCardHTML(c) +
+        '<button class="card-del" data-id="' + esc(c.id) + '" aria-label="' + esc(t("removeSticker")) + '" title="' + esc(t("removeSticker")) + '">✕</button></div>';
+    }).join("") + "</div></div>";
     html += "</section>";
     app.innerHTML = html;
+    on("clearAll", "click", function () { if (window.confirm(t("confirmClear"))) { clearVisited(); viewPassport(); } });
+    document.querySelectorAll(".card-del").forEach(function (b) {
+      b.addEventListener("click", function (e) {
+        e.preventDefault(); e.stopPropagation();
+        removeVisited(b.getAttribute("data-id")); viewPassport();
+      });
+    });
     document.title = t("myPassport") + " — TourForChild"; setMeta(t("passportIntro")); window.scrollTo(0, 0);
   }
 
