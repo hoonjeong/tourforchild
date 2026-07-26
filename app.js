@@ -20,14 +20,14 @@
 
   /* ---------- language ---------- */
   function getInitialLang() {
-    var saved = localStorage.getItem("tfc_lang");
+    var saved; try { saved = localStorage.getItem("tfc_lang"); } catch (e) {}
     if (saved && LANGS.indexOf(saved) >= 0) return saved;
     var nav = (navigator.language || "en").slice(0, 2).toLowerCase();
     return LANGS.indexOf(nav) >= 0 ? nav : "en";
   }
   function setLang(l) {
     stopTTS();
-    lang = l; localStorage.setItem("tfc_lang", l);
+    lang = l; try { localStorage.setItem("tfc_lang", l); } catch (e) {}
     document.documentElement.lang = l;
     renderChrome(); route();
   }
@@ -128,6 +128,12 @@
     try { localStorage.setItem("tfc_theme", n); } catch (e) {}
     var b = document.getElementById("btnTheme"); if (b) b.textContent = n === "dark" ? "☀️" : "🌙";
     var m = document.querySelector('meta[name="theme-color"]'); if (m) m.content = n === "dark" ? "#15121f" : "#ff6b6b";
+  }
+  function applySavedTheme() {
+    var s; try { s = localStorage.getItem("tfc_theme"); } catch (e) {}
+    if (!s) s = (window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+    document.documentElement.setAttribute("data-theme", s);
+    var m = document.querySelector('meta[name="theme-color"]'); if (m) m.content = s === "dark" ? "#15121f" : "#ff6b6b";
   }
 
   /* ---------- toast + confetti ---------- */
@@ -677,6 +683,6 @@
   }
 
   window.addEventListener("hashchange", route);
-  function boot() { document.documentElement.lang = lang; renderChrome(); route(); initScrollTop(); }
+  function boot() { applySavedTheme(); document.documentElement.lang = lang; renderChrome(); route(); initScrollTop(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot); else boot();
 })();

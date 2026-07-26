@@ -1,16 +1,16 @@
 /* TourForChild — service worker (offline support).
-   Strategy: precache app shell; stale-while-revalidate for same-origin GET.
-   Cross-origin (Wikipedia images, Leaflet, map tiles) always go to network. */
-const CACHE = "tfc-v2";
+   Strategy: NETWORK-FIRST for same-origin GET so the newest code/content always
+   loads when online; falls back to cache when offline. Cross-origin requests
+   (Wikipedia images, Leaflet, map tiles) always go straight to the network.
+   Bump CACHE to force clients onto fresh assets. */
+const CACHE = "tfc-v3";
 const CORE = [
   "./", "./index.html", "./styles.css", "./app.js", "./i18n.js",
   "./data/index.js", "./data/themes.js", "./manifest.webmanifest", "./icon.svg"
 ];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(
-    caches.open(CACHE).then((c) => c.addAll(CORE)).then(() => self.skipWaiting())
-  );
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(CORE)).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (e) => {
@@ -28,17 +28,18 @@ self.addEventListener("fetch", (e) => {
   if (url.origin !== location.origin) return; // don't touch cross-origin
 
   e.respondWith(
-    caches.match(req).then((cached) => {
-      const network = fetch(req)
-        .then((res) => {
-          if (res && res.status === 200 && res.type === "basic") {
-            const copy = res.clone();
-            caches.open(CACHE).then((c) => c.put(req, copy));
-          }
-          return res;
-        })
-        .catch(() => cached);
-      return cached || network;
-    })
+    fetch(req)
+      .then((res) => {
+        if (res && res.status === 200 && res.type === "basic") {
+          const copy = res.clone();
+          caches.open(CACHE).then((c) => c.put(req, copy));
+        }
+        return res;
+      })
+      .catch(() =>
+        caches.match(req).then((cached) =>
+          cached || (req.mode === "navigate" ? caches.match("./index.html") : undefined)
+        )
+      )
   );
 });
