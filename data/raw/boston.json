@@ -1,0 +1,120 @@
+{
+  "id": "boston",
+  "country": "us",
+  "coords": [42.3601, -71.0589],
+  "name": { "ko": "보스턴", "en": "Boston", "ja": "ボストン", "zh": "波士顿" },
+  "tagline": {
+    "ko": "차 상자를 바다에 쏟아부은 그날 밤, 미국의 자유가 시작된 도시",
+    "en": "The city where America's fight for freedom began with tea in the harbor",
+    "ja": "紅茶を海に投げ捨てたその夜から始まった、アメリカ自由の街",
+    "zh": "把茶叶倒进大海的那个夜晚，开启了美国自由之路的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 아직 미국이라는 나라가 없던 시절, 보스턴은 멀리 영국의 다스림을 받는 분주한 항구 도시였어요. 배들은 차와 옷감, 설탕을 가득 싣고 드나들었죠. 그런데 영국 왕이 사람들이 사는 물건마다 자꾸 세금을 매기다가 심지어 차에도 세금을 매기자, 보스턴 사람들은 점점 화가 났어요. \"우리 목소리도 못 내면서 세금은 왜 내야 해?\"라는 말이 여기저기서 터져 나왔죠.",
+      "1773년 어느 추운 12월 밤, 보스턴 사람들 한 무리가 아메리카 원주민 모호크족처럼 꾸미고 항구에 정박한 배 세 척으로 몰래 노를 저어갔어요. 등불 아래 조용히 차 상자를 하나하나 끌어올려 도끼로 부순 뒤, 찻잎을 몽땅 바다에 쏟아부었죠. 다음 날 아침, 항구는 거대한 찻잔처럼 변해 있었고, 영국 왕은 불같이 화를 냈답니다.",
+      "이 대담한 '티 파티' 사건은 결국 전쟁의 불씨가 되었어요. 몇 년 뒤, 은세공업자 폴 리비어는 한밤중에 말을 타고 어두운 거리를 달리며 \"영국군이 온다!\"고 마을마다 외쳤어요. 그와 친구들은 교회 탑에 등불 두 개를 걸어, 적이 바다로 오는지 육지로 오는지 신호를 보냈답니다. 이 사건들이 이어져 결국 '미국 독립 전쟁'이 시작되었어요.",
+      "보스턴은 그날 밤을 절대 잊지 않았어요. 지금도 도시를 가로지르는 빨간 벽돌 길, '프리덤 트레일'을 따라 걸으면 그날의 반란자들이 지나간 길, 등불이 걸렸던 교회, 차를 쏟아부은 항구를 그대로 만날 수 있답니다. 옛날 배에 올라타 종을 울려보고, 가짜 차 상자를 직접 바다에 던져볼 수도 있어요!"
+    ],
+    "en": [
+      "Long, long ago, before the United States even existed, Boston was a busy port town ruled by faraway Britain. Ships came and went loaded with tea, cloth, and sugar. But British kings kept adding taxes on things people bought—even tea—and the people of Boston grew angrier every year. They had a saying: no taxation without representation, meaning they wouldn't pay taxes if they had no voice in the rules.",
+      "One cold December night in 1773, a group of Bostonians dressed up like Mohawk warriors and quietly rowed out to three tea ships docked in the harbor. By lantern light, they hauled up chest after chest of tea, smashed them open with hatchets, and dumped the leaves straight into the water. By morning, the harbor was practically a giant, floating cup of tea—and Britain was furious.",
+      "That bold 'tea party' helped spark a war. A couple of years later, a silversmith named Paul Revere galloped through the dark on his horse, warning towns that British soldiers were coming. He and his friends hung two lanterns in a church tower to signal whether the troops were arriving by sea or by land. Those events led straight into the American Revolution.",
+      "Boston never forgot that daring night. Today you can walk the Freedom Trail, a bright red-brick line through the city, and follow the very steps of the rebels, the lantern-lit church, and the harbor where the tea went splash. You can climb aboard old ships, ring a ship's bell, and toss a pretend tea chest into the water yourself!"
+    ],
+    "ja": [
+      "はるか昔、まだアメリカという国がなかったころ、ボストンは遠いイギリスに治められるにぎやかな港町でした。船は紅茶や布、砂糖を積んで出入りしていました。でもイギリスの王様が買い物のたびに次々と税金をかけ、とうとう紅茶にまで税金をかけると、ボストンの人々はどんどん怒りをつのらせました。「発言する権利もないのに、なぜ税金だけ払うのか」という声があちこちで上がったのです。",
+      "1773年の寒い12月のある夜、ボストンの人々がモホーク族の戦士のように変装し、港に停まる3隻の紅茶船へこっそりボートをこいで向かいました。ランタンの明かりの下、静かに紅茶の箱を一つずつ引き上げては斧で割り、中の茶葉をそのまま海へ流し込んだのです。翌朝、港はまるで巨大なティーカップのようになり、イギリス王はかんかんに怒りました。",
+      "この大胆な『ティーパーティー』事件は、やがて戦争の火種になりました。数年後、銀細工職人のポール・リビアは夜中に馬を走らせ、暗い道を駆けぬけながら「イギリス軍が来るぞ！」と村々に知らせました。彼と仲間たちは教会の塔にランタンを二つ掲げ、敵が海から来るか陸から来るかを合図したのです。こうした出来事が重なり、やがて『アメリカ独立戦争』が始まりました。",
+      "ボストンはあの夜のことを決して忘れませんでした。今も街を横切る赤いレンガの道『フリーダム・トレイル』をたどれば、反乱を起こした人々が歩いた道、ランタンがかかげられた教会、紅茶が投げ込まれた港をそのまま巡ることができます。昔の船に乗りこんで鐘を鳴らしたり、模型の紅茶の箱を自分で海に投げこんでみたりもできますよ！"
+    ],
+    "zh": [
+      "很久很久以前，还没有“美国”这个国家的时候，波士顿是一座由遥远的英国统治的繁忙港口城市。船只装满茶叶、布匹和糖，来来往往。可是英国国王不断给人们买的东西加税，甚至连茶叶也要交税，波士顿人越来越生气。“连话都不能说，为什么还要交税？”这样的怨言在城里到处响起。",
+      "1773年12月的一个寒冷夜晚，一群波士顿人打扮成莫霍克族战士的样子，悄悄划船靠近停在港口的三艘茶船。借着灯笼的微光，他们安静地把一箱箱茶叶吊起来，用斧头劈开，把茶叶统统倒进了海里。第二天早上，整个港口几乎变成了一大杯茶，而英国国王气得暴跳如雷。",
+      "这场大胆的“茶叶事件”后来点燃了战争的导火索。几年后，银匠保罗·里维尔在深夜骑马飞驰过黑暗的街道，向一个个村庄大喊：“英国军队来了！”他和朋友们在教堂塔楼上挂起两盏灯笼，用来传递信号——告诉大家敌人是从海上来还是从陆地来。这些事件接连发生，最终引发了“美国独立战争”。",
+      "波士顿从未忘记那个夜晚。今天，你可以沿着穿越全城的红砖小路——“自由之路”，走过当年反抗者走过的路，看到挂过灯笼的教堂，还有倒茶叶的那个港口。你还可以登上古船，敲响船钟，甚至亲手把一箱假茶叶扔进海里！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "티 파티가 있던 밤, 보스턴 사람들은 차 상자 342개, 약 4만 2천 킬로그램에 달하는 차를 바다에 쏟아부었어요.",
+      "모호크족처럼 변장했지만, 사실 마을 사람들은 누가 누군지 거의 다 알아챘대요.",
+      "폴 리비어의 '한밤의 질주' 때는 등불 신호를 썼어요. \"육지로 오면 하나, 바다로 오면 둘\" — 올드 노스 교회 탑에 등불을 걸었죠.",
+      "'올드 아이언사이즈'라는 별명의 군함 USS 컨스티튜션은 지금도 물에 떠 있는 세계에서 가장 오래된 현역 군함이에요.",
+      "보스턴 커먼은 1634년에 만들어진 미국에서 가장 오래된 공원이에요. 옛날엔 여기서 소를 풀어놓고 키웠대요!",
+      "1912년에 문을 연 펜웨이파크는 지금도 쓰이는 미국 프로야구 구장 중 가장 오래됐고, '그린 몬스터'라는 초록색 담장으로 유명해요."
+    ],
+    "en": [
+      "On the night of the Tea Party, Bostonians dumped 342 chests of tea — about 92,000 pounds — into the harbor.",
+      "They dressed up as Mohawk warriors to hide who they were, but honestly, most neighbors could still guess.",
+      "Paul Revere's 'midnight ride' used a lantern signal — 'one if by land, two if by sea' — hung high in Old North Church's steeple.",
+      "USS Constitution, nicknamed 'Old Ironsides,' is the world's oldest commissioned warship still afloat — and it still sails every year!",
+      "Boston Common, laid out in 1634, is the oldest public park in the United States. Long ago, people even grazed their cows there!",
+      "Fenway Park opened in 1912 and is the oldest major-league ballpark still in use, famous for its towering green wall, the 'Green Monster.'"
+    ],
+    "ja": [
+      "ティーパーティーの夜、ボストンの人々は紅茶の箱342個、約4万2000キロもの紅茶を港に投げ捨てました。",
+      "モホーク族に変装しましたが、実は近所の人にはほとんど正体がばれていたそうです。",
+      "ポール・リビアの『真夜中の疾走』では、ランタンの合図が使われました――『陸から来るなら一つ、海から来るなら二つ』。オールド・ノース教会の尖塔に掲げられたのです。",
+      "『オールド・アイアンサイズ』というニックネームを持つ軍艦USSコンスティチューションは、今も浮かぶ世界最古の現役軍艦。今でも毎年海に出るんですよ！",
+      "ボストン・コモンは1634年につくられた、アメリカで最も古い公共の公園。昔はここで牛を放し飼いにしていたそうです！",
+      "1912年にオープンしたフェンウェイ・パークは、今も使われている大リーグ球場の中で最も古く、『グリーン・モンスター』と呼ばれる緑の巨大な壁で有名です。"
+    ],
+    "zh": [
+      "茶叶事件那晚，波士顿人把342箱、约4.2万公斤的茶叶倒进了港口。",
+      "他们打扮成莫霍克族战士来隐藏身份，可其实邻居们大多还是认出了他们。",
+      "保罗·里维尔的“午夜飞骑”用灯笼作信号——“陆地来一盏，海上来两盏”——高高挂在老北教堂的尖塔上。",
+      "绰号“铁甲老忠号”的宪法号军舰，是世界上现存最古老的现役军舰，如今每年还会出海航行！",
+      "波士顿公园建于1634年，是美国最古老的公共公园。很久以前，人们甚至在这里放牛！",
+      "芬威球场建于1912年，是仍在使用的美国职棒大联盟球场中最古老的一座，以那面高大的绿色围墙“绿色怪物”闻名。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "한밤중에 어른들이 차 상자를 몰래 바다에 던지는 걸 봤다면, 너라면 어떻게 했을까?",
+    "en": "If you saw grown-ups sneaking crates of tea into the sea at midnight, what would you have done?",
+    "ja": "真夜中に大人たちがこっそり紅茶の箱を海に投げ捨てているのを見たら、きみならどうする？",
+    "zh": "如果你半夜看到大人们偷偷把一箱箱茶叶扔进海里，你会怎么做呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "보스턴 커먼", "en": "Boston Common", "ja": "ボストン・コモン", "zh": "波士顿公园" },
+      "blurb": {
+        "ko": "미국에서 가장 오래된 공공 공원이에요(1634년). 옛날엔 마을 사람들이 소를 풀어 키우고 함께 모이던 곳이었는데, 지금은 산책하고 백조 보트를 타는 즐거운 장소랍니다.",
+        "en": "America's oldest public park, laid out way back in 1634. Long ago, townsfolk grazed cattle and gathered here; today, families stroll and paddle swan boats right where colonists once did.",
+        "ja": "1634年につくられた、アメリカ最古の公共の公園。昔は人々がここで牛を放し飼いにしたり、集まったりしていましたが、今では散歩したり白鳥ボートに乗ったりできる楽しい場所です。",
+        "zh": "美国最古老的公共公园，建于1634年。很久以前，人们在这里放牛、聚会，如今则是散步、划天鹅船的好去处。"
+      },
+      "coords": [42.3554, -71.0655]
+    },
+    {
+      "name": { "ko": "올드 노스 교회", "en": "Old North Church", "ja": "オールド・ノース教会", "zh": "老北教堂" },
+      "blurb": {
+        "ko": "폴 리비어의 신호로 등불 두 개가 걸렸던 바로 그 교회예요. 탑 꼭대기를 올려다보면, 그날 밤 반짝였던 등불을 상상해볼 수 있어요.",
+        "en": "The very steeple where two lanterns once flashed Paul Revere's signal. Look up at the tower and imagine those tiny lights glowing in the dark that night.",
+        "ja": "ポール・リビアの合図として、ランタンが二つ掲げられたまさにその教会。塔の上を見上げれば、あの夜きらめいた小さな明かりを想像できます。",
+        "zh": "保罗·里维尔发出信号时，正是在这座教堂的尖塔上挂起了两盏灯笼。抬头看看塔顶，想象那晚闪烁的小小灯光吧。"
+      },
+      "coords": [42.3663, -71.0544]
+    },
+    {
+      "name": { "ko": "보스턴 티 파티 배 & 박물관", "en": "Boston Tea Party Ships & Museum", "ja": "ボストン・ティーパーティー・シップ&ミュージアム", "zh": "波士顿茶叶事件船与博物馆" },
+      "blurb": {
+        "ko": "그날 밤과 똑같이 만든 배가 정박해 있어요. 직접 갑판에 올라 가짜 차 상자를 바다로 던져보는 체험도 할 수 있답니다.",
+        "en": "Replica ships float right where the real tea went overboard. Climb aboard and toss a pretend tea chest into the harbor yourself!",
+        "ja": "あの夜と同じ姿の船が停まっています。甲板に上がって、模型の紅茶の箱を自分の手で海へ投げこむ体験もできますよ！",
+        "zh": "与当年一模一样的复制船停靠在这里。你可以登上甲板，亲手把一箱假茶叶扔进海里！"
+      },
+      "coords": [42.3517, -71.0512]
+    },
+    {
+      "name": { "ko": "USS 컨스티튜션", "en": "USS Constitution", "ja": "USSコンスティチューション", "zh": "宪法号军舰" },
+      "blurb": {
+        "ko": "'올드 아이언사이즈'라는 별명을 가진 세계에서 가장 오래된 현역 군함이에요. 대포알이 튕겨 나갈 만큼 단단한 나무 선체를 가졌다고 해요.",
+        "en": "The world's oldest floating commissioned warship, nicknamed 'Old Ironsides.' Its wooden hull was so tough that cannonballs were said to just bounce off!",
+        "ja": "『オールド・アイアンサイズ』の愛称を持つ、世界最古の現役の浮かぶ軍艦。木の船体があまりに丈夫で、大砲の弾もはね返したと言われています。",
+        "zh": "绰号“铁甲老忠号”，是世界上现存最古老的现役浮动军舰。据说它的木质船体坚固到连炮弹都会被弹开。"
+      },
+      "coords": [42.3739, -71.0567]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "interlaken",
+  "country": "ch",
+  "coords": [46.6863, 7.8632],
+  "name": { "ko": "인터라켄", "en": "Interlaken", "ja": "インターラーケン", "zh": "因特拉肯" },
+  "tagline": {
+    "ko": "색깔이 다른 두 호수 사이에 폭 낀 마을, 알프스로 향하는 관문",
+    "en": "The little town squeezed between two lakes of different colors, launchpad into the high Alps",
+    "ja": "色の違う二つの湖にはさまれた町、アルプスへの玄関口",
+    "zh": "夹在两个颜色不同的湖泊之间的小镇,通往阿尔卑斯山的门户"
+  },
+  "story": {
+    "ko": [
+      "옛날부터 두 개의 호수 사이에 샌드위치처럼 폭 끼어 있는 마을이 있어요. 한쪽 호수는 반짝이는 청록색이고, 다른 쪽은 짙은 우윳빛 초록색이죠. 이 마을 이름이 바로 '인터라켄'인데, 라틴어로 '호수 사이'라는 뜻이랍니다. 두 호수 모두 저 높은 알프스의 빙하가 녹아 흘러드는 물로 채워지는데, 빙하가 바위를 곱게 갈아 만든 '빙하 가루'가 물속을 떠다니면서 호수마다 다른 신비한 색을 만들어내요.",
+      "약 900년 전, 이곳엔 수도사들이 조용한 수도원을 세웠고, 그 후 오랫동안 인터라켄은 사람들에게 잘 알려지지 않은 작은 마을이었어요. 그런데 약 200년 전, 시인과 여행자들 — 그중엔 유명한 시인 바이런도 있었죠 — 이 이곳을 찾아와 웅장한 산봉우리에 반해 시와 글을 남겼답니다. 소문이 퍼지면서 인터라켄은 순식간에 사람들이 알프스를 보러 꼭 들르는 곳이 되었어요.",
+      "마을 한가운데엔 '회에마테'라는 커다란 초록 잔디밭이 있는데, 그냥 소풍 장소가 아니에요. 매일 알록달록한 패러글라이더들이 산에서 마치 커다란 나비처럼 두둥실 내려와 이 잔디밭에 사뿐히 착륙한답니다. 하루에도 수십 번씩요! 인터라켄에서는 산을 뚫고 올라가는 기차를 타고 유럽에서 가장 높은 기차역인 '융프라우요흐'까지 갈 수도 있어요. 사람들은 이곳을 '유럽의 지붕'이라고 부른답니다.",
+      "근처의 또 다른 산 속에는 '트뤼멜바흐 폭포'가 숨어 있어요. 빙하가 녹은 물이 만든 열 개의 폭포가 산 안쪽 동굴과 통로를 우르릉 울리며 흘러내리는데, 사람들이 직접 걸어 들어가 볼 수 있답니다. 반짝이는 호수, 하늘을 나는 패러글라이더, 산속에 숨은 폭포까지 — 인터라켄은 두 호수 사이, 거대한 봉우리들에 둘러싸인 자연의 놀이터 같은 곳이에요."
+    ],
+    "en": [
+      "Picture a town squeezed like a sandwich between two lakes — one lake glowing turquoise, the other a deep, milky blue-green. That town is Interlaken, and its very name means 'between the lakes' in Latin. Both lakes are fed by melting glaciers high in the Alps, and tiny bits of ground-up rock called 'glacier flour' float in the water, painting each lake its own magical color.",
+      "Almost 900 years ago, monks built a quiet abbey right here, and for a long time Interlaken was a peaceful little village most people had never heard of. Then, about 200 years ago, poets and travelers — including the famous poet Lord Byron — visited, fell in love with the towering mountain views, and wrote about them. Word spread, and Interlaken suddenly became the place everyone wanted to see the Alps from.",
+      "Right in the middle of town there's a big green meadow called the Höhematte — and it's not just for picnics. Every day, colorful paragliders drift down from the mountains like giant butterflies and land softly on the grass, dozens of times a day! From Interlaken you can also hop on a train that climbs and tunnels straight through a mountain to Jungfraujoch, the highest railway station in all of Europe, nicknamed the 'Top of Europe.'",
+      "Hidden inside another mountain nearby are the Trümmelbach Falls — ten thundering waterfalls made of glacier meltwater, roaring through tunnels and caves you can actually walk inside. Between glowing lakes, floating paragliders, and waterfalls hiding inside mountains, Interlaken feels like nature's own playground, tucked snugly between two lakes and surrounded by giant peaks."
+    ],
+    "ja": [
+      "二つの湖にサンドイッチのようにぎゅっとはさまれた町があります。片方の湖はきらめくターコイズブルー、もう片方は深いミルク色がかった緑。その町の名前が『インターラーケン』で、ラテン語で『湖と湖のあいだ』という意味なんです。どちらの湖も、はるか高いアルプスの氷河がとけた水で満たされていて、氷河が岩をすりつぶしてできた『氷河の粉』が水の中をただよい、それぞれの湖に不思議な色をつけているんですよ。",
+      "今から900年ほど前、ここには修道士たちが静かな修道院を建て、その後長いあいだインターラーケンはあまり知られていない小さな村でした。ところが約200年前、詩人や旅行者たち——有名な詩人バイロンもその一人——がこの町を訪れ、そびえ立つ山々にすっかり心をうばわれ、詩や文章に書き残しました。うわさが広まり、インターラーケンはあっという間に、みんながアルプスを見に立ち寄る町になったのです。",
+      "町のまん中には『ヘーヘマッテ』という大きな緑の広場があります。ただのピクニック場ではありません。毎日、カラフルなパラグライダーたちが山から大きなチョウのようにふわりと舞い降り、この芝生にそっと着地するのです。一日に何十回も!インターラーケンからは、山をトンネルでくり抜いて登る列車に乗って、ヨーロッパでいちばん高い駅『ユングフラウヨッホ』まで行くこともできます。人々はここを『ヨーロッパの屋根』と呼んでいます。",
+      "近くの別の山の中には『トゥルムメルバッハの滝』が隠れています。氷河がとけた水がつくる十の滝が、山の内部の洞くつやトンネルをゴウゴウとひびかせながら流れ落ちていて、なんとその中を歩いて見に行けるのです。きらめく湖、空を舞うパラグライダー、山の中にひそむ滝——インターラーケンは二つの湖にはさまれ、巨大な山々に囲まれた、まるで自然の遊び場のような場所なんですね。"
+    ],
+    "zh": [
+      "有一个小镇像三明治一样被夹在两个湖之间。一个湖闪着绿松石般的光泽,另一个则是浓浓的乳绿色。这个小镇的名字叫“因特拉肯”,在拉丁语里就是“湖与湖之间”的意思。两个湖的水都来自阿尔卑斯山高处融化的冰川,冰川磨碎岩石形成的“冰川粉”漂浮在水中,让每个湖都染上了自己独特的神奇颜色。",
+      "大约900年前,修士们在这里建起了一座安静的修道院,此后很长一段时间,因特拉肯只是一个鲜为人知的小村庄。可大约200年前,诗人和旅行者们——其中就有著名诗人拜伦——来到这里,被高耸的山峰深深打动,写下了赞美它的诗篇文章。消息很快传开,因特拉肯一下子成了人人都想来眺望阿尔卑斯山的地方。",
+      "小镇正中央有一大片绿色草地,叫“霍厄马特”,可它不只是野餐的地方。每天,五颜六色的滑翔伞就像一只只大蝴蝶,从山上缓缓飘下来,轻轻降落在这片草地上——一天要降落好几十次呢!从因特拉肯出发,你还能坐上一列穿山打隧道而上的火车,前往欧洲海拔最高的火车站“少女峰站”。人们把那里称为“欧洲之巅”。",
+      "附近另一座山里,还藏着“特吕梅尔巴赫瀑布”。十道由冰川融水汇成的瀑布,在山体内部的洞穴和通道里轰隆作响地奔流而下,人们竟然可以走进去近距离观看。闪耀的湖水、空中飘荡的滑翔伞、藏在山里的瀑布——因特拉肯就像大自然的游乐场,静静地卧在两湖之间,被巨大的群峰环抱着。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'인터라켄'은 라틴어로 '호수 사이'라는 뜻이에요. 정말로 툰 호수와 브리엔츠 호수, 두 호수 사이에 마을이 쏙 들어앉아 있답니다.",
+      "바로 옆에 붙어 있는 두 호수인데 색깔이 서로 다른 이유는, 빙하가 바위를 곱게 갈아 만든 '빙하 가루'가 녹은 물속을 떠다니기 때문이에요.",
+      "마을 한가운데엔 '회에마테'라는 커다란 잔디밭이 있는데, 일 년 내내 거의 매일 알록달록한 패러글라이더가 착륙해요. 하루에 100번 넘게 내려올 때도 있대요!",
+      "융프라우요흐로 가는 기차는 해발 3,454미터까지 올라가는데, 유럽에서 가장 높은 기차역이에요. 사람들은 이곳을 '유럽의 지붕'이라 부른답니다.",
+      "이 철도를 만들려고 사람들은 무려 16년 동안 단단한 바위산에 굴을 뚫었고, 1912년에야 완성됐어요.",
+      "근처 산속에 숨은 '트뤼멜바흐 폭포'는 알프스에서 유일하게 안으로 걸어 들어가 볼 수 있는 빙하 폭포예요. 또 다른 산봉우리 '실트호른'의 회전 레스토랑은 영화 007 시리즈 악당의 은신처로 나온 적도 있답니다."
+    ],
+    "en": [
+      "'Interlaken' is Latin for 'between the lakes' — the town really does sit right between Lake Thun and Lake Brienz.",
+      "The two lakes are different colors even though they're right next to each other, because glaciers grind rock into a fine powder called 'glacier flour' that floats in the meltwater.",
+      "Right in the center of town is a big meadow called the Höhematte, where colorful paragliders land almost every day of the year — sometimes over 100 times in a single day!",
+      "The train to Jungfraujoch climbs to 3,454 meters, making it the highest railway station in Europe — people nicknamed it the 'Top of Europe.'",
+      "Workers spent 16 years digging a tunnel through solid rock to build that railway, finally finishing in 1912.",
+      "Trümmelbach Falls, hidden inside a nearby mountain, is the only glacier waterfall in the Alps you can walk right inside to see — and another peak, the Schilthorn, has a revolving restaurant that once played a villain's hideout in a James Bond movie."
+    ],
+    "ja": [
+      "「インターラーケン」はラテン語で「湖と湖のあいだ」という意味。実際にトゥーン湖とブリエンツ湖、二つの湖のあいだにちょこんと町があるんです。",
+      "すぐ隣どうしなのに色がちがう二つの湖。それは、氷河が岩をすりつぶしてできた「氷河の粉」がとけた水の中をただよっているからなんです。",
+      "町の真ん中にある「ヘーヘマッテ」という大きな芝生広場には、一年じゅうほぼ毎日カラフルなパラグライダーが着地します。多い日には100回以上も舞い降りるんですよ!",
+      "ユングフラウヨッホへ行く列車は標高3,454メートルまで登ります。ヨーロッパでいちばん高い駅で、人々は「ヨーロッパの屋根」と呼んでいます。",
+      "この鉄道を作るために、人々はなんと16年もかけて硬い岩山にトンネルを掘り、1912年にようやく完成させました。",
+      "近くの山の中に隠れた「トゥルムメルバッハの滝」は、アルプスで唯一、内部を歩いて見学できる氷河の滝です。また別の山「シルトホルン」の回転レストランは、007映画で悪役のアジトとして登場したこともあるんですよ。"
+    ],
+    "zh": [
+      "“因特拉肯”在拉丁语里是“湖与湖之间”的意思。小镇真的就稳稳地坐落在图恩湖和布里恩茨湖这两个湖之间。",
+      "明明紧紧挨在一起,两个湖的颜色却不一样,这是因为冰川把岩石磨成的“冰川粉”漂浮在融化的湖水中。",
+      "小镇正中央有一片叫“霍厄马特”的大草坪,几乎一年到头每天都有五颜六色的滑翔伞降落在这里,忙的时候一天能降落一百多次!",
+      "开往少女峰站的火车能爬升到海拔3,454米,是欧洲最高的火车站,人们把它称为“欧洲之巅”。",
+      "为了修建这条铁路,工人们足足花了16年在坚硬的岩山里凿隧道,直到1912年才完工。",
+      "藏在附近山里的“特吕梅尔巴赫瀑布”,是阿尔卑斯山中唯一可以走进内部近距离观看的冰川瀑布。而附近雪朗峰上的旋转餐厅,还曾出现在007电影里,当过反派的巢穴呢。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "바로 옆에 붙어 있는 두 호수인데 색깔이 다르대. 어떻게 그럴 수 있을까?",
+    "en": "Two lakes sit right next to each other, but they're not the same color — how can that be?",
+    "ja": "すぐ隣り合っているのに、二つの湖の色がちがうんだって。どうしてだと思う?",
+    "zh": "两个湖紧紧挨在一起,颜色却不一样,这是怎么回事呢?"
+  },
+  "places": [
+    {
+      "name": { "ko": "회에마테 (패러글라이딩 착륙장)", "en": "Höhematte Meadow", "ja": "ヘーヘマッテ", "zh": "霍厄马特草坪" },
+      "blurb": {
+        "ko": "마을 한가운데 있는 넓은 초록 잔디밭이에요. 하늘을 올려다보면 알록달록한 패러글라이더들이 산에서 두둥실 내려와 이곳에 사뿐히 착륙하는 모습을 볼 수 있어요. 벤치에 앉아 하늘만 바라봐도 시간 가는 줄 모른답니다.",
+        "en": "A wide green meadow right in the middle of town. Look up and you might see colorful paragliders drifting down from the mountains to land softly on the grass. You could sit on a bench and watch the sky all day.",
+        "ja": "町のまん中にある広い緑の芝生広場。空を見上げると、カラフルなパラグライダーが山からふわりと舞い降りて、この芝生にそっと着地するようすが見られます。ベンチに座って空を眺めているだけで時間を忘れてしまいますよ。",
+        "zh": "小镇正中央的一大片绿色草坪。抬头望去,常常能看到五颜六色的滑翔伞从山上飘然而下,轻轻降落在这片草地上。坐在长椅上望着天空,时间一下子就过去了。"
+      },
+      "coords": [46.6857, 7.8677]
+    },
+    {
+      "name": { "ko": "융프라우요흐 (유럽의 지붕)", "en": "Jungfraujoch – Top of Europe", "ja": "ユングフラウヨッホ", "zh": "少女峰站(欧洲之巅)" },
+      "blurb": {
+        "ko": "산을 뚫고 올라가는 특별한 기차를 타면 도착하는, 유럽에서 가장 높은 기차역이에요. 창밖으로 얼음과 눈으로 덮인 알프스 봉우리들이 끝없이 펼쳐지고, 역 안에는 반짝이는 얼음 동굴도 있답니다.",
+        "en": "Reached by a special train that climbs and tunnels through the mountain, this is the highest railway station in all of Europe. Icy, snow-covered Alpine peaks stretch out forever outside the window, and there's even a glittering ice cave inside the station.",
+        "ja": "山をトンネルでくり抜いて登る特別な列車で到着する、ヨーロッパ一高い鉄道駅です。窓の外には雪と氷におおわれたアルプスの山々が果てしなく広がり、駅の中にはきらきら光る氷の洞くつもあります。",
+        "zh": "乘坐那列穿山凿洞而上的特别火车,就能抵达这座欧洲海拔最高的火车站。车窗外是望不到尽头的皑皑雪峰,车站里还藏着一座闪闪发光的冰洞。"
+      },
+      "coords": [46.5475, 7.9805]
+    },
+    {
+      "name": { "ko": "트뤼멜바흐 폭포", "en": "Trümmelbach Falls", "ja": "トゥルムメルバッハの滝", "zh": "特吕梅尔巴赫瀑布" },
+      "blurb": {
+        "ko": "산 안쪽 동굴 속에 숨어 있는 열 개의 우렁찬 폭포예요. 빙하가 녹은 물이 좁은 통로를 세차게 흘러내리는 걸 엘리베이터와 계단을 타고 바로 코앞에서 볼 수 있답니다. 물소리가 어찌나 큰지 귀가 다 울릴 정도예요!",
+        "en": "Ten roaring waterfalls hidden inside a mountain. An elevator and stairways take you right up close to glacier meltwater crashing through narrow tunnels — the roar is so loud it rumbles in your ears!",
+        "ja": "山の内部にかくれた、十本もの轟音の滝です。エレベーターと階段を使って、氷河のとけた水が狭いトンネルをどうどうと流れ落ちるすぐそばまで見に行けます。水の音があまりに大きくて、耳がビリビリするほど!",
+        "zh": "藏在山体内部的十道轰鸣瀑布。乘电梯、走台阶,就能近距离看到冰川融水在狭窄的岩缝中咆哮而下,水声大得能让耳朵嗡嗡作响!"
+      },
+      "coords": [46.5747, 7.9033]
+    },
+    {
+      "name": { "ko": "실트호른 (피츠 글로리아)", "en": "Schilthorn (Piz Gloria)", "ja": "シルトホルン(ピッツ・グロリア)", "zh": "雪朗峰(皮兹格洛丽亚)" },
+      "blurb": {
+        "ko": "케이블카를 타고 오르는 뾰족한 봉우리 꼭대기예요. 빙글빙글 돌아가는 전망 레스토랑 '피츠 글로리아'가 있는데, 007 영화에 악당의 비밀기지로 나왔던 곳이랍니다. 날씨가 맑으면 아이거, 묑크, 융프라우 세 봉우리를 한눈에 볼 수 있어요.",
+        "en": "A jagged peak you reach by cable car, home to the revolving restaurant Piz Gloria — once used as a villain's secret base in a James Bond movie. On a clear day you can see three famous peaks, the Eiger, Mönch, and Jungfrau, all at once.",
+        "ja": "ケーブルカーで登るとがった山頂。ぐるぐる回る展望レストラン『ピッツ・グロリア』があり、007映画で悪役の秘密基地として登場したこともあります。晴れた日には、アイガー・メンヒ・ユングフラウという三つの有名な山を一度に見わたせます。",
+        "zh": "乘缆车登上的尖峭山顶,坐落着旋转观景餐厅“皮兹格洛丽亚”——曾在007电影中充当反派的秘密基地。天气晴朗时,还能一眼望见艾格峰、僧侣峰和少女峰三座名峰。"
+      },
+      "coords": [46.5576, 7.8354]
+    }
+  ]
+}

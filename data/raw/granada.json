@@ -1,0 +1,120 @@
+{
+  "id": "granada",
+  "country": "es",
+  "coords": [37.1773, -3.5986],
+  "name": { "ko": "그라나다", "en": "Granada", "ja": "グラナダ", "zh": "格拉纳达" },
+  "tagline": {
+    "ko": "왕의 마지막 한숨이 전설이 된, 스페인의 빛나는 붉은 궁전",
+    "en": "Spain's shimmering red palace, where a king's last sigh became legend",
+    "ja": "王の最後のため息が伝説になった、スペインの輝く赤い宮殿",
+    "zh": "国王最后一声叹息化作传说的西班牙红色宫殿"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 스페인 남쪽 지역은 무슬림 왕들이 다스렸어요. 그들의 마지막 왕국의 수도가 바로 그라나다였답니다. 눈 덮인 시에라네바다 산맥 아래 자리 잡은 이 도시, 언덕 위에는 '알함브라'라는 눈부신 붉은 성채 겸 궁전이 세워졌어요. 알함브라는 '붉은 것'이라는 뜻인데, 해가 질 때면 성벽이 정말로 불처럼 붉게 빛나기 때문이랍니다.",
+      "알함브라 안으로 들어가면, 레이스처럼 섬세한 돌 조각과 퍼즐처럼 반복되는 타일 무늬가 가득했어요. 그리고 더 신기한 건 물이었죠! 마당마다 분수가 졸졸 흐르고 연못은 하늘을 비췄는데, 펌프도 전기도 없이 그렇게 됐대요. 700년도 더 전에, 기술자들이 산속 시냇물을 숨겨진 돌 수로를 통해 오직 중력만으로 끌어왔거든요.",
+      "하지만 1492년, 긴 전쟁 끝에 마지막 무슬림 왕 보압딜은 알함브라의 열쇠를 스페인의 새 통치자들에게 넘기고 영영 떠나야 했어요. 전설에 따르면, 그가 말을 타고 떠나던 중 산길 고개에서 멈춰 서서 아름다운 궁전을 마지막으로 돌아보며 깊이 한숨을 쉬었대요. 그래서 그 자리는 지금도 '무어인의 마지막 한숨'이라고 불려요. 바로 그해, 콜럼버스라는 뱃사람이 아메리카를 향해 바다를 건너 떠났답니다.",
+      "오늘날에도 알함브라는 언덕 위에 그대로 서 있고, 분수에는 여전히 산속 물이 졸졸 흐르고, 조각된 성벽은 해 질 녘이면 붉게 빛나요. 그 아래로는 오래된 동네 알바이신이 좁은 골목길을 따라 구불구불 이어지는데, 골목 사이로 고개를 들면 계곡 너머로 빛나는 궁전 전체가 한눈에 보인답니다. 그리고 그라나다에 이름을 준 과일, 석류는 지금도 이 도시의 자랑스러운 상징이에요. 맨홀 뚜껑에도, 기념물에도, 그라나다의 깃발에도 석류가 그려져 있답니다."
+    ],
+    "en": [
+      "Long, long ago, southern Spain was ruled by Muslim kings, and the capital of their last great kingdom was Granada. Tucked at the foot of the snow-capped Sierra Nevada mountains, the city built a dazzling red fortress-palace on a hilltop called the Alhambra. Alhambra means 'the red one'—because when the sun sets, its walls really do glow like fire.",
+      "Step inside, and the Alhambra is full of stone carvings so delicate they look like lace, and tile patterns that repeat like puzzles. But the most amazing part was water. Fountains bubbled in every courtyard and pools mirrored the sky—without a single pump or drop of electricity. Over 700 years ago, engineers channeled mountain streams all the way down through hidden stone channels, using nothing but gravity.",
+      "But in 1492, after a long war, the last Muslim king, named Boabdil, had to hand the keys of the Alhambra to Spain's new rulers and leave forever. Legend says that as he rode away, he stopped at a mountain pass, turned for one last look at his beautiful palace, and sighed so heavily that the spot is still called 'The Moor's Last Sigh.' That very same year, a sailor named Christopher Columbus set off across the ocean toward the Americas.",
+      "Today the Alhambra still stands on its hill, its fountains still bubble with mountain water, and its carved walls still glow red at sunset. Below it, the old neighborhood of Albaicín winds through narrow lanes, and if you look up between the houses, you can see the whole palace glowing across the valley. And the fruit that gave Granada its name—the pomegranate—is still the city's proud symbol, found on manhole covers, monuments, and Granada's own flag."
+    ],
+    "ja": [
+      "はるか昔、スペイン南部はイスラム教徒の王たちが治めていました。その最後の王国の都が、まさにグラナダでした。雪をかぶったシエラネバダ山脈のふもとに広がるこの街の丘の上には、『アルハンブラ』というまばゆい赤い城塞兼宮殿が建てられました。アルハンブラは『赤いもの』という意味で、夕日が沈むころ城壁が本当に炎のように赤く輝くからなんです。",
+      "アルハンブラの中に入ると、レースのように繊細な石の彫刻や、パズルのようにくり返すタイル模様がいっぱい。そして何より不思議だったのは水でした！中庭ごとに噴水がさらさらと流れ、池は空を映していましたが、ポンプも電気も使っていません。700年以上前、技術者たちが山の小川の水を、隠された石の水路を通じて、重力だけで引いてきたのです。",
+      "けれども1492年、長い戦いの末、最後のイスラム教徒の王ボアブディルは、アルハンブラの鍵をスペインの新しい支配者たちに渡し、永遠に去らなければなりませんでした。伝説によれば、彼が馬で去っていく途中、山の峠で立ち止まり、美しい宮殿を最後にふり返って、深いため息をついたそうです。だから今もその場所は『ムーア人最後のため息』と呼ばれています。ちょうどその年、コロンブスという船乗りがアメリカを目指して海を渡ったのでした。",
+      "今日でもアルハンブラは丘の上に立ち続け、噴水には今も山の水がさらさらと流れ、彫刻された城壁は夕日に赤く輝きます。その下には古い街アルバイシンが細い路地をくねくねと続き、路地の間から見上げると、谷の向こうに輝く宮殿全体を一望できます。そして、グラナダに名前をあたえた果物、ザクロは、今もこの街の誇り高いシンボル。マンホールのふたにも、記念碑にも、グラナダの旗にもザクロがえがかれています。"
+    ],
+    "zh": [
+      "很久很久以前，西班牙南部由穆斯林国王统治，他们最后一个王国的都城，正是格拉纳达。这座城市坐落在白雪覆盖的内华达山脉脚下，山丘上矗立着一座耀眼的红色城堡宫殿，叫做“阿尔罕布拉”。阿尔罕布拉的意思是“红色的”，因为夕阳西下时，城墙真的会像火焰一样泛红发光。",
+      "走进阿尔罕布拉，里面到处是像花边一样精致的石雕，还有像拼图一样不断重复的瓷砖图案。更神奇的是水！每个庭院里都有潺潺的喷泉，水池倒映着天空，而这一切竟然没有用任何水泵和电力。700多年前，工程师们就通过隐藏在地下的石头水道，仅靠重力，把山间溪水引到了这里。",
+      "但是到了1492年，经过一场漫长的战争，最后一位穆斯林国王博阿布迪尔不得不把阿尔罕布拉的钥匙交给西班牙的新统治者，永远离开这里。传说他骑马离去时，在山口停下脚步，回头最后望了一眼这座美丽的宫殿，重重地叹了一口气。所以那个地方至今仍被称为“摩尔人最后的叹息”。也就在同一年，一位叫哥伦布的水手扬帆出海，驶向了美洲。",
+      "直到今天，阿尔罕布拉依然矗立在山丘上，喷泉里依然流淌着山间的水，雕刻的城墙在夕阳下依然泛红发光。它下方是古老的阿尔拜辛区，狭窄的小巷蜿蜒曲折，抬头望去，就能看到山谷对面整座宫殿闪闪发光。而那颗给格拉纳达命名的水果——石榴，至今仍是这座城市骄傲的象征，井盖上、纪念碑上，甚至格拉纳达的旗帜上，都能看到石榴的图案。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'알함브라'는 아랍어로 '붉은 것'이라는 뜻이에요. 해질녘이면 성벽이 정말 붉게 빛난답니다.",
+      "분수마다 물이 콸콸 흐르는데, 펌프도 전기도 없이 오직 중력만으로! 산속 물을 끌어온 숨겨진 돌 수로가 700년도 더 됐어요.",
+      "'사자의 정원' 분수에는 열두 마리 돌사자가 있는데, 옛날엔 시간마다 다른 사자 입에서 물이 나와 마치 거대한 물시계 같았대요.",
+      "'그라나다'는 스페인어로 '석류'라는 뜻이에요. 반으로 갈라진 석류가 지금도 이 도시의 상징이랍니다.",
+      "전설에 따르면 마지막 무슬림 왕이 알함브라를 돌아보며 너무 슬프게 한숨을 쉬어서, 그 산길은 지금도 '무어인의 마지막 한숨'이라고 불려요.",
+      "알함브라의 주인이 바뀐 바로 그해(1492년), 콜럼버스는 아메리카를 향해 바다를 건너 떠났답니다."
+    ],
+    "en": [
+      "'Alhambra' means 'the red one' in Arabic—at sunset its walls really do glow red.",
+      "Every fountain flows nonstop, with no pumps or electricity at all—just gravity, carrying mountain water through hidden stone channels over 700 years old.",
+      "The Court of the Lions fountain has twelve stone lions, and long ago water was said to flow from a different lion's mouth each hour, like a giant water clock.",
+      "'Granada' means 'pomegranate' in Spanish, and a pomegranate split in half is still the city's symbol today.",
+      "Legend says the last Muslim king sighed so sadly looking back at the Alhambra that the mountain pass is still called 'The Moor's Last Sigh.'",
+      "The very same year the Alhambra changed hands (1492), Columbus set sail across the ocean toward the Americas."
+    ],
+    "ja": [
+      "「アルハンブラ」はアラビア語で「赤いもの」という意味。夕暮れには城壁が本当に赤く輝きます。",
+      "どの噴水も水がこんこんと流れますが、ポンプも電気も使っていません！山の水を引いた隠された石の水路は700年以上も前のものです。",
+      "「獅子の中庭」の噴水には12頭の石のライオンがいて、昔は1時間ごとに違うライオンの口から水が出て、まるで巨大な水時計のようだったそうです。",
+      "「グラナダ」はスペイン語で「ザクロ」という意味。半分に割れたザクロは、今もこの街のシンボルです。",
+      "伝説では、最後のイスラム教徒の王がアルハンブラをふり返ってあまりに悲しくため息をついたので、その山道は今も『ムーア人最後のため息』と呼ばれています。",
+      "アルハンブラの持ち主が変わったその年（1492年）、コロンブスはアメリカを目指して海を渡りました。"
+    ],
+    "zh": [
+      "“阿尔罕布拉”在阿拉伯语中意为“红色的”，黄昏时城墙真的会泛红发光。",
+      "每个喷泉都水流不断，却完全没用水泵和电力！引来山间水源的隐藏石水道已有700多年历史。",
+      "“狮子庭院”的喷泉上有十二只石狮子，据说以前每小时会换一只狮子的嘴里出水，就像一座巨大的水钟。",
+      "“格拉纳达”在西班牙语中意为“石榴”，一颗切开的石榴至今仍是这座城市的象征。",
+      "传说最后一位穆斯林国王回望阿尔罕布拉时叹息得太伤心，那个山口至今仍被称为“摩尔人最后的叹息”。",
+      "就在阿尔罕布拉易主的同一年（1492年），哥伦布扬帆出海，驶向了美洲。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "분수가 곳곳에 있는데 펌프도 전기도 없대. 물은 대체 어떻게 온 걸까?",
+    "en": "A palace with fountains everywhere but no pumps or electricity—how did the water get there?",
+    "ja": "噴水がいたるところにあるのに、ポンプも電気もないんだって。水はいったいどうやって来たのかな？",
+    "zh": "到处都是喷泉，却没有水泵也没有电——水到底是怎么来的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "알함브라 궁전", "en": "The Alhambra", "ja": "アルハンブラ宮殿", "zh": "阿尔罕布拉宫" },
+      "blurb": {
+        "ko": "언덕 위 이 붉은 성채 겸 궁전은 그라나다 마지막 무슬림 왕들의 집이었어요. 레이스처럼 섬세한 조각으로 뒤덮인 방들을 거닐다 보면, 왜 세상에서 가장 아름다운 궁전 중 하나라고 불리는지 알게 될 거예요.",
+        "en": "This red fortress-palace on the hill was home to Granada's last Muslim kings. Wander through halls covered in lace-like carvings, and you'll understand why people call it one of the most beautiful palaces on Earth.",
+        "ja": "丘の上に立つこの赤い城塞兼宮殿は、グラナダ最後のイスラム教徒の王たちの住まいでした。レースのように繊細な彫刻で埋めつくされた部屋を歩けば、なぜ世界一美しい宮殿の一つと呼ばれるのか分かるはずです。",
+        "zh": "这座山丘上的红色城堡宫殿，曾是格拉纳达最后几位穆斯林国王的家。漫步在布满花边般精美雕刻的房间里，你就会明白为什么它被称为世界上最美的宫殿之一。"
+      },
+      "coords": [37.1760, -3.5883]
+    },
+    {
+      "name": { "ko": "사자의 정원", "en": "Court of the Lions", "ja": "獅子の中庭", "zh": "狮子庭院" },
+      "blurb": {
+        "ko": "알함브라에서 가장 유명한 이 안뜰에서는 돌사자 열두 마리가 분수를 떠받치고 있어요. 옛날엔 시간마다 다른 사자 입에서 물이 흘러나와, 분수가 거대한 물시계 역할을 했다는 전설이 있답니다.",
+        "en": "Twelve stone lions hold up a fountain in the Alhambra's most famous courtyard. Legend says water once flowed from a different lion's mouth each hour, turning the fountain into a giant water clock.",
+        "ja": "アルハンブラで最も有名なこの中庭では、12頭の石のライオンが噴水を支えています。昔は1時間ごとに違うライオンの口から水が流れ、噴水がまるで巨大な水時計だったという伝説があります。",
+        "zh": "在阿尔罕布拉最著名的这座庭院里，十二只石狮子撑起一座喷泉。传说以前每小时会换一只狮子的嘴里流水，喷泉就像一座巨大的水钟。"
+      },
+      "coords": [37.1761, -3.5881]
+    },
+    {
+      "name": { "ko": "헤네랄리페 정원", "en": "Generalife Gardens", "ja": "ヘネラリフェ庭園", "zh": "赫内拉利费花园" },
+      "blurb": {
+        "ko": "나스르 왕들이 여름을 보내던 별궁이에요. 분수와 장미, 그늘진 정원으로 가득하죠. 이곳에서도 물은 돌 수로를 따라 콸콸 흘러가며, 700년 전과 똑같이 첨벙첨벙 노래해요.",
+        "en": "This was the Nasrid kings' summer escape, full of fountains, roses, and shaded courtyards. Water still races through stone channels here, splashing and singing just like it did 700 years ago.",
+        "ja": "ナスル朝の王たちが夏を過ごした離宮です。噴水やバラ、木陰の中庭でいっぱい。ここでも水は石の水路を勢いよく流れ、700年前と同じようにはねて歌います。",
+        "zh": "这里曾是纳斯里王朝国王们的避暑离宫，满是喷泉、玫瑰和树荫庭院。水依然沿着石头水道欢快流淌，如700年前一样飞溅歌唱。"
+      },
+      "coords": [37.1789, -3.5859]
+    },
+    {
+      "name": { "ko": "알바이신 & 산니콜라스 전망대", "en": "Albaicín & Mirador de San Nicolás", "ja": "アルバイシン＆サン・ニコラス展望台", "zh": "阿尔拜辛区与圣尼古拉斯观景台" },
+      "blurb": {
+        "ko": "좁은 골목길과 하얀 집들이 미로처럼 이어진 이 오래된 동네는 알함브라보다도 먼저 생겼어요. 해질 무렵 전망대에 오르면, 계곡 건너편의 붉은 궁전 전체가 전설 속 그 모습 그대로 빛나는 걸 볼 수 있답니다.",
+        "en": "This maze-like old neighborhood of narrow lanes and whitewashed houses was here even before the Alhambra. Climb up to its lookout point at sunset, and the whole red palace glows across the valley just like in the legend.",
+        "ja": "細い路地と白い家々が迷路のように続くこの古い街は、アルハンブラよりも前からありました。夕暮れに展望台へ登れば、谷の向こうで赤い宮殿全体が伝説そのままに輝く姿を見られます。",
+        "zh": "这座迷宫般的老城区，狭窄小巷与白墙房屋纵横交错，甚至比阿尔罕布拉宫建成还早。黄昏时登上观景台，就能看到山谷对面整座红色宫殿如传说中一样闪闪发光。"
+      },
+      "coords": [37.1793, -3.5928]
+    }
+  ]
+}

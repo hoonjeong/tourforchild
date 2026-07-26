@@ -1,0 +1,120 @@
+{
+  "id": "palma",
+  "country": "es",
+  "coords": [39.5696, 2.6502],
+  "name": { "ko": "팔마 데 마요르카", "en": "Palma de Mallorca", "ja": "パルマ・デ・マヨルカ", "zh": "帕尔马（马略卡岛）" },
+  "tagline": {
+    "ko": "바닷가에 황금빛 대성당이 빛나고, 용이 지키는 숨은 호수가 있는 섬",
+    "en": "The island where a golden cathedral glows by the sea and a dragon guards a hidden lake",
+    "ja": "海辺に黄金の大聖堂が輝き、竜が守る秘密の湖がある島",
+    "zh": "金色大教堂临海生辉、藏着“巨龙”守护的地下湖的海岛"
+  },
+  "story": {
+    "ko": [
+      "스페인이라는 나라가 생기기도 훨씬 전, 마요르카 섬에는 이미 신비한 사람들이 살고 있었어요. 수천 년 전, 그들은 마을을 지키려고 '탈라요트'라는 이상하고 거대한 돌탑을 세웠답니다. 왜 만들었는지는 아무도 기록해두지 않아서, 그 탑들은 수천 년째 조용히 그 자리를 지키고 있어요.",
+      "그 뒤로 여러 뱃사람들이 섬을 찾아왔어요. 로마인들, 그리고 바닷가에 궁전을 지은 무어인들까지요. 그러다 1229년, '자우메 1세'라는 왕이 커다란 배들을 이끌고 섬에 도착해 이곳을 차지했어요. 전해지는 이야기로는, 왕이 배가 무사히 도착하면 세상에서 가장 멋진 대성당을 짓겠다고 약속했대요.",
+      "왕은 약속을 지켰어요. '라 세우'라는 이 대성당은 완성하는 데 거의 400년이나 걸렸는데, 바닷가 절벽 위에 세워져서 지나가는 배들이 보면 마치 황금 왕관처럼 빛난답니다. 성당 안에는 세계에서 가장 큰 둥근 창문 중 하나가 있어서, 1년에 딱 두 번 햇빛이 벽에 커다랗게 빛나는 숫자 '8' 모양을 그린대요.",
+      "그런데 마요르카에는 땅 밑에 숨겨진 비밀이 하나 더 있어요. 어느 동굴 깊은 곳에 아주 고요하고 어두운 호수가 있는데, 음악가들이 작은 배를 타고 그 위를 떠다니며 연주를 하면 소리가 돌 벽에 메아리쳐 울려 퍼진대요. 그 아래에는 햇빛이 한 번도 닿은 적 없이, 오직 등불과 물, 그리고 노래만 있답니다."
+    ],
+    "en": [
+      "Long before Spain even existed, mysterious islanders were already living on Mallorca. Thousands of years ago, they built strange, giant stone towers called talaiots to guard their villages. Nobody wrote down why — the towers just stood there, silent and huge, for thousands and thousands of years.",
+      "Many sailors came after them — Romans, then Moors who built palaces by the sea. Then one day in the year 1229, a king named Jaume I sailed in with a huge fleet of ships and took over the island. Legend says he promised that if his ships landed safely, he would build the grandest cathedral anyone had ever seen.",
+      "He kept his promise. The cathedral called La Seu took almost 400 years to finish, perched right on a cliff above the sea so that ships sailing by could see it glowing like a golden crown. Inside, one of the biggest round windows in the world lets in so much light that twice a year, sunbeams paint a giant glowing figure-eight on the stone wall.",
+      "But Mallorca keeps another secret underground. Deep in a hidden cave, there's a lake so calm and so dark that musicians float across it in little rowboats, playing music that echoes through the rock. Down there, no sunlight has ever shone — only lanterns, water, and songs."
+    ],
+    "ja": [
+      "スペインという国ができるよりずっと前から、マヨルカ島には不思議な人々が暮らしていました。数千年前、彼らは村を守るために『タライヨット』と呼ばれる奇妙で巨大な石の塔を建てたのです。なぜ作られたのか記録は残っていませんが、その塔は何千年も静かにそこに立ち続けています。",
+      "その後、多くの船乗りたちがこの島を訪れました。ローマ人、そして海辺に宮殿を建てたムーア人たちです。そして1229年、『ジャウメ1世』という王が大きな船団を率いてやってきて、島を手に入れました。伝説によると、王は船が無事に着いたら、世界一すばらしい大聖堂を建てると約束したそうです。",
+      "王は約束を守りました。『ラ・セウ』と呼ばれるこの大聖堂は、完成までにおよそ400年もかかり、海に面した崖の上に建てられたので、通りすぎる船からは黄金の冠のように輝いて見えます。中には世界最大級の丸窓があり、1年にたった2回だけ、太陽の光が壁に大きく光る『8』の形を描き出すのです。",
+      "でも、マヨルカには地面の下にもう一つの秘密があります。ある洞窟の奥深くに、とても静かで真っ暗な湖があり、音楽家たちが小さなボートに乗ってその上を漂いながら演奏すると、音が岩の壁にこだまして響きわたるのです。そこには一度も太陽の光が届いたことがなく、あるのはランタンと水、そして歌声だけです。"
+    ],
+    "zh": [
+      "早在西班牙这个国家出现之前，马略卡岛上就已经住着神秘的居民。几千年前，他们为了保护村庄，建造了一种叫“塔拉约特”的奇特巨石塔。没人留下记录说明原因，这些石塔就这样静静矗立了几千年。",
+      "后来，许多航海者陆续来到这里——罗马人，还有在海边建起宫殿的摩尔人。到了1229年，一位名叫海梅一世的国王率领庞大的船队登陆，占领了这座岛屿。传说他曾许下承诺：只要船队平安靠岸，他就要建造一座前所未见的宏伟大教堂。",
+      "国王信守了承诺。这座名叫“拉塞乌”的大教堂几乎花了400年才建成，矗立在海边悬崖之上，过往船只远远望去，它闪耀得就像一顶金色的王冠。教堂内有世界最大的圆形花窗之一，一年中只有两天，阳光会在石墙上投出一个巨大发光的“8”字。",
+      "不过，马略卡岛地下还藏着另一个秘密。在一个洞穴深处，有一片极其平静漆黑的湖水，音乐家们划着小船漂在湖面上演奏，乐声在岩壁间回荡。那里从未有过一丝阳光，只有灯笼、湖水，还有歌声。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'탈라요트'라는 고대 돌탑들은 무려 3,000년도 더 됐어요. 로마의 콜로세움보다도 오래됐답니다!",
+      "라 세우 대성당의 둥근 창문은 어찌나 큰지, 그 원 안에 집 한 채가 통째로 들어갈 정도예요.",
+      "매년 2월 2일과 11월 11일쯤이면, 햇빛이 그 창문을 통과해 벽에 빛나는 숫자 '8' 모양을 그려요. 그 모습을 보려고 사람들이 몰려든답니다.",
+      "용의 동굴(쿠에바스 델 드락) 안에는 '마르텔 호수'라는, 세계에서 가장 큰 지하 호수 중 하나가 있어요. 1896년에 한 탐험가가 처음 발견했대요.",
+      "그 지하 호수에서는 매일 숨은 음악가들이 작은 배를 타고 떠다니며, 캄캄한 어둠 속에서 라이브 연주를 들려줘요.",
+      "작곡가 쇼팽은 어느 비 오는 겨울, 마요르카의 오래된 산속 수도원에 머물며 가장 유명한 피아노곡 몇 곡을 작곡했대요."
+    ],
+    "en": [
+      "The ancient stone towers called talaiots are over 3,000 years old — older than the Colosseum in Rome!",
+      "La Seu Cathedral's round window is so big, you could almost fit a whole house inside its circle.",
+      "Twice a year, around February 2 and November 11, sunlight beams through that window and paints a glowing figure-eight on the wall — crowds gather just to see it.",
+      "Inside the Caves of Drach is Lake Martel, one of the largest underground lakes on Earth, first explored by a diver in 1896.",
+      "Every single day, hidden musicians float across that underground lake in rowboats, giving a live concert in total darkness.",
+      "The composer Chopin once spent a rainy winter on Mallorca in an old mountain monastery, writing some of his most famous piano music there."
+    ],
+    "ja": [
+      "『タライヨット』と呼ばれる古代の石塔は3,000年以上前のもの。なんとローマのコロッセオより古いんです！",
+      "ラ・セウ大聖堂の丸窓はとても大きく、その円の中に家が丸ごと入ってしまいそうなほど。",
+      "毎年2月2日と11月11日ごろ、太陽の光がその窓を通り抜けて、壁に光る『8』の形を描きます。それを見ようと大勢の人が集まるんです。",
+      "竜の洞窟（クエバス・デル・ドラック）の中には『マルテル湖』という、世界最大級の地底湖があります。1896年に探検家によって初めて調べられました。",
+      "その地底湖では毎日、隠れた音楽家たちが小さなボートに乗って漂いながら、真っ暗な中で生演奏を届けてくれます。",
+      "作曲家ショパンは、ある雨の冬にマヨルカの古い山の修道院に滞在し、もっとも有名なピアノ曲のいくつかをそこで作りました。"
+    ],
+    "zh": [
+      "名叫“塔拉约特”的古代石塔已有3000多年历史——比罗马斗兽场还要古老！",
+      "拉塞乌大教堂的圆形花窗大得惊人，那个圆圈里几乎能装下一整栋房子。",
+      "每年2月2日和11月11日前后，阳光穿过花窗，会在墙上投出发光的“8”字，人们特意聚集来看这一幕。",
+      "“龙洞”（德拉克洞穴）里有一片叫“马特尔湖”的地下湖，是世界最大的地下湖之一，1896年由一位探险家首次探明。",
+      "每天，都会有隐藏的音乐家划着小船漂在这片地下湖上，在一片漆黑中现场演奏。",
+      "作曲家肖邦曾在一个多雨的冬天，住在马略卡岛一座古老的山间修道院里，在那儿写下了他最著名的几首钢琴曲。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "대성당 벽에 빛으로 커다란 숫자가 그려지는 날이 1년에 딱 두 번 있대. 어떻게 그런 일이 생길까?",
+    "en": "A cathedral can make sunlight draw a giant glowing number on the wall — twice a year. Want to see how?",
+    "ja": "大聖堂の壁に、光で大きな数字が浮かび上がる日が1年にたった2回あるんだって。どうしてそんなことが起きるのかな？",
+    "zh": "大教堂的墙上，一年只有两天会被阳光画出一个发光的大数字。这是怎么做到的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "라 세우 대성당", "en": "La Seu Cathedral", "ja": "ラ・セウ大聖堂", "zh": "拉塞乌大教堂" },
+      "blurb": {
+        "ko": "바다 바로 위에 우뚝 솟은 이 대성당은 완성하는 데 거의 400년이 걸렸어요. 커다란 둥근 창문을 찾아보세요. 1년에 두 번, 그 창문을 통과한 햇빛이 돌벽에 빛나는 숫자 8을 그려낸답니다.",
+        "en": "Poking up right above the sea, this cathedral took almost 400 years to build. Look for its giant round window — twice a year, sunlight through it paints a glowing figure-eight right on the stone wall.",
+        "ja": "海のすぐ上にそびえるこの大聖堂は、完成までおよそ400年かかりました。大きな丸窓を探してみて。1年に2回、その窓を通った光が石壁に光る『8』の形を描き出します。",
+        "zh": "这座大教堂矗立在海面上方，几乎花了400年才建成。找找它那扇巨大的圆形花窗吧——一年两次，阳光穿过窗户，会在石墙上画出发光的“8”字。"
+      },
+      "coords": [39.5673, 2.6470]
+    },
+    {
+      "name": { "ko": "용의 동굴 (쿠에바스 델 드락)", "en": "Caves of Drach", "ja": "竜の洞窟（クエバス・デル・ドラック）", "zh": "龙洞（德拉克洞穴）" },
+      "blurb": {
+        "ko": "포르토 크리스토 근처 땅속 깊은 곳에는 세계에서 가장 큰 지하 호수 중 하나인 '마르텔 호수'가 숨어 있어요. 음악가들이 작은 배를 타고 노를 저으며 연주하면, 그 소리가 어두운 돌 동굴 속에 메아리쳐 울려 퍼진답니다.",
+        "en": "Deep underground near Porto Cristo hides Lake Martel, one of the biggest underground lakes on Earth. Musicians row across it in little boats, playing music that echoes through the dark stone halls.",
+        "ja": "ポルト・クリストの近く、地下深くには世界最大級の地底湖『マルテル湖』が隠れています。音楽家たちが小さなボートを漕ぎながら演奏すると、その音色が暗い石の洞窟にこだまします。",
+        "zh": "波尔图克里斯托附近的地下深处，藏着世界最大的地下湖之一——马特尔湖。音乐家们划着小船穿行其间，乐声在幽暗的石洞里回荡不绝。"
+      },
+      "coords": [39.4249, 3.3271]
+    },
+    {
+      "name": { "ko": "벨베르 성", "en": "Bellver Castle", "ja": "ベルベル城", "zh": "贝尔维城堡" },
+      "blurb": {
+        "ko": "이 둥근 성은 팔마 만이 내려다보이는 언덕 위에 있어요. 유럽에서 완벽하게 동그란 모양을 한 몇 안 되는 성 중 하나랍니다. 높은 탑에서 배를 지켜보던 기사들의 모습을 상상해 보세요.",
+        "en": "This round castle sits on a hill overlooking Palma's bay — one of the few perfectly circular castles in all of Europe. Kids can imagine knights watching for ships from its tall towers.",
+        "ja": "この円形の城はパルマ湾を見下ろす丘の上に建っています。ヨーロッパでも数少ない、完全な円形をした城の一つです。高い塔から船を見張っていた騎士たちの姿を想像してみて。",
+        "zh": "这座圆形城堡坐落在俯瞰帕尔马湾的山丘上，是全欧洲少有的正圆形城堡之一。想象一下骑士们站在高塔上眺望海面船只的样子吧。"
+      },
+      "coords": [39.5658, 2.6236]
+    },
+    {
+      "name": { "ko": "에스 트렌크 해변", "en": "Es Trenc Beach", "ja": "エス・トレンク・ビーチ", "zh": "特伦克海滩" },
+      "blurb": {
+        "ko": "하얀 모래와 그림처럼 맑고 투명한 청록빛 바다 덕분에, 사람들은 이곳에 와서 \"여기 혹시 카리브해 아니야?\"라고 묻곤 해요. 개발되지 않은 자연 그대로의 모습을 간직해서, 모래와 바다, 하늘만 펼쳐져 있답니다.",
+        "en": "With powder-white sand and water so clear and turquoise it looks painted on, this beach makes people say \"wait, are we in the Caribbean?\" It has stayed wild and undeveloped, just sand, sea, and sky.",
+        "ja": "真っ白な砂と、まるで絵の具で塗ったように澄んだターコイズブルーの海のおかげで、訪れた人は思わず「ここってカリブ海？」と聞いてしまうほど。開発されていない自然のままの姿で、砂と海と空だけが広がっています。",
+        "zh": "洁白细腻的沙滩，配上清澈得像画出来一样的绿松石色海水，让人忍不住问：“这里是加勒比海吗？” 这片海滩至今保持着未经开发的原始风貌，只有沙、海和天空。"
+      },
+      "coords": [39.3563, 2.9930]
+    }
+  ]
+}

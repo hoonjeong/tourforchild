@@ -1,0 +1,120 @@
+{
+  "id": "innsbruck",
+  "country": "at",
+  "coords": [47.2692, 11.4041],
+  "name": { "ko": "인스브루크", "en": "Innsbruck", "ja": "インスブルック", "zh": "因斯布鲁克" },
+  "tagline": {
+    "ko": "지붕 뒤로 알프스가 우뚝 솟은, 도심에서 20분이면 눈 산꼭대기에 닿는 도시",
+    "en": "Where the Alps rise right behind the rooftops—snowy peaks just 20 minutes from downtown",
+    "ja": "屋根の後ろにアルプスがそびえる街、街なかから20分で雪山の頂へ",
+    "zh": "阿尔卑斯山就矗立在屋顶后方——市中心二十分钟就能登上雪山之巅"
+  },
+  "story": {
+    "ko": [
+      "오스트리아 알프스산맥 한가운데, 지붕 바로 뒤로 커다란 산들이 우뚝 솟은 작은 도시가 있어요. 이름도 '인스브루크'—'인 강을 건너는 다리'라는 뜻이에요. 도시 한복판을 초록빛 강물이 힘차게 흐르고, 맑은 날엔 구시가지 광장에서도 눈 덮인 봉우리가 손에 닿을 듯 가깝게 보인답니다.",
+      "수백 년 전, 막시밀리안 1세라는 황제가 이 산골 마을을 무척 사랑해서 즐겨 머무는 궁전으로 삼았어요. 결혼식을 기념하려고 광장이 내려다보이는 발코니를 짓고, 지붕을 황금빛 구리 기와 수천 장으로 덮었죠. 황제와 가족은 그 위에서 마상 시합과 축제를 구경했는데, 그 지붕은 지금도 반짝반짝 황금빛이랍니다.",
+      "사방이 산으로 둘러싸인 덕분에 인스브루크는 세계적인 겨울 스포츠 도시로 자랐어요. 동계 올림픽을 한 번도 아니라 두 번이나 열었고, 나중엔 전 세계 청소년 선수들이 모이는 동계 유스올림픽까지 개최했죠. 지금도 도심 바로 옆 언덕에서 선수들이 커다란 스키점프대를 타고 하늘로 날아오르면, 관중들의 환호성이 울려 퍼져요.",
+      "가장 신나는 건 이거예요. 도심에서 케이블카를 타면 20분도 안 돼 구름 위 산꼭대기에 서게 된답니다. 아래를 내려다보면 뾰족한 교회 첨탑과 알록달록한 지붕들이 콩알만 하게 보이고, 산 위엔 한여름에도 뽀득뽀득한 눈이 남아 있어요. 돌길 골목에서 알프스 야생까지 이렇게 순식간에 오갈 수 있는 도시는 흔치 않답니다."
+    ],
+    "en": [
+      "High in the heart of the Austrian Alps sits a small city with big mountains right behind its rooftops. Its name, Innsbruck, means \"bridge over the Inn\"—the blue-green river that rushes right through downtown. Snowy peaks rise so close that on a clear day it looks like you could touch them from the old town square.",
+      "Hundreds of years ago, an emperor named Maximilian I fell in love with this mountain town and made it one of his favorite homes. To celebrate his wedding, he built a balcony above the main square and covered its roof with thousands of gleaming copper tiles dipped in real gold. From up there, he and his family could watch jousting tournaments and festivals in the square below—still glowing gold today.",
+      "Because the mountains crowd so close, Innsbruck grew into one of the world's great winter-sports cities. It hosted the Winter Olympics not just once but twice, and later welcomed young athletes from all over the globe for the Winter Youth Olympics. Skiers still soar off a giant ski jump on a hill right at the edge of downtown, landing to the roar of the crowd.",
+      "Here's the best part: hop into a cable car in the middle of the city, and in under twenty minutes you're standing on a mountain peak above the clouds. Down below, church spires and colorful rooftops look tiny, while up top there's crunchy snow even in summer. Few cities anywhere let you leap from cobblestone streets to alpine wilderness so fast."
+    ],
+    "ja": [
+      "オーストリアのアルプス山脈のまんなかに、屋根のすぐ後ろに大きな山がそびえる小さな街があります。名前は『インスブルック』——『イン川を渡る橋』という意味です。街のど真ん中を青緑色の川が勢いよく流れ、晴れた日には旧市街の広場からも雪をかぶった山頂が手に届きそうなほど近く見えます。",
+      "数百年前、マクシミリアン1世という皇帝がこの山あいの街をとても気に入り、お気に入りの住まいのひとつにしました。結婚式を祝うために広場を見下ろすバルコニーを建て、その屋根を金メッキした銅の瓦で何千枚もおおったのです。皇帝と家族はそこから馬上槍試合やお祭りをながめました。屋根は今もきらきらと金色に輝いています。",
+      "まわりを山に囲まれているおかげで、インスブルックは世界的なウィンタースポーツの街に育ちました。冬季オリンピックを一度だけでなく二度も開催し、その後は世界中の若い選手が集まる冬季ユースオリンピックまで開いたのです。今も街のすぐそばの丘では選手たちが大きなスキージャンプ台から空へ飛び出し、観客の歓声がひびきます。",
+      "一番わくわくするのはここから。街の中心でケーブルカーに乗れば、20分もかからずに雲の上の山頂に立てるのです。下を見れば教会の尖塔やカラフルな屋根が豆つぶのように小さく見え、山の上には真夏でも雪が残っています。石畳の路地からアルプスの大自然まで、こんなに一瞬で行き来できる街はめずらしいですね。"
+    ],
+    "zh": [
+      "在奥地利阿尔卑斯山脉的正中央，有一座小城市，屋顶后面就矗立着巨大的山峰。它的名字“因斯布鲁克”意思就是“跨越因河的桥”——一条湛蓝的河水正好穿城而过。天气晴朗时，站在老城广场上，仿佛一伸手就能摸到雪山山顶。",
+      "几百年前，一位名叫马克西米利安一世的皇帝深深爱上了这座山城，把它当作最喜欢的住所之一。为了庆祝婚礼，他在广场上方建了一座阳台，屋顶铺满了成千上万片镀金的铜瓦。皇帝一家就在上面观看广场里的马上长枪比武和节庆活动——那片屋顶如今依然闪耀着金光。",
+      "四面环山让因斯布鲁克成长为世界知名的冬季运动之城。它不只举办过一次冬奥会，而是两次，后来还迎来了全世界青少年运动员齐聚的冬季青年奥运会。直到今天，就在市中心旁边的山坡上，运动员们仍从巨大的跳台一跃而起飞向天空，观众的欢呼声此起彼伏。",
+      "最令人兴奋的是：在市中心搭上缆车，不到二十分钟，你就能站在云雾之上的山顶。往下看，教堂尖塔和五颜六色的屋顶小得像豆子一样，而山顶就算盛夏也留着松脆的积雪。能让人从鹅卵石小巷瞬间跃入阿尔卑斯野外的城市，可不多见。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "황금 지붕엔 금을 입힌 구리 기와가 무려 2657장이나 반짝이고 있어요.",
+      "인스브루크는 동계 올림픽을 1964년과 1976년 두 번이나 열었고, 2012년엔 동계 유스올림픽도 개최했어요.",
+      "도시 이름 '인스브루크'는 그냥 '인 강을 건너는 다리'라는 뜻이에요.",
+      "케이블카를 타면 구시가지에서 20분도 안 돼 알프스 산꼭대기까지 올라갈 수 있어요.",
+      "인스브루크 동물원 '알펜동물원'은 해발 727미터에 있는, 유럽에서 가장 높은 곳에 있는 동물원이에요.",
+      "지금도 도심 바로 옆 베르크이젤 스키점프대에서 선수들이 하늘로 날아오르고, 관중들이 응원해요."
+    ],
+    "en": [
+      "The Golden Roof glitters with 2,657 gleaming copper tiles dipped in gold.",
+      "Innsbruck has hosted the Winter Olympics twice—in 1964 and 1976—plus the Winter Youth Olympics in 2012.",
+      "The city's name simply means \"bridge over the Inn,\" the river that flows straight through downtown.",
+      "A cable car whisks you from the old town up into the mountains in under 20 minutes.",
+      "Innsbruck's zoo, the Alpenzoo, sits 727 meters up a mountainside—the highest-altitude zoo in Europe.",
+      "Skiers still fly off the giant Bergisel ski jump, right at the edge of the city, with fans cheering from the stands."
+    ],
+    "ja": [
+      "黄金の屋根には、金メッキされた銅の瓦がなんと2657枚も輝いています。",
+      "インスブルックは1964年と1976年の二度、冬季オリンピックを開催し、2012年には冬季ユースオリンピックも開きました。",
+      "街の名前『インスブルック』は、そのまま『イン川を渡る橋』という意味です。",
+      "ケーブルカーに乗れば、旧市街から20分もかからずにアルプスの山頂まで登れます。",
+      "インスブルックの『アルペン動物園』は標高727メートルにあり、ヨーロッパで一番高い場所にある動物園です。",
+      "今も街のすぐそばのベルクイーゼル・スキージャンプ台で選手たちが空へ飛び出し、観客が応援します。"
+    ],
+    "zh": [
+      "金屋顶上镶嵌着足足2657片闪闪发光的镀金铜瓦。",
+      "因斯布鲁克曾两次举办冬奥会——1964年和1976年，还在2012年举办过冬季青年奥运会。",
+      "城市的名字“因斯布鲁克”本意就是“跨越因河的桥”。",
+      "搭乘缆车，从老城出发不到20分钟就能登上阿尔卑斯山顶。",
+      "因斯布鲁克的“阿尔卑斯动物园”坐落在海拔727米处，是欧洲海拔最高的动物园。",
+      "如今在市中心旁的贝格伊瑟尔跳台滑雪场，运动员依然一跃飞向天空，观众为他们欢呼。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "영화 한 편 보는 시간보다 짧게, 도시 거리에서 눈 쌓인 산꼭대기까지 갈 수 있다면 믿을 수 있겠어?",
+    "en": "Would you believe you can go from a city street to a snowy mountaintop in less time than a movie?",
+    "ja": "映画一本見るより短い時間で、街の通りから雪の山頂まで行けるって信じられるかな？",
+    "zh": "比看一部电影还短的时间，就能从城市街道到达白雪皑皑的山顶——你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "황금 지붕 (골데네스 다흘)", "en": "The Golden Roof (Goldenes Dachl)", "ja": "黄金の屋根（ゴルデネス・ダッハル）", "zh": "黄金屋顶（Goldenes Dachl）" },
+      "blurb": {
+        "ko": "막시밀리안 1세 황제가 광장의 축제를 구경하려고 지은 반짝이는 발코니예요. 지붕엔 불에 그을려 금을 입힌 구리 기와 2657장이 덮여 있어 지금도 햇빛에 반짝여요. 인스브루크 구시가지를 상징하는 건물이랍니다.",
+        "en": "This gleaming balcony was built by Emperor Maximilian I to watch festivals in the square below. Its roof is covered in 2,657 fire-gilded copper tiles that still sparkle in the sun. It's the symbol of Innsbruck's old town.",
+        "ja": "マクシミリアン1世皇帝が広場のお祭りを見物するために建てた、きらめくバルコニーです。屋根には火で金メッキした銅の瓦が2657枚も敷きつめられ、今も太陽の光にきらきら輝いています。インスブルック旧市街のシンボルです。",
+        "zh": "这座闪亮的阳台是马克西米利安一世皇帝为观赏广场节庆而建的。屋顶铺着2657片火镀金铜瓦，至今仍在阳光下闪闪发亮，是因斯布鲁克老城的地标。"
+      },
+      "coords": [47.2683, 11.3933]
+    },
+    {
+      "name": { "ko": "노르트케테 케이블카 (제그루베)", "en": "Nordkette Cable Car (Seegrubenbahn)", "ja": "ノルトケッテ・ロープウェイ（ゼーグルーベ）", "zh": "北链缆车（塞格鲁贝）" },
+      "blurb": {
+        "ko": "도심에서 세련된 케이블카를 타면 지붕과 숲, 절벽 위를 미끄러지듯 지나 구름 위 높은 역까지 올라가요. 20분도 안 돼 돌길 거리에서 알프스의 눈과 아찔한 산 풍경까지 다다르는 거죠.",
+        "en": "Step into a sleek cable car right in the city, and glide up over rooftops, forests, and cliffs to a station high above the clouds. In under 20 minutes you go from cobblestone streets to alpine snow and dizzying mountain views.",
+        "ja": "街の中心からスタイリッシュなケーブルカーに乗ると、屋根や森、崖の上をすべるように進み、雲の上の高い駅までたどり着きます。20分もかからずに石畳の通りからアルプスの雪と息をのむような山の景色へ。",
+        "zh": "从市中心搭上时尚的缆车，滑过屋顶、森林与悬崖，一路抵达云雾之上的高山车站。不到二十分钟，就能从鹅卵石街道来到阿尔卑斯的积雪与令人眩晕的山景之中。"
+      },
+      "coords": [47.2963, 11.3822]
+    },
+    {
+      "name": { "ko": "베르크이젤 스키점프대", "en": "Bergisel Ski Jump", "ja": "ベルクイーゼル・スキージャンプ台", "zh": "贝格伊瑟尔跳台滑雪场" },
+      "blurb": {
+        "ko": "도심 끝 언덕에 세워진 이 거대한 점프대는 올림픽 스키점프 경기를 두 번이나 치렀어요. 꼭대기 전망대까지 올라가면(엘리베이터도 있어요!), 선수들이 지붕 위로 날아오르는 모습을 상상만 해도 배 속이 찌릿할 거예요.",
+        "en": "This giant ramp on a hill at the edge of the city hosted Olympic ski jumping twice. Climb up (or take the elevator) to the top platform, and you'll feel your stomach flip just imagining the jumpers' flight over the rooftops below.",
+        "ja": "街のはずれの丘に建つこの巨大なジャンプ台では、オリンピックのスキージャンプが二度行われました。てっぺんの展望台まで登れば（エレベーターもあります！）、選手たちが屋根の上を飛ぶ姿を想像するだけでおなかがきゅっとなるはず。",
+        "zh": "这座矗立在城郊山坡上的巨大跳台曾两度举办奥运跳台滑雪比赛。爬上（也可以坐电梯）顶端观景台，光是想象运动员飞越屋顶的画面，就会让人肚子一紧。"
+      },
+      "coords": [47.2517, 11.4006]
+    },
+    {
+      "name": { "ko": "암브라스성", "en": "Ambras Castle", "ja": "アンブラス城", "zh": "安布拉斯城堡" },
+      "blurb": {
+        "ko": "르네상스 시대 대공이 언덕 위 이 성을 세계 최초의 '경이의 방' 중 하나로 꾸몄어요. 갑옷과 예술품, 세계 각지에서 모은 신기한 물건들로 가득했죠. 탑과 정원을 거닐며 그 안에 모였던 신기한 보물들을 상상해 보세요.",
+        "en": "A Renaissance archduke turned this hilltop castle into one of the world's first \"wonder rooms,\" packed with armor, art, and oddities from around the globe. Wander its towers and gardens and imagine the strange treasures once gathered inside.",
+        "ja": "ルネサンス期の大公が、この丘の上の城を世界最初の『驚異の部屋』のひとつに仕立てました。よろいや美術品、世界中から集めた珍しい品々でいっぱいだったのです。塔や庭園を歩きながら、そこに集められた不思議な宝物を想像してみて。",
+        "zh": "一位文艺复兴时期的大公把这座山顶城堡打造成世界最早的“奇珍室”之一，里面塞满了盔甲、艺术品和世界各地搜集来的奇珍异宝。漫步在城堡的塔楼和花园里，想象一下曾经收藏在这里的那些奇妙宝物吧。"
+      },
+      "coords": [47.2567, 11.4211]
+    }
+  ]
+}

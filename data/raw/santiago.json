@@ -1,0 +1,120 @@
+{
+  "id": "santiago",
+  "country": "cl",
+  "coords": [-33.4489, -70.6693],
+  "name": { "ko": "산티아고", "en": "Santiago", "ja": "サンティアゴ", "zh": "圣地亚哥" },
+  "tagline": {
+    "ko": "눈 덮인 안데스산맥이 병풍처럼 지켜주는 수도",
+    "en": "The capital city that has the snow-capped Andes standing guard right behind it",
+    "ja": "雪をかぶったアンデス山脈が背後で見守る首都",
+    "zh": "白雪皑皑的安第斯山脉在身后守护的首都"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 스페인 사람들이 오기 전 이 골짜기에는 원주민 피쿤체 사람들이 살고 있었어요. 마포초 강이 흐르고, 그 뒤로는 거대한 돌담처럼 안데스산맥이 우뚝 솟아 있었죠. 그러다 1541년, 페드로 데 발디비아라는 스페인 탐험가가 산과 사막을 넘어 이 강가 골짜기에 도착했어요. 그는 원주민들이 '우엘렌'이라 부르던 작은 바위 언덕 아래가 새 도시를 세우기에 딱 좋은 자리라고 생각했고, 그곳에 깃발을 꽂아 산티아고를 세웠답니다.",
+      "그런데 이 새 도시는 하마터면 사라질 뻔했어요! 발디비아가 도시를 세운 지 겨우 몇 달 만에, 그가 자리를 비운 사이 원주민 전사들이 마을을 공격해 거의 다 불태워버렸거든요. 하지만 사람들은 포기하지 않았어요. 벽돌 한 장 한 장 다시 쌓아 도시를 몇 번이고 다시 일으켜 세웠고, 산티아고는 결국 칠레 전체의 심장 같은 도시로 자라났답니다.",
+      "산티아고에는 또 다른 큰 도전이 있었어요. 바로 땅 자체였죠. 도시 밑에는 늘 꿈틀거리는 지진 단층이 있어서, 수백 년 동안 커다란 지진이 여러 번 도시를 뒤흔들었어요. 하지만 칠레 사람들은 이 위험을 오히려 특별한 능력으로 바꿨어요. 건물 밑에 커다란 고무판이나 용수철을 넣는 특별한 내진 기술을 개발해서, 오늘날 산티아고는 땅이 흔들려도 가장 안전한 도시 중 하나가 되었답니다.",
+      "오늘날 산티아고 한복판에 서서 하늘을 올려다보면, 맑은 날이면 거의 매일 눈 덮인 안데스산맥 봉우리들이 반짝이는 걸 볼 수 있어요. 마치 아메리카 대륙에서 가장 높은 산들이 빌딩 뒤에서 도시를 지키고 서 있는 것 같죠. 산크리스토발 언덕으로 올라가는 등산열차(푸니쿨라)를 타면, 꼭대기에서 커다란 하얀 성모 마리아 동상이 여러분을 맞이하고, 발아래로는 도시와 안데스산맥이 커다란 그림처럼 펼쳐진답니다."
+    ],
+    "en": [
+      "Long ago, before any Spanish person arrived, the valley where Santiago sits was home to Indigenous people called the Picunche, who lived beside a river called the Mapocho, with the Andes mountains rising behind them like a giant stone wall. Then in 1541, a Spanish captain named Pedro de Valdivia crossed mountains and desert to reach this river valley, and he decided this was the perfect spot for a new city. He picked the foot of a small rocky hill the local people called Huelén, and there he planted a flag and founded Santiago.",
+      "But this new city almost didn't survive! Just months after Valdivia founded it, while he was away, warriors attacked the town and burned nearly everything down. Yet the settlers refused to give up—they rebuilt the city again and again, brick by brick, until it grew into the beating heart of the whole country.",
+      "Santiago faced another huge challenge too: the ground itself. The city sits right on top of restless earthquake fault lines, and huge earthquakes have shaken it many times over the centuries. But Chileans turned this danger into a superpower—engineers invented special earthquake-proof building tricks, like giant rubber pads and springs under buildings, so today Santiago is one of the safest cities in the world when the ground starts to shake.",
+      "Today, if you stand in the middle of Santiago and look up, you'll see snow-capped Andes peaks glittering on almost every clear day, as if the tallest mountains in the Americas were standing guard right behind the skyscrapers. Hop on a funicular train up Cerro San Cristóbal hill, and a giant white statue of the Virgin Mary will greet you at the top, with the whole city and the Andes spread out below like a giant painting."
+    ],
+    "ja": [
+      "はるか昔、スペイン人が来るよりも前、この谷にはピクンチェという先住民の人々が暮らしていました。マポチョ川が流れ、その向こうには巨大な石の壁のようにアンデス山脈がそびえていました。そして1541年、ペドロ・デ・バルディビアというスペインの探検家が、山や砂漠を越えてこの川辺の谷にたどり着きました。彼は先住民が『ウエレン』と呼んでいた小さな岩山のふもとを、新しい街を築くのにぴったりの場所だと考え、そこに旗を立ててサンティアゴを建てたのです。",
+      "ところが、この新しい街は消えてしまうところでした！バルディビアが街を築いてからわずか数か月後、彼が留守の間に先住民の戦士たちが村を襲い、ほとんど焼き払ってしまったのです。それでも人々はあきらめませんでした。れんがを一つずつ積み直して、街を何度も立て直し、サンティアゴはやがてチリ全体の心臓のような都市へと育っていきました。",
+      "サンティアゴにはもう一つ大きな試練がありました。それは大地そのものです。街の下にはいつもうごめく地震の断層があり、何百年もの間、大きな地震が何度も街をゆさぶりました。けれどもチリの人々は、この危険を特別な力に変えました。建物の下に大きなゴム板やバネを入れる特別な耐震技術を生み出し、今ではサンティアゴは、地面がゆれても世界でもっとも安全な都市の一つになったのです。",
+      "今、サンティアゴの街の真ん中に立って空を見上げると、晴れた日にはほとんど毎日、雪をかぶったアンデス山脈の峰々がきらきら光って見えます。まるでアメリカ大陸でいちばん高い山々が、ビルの後ろから街を見守っているようです。サン・クリストバルの丘へ登るケーブルカー（フニクラ）に乗ると、頂上で大きな白い聖母マリア像が出迎えてくれて、足もとには街とアンデス山脈が大きな絵のように広がっています。"
+    ],
+    "zh": [
+      "很久很久以前，在西班牙人到来之前，这片山谷里住着皮昆切原住民。马波乔河静静流淌，河的后方，安第斯山脉像一堵巨大的石墙般高高耸立。1541年，一位名叫佩德罗·德·瓦尔迪维亚的西班牙探险家翻山越沙漠，来到了这片河边山谷。他觉得原住民口中称作“韦伦”的一座小石山脚下，正是建立新城市的绝佳地点，于是在那里插上旗帜，建立了圣地亚哥。",
+      "可是，这座新城市差点就没能保住！瓦尔迪维亚建城才几个月，趁他外出的时候，原住民战士袭击了小镇，把它几乎烧成了废墟。但人们并没有放弃，他们一砖一瓦地重建，一次又一次让城市站起来，圣地亚哥最终成长为整个智利的心脏。",
+      "圣地亚哥还面临另一个巨大的挑战，那就是脚下的大地本身。城市下方有一条一直在蠕动的地震断层，几百年来，大地震一次又一次地摇晃着这座城市。但智利人却把这个危险变成了独特的本领——工程师们发明了特殊的抗震技术，在建筑物底下装上巨大的橡胶垫和弹簧，如今圣地亚哥成了世界上地震来临时最安全的城市之一。",
+      "今天，如果你站在圣地亚哥市中心抬头看天，几乎每个晴天都能看到白雪覆盖的安第斯山脉山峰闪闪发光，仿佛美洲最高的山峰就站在高楼大厦后面守护着这座城市。乘坐开往圣克里斯托瓦尔山的缆车（登山小火车）到达山顶，一尊巨大的白色圣母玛利亚像会迎接你，脚下则是像一幅巨画般铺展开的城市与安第斯山脉。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "산티아고는 1541년 스페인 탐험가 페드로 데 발디비아가 원주민 피쿤체 사람들이 '우엘렌'이라 부르던 작은 바위 언덕 아래에 세운 도시예요.",
+      "도시를 세운 지 겨우 몇 달 만에 공격을 받아 거의 다 불타버렸지만, 사람들은 포기하지 않고 몇 번이나 다시 지어 결국 칠레의 수도로 키워냈답니다.",
+      "산티아고는 안데스산맥이 빙 둘러싼 골짜기에 있어서, 맑은 날이면 도심 빌딩 바로 뒤로 눈 덮인 봉우리들이 반짝이는 걸 볼 수 있어요.",
+      "산티아고 땅 밑에는 지진 단층이 늘 꿈틀거려서, 사람들은 건물 밑에 커다란 고무판과 용수철을 넣는 특별한 '충격 흡수' 건물 기술을 만들어냈어요.",
+      "남아메리카에서 가장 오래되고 긴 등산열차(푸니쿨라) 중 하나가 산크리스토발 언덕을 오르는데, 꼭대기에는 도시 전체를 내려다보는 커다란 하얀 성모 마리아 동상이 있어요.",
+      "도심에 있는 또 다른 언덕인 산타루시아 언덕은 원래 못생긴 바위 더미였지만, 1870년대에 한 시장이 비밀 계단과 탑, 분수로 가득한 동화 같은 공원으로 바꿔놓았답니다."
+    ],
+    "en": [
+      "Santiago was founded in 1541 by Spanish captain Pedro de Valdivia, right at the foot of a small rocky hill the local Picunche people called Huelén.",
+      "Just months after it was founded, the young city was attacked and burned down—but its people rebuilt it again and again until it grew into Chile's capital.",
+      "Santiago sits in a valley completely ringed by the Andes, so on clear days you can see snow-capped peaks glittering almost right behind the downtown skyscrapers.",
+      "The ground under Santiago is full of restless earthquake faults, so engineers invented special 'shock-absorber' buildings with giant rubber pads and springs underneath to keep everyone safe.",
+      "A funicular train—one of the oldest and longest in South America—climbs Cerro San Cristóbal hill, where a giant white statue of the Virgin Mary watches over the whole city.",
+      "That other hill in the city center, Cerro Santa Lucía, used to be a bare, ugly pile of rocks until a mayor turned it into a fairy-tale park full of secret stairways, towers, and fountains back in the 1870s."
+    ],
+    "ja": [
+      "サンティアゴは1541年、スペインの探検家ペドロ・デ・バルディビアが、先住民ピクンチェの人々が『ウエレン』と呼んでいた小さな岩山のふもとに築いた街です。",
+      "街を築いてわずか数か月後に襲撃されてほとんど焼け落ちてしまいましたが、人々はあきらめずに何度も建て直し、ついにチリの首都へと育て上げました。",
+      "サンティアゴはアンデス山脈にぐるりと囲まれた谷にあるので、晴れた日には街なかのビルのすぐ後ろに、雪をかぶった山々がきらきら光って見えます。",
+      "サンティアゴの地下にはいつもうごめく地震の断層があるため、人々は建物の下に大きなゴム板やバネを入れる特別な『衝撃吸収』建築技術を生み出しました。",
+      "南米でも最古・最長級のケーブルカー（フニクラ）がサン・クリストバルの丘を登り、頂上には街全体を見守る大きな白い聖母マリア像があります。",
+      "街の中心にあるもう一つの丘、サンタルシアの丘は、もともとみすぼらしい岩の山でしたが、1870年代にある市長が秘密の階段や塔、噴水でいっぱいのおとぎ話のような公園に変えました。"
+    ],
+    "zh": [
+      "圣地亚哥建于1541年，由西班牙探险家佩德罗·德·瓦尔迪维亚在皮昆切原住民称为“韦伦”的一座小石山脚下建立。",
+      "建城才几个月，这座年轻的城市就遭到袭击几乎被烧毁，但人们没有放弃，一次又一次地重建，最终把它发展成了智利的首都。",
+      "圣地亚哥坐落在被安第斯山脉环绕的山谷中，晴天时，市中心高楼大厦的后面几乎就能看到白雪皑皑的山峰闪闪发光。",
+      "圣地亚哥地下有一直在蠕动的地震断层，于是人们发明了特殊的“减震”建筑技术，在建筑物底部安装巨大的橡胶垫和弹簧来保护大家安全。",
+      "一辆南美洲最古老、最长的缆车（登山小火车）之一，沿着圣克里斯托瓦尔山攀爬而上，山顶矗立着一尊守护全城的巨大白色圣母玛利亚像。",
+      "市中心的另一座小山——圣卢西亚山，原本只是一堆丑陋的岩石，但在19世纪70年代，一位市长把它改造成了满是秘密楼梯、塔楼和喷泉的童话般公园。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "산티아고 땅은 지진으로 계속 흔들리는데, 사람들은 어떻게 건물이 무너지지 않게 할까?",
+    "en": "Santiago's ground keeps shaking from earthquakes—so how do people make sure their buildings don't fall down?",
+    "ja": "サンティアゴの地面は地震でずっとゆれているのに、人々はどうやって建物がたおれないようにしているのかな？",
+    "zh": "圣地亚哥的地面总是因为地震而摇晃，人们是怎么让房子不倒塌的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "아르마스 광장", "en": "Plaza de Armas", "ja": "アルマス広場", "zh": "武器广场" },
+      "blurb": {
+        "ko": "이 웅장한 광장은 1541년 페드로 데 발디비아가 깃발을 꽂아 산티아고를 세운 바로 그 자리예요. 오늘날 이곳엔 대성당과 오래된 궁전들, 거리 공연가들이 가득해서 여전히 도시 전체의 심장 같은 곳이랍니다.",
+        "en": "This grand square is exactly where Pedro de Valdivia planted his flag in 1541 to found Santiago. Today the cathedral, old palaces, and street performers surround it, and it's still the beating heart of the whole city.",
+        "ja": "この壮大な広場こそ、1541年にペドロ・デ・バルディビアが旗を立ててサンティアゴを建てた、まさにその場所です。今では大聖堂や古い宮殿、大道芸人たちに囲まれ、今も街全体の心臓のような場所になっています。",
+        "zh": "这座宏伟的广场正是1541年佩德罗·德·瓦尔迪维亚插旗建立圣地亚哥的地方。如今这里被大教堂、古老宫殿和街头艺人环绕，依然是整座城市跳动的心脏。"
+      },
+      "coords": [-33.4372, -70.6506]
+    },
+    {
+      "name": { "ko": "산타루시아 언덕", "en": "Cerro Santa Lucía", "ja": "サンタルシアの丘", "zh": "圣卢西亚山" },
+      "blurb": {
+        "ko": "이 작은 언덕은 원래 '우엘렌'이라 불리던 맨바위였는데, 바로 이 자리에서 도시가 태어났어요. 1870년대에 숨은 계단과 돌탑, 분수가 가득한 환상적인 공원으로 바뀌었고, 지금도 산티아고를 내려다보기 가장 좋은 곳 중 하나랍니다.",
+        "en": "This little hill was once the bare rock called Huelén where the city was born. In the 1870s it was turned into a fantasy park with hidden staircases, stone towers, and fountains, and it's still one of the best spots to look out over Santiago.",
+        "ja": "この小さな丘は、もともと『ウエレン』と呼ばれるむき出しの岩山で、まさにここで街が生まれました。1870年代に、隠し階段や石の塔、噴水でいっぱいの幻想的な公園に生まれ変わり、今もサンティアゴを見わたす一番のスポットの一つです。",
+        "zh": "这座小山原本是被称为“韦伦”的光秃秃岩石，这座城市正是在这里诞生的。19世纪70年代，它被改造成了满是隐秘楼梯、石塔和喷泉的梦幻公园，至今仍是俯瞰圣地亚哥全景的最佳地点之一。"
+      },
+      "coords": [-33.4372, -70.6417]
+    },
+    {
+      "name": { "ko": "산크리스토발 언덕", "en": "Cerro San Cristóbal", "ja": "サン・クリストバルの丘", "zh": "圣克里斯托瓦尔山" },
+      "blurb": {
+        "ko": "남아메리카에서 가장 오래된 등산열차(푸니쿨라) 중 하나를 타면 덜컹덜컹 이 언덕 꼭대기까지 곧장 올라가요. 그곳엔 두 팔을 활짝 벌린 커다란 하얀 성모 마리아 동상이 서 있고, 발아래로는 도시 전체와 그 뒤로 눈 덮인 안데스산맥이 펼쳐져 있답니다.",
+        "en": "A rattling funicular train, one of the oldest in South America, climbs this hill straight up to a giant white statue of the Virgin Mary with her arms open wide. From the top, the whole city spreads out below with the snow-capped Andes rising right behind it.",
+        "ja": "南米でも最古級のガタゴト走るケーブルカー（フニクラ）に乗ると、この丘のてっぺんまで一気に登ります。そこには両手を大きく広げた白い聖母マリアの巨像が立ち、足もとには街全体が、その後ろには雪をかぶったアンデス山脈が広がっています。",
+        "zh": "乘坐南美洲最古老的缆车（登山小火车）之一，咔哒咔哒地一路爬上这座山顶。山顶矗立着一尊张开双臂的巨大白色圣母玛利亚像，脚下是整座城市，城市后方则是白雪皑皑的安第斯山脉。"
+      },
+      "coords": [-33.4256, -70.6329]
+    },
+    {
+      "name": { "ko": "모네다 궁전", "en": "La Moneda Palace", "ja": "モネダ宮殿", "zh": "拉莫内达宫" },
+      "blurb": {
+        "ko": "이 웅장한 하얀 궁전은 칠레 대통령이 일하는 곳이에요. 이틀에 한 번씩 화려한 근위병 교대식이 악단과 함께 펼쳐진답니다. 200년이 넘는 세월 동안 이 궁전은 평온한 때도, 힘든 때도 늘 칠레 역사의 중심에 있었어요.",
+        "en": "This grand white palace is where Chile's president works, and every other day guards march past in a colorful changing-of-the-guard ceremony with a marching band. It has stood at the center of the country's story, through calm times and stormy ones, for more than two centuries.",
+        "ja": "この壮麗な白い宮殿はチリ大統領が働く場所です。1日おきに楽隊つきの華やかな衛兵交代式が行われます。200年以上のあいだ、おだやかな時も大変な時も、この宮殿はずっとチリの歴史の中心にありました。",
+        "zh": "这座壮丽的白色宫殿是智利总统办公的地方。每隔一天，这里都会举行伴着乐队演奏的盛大换岗仪式。两百多年来，无论风平浪静还是风雨飘摇，这座宫殿始终是智利历史的中心。"
+      },
+      "coords": [-33.4429, -70.6534]
+    }
+  ]
+}

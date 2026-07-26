@@ -1,0 +1,120 @@
+{
+  "id": "chengdu",
+  "country": "cn",
+  "coords": [30.5728, 104.0668],
+  "name": { "ko": "청두", "en": "Chengdu", "ja": "成都（チェンドゥ）", "zh": "成都" },
+  "tagline": {
+    "ko": "판다의 고향이자, 2000년 넘게 여전히 작동하는 신비한 물길의 도시",
+    "en": "Home of giant pandas and a 2,000-year-old river trick that still works today",
+    "ja": "パンダの故郷、そして2000年以上たった今も働く不思議な水の街",
+    "zh": "熊猫的故乡，一座两千多年水利智慧至今仍在运转的城市"
+  },
+  "story": {
+    "ko": [
+      "중국 한가운데, 늘 푸르고 안개가 자욱한 도시 청두가 있어요. 땅이 기름지고 강물이 마르지 않아서 예로부터 '천부지국(하늘이 내린 땅)'이라고 불렸답니다. 요즘은 귀여운 판다의 고향으로 유명하지만, 판다가 유명해지기 훨씬 전부터 청두는 땅속에 놀라운 비밀을 하나 숨기고 있었어요.",
+      "2000년도 더 된 옛날, 강물이 여름마다 넘쳐 밭을 망치고 겨울엔 바짝 말라버리는 게 문제였어요. 그때 '이빙'이라는 똑똑한 기술자가 아이디어를 냈어요. 강을 막는 대신, 돌과 대나무로 강을 두 갈래로 슬쩍 나눈 거예요. 한쪽엔 홍수 물을, 한쪽엔 논밭에 줄 물을 흘려보냈죠. 이 시스템은 '두장옌'이라 불리는데, 무려 2260년이 지난 지금도 큰 댐 하나 없이 청두의 논밭을 촉촉하게 적셔주고 있답니다!",
+      "청두에는 또 다른 놀라운 이야기가 있어요. 조용한 동네 땅속에서 동전보다 얇은 작은 황금 장식이 발견됐는데, 태양 주위를 네 마리 새가 빙글빙글 도는 모습이었어요. 무려 3000년 전, 정체를 알 수 없는 문명이 만든 거예요. 태양이 하늘을 가로지르는 걸 신비한 새들이 실어 나른다는 전설을 표현한 걸까요? 지금 이 작은 황금 태양은 청두를 대표하는 상징이 되었답니다.",
+      "요즘 청두는 대나무를 온종일 우물우물 씹어먹는 판다들로 가장 사랑받아요. 청두 사람들도 판다처럼 느긋하게 사는 걸 좋아해서, 찻집에 앉아 몇 시간이고 차를 마시고 혀가 얼얼해지는 매운 훠궈를 후루룩 즐긴답니다. 오래된 강물, 황금빛 새, 그리고 잠만 자는 판다까지 — 청두는 언제나 여유를 즐길 줄 아는 도시였어요."
+    ],
+    "en": [
+      "In the middle of China sits a green, misty city called Chengdu — nicknamed the 'Land of Abundance' because its soil never runs thin and its rivers never run dry. It's most famous today as the hometown of giant pandas, but long before pandas made it famous, Chengdu was already keeping an amazing secret hidden underground.",
+      "More than 2,000 years ago, a river kept flooding Chengdu's fields every summer and drying them out every winter. So a clever engineer named Li Bing had an idea: instead of building a wall to block the river, he split it into two channels using stone and bamboo — one for floodwater, one for farmland. It worked so well that the same system, called Dujiangyan, is still watering Chengdu's fields today, over 2,260 years later — with no big dam needed at all!",
+      "Chengdu holds another surprise. Under a quiet neighborhood, workers once dug up a tiny gold ornament thinner than a coin, showing a sun with four birds flying around it. It was made about 3,000 years ago by a mysterious civilization, and nobody is completely sure what it meant — maybe the sun traveling across the sky, carried by magical birds. Today that little gold sun is Chengdu's most famous symbol.",
+      "These days, Chengdu is best loved for its giant pandas, who lounge around eating bamboo all day at a huge panda park in the hills. Locals relax the same way — sipping tea for hours in outdoor teahouses and slurping fiery, tongue-tingling hot pot. Between ancient rivers, golden birds, and sleepy pandas, Chengdu has always known how to take it easy."
+    ],
+    "ja": [
+      "中国のまん中に、いつも緑でかすみがかった街、成都があります。土が肥え、川の水が涸れないことから、昔から『天府の国（天が与えた豊かな土地）』と呼ばれてきました。今では愛らしいパンダの故郷として有名ですが、パンダが知られるずっと前から、成都は地面の下にすごい秘密をかくしていたのです。",
+      "2000年以上前、川は夏になるたびあふれて畑をだめにし、冬にはからからに乾いてしまうのが悩みのたねでした。そこで『李冰（り・ひょう）』という賢い技術者が考えました。川をせき止めるのではなく、石と竹を使って川を二つに分けたのです。一方には洪水の水を、もう一方には田畑にあげる水を流しました。この仕組みは『都江堰（とこうえん）』と呼ばれ、なんと2260年以上たった今も、大きなダムを一つも使わずに成都の田畑をうるおしているんですよ！",
+      "成都にはもう一つおどろきの話があります。静かな町の地面から、コインより薄い小さな金の飾りが見つかりました。太陽のまわりを4羽の鳥がぐるぐる飛ぶすがたです。なんと3000年前、正体のわからない文明が作ったもの。太陽が空を渡っていくのを、不思議な鳥たちが運んでいるという伝説を表しているのかもしれません。今、この小さな金の太陽は成都を代表するシンボルになっています。",
+      "今の成都は、一日中竹をもぐもぐ食べているパンダたちにいちばん愛されています。成都の人たちもパンダのようにのんびりするのが大好きで、茶館で何時間もお茶を飲み、舌がピリピリするからい火鍋をすすって楽しみます。古い川、金色の鳥、そして眠ってばかりのパンダ——成都はいつだって、のんびり楽しむ達人だったのです。"
+    ],
+    "zh": [
+      "中国的正中央，有一座常年青翠、笼罩着薄雾的城市，叫成都。因为土地肥沃、河水从不干涸，自古就被称为“天府之国”。如今它因可爱的大熊猫而闻名世界，但早在熊猫出名之前，成都就已经在地下藏着一个了不起的秘密。",
+      "两千多年前，一条河每到夏天就泛滥成灾，冲毁田地，到了冬天又干得裂开。一位聪明的工程师李冰想出了办法：与其筑坝挡水，不如用石头和竹笼把河水分成两股——一股用来分洪，一股专门灌溉农田。这套系统叫“都江堰”，神奇的是，两千两百六十多年后的今天，它依然不靠一座现代大坝，源源不断地滋润着成都的田地！",
+      "成都还有另一个惊人的故事。在一片安静的居民区地下，人们挖出了一件比硬币还薄的小小金饰，上面是四只神鸟围着太阳飞翔。这件宝物距今已有三千年，出自一个至今仍充满谜团的古老文明。也许它讲述的是太阳被神鸟驮着穿越天空的传说。如今，这枚小小的金太阳已经成为成都最有名的城市标志。",
+      "现在的成都，最受人喜爱的要数那些整天嚼着竹子、懒洋洋的大熊猫了。成都人也喜欢像熊猫一样悠闲——在茶馆里一坐就是几个小时，吸溜着让舌头发麻的麻辣火锅。古老的河流、金色的神鸟，还有睡不醒的熊猫——成都一直都懂得如何享受慢生活。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "두장옌 수리 시설은 2260년이 넘었는데, 지금도 큰 댐 없이 청두의 논밭에 물을 대주고 있어요.",
+      "갓 태어난 판다 아기는 분홍색에 털도 없고 크기가 버터 한 조각만 해요. 엄마보다 무려 900배나 작답니다!",
+      "청두에서 발견된 '태양신조' 황금 장식은 종이 몇 장 두께밖에 안 되지만, 무려 3000년이 넘은 유물이에요.",
+      "청두는 옛날 '촉'이라는 나라의 수도였어요. 삼국지에 나오는 지혜로운 전략가 제갈량이 활약하던 곳이죠.",
+      "청두 사람들은 찻집을 어찌나 좋아하는지, 몇백 년째 같은 자리에서 차를 파는 찻집도 있어요.",
+      "청두의 매운 요리에 들어가는 산초는 그냥 매운 게 아니라 혀가 찌릿찌릿 저리게 만들어요!"
+    ],
+    "en": [
+      "The Dujiangyan irrigation system is over 2,260 years old and still waters Chengdu's farms today — with no modern dam at all.",
+      "A newborn giant panda cub is pink, hairless, and only about the size of a stick of butter — 900 times smaller than its mom!",
+      "The tiny gold 'Sun and Immortal Birds' ornament found in Chengdu is only as thick as a few sheets of paper, yet it's over 3,000 years old.",
+      "Chengdu was once the capital of an ancient kingdom called Shu — home to the legendary wise strategist Zhuge Liang from the Three Kingdoms story.",
+      "Chengdu people love teahouses so much that some have been serving tea in the same spot for hundreds of years.",
+      "Sichuan peppercorns, used in Chengdu's famous spicy food, don't just taste hot — they make your tongue tingle and buzz!"
+    ],
+    "ja": [
+      "都江堰の水の仕組みは2260年以上前のもの。今も大きなダムなしで成都の田畑に水を送っています。",
+      "生まれたばかりのパンダの赤ちゃんはピンク色で毛もなく、大きさはバター一切れほど。お母さんよりなんと900倍も小さいんです！",
+      "成都で見つかった『太陽神鳥』の金の飾りは紙数枚ほどの薄さなのに、3000年以上前の宝物です。",
+      "成都は昔『蜀（しょく）』という国の都でした。三国志で知られる知恵者・諸葛亮（しょかつりょう）が活やくした場所です。",
+      "成都の人は茶館が大好きで、何百年も同じ場所でお茶を出しているお店もあります。",
+      "成都のからい料理に使う山椒（花椒）は、ただからいだけでなく舌がピリピリしびれるんですよ！"
+    ],
+    "zh": [
+      "都江堰水利工程已有两千两百六十多年历史，至今仍在没有现代大坝的情况下灌溉着成都的农田。",
+      "刚出生的大熊猫宝宝粉粉的、没有毛，只有一根黄油那么大，比妈妈小了整整900倍！",
+      "在成都出土的“太阳神鸟”金饰薄得像几张纸，却已经有三千多年的历史。",
+      "成都曾是古代“蜀国”的都城，也是三国故事里足智多谋的诸葛亮大展身手的地方。",
+      "成都人特别爱泡茶馆，有些茶馆在同一个地方营业已经几百年了。",
+      "成都辣味菜里用的花椒可不只是辣，它会让舌头麻酥酥地发颤！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "2000년 전에 만든 물길이 댐도 없이 지금까지 논밭에 물을 대주고 있대. 어떻게 그럴 수 있을까?",
+    "en": "A 2,000-year-old river trick still waters farms today with no dam at all — how do you think that works?",
+    "ja": "2000年以上前に作られた水の道が、ダムもないのに今も田畑をうるおしているんだって。どうしてそんなことができるのかな？",
+    "zh": "两千多年前修的水利工程，居然没有大坝，到现在还在给农田浇水，你觉得它是怎么做到的？"
+  },
+  "places": [
+    {
+      "name": { "ko": "판다 기지 (청두 대왕판다 번식연구기지)", "en": "Chengdu Research Base of Giant Panda Breeding", "ja": "パンダ基地（成都ジャイアントパンダ繁殖研究基地）", "zh": "熊猫基地（成都大熊猫繁育研究基地）" },
+      "blurb": {
+        "ko": "푸른 언덕에 자리 잡은 이 공원에는 아장아장 걷는 아기 판다부터 하루 종일 대나무를 씹어먹는 어른 판다까지 수십 마리가 살고 있어요. 청두가 가장 사랑하는 동물을 가까이서 볼 수 있는 세계 최고의 장소랍니다.",
+        "en": "This green hillside park is home to dozens of giant pandas, from wobbly newborn cubs to lazy grown-ups munching bamboo all day. It's the best place in the world to see Chengdu's favorite animal up close.",
+        "ja": "緑の丘に広がるこの公園には、よちよち歩きの赤ちゃんパンダから一日中竹を食べるおとなパンダまで、数十頭が暮らしています。成都でいちばん人気の動物を間近で見られる、世界一の場所です。",
+        "zh": "这座建在青翠山坡上的公园里，住着几十只大熊猫，从摇摇晃晃的熊猫宝宝到整天啃竹子的成年熊猫都有。这里是近距离欣赏成都最受欢迎的动物的最佳去处。"
+      },
+      "coords": [30.7304, 104.1477]
+    },
+    {
+      "name": { "ko": "두장옌 수리 시설", "en": "Dujiangyan Irrigation System", "ja": "都江堰", "zh": "都江堰" },
+      "blurb": {
+        "ko": "2260년도 더 전에 만들어진 이 물길 시스템은 지금도 강물을 둘로 나눠 홍수를 막고 논밭에 물을 대줘요. 큰 댐 하나 없이요! 바로 옆에 서면 옛날 사람들의 지혜가 지금도 작동하는 걸 볼 수 있어요.",
+        "en": "Built over 2,260 years ago, this clever water system still splits the river to stop floods and water farms — without a single big dam. Standing beside it, you can watch the ancient trick still working today.",
+        "ja": "2260年以上前に作られたこの水の仕組みは、今も川を二つに分けて洪水を防ぎ、田畑に水を送っています。大きなダムは一つもなし！すぐそばに立てば、昔の人の知恵が今も動いているのがわかります。",
+        "zh": "这套建于两千两百六十多年前的水利系统，至今仍把河水分成两股，既防洪又灌溉农田——完全不靠一座大坝。站在它旁边，你能看到古人的智慧至今仍在运转。"
+      },
+      "coords": [31.0027, 103.6047]
+    },
+    {
+      "name": { "ko": "진사 유적 박물관", "en": "Jinsha Site Museum", "ja": "金沙遺跡博物館", "zh": "金沙遗址博物馆" },
+      "blurb": {
+        "ko": "이 박물관은 작은 황금 태양 장식이 발굴된 바로 그 자리에 세워졌어요. 안으로 들어가면 3000년 전 신비한 문명이 남긴 상아, 옥, 황금 유물을 만날 수 있답니다.",
+        "en": "This museum sits right on top of the spot where the tiny gold sun-and-birds ornament was dug out of the ground. Walk through and see ivory, jade, and gold treasures left by a mysterious 3,000-year-old civilization.",
+        "ja": "この博物館は、小さな金の太陽の飾りが見つかったまさにその場所に建っています。中に入れば、3000年前の謎の文明が残した象牙や翡翠、金の宝物に出会えます。",
+        "zh": "这座博物馆就建在那枚小小金太阳出土的地方。走进去，你会看到三千年前一个神秘文明留下的象牙、玉器和黄金珍宝。"
+      },
+      "coords": [30.6900, 104.0086]
+    },
+    {
+      "name": { "ko": "무후사", "en": "Wuhou Shrine", "ja": "武侯祠", "zh": "武侯祠" },
+      "blurb": {
+        "ko": "이 고요한 사당은 삼국지의 지혜로운 전략가 제갈량과, 청두를 다스렸던 옛 촉나라 왕들을 기리는 곳이에요. 붉은 담장과 대나무 오솔길이 이어져 청두에서 손꼽히는 역사 명소랍니다.",
+        "en": "This peaceful shrine honors Zhuge Liang, the clever strategist from the Three Kingdoms story, and the kings of the ancient Shu kingdom that once ruled from Chengdu. Its red walls and bamboo paths make it one of the most famous history spots in the city.",
+        "ja": "この静かな祠は、三国志の知恵者・諸葛亮と、成都を治めた昔の蜀の王たちをまつっています。赤い塀と竹の小道が続く、成都でも屈指の歴史スポットです。",
+        "zh": "这座静谧的祠堂供奉着三国故事里足智多谋的诸葛亮，以及曾统治成都的古蜀国国王们。红墙和竹林小径相映，是成都最有名的历史景点之一。"
+      },
+      "coords": [30.6432, 104.0499]
+    }
+  ]
+}

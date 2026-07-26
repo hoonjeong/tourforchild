@@ -1,0 +1,120 @@
+{
+  "id": "lima",
+  "country": "pe",
+  "coords": [-12.0464, -77.0428],
+  "name": { "ko": "리마", "en": "Lima", "ja": "リマ", "zh": "利马" },
+  "tagline": {
+    "ko": "고층 빌딩 사이에 고대 피라미드가 숨어 있고, 밤마다 분수가 춤추는 페루의 사막 수도",
+    "en": "Peru's desert capital, where an ancient pyramid hides among skyscrapers and fountains dance every night",
+    "ja": "高層ビルの間に古代ピラミッドが隠れ、毎晩噴水が踊る、ペルーの砂漠の首都",
+    "zh": "高楼间藏着古老金字塔、每晚喷泉翩翩起舞的秘鲁沙漠首都"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날인 1535년, 스페인에서 온 탐험가 프란시스코 피사로가 페루의 사막 해안을 보고 그곳에 새로운 도시를 세우기로 했어요. 그는 이 도시를 '왕들의 도시'라고 불렀는데, 마침 그날이 동방박사 세 왕을 기념하는 날이었기 때문이에요. 이 도시가 자라서 오늘날의 '리마'가 되었고, 아메리카 대륙에서 가장 중요한 도시 중 하나가 되었답니다.",
+      "그런데 리마에는 아주 신기한 점이 있어요. 비가 거의 오지 않는다는 거예요! 리마는 지구에서 가장 건조한 사막 중 하나에, 그것도 태평양 바로 옆에 자리하고 있거든요. 비 대신 '가루아'라는 뿌연 안개가 바다에서 밀려와 도시 전체를 촉촉하게 감싸준답니다.",
+      "하지만 리마의 이야기는 피사로보다 훨씬 전, 무려 천 년도 더 전에 시작돼요. 잉카나 스페인 사람들이 오기 한참 전, '리마 문화'라 불리는 사람들이 지금의 도시 한복판에 커다란 흙벽돌 피라미드를 세웠어요. 작은 벽돌을 마치 책꽂이의 책처럼 차곡차곡 쌓아서, 지진이 나도 살짝 휘어지며 버틸 수 있게 만들었대요. 놀랍게도 '우아카 푸클라나'라 불리는 이 오래된 피라미드는 지금도 고층 빌딩 사이에서 그대로 서 있답니다!",
+      "그리고 리마에서 가장 오래된 성당 지하에는 더 으스스한 비밀이 숨어 있어요. 수백 년 전 수도사들이 가지런히 정리해 놓은 뼈로 가득한 지하 통로랍니다. 하지만 땅 위에서는 매일 밤 세계에서 가장 큰 분수쇼가 온갖 색깔로 반짝이며 춤을 춰요. 고대 피라미드부터 반짝이는 분수까지, 리마는 한 겹 한 겹마다 다른 이야기를 품은 도시예요."
+    ],
+    "en": [
+      "Long, long ago, in 1535, a Spanish explorer named Francisco Pizarro looked at a stretch of desert coast in Peru and decided to build a brand-new city there. He named it the 'City of Kings,' because he founded it on the day Christians celebrate the visit of the Three Kings. That city grew into what we call Lima today, and it became one of the most important cities in all the Americas.",
+      "Here's something strange: Lima almost never gets real rain. It sits in one of the driest deserts on Earth, right next to the Pacific Ocean. Instead of rain, a soft grey mist called 'garúa' rolls in from the sea and blankets the whole city, keeping everything a little damp without ever really pouring.",
+      "But Lima's story doesn't start with Pizarro. It starts a thousand years earlier. Long before the Incas or the Spanish arrived, a people now called the Lima culture built a giant mud-brick pyramid right where the city stands, stacking tiny adobe bricks like books on a shelf so it could bend and survive Peru's earthquakes. Amazingly, that ancient pyramid, called Huaca Pucllana, still stands today, surrounded by modern skyscrapers!",
+      "And under one of Lima's oldest churches lies an even spookier secret: tunnels full of bones, neatly arranged by monks centuries ago. Above ground, though, the city dances every night with the world's biggest fountain show, glowing in every color you can imagine. From ancient pyramids to sparkling water, Lima is a city where every layer tells a different story."
+    ],
+    "ja": [
+      "はるか昔、1535年のこと。スペインからやってきた探検家フランシスコ・ピサロは、ペルーの砂漠の海岸を見て、そこに新しい街を作ることに決めました。彼はこの街を『王たちの街』と名づけました。ちょうどその日が、東方の三博士をたたえる日だったからです。この街が育って、今の『リマ』になり、アメリカ大陸でもっとも大事な都市の一つになりました。",
+      "リマにはとても不思議な点があります。ほとんど雨が降らないのです！リマは地球でいちばん乾いた砂漠の一つに、しかも太平洋のすぐそばに広がっています。雨のかわりに『ガルーア』と呼ばれる灰色の霧が海からただよってきて、街全体をしっとりとつつみます。",
+      "でもリマの物語は、ピサロよりずっと前、なんと千年以上も前から始まっています。インカやスペイン人が来るはるか前、『リマ文化』と呼ばれる人々が、今の街の真ん中に大きな日干しレンガのピラミッドを築きました。小さなレンガを本棚の本のように積み重ね、地震が来てもしなやかに耐えられるように作ったのです。驚くことに、『ワカ・プクリャーナ』と呼ばれるこの古代ピラミッドは、今も高層ビルの間にそのまま立っています！",
+      "そしてリマで最も古い教会の地下には、もっとぞくぞくする秘密が眠っています。何百年も前に修道士たちがきちんと並べた骨でいっぱいのトンネルです。でも地上では、毎晩世界最大の噴水ショーがあらゆる色に輝きながら踊ります。古代のピラミッドから輝く噴水まで、リマは一層ごとに違う物語を持つ街なのです。"
+    ],
+    "zh": [
+      "很久很久以前，在1535年，一位从西班牙来的探险家弗朗西斯科·皮萨罗看中了秘鲁的一片沙漠海岸，决定在那里建一座新城市。他把这座城市称为“列王之城”，因为他建城那天正好是纪念东方三博士的节日。这座城市渐渐长大，成了今天的“利马”，也成了美洲大陆最重要的城市之一。",
+      "利马有个非常神奇的地方——几乎从不下雨！利马位于地球上最干燥的沙漠之一，而且就紧挨着太平洋。没有雨水的时候，一层叫“加鲁阿”的灰色薄雾会从海上飘来，把整座城市笼罩得湿润润的。",
+      "不过利马的故事其实比皮萨罗还要早得多，早了足足一千多年。早在印加人和西班牙人到来之前，被称为“利马文化”的古代居民就在如今市中心的位置，建起了一座巨大的土坯金字塔。他们把小小的土坯砖像书架上的书一样一层层叠起来，这样即使发生地震，建筑也能弯曲而不倒塌。令人惊讶的是，这座名叫“普克利亚纳”的古老金字塔，如今依然矗立在高楼大厦之间！",
+      "而在利马最古老的教堂地下，还藏着一个更神秘的秘密：几百年前修士们整整齐齐排列的骸骨隧道。不过在地面上，每天晚上都会上演世界最大的喷泉秀，闪耀着五彩缤纷的灯光翩翩起舞。从古老的金字塔到闪烁的喷泉，利马的每一层都藏着不同的故事。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "리마는 1535년 탐험가 프란시스코 피사로가 세운 도시로, 동방박사를 기리는 '주현절'에 세워져서 '왕들의 도시'라는 이름이 붙었어요.",
+      "리마에는 진짜 비가 거의 내리지 않아요. 대신 '가루아'라는 부드러운 잿빛 안개가 거의 매일 바다에서 밀려온답니다.",
+      "잉카보다 훨씬 전, 리마 문화 사람들은 작은 흙벽돌을 책꽂이의 책처럼 쌓아 '우아카 푸클라나' 피라미드를 세웠어요. 이 방식 덕분에 지진에도 잘 버틴대요.",
+      "산 프란시스코 수도원 지하에는 약 2만 5천 명의 뼈가 있는 으스스한 지하묘지가 있는데, 일부는 동그란 모양으로 가지런히 배열돼 있어요.",
+      "'매직 워터 서킷'은 세계에서 가장 큰 분수 단지로 기네스 세계기록에 올라 있어요. 열 개가 넘는 분수가 매일 밤 화려하게 빛난답니다.",
+      "미라플로레스의 절벽 산책로에서는 패러글라이더들이 태평양 위를 날아다니고, 근처 케네디 공원에는 사람들이 돌보는 길고양이 마을이 있어요."
+    ],
+    "en": [
+      "Lima was founded in 1535 by explorer Francisco Pizarro, who named it the 'City of Kings' because he founded it on the day of the Epiphany.",
+      "Lima almost never gets real rain — instead, a soft grey mist called 'garúa' rolls in from the ocean nearly every day.",
+      "Long before the Incas, the Lima culture built the Huaca Pucllana pyramid by stacking tiny adobe bricks like books on a shelf, a trick that helps it survive earthquakes.",
+      "Beneath the San Francisco Monastery, spooky catacombs hold the bones of roughly 25,000 people, some arranged in neat circular patterns.",
+      "The Magic Water Circuit holds a Guinness World Record for the largest fountain complex on Earth, with more than a dozen fountains lighting up every night.",
+      "On the clifftop boardwalk of Miraflores, paragliders soar over the Pacific Ocean, while nearby Parque Kennedy is home to a whole colony of friendly street cats."
+    ],
+    "ja": [
+      "リマは1535年に探検家フランシスコ・ピサロが築いた街で、東方の三博士をたたえる『公現祭』の日に建てられたので『王たちの街』と呼ばれます。",
+      "リマにはほとんど本物の雨が降りません。そのかわり『ガルーア』というやわらかい灰色の霧が、ほぼ毎日海からただよってきます。",
+      "インカよりずっと前、リマ文化の人々は小さな日干しレンガを本棚の本のように積み重ねて『ワカ・プクリャーナ』ピラミッドを築きました。このやり方のおかげで地震にも強いのです。",
+      "サン・フランシスコ修道院の地下には、およそ2万5千人分の骨が眠るぞくぞくする地下墓地があり、一部はきれいな円の形に並べられています。",
+      "『マジック・ウォーター・サーキット』は世界最大の噴水群としてギネス世界記録に認定されています。10基以上の噴水が毎晩華やかに輝きます。",
+      "ミラフローレスの崖沿いの遊歩道ではパラグライダーが太平洋の上を飛び、近くのケネディ公園には人々が世話をする野良ねこの集団が暮らしています。"
+    ],
+    "zh": [
+      "利马建于1535年，由探险家弗朗西斯科·皮萨罗建立。因为建城那天正好是纪念东方三博士的“主显节”，所以被称为“列王之城”。",
+      "利马几乎从不下真正的雨。取而代之的是，一层叫“加鲁阿”的柔和灰雾几乎每天都会从海上飘来。",
+      "早在印加人之前，利马文化的居民就把小小的土坯砖像书架上的书一样叠起来，建成了“普克利亚纳”金字塔，这种方法让它更能抵御地震。",
+      "圣弗朗西斯科修道院地下藏着一处令人毛骨悚然的地下墓穴，安放着约两万五千人的骸骨，其中一些还被整齐地排成圆形图案。",
+      "“魔法水之环”喷泉群被吉尼斯世界纪录认证为世界最大的喷泉群，每晚十几座喷泉都会绚丽地亮起。",
+      "在米拉弗洛雷斯的悬崖步道上，滑翔伞爱好者们在太平洋上空翱翔，附近的肯尼迪公园则住着一群由志愿者照顾的友好流浪猫。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "고층 빌딩 사이에 1500년 된 피라미드가 숨어 있다는 게 믿어져?",
+    "en": "Can you believe a 1,500-year-old pyramid is hiding right between the skyscrapers of a modern city?",
+    "ja": "高層ビルの間に1500年前のピラミッドが隠れているなんて、信じられる？",
+    "zh": "在高楼大厦之间竟然藏着一座1500年前的金字塔，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "아르마스 광장 (마요르 광장)", "en": "Plaza Mayor de Lima", "ja": "アルマス広場（マヨール広場）", "zh": "武器广场（利马大广场）" },
+      "blurb": {
+        "ko": "피사로가 1535년 리마를 세운 바로 그 광장이자, 지금도 도시의 심장이에요. 광장 둘레에는 황금빛 발코니가 달린 대통령궁과 리마 대성당이 서 있어, 모든 이야기가 시작된 자리를 지키고 있답니다.",
+        "en": "This grand square is where Pizarro founded Lima back in 1535, and it's still the heart of the city today. Around it stand the golden-balconied Government Palace and Lima's cathedral, both built where the story began.",
+        "ja": "ピサロが1535年にリマを築いた、まさにその広場で、今も街の中心です。周りには金色のバルコニーを持つ大統領府とリマ大聖堂が立ち、すべてが始まった場所を今も見守っています。",
+        "zh": "这里正是皮萨罗在1535年建立利马的那座广场，如今依然是城市的心脏。广场周围矗立着带金色阳台的总统府和利马大教堂，守护着这一切开始的地方。"
+      },
+      "coords": [-12.0464, -77.0307]
+    },
+    {
+      "name": { "ko": "우아카 푸클라나", "en": "Huaca Pucllana", "ja": "ワカ・プクリャーナ", "zh": "普克利亚纳金字塔" },
+      "blurb": {
+        "ko": "약 1500년 전, 잉카가 오기 훨씬 전에 리마 문화 사람들이 세운 커다란 흙벽돌 피라미드예요. 지금도 활기찬 미라플로레스 동네 한복판에 우뚝 서서, 마치 눈앞에 숨은 비밀처럼 자리를 지키고 있답니다.",
+        "en": "A giant mud-brick pyramid built by the Lima culture some 1,500 years ago, long before the Incas ever arrived. It still stands tall today, surrounded by the busy modern neighborhood of Miraflores, like a secret hiding in plain sight.",
+        "ja": "約1500年前、インカが来るずっと前にリマ文化の人々が築いた大きな日干しレンガのピラミッド。今もにぎやかなミラフローレス地区のまん中に立ち、まるで目の前に隠れた秘密のようです。",
+        "zh": "这是大约1500年前，在印加人到来之前，利马文化的居民建造的巨大土坯金字塔。如今它依然矗立在热闹的米拉弗洛雷斯街区中央，像一个明摆着的秘密。"
+      },
+      "coords": [-12.1091, -77.0282]
+    },
+    {
+      "name": { "ko": "산 프란시스코 수도원 지하묘지", "en": "Catacombs of San Francisco Monastery", "ja": "サン・フランシスコ修道院の地下墓地", "zh": "圣弗朗西斯科修道院地下墓穴" },
+      "blurb": {
+        "ko": "이 아름다운 옛 수도원 지하에는 어두운 터널이 구불구불 이어져 있고, 약 2만 5천 명의 뼈가 놓여 있어요. 수도사들은 뼈 일부를 동그랗고 가지런한 무늬로 배열해 놓았답니다. 조금 으스스하지만 신기하기도 하죠!",
+        "en": "Underneath this beautiful old monastery, tunnels wind through the dark, filled with the bones of about 25,000 people. Monks arranged some of the bones in neat circles and patterns, spooky, but fascinating too!",
+        "ja": "この美しい古い修道院の地下には暗いトンネルが曲がりくねって続き、およそ2万5千人分の骨が納められています。修道士たちは骨の一部を丸くきれいな模様に並べました。ちょっとぞくぞくするけれど、とても興味深いですね！",
+        "zh": "在这座美丽的古老修道院地下，黑暗的隧道蜿蜒延伸，安放着约两万五千人的骸骨。修士们把部分骸骨排成整齐的圆形图案。虽然有点毛骨悚然，却也十分有趣！"
+      },
+      "coords": [-12.0454, -77.0282]
+    },
+    {
+      "name": { "ko": "매직 워터 서킷 (레세르바 공원)", "en": "Circuito Mágico del Agua (Magic Water Circuit)", "ja": "マジック・ウォーター・サーキット（レセルバ公園）", "zh": "魔法水之环（水源公园）" },
+      "blurb": {
+        "ko": "밤이 되면 이 공원은 세계에서 가장 큰 분수 단지로 온갖 색깔로 물들어요. 기네스 세계기록에 오른 곳이랍니다. 물이 춤추고 빛이 소용돌이치면, 아이들은 물보라 사이를 웃으며 뛰어다녀요.",
+        "en": "At night, this park bursts into color with the world's largest fountain complex, holding a Guinness World Record. Water dances, lights swirl, and kids run laughing right through the spray.",
+        "ja": "夜になると、この公園は世界最大の噴水群としてギネス世界記録を持つ場所となり、色とりどりに輝きます。水が踊り、光が渦を巻き、子どもたちは水しぶきの中を笑いながら走り回ります。",
+        "zh": "夜幕降临时，这座公园会化身为世界最大的喷泉群，并保持着吉尼斯世界纪录。水流翩翩起舞，灯光旋转闪烁，孩子们笑着在水雾中奔跑穿梭。"
+      },
+      "coords": [-12.0709, -77.0378]
+    }
+  ]
+}

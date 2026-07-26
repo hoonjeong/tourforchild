@@ -1,0 +1,120 @@
+{
+  "id": "cebu",
+  "country": "ph",
+  "coords": [10.3157, 123.8854],
+  "name": { "ko": "세부", "en": "Cebu", "ja": "セブ", "zh": "宿务" },
+  "tagline": {
+    "ko": "필리핀 최초의 영웅 라푸라푸가 태어난 섬, 오늘은 고래상어와 함께 헤엄치는 곳",
+    "en": "Where the Philippines' first hero was born—and whale sharks swim beside you today",
+    "ja": "フィリピン初の英雄ラプラプが生まれた島、今は海でジンベエザメと泳げる場所",
+    "zh": "菲律宾第一位民族英雄拉普拉普诞生的岛屿，如今可以和鲸鲨一起畅游"
+  },
+  "story": {
+    "ko": [
+      "'필리핀'이라는 이름이 생기기 훨씬 전, 세부 앞바다에는 '막탄'이라는 작은 섬나라가 있었어요. 이곳을 다스리던 용감한 추장의 이름은 '라푸라푸'였답니다. 세부는 이미 배들이 오가는 활기찬 항구 도시였고, 해변에는 고기잡이배와 대나무 오두막이 가득했어요.",
+      "그러다 1521년, 커다란 배 세 척이 바다 건너에서 나타났어요. 포르투갈 출신 탐험가 마젤란이 타고 온 배였죠. 마젤란은 해변에 나무 십자가를 세웠고, 세부의 왕 라자 후마본은 그를 반갑게 맞이하며 아기 예수님을 조각한 작은 나무 조각상까지 선물로 받았어요. 하지만 막탄 섬의 라푸라푸 추장만은 누구에게도 고개 숙이지 않겠다고 했답니다.",
+      "화가 난 마젤란은 갑옷 입은 군인들을 이끌고 막탄 해변으로 쳐들어갔어요. 하지만 대나무 창을 든 라푸라푸의 전사들은 자기 고향의 바위와 물길을 손바닥 보듯 훤히 알고 있었죠. 결국 전투에서 승리한 건 라푸라푸였어요! 이 사건은 세계 역사에서 원주민이 유럽 침략자를 물리친 아주 이른 사례로 남았고, 라푸라푸는 필리핀 최초의 영웅이 되었답니다.",
+      "500년이 지난 지금도 그 작은 나무 십자가와 아기 예수상은 세부시에 소중히 보관되어 있고, 해마다 1월이면 온 섬이 '시눌로그 축제'를 열어 이를 기념해요. 하지만 세부에는 더 많은 놀라움이 기다려요. 에메랄드빛 폭포, 은빛 정어리 떼가 소용돌이치는 바닷속, 그리고 헤엄치는 사람들 옆을 유유히 지나가는 커다란 고래상어까지!"
+    ],
+    "en": [
+      "Long before the word 'Philippines' existed, a small island kingdom sat just off the coast of Cebu. It was called Mactan, and its people were led by a brave chief named Lapu-Lapu. Cebu itself was already a busy trading port, its shores dotted with fishing boats and bamboo huts.",
+      "Then in 1521, three tall ships sailed in from across the ocean, carrying a Portuguese explorer named Ferdinand Magellan. He planted a wooden cross on the beach, and the local king, Rajah Humabon, welcomed him and even accepted a small wooden statue of the baby Jesus as a gift. But on the island of Mactan, Chief Lapu-Lapu refused to bow to anyone.",
+      "So Magellan gathered his armored soldiers and marched onto Mactan's beach to force Lapu-Lapu to submit. But Lapu-Lapu's warriors, armed only with bamboo spears and knowing every rock and tide pool of their home shore, fought back and won! It was one of the earliest times in history that island warriors defeated European invaders, and Lapu-Lapu became the Philippines' first national hero.",
+      "Five hundred years later, that little wooden cross and statue are still treasured in Cebu City, and every January the whole island dances in their honor at the Sinulog Festival. But Cebu has more wonders too—turquoise waterfalls, swirling silver rivers of sardines, and gentle giant whale sharks glide right past swimmers in the sea."
+    ],
+    "ja": [
+      "『フィリピン』という名前が生まれるずっと前、セブの沖には『マクタン』という小さな島の国がありました。そこを治めていたのは、勇敢な首長ラプラプでした。セブはすでに船が行き交うにぎやかな港町で、浜辺には漁船と竹の小屋がずらりと並んでいました。",
+      "そして1521年、大きな船が三隻、海の向こうからやって来ました。ポルトガル出身の探検家マゼランを乗せた船でした。マゼランは浜辺に木の十字架を立て、セブの王ラジャ・フマボンは彼を歓迎し、幼子イエスの小さな木の像まで贈り物として受け取りました。けれど、マクタン島のラプラプ首長だけは誰にも頭を下げないと言い張りました。",
+      "怒ったマゼランは鎧を着た兵士たちを率いて、マクタンの浜辺に攻め込みました。しかし竹の槍を持つラプラプの戦士たちは、故郷の岩や潮の流れを手のひらのように知りつくしていました。戦いに勝ったのは、なんとラプラプでした！これは世界の歴史の中でも、島の人々がヨーロッパの侵略者を打ち破ったとても早い例となり、ラプラプはフィリピン初の英雄になったのです。",
+      "500年たった今も、その小さな木の十字架と幼子イエス像はセブ市に大切に保管されていて、毎年1月には島じゅうが『シヌログ祭り』でそれをお祝いします。でもセブにはまだまだ驚きがいっぱい。エメラルド色の滝、銀色のイワシの大群が渦を巻く海、そして泳ぐ人のすぐそばをゆったり通り過ぎる大きなジンベエザメまで！"
+    ],
+    "zh": [
+      "在“菲律宾”这个名字出现之前很久很久，宿务外海有一个叫“麦克坦”的小岛王国，统治者是一位勇敢的酋长——拉普拉普。宿务当时已经是一个热闹的港口城市，海边停满了渔船和竹屋。",
+      "1521年，三艘大船从海的那一头驶来，船上是葡萄牙探险家麦哲伦。他在海滩上立起一座木十字架，宿务的国王胡马蓬热情地欢迎了他，还收下了一尊小小的圣婴耶稣木雕像作为礼物。可是麦克坦岛上的拉普拉普酋长，却谁也不肯低头。",
+      "麦哲伦大怒，率领全副武装的士兵冲上麦克坦的海滩，想逼拉普拉普屈服。可是拉普拉普的战士们只拿着竹枪，却对家乡的礁石和潮水了如指掌。最终，赢得这场战斗的竟是拉普拉普！这是世界历史上，岛屿居民最早战胜欧洲入侵者的事件之一，拉普拉普也因此成为菲律宾第一位民族英雄。",
+      "五百年过去了，那座小小的木十字架和圣婴像至今仍被珍藏在宿务市，每年一月，整座岛都会举行“西努洛格节”来纪念这段历史。不过宿务的惊喜远不止于此——碧绿的瀑布、成群旋转的银色沙丁鱼海、还有悠悠游过泳客身边的巨大鲸鲨，都在等着你！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1521년 마젤란이 세운 나무 십자가는 사람들이 행운을 빈다며 조금씩 조각을 떼어가는 바람에, 지금은 더 큰 십자가 안에 보호된 채 들어 있어요.",
+      "산토니뇨 아기 예수상은 필리핀에서 가장 오래된 종교 유물이에요. 전설에 따르면 큰 화재가 났을 때도 상자 안에서 둥둥 떠 있던 채로 발견됐대요. 마치 스스로 헤엄쳐 살아남은 것처럼요!",
+      "막탄 전투는 1521년 4월 27일에 벌어졌고, 라푸라푸 추장은 외세 침략자에 맞선 필리핀 최초의 영웅으로 기억되고 있어요.",
+      "세부 남쪽 오슬롭 앞바다에 모이는 고래상어는 바다에서 가장 큰 물고기예요. 하지만 걱정 마세요, 사람이 아니라 작은 새우와 플랑크톤만 쪽쪽 빨아 먹는답니다!",
+      "몰보알 앞바다에는 은빛 정어리 수백만 마리가 커다란 소용돌이를 만들며 헤엄쳐요. 스노클링하는 사람들은 마치 살아 움직이는 강물 속에서 헤엄치는 기분이라고 해요.",
+      "카와산 폭포는 물이 어찌나 맑고 파란지, 모험을 좋아하는 사람들은 바위 위에서 첨벙 뛰어드는 '캐니어닝'을 즐긴답니다."
+    ],
+    "en": [
+      "The original wooden cross Magellan planted in 1521 is kept inside a bigger cross today, to protect it after people kept chipping off tiny pieces for good luck!",
+      "The little Santo Niño statue is the oldest religious relic in the Philippines—legend says it was later found unburned, floating in a box after a great fire, as if it had swum to safety.",
+      "The Battle of Mactan happened on April 27, 1521, and Chief Lapu-Lapu is remembered as the very first Filipino hero to stand up to foreign invaders.",
+      "Whale sharks that gather near Oslob, in southern Cebu, are the biggest fish in the whole ocean—but don't worry, they only slurp up tiny shrimp and plankton, never people!",
+      "Near Moalboal, millions of silver sardines swim together in a giant swirling ball right near the shore—snorkelers say it feels like swimming inside a living, moving river.",
+      "Kawasan Falls tumbles into pools so clear and turquoise-blue that adventurers love to canyon-jump straight into the water from the rocks above."
+    ],
+    "ja": [
+      "1521年にマゼランが立てた木の十字架は、幸運を願う人々が少しずつ削り取ってしまったため、今では大きな十字架の中に守られて収められています。",
+      "サント・ニーニョ（幼子イエス像）はフィリピンで最も古い宗教的な宝物です。伝説によると、大火事のときも箱の中に浮いた状態で無事に見つかったそうで、まるで自分で泳いで助かったみたいですね。",
+      "マクタンの戦いは1521年4月27日に起こり、ラプラプ首長は外国の侵略者に立ち向かったフィリピン最初の英雄として今も語り継がれています。",
+      "セブ南部のオスロブ沖に集まるジンベエザメは、海でいちばん大きな魚。でも安心して、食べるのは小さなエビやプランクトンだけで、人を襲うことはありません！",
+      "モアルボアルの沖では、何百万匹もの銀色のイワシが大きな渦を作って泳ぎます。シュノーケリングする人たちは、まるで生きて動く川の中を泳いでいるみたいだと言います。",
+      "カワサン滝は水があまりに透きとおったターコイズブルーで、冒険好きな人たちは岩の上から水へジャンプする『キャニオニング』を楽しみます。"
+    ],
+    "zh": [
+      "1521年麦哲伦立起的那座木十字架，因为人们总想削一小片带走求好运，现在被小心地保护在一座更大的十字架里面。",
+      "圣婴耶稣像是菲律宾最古老的宗教文物。传说一场大火之后，人们发现它安然无恙地漂浮在一个箱子里，就像自己游着逃过了一劫。",
+      "麦克坦之战发生在1521年4月27日，拉普拉普酋长被后人铭记为菲律宾第一位抵抗外来侵略者的民族英雄。",
+      "聚集在宿务南部奥斯洛布海域的鲸鲨，是整个海洋里最大的鱼。不过不用担心，它们只吸食小小的虾米和浮游生物，从不会伤害人！",
+      "在莫阿尔博阿尔附近的海里，数百万条银色沙丁鱼会聚成一个巨大的旋转鱼群。浮潜的人说，那感觉就像游进了一条活生生、会流动的河。",
+      "卡瓦桑瀑布的水清澈得泛着绿松石般的蓝色，喜欢冒险的人最爱从岩石上一跃而下，来一场刺激的“峡谷跳水”。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "대나무 창을 든 추장이 갑옷 입은 침입자를 해변에서 물리쳤대. 어떻게 그럴 수 있었을까?",
+    "en": "A chief with only bamboo spears beat armored invaders on the beach—how do you think he did it?",
+    "ja": "竹の槍しか持たない首長が、鎧を着た侵略者を浜辺で打ち負かしたんだって。どうやったと思う？",
+    "zh": "只拿着竹枪的酋长竟然在海滩上打败了全副武装的入侵者，你觉得他是怎么做到的？"
+  },
+  "places": [
+    {
+      "name": { "ko": "마젤란 십자가", "en": "Magellan's Cross", "ja": "マゼランクロス（十字架）", "zh": "麦哲伦十字架" },
+      "blurb": {
+        "ko": "1521년 마젤란이 실제로 십자가를 세웠던 바로 그 자리예요. 원래 십자가 조각이 행운을 가져다준다고 믿는 사람들이 많아서, 지금은 더 큰 십자가 안에 안전하게 보관되어 있답니다.",
+        "en": "This wooden cross marks the exact spot where Magellan planted his cross in 1521. Locals believe splinters of the original bring good luck, so it's now kept safely inside a bigger cross for protection.",
+        "ja": "1521年にマゼランが実際に十字架を立てた場所です。もとの十字架の破片が幸運を呼ぶと信じる人が多く、今では大きな十字架の中に安全に納められています。",
+        "zh": "这里正是1521年麦哲伦竖立十字架的确切地点。许多人相信原十字架的木屑能带来好运，所以现在它被安全地保护在一座更大的十字架里面。"
+      },
+      "coords": [10.2933, 123.9019]
+    },
+    {
+      "name": { "ko": "산토니뇨 대성당", "en": "Basilica Minore del Santo Niño", "ja": "サント・ニーニョ大聖堂", "zh": "圣婴大教堂" },
+      "blurb": {
+        "ko": "필리핀에서 가장 오래된 성당으로, 마젤란이 선물로 준 산토니뇨 아기 예수상을 모시기 위해 지어졌어요. 지금도 사람들이 줄지어 참배하고, 매년 1월이면 온 도시가 시눌로그 축제로 이를 기념한답니다.",
+        "en": "The oldest Catholic church in the Philippines was built to house the little Santo Niño statue Magellan gave as a gift. People still line up to see it, and every January the whole city dances in its honor at the Sinulog Festival.",
+        "ja": "フィリピンで最も古いカトリック教会で、マゼランが贈った幼子イエス像を安置するために建てられました。今も多くの人が参拝の列を作り、毎年1月には街全体がシヌログ祭りでお祝いします。",
+        "zh": "这是菲律宾最古老的天主教堂，专为供奉麦哲伦所赠的圣婴像而建。至今仍有许多人排队参拜，每年一月全城都会举办西努洛格节来庆祝。"
+      },
+      "coords": [10.2935, 123.9015]
+    },
+    {
+      "name": { "ko": "라푸라푸 동상 (막탄 섬)", "en": "Lapu-Lapu Shrine, Mactan Island", "ja": "ラプラプ像（マクタン島）", "zh": "拉普拉普雕像（麦克坦岛）" },
+      "blurb": {
+        "ko": "1521년 라푸라푸가 마젤란의 군대를 물리쳤던 바로 그 해변 근처에 커다란 청동 동상이 서 있어요. 그날의 전투가 벌어졌던 같은 바다를 바라보며 그 순간을 상상해볼 수 있답니다.",
+        "en": "A tall bronze statue of Chief Lapu-Lapu stands near the very beach where he defeated Magellan's soldiers in 1521. Kids can imagine the battle looking out at the same shore where it all happened.",
+        "ja": "1521年にラプラプがマゼラン軍を打ち破った、まさにその浜辺の近くに大きなブロンズ像が立っています。戦いが起きたのと同じ海を眺めながら、その瞬間を思い浮かべることができます。",
+        "zh": "在1521年拉普拉普击退麦哲伦军队的那片海滩附近，矗立着一座高大的青铜雕像。望着同一片海，孩子们可以想象当年那场战斗的情景。"
+      },
+      "coords": [10.2966, 123.9962]
+    },
+    {
+      "name": { "ko": "오슬롭 고래상어 관찰지", "en": "Oslob Whale Shark Watching", "ja": "オスロブ ジンベエザメ観察スポット", "zh": "奥斯洛布鲸鲨观赏地" },
+      "blurb": {
+        "ko": "이 작은 어촌 마을에서는 매일 아침 온순한 고래상어들이 먹이를 먹으러 해안 가까이 다가와요. 스노클링하는 사람들은 지구에서 가장 큰 물고기 바로 옆에서 안전하게 헤엄칠 수 있답니다.",
+        "en": "In this small fishing town, gentle whale sharks swim close to shore every morning to feed. Snorkelers can float right beside these ocean giants—the biggest fish alive—without any danger at all.",
+        "ja": "この小さな漁村では、毎朝おだやかなジンベエザメがエサを求めて岸近くまでやって来ます。シュノーケリングをする人は、地球最大の魚のすぐそばを安全に泳ぐことができます。",
+        "zh": "在这座小渔村，每天清晨温顺的鲸鲨都会游到近岸觅食。浮潜的人可以安全地漂浮在这种地球上最大鱼类的身边。"
+      },
+      "coords": [9.4645, 123.3903]
+    }
+  ]
+}

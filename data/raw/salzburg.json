@@ -1,0 +1,120 @@
+{
+  "id": "salzburg",
+  "country": "at",
+  "coords": [47.8095, 13.0550],
+  "name": { "ko": "잘츠부르크", "en": "Salzburg", "ja": "ザルツブルク", "zh": "萨尔茨堡" },
+  "tagline": {
+    "ko": "모차르트가 태어나고 '사운드 오브 뮤직'이 촬영된 '소금의 성'",
+    "en": "The 'Salt Fortress' where Mozart was born and The Sound of Music came to life",
+    "ja": "モーツァルトが生まれ、『サウンド・オブ・ミュージック』の舞台にもなった『塩の城』の街",
+    "zh": "莫扎特的出生地，也是电影《音乐之声》取景地——“盐堡”之城"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 오스트리아 산속에는 소금이 아주 귀해서 '하얀 금'이라고 불리던 마을이 있었어요. 마을 이름 '잘츠부르크'도 '소금의 성'이라는 뜻이랍니다. 초록빛 잘차흐 강을 따라 소금을 가득 실은 배들이 오르내리며, 수백 년 동안 상인과 영주들을 부자로 만들어 주었어요.",
+      "이 귀한 보물을 지키기 위해, 잘츠부르크를 다스리던 대주교들은 마을이 내려다보이는 언덕 위에 커다란 성을 지었어요. 바로 '호엔잘츠부르크 성'인데, 지금도 유럽에 남아 있는 가장 큰 성 중 하나랍니다. 무려 900년 동안 그 어떤 적군도 성벽을 뚫지 못했대요.",
+      "1756년, '게트라이데가세'라는 거리의 아담하고 노란 집에서 한 아기가 태어났어요. 이 아기는 훗날 역사상 가장 위대한 음악가 중 한 명이 되는데, 바로 볼프강 아마데우스 모차르트예요. 다섯 살 때 벌써 자기만의 작은 곡을 쓸 만큼 재능이 넘쳤고, 곧 왕과 왕비 앞에서 피아노를 연주하게 되었답니다.",
+      "그로부터 200년이 지나, 잘츠부르크는 다시 한번 세계적으로 유명해졌어요. 바로 영화 '사운드 오브 뮤직'의 진짜 배경이 되었기 때문이에요. 꽃이 가득한 정원에서 아이들이 빙글빙글 춤추는 장면이 여기서 찍혔고, 지금도 여름이면 커다란 음악 축제로 거리마다 음악이 흘러넘쳐요. 황금빛 돔과 산 풍경 덕분에 사람들은 잘츠부르크를 '북쪽의 로마'라고도 부른답니다."
+    ],
+    "en": [
+      "Long ago in the mountains of Austria, there was a town so rich in salt that people called it 'white gold.' The town's very name, Salzburg, means 'Salt Fortress'—and salt built almost everything you see there today. Barges piled high with salt blocks floated down the green Salzach River, making merchants and rulers wealthy for hundreds of years.",
+      "To protect all that treasure, the prince-archbishops who ruled Salzburg built a giant fortress on the hill above the town. It's called Hohensalzburg, and it's one of the biggest castles left standing in all of Europe. For 900 years, no enemy army ever managed to break through its walls.",
+      "In 1756, in a cozy yellow house on a street called Getreidegasse, a baby was born who would grow up to be one of the greatest musicians ever: Wolfgang Amadeus Mozart. He was so talented that he was already composing his own little pieces of music by the time he was five years old, and soon he was playing piano for kings and queens.",
+      "Two hundred years later, Salzburg became famous all over again—this time as the real-life backdrop for the movie The Sound of Music. Kids twirled through its flower-filled gardens on camera, and today music still fills the streets every summer during the city's giant festival. With its golden domes and mountain views, people even call Salzburg 'the Rome of the North.'"
+    ],
+    "ja": [
+      "はるか昔、オーストリアの山あいに、塩がとても貴重で『白い金』と呼ばれていた町がありました。町の名前『ザルツブルク』も『塩の城』という意味です。緑色のザルツァッハ川を、塩をいっぱい積んだ船が行き来し、何百年もの間、商人や領主たちを豊かにしました。",
+      "この貴重な塩を守るため、ザルツブルクを治めていた大司教たちは、町を見下ろす丘の上に大きな城を築きました。それが『ホーエンザルツブルク城』で、今もヨーロッパに残る最大級の城のひとつです。なんと900年もの間、どんな敵の軍隊も城壁を突破できなかったそうです。",
+      "1756年、『ゲトライデガッセ』という通りの小さな黄色い家で、一人の赤ちゃんが生まれました。この子は後に史上最も偉大な音楽家の一人になります。ヴォルフガング・アマデウス・モーツァルトです。5歳のときにはもう自分の曲を作るほどの才能を見せ、やがて王様や女王様の前でピアノを演奏するようになりました。",
+      "それから200年後、ザルツブルクは再び世界中で有名になりました。映画『サウンド・オブ・ミュージック』の本物の舞台になったからです。花いっぱいの庭園で子どもたちがくるくる踊るシーンはここで撮影され、今でも夏になると大きな音楽祭で街中に音楽があふれます。金色のドームと山の景色から、人々はザルツブルクを『北のローマ』とも呼びます。"
+    ],
+    "zh": [
+      "很久很久以前，在奥地利的山间，有一座小镇因为盐而闻名，人们把盐称为“白色黄金”。这座小镇的名字“萨尔茨堡”正是“盐堡”的意思。绿色的萨尔察赫河上，满载盐块的船只来来往往，数百年间让商人和领主们富甲一方。",
+      "为了守护这珍贵的盐，统治萨尔茨堡的大主教们在俯瞰小镇的山丘上建起了一座巨大的城堡。它叫“霍亨萨尔茨堡”，至今仍是欧洲现存最大的城堡之一。整整900年间，从没有一支敌军能攻破它的城墙。",
+      "1756年，在一条名叫“粮食胡同”的街道上，一栋温馨的黄色小屋里，诞生了一个婴儿。他长大后成为了历史上最伟大的音乐家之一——沃尔夫冈·阿马德乌斯·莫扎特。他天赋异禀，五岁时就已经能创作自己的小曲子，很快便在国王和王后面前演奏钢琴。",
+      "两百年后，萨尔茨堡再次名扬世界——这一次，是因为电影《音乐之声》就在这里取景拍摄。孩子们在开满鲜花的花园里旋转起舞的镜头就摄于此地，如今每到夏天，盛大的音乐节依然让整座城市乐声不绝。金色的圆顶配上雪山美景，人们甚至把萨尔茨堡称为“北方的罗马”。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "잘츠부르크라는 이름은 '소금의 성'이라는 뜻이에요. 옛날엔 소금이 너무 귀해서 '하얀 금'이라고 불렸대요.",
+      "언덕 위에 우뚝 선 호엔잘츠부르크 성은 유럽에서 가장 크고 잘 보존된 중세 성 중 하나인데, 그 어떤 군대도 성 안으로 쳐들어오지 못했어요.",
+      "모차르트는 1756년 잘츠부르크에서 태어났고, 다섯 살 때 이미 곡을 만들었대요.",
+      "영화 '사운드 오브 뮤직'은 1964년 잘츠부르크 곳곳에서 촬영됐어요. '도레미 송'에 나오는 분수 계단과 정원 조각상은 지금도 실제로 가볼 수 있답니다.",
+      "지금도 진짜 수녀님들이 살고 있는 논베르크 수녀원은 독일어권에서 가장 오래된 수녀원이에요. 영화 속 수녀원 장면에도 영감을 줬대요.",
+      "잘츠부르크의 구시가지는 유네스코 세계유산으로, 곡선이 아름다운 바로크 양식 돔과 탑이 수십 개나 있어요."
+    ],
+    "en": [
+      "Salzburg's name literally means 'Salt Fortress'—salt used to be so precious that people called it 'white gold.'",
+      "Hohensalzburg Fortress, built high on a hill, is one of the largest and best-preserved medieval castles in Europe—and no army ever fought its way inside.",
+      "Mozart was born in Salzburg in 1756 and was already composing music by age 5.",
+      "The Sound of Music was filmed around Salzburg in 1964—the fountain steps and garden statues in the 'Do-Re-Mi' song are all real spots you can visit.",
+      "Nonnberg Abbey, still home to real nuns today, is the oldest continuously running convent in the German-speaking world—and it inspired scenes in the famous movie.",
+      "Salzburg's Old Town is protected as a UNESCO World Heritage Site, packed with dozens of curvy baroque domes and towers."
+    ],
+    "ja": [
+      "ザルツブルクという名前は『塩の城』という意味。昔、塩はとても貴重で『白い金』と呼ばれていました。",
+      "丘の上にそびえるホーエンザルツブルク城は、ヨーロッパで最も大きく保存状態のよい中世の城のひとつ。どんな軍隊も城の中に攻め入れませんでした。",
+      "モーツァルトは1756年にザルツブルクで生まれ、5歳のときにはもう曲を作っていました。",
+      "映画『サウンド・オブ・ミュージック』は1964年にザルツブルクの各地で撮影されました。『ドレミの歌』に出てくる噴水の階段や庭園の像は、今も実際に見に行けます。",
+      "今も本物の修道女が暮らすノンベルク修道院は、ドイツ語圏で最も古くから続く修道院。映画の修道院シーンにもインスピレーションを与えました。",
+      "ザルツブルクの旧市街はユネスコ世界遺産で、曲線が美しいバロック様式のドームや塔が何十もあります。"
+    ],
+    "zh": [
+      "萨尔茨堡的名字本意就是“盐堡”——从前盐非常珍贵，被称为“白色黄金”。",
+      "高踞山丘之上的霍亨萨尔茨堡城堡，是欧洲现存最大、保存最完好的中世纪城堡之一，从没有一支军队攻进过城里。",
+      "莫扎特于1756年出生在萨尔茨堡，五岁时就已经开始作曲了。",
+      "电影《音乐之声》于1964年在萨尔茨堡多地取景——“哆来咪”那首歌里出现的喷泉台阶和花园雕像，如今都能实地去看。",
+      "至今仍住着真正修女的侬山修道院，是德语区历史最悠久、从未间断的修道院，也启发了电影里的修道院场景。",
+      "萨尔茨堡老城被列为联合国教科文组织世界遗产，城中矗立着几十座线条优美的巴洛克式圆顶与塔楼。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "언덕 위 성이 900년 동안 한 번도 함락되지 않았대. 왜 그렇게 공격하기 어려웠을까?",
+    "en": "A princely castle on a hill was never captured in 900 years—what do you think made it so hard to attack?",
+    "ja": "丘の上のお城は900年間、一度も陥落しなかったんだって。どうしてそんなに攻めにくかったのかな？",
+    "zh": "山丘上的城堡900年来从未被攻破过，你觉得是什么让它这么难被攻打呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "호엔잘츠부르크 성", "en": "Hohensalzburg Fortress", "ja": "ホーエンザルツブルク城", "zh": "霍亨萨尔茨堡城堡" },
+      "blurb": {
+        "ko": "900년 넘게 언덕 위에서 잘츠부르크를 지켜온 거대한 성이에요. 케이블카를 타고 올라가면 도시와 산 전체가 한눈에 내려다보인답니다. 지금까지 그 어떤 적도 이 성을 무너뜨리지 못했어요.",
+        "en": "This giant fortress has watched over Salzburg from its hilltop for over 900 years and is one of the best-preserved medieval castles in Europe. You can ride a cable car straight up to it and peek out at the whole city and mountains below. No enemy ever managed to conquer it by force.",
+        "ja": "900年以上、丘の上からザルツブルクを見守ってきた巨大な城。ケーブルカーで一気に登ると、街と山々が一望できます。これまでどんな敵もこの城を力ずくで落とせませんでした。",
+        "zh": "这座巨大的城堡900多年来一直矗立山顶守护着萨尔茨堡，是欧洲保存最完好的中世纪城堡之一。乘缆车直达山顶，就能俯瞰整座城市和群山。至今还没有任何敌人能够强攻拿下它。"
+      },
+      "coords": [47.7952, 13.0476]
+    },
+    {
+      "name": { "ko": "모차르트 생가", "en": "Mozart's Birthplace", "ja": "モーツァルトの生家", "zh": "莫扎特故居" },
+      "blurb": {
+        "ko": "1756년 아기 모차르트가 태어난, 활기찬 쇼핑 거리에 있는 노란색 집이에요. 안에는 어린 시절 그가 쓰던 작은 바이올린과 실제로 연주했던 피아노가 전시되어 있어요. 이렇게 작은 집에서 그렇게 큰 재능이 태어났다니 정말 신기하죠!",
+        "en": "A bright yellow house on a lively shopping street where baby Mozart was born in 1756. Inside you can see his tiny childhood violin and the very piano he once played. It's amazing to think such a small house held such a big talent!",
+        "ja": "1756年、赤ちゃんモーツァルトが生まれた、にぎやかな買い物通りにある黄色い家。中には彼が子どもの頃使った小さなバイオリンや、実際に弾いたピアノが展示されています。こんな小さな家からあんなに大きな才能が生まれたなんて、不思議ですね！",
+        "zh": "这是1756年小莫扎特出生的地方，坐落在一条热闹的购物街上，外墙是明亮的黄色。屋内陈列着他儿时用过的小提琴和真正弹奏过的钢琴。很难想象这么小的房子里孕育出了这么伟大的天才！"
+      },
+      "coords": [47.8003, 13.0446]
+    },
+    {
+      "name": { "ko": "미라벨 궁전과 정원", "en": "Mirabell Palace and Gardens", "ja": "ミラベル宮殿と庭園", "zh": "米拉贝尔宫及花园" },
+      "blurb": {
+        "ko": "꽃과 분수, 돌 조각상으로 가득한 아름다운 정원이에요. 한 대주교가 사랑하는 사람을 위해 지었대요. 영화 '사운드 오브 뮤직'에서 아이들이 작은 난쟁이 조각상 옆을 뛰어다니며 노래한 곳이 바로 여기랍니다. 날씨가 맑으면 나무 위로 호엔잘츠부르크 성도 살짝 보인다는 사실!",
+        "en": "Beautiful gardens full of flowers, fountains, and stone statues, built by a prince-archbishop for someone he loved. This is where the kids in The Sound of Music skipped and sang past the little gnome statues. On a clear day, you can even see Hohensalzburg Fortress peeking over the treetops!",
+        "ja": "花や噴水、石の彫像でいっぱいの美しい庭園。ある大司教が愛する人のために造ったと言われています。映画『サウンド・オブ・ミュージック』で子どもたちが小さな小人の像のそばを歌いながら駆け抜けたのも、まさにこの庭園です。晴れた日には木々の向こうにホーエンザルツブルク城もちらりと見えますよ！",
+        "zh": "这座美丽的花园开满鲜花，还有喷泉和石雕像，据说是一位大主教为心爱之人而建。电影《音乐之声》里孩子们在小矮人雕像旁边唱歌蹦跳的场景，正是在这里拍摄的。天气晴朗时，树梢之上还能瞥见霍亨萨尔茨堡城堡呢！"
+      },
+      "coords": [47.8065, 13.0413]
+    },
+    {
+      "name": { "ko": "잘츠부르크 대성당", "en": "Salzburg Cathedral", "ja": "ザルツブルク大聖堂", "zh": "萨尔茨堡大教堂" },
+      "blurb": {
+        "ko": "구시가지 한복판에 자리한 웅장한 바로크 양식 대성당이에요. 돔이 얼마나 큰지 도시 어디서든 보인답니다. 모차르트는 아기 때 이곳에서 세례를 받았고, 훗날 여기서 오르간을 연주하기도 했어요. 청동 문을 지나 위를 올려다보면, 끝없이 펼쳐진 듯한 천장 그림이 여러분을 맞이할 거예요.",
+        "en": "A grand baroque cathedral right in the heart of the Old Town, with a dome so huge it can be seen from almost anywhere in the city. Mozart was baptized here as a baby and later played the organ inside. Step through its bronze doors and look up—the painted ceiling feels like it goes on forever.",
+        "ja": "旧市街の中心にそびえる壮大なバロック様式の大聖堂。ドームがとても大きいので、街のほとんどどこからでも見えます。モーツァルトは赤ちゃんのときここで洗礼を受け、のちにオルガンを演奏したこともあります。青銅の扉をくぐって見上げると、天井いっぱいに広がる絵がまるで空へ続いているように感じられます。",
+        "zh": "这座宏伟的巴洛克式大教堂矗立在老城中心，圆顶巨大，几乎全城都能望见。莫扎特婴儿时曾在这里受洗，后来还在此演奏管风琴。走过青铜大门抬头一看，天花板上的壁画仿佛没有尽头。"
+      },
+      "coords": [47.7982, 13.0490]
+    }
+  ]
+}

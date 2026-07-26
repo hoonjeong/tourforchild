@@ -1,0 +1,120 @@
+{
+  "id": "prague",
+  "country": "cz",
+  "coords": [50.0755, 14.4378],
+  "name": { "ko": "프라하", "en": "Prague", "ja": "プラハ", "zh": "布拉格" },
+  "tagline": {
+    "ko": "언덕 위 거대한 성과 마법의 시계, 진흙 거인 전설이 사는 첨탑 백 개의 도시",
+    "en": "The fairy-tale 'City of a Hundred Spires,' guarded by a castle, a magic clock, and a clay giant's legend",
+    "ja": "丘の上の巨大なお城と魔法の時計、泥の巨人の伝説がすむ『百塔の都』",
+    "zh": "山丘古堡、魔法钟与泥人巨人传说共守的“百塔之城”"
+  },
+  "story": {
+    "ko": [
+      "유럽 한가운데, 굽이치는 강 위 언덕에 뾰족한 탑과 첨탑으로 가득한 도시가 있어요. 사람들은 이 도시를 '첨탑 백 개의 도시'라고 부르죠. 바로 프라하예요. 프라하는 천 년이 넘도록 활기차고 신비로운 도시였답니다. 아주 오래전, 체코 왕들이 강 위 언덕에서 나라를 다스렸고, 도시는 그 성을 중심으로 마치 동화 속 마을처럼 자라났어요.",
+      "약 700년 전, '카를 4세'라는 왕이 프라하를 무척 사랑해서 유럽에서 가장 멋진 도시로 만들기로 했어요. 그는 강 위에 아름다운 돌다리를 놓고 조각상으로 장식했으며, 이 지역 최초의 대학교 중 하나까지 세웠답니다. 사람들은 지금도 그 다리를 건너고, 그 대학교에서 공부하고 있어요!",
+      "프라하 구시가지 한복판에는 1410년부터 째깍째깍 움직여 온 거대한 시계가 있어요. 지금도 여전히 작동한답니다! 매 시간마다 작은 나무 창문이 열리면서 12명의 사도가 줄지어 지나가고, 해골 모양의 인형이 종을 울려요. 세계에서 가장 오래된 천문시계 중 하나인데, 600년 전 그때처럼 지금도 해와 달과 별의 움직임을 알려준답니다.",
+      "하지만 프라하에는 더 신비로운 이야기가 숨어 있어요. 옛날 유대인 지구에서는 한 랍비가 강가의 진흙으로 거대한 사람을 빚고, 마법의 말로 생명을 불어넣어 도시를 지키게 했다는 이야기가 전해져요. 사람들은 그를 '골렘'이라고 불렀죠. 이 이야기가 완전히 사실인지는 아무도 몰라요. 하지만 프라하에서는 성도, 시계도, 진흙 거인도 왠지 다 진짜처럼 느껴진답니다."
+    ],
+    "en": [
+      "High above a curling river in the heart of Europe sits a city so full of towers and spires that people call it 'the City of a Hundred Spires.' Its name is Prague, and it has been a busy, magical town for over a thousand years. Long ago, Czech kings ruled from a hill above the water, and the whole city grew up around their castle like a fairy tale come true.",
+      "About 700 years ago, a king named Charles IV loved Prague so much he decided to make it one of the greatest cities in Europe. He built a beautiful stone bridge across the river, filled it with statues, and even opened one of the very first universities in this part of the world. People still cross his bridge and study at his university today!",
+      "In the middle of Prague's Old Town, a giant clock has been ticking since the year 1410 — and it still works! Every single hour, tiny wooden windows pop open, and twelve apostles parade past while a skeleton rings a bell. It's one of the oldest astronomical clocks in the whole world, and it still tells the time of the sun, the moon, and the stars, just like it did 600 years ago.",
+      "But Prague hides an even stranger story. Long ago in its old Jewish Quarter, people whispered about a rabbi who shaped a giant out of river clay and brought it to life with a magic word to protect the city. They called him the Golem. Nobody knows if the tale is completely true — but in Prague, castles, clocks, and clay giants all somehow feel like they could be real."
+    ],
+    "ja": [
+      "ヨーロッパの真ん中、くねる川のほとりの丘に、とがった塔や尖塔でいっぱいの街があります。人々はこの街を『百塔の都』と呼びます。その名はプラハ。プラハは千年以上もの間、にぎやかで不思議な街でした。むかしむかし、チェコの王様たちが川の上の丘から国を治め、街はそのお城を中心にまるでおとぎ話のように育っていきました。",
+      "今から約700年前、『カレル4世』という王様がプラハをこよなく愛し、ヨーロッパ一の街にしようと決めました。王は川に美しい石の橋をかけて彫像で飾り、この地域で最初の大学のひとつまで開きました。人々は今もその橋を渡り、その大学で学んでいます！",
+      "プラハの旧市街の真ん中には、1410年からずっと時を刻み続けている大きな時計があります。しかも今も動いているのです！毎正時になると小さな木の窓が開き、12人の使徒が行進するように現れ、がい骨の人形が鐘を鳴らします。世界最古級の天文時計で、600年前と同じように、今も太陽や月や星の動きを教えてくれます。",
+      "でも、プラハにはもっと不思議な話が隠れています。むかし、ユダヤ人街では、あるラビが川辺の泥から大きな人の形を作り、魔法の言葉で命をふきこんで街を守らせた、という言い伝えがあります。人々はその巨人を『ゴーレム』と呼びました。この話が本当かどうかは、だれにもわかりません。でもプラハでは、お城も、時計も、泥の巨人も、なんだかぜんぶ本当のことのように感じられるのです。"
+    ],
+    "zh": [
+      "在欧洲中心，一条蜿蜒的河流旁的山丘上，坐落着一座尖塔林立的城市，人们叫它“百塔之城”。它就是布拉格。一千多年来，布拉格一直是一座热闹又充满奇幻色彩的城市。很久很久以前，捷克的国王们就在河边的山丘上治理国家，整座城市围绕着城堡渐渐长大，就像童话故事一样。",
+      "大约700年前，一位名叫“查理四世”的国王非常喜爱布拉格，决心把它建成欧洲最伟大的城市之一。他在河上建起一座美丽的石桥，用雕像装饰它，还创办了这一地区最早的大学之一。直到今天，人们仍然走过他的桥，在他创办的大学里读书！",
+      "在布拉格老城广场的正中央，有一座从1410年起就一直滴答作响的巨大钟表——而且它至今仍在运转！每到整点，小小的木窗就会打开，十二位使徒像游行一样依次经过，一个骷髅木偶还会敲响铜钟。这是世界上最古老的天文钟之一，六百年来一直在告诉人们太阳、月亮和星星的位置。",
+      "不过，布拉格还藏着一个更加神秘的故事。很久以前，在犹太人区，人们传说有一位拉比用河边的泥土捏出一个巨人，再念一句魔法咒语让他活了过来，去守护整座城市。人们称他为“戈仑”。没有人知道这个传说是不是完全真实——但在布拉格，古堡、钟表、还有泥土巨人，似乎都让人觉得有几分真实。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "프라하 성은 기네스 세계기록에 오른 세계에서 가장 큰 고대 성 단지예요. 길이가 축구장 일곱 개를 이어붙인 것과 비슷하답니다!",
+      "구시가지 광장의 천문시계는 1410년부터 지금까지 움직이고 있어요. 지구에서 지금도 작동하는 천문시계 중 가장 오래된 것이랍니다.",
+      "카를교에는 30개의 조각상이 늘어서 있어요. 전설에 따르면 다리를 튼튼하게 하려고 반죽에 달걀노른자까지 섞었다고 해요.",
+      "프라하는 '첨탑 백 개의 도시'라 불리지만, 사실 첨탑은 500개가 넘는대요. 한번 세어 볼래요?",
+      "1348년에 세워진 카렐 대학교는 중앙유럽에서 가장 오래된 대학교예요. 거의 700년째 학생들이 공부하고 있답니다.",
+      "전설에 따르면 한 랍비가 유대인 지구를 지키려고 진흙으로 '골렘'이라는 거인을 만들었대요. 지금도 다락방 어딘가에 잠들어 있을지도 모른다는 이야기가 전해져요!"
+    ],
+    "en": [
+      "Prague Castle is the largest ancient castle complex in the world, according to Guinness World Records — it's almost as long as seven football fields!",
+      "The Astronomical Clock in Old Town Square has been working since 1410, making it the oldest astronomical clock still ticking anywhere on Earth.",
+      "Charles Bridge is lined with 30 statues, and legend says builders even mixed egg yolks into the mortar to make it stronger.",
+      "Prague is nicknamed 'the City of a Hundred Spires' — but count carefully, because it actually has more than 500!",
+      "Charles University, founded in 1348, is the oldest university in Central Europe — students have been learning there for almost 700 years.",
+      "According to legend, a rabbi built a clay giant called the Golem to protect Prague's Jewish Quarter — some say its sleeping body might still be hidden in an attic today!"
+    ],
+    "ja": [
+      "プラハ城はギネス世界記録に認定された、世界最大の古代城郭群です。長さはサッカーコート7つ分ほどもあるんですよ！",
+      "旧市街広場の天文時計は1410年から動き続けています。今も動いている天文時計としては世界最古級なんです。",
+      "カレル橋には30体の彫像が並んでいます。伝説では、橋を丈夫にするために漆喰に卵の黄身まで混ぜたそうです。",
+      "プラハは『百塔の都』と呼ばれますが、実は塔は500以上もあるそうです。数えてみたくなりますね。",
+      "1348年に創立されたカレル大学は、中央ヨーロッパで最も古い大学です。約700年間、学生たちがここで学び続けています。",
+      "伝説によると、あるラビがユダヤ人街を守るために泥で『ゴーレム』という巨人を作ったそうです。今も屋根裏のどこかで眠っているかもしれない、と言われています！"
+    ],
+    "zh": [
+      "布拉格城堡是吉尼斯世界纪录认证的“世界最大古代城堡建筑群”，长度差不多相当于七个足球场连在一起！",
+      "老城广场的天文钟从1410年运转至今，是地球上仍在走动的天文钟里最古老的之一。",
+      "查理大桥上排列着30尊雕像。传说建桥时，工匠们甚至把鸡蛋黄拌进灰浆里，好让桥更坚固。",
+      "布拉格被称为“百塔之城”，可实际上城里的尖塔超过500座呢，你敢数数看吗？",
+      "创立于1348年的查理大学，是中欧历史最悠久的大学，将近700年来学生们一直在这里读书。",
+      "传说一位拉比用泥土做出了名叫“戈仑”的巨人来保护犹太人区。据说直到今天，它可能还沉睡在某个阁楼里！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "1410년부터 지금까지 움직이는 시계와, 진흙으로 만든 거인이 살아났다는 전설 중에서 어느 쪽이 진짜일 것 같아?",
+    "en": "A clock that's been ticking since 1410 and a legend about a clay giant come to life — which one do you think is real?",
+    "ja": "1410年から動き続ける時計と、泥から生まれた巨人の伝説、どっちが本当だと思う？",
+    "zh": "一座从1410年走到现在的钟，和一个泥土捏出来又活过来的巨人传说——你觉得哪个才是真的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "프라하 성", "en": "Prague Castle", "ja": "プラハ城", "zh": "布拉格城堡" },
+      "blurb": {
+        "ko": "천 년 넘게 왕과 황제, 대통령까지 살았던 언덕 위의 성이에요. 어찌나 큰지 기네스 세계기록에도 '세계에서 가장 큰 고대 성 단지'로 올라 있답니다. 고개를 들면 구름을 찌를 듯한 성 비투스 대성당의 첨탑도 보여요.",
+        "en": "This hilltop castle has been home to kings, emperors, and presidents for over a thousand years. It's so huge that Guinness World Records calls it the largest ancient castle complex on Earth. Look up and you'll spot St. Vitus Cathedral's spires poking into the clouds.",
+        "ja": "千年以上、王様や皇帝、大統領まで住んできた丘の上のお城です。あまりの大きさに、ギネス世界記録でも『世界最大の古代城郭群』に認定されています。見上げると、雲を突き刺すような聖ヴィート大聖堂の尖塔も見えますよ。",
+        "zh": "这座山丘上的城堡曾住过国王、皇帝，甚至总统，历史超过一千年。它实在太大了，被吉尼斯世界纪录认定为“世界最大的古代城堡建筑群”。抬头看，你还能看到圣维特大教堂那直插云霄的尖塔。"
+      },
+      "coords": [50.0909, 14.4016]
+    },
+    {
+      "name": { "ko": "카를교", "en": "Charles Bridge", "ja": "カレル橋", "zh": "查理大桥" },
+      "blurb": {
+        "ko": "약 700년 전 카를 4세 왕이 세운 돌다리로, 30개의 성인 조각상이 줄지어 서 있어요. 옛날 프라하의 시장이 북적였던 것처럼, 지금도 매일 음악가와 화가들로 활기가 넘친답니다.",
+        "en": "Built by King Charles IV almost 700 years ago, this stone bridge is lined with 30 statues of saints. Musicians and artists still fill it every day, just like they filled the marketplaces of old Prague.",
+        "ja": "約700年前にカレル4世が建てた石の橋で、30体の聖人像が並んでいます。むかしプラハの市場がにぎわっていたように、今も毎日音楽家や画家たちでにぎやかです。",
+        "zh": "这座石桥由查理四世在约700年前建造，桥上排列着30尊圣人雕像。就像从前布拉格集市那样热闹，如今这里每天依然挤满了音乐家和画家。"
+      },
+      "coords": [50.0865, 14.4114]
+    },
+    {
+      "name": { "ko": "천문시계 (구시가지 광장)", "en": "Astronomical Clock (Old Town Square)", "ja": "天文時計（旧市街広場）", "zh": "天文钟（老城广场）" },
+      "blurb": {
+        "ko": "1410년부터 시간을 알려온 시계예요. 무려 600년이 넘었답니다! 정각이 되면 그 아래 서서 작은 나무 사도 인형들이 창문 앞을 지나가고, 해골 인형이 종을 울리는 모습을 구경해 보세요.",
+        "en": "This clock has told the time since 1410 — that's over 600 years! Stand below it on the hour to watch tiny wooden apostles parade past the windows while a skeleton rings its bell.",
+        "ja": "1410年から時を告げ続けてきた時計です。なんと600年以上も！正時になったら下に立って、小さな木の使徒たちが窓の前を通り過ぎ、がい骨の人形が鐘を鳴らすようすを見てみましょう。",
+        "zh": "这座钟从1410年起就一直在报时，至今已超过六百年！整点时站在它下面，看小小的木制使徒们依次经过窗口，骷髅木偶敲响铜钟。"
+      },
+      "coords": [50.0870, 14.4208]
+    },
+    {
+      "name": { "ko": "황금소로 (프라하 성 안)", "en": "Golden Lane (Prague Castle)", "ja": "黄金の小径（プラハ城内）", "zh": "黄金巷（布拉格城堡内）" },
+      "blurb": {
+        "ko": "프라하 성 안쪽 성벽 사이에 숨어 있는 아주 작은 골목이에요. 옛날엔 성을 지키는 병사와 금세공사, 그리고 전설처럼 금을 만들려던 연금술사들이 살았다고 해요.",
+        "en": "Tucked inside Prague Castle's walls, this tiny street of colorful little houses once housed castle guards, goldsmiths, and — legend says — alchemists trying to turn metal into gold.",
+        "ja": "プラハ城の城壁の間に隠れた、とても小さな路地です。むかしはお城を守る兵士や金細工師、そして伝説によれば金を作ろうとした錬金術師たちが住んでいたそうです。",
+        "zh": "藏在布拉格城堡城墙之间的一条超迷你小巷。从前这里住过守卫城堡的士兵、金匠，据传说还有想把金属变成黄金的炼金术士。"
+      },
+      "coords": [50.0912, 14.4048]
+    }
+  ]
+}

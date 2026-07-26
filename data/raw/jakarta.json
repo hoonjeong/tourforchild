@@ -1,0 +1,120 @@
+{
+  "id": "jakarta",
+  "country": "id",
+  "coords": [-6.2088, 106.8456],
+  "name": { "ko": "자카르타", "en": "Jakarta", "ja": "ジャカルタ", "zh": "雅加达" },
+  "tagline": {
+    "ko": "향신료 무역항에서 세계 손꼽는 거대 도시로 자란 곳",
+    "en": "The old spice-trading port that grew into one of the world's biggest, busiest cities",
+    "ja": "香辛料交易の港から、世界屈指の巨大都市へと育った街",
+    "zh": "从香料贸易小港成长为世界级超级都市的地方"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 인도네시아 자바 섬에는 '순다 클라파'라는 작은 항구 마을이 있었어요. 후추와 향신료를 가득 실은 나무배들이 날마다 드나들었고, 인도와 중국, 아라비아에서 온 상인들이 물건을 사고팔았어요. 이미 아시아에서 손꼽히게 북적이는 항구였답니다.",
+      "그러다 네덜란드 무역선이 들어와 이 마을을 차지해 버렸어요. 그들은 운하가 사방으로 흐르는 완전히 새로운 도시를 세우고, 작은 암스테르담 같다며 '바타비아'라고 이름 붙였어요. 하지만 바타비아는 네덜란드 사람들만의 도시가 아니었어요. 인도네시아, 중국, 아랍, 유럽에서 온 이웃들이 함께 살고 일하며 저마다의 색깔을 남겼답니다.",
+      "인도네시아가 독립을 이룬 뒤, 이 도시는 '자카르타'라는 새 이름을 얻었어요. 그때부터 도시는 놀라운 속도로 커져서, 몇십만 명이던 인구가 천만 명이 넘는 거대 도시로 자라났어요. 지금은 지구에서 가장 크고 활기찬 도시 중 하나랍니다.",
+      "오늘날 자카르타에는 옛것과 새것이 신나게 뒤섞여 있어요. 금빛 기념탑이 유리 마천루 사이로 우뚝 솟아 있고, 오래된 식민지 시대 건물 옆엔 반짝이는 쇼핑몰이 자리하죠. 항구에는 예전처럼 나무배가 여전히 드나든답니다. 자카르타를 걷는다는 건, 500년 역사를 한꺼번에 걷는 것과 같아요."
+    ],
+    "en": [
+      "Hundreds of years ago, on the island of Java, there was a small harbor town called Sunda Kelapa. Wooden ships loaded with pepper and spices sailed in and out every day, and traders from India, China, and Arabia all came to buy and sell. It was already one of the busiest little ports in Asia.",
+      "Then Dutch trading ships arrived and took the town for themselves. They built a brand-new city crisscrossed with canals, a bit like a tiny Amsterdam, and called it Batavia. But Batavia was never just Dutch—Indonesian, Chinese, Arab, and European neighbors all lived and worked side by side, and each left their own flavor behind.",
+      "After Indonesia won its independence, the city took a new name: Jakarta. From then on, it grew at an astonishing speed—from a few hundred thousand people into a megacity of more than ten million, one of the biggest, busiest cities anywhere on Earth.",
+      "Today Jakarta mixes old and new in one wild jumble. A golden monument towers over glass skyscrapers, colonial buildings sit right next to shiny malls, and old wooden ships still dock at the harbor just like centuries ago. Walk through Jakarta, and you're walking through 500 years of history all at once."
+    ],
+    "ja": [
+      "はるか昔、インドネシアのジャワ島に『スンダ・クラパ』という小さな港町がありました。こしょうや香辛料を積んだ木の船が毎日行き来し、インドや中国、アラビアから来た商人たちが品物を売り買いしていました。すでにアジアでも指折りのにぎやかな港だったのです。",
+      "やがてオランダの貿易船がやってきて、この町を自分たちのものにしてしまいました。彼らは運河がめぐる新しい街を築き、小さなアムステルダムのようだと『バタビア』と名づけました。でもバタビアはオランダ人だけの街ではありません。インドネシア人、中国人、アラブ人、ヨーロッパ人が共に暮らし、働き、それぞれの色を残していったのです。",
+      "インドネシアが独立をとげたあと、この街は『ジャカルタ』という新しい名前を得ました。それから街はおどろくべき速さで大きくなり、数十万人だった人口はやがて1000万人を超える巨大都市へと育ちました。今では地球でもっとも大きくにぎやかな都市の一つです。",
+      "今日のジャカルタには、古いものと新しいものが元気いっぱいに入り混じっています。金色の記念塔がガラスの高層ビルの間にそびえ、古い植民地時代の建物のとなりにはぴかぴかのショッピングモールが並びます。港には今も昔と同じように木の船が出入りしているんですよ。ジャカルタを歩くことは、500年の歴史を一度に歩くようなものなのです。"
+    ],
+    "zh": [
+      "很久很久以前，在印度尼西亚的爪哇岛上，有一个叫“巽他格拉巴”的小港口。满载胡椒和香料的木船每天进进出出，来自印度、中国和阿拉伯的商人在这里做买卖。它早已是亚洲最热闹的小港口之一。",
+      "后来，荷兰商船来了，把这个小镇据为己有。他们建起一座运河纵横的全新城市，觉得它像一座小小的阿姆斯特丹，便取名“巴达维亚”。但巴达维亚从来不只属于荷兰人——印度尼西亚人、华人、阿拉伯人和欧洲人比邻而居、一起工作，各自留下了自己的色彩。",
+      "印度尼西亚获得独立后，这座城市有了新名字：雅加达。从那以后，城市以惊人的速度成长，从几十万人口一路膨胀成超过一千万人的超级都市，成为地球上最大、最繁忙的城市之一。",
+      "如今的雅加达，新与旧热闹地交织在一起：金色的纪念塔矗立在玻璃摩天大楼之间，古老的殖民时期建筑紧挨着闪亮的购物中心，港口里至今还停靠着和几百年前一样的木船。走在雅加达街头，就像同时穿越了五百年的历史。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "자카르타는 역사 속에서 이름이 네 번이나 바뀌었어요. 순다 클라파, 자야카르타, 바타비아를 거쳐 지금의 '자카르타'가 되었답니다.",
+      "네덜란드 사람들은 도시 곳곳에 운하를 파고, 고향이 떠오른다며 이곳을 '동양의 여왕'이라고 불렀어요.",
+      "순다 클라파 항구에는 지금도 '피니시'라는 전통 나무배가 드나들어요. 일꾼들이 흔들거리는 나무판자 위로 짐을 손수 나르는 모습을 몇백 년 전처럼 볼 수 있답니다.",
+      "국립기념탑(모나스) 꼭대기의 불꽃 장식은 진짜 금으로 덮여 있어서, 낮에도 밤에도 금빛으로 반짝인답니다.",
+      "이스티클랄 모스크는 동남아시아에서 가장 큰 이슬람 사원이에요. 길 건너 성당과는 땅 밑 '우정의 터널'로 연결되어 있답니다.",
+      "자카르타 일부 지역은 조금씩 땅속으로 가라앉고 있어요. 그래서 인도네시아는 아예 다른 섬에 새로운 수도를 짓고 있답니다!"
+    ],
+    "en": [
+      "Jakarta has had four names in its history: Sunda Kelapa, Jayakarta, Batavia, and finally Jakarta.",
+      "Dutch settlers dug canals all through the city and called it 'Queen of the East' because it reminded them of home.",
+      "At Sunda Kelapa harbor, wooden ships called pinisi still dock today, and workers carry heavy cargo up wobbly wooden planks by hand—just like hundreds of years ago.",
+      "The flame on top of the National Monument (Monas) is covered in real gold, and it glows gold in the sunlight day and night.",
+      "Istiqlal Mosque is the biggest mosque in Southeast Asia, and it's connected to the Catholic cathedral across the street by an underground 'Tunnel of Friendship.'",
+      "Parts of Jakarta are slowly sinking into the ground—so Indonesia is building a whole new capital city on another island!"
+    ],
+    "ja": [
+      "ジャカルタは歴史の中で名前が4回も変わりました。スンダ・クラパ、ジャヤカルタ、バタビアを経て、今の『ジャカルタ』になったのです。",
+      "オランダ人は街のあちこちに運河を掘り、故郷を思い出すからと、この街を『東洋の女王』と呼びました。",
+      "スンダ・クラパ港には今も『ピニシ』という伝統の木造船が出入りしています。ゆらゆらする木の板の上を、働く人たちが荷物を手で運ぶ様子は、何百年も前と変わりません。",
+      "国立モニュメント（モナス）のてっぺんの炎の飾りは本物の金でおおわれていて、昼も夜も金色に輝いています。",
+      "イスティクラル・モスクは東南アジアで最大のイスラム寺院。道の向かいのカトリック大聖堂とは、地下の『友情のトンネル』でつながっています。",
+      "ジャカルタの一部は少しずつ地面に沈みこんでいます。そのためインドネシアは、まったく別の島に新しい首都を建設しているんですよ！"
+    ],
+    "zh": [
+      "雅加达在历史上换过四次名字：巽他格拉巴、查雅加达、巴达维亚，最后才成为今天的“雅加达”。",
+      "荷兰人在城里到处挖运河，觉得像极了家乡，于是把这里称作“东方女王”。",
+      "在巽他格拉巴港，如今仍停靠着叫“皮尼西”的传统木船，工人们像几百年前一样，徒手扛着货物走过晃晃悠悠的木跳板。",
+      "国家纪念塔（莫纳斯）顶端的火焰装饰镀着真金，无论白天黑夜都闪着金光。",
+      "伊斯蒂克拉尔清真寺是东南亚最大的清真寺，它和马路对面的天主教座堂之间，还有一条地下通道相连，名叫“友谊隧道”。",
+      "雅加达有些地区正一点点往地底下沉——因此印度尼西亚正在另一座岛上建造一座全新的首都呢！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "자카르타는 해마다 조금씩 땅속으로 가라앉고 있대. 도시가 가라앉지 않게 하려면 어떻게 하면 좋을까?",
+    "en": "Jakarta is slowly sinking into the ground every year—what do you think a city could do to stop that?",
+    "ja": "ジャカルタは毎年少しずつ地面に沈んでいるんだって。街が沈まないようにするには、どうしたらいいと思う？",
+    "zh": "雅加达每年都在一点点往地下沉——你觉得怎样才能让一座城市不再下沉呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "코타 투아 (구시가지)", "en": "Kota Tua (Old Town)", "ja": "コタ・トゥア（旧市街）", "zh": "老城区（Kota Tua）" },
+      "blurb": {
+        "ko": "돌이 깔린 이 광장은 옛 바타비아의 중심지였어요. 주변엔 네덜란드 식민지 시대 건물들이 둘러싸고 있는데, 지금은 박물관이 되었답니다. '델만'이라는 마차가 여전히 광장을 또각또각 지나다니고, 거리 공연자들이 옛날처럼 음악을 연주해요.",
+        "en": "This cobblestone square was the heart of old Batavia, ringed by Dutch colonial buildings that are now museums. Horse-drawn carriages called delman still clip-clop across the square, and street performers play music just like they did generations ago.",
+        "ja": "石畳のこの広場は、かつてのバタビアの中心地でした。まわりにはオランダ植民地時代の建物が並び、今は博物館になっています。『デルマン』と呼ばれる馬車が今も広場をカタカタと走り、大道芸人たちが昔ながらに音楽を奏でています。",
+        "zh": "这座石板广场曾是老巴达维亚的中心，四周环绕着如今已变成博物馆的荷兰殖民时期建筑。名叫“delman”的马车至今仍嗒嗒地穿过广场，街头艺人也像从前一样在这里演奏音乐。"
+      },
+      "coords": [-6.1352, 106.8133]
+    },
+    {
+      "name": { "ko": "순다 클라파 항구", "en": "Sunda Kelapa Harbor", "ja": "スンダ・クラパ港", "zh": "巽他格拉巴港" },
+      "blurb": {
+        "ko": "바타비아가 생기기도 전, 자카르타 이야기가 시작된 바로 그 자리예요. 오늘날에도 알록달록한 나무배 '피니시'들이 줄지어 서 있고, 몇백 년 전처럼 손으로 짐을 나른답니다. 물 위에 떠 있는 살아있는 역사 수업 같아요.",
+        "en": "This is the very spot where Jakarta's story began, hundreds of years before Batavia existed. Today, colorful wooden pinisi ships still line up here, loaded by hand exactly the way they were centuries ago—it's like a living history lesson floating on the water.",
+        "ja": "バタビアができるずっと前、ジャカルタの物語が始まった、まさにその場所です。今もカラフルな木造船『ピニシ』がずらりと並び、何百年も前と同じように手で荷物が積みこまれています。まるで水に浮かぶ生きた歴史の授業ですね。",
+        "zh": "这里正是雅加达故事开始的地方，比巴达维亚建城还要早几百年。如今，色彩鲜艳的木船“皮尼西”仍一字排开停靠在这里，工人们照旧徒手装卸货物——就像一堂漂浮在水面上的活历史课。"
+      },
+      "coords": [-6.1075, 106.8046]
+    },
+    {
+      "name": { "ko": "국립기념탑 (모나스)", "en": "National Monument (Monas)", "ja": "国立モニュメント（モナス）", "zh": "国家纪念塔（莫纳斯）" },
+      "blurb": {
+        "ko": "높이 130미터가 넘는 모나스는 인도네시아 독립이 탄생한 자리를 기념하는 탑이에요. 거대한 촛불 모양의 탑 꼭대기엔 황금빛 불꽃 장식이 반짝이죠. 엘리베이터를 타고 꼭대기까지 올라가면 거대 도시 자카르타가 발아래 펼쳐진답니다.",
+        "en": "Standing over 130 meters tall, Monas marks the spot where Indonesia's independence was born, its tower shaped like a giant candle and lit with a golden flame. Ride the elevator to the very top and the whole megacity of Jakarta spreads out beneath you.",
+        "ja": "高さ130メートルを超えるモナスは、インドネシアの独立が生まれた場所を記念する塔です。巨大なろうそくのような形の塔のてっぺんには、金色の炎の飾りが輝いています。エレベーターで頂上まで上がると、巨大都市ジャカルタが足もとに広がります。",
+        "zh": "高逾130米的莫纳斯，纪念着印度尼西亚独立诞生的地点，塔身形似一根巨大的蜡烛，顶端点缀着金色火焰。乘电梯直达塔顶，整座雅加达超级都市便在脚下铺展开来。"
+      },
+      "coords": [-6.1754, 106.8272]
+    },
+    {
+      "name": { "ko": "이스티클랄 모스크", "en": "Istiqlal Mosque", "ja": "イスティクラル・モスク", "zh": "伊斯蒂克拉尔清真寺" },
+      "blurb": {
+        "ko": "동남아시아에서 가장 큰 이슬람 사원으로, 커다란 돔 아래에 20만 명이 넘는 사람이 한꺼번에 들어갈 수 있어요. 길 건너에는 자카르타 대성당이 서 있는데, 두 건물은 땅 밑 '우정의 터널'로 이어져 있답니다.",
+        "en": "The biggest mosque in Southeast Asia can hold more than 200,000 people at once under its giant dome. Right across the street stands Jakarta Cathedral, and the two buildings are linked by an underground passage called the 'Tunnel of Friendship.'",
+        "ja": "東南アジア最大のイスラム寺院で、巨大なドームの下に20万人以上が一度に入ることができます。道の向かいにはジャカルタ大聖堂が建っていて、二つの建物は地下の『友情のトンネル』でつながっています。",
+        "zh": "这是东南亚最大的清真寺，巨大的穹顶下可同时容纳超过20万人。马路对面就是雅加达天主教座堂，两座建筑之间还有一条地下通道相连，名叫“友谊隧道”。"
+      },
+      "coords": [-6.1701, 106.8309]
+    }
+  ]
+}

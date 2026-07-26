@@ -1,0 +1,120 @@
+{
+  "id": "lisbon",
+  "country": "pt",
+  "coords": [38.7223, -9.1393],
+  "name": { "ko": "리스본", "en": "Lisbon", "ja": "リスボン", "zh": "里斯本" },
+  "tagline": {
+    "ko": "일곱 언덕에서 세계로 나아간 도시, 무너진 뒤 더 안전하게 다시 태어나다",
+    "en": "Where explorers set sail from seven hills — and a quake taught the world to build safer",
+    "ja": "七つの丘から世界へ船出した街――崩れても、もっと安全に生まれ変わった",
+    "zh": "从七座山丘扬帆驶向世界的城市——倒下后，重生得更坚固"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 유럽 서쪽 끝 언덕 위 도시 리스본에서 배들이 세계를 향해 돛을 올렸어요. 포르투갈의 뱃사람들은 그 누구도 가보지 못한 바다를 건너, 아프리카를 빙 돌아 저 멀리 인도까지 처음으로 항해한 사람들이었죠. 리스본 항구는 향신료와 비단, 황금을 실은 배들로 북적였고, 도시는 눈부시게 화려해졌어요. 사람들은 리스본을 '유럽과 온 세상을 잇는 문'이라고 불렀답니다.",
+      "그런데 1755년 어느 조용한 아침, 모든 것이 바뀌었어요. 그날은 축제일이라 사람들 대부분이 교회 안에 있었는데, 갑자기 땅이 쿵쿵 흔들리기 시작했죠. 몇 분 뒤에는 거대한 파도가 바다에서 밀려들었고, 남아 있던 건물마저 불길에 휩싸였어요. 단 몇 시간 만에, 유럽에서 가장 화려했던 도시 하나가 폐허로 변해버렸답니다.",
+      "하지만 리스본은 포기하지 않았어요. '폼발 후작'이라는 지혜로운 지도자는 반듯하고 곧은 새 거리를 계획했고, 정말 놀랍게도 건물 벽 속에 나무로 짠 뼈대를 숨겨 넣었어요. 다음에 지진이 와도 무너지지 않고 살짝 흔들리며 버티도록 만든 거예요. 심지어 이 설계를 시험하려고 작은 건물 모형 주위로 군인들을 행진시켜 땅을 흔들어 보기도 했대요! 리스본은 세계 최초의 '지진에 강한 도시' 중 하나가 되었답니다.",
+      "오늘날 리스본은 다시 색색으로 반짝여요. 노란 꼬마 전차들이 삐걱삐걱 소리를 내며 가파른 언덕을 오르내리는 모습은 마치 느린 롤러코스터 같고, 강가에는 옛날 뱃사람들이 손 흔들며 떠나던 그 모습 그대로 탑 하나가 우뚝 서 있어요. 수도원의 비밀 레시피로 구운 따뜻한 에그타르트를 한 입 베어 물면, 수백 년 동안 리스본 사람들을 행복하게 해준 그 달콤함을 그대로 맛볼 수 있답니다."
+    ],
+    "en": [
+      "Long ago, on the western edge of Europe, ships set sail from a hilly city called Lisbon to explore the whole wide world. Portuguese sailors were some of the first Europeans to cross oceans no one had mapped before, sailing all the way around Africa to India. Lisbon grew rich and dazzling, its harbor filled with ships loaded with spices, silk, and gold. People called it the gateway between Europe and the rest of the world.",
+      "Then, on a quiet morning in 1755, everything changed. It was a holiday, so almost everyone was inside churches when the ground suddenly began to shake — hard. Minutes later a giant wave rushed in from the sea, and fires raced through what was left standing. In just a few hours, one of Europe's grandest cities lay in ruins.",
+      "But Lisbon didn't give up. A clever leader named the Marquis of Pombal ordered brand-new streets built in neat, straight lines, and — this is the amazing part — the new buildings had a hidden wooden skeleton inside their walls that could wobble and bend instead of crashing down in the next earthquake. Builders even marched soldiers around tiny models to shake them like an earthquake, just to test the design! It became one of the world's first earthquake-proof cities.",
+      "Today Lisbon is full of color again. Little yellow trams squeak and rattle up and down its steep hills like slow-motion roller coasters, and a tower by the river still stands guard exactly as it did when sailors waved goodbye centuries ago. Bite into a warm custard tart baked from a secret monastery recipe, and you're tasting a sweetness that has delighted Lisbon for hundreds of years."
+    ],
+    "ja": [
+      "はるか昔、ヨーロッパの西のはしにある丘の街リスボンから、船が世界へ向けて出発しました。ポルトガルの船乗りたちは、だれも渡ったことのない海を越え、アフリカをぐるりと回ってはるかインドまで初めてたどり着いた人々でした。リスボンの港には香辛料や絹、金を積んだ船がひしめき、街はまばゆいほど栄えました。人々はリスボンを『ヨーロッパと世界をつなぐ門』と呼んだのです。",
+      "ところが1755年のある静かな朝、すべてが変わってしまいました。その日は祝日で、ほとんどの人が教会の中にいたとき、突然大地がはげしく揺れはじめたのです。数分後には海から巨大な波が押し寄せ、残った建物も炎に包まれました。わずか数時間で、ヨーロッパでも指折りの華やかな街が、廃きょになってしまったのです。",
+      "それでもリスボンはあきらめませんでした。『ポンバル侯爵』という知恵者が、まっすぐで整った新しい通りを計画し、そして驚くことに、建物の壁の中に木製のかくれた骨組みを仕込みました。次に地震が来ても、崩れずにゆらゆらとしなるように作られていたのです。この設計を試すため、小さな建物の模型のまわりを兵士たちに行進させて、まるで地震のように揺らしてみたそうです！リスボンは世界でも最初期の『地震に強い街』の一つになりました。",
+      "今日のリスボンは、ふたたび色とりどりに輝いています。黄色い小さな路面電車がきしみながら急な坂を上り下りする様子は、まるでゆっくりしたジェットコースターのよう。川辺には、昔の船乗りたちが手をふって旅立ったころと同じ姿の塔がいまも立っています。修道院の秘伝レシピで焼かれた温かいエッグタルトをひとくちかじれば、何百年もリスボンの人々を幸せにしてきた、あの甘さをそのまま味わえます。"
+    ],
+    "zh": [
+      "很久很久以前，在欧洲最西边一座建在山丘上的城市里斯本，船只扬帆驶向了整个世界。葡萄牙的水手是最早穿越无人航行过的大海、绕过非洲一路航行到印度的欧洲人。里斯本的港口挤满了满载香料、丝绸和黄金的船只，城市变得无比繁华。人们把里斯本称作“连接欧洲与世界的大门”。",
+      "可是到了1755年的一个宁静早晨，一切都变了。那天正好是节日，几乎所有人都在教堂里，大地突然剧烈地摇晃起来。几分钟后，一股巨浪从海上涌来，残存的建筑也燃起了大火。短短几个小时内，欧洲最辉煌的城市之一变成了一片废墟。",
+      "但里斯本没有放弃。一位名叫庞巴尔侯爵的聪明领导者下令重新规划整齐笔直的街道，更神奇的是，新建筑的墙壁里都藏着一副木头骨架，能在下次地震时摇晃弯曲，而不是轰然倒塌。工匠们甚至让士兵绕着小小的建筑模型列队行进，像地震一样摇晃它，来测试这个设计！里斯本因此成为世界上最早拥有“抗震建筑”的城市之一。",
+      "今天的里斯本又变得色彩斑斓。黄色的小电车吱吱嘎嘎地爬上爬下陡峭的山坡，就像一部慢动作过山车；河边依然矗立着一座塔，模样跟几百年前水手们挥手告别时一模一样。咬一口用修道院秘方烤出的温热蛋挞，你尝到的甜蜜，正是数百年来一直让里斯本人幸福的味道。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "리스본은 일곱 개의 언덕 위에 세워져서, 노란 꼬마 전차(특히 유명한 28번 전차)가 언덕길을 오르내리며 마치 느린 롤러코스터처럼 달려요.",
+      "1755년 11월 1일, 거대한 지진에 이어 큰 파도와 무서운 불길까지 덮쳐 도시 대부분이 몇 시간 만에 무너졌어요. 유럽 역사상 가장 큰 재난 중 하나로 기억된대요.",
+      "지진 이후 사람들은 '폼발린 뼈대'라는 것을 발명했어요. 벽 속에 나무 뼈대를 숨겨서, 지진이 나면 무너지지 않고 흔들리며 버티게 만든 거예요. 세계 최초의 내진 건축 기술 중 하나랍니다.",
+      "이 설계를 시험하려고, 사람들은 작은 건물 모형 주위로 군인들을 행진시켜 땅을 흔드는 척했대요. 컴퓨터도 없이 오직 발걸음으로 지진을 흉내 낸 거죠!",
+      "벨렝 탑과 제로니무스 수도원은 포르투갈의 위대한 대항해를 기념하려고 지어졌어요. 도시 중심에서 살짝 떨어져 있던 덕분에, 둘 다 1755년 지진에도 거의 멀쩡했답니다.",
+      "달콤한 에그타르트 '파스텔 드 벨렝'은 원래 수도원 수도사들이 처음 구웠는데, 정확한 레시피는 지금도 꽁꽁 숨겨진 비밀이래요."
+    ],
+    "en": [
+      "Lisbon is built on seven hills, so its cute yellow trams — like the famous Tram 28 — climb and dip through the streets like slow-motion roller coasters.",
+      "On November 1, 1755, a massive earthquake — followed by a giant wave and raging fires — destroyed most of the city in just a few hours. It's remembered as one of the deadliest disasters in European history.",
+      "After the quake, builders invented the 'Pombaline cage' — a flexible wooden frame hidden inside walls that lets buildings sway instead of collapse. It's one of the first earthquake-resistant building designs ever made.",
+      "To test the new design, workers marched troops of soldiers around a model building to shake it like a real earthquake — no computers, just marching feet!",
+      "Belém Tower and Jerónimos Monastery were built to celebrate Portugal's great ocean voyages. Because they stood a little outside the city center, both survived the 1755 earthquake almost untouched.",
+      "The sweet custard tarts called pastéis de Belém were first baked by monks at the monastery, and the exact recipe is still a closely guarded secret today."
+    ],
+    "ja": [
+      "リスボンは七つの丘の上にできた街なので、有名な28番の路面電車をはじめ、黄色い小さな電車が坂道を上り下りしながら、まるでスローモーションのジェットコースターみたいに走ります。",
+      "1755年11月1日、大地震のあと巨大な波とはげしい炎までもが街をおそい、わずか数時間で街の大部分がこわれてしまいました。ヨーロッパ史上最大級の災害の一つとして記憶されています。",
+      "地震のあと、人々は『ポンバル式の骨組み』というものを発明しました。壁の中に木の骨組みをかくし、地震が来ても崩れずにゆらゆらとしなるようにしたのです。世界でも最初期の耐震建築の一つです。",
+      "この設計を試すため、人々は小さな建物の模型のまわりに兵士を行進させ、地震のように揺らしてみたそうです。コンピューターなんてない時代、足音だけで地震をまねしたのですね！",
+      "ベレンの塔とジェロニモス修道院は、ポルトガルの大航海の偉業を記念して建てられました。街の中心から少しはなれていたおかげで、どちらも1755年の地震でほとんど無事だったのです。",
+      "甘いエッグタルト『パステル・デ・ベレン』は、もともと修道院の修道士たちが焼いたのが始まり。正確なレシピは今もかたく守られた秘密なんですよ。"
+    ],
+    "zh": [
+      "里斯本建在七座山丘之上，所以黄色的小电车——尤其是著名的28号电车——会像慢动作过山车一样，沿着坡道爬上爬下。",
+      "1755年11月1日，一场大地震之后又涌来巨浪、燃起大火，短短几个小时里，城市的大部分都被摧毁了。这被认为是欧洲历史上最严重的灾难之一。",
+      "地震之后，人们发明了一种叫“庞巴尔木笼架”的结构——把木头骨架藏进墙壁里，这样再遇到地震时房子就会摇晃而不是倒塌。这是世界上最早的抗震建筑技术之一。",
+      "为了测试这个设计，人们让士兵绕着小小的建筑模型列队行进，像地震一样摇晃它。没有电脑的年代，靠的就是脚步声来模拟地震！",
+      "贝伦塔和热罗尼莫斯修道院是为了纪念葡萄牙伟大的航海壮举而建的。因为它们离市中心稍远，所以在1755年地震中都几乎完好无损。",
+      "甜甜的蛋挞“贝伦蛋挞”最早是修道院里的修士烤出来的，如今确切的配方依然是被严密守护的秘密。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "지진 때문에 도시 전체가 와르르 무너졌는데, 사람들은 어떻게 다음엔 무너지지 않는 집을 지을 방법을 알아냈을까?",
+    "en": "A whole city got shaken to pieces by an earthquake — so how did people figure out how to build houses that wouldn't fall down next time?",
+    "ja": "地震で街がまるごとくずれてしまったのに、人々はどうやって次は崩れない家の建て方を見つけたのかな？",
+    "zh": "一场地震把整座城市都震塌了，人们后来是怎么想出办法，盖出下次不会倒的房子的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "벨렝 탑", "en": "Belém Tower", "ja": "ベレンの塔", "zh": "贝伦塔" },
+      "blurb": {
+        "ko": "이 동화 같은 탑은 리스본 항구를 지키려고, 그리고 세계 탐험을 떠나는 뱃사람들에게 손을 흔들어 배웅하려고 강가에 세워졌어요. 돌 위에는 밧줄 같은 바다의 상징들이 새겨져 있는데, 배와 뱃사람들이 있었기에 포르투갈의 위대한 항해가 가능했기 때문이랍니다.",
+        "en": "This fairy-tale tower was built right at the river's edge to guard Lisbon's harbor — and to wave farewell to sailors heading off to explore the world. Carved into its stone are ropes and other symbols of the sea, since ships and sailors were what made Portugal's great voyages possible.",
+        "ja": "このおとぎ話のような塔は、リスボンの港を守るため、そして世界へ旅立つ船乗りたちに手をふって見送るために、川のほとりに建てられました。石には縄などの海のしるしが彫られていて、船と船乗りたちがいたからこそ、ポルトガルの大航海が実現できたことを表しています。",
+        "zh": "这座童话般的塔楼建在河边，用来守护里斯本的港口，也用来向出海探险的水手们挥手道别。石头上雕刻着绳索等海洋的象征图案，因为正是船只与水手，才让葡萄牙伟大的航海壮举得以实现。"
+      },
+      "coords": [38.6916, -9.2160]
+    },
+    {
+      "name": { "ko": "제로니무스 수도원", "en": "Jerónimos Monastery", "ja": "ジェロニモス修道院", "zh": "热罗尼莫斯修道院" },
+      "blurb": {
+        "ko": "마누엘 1세 왕은 바스쿠 다 가마가 인도 항해에서 가져온 보물로 이 크고 아름다운 수도원을 지었어요. 돌기둥마다 배와 밧줄, 바다 생물들이 조각되어 있고, 이곳 수도사들이 바로 그 유명한 에그타르트를 처음 구운 사람들이랍니다.",
+        "en": "King Manuel I paid for this huge, beautiful monastery with riches brought back from Vasco da Gama's voyage to India. Its stone columns are carved with ships, ropes, and sea creatures — and its monks are the very ones who first baked the famous custard tarts.",
+        "ja": "マヌエル1世は、ヴァスコ・ダ・ガマがインド航海で持ち帰った富を使い、この大きく美しい修道院を建てました。石の柱には船やロープ、海の生き物が彫られていて、この修道院の修道士たちこそ、あの有名なエッグタルトを最初に焼いた人たちなのです。",
+        "zh": "曼努埃尔一世国王用达伽马印度航行带回的财富，建造了这座宏伟美丽的修道院。石柱上雕刻着船只、绳索和海洋生物，而这里的修士，正是最早烤出那著名蛋挞的人。"
+      },
+      "coords": [38.6979, -9.2068]
+    },
+    {
+      "name": { "ko": "상 조르제 성", "en": "São Jorge Castle", "ja": "サン・ジョルジェ城", "zh": "圣乔治城堡" },
+      "blurb": {
+        "ko": "리스본에서 가장 높은 언덕 위에 자리한 이 성은 천 년이 넘도록 도시를 내려다보고 있어요. 성벽에 올라가면 리스본의 일곱 언덕이 한눈에 펼쳐지고, 성 안뜰을 당당하게 걸어 다니는 공작새들도 만날 수 있답니다!",
+        "en": "Perched on Lisbon's highest hill, this castle has watched over the city for more than a thousand years. Climb its walls and you can see all seven hills of Lisbon spread out below — plus peacocks strolling proudly around the grounds!",
+        "ja": "リスボンで一番高い丘に建つこの城は、千年以上も街を見守ってきました。城壁にのぼると、リスボンの七つの丘がすべて見わたせ、庭を堂々と歩く孔雀にも出会えますよ！",
+        "zh": "这座城堡坐落在里斯本最高的山丘上，一千多年来一直守望着这座城市。爬上城墙，就能俯瞰里斯本七座山丘的全景，还能看到孔雀在庭院里神气地散步呢！"
+      },
+      "coords": [38.7139, -9.1335]
+    },
+    {
+      "name": { "ko": "코메르시우 광장", "en": "Praça do Comércio (Commerce Square)", "ja": "コメルシオ広場", "zh": "商业广场" },
+      "blurb": {
+        "ko": "이 웅장한 강변 광장은 1755년 지진 이후, 새로 태어난 리스본 도심의 자랑스러운 중심으로 지어졌어요. 예전에 왕궁이 서 있던 자리에는 이제 말을 탄 왕의 거대한 동상이 서 있답니다.",
+        "en": "This grand riverside square was built after the 1755 earthquake as the shining centerpiece of Lisbon's brand-new, earthquake-safer downtown. A giant statue of a king on horseback stands where a royal palace once stood, before it was destroyed.",
+        "ja": "この壮大な川辺の広場は、1755年の地震のあと、新しく生まれ変わったリスボンの中心として建てられました。かつて王宮が建っていた場所には、今、馬に乗った王様の巨大な像が立っています。",
+        "zh": "这座宏伟的滨河广场是在1755年地震之后建成的，是里斯本焕然一新、更加抗震的市中心的闪耀核心。曾经矗立着王宫的地方，如今立着一尊国王骑马的巨大雕像。"
+      },
+      "coords": [38.7075, -9.1364]
+    }
+  ]
+}

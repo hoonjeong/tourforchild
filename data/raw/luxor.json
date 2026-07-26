@@ -1,0 +1,120 @@
+{
+  "id": "luxor",
+  "country": "eg",
+  "coords": [25.6872, 32.6396],
+  "name": { "ko": "룩소르", "en": "Luxor", "ja": "ルクソール", "zh": "卢克索" },
+  "tagline": {
+    "ko": "소년 왕의 황금 보물이 3000년 동안 숨겨져 있던 고대 이집트의 수도",
+    "en": "Ancient Egypt's capital, where a boy king's gold lay hidden for 3,000 years",
+    "ja": "少年王の黄金が3000年も隠されていた、古代エジプトの都",
+    "zh": "少年国王的黄金宝藏藏了三千年的古埃及都城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 이집트 나일강 강가에는 '테베'라는 눈부신 도시가 있었어요. 지금 우리가 '룩소르'라고 부르는 곳이죠. 천 년이 넘도록 이곳은 고대 이집트의 심장이었고, 힘센 파라오들과 황금 궁전, 신을 위한 거대한 신전들로 가득했답니다.",
+      "이집트 사람들은 파라오가 죽어도 그 영혼은 영원히 산다고 믿었어요. 그래서 죽은 뒤에도 쓸 보물을 가득 채운 무덤을 만들어 주었죠. 도둑이 찾지 못하도록, 강 건너편 바위투성이 골짜기 깊숙한 곳에 무덤을 숨기고 비밀 문까지 만들었답니다.",
+      "수천 년이 흐르는 동안 숨겨진 무덤은 거의 다 발견되어 도둑맞았어요. 딱 하나만 빼고요! 1922년, 하워드 카터라는 탐험가가 땅을 파고 또 파다가 마침내 봉인된 문을 발견했어요. 그 안에는 '투탕카멘'이라는 소년 왕의 무덤이 있었고, 3000년 넘게 아무도 건드리지 않은 보물들과 눈부신 순금 가면이 그대로 남아 있었답니다.",
+      "오늘날에도 룩소르에서는 파라오들이 걷던 그 자리를 그대로 거닐며, 거대한 돌기둥과 조각상 사이를 걸을 수 있어요. 어떤 사람들은 해 뜰 무렵 열기구를 타고 신전 위를 둥둥 떠다니며, 황금빛으로 물든 고대 도시 전체를 내려다보기도 한답니다."
+    ],
+    "en": [
+      "Long, long ago, on the banks of the Nile River in Egypt, stood a magnificent city called Thebes — the place we now call Luxor. For over a thousand years it was the beating heart of ancient Egypt, home to powerful pharaohs, golden palaces, and towering temples built to honor the gods.",
+      "The Egyptians believed that after a pharaoh died, his spirit lived on forever, so they filled him a tomb with treasures for the afterlife. To keep robbers away, they hid these tombs deep in a rocky valley on the far side of the river, carving secret doors into the cliffs.",
+      "Almost every hidden tomb was found and robbed over thousands of years — except one. In 1922, an explorer named Howard Carter dug and dug until he found a sealed door leading to the tomb of a boy king named Tutankhamun, its treasures untouched for more than 3,000 years, including a dazzling solid-gold mask.",
+      "Today you can still walk among Luxor's giant stone columns and statues, exactly where pharaohs once walked. Some visitors even float over the temples at sunrise in a hot air balloon, watching the whole ancient city glow gold beneath them."
+    ],
+    "ja": [
+      "はるか昔、エジプトのナイル川のほとりに『テーベ』というまばゆい都がありました。今わたしたちが『ルクソール』と呼ぶ場所です。千年以上もの間、ここは古代エジプトの中心地で、力強いファラオたちや黄金の宮殿、神々をたたえる巨大な神殿でいっぱいでした。",
+      "エジプトの人々は、ファラオが亡くなってもその魂は永遠に生き続けると信じていました。だから死後の世界で使う宝物をたっぷりつめたお墓を用意したのです。泥棒に見つからないように、川の向こう側の岩だらけの谷の奥深くにお墓を隠し、秘密の扉まで作りました。",
+      "数千年のあいだに、隠されたお墓のほとんどは見つかって盗まれてしまいました。でも、たったひとつだけ無事だったんです！1922年、ハワード・カーターという探検家が掘りに掘りつづけ、ついに封印された扉を見つけました。その先には『ツタンカーメン』という少年王のお墓があり、3000年以上だれも手をふれていない宝物と、まばゆい純金の仮面がそのまま残っていたのです。",
+      "今でもルクソールでは、ファラオたちが歩いたその場所を、巨大な石柱や像のあいだを歩いてめぐることができます。日の出とともに気球に乗って神殿の上をふわふわ飛び、黄金色にかがやく古代都市全体を見下ろす人もいるんですよ。"
+    ],
+    "zh": [
+      "很久很久以前，在埃及尼罗河畔，有一座光彩夺目的城市，名叫“底比斯”——也就是我们今天所说的卢克索。一千多年间，这里都是古埃及的心脏，住着强大的法老，拥有黄金宫殿和献给众神的巨大神庙。",
+      "古埃及人相信，法老死后灵魂会永远活着，于是他们为法老建造了装满珍宝的陵墓，供来世使用。为了不让盗墓贼找到，他们把陵墓深深藏在河对岸一片布满岩石的山谷里，还凿出了秘密的门。",
+      "几千年过去，几乎所有隐藏的陵墓都被人发现并盗走了——只有一座例外！1922年，一位名叫霍华德·卡特的探险家不断挖掘，终于找到了一扇封闭的门。门后是一位少年国王“图坦卡蒙”的陵墓，里面的珍宝三千多年来无人触碰，还有一副耀眼的纯金面具原封未动。",
+      "直到今天，你仍然可以走在法老们当年走过的地方，穿梭于巨大的石柱和雕像之间。有些游客甚至会在日出时乘热气球飘过神庙上空，俯瞰整座闪耀着金色光芒的古老城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "룩소르는 천 년 넘게 이집트의 수도였던 고대 도시 '테베' 자리에 세워졌어요.",
+      "카르나크 신전에는 거대한 돌기둥 134개가 마치 '돌로 된 숲'처럼 빽빽하게 서 있는데, 어떤 기둥은 6층 건물만큼 높아요.",
+      "파라오들은 도둑을 피해 바위산을 깎아 만든 '왕가의 계곡' 비밀 무덤에 묻혔어요.",
+      "1922년에 발견된 투탕카멘의 무덤은 거의 손대지 않은 채였고, 3000년이 지나도 순금 가면이 그대로 남아 있었어요.",
+      "카르나크 신전과 룩소르 신전을 잇는 3킬로미터 가까운 길에는 스핑크스 조각상이 줄지어 서 있었어요.",
+      "룩소르의 오벨리스크 하나는 선물로 보내져, 지금은 프랑스 파리의 광장에 우뚝 서 있답니다."
+    ],
+    "en": [
+      "Luxor was built on the site of ancient Thebes, Egypt's capital for over a thousand years.",
+      "Karnak Temple has 134 giant stone columns packed together like a stone forest — some are as tall as a 6-story building.",
+      "Pharaohs were buried in secret tombs cut deep into cliffs in the Valley of the Kings, hidden away from robbers.",
+      "Tutankhamun's tomb, found in 1922, was almost untouched — its solid-gold burial mask still there after 3,000 years.",
+      "A nearly 3-kilometer road lined with stone sphinxes once connected Karnak Temple to Luxor Temple.",
+      "One of Luxor's ancient obelisks was given away as a gift and now stands in a public square in Paris, France."
+    ],
+    "ja": [
+      "ルクソールは、千年以上エジプトの都だった古代都市『テーベ』のあった場所に築かれました。",
+      "カルナック神殿には134本もの巨大な石柱が『石の森』のように立ちならび、中には6階建てビルほどの高さのものもあります。",
+      "ファラオたちは泥棒から逃れるため、岩山を深くほって作った『王家の谷』の秘密のお墓に埋葬されました。",
+      "1922年に見つかったツタンカーメンのお墓はほとんど手つかずのままで、3000年たっても純金の仮面がそのまま残っていました。",
+      "カルナック神殿とルクソール神殿を結ぶ約3キロの道には、スフィンクスの像がずらりと並んでいました。",
+      "ルクソールのオベリスクのひとつは贈り物として送られ、今はフランス・パリの広場にそびえ立っています。"
+    ],
+    "zh": [
+      "卢克索建在古城“底比斯”的遗址上，那里曾是埃及一千多年的都城。",
+      "卡尔纳克神庙里有134根巨大的石柱，密密麻麻像一片“石头森林”，有的高达六层楼那么高。",
+      "法老们被秘密安葬在“帝王谷”里凿入岩石深处的陵墓中，以躲避盗墓贼。",
+      "1922年发现的图坦卡蒙陵墓几乎完好无损，历经三千年，纯金面具依然保存原样。",
+      "一条将近3公里长的道路曾连接卡尔纳克神庙和卢克索神庙，两旁排列着狮身人面像。",
+      "卢克索的一座方尖碑作为礼物被送走，如今矗立在法国巴黎的一座广场上。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "숨겨진 무덤 속 황금 보물이 3000년 동안이나 비밀로 남아 있었대. 하워드 카터가 그 문을 열었을 때 기분이 어땠을까?",
+    "en": "A hidden tomb kept its golden treasures secret for 3,000 years — what do you think Howard Carter felt when he opened that door?",
+    "ja": "隠されたお墓の黄金の宝物が3000年も秘密のままだったんだって。ハワード・カーターがその扉を開けたとき、どんな気持ちだったと思う？",
+    "zh": "藏起来的陵墓里的黄金宝藏，居然保密了三千年。你觉得霍华德·卡特打开那扇门时，心里是什么感觉？"
+  },
+  "places": [
+    {
+      "name": { "ko": "카르나크 신전", "en": "Karnak Temple Complex", "ja": "カルナック神殿", "zh": "卡尔纳克神庙" },
+      "blurb": {
+        "ko": "지금까지 지어진 신전 중 가장 큰 규모예요. 조각이 빼곡한 거대한 돌기둥 134개가 마치 '숲'처럼 서 있어요. 파라오들이 2000년 동안 계속 덧붙여 지으면서 점점 더 커졌답니다.",
+        "en": "The largest temple complex ever built. A 'forest' of 134 massive stone columns, covered in carvings, still stands tall. Pharaohs kept adding to it for 2,000 years, making it grow bigger and bigger.",
+        "ja": "今までに建てられた神殿の中で最大級。彫刻でびっしりおおわれた巨大な石柱134本が『森』のように立っています。ファラオたちが2000年かけて増築を続け、どんどん大きくなりました。",
+        "zh": "有史以来建造过的最大神庙建筑群。134根雕满花纹的巨大石柱像“森林”一样耸立着。历代法老接连扩建了两千年，让它越来越壮观。"
+      },
+      "coords": [25.7188, 32.6573]
+    },
+    {
+      "name": { "ko": "왕가의 계곡", "en": "Valley of the Kings", "ja": "王家の谷", "zh": "帝王谷" },
+      "blurb": {
+        "ko": "파라오들이 몰래 묻힌, 바위를 깊숙이 파서 만든 무덤들이 모여 있는 사막 골짜기예요. 바로 이곳에서 투탕카멘의 무덤이 3000년 만에 봉인된 채로 발견됐어요.",
+        "en": "A hidden desert valley where pharaohs were secretly buried in tombs cut deep into the rock. This is exactly where Tutankhamun's tomb was found still sealed after 3,000 years.",
+        "ja": "ファラオたちがひそかに埋葬された、岩を深くほって作ったお墓が集まる砂漠の谷。ここでツタンカーメンのお墓が3000年ぶりに封印されたまま発見されました。",
+        "zh": "法老们秘密安葬的沙漠山谷，陵墓都深深凿入岩石之中。图坦卡蒙的陵墓正是在这里被发现，封存了整整三千年都没有被打开过。"
+      },
+      "coords": [25.7402, 32.6014]
+    },
+    {
+      "name": { "ko": "룩소르 신전", "en": "Luxor Temple", "ja": "ルクソール神殿", "zh": "卢克索神庙" },
+      "blurb": {
+        "ko": "예전엔 스핑크스 길로 카르나크 신전과 이어져 있었어요. 밤이 되면 조명을 받아 황금빛으로 빛나고, 입구에는 람세스 2세의 거대한 조각상이 여전히 지키고 서 있답니다.",
+        "en": "Once connected to Karnak by the Avenue of Sphinxes, this temple glows gold under lights at night. Giant statues of Ramesses II still stand guard at its entrance.",
+        "ja": "かつてはスフィンクスの道でカルナック神殿とつながっていました。夜になるとライトアップされて黄金色にかがやき、入り口には今もラムセス2世の巨大な像が立っています。",
+        "zh": "曾经由狮身人面像大道与卡尔纳克神庙相连。夜晚灯光照耀下，它闪耀着金色光芒，入口处至今仍矗立着拉美西斯二世的巨大雕像。"
+      },
+      "coords": [25.6997, 32.6421]
+    },
+    {
+      "name": { "ko": "하트셉수트 신전", "en": "Temple of Hatshepsut", "ja": "ハトシェプスト女王葬祭殿", "zh": "哈特谢普苏特神庙" },
+      "blurb": {
+        "ko": "이집트 역사상 가장 강력했던 여성 파라오를 위해 절벽에 지어진 눈부신 신전이에요. 줄지어 선 기둥들이 마치 산에서 통째로 깎아낸 거대한 계단처럼 보인답니다.",
+        "en": "A stunning temple built into the cliffs for Egypt's most powerful female pharaoh. Its rows of columns look like a giant staircase carved right out of the mountain.",
+        "ja": "エジプト史上もっとも力を持った女性ファラオのために崖に建てられた美しい神殿。ずらりと並ぶ柱が、山をまるごと彫り出した巨大な階段のように見えます。",
+        "zh": "为古埃及历史上最强大的女法老而建，嵌在悬崖之中，美轮美奂。一排排石柱看起来就像整座山被雕刻成的巨大台阶。"
+      },
+      "coords": [25.7383, 32.6067]
+    }
+  ]
+}

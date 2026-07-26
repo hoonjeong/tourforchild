@@ -1,0 +1,120 @@
+{
+  "id": "hiroshima",
+  "country": "jp",
+  "coords": [34.3853, 132.4553],
+  "name": { "ko": "히로시마", "en": "Hiroshima", "ja": "広島", "zh": "广岛" },
+  "tagline": {
+    "ko": "가장 슬픈 날을 세상에서 가장 큰 평화의 소망으로 바꾼 도시",
+    "en": "The city that turned its saddest day into the world's biggest wish for peace",
+    "ja": "いちばん悲しい日を、世界でいちばん大きな平和の願いに変えた街",
+    "zh": "把最悲伤的一天，变成全世界最大和平心愿的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 히로시마는 여섯 개의 강이 손가락처럼 갈라져 바다로 흘러가는 곳에 자리 잡아서, 사람들은 이 도시를 '물의 도시'라고 불렀어요. 100개가 넘는 다리 아래로 배들이 오갔고, 늠름한 성이 북적이는 거리를 내려다보고 있었죠. 시장과 정원이 가득하고, 아이들은 강가에서 신나게 뛰어놀던 활기찬 마을이었답니다.",
+      "그런데 어느 날, 끔찍한 전쟁 중에 아주 슬픈 일이 벌어졌어요. 하늘에서 떨어진 폭탄 하나가 도시를 지구에서 가장 크게 아프게 만들었거든요. 순식간에 거의 모든 것이 사라져 버렸고, 한동안 사람들은 이곳에 다시 무언가가 자랄 수 있을지조차 걱정했답니다.",
+      "하지만 히로시마 사람들은 용감한 선택을 했어요. 계속 슬퍼하는 대신, 자기 도시를 '평화를 전하는 도시'로 만들기로 한 거예요. 수천 그루의 나무를 심고, 아름다운 평화공원을 만들고, 부서진 건물 하나는 그날 모습 그대로 남겨 두었어요. 모두가 평화의 소중함을 잊지 않도록 말이에요. 사다코라는 어린 소녀는 건강해지길 바라며 종이학을 접었고, 지금도 전 세계 아이들이 종이학을 접어 히로시마로 보내며 평화를 빈답니다.",
+      "오늘날 히로시마는 다시 푸르고 활기차며 희망 가득한 도시가 되었어요. 강 위로는 여전히 배가 다니고, 근처 바다에는 커다란 주황색 문이 둥둥 떠 있는 것처럼 보이며, 신비로운 섬에는 순한 사슴들이 돌아다녀요. 히로시마는 가장 슬픈 날을 세상에서 가장 큰 평화의 소망으로 바꾼 도시랍니다."
+    ],
+    "en": [
+      "Long, long ago, Hiroshima grew up beside six rivers that spread out like fingers into the sea, so people nicknamed it the 'City of Water.' Boats glided under more than a hundred bridges, and a proud castle watched over the busy streets. It was a cheerful town full of markets, gardens, and children playing along the riverbanks.",
+      "But one day, during a terrible war, something awful happened — a single bomb fell from the sky and hurt the city more than almost any other place on Earth has ever been hurt. Nearly everything was gone in a flash, and for a while people wondered if anything could ever grow there again.",
+      "Yet the people of Hiroshima did something brave: instead of staying sad forever, they decided their city would become a messenger for peace. They planted thousands of trees, built a beautiful Peace Park, and kept one broken building standing just as it was — so nobody would forget how important peace is. A little girl named Sadako folded paper cranes hoping to get well, and now children all over the world fold cranes and send them to Hiroshima to wish for peace.",
+      "Today Hiroshima is green, lively, and full of hope again. Boats still cross the water, a giant orange gate seems to float on the sea nearby, and friendly deer wander a magical island close by. It's a city that turned its saddest day into the world's biggest wish for peace."
+    ],
+    "ja": [
+      "はるか昔、広島は六つの川が指のように分かれて海へ流れこむ場所にできた街で、人々は『水の都』と呼びました。百以上の橋の下を船が行き交い、りっぱなお城がにぎやかな通りを見下ろしていました。市場や庭園がいっぱいで、子どもたちは川辺で元気に遊ぶ、明るい町でした。",
+      "ところがある日、恐ろしい戦争の中で、とても悲しいことが起きました。空から落ちたたった一つの爆弾が、この街を世界でもっとも大きく傷つけてしまったのです。ほとんどすべてが一瞬で消えてしまい、しばらくの間、ここでまた何かが育つのだろうかと人々は不安に思いました。",
+      "けれど広島の人たちは勇気ある決断をしました。ずっと悲しむのではなく、自分たちの街を『平和を伝える街』にしようと決めたのです。何千本もの木を植え、美しい平和記念公園をつくり、こわれた建物を一つだけ、その日のままの姿で残しました。みんなが平和の大切さを忘れないように。禎子（さだこ）という少女は元気になれますようにと折り鶴を折り、今も世界中の子どもたちが折り鶴を折って広島に送り、平和を願っています。",
+      "今日の広島は、また緑豊かでにぎやかな、希望に満ちた街になりました。川には今も船が行き交い、近くの海には大きなオレンジ色の鳥居が海に浮かんでいるように見え、神秘的な島にはやさしい鹿たちが歩き回っています。広島は、いちばん悲しい日を世界でいちばん大きな平和の願いに変えた街なのです。"
+    ],
+    "zh": [
+      "很久很久以前，广岛坐落在六条河流像手指一样分开流入大海的地方，人们把它叫做“水之都”。一百多座桥下船只往来穿梭，一座雄伟的城堡俯瞰着热闹的街道。这里到处是集市和庭院，孩子们在河边尽情玩耍，是一座充满活力的城镇。",
+      "可是有一天，在一场可怕的战争中，发生了非常悲伤的事情。从天而降的一颗炸弹，让这座城市受到了世界上少有的重创。几乎所有的一切都在瞬间消失了，有一段时间，人们甚至担心这里还能不能再长出任何东西。",
+      "但广岛人做出了一个勇敢的决定：他们没有一直沉浸在悲伤里，而是决定让自己的城市成为传递和平的使者。他们种下了成千上万棵树，建起了美丽的和平纪念公园，还特意保留了一座半毁的建筑，让它保持那天的模样——好让大家永远不忘和平的珍贵。一个叫祯子的小女孩为了能康复，折了许多纸鹤，如今世界各地的孩子仍然折纸鹤寄到广岛，为和平许愿。",
+      "今天的广岛又变得绿意盎然、充满活力和希望。河面上依然船来船往，附近海面上一座橙红色的大鸟居仿佛漂浮在水面上，神秘的岛屿上温顺的鹿儿四处走动。广岛把自己最悲伤的一天，变成了全世界最大的和平心愿。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "히로시마는 여섯 개의 강이 흐르고 다리가 100개도 넘어서 '물의 도시'라는 별명을 가지고 있어요.",
+      "폭탄을 맞은 건물 하나는 그날 모습 그대로 남겨졌는데, 이게 바로 '원폭 돔'이에요. 지금은 유네스코 세계유산이자 평화의 상징이 되었답니다.",
+      "사다코라는 소녀가 건강을 빌며 종이학을 접었어요. 지금도 해마다 전 세계에서 천만 개가 넘는 종이학이 히로시마로 보내진대요.",
+      "근처 미야지마 섬에는 밀물 때 바다 위에 둥둥 떠 있는 것처럼 보이는 커다란 주황색 문이 있어요. 일본의 '3대 절경' 중 하나랍니다.",
+      "미야지마 섬에는 순한 야생 사슴들이 자유롭게 돌아다녀요. 신의 심부름꾼으로 여겨져서 사람들과도 사이좋게 지낸답니다.",
+      "히로시마만의 오코노미야키가 있어요. 양배추와 면, 달걀을 층층이 쌓아 만드는데, 전쟁 후 배불리 먹을 수 있도록 저렴하게 만든 데서 시작됐대요."
+    ],
+    "en": [
+      "Hiroshima is nicknamed the 'City of Water' because six rivers spread through it, crossed by more than 100 bridges.",
+      "One bombed building was kept standing exactly as it was — the Atomic Bomb Dome — and it's now a UNESCO World Heritage Site and a symbol of peace.",
+      "A little girl named Sadako folded paper cranes wishing to get well. Today, over 10 million paper cranes are sent to Hiroshima from around the world every year.",
+      "Nearby Miyajima island has a giant orange gate that seems to float on the sea at high tide — it's one of Japan's 'Three Most Scenic Views.'",
+      "Gentle wild deer wander freely around Miyajima; they're considered sacred messengers and happily pose for photos.",
+      "Hiroshima invented its own style of okonomiyaki — a savory pancake stacked with cabbage, noodles, and egg — first made cheaply to fill hungry bellies after the war."
+    ],
+    "ja": [
+      "広島は六つの川が流れ、橋が100以上もあることから『水の都』と呼ばれています。",
+      "爆撃を受けた建物が一つ、その日のままの姿で残されました。それが『原爆ドーム』です。今ではユネスコ世界遺産、そして平和の象徴になっています。",
+      "禎子（さだこ）という少女が元気になれるよう祈って折り鶴を折りました。今も毎年、世界中から1000万羽以上の折り鶴が広島に届けられています。",
+      "近くの宮島には、満潮のときに海に浮かんでいるように見える大きなオレンジ色の鳥居があります。日本三景の一つです。",
+      "宮島には人なつっこい野生のシカが自由に歩き回っています。神様の使いとされ、人とも仲良く過ごしています。",
+      "広島には独自のお好み焼きがあります。キャベツ、麺、卵を重ねて焼くもので、戦後、お腹いっぱい食べられるように安く作られたのが始まりだそうです。"
+    ],
+    "zh": [
+      "广岛有六条河流穿城而过，桥梁超过一百座，因此被称为“水之都”。",
+      "有一座被炸过的建筑被完整保留了下来，那就是“原子弹爆炸圆顶屋”。它如今是联合国教科文组织世界遗产，也是和平的象征。",
+      "一个叫祯子的女孩为了康复折了纸鹤。如今每年仍有超过一千万只纸鹤从世界各地寄到广岛。",
+      "附近的宫岛上有一座橙红色的大鸟居，涨潮时看起来仿佛漂浮在海面上，是日本“三大绝景”之一。",
+      "宫岛上温顺的野生鹿自由自在地四处走动，被视为神的使者，也很乐意和游客亲近。",
+      "广岛有自己独特的什锦烧（御好烧），把卷心菜、面条和鸡蛋层层叠起来烤制而成，最早是战后为了让大家吃饱而做出的平价美食。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "종이학을 접어 멀리 보낸다면, 넌 무슨 소원을 빌고 싶어?",
+    "en": "If you folded a paper crane and sent it far away, what would you wish for?",
+    "ja": "折り鶴を折って遠くに送るとしたら、きみは何をお願いする？",
+    "zh": "如果你也折一只纸鹤寄到很远的地方，你想许什么愿望呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "평화기념공원과 원폭 돔", "en": "Peace Memorial Park & Atomic Bomb Dome", "ja": "平和記念公園と原爆ドーム", "zh": "和平纪念公园与原子弹爆炸圆顶屋" },
+      "blurb": {
+        "ko": "이 푸른 공원은 도시가 가장 크게 다쳤던 바로 그 자리에 있어요. 근처의 부서진 돔은 그날 모습 그대로 남아 있고요. 아이들은 이곳에 와서 종이학을 접어 '어린이 평화의 탑' 곁에 걸며, 평화로운 세상을 바라는 마음을 더한답니다.",
+        "en": "This green park sits exactly where the city was hurt worst, and the broken dome nearby was kept just as it was that day. Kids visit to fold paper cranes and hang them near the Children's Peace Monument, adding their own wish for a peaceful world.",
+        "ja": "この緑あふれる公園は、街が最も大きな被害を受けた場所にあり、近くの壊れたドームはその日のままの姿で残されています。子どもたちはここを訪れて折り鶴を折り、『原爆の子の像』のそばに掛けて、平和な世界への願いを重ねています。",
+        "zh": "这座绿意盎然的公园正位于当年城市受创最严重的地方，附近那座半毁的圆顶屋也保留着那天的模样。孩子们来到这里折纸鹤，挂在“儿童和平纪念碑”旁，一同许下和平世界的心愿。"
+      },
+      "coords": [34.3955, 132.4536]
+    },
+    {
+      "name": { "ko": "이쓰쿠시마 신사 (미야지마 바다 위 도리이)", "en": "Itsukushima Shrine (Miyajima's Floating Torii)", "ja": "厳島神社（宮島の海に浮かぶ鳥居）", "zh": "严岛神社（宫岛海上鸟居）" },
+      "blurb": {
+        "ko": "밀물 때는 이 커다란 주황색 문이 마치 바다 위에 둥둥 떠 있는 것처럼 보여요. 썰물 때는 걸어가서 직접 만져볼 수도 있답니다! 일본에서 가장 유명한 풍경 중 하나이고, 섬 곳곳에는 순한 사슴들이 돌아다녀요.",
+        "en": "At high tide, this giant orange gate looks like it's floating right on the sea — at low tide, you can walk out and touch it! It's one of Japan's most famous views, and gentle deer roam the island all around it.",
+        "ja": "満潮のときは、この大きなオレンジ色の鳥居がまるで海の上に浮かんでいるように見えます。干潮になると、歩いて近くまで行って触ることもできますよ！日本でも指折りの絶景で、島にはやさしい鹿たちが歩き回っています。",
+        "zh": "涨潮时，这座橙红色的大鸟居看起来仿佛漂浮在海面上；退潮时，你甚至可以走过去摸一摸它！这是日本最著名的景色之一，岛上到处都是温顺的鹿。"
+      },
+      "coords": [34.2969, 132.3197]
+    },
+    {
+      "name": { "ko": "히로시마성", "en": "Hiroshima Castle", "ja": "広島城", "zh": "广岛城" },
+      "blurb": {
+        "ko": "'잉어의 성'이라는 별명을 가진 이 검은 성은 예전에 활기찬 강가 마을을 내려다보고 있었어요. 전쟁 후 옛 사진과 그림을 참고해 다시 지어졌는데, 지금은 아이들도 안에 들어가 사무라이가 걷던 그 시절을 상상해 볼 수 있답니다.",
+        "en": "Nicknamed 'Carp Castle,' this black castle once watched over the busy river town. It was rebuilt after the war using old photos and drawings, so today kids can climb inside and imagine what life was like when samurai walked these grounds.",
+        "ja": "『鯉城（りじょう）』の愛称を持つこの黒い城は、かつてにぎやかな川辺の町を見下ろしていました。戦後、昔の写真や絵をもとに建て直され、今では子どもたちも中に入って、侍が歩いていた時代を想像することができます。",
+        "zh": "这座黑色城堡有个昵称叫“鲤鱼城”，从前一直俯瞰着热闹的河边小镇。战后人们依据旧照片和图画将它重建，如今孩子们也能走进城堡，想象武士曾在这里漫步的年代。"
+      },
+      "coords": [34.4026, 132.4593]
+    },
+    {
+      "name": { "ko": "오코노미무라 (오코노미야키 빌딩)", "en": "Okonomimura (Okonomiyaki Food Hall)", "ja": "お好み村", "zh": "御好烧村（御好烧美食大楼）" },
+      "blurb": {
+        "ko": "이 건물 전체가 작은 오코노미야키 가게들로 가득해요. 요리사들이 눈앞에서 지글지글 부침개를 뒤집어 준답니다. 히로시마식은 양배추와 면, 달걀을 높이 쌓아 만드는데, 만드는 걸 구경하는 것만으로도 신나요!",
+        "en": "This whole building is packed with tiny okonomiyaki grills where cooks flip savory pancakes right in front of you. Hiroshima-style stacks cabbage, noodles, and egg high — watching it sizzle is half the fun!",
+        "ja": "この建物まるごと、小さなお好み焼き屋さんがぎゅっと集まっています。目の前で職人さんがジュージューと生地をひっくり返してくれますよ。広島風はキャベツと麺、卵を高く重ねるのが特徴で、焼ける様子を見ているだけでもワクワクします！",
+        "zh": "整栋楼里挤满了一个个小小的御好烧摊位，厨师就在你眼前把煎饼翻得滋滋作响。广岛风格会把卷心菜、面条和鸡蛋叠得高高的——光是看着煎的过程就很有趣！"
+      },
+      "coords": [34.3925, 132.4657]
+    }
+  ]
+}

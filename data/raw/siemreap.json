@@ -1,0 +1,120 @@
+{
+  "id": "siemreap",
+  "country": "kh",
+  "coords": [13.3671, 103.8448],
+  "name": { "ko": "시엠립", "en": "Siem Reap", "ja": "シェムリアップ", "zh": "暹粒" },
+  "tagline": {
+    "ko": "한 나라의 국기에 그려질 만큼 거대한 정글 속 사원 도시",
+    "en": "The jungle temple city so big it appears on a country's flag",
+    "ja": "国旗にえがかれるほど大きな、ジャングルの中の寺院都市",
+    "zh": "丛林中的庙宇之城，宏伟到被画上了国旗"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 캄보디아 정글 한가운데 크메르 제국이라는 강력한 나라가 하늘에 닿을 듯한 도시를 세웠어요. 왕 수리야바르만 2세는 힌두교의 신 비슈누를 위해 세상에서 가장 웅장한 사원을 짓고 싶었죠. 수천 명의 일꾼들이 트럭만큼 무거운 사암 덩어리를 수십 년 동안 날랐어요. 그렇게 완성된 것이 바로 앙코르와트 — 지금까지도 세계에서 가장 큰 종교 건축물이랍니다.",
+      "앙코르와트는 '앙코르'라는 거대한 도시의 일부에 불과했어요. 약 천 년 전, 이곳엔 무려 백만 명이 살았대요 — 그 시절 런던보다도 사람이 많았다니 놀랍죠! 넓은 도로와 커다란 저수지, 병원까지 갖춘 도시였고, 군대는 코끼리를 타고 전쟁터로 나갔어요. 지금도 사원 벽에 그 모습이 조각으로 남아 있답니다.",
+      "하지만 제국은 영원하지 않았어요. 전쟁이 일어나고 강물의 흐름이 바뀌면서 사람들이 떠나갔고, 정글이 서서히 도시를 뒤덮기 시작했어요. 커다란 나무들이 사원 위로 뿌리를 내리며 마치 거대한 손가락처럼 탑을 휘감았죠. 수백 년 동안 사원들은 나뭇잎과 덩굴 속에서 조용히 잠들어, 세상에서 거의 잊혀졌어요.",
+      "오늘날 여러분은 해가 뜨기 전 일찍 일어나 앙코르와트의 다섯 개 탑 뒤로 떠오르는 해를 볼 수 있어요. 하늘이 분홍빛과 황금빛으로 물든답니다. 앙코르톰에서는 웃고 있는 거대한 돌 얼굴들을 만날 수 있고, 따프롬에서는 나무뿌리 사이를 요리조리 지나갈 수 있어요. 마치 잃어버린 도시를 처음 발견한 탐험가가 된 것처럼요."
+    ],
+    "en": [
+      "Long ago, in the heart of the Cambodian jungle, a mighty empire called the Khmer built a city so grand it seemed to touch the sky. Their king, Suryavarman II, wanted to build the greatest temple the world had ever seen — a home for the Hindu god Vishnu. Thousands of workers hauled giant sandstone blocks, some as heavy as a truck, for decades. What they built was Angkor Wat — still, to this day, the largest religious monument on Earth.",
+      "Angkor Wat was just one part of an enormous city called Angkor. Around a thousand years ago, up to a million people lived there — more than in London at the time! Wide roads, giant reservoirs, and hospitals connected the city, and armies rode into battle on elephants, just like in the carvings still on the temple walls today.",
+      "But empires don't last forever. Wars and changing rivers made people leave, and slowly the jungle crept back in. Enormous trees dropped their roots right onto the temples, wrapping around towers like giant fingers. For centuries, the temples slept quietly under leaves and vines, almost forgotten by the outside world.",
+      "Today you can wake up before dawn and watch the sun rise behind Angkor Wat's five towers, painting the sky pink and gold. You can find giant stone faces smiling down at Angkor Thom, and squeeze between tree roots at Ta Prohm, just like an explorer discovering a lost city for the first time."
+    ],
+    "ja": [
+      "はるか昔、カンボジアのジャングルの奥深くに、クメール帝国という強大な国が空にとどきそうなほど壮大な都をきずきました。王スーリヤヴァルマン2世は、ヒンドゥー教の神ヴィシュヌのために、世界一の大きさをほこる寺院を建てようと決意します。何千人もの人々が、トラックほど重い砂岩の石を何十年もかけて運びました。そうして完成したのがアンコールワット——今も世界最大の宗教建築なのです。",
+      "アンコールワットは、『アンコール』という巨大な都のほんの一部にすぎませんでした。今から約千年前、この街にはなんと100万人もの人が暮らしていたそうです——当時のロンドンよりずっと多かったというから驚きですね！広い道や大きな貯水池、病院まで備えた街で、軍隊はゾウに乗って戦場へ向かいました。その姿は今も寺院の壁に彫刻として残されています。",
+      "けれど、帝国は永遠には続きませんでした。戦争が起き、川の流れも変わって人々は去っていき、ジャングルがゆっくりと街をのみこんでいきました。大きな木々が寺院の上に根を張り、まるで巨大な指のように塔を包みこんでいったのです。何百年もの間、寺院は落ち葉とつるの中で静かに眠り、世界からほとんど忘れられていました。",
+      "今では、夜が明ける前に起きて、アンコールワットの五つの塔の向こうから昇る朝日を見ることができます。空がピンクと金色に染まる、とても美しいながめです。アンコールトムでは、にっこりほほえむ巨大な石の顔に出会え、タ・プロームでは木の根の間をくぐり抜けられます——まるで失われた都を初めて見つけた探検家になったような気分になれますよ。"
+    ],
+    "zh": [
+      "很久很久以前，在柬埔寨茂密的丛林深处，强大的高棉帝国建起了一座仿佛要触到天空的城市。国王苏利耶跋摩二世想要为印度教的毗湿奴神建造世界上最宏伟的庙宇。成千上万的工人花了几十年时间，搬运重达一辆卡车的巨大砂岩石块。最终建成的，就是吴哥窟——至今仍是世界上最大的宗教建筑。",
+      "吴哥窟只是一座名叫“吴哥”的庞大城市的一部分。大约一千年前，这里居住着多达一百万人——比当时的伦敦人口还要多，是不是很惊人！这座城市有宽阔的道路、巨大的蓄水池，甚至还有医院，军队骑着大象出征打仗，这些场景至今仍刻在庙宇的墙壁上。",
+      "可是，再强大的帝国也不会永远存在。战争爆发，河流改道，人们渐渐离开，丛林慢慢地重新吞没了这座城市。参天大树把根扎进庙宇之上，像巨大的手指一样缠绕着塔身。几百年来，庙宇静静地沉睡在落叶和藤蔓之中，几乎被外面的世界遗忘。",
+      "如今，你可以在天亮之前早早起床，看太阳从吴哥窟的五座尖塔后面升起，把天空染成粉红色和金色。在吴哥城，你能看到一张张微笑的巨大石脸；在塔布茏寺，你可以在树根之间穿行，就像第一个发现失落之城的探险家一样。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "앙코르와트는 세계에서 가장 큰 종교 건축물이에요 — 해자(물길)만 해도 축구장 다섯 개를 이어붙인 것보다 넓답니다.",
+      "힌두교 사원은 보통 동쪽을 향하는데, 앙코르와트는 특이하게 서쪽을 향해 지어졌어요. 나중에 무덤으로도 쓰였기 때문이라는 이야기도 있어요.",
+      "앙코르와트를 지은 사암 덩어리 중에는 작은 코끼리만큼 무거운 것도 있었는데, 뗏목에 실어 강으로 옮겼대요.",
+      "앙코르톰의 바이욘 사원에는 무려 200개가 넘는 거대한 돌 얼굴이 있는데, 모두 똑같이 신비로운 미소를 짓고 있어요.",
+      "따프롬 사원에서는 판야나무와 무화과나무가 어찌나 크게 자랐는지, 뿌리가 사원 벽을 통째로 감싸고 있어요.",
+      "앙코르와트는 캄보디아 국기에도 그려져 있어요. 건물이 그려진 국기는 전 세계에서 캄보디아가 유일하답니다."
+    ],
+    "en": [
+      "Angkor Wat is the largest religious monument in the world — its moat alone is wider than five soccer fields end to end.",
+      "Hindu temples usually face east, but Angkor Wat was unusually built facing west — some say it's because it was later used as a tomb too.",
+      "Some sandstone blocks used to build Angkor Wat weigh as much as a small elephant, and were floated down rivers on rafts.",
+      "Angkor Thom's Bayon temple has more than 200 giant stone faces, all smiling the exact same mysterious smile.",
+      "At Ta Prohm, silk-cotton and strangler fig trees have grown so big their roots swallow entire temple walls.",
+      "Angkor Wat appears on Cambodia's national flag — the only national flag in the world with a building on it."
+    ],
+    "ja": [
+      "アンコールワットは世界最大の宗教建築です——ぐるりと囲む堀だけでも、サッカー場5つ分をこえる長さがあります。",
+      "ヒンドゥー教の寺院はふつう東を向きますが、アンコールワットはめずらしく西を向いています。のちにお墓としても使われたからだという説もあります。",
+      "アンコールワットを建てた砂岩の石の中には、小さなゾウほど重いものもあり、いかだに乗せて川で運ばれました。",
+      "アンコールトムのバイヨン寺院には200以上もの巨大な石の顔があり、どれも同じ、なぞめいた笑みをうかべています。",
+      "タ・プロームでは、パンヤの木やイチジクの木があまりに大きく育ち、根が寺院の壁ごとつつみこんでいます。",
+      "アンコールワットはカンボジアの国旗にもえがかれています。建物がえがかれた国旗は、世界中でカンボジアだけなんですよ。"
+    ],
+    "zh": [
+      "吴哥窟是世界上最大的宗教建筑——光是护城河的宽度，就超过五个足球场首尾相连那么长。",
+      "印度教庙宇通常朝东，但吴哥窟却特别地朝向西方，有人说这是因为它后来也被当作陵墓使用。",
+      "建造吴哥窟用的砂岩石块中，有些重达一头小象，是用木筏顺着河流运来的。",
+      "吴哥城的巴戎寺有超过200张巨大的石头脸，每一张都带着相同神秘的微笑。",
+      "在塔布茏寺，木棉树和绞杀榕长得非常巨大，树根把整面庙宇的墙壁都包裹了起来。",
+      "吴哥窟还被画在了柬埔寨的国旗上——柬埔寨是世界上唯一一个国旗上画着建筑物的国家。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "여러분 몸통만큼 굵은 나무뿌리가 오래된 사원을 꽉 껴안고 있어요. 나무가 사원을 지켜주는 걸까요, 아니면 삼켜버리는 걸까요?",
+    "en": "Tree roots as thick as your whole body are hugging an ancient temple — do you think the trees are protecting it, or swallowing it?",
+    "ja": "みんなの体の太さくらいある木の根が、古い寺院をぎゅっと抱きしめています。木は寺院を守っているのかな、それとものみこんでいるのかな？",
+    "zh": "粗得像你整个身体一样的树根，正紧紧抱着一座古老的庙宇。你觉得树是在保护庙宇，还是在把它吞掉呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "앙코르와트", "en": "Angkor Wat", "ja": "アンコールワット", "zh": "吴哥窟" },
+      "blurb": {
+        "ko": "앙코르 유적의 중심이자 세계에서 가장 큰 종교 건축물이에요. 새벽에 다섯 개의 탑 뒤로 해가 떠오르면 하늘과 연못이 온통 황금빛으로 물든답니다. 벽을 따라 힌두 신화 속 이야기가 조각으로 가득 새겨져 있어요.",
+        "en": "The heart of the Angkor ruins and the largest religious monument in the world. At dawn, the sun rises behind its five towers and turns the sky and reflecting pool gold. Its walls are covered in carvings telling stories from Hindu mythology.",
+        "ja": "アンコール遺跡の中心であり、世界最大の宗教建築です。夜明けに五つの塔の向こうから朝日がのぼると、空も池も金色に染まります。壁にはヒンドゥー神話の物語がびっしりと彫られています。",
+        "zh": "吴哥古迹的中心，也是世界上最大的宗教建筑。黎明时分，太阳从五座尖塔后升起，天空和水池都被染成金色。墙壁上刻满了印度教神话的故事。"
+      },
+      "coords": [13.4125, 103.8670]
+    },
+    {
+      "name": { "ko": "바이욘 사원 (앙코르톰)", "en": "Bayon Temple (Angkor Thom)", "ja": "バイヨン寺院（アンコールトム）", "zh": "巴戎寺（吴哥城）" },
+      "blurb": {
+        "ko": "앙코르톰의 중심 사원으로, 200개가 넘는 커다란 돌 얼굴이 사방을 바라보며 웃고 있어요. 어디서 봐도 그 미소와 눈이 마주치는 것 같은 신비로운 곳이에요.",
+        "en": "The central temple of Angkor Thom, where more than 200 giant stone faces smile out in every direction. Wherever you stand, it feels like one of those mysterious smiles is looking right at you.",
+        "ja": "アンコールトムの中心寺院で、200以上の巨大な石の顔があらゆる方向を見つめてほほえんでいます。どこから見ても、その笑顔と目が合うような不思議な場所です。",
+        "zh": "吴哥城的中心庙宇，有超过200张巨大的石脸朝向四面八方微笑。不管从哪个角度看，都好像和那神秘的微笑对上了眼。"
+      },
+      "coords": [13.4412, 103.8592]
+    },
+    {
+      "name": { "ko": "따프롬 사원", "en": "Ta Prohm", "ja": "タ・プローム", "zh": "塔布茏寺" },
+      "blurb": {
+        "ko": "거대한 나무뿌리가 사원 벽과 지붕을 통째로 휘감고 있는 곳이에요. 정글이 사원을 삼켜버리는 듯한 모습이라 마치 모험 영화 속 잃어버린 신전에 들어온 기분이 든답니다.",
+        "en": "A temple where enormous tree roots wrap right around the walls and rooftops. It looks like the jungle is swallowing the temple whole, making you feel like you've stepped into a lost temple from an adventure movie.",
+        "ja": "巨大な木の根が寺院の壁や屋根をまるごとつつみこんでいる場所です。ジャングルが寺院をのみこんでいくような光景で、まるで冒険映画の中の失われた神殿に迷いこんだ気分になれます。",
+        "zh": "巨大的树根把庙宇的墙壁和屋顶整个缠绕包裹起来的地方。丛林仿佛正在吞没庙宇，让人感觉像走进了冒险电影里失落的神殿。"
+      },
+      "coords": [13.4351, 103.8892]
+    },
+    {
+      "name": { "ko": "톤레삽 호수 수상마을", "en": "Tonle Sap Floating Village", "ja": "トンレサップ湖の水上村", "zh": "洞里萨湖水上村落" },
+      "blurb": {
+        "ko": "동남아시아에서 가장 큰 호수 위에 통째로 떠 있는 마을이에요. 계절에 따라 호수의 크기가 몇 배로 커졌다 작아지는데, 집들도 물에 둥둥 떠서 함께 오르내린답니다.",
+        "en": "A whole village floating on Southeast Asia's biggest lake. The lake grows and shrinks by many times its size with the seasons, and the houses float right along with the rising and falling water.",
+        "ja": "東南アジア最大の湖の上に、まるごと浮かんでいる村です。季節によって湖の大きさが何倍にも変わり、家も水の上に浮かんで一緒に上下するんですよ。",
+        "zh": "整个村庄漂浮在东南亚最大的湖泊上。湖水会随着季节涨落好几倍大小，房子也跟着水面一起漂浮升降。"
+      },
+      "coords": [13.2637, 103.8317]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "chicago",
+  "country": "us",
+  "coords": [41.8781, -87.6298],
+  "name": { "ko": "시카고", "en": "Chicago", "ja": "シカゴ", "zh": "芝加哥" },
+  "tagline": {
+    "ko": "불로 무너졌다가, 마천루로 하늘까지 다시 일어선 도시",
+    "en": "The city a fire destroyed — and skyscrapers rebuilt into the sky",
+    "ja": "火事で焼けた街が、摩天楼で空まで生まれ変わった物語",
+    "zh": "被大火烧毁，又靠摩天大楼重新冲向天空的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 시카고는 커다란 미시간 호수 옆의 작고 진흙투성이인 교역소였어요. 그런데 이 마을은 눈 깜짝할 사이에 무럭무럭 자라났어요. 통나무집 몇 채였던 마을이 나무로 지은 건물들로 가득한 북적이는 도시가 되기까지, 겨우 몇십 년밖에 걸리지 않았대요.",
+      "그러다 1871년 가을, 건조한 밤에 큰일이 벌어졌어요. 어느 헛간에서 불이 시작됐는데 - 심지어 소 한 마리가 범인으로 지목되기도 했대요! - 불길은 이틀 내내 도시를 휩쓸었어요. 건물 대부분이 나무로 지어져 있었기 때문에 불은 지붕에서 지붕으로 훌쩍훌쩍 옮겨붙었고, 시카고 도심 거의 전부가 잿더미가 되고 말았어요.",
+      "하지만 시카고 사람들은 포기하지 않고 더 똑똑해지기로 했어요. 나무 대신 튼튼한 철골로 건물의 뼈대를 세우고, 그 위에 층을 척척 쌓아 올려 아무도 상상 못 했던 높이까지 건물을 지었죠. 세계 최초의 '마천루(하늘을 긁는 건물)'가 바로 이곳 시카고에서 태어났고, 도시의 스카이라인은 구름을 향해 쭉쭉 뻗어나갔어요.",
+      "오늘날 시카고에는 두 번 쳐다보게 되는 놀라운 것들이 가득해요. 하늘을 통째로 비추는 커다란 은빛 콩 모양 조각품, 기술자들이 아예 방향을 거꾸로 흐르게 만든 강, 유리 바닥 위에 서서 까마득한 아래를 내려다볼 수 있는 초고층 빌딩까지. 최악의 하루를 겪고도, 도시는 그 전보다 더 크고 눈부시게 다시 일어설 수 있다는 걸 시카고가 보여주는 셈이죠."
+    ],
+    "en": [
+      "Long ago, Chicago was a small, muddy trading post beside the enormous Lake Michigan. Then it grew incredibly fast — from a handful of log cabins to a busy city bursting with wooden buildings, all in just a few decades. People said it seemed to spring up almost overnight.",
+      "Then, on a dry autumn night in 1871, disaster struck. A fire broke out — some say it started in a barn, and even blamed it on a cow! — and swept through the city for two whole days. Because so many buildings were made of wood, the flames leaped from roof to roof, and almost the entire downtown burned to the ground.",
+      "But Chicago didn't give up — it got clever instead. Builders decided to hold up their buildings with steel skeletons rather than wood, stacking floor after floor higher than anyone thought possible. The world's very first skyscraper rose right here, and soon Chicago's skyline was reaching for the clouds like nowhere else on Earth.",
+      "Today Chicago is full of wonders that make you look twice: a giant shiny silver bean that reflects the whole sky, a river that engineers actually made flow backward, and towers so tall you can stand on a glass floor and look straight down. It's proof that even after the worst day, a city can rebuild itself bigger and brighter than before."
+    ],
+    "ja": [
+      "はるか昔、シカゴは大きなミシガン湖のほとりにある、小さくて泥だらけの交易所でした。ところがこの町は、あっという間にぐんぐん成長していきました。丸太小屋が数軒あるだけだった村が、木造の建物でにぎわう大きな街になるまで、わずか数十年しかかからなかったそうです。",
+      "そして1871年の秋、乾燥したある夜、大変なことが起こりました。ある納屋から火が出て――なんと一頭の牛が犯人だと言われたことも！――炎は二日間も街を焼きつくしました。建物のほとんどが木造だったため、火は屋根から屋根へと飛び移り、シカゴの中心部のほぼすべてが灰になってしまいました。",
+      "けれどシカゴの人々はあきらめず、もっと賢くなることにしました。木の代わりに頑丈な鉄の骨組みで建物を支え、その上に階をどんどん積み重ね、誰も想像しなかった高さの建物を建てたのです。世界で最初の『摩天楼』はここシカゴで生まれ、街のスカイラインは雲に向かってぐんぐんそびえ立っていきました。",
+      "今日のシカゴには、思わず二度見してしまう驚きがいっぱいです。空をまるごと映す大きな銀色の豆の形をした彫刻、技術者たちがわざわざ流れを逆にした川、ガラスの床に立ってはるか下をのぞきこめる超高層ビルまで。最悪の一日を経験しても、街は前よりもっと大きく、輝く姿によみがえれるということを、シカゴが教えてくれます。"
+    ],
+    "zh": [
+      "很久很久以前，芝加哥只是密歇根湖畔一个泥泞的小小贸易站。可是这座小镇成长得飞快——从几间木屋，到挤满木造建筑、热闹非凡的城市，前后只用了短短几十年。",
+      "到了1871年秋天一个干燥的夜晚，大事发生了。火灾从一间谷仓烧起——据说还有人把责任怪到一头奶牛头上！——大火整整烧了两天两夜。因为大多数建筑都是木头造的，火焰从一个屋顶跳到另一个屋顶，几乎把芝加哥市中心烧成了一片灰烬。",
+      "但芝加哥人没有放弃，反而变得更聪明了。他们不再用木头，而是用坚固的钢铁骨架撑起建筑，再一层一层往上堆，盖出了谁也没想到的高度。世界上第一座“摩天大楼”就诞生在这里，芝加哥的天际线从此直冲云霄。",
+      "今天的芝加哥到处都是让人忍不住多看一眼的奇妙景象：一颗映照着整片天空的巨大银色“豆子”雕塑、被工程师硬是改成倒流的河流，还有站在玻璃地板上就能俯瞰万丈高空的摩天大楼。芝加哥告诉我们：就算经历了最糟糕的一天，一座城市依然可以变得比以前更大、更耀眼。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "전설에 따르면 1871년 시카고 대화재는 어느 소가 헛간에서 등불을 걷어차서 시작됐대요 - 하지만 역사학자들은 그건 그냥 재미있는 이야기일 뿐, 사실이 아닐 거라고 해요!",
+      "세계 최초의 마천루인 10층짜리 '홈 인슈어런스 빌딩'이 1885년 시카고에 세워졌어요. 두꺼운 돌벽 대신 철골 뼈대를 사용한 첫 건물이었죠.",
+      "1900년, 기술자들은 시카고 강이 미시간 호수로 흘러들지 않고 반대 방향으로 흐르도록 강물의 방향을 아예 거꾸로 바꿔버렸어요.",
+      "'더 빈(콩)'이라는 별명을 가진 클라우드 게이트는 168톤의 반짝이는 스테인리스강으로 이어붙인 자국 하나 없이 만들어져서, 마치 거대하고 매끈한 물방울처럼 보여요.",
+      "매년 성 패트릭의 날이 되면 시카고는 강물을 새파란 초록색으로 물들인답니다!",
+      "거의 파이처럼 두꺼운 '딥디시 피자'는 1943년 시카고에서 처음 만들어졌어요."
+    ],
+    "en": [
+      "Legend says the Great Chicago Fire of 1871 started when a cow kicked over a lantern in a barn — historians think that's probably just a fun story, not true!",
+      "The world's first skyscraper, the 10-story Home Insurance Building, was built in Chicago in 1885 using a steel skeleton instead of thick stone walls.",
+      "In 1900, engineers actually reversed the direction of the Chicago River so it flows away from Lake Michigan instead of into it.",
+      "Cloud Gate — nicknamed \"The Bean\" — is made from 168 tons of polished stainless steel with no seams, so it looks like one giant smooth drop.",
+      "Every year on St. Patrick's Day, Chicago dyes its river bright green for the holiday!",
+      "Deep-dish pizza — a pizza so thick it's almost a pie — was invented in Chicago in 1943."
+    ],
+    "ja": [
+      "伝説によると、1871年のシカゴ大火は、牛が納屋でランタンをけとばして始まったそうです――でも歴史家たちは、それはただの面白い作り話だろうと考えています！",
+      "世界初の摩天楼、10階建ての『ホーム・インシュアランス・ビル』は1885年にシカゴで建てられました。分厚い石壁の代わりに鉄骨の骨組みを使った初めての建物でした。",
+      "1900年、技術者たちはシカゴ川がミシガン湖に流れこまず、反対方向へ流れるように、川の流れをまるごと逆転させてしまいました。",
+      "『ザ・ビーン（豆）』という愛称のクラウド・ゲートは、つなぎ目のない168トンのピカピカのステンレス鋼でできていて、まるで巨大でなめらかな水滴のように見えます。",
+      "毎年、聖パトリックの日になると、シカゴは川を真っ緑色に染めるんです！",
+      "パイのように分厚い『ディープディッシュ・ピザ』は、1943年にシカゴで生まれました。"
+    ],
+    "zh": [
+      "传说1871年的芝加哥大火，是一头奶牛在谷仓里踢翻了灯笼引起的——不过历史学家认为，这大概只是个有趣的传说，并非真事！",
+      "世界上第一座摩天大楼——十层楼高的“家庭保险大厦”于1885年在芝加哥建成，它是第一座用钢铁骨架代替厚重石墙的建筑。",
+      "1900年，工程师们竟然把芝加哥河的流向整个反转，让河水不再流入密歇根湖，而是朝相反方向流去。",
+      "绰号“豆子”的云门雕塑由168吨抛光不锈钢打造而成，表面没有一条接缝，看起来就像一颗巨大光滑的水滴。",
+      "每年圣帕特里克节，芝加哥都会把河水染成鲜艳的绿色！",
+      "几乎和派一样厚的“深盘比萨”，就是1943年在芝加哥发明的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "강물이 일부러 거꾸로 흐르게 만들었대요 - 기술자들이 강을 통째로 돌려놓았다니, 상상이 돼?",
+    "en": "A whole river that flows backward on purpose — can you imagine engineers turning a river around?",
+    "ja": "川がわざと逆向きに流れているんだって — 技術者たちが川をまるごとひっくり返したなんて、想像できる？",
+    "zh": "河水居然被故意改成倒流——工程师把整条河都“转了个方向”，你能想象吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "클라우드 게이트 (더 빈)", "en": "Cloud Gate (\"The Bean\")", "ja": "クラウド・ゲート（ザ・ビーン）", "zh": "云门雕塑（豆子）" },
+      "blurb": {
+        "ko": "이 거대한 거울 같은 조각품은 시카고의 스카이라인과 하늘을 하나의 매끈하고 이음매 없는 곡선 안에 통째로 비춰줘요. 아이들은 그 아래로 달려가서 자기 모습이 사방으로 늘어나고 꿈틀거리는 걸 구경하는 걸 정말 좋아하죠. 화재 이후 새롭게 반짝이며 다시 태어난 시카고를 상징하는 작품이 되었답니다.",
+        "en": "This giant mirror-like sculpture reflects Chicago's skyline and the sky above in one smooth, seamless curve. Kids love running underneath it to watch their reflection stretch and wiggle in every direction. It's become the symbol of the shining new Chicago that rose after the fire.",
+        "ja": "この巨大な鏡のような彫刻は、シカゴのスカイラインと空を、つなぎ目のないなめらかな曲線の中にまるごと映し出します。子どもたちはその下を走り回って、自分の姿があちこちに伸びたりゆがんだりするのを見るのが大好き。火事のあとに輝きながら生まれ変わった、新しいシカゴのシンボルになっています。",
+        "zh": "这座巨大的镜面雕塑，把芝加哥的天际线和天空，统统映照在一条光滑无缝的曲线之中。孩子们最爱跑到它下面，看着自己的身影朝四面八方拉长、扭动。它已经成了大火之后，那座重新闪耀起来的新芝加哥的象征。"
+      },
+      "coords": [41.8827, -87.6233]
+    },
+    {
+      "name": { "ko": "윌리스 타워 스카이덱", "en": "Willis Tower Skydeck", "ja": "ウィリス・タワー展望台（スカイデッキ）", "zh": "威利斯大厦天空之台" },
+      "blurb": {
+        "ko": "미국에서 가장 높은 건물 중 하나로, 시카고가 처음 발명한 바로 그 철골 뼈대 기술로 지어졌어요. 103층에서 밖으로 툭 튀어나온 유리 상자 '더 렛지'에 올라서면, 내 발 아래로 저 멀리 아래 거리가 훤히 내려다보인답니다.",
+        "en": "One of the tallest towers in the whole country, built using the very steel-skeleton trick Chicago invented. Step onto \"The Ledge,\" a glass box that juts out from the 103rd floor, and you can look straight down through your own feet at the tiny street far below.",
+        "ja": "アメリカでも屈指の高さを誇るタワーで、シカゴが生み出したあの鉄骨の骨組み技術で建てられました。103階から外に張り出したガラスの箱『ザ・レッジ』に乗ると、自分の足の下、はるか遠くの通りまでまっすぐ見下ろせます。",
+        "zh": "这是全美最高的建筑之一，采用的正是芝加哥当年发明的那种钢铁骨架建造技术。站上从103层向外凸出的玻璃箱“悬空台”，就能透过自己的脚下，直直望见远处渺小的街道。"
+      },
+      "coords": [41.8789, -87.6359]
+    },
+    {
+      "name": { "ko": "시카고 리버워크 (거꾸로 흐르는 강)", "en": "Chicago Riverwalk (the reversed river)", "ja": "シカゴ・リバーウォーク（逆向きに流れる川）", "zh": "芝加哥河滨步道（倒流的河）" },
+      "blurb": {
+        "ko": "평범한 강처럼 보이지만, 사실은 대단한 공학 영웅담을 품고 있어요. 1900년에 기술자들이 강물의 방향을 거꾸로 바꿔서, 더러운 물이 도시의 식수원인 미시간 호수 쪽으로 가지 않고 반대로 흐르게 만들었거든요. 오늘 이 길을 따라 걸으면, 역사상 가장 기발한 해결책 중 하나를 바로 옆에서 만나는 셈이에요.",
+        "en": "This looks like an ordinary river, but it hides an engineering superhero story. In 1900, workers reversed its flow so dirty water would head away from the city's drinking water in Lake Michigan instead of into it. Walk along its path today and you're strolling beside one of history's cleverest fixes.",
+        "ja": "一見ふつうの川に見えますが、実はすごい技術ヒーロー物語を秘めています。1900年、技術者たちが川の流れを逆転させ、汚れた水が街の飲み水であるミシガン湖に向かわないようにしたのです。今日この道を歩けば、歴史上もっとも賢い解決策のすぐそばを散歩していることになります。",
+        "zh": "看起来只是一条普通的河，其实藏着一段了不起的工程英雄故事。1900年，工程师们把河水的流向彻底反转，让脏水远离城市的饮用水源密歇根湖。今天沿着这条步道散步，你其实正走在历史上最聪明的解决方案旁边。"
+      },
+      "coords": [41.8871, -87.6298]
+    },
+    {
+      "name": { "ko": "리글리 필드", "en": "Wrigley Field", "ja": "リグレー・フィールド", "zh": "瑞格利球场" },
+      "blurb": {
+        "ko": "미국에서 가장 오래된 야구장 중 하나로, 외야 담장을 타고 담쟁이덩굴이 자라고 있어요. 1914년부터 지금까지 경기가 열리고 있는데, 화재 이후 시카고가 마천루뿐 아니라 사람들이 사랑하는 응원과 놀이의 공간까지 만들어냈다는 증거랍니다.",
+        "en": "One of the oldest baseball parks in the country, with ivy climbing right up its outfield walls. It's been hosting games since 1914 — proof that after the fire, Chicago built not just skyscrapers, but beloved places to cheer and play too.",
+        "ja": "アメリカ最古級の野球場のひとつで、外野のフェンスにはツタが這っています。1914年から今も試合が行われていて、火事のあとシカゴが摩天楼だけでなく、みんなに愛される応援と遊びの場所も作り上げたことの証なのです。",
+        "zh": "这是全美最古老的棒球场之一，常春藤爬满了外场围墙。从1914年至今，这里的比赛从未间断——证明大火之后，芝加哥不仅建起了摩天大楼，也造就了人们深深热爱的欢呼与游戏之地。"
+      },
+      "coords": [41.9484, -87.6553]
+    }
+  ]
+}

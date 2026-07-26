@@ -1,0 +1,120 @@
+{
+  "id": "johannesburg",
+  "country": "za",
+  "coords": [-26.2041, 28.0473],
+  "name": { "ko": "요하네스버그", "en": "Johannesburg", "ja": "ヨハネスブルグ", "zh": "约翰内斯堡" },
+  "tagline": {
+    "ko": "황금 위에 하룻밤 사이 생겨난 도시, 인류의 첫걸음이 시작된 곳 바로 옆",
+    "en": "The city built almost overnight on gold, next door to where humans took their first steps",
+    "ja": "黄金の上にほぼ一夜にしてできた街、人類最初の一歩が始まった場所のすぐそば",
+    "zh": "几乎一夜之间因黄金而崛起的城市，紧邻人类迈出第一步的地方"
+  },
+  "story": {
+    "ko": [
+      "1886년, 남아프리카의 어느 바위투성이 언덕에서 사람들이 땅을 파다가 반짝이는 무언가를 발견했어요. 바로 금이었죠. 그것도 조금이 아니라, 지구에서 발견된 것 중 가장 큰 금맥 중 하나였어요. 소문은 순식간에 퍼졌고, 곧 세계 곳곳에서 부자가 되고 싶은 사람들이 몰려들었어요.",
+      "거의 하룻밤 사이에 천막 야영지가 거리로, 건물로, 그리고 마침내 도시 전체로 바뀌었어요. 바로 요하네스버그예요. 사람들은 이 도시를 '이골리', 즉 '황금의 땅'이라고 불러요. 지금도 도시 땅 밑에는 수백 킬로미터에 이르는 오래된 금광 터널이 뻗어 있는데, 어떤 곳은 깊이가 거의 4킬로미터나 돼요. 인류가 판 것 중 가장 깊은 구멍에 속한답니다.",
+      "하지만 이 지역에서 가장 오래된 보물은 금이 아니에요. 도시 바로 바깥, 동굴들이 얽힌 곳에서 과학자들은 지금까지 발견된 것 중 가장 오래된 인류 조상 화석 일부를 찾아냈어요. 200만 년도 더 된 뼈들, 그리고 '리틀 풋'이라는 별명이 붙은 거의 완전한 뼈대까지요. 그래서 과학자들은 이곳을 '인류의 요람'이라고 불러요. 우리 인류 이야기가 진짜로 시작된 곳 중 하나일지도 모르거든요.",
+      "그러니까 이 도시 하나에 정말 놀라운 이야기의 두 끝이 담겨 있는 셈이에요. 가장 깊은 금광, 그리고 인류의 아주 첫 발자국까지요. 오늘날 이 도시는 모험으로 가는 문이기도 해요. 차로 조금만 가면 사자, 코끼리, 기린, 코뿔소가 자유롭게 뛰어다니는데, 용감하게 찾아 나설 다음 가족을 기다리고 있답니다."
+    ],
+    "en": [
+      "In the year 1886, a few people digging on a rocky ridge in South Africa found something shiny buried in the rock. It was gold — and not just a little. It turned out to be one of the biggest gold deposits ever discovered on Earth. Word spread fast, and soon thousands of fortune-seekers rushed in from all over the world, hoping to strike it rich.",
+      "Almost overnight, a tent camp turned into streets, then buildings, then a whole city: Johannesburg. People call it 'eGoli' — 'the Place of Gold' — and even today, hundreds of kilometers of old gold-mine tunnels snake through the ground beneath the city, some reaching almost 4 kilometers down, among the deepest holes humans have ever dug.",
+      "But gold isn't the oldest treasure around here. Just outside the city, hidden in a network of caves, scientists have found some of the very oldest fossils of human ancestors ever discovered — bones over 2 million years old, including a nearly complete skeleton nicknamed 'Little Foot.' Scientists now call this area the Cradle of Humankind, because it may be one of the places where our story as humans truly began.",
+      "So this one city holds both endings of an amazing story — the deepest of gold rushes, and some of humanity's very first footsteps. And today, it's also a doorway to adventure: just a short drive away, lions, elephants, giraffes, and rhinos roam free, waiting for the next family brave enough to go looking for them."
+    ],
+    "ja": [
+      "1886年、南アフリカのある岩だらけの丘で、人々が地面を掘っているとキラキラ光る何かを見つけました。それは金でした。しかもほんの少しではなく、地球で発見された中でも最大級の金の鉱脈だったのです。うわさはあっという間に広がり、世界中から一攫千金を夢見る人々が押し寄せました。",
+      "ほとんど一夜のうちに、テントの野営地が通りになり、建物になり、そしてついには街全体になりました。それがヨハネスブルグです。人々はこの街を『エゴリ』、つまり『黄金の地』と呼びます。今でも街の地下には数百キロメートルにおよぶ古い金鉱のトンネルが張りめぐらされていて、中には深さ約4キロメートルに達するものもあります。人類が掘った穴の中でも最も深いものの一つです。",
+      "でも、この地域で最も古い宝物は金ではありません。街のすぐ外側、いくつもの洞窟が入り組んだ場所で、科学者たちはこれまでに見つかった中でも最も古い人類の祖先の化石を発見しました。200万年以上前の骨、そして『リトル・フット』と呼ばれるほぼ完全な骨格までも。だから科学者たちはこの一帯を『人類のゆりかご』と呼ぶのです。私たち人間の物語が本当に始まった場所の一つかもしれないからです。",
+      "つまりこの一つの街に、驚くべき物語の両方の始まりがつまっているのです。もっとも深い金の鉱山と、人類のいちばん最初の一歩と。そして今日、この街は冒険への入り口でもあります。車で少し行くだけで、ライオンやゾウ、キリン、サイが自由に歩き回っていて、勇気を出して探しにくる次の家族を待っているのです。"
+    ],
+    "zh": [
+      "1886年，几个人在南非一处多岩石的山脊上挖掘时，发现了埋在石头里的闪亮东西——是黄金，而且不是一点点，那是地球上发现过的最大金矿之一。消息很快传开，成千上万想要发财的人从世界各地涌来。",
+      "几乎一夜之间，帐篷营地变成了街道，又变成了楼房，最终变成了一整座城市——约翰内斯堡。人们把它叫做“埃戈利”，意思是“黄金之地”。直到今天，城市地底还盘绕着数百公里长的旧金矿隧道，有些深达将近4公里，是人类挖过的最深的洞穴之一。",
+      "不过，这片土地上最古老的宝藏并不是黄金。就在城市外不远处，一片洞穴群里，科学家们发现了迄今为止最古老的人类祖先化石——有些骨骼超过200万年历史，其中还有一副几乎完整的骨架，被称为“小脚”。科学家们把这片区域称为“人类摇篮”，因为这里很可能就是我们人类故事真正开始的地方之一。",
+      "所以，这一座城市里，浓缩着一个惊人故事的两端——最深的金矿，和人类最初的脚步。如今，这座城市也是探险的大门：只需驱车不远，狮子、大象、长颈鹿和犀牛就自由地漫步在那里，等待着下一个勇敢前来寻找它们的家庭。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1886년 이곳에서 발견된 금은 지구 역사상 가장 큰 금맥 중 하나였어요. 요하네스버그의 별명 '이골리'는 말 그대로 '황금의 땅'이라는 뜻이랍니다.",
+      "이 도시는 텅 빈 천막 야영지에서 약 10년 만에 하나의 완전한 도시로 자랐어요. 역사상 가장 빠르게 성장한 도시 중 하나예요.",
+      "도시 땅 밑에는 수백 킬로미터에 이르는 오래된 금광 터널이 뻗어 있고, 근처 어떤 광산은 깊이가 거의 4킬로미터나 돼요.",
+      "'골드 리프 시티'에서는 실제 옛 광산 갱도를 엘리베이터를 타고 지하 220미터까지 내려가 볼 수 있어요.",
+      "근처 동굴 '인류의 요람'에는 지금까지 발견된 것 중 가장 오래된 인류 조상 화석들이 있어요. 200만 년도 넘은, 거의 완전한 뼈대 '리틀 풋'도 여기서 나왔답니다.",
+      "도시에서 차로 몇 시간만 가면 사자, 코끼리, 기린, 코뿔소가 자유롭게 뛰어다니는 사파리를 즐길 수 있어요."
+    ],
+    "en": [
+      "The gold found here in 1886 was part of one of the biggest gold deposits ever discovered — Johannesburg's nickname, 'eGoli,' literally means 'Place of Gold.'",
+      "The city grew from an empty tent camp into a full city in about ten years — one of the fastest boomtowns in history.",
+      "Old gold-mine tunnels stretch for hundreds of kilometers beneath the city, and some mines nearby reach almost 4 kilometers underground.",
+      "At Gold Reef City, visitors can ride an elevator down a real old mine shaft, 220 meters below the surface.",
+      "Nearby caves called the Cradle of Humankind hold some of the oldest human-ancestor fossils ever found — including a nearly complete skeleton over 2 million years old nicknamed 'Little Foot.'",
+      "Just a few hours from the city, you can go on safari and spot lions, elephants, giraffes, and rhinos roaming wild."
+    ],
+    "ja": [
+      "1886年にここで見つかった金は、地球史上最大級の金脈の一部でした。ヨハネスブルグの愛称『エゴリ』は文字どおり『黄金の地』という意味です。",
+      "この街は空っぽのテント野営地から、わずか10年ほどで一つの街へと成長しました。歴史上もっとも速く発展した街の一つです。",
+      "街の地下には数百キロメートルにおよぶ古い金鉱のトンネルが広がり、近くのある鉱山は深さがほぼ4キロメートルにも達します。",
+      "『ゴールドリーフシティ』では、実際に使われていた鉱山の縦坑をエレベーターで地下220メートルまで降りることができます。",
+      "近くの洞窟『人類のゆりかご』には、これまで見つかった中でも最古級の人類の祖先の化石があります。200万年以上前の、ほぼ完全な骨格『リトル・フット』もここで発見されました。",
+      "街から車でほんの数時間で、ライオンやゾウ、キリン、サイが自由に歩き回るサファリを楽しめます。"
+    ],
+    "zh": [
+      "1886年在这里发现的黄金，是地球上已知最大的金矿之一。约翰内斯堡的别名“埃戈利”，字面意思就是“黄金之地”。",
+      "这座城市从一片空荡荡的帐篷营地，用大约十年时间就成长为一整座城市，是历史上发展最快的“淘金城”之一。",
+      "城市地底盘绕着数百公里长的旧金矿隧道，附近有些矿井深度接近4公里。",
+      "在“黄金礁城”，游客可以乘电梯沿真实的旧矿井下降到地下220米深处。",
+      "附近的“人类摇篮”洞穴中，藏有迄今发现的最古老的人类祖先化石之一，包括一副超过200万年历史、几乎完整的骨架“小脚”。",
+      "从市区驱车仅需几小时，就能开启一场野生动物园探险，看到狮子、大象、长颈鹿和犀牛自由漫步。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "어떤 언덕에서 반짝이는 돌을 발견한 뒤로, 딱 10년 만에 아무것도 없던 곳에 도시가 통째로 생겨났대. 그 돌이 뭐였을지 맞혀볼래?",
+    "en": "A whole city grew out of nothing in just ten years, all because of a shiny rock someone found on a hill. Can you guess what that rock turned out to be?",
+    "ja": "ある丘で見つかったキラキラ光る石がきっかけで、たった10年で何もなかった場所に街ができたんだって。その石が何だったか当ててみて？",
+    "zh": "因为有人在山上发现了一块闪闪发亮的石头，短短十年，一座城市就从无到有地长了出来。你能猜到那是什么石头吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "골드 리프 시티", "en": "Gold Reef City", "ja": "ゴールドリーフシティ", "zh": "黄金礁城" },
+      "blurb": {
+        "ko": "이 테마파크는 실제 오래된 금광 위에 세워졌어요. 용감한 방문객은 엘리베이터를 타고 원래의 광산 갱도를 따라 220미터 아래까지 내려가 볼 수 있고, 녹인 금을 틀에 부어 금괴로 만드는 모습도 직접 볼 수 있어요.",
+        "en": "This theme park sits right on top of a real old gold mine. Brave visitors can ride an elevator 220 meters down the original mine shaft and even watch molten gold get poured into a bar.",
+        "ja": "このテーマパークは、実際に使われていた古い金鉱の真上に建っています。勇気ある訪問者はエレベーターで元の鉱山の縦坑を220メートル下まで降りることができ、溶けた金を型に流しこんで金の延べ棒を作る様子も見られます。",
+        "zh": "这座主题公园就建在一座真正的旧金矿之上。勇敢的游客可以乘电梯沿原始矿井下降220米，还能亲眼看到熔化的黄金被浇铸成金条。"
+      },
+      "coords": [-26.2373, 28.0087]
+    },
+    {
+      "name": { "ko": "스테르크폰테인 동굴", "en": "Sterkfontein Caves", "ja": "スタークフォンテイン洞窟", "zh": "斯泰克方丹洞穴" },
+      "blurb": {
+        "ko": "이 동굴 안에서 과학자들은 지구에서 가장 오래된 인류 조상 화석들을 발견했어요. 200만 년 전 것으로, 거의 완전한 뼈대인 '리틀 풋'도 여기서 나왔답니다. 이 안을 걷다 보면 마치 인류의 이야기책 속으로 들어가는 기분이 들어요.",
+        "en": "Inside this cave system, scientists found some of the oldest human-ancestor fossils on the planet, including a nearly complete 2-million-year-old skeleton nicknamed 'Little Foot.' Walking through feels like stepping into humanity's very own storybook.",
+        "ja": "この洞窟の中で、科学者たちは地球上でもっとも古い人類の祖先の化石を発見しました。200万年前の、ほぼ完全な骨格『リトル・フット』もここから出てきたのです。中を歩いていると、まるで人類そのものの物語の中に足を踏み入れているような気分になります。",
+        "zh": "在这片洞穴群中，科学家发现了地球上最古老的人类祖先化石之一，包括一副几乎完整、有着200万年历史的骨架“小脚”。走在其中，仿佛踏入了人类自己的故事书。"
+      },
+      "coords": [-26.0325, 27.7144]
+    },
+    {
+      "name": { "ko": "마로펭 방문자 센터", "en": "Maropeng Visitor Centre", "ja": "マロペン・ビジターセンター", "zh": "马罗彭游客中心" },
+      "blurb": {
+        "ko": "이 박물관은 '인류의 요람' 입구에 있어요. 아이들은 지구 역사를 보여주는 지하 보트 투어를 타고, 우리의 가장 오래된 조상들의 모형과 직접 마주할 수 있답니다.",
+        "en": "This museum sits at the entrance to the Cradle of Humankind and lets kids walk through an underground boat ride showing Earth's history, then come face to face with models of our earliest ancestors.",
+        "ja": "この博物館は『人類のゆりかご』の入り口にあります。子どもたちは地球の歴史を見せてくれる地下ボートツアーに乗り、私たちのもっとも古い祖先の模型と対面できます。",
+        "zh": "这座博物馆坐落在“人类摇篮”的入口处。孩子们可以乘坐展示地球历史的地下船只之旅，与我们最早祖先的模型面对面相遇。"
+      },
+      "coords": [-25.9968, 27.7305]
+    },
+    {
+      "name": { "ko": "라이노 앤드 라이온 자연보호구역", "en": "Rhino and Lion Nature Reserve", "ja": "ライノ・アンド・ライオン自然保護区", "zh": "犀牛狮子自然保护区" },
+      "blurb": {
+        "ko": "도시 바로 바깥에 있는 이 보호구역에서는 사자, 코뿔소 같은 야생 동물들이 탁 트인 곳을 자유롭게 돌아다니는 모습을 볼 수 있어요. 먼 비행 없이도 아프리카 사파리를 처음 경험해보기에 딱 좋은 곳이랍니다.",
+        "en": "Just outside the city, this reserve lets families spot lions, rhinos, and other wild animals roaming in the open — a perfect first taste of African safari, no long flight required.",
+        "ja": "街のすぐ外にあるこの保護区では、ライオンやサイなどの野生動物が広い自然の中を歩き回る姿を見られます。長時間のフライトなしで、アフリカのサファリを初体験するのにぴったりの場所です。",
+        "zh": "就在市区外，这处保护区可以让一家人看到狮子、犀牛等野生动物在开阔天地间自由漫步——不用长途飞行，就能初次体验非洲野生动物园的魅力。"
+      },
+      "coords": [-25.9333, 27.7333]
+    }
+  ]
+}

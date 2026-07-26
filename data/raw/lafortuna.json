@@ -1,0 +1,120 @@
+{
+  "id": "lafortuna",
+  "country": "cr",
+  "coords": [10.4667, -84.6431],
+  "name": { "ko": "라 포르투나", "en": "La Fortuna", "ja": "ラ・フォルトゥナ", "zh": "拉福图纳" },
+  "tagline": {
+    "ko": "400년을 잠들어 있던 화산 옆, 42년 동안 밤하늘을 밝혔던 행운의 마을",
+    "en": "The lucky town beside a volcano that slept for 400 years, then lit up the night sky for 42",
+    "ja": "400年眠っていた火山のそばにある、42年間夜空を照らし続けた幸運の町",
+    "zh": "紧邻沉睡400年的火山、之后照亮夜空长达42年的“幸运小镇”"
+  },
+  "story": {
+    "ko": [
+      "약 400년 동안, 코스타리카의 완벽한 원뿔 모양 산 하나가 그저 그 자리에 조용히, 초록빛 정글로 뒤덮인 채 앉아 있었어요. 근처에 사는 사람들은 그 산비탈에서 농사를 지었지만 별생각 없이 지냈죠. 그 초록빛 아래에 사실은 '아레날'이라는 잠든 화산이 숨어 있다는 걸, 아무도 상상하지 못했어요.",
+      "그런데 1968년 어느 평범한 아침, 아무런 예고도 없이 아레날이 잠에서 깨어나 폭발했어요. 화산재와 돌덩이가 쏟아져 나와서 근처 사람들은 모두 도망쳐야 했죠. 하지만 정말 놀라운 행운도 함께 일어났어요. 용암이 근처 작은 마을을 피해서 흘러가, 마을이 완전히 무사했던 거예요. 감사하고 안도한 마을 사람들은 이후 마을 이름을 '라 포르투나', 즉 '행운'이라는 뜻으로 바꿨답니다.",
+      "그 뒤 42년 동안, 아레날은 계속 깨어 있으면서 거의 매일 밤 밝은 주황빛 용암을 뿜어냈어요. 사람들은 세계 곳곳에서 찾아와 어두운 밤, 슬로모션 불꽃놀이처럼 빛나는 산을 지켜보았죠. 화산은 땅속 물까지 데워서, 자연 그대로의 따뜻한 온천이 근처에서 보글보글 솟아났고, 누구나 몸을 담글 수 있었답니다.",
+      "아레날은 2010년부터 다시 조용히 잠들어 있지만, 그 주변 정글은 생명으로 가득 깨어 있어요. 나무늘보들이 나뭇가지에 느긋하게 매달려 있는데, 어찌나 천천히 움직이는지 꿈을 꾸는 것처럼 보여요. 나무다리를 따라 걸으면 나무 꼭대기 높이 위를 걸을 수 있고, 70미터 높이 폭포가 맑고 푸른 웅덩이로 쏟아져 내려서, 당장이라도 뛰어들고 싶어진답니다."
+    ],
+    "en": [
+      "For about 400 years, a tall, perfectly cone-shaped mountain in Costa Rica just sat there, green and quiet, covered in rainforest. People who lived nearby farmed its slopes and never gave it a second thought. Nobody imagined that underneath all that green, the mountain was actually a sleeping volcano named Arenal.",
+      "Then, on one ordinary morning in 1968, without any warning at all, Arenal woke up — and erupted. Ash and rock came pouring out, and everyone nearby had to run. But an amazing stroke of luck happened too: the lava flowed away from the little village close by, sparing it completely. Grateful and relieved, the villagers renamed their town 'La Fortuna' — meaning 'the fortune,' or 'the luck.'",
+      "For the next 42 years, Arenal stayed wide awake, glowing with rivers of bright orange lava almost every single night. People traveled from all over the world just to sit in the dark and watch the mountain glow like a slow-motion fireworks show. The volcano even heated up underground water, so warm natural hot springs bubbled up nearby for everyone to soak in.",
+      "Arenal has been quietly resting again since 2010, but the rainforest around it is wide awake with life. Sloths hang lazily from branches, moving so slowly they seem to be dreaming. Wooden bridges let you walk high above the treetops, and a 70-meter waterfall crashes down into a pool so clear and blue, you'll want to jump right in."
+    ],
+    "ja": [
+      "約400年もの間、コスタリカにある完璧な円すい形の山は、緑のジャングルにおおわれたまま、ただ静かにそこに座っていました。近くに住む人々はその斜面で農業をしていましたが、特に気にも留めていませんでした。その緑の下に、実は『アレナル』という眠った火山が隠れているとは、だれも想像していなかったのです。",
+      "ところが1968年のある普通の朝、まったく前ぶれもなく、アレナルは目を覚まし噴火しました。火山灰と岩が噴き出し、近くの人々はみな逃げなければなりませんでした。でも、驚くべき幸運も同時に起こりました。溶岩が近くの小さな村を避けて流れ、村はまったく無事だったのです。感謝し、ほっとした村人たちは、その後、村の名前を『ラ・フォルトゥナ』、つまり『幸運』という意味に変えました。",
+      "その後42年間、アレナルは目覚めたままで、ほぼ毎晩明るいオレンジ色の溶岩を輝かせていました。人々は世界中から訪れ、暗闇の中に座って、まるでスローモーションの花火のように輝く山を眺めました。火山は地下の水まで温めたので、自然の温かい温泉が近くにわき出し、だれでもつかることができたのです。",
+      "アレナルは2010年からまた静かに眠っていますが、その周りのジャングルは生き物であふれて目覚めています。ナマケモノが枝にのんびりとぶら下がり、あまりにゆっくり動くので夢を見ているように見えます。木の橋を渡れば木々のてっぺんよりも高いところを歩くことができ、70メートルの滝は澄んだ青い水たまりへと流れ落ちて、今すぐ飛びこみたくなるほどです。"
+    ],
+    "zh": [
+      "大约400年间，哥斯达黎加一座近乎完美的锥形山，就那样安安静静地矗立在那里，被绿色雨林覆盖着。附近居住的人们在山坡上耕种，却从没多想过什么。没人能想到，那片绿色之下，其实藏着一座沉睡的火山，名叫阿雷纳尔。",
+      "然而1968年一个平常的早晨，毫无预警，阿雷纳尔突然苏醒并喷发了。火山灰和岩石倾泻而出，附近的人们不得不四散逃离。但同时也发生了一件极幸运的事：熔岩绕开了附近的小村庄流走，村子竟毫发无损。心怀感激又如释重负的村民们，后来把村庄改名叫“拉福图纳”，意思就是“幸运”。",
+      "此后的42年里，阿雷纳尔一直保持“清醒”，几乎每晚都涌动着明亮的橙色熔岩。人们从世界各地赶来，就为了坐在夜色中，看这座山像放慢镜头的烟花一样发光。火山还把地下水加热，附近因此冒出了天然温泉，谁都可以泡进去。",
+      "自2010年起，阿雷纳尔又重新安静地沉睡了，但它周围的雨林却生机盎然、热闹非凡。树懒懒洋洋地挂在树枝上，动作慢得像在做梦。走上木桥，你能漫步在比树梢还高的地方；一道70米高的瀑布飞泻而下，注入一汪清澈碧蓝的水潭，让人忍不住想立刻跳进去。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "아레날 화산은 약 400년 동안 조용히 있어서, 아무도 그게 화산인 줄 몰랐어요. 그러다 1968년 갑자기 폭발했답니다.",
+      "그 폭발 때 용암이 근처 마을을 피해 흘러가 마을이 무사했어요. 감사한 마을 사람들은 마을 이름을 '행운'이라는 뜻의 '라 포르투나'로 바꿨답니다.",
+      "그 뒤 42년 동안, 아레날은 거의 매일 밤 밝은 주황빛 용암을 뿜어냈어요.",
+      "라 포르투나의 따뜻한 온천물은 기계로 데운 게 아니라, 바로 그 화산이 땅속 깊은 곳에서 데운 거예요.",
+      "이곳의 정글은 두발가락나무늘보와 세발가락나무늘보를 모두 볼 수 있는 세계 최고의 장소 중 하나예요.",
+      "라 포르투나 폭포는 70미터 절벽 아래로 쏟아지는데, 물웅덩이가 어찌나 맑고 푸른지 물보라 가까이까지 헤엄쳐 갈 수 있답니다."
+    ],
+    "en": [
+      "Arenal Volcano stayed quiet for about 400 years — so quiet that nobody even realized it was a volcano, until it erupted suddenly in 1968.",
+      "During that eruption, lava flowed away from the nearby village, sparing it completely — grateful residents renamed their town 'La Fortuna,' meaning 'the fortune' or 'the luck.'",
+      "For the next 42 years, Arenal glowed with rivers of bright orange lava almost every single night.",
+      "The warm water in La Fortuna's natural hot springs isn't heated by any machine — it's warmed deep underground by the very same volcano.",
+      "The rainforest here is one of the best places on Earth to spot both two-toed and three-toed sloths hanging lazily in the trees.",
+      "La Fortuna Waterfall drops 70 meters down a cliff into a pool so clear and blue that you can swim right up close to the spray."
+    ],
+    "ja": [
+      "アレナル火山は約400年間静かにしていたので、だれもそれが火山だと気づきませんでした。ところが1968年、突然噴火したのです。",
+      "その噴火のとき、溶岩は近くの村を避けて流れ、村は無事でした。感謝した村人たちは、村の名前を『幸運』という意味の『ラ・フォルトゥナ』に変えました。",
+      "その後42年間、アレナルはほぼ毎晩明るいオレンジ色の溶岩を輝かせていました。",
+      "ラ・フォルトゥナの温かい温泉の水は、機械で温めているのではなく、まさにその火山が地下深くで温めているのです。",
+      "ここのジャングルは、フタユビナマケモノとミユビナマケモノの両方を見られる、世界でも屈指の場所です。",
+      "ラ・フォルトゥナの滝は70メートルの崖を流れ落ち、その水たまりはとても澄んで青いので、しぶきのすぐ近くまで泳いでいくことができます。"
+    ],
+    "zh": [
+      "阿雷纳尔火山安静了大约400年，没人知道它是火山，直到1968年突然喷发。",
+      "那次喷发时，熔岩绕开了附近的村庄，村子完好无损。心怀感激的村民把村子改名叫“拉福图纳”，意思是“幸运”。",
+      "此后的42年里，阿雷纳尔几乎每晚都涌动着明亮的橙色熔岩。",
+      "拉福图纳天然温泉的温水并非机器加热，而是由那座火山在地下深处天然加热的。",
+      "这里的雨林是全球观赏二趾树懒和三趾树懒的最佳地点之一。",
+      "拉福图纳瀑布从70米高的悬崖飞泻而下，水潭清澈碧蓝，可以一直游到水花附近。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "화산 하나가 400년 동안 조용히 잠들어 있어서 아무도 그게 화산인지 몰랐대. 그런데 어느 날 갑자기 조용하지 않게 됐어. 무슨 일이 일어났을까?",
+    "en": "A volcano slept quietly for 400 years, and nobody even knew it was a volcano — until one day it wasn't quiet anymore. What do you think happened?",
+    "ja": "ある火山が400年も静かに眠っていて、だれもそれが火山だと気づかなかったんだって。でもある日、急に静かじゃなくなったの。何が起きたと思う？",
+    "zh": "一座火山安静地沉睡了400年，没人知道它其实是火山。可是有一天，它突然不再安静了。你猜发生了什么？"
+  },
+  "places": [
+    {
+      "name": { "ko": "아레날 화산", "en": "Arenal Volcano", "ja": "アレナル火山", "zh": "阿雷纳尔火山" },
+      "blurb": {
+        "ko": "이 거의 완벽한 원뿔 모양 화산은 1968년 폭발하기 전까지 400년 동안 조용히 잠들어 있었고, 그 뒤 42년 동안 거의 매일 밤 용암으로 빛났어요. 2010년부터 다시 잠들어 있지만, 언제든 깨어날 준비가 된 것처럼 보인답니다.",
+        "en": "This near-perfect cone slept quietly for 400 years before erupting in 1968, then glowed with lava almost every night for 42 years. It's been resting again since 2010, but still looks ready to wake up.",
+        "ja": "この完璧に近い円すい形の火山は、1968年に噴火するまで400年間静かに眠っていて、その後42年間ほぼ毎晩溶岩で輝いていました。2010年からまた眠っていますが、今にも目を覚ましそうに見えます。",
+        "zh": "这座近乎完美的锥形火山，在1968年喷发之前已沉睡了400年，之后的42年里几乎每晚都涌动着熔岩。自2010年起它又重新沉睡，但看起来随时都可能再次醒来。"
+      },
+      "coords": [10.4630, -84.7030]
+    },
+    {
+      "name": { "ko": "라 포르투나 폭포", "en": "La Fortuna Waterfall", "ja": "ラ・フォルトゥナの滝", "zh": "拉福图纳瀑布" },
+      "blurb": {
+        "ko": "정글 길을 따라 내려가면 70미터 높이에서 쏟아지는 이 폭포와 맑고 푸른 웅덩이를 만날 수 있어요. 물보라가 물과 만나는 바로 그곳에서 헤엄치며 더위를 식힐 수 있답니다.",
+        "en": "Hike down a jungle trail to reach this 70-meter waterfall crashing into a clear blue pool — cool off with a swim right where the spray meets the water.",
+        "ja": "ジャングルの小道を下っていくと、70メートルの高さから流れ落ちるこの滝と、澄んだ青い水たまりに出会えます。しぶきが水面に当たる場所で泳いで涼むこともできます。",
+        "zh": "沿着丛林小径往下走，就能看到这道从70米高处飞泻而下、注入清澈蓝色水潭的瀑布——就在水花与潭水交汇处畅游一番，清凉一夏。"
+      },
+      "coords": [10.4881, -84.6683]
+    },
+    {
+      "name": { "ko": "아레날 행잉 브릿지", "en": "Arenal Hanging Bridges", "ja": "アレナル・ハンギングブリッジ", "zh": "阿雷纳尔悬索桥" },
+      "blurb": {
+        "ko": "이 다리를 건너면 정글 바닥보다 훨씬 높은 나무 꼭대기, 즉 캐노피 사이를 걸을 수 있어요. 원숭이들이 그네를 타듯 매달리고, 알록달록한 새들이 나뭇가지 사이를 재빠르게 오가는 걸 볼 수 있답니다.",
+        "en": "These bridges let you walk high above the rainforest floor, right through the treetop canopy where monkeys swing and colorful birds dart between branches.",
+        "ja": "この橋を渡ると、ジャングルの地面よりずっと高い、木々の梢のあたりを歩くことができます。サルたちがぶら下がって遊び、色とりどりの鳥が枝の間をすばやく飛び交うのが見られます。",
+        "zh": "走过这些吊桥，你能漫步在远高于雨林地面的树冠层间，看猴子在枝头荡来荡去，色彩缤纷的鸟儿在树枝间穿梭。"
+      },
+      "coords": [10.4530, -84.7250]
+    },
+    {
+      "name": { "ko": "타바콘 온천", "en": "Tabacon Hot Springs", "ja": "タバコン温泉", "zh": "塔巴孔温泉" },
+      "blurb": {
+        "ko": "이 천연 온천은 바로 옆 화산이 데워주는 물이에요. 기계는 전혀 필요 없죠. 따뜻한 강물이 정글 사이를 굽이쳐 흐르는데, 하루 종일 신나게 놀고 난 뒤 몸을 담그기에 딱 좋답니다.",
+        "en": "These natural hot springs are warmed by the very volcano next door — no machines needed. Warm river water winds through the rainforest, perfect for soaking after a day of adventure.",
+        "ja": "この天然温泉は、すぐそばの火山が温めてくれたお湯です。機械は一切いりません。温かい川の水がジャングルの中を曲がりくねって流れていて、一日いっぱい冒険を楽しんだあとにつかるのにぴったりです。",
+        "zh": "这处天然温泉，是由旁边那座火山亲自加热的，完全不需要任何机器。温热的溪水蜿蜒流过雨林，是结束一天冒险后泡个热水澡的绝佳去处。"
+      },
+      "coords": [10.4763, -84.7086]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "philadelphia",
+  "country": "us",
+  "coords": [39.9526, -75.1652],
+  "name": { "ko": "필라델피아", "en": "Philadelphia", "ja": "フィラデルフィア", "zh": "费城" },
+  "tagline": {
+    "ko": "금이 간 종이 자유를 외친, 미국이 태어난 도시",
+    "en": "The city where a cracked bell rang out freedom, and America was born",
+    "ja": "ひびの入った鐘が自由を告げた、アメリカ誕生の街",
+    "zh": "一口裂钟敲响自由,美国就诞生在这座城市"
+  },
+  "story": {
+    "ko": [
+      "지금으로부터 250년 전, 아메리카 대륙에는 영국 왕이 다스리는 13개의 식민지가 있었어요. 그중 가장 크고 북적이던 도시가 바로 필라델피아였답니다. 인쇄소와 상점이 늘어선 거리에는 마차가 오가고, 벤저민 프랭클린 같은 똑똑한 사람들이 신문을 만들고 새로운 발명품을 궁리하고 있었죠. 하지만 사람들 마음속엔 점점 커지는 물음표가 있었어요. '우리 스스로 나라를 다스리면 안 될까?'",
+      "1776년 여름, 대표들이 필라델피아의 한 벽돌 건물에 모였어요. 창문을 꼭 닫고 며칠 밤낮을 토론한 끝에, 그들은 종이 한 장에 큰 결심을 적었답니다. 바로 '독립 선언문'이에요. '우리는 자유롭고 평등한 나라를 만들겠다!'는 약속이었죠. 그 벽돌 건물은 오늘날 '독립기념관'이라 불리며 여전히 그 자리에 서 있어요.",
+      "선언문이 완성되자 사람들은 커다란 종을 울려 이 소식을 온 도시에 알렸다고 전해져요. 그런데 그 종엔 재미난 비밀이 있어요. 오래 사용하다 보니 옆구리에 커다랗고 길쭉한 금이 가 버린 거예요! 사람들은 종을 고치는 대신 그대로 두기로 했어요. 갈라진 종이야말로 자유를 위해 온갖 어려움을 견뎌낸 이 나라의 이야기를 가장 잘 보여준다고 생각했거든요. 그 종은 지금 '자유의 종'이라 불리며 사랑받고 있답니다.",
+      "그로부터 11년 뒤, 사람들은 같은 건물에 다시 모여 나라를 운영할 규칙집, '헌법'까지 만들었어요. 그렇게 필라델피아는 미국 역사상 가장 중요한 결정들이 태어난 도시가 되었죠. 지금도 이 도시를 걸으면, 자유의 종이 걸려 있던 그 여름날의 두근거림이 그대로 느껴진답니다."
+    ],
+    "en": [
+      "Two hundred and fifty years ago, thirteen colonies ruled by a faraway king stretched along the coast of America. The biggest, busiest of them all was Philadelphia. Its streets buzzed with print shops and market stalls and clattering carriages, and clever people like Benjamin Franklin were printing newspapers and dreaming up new inventions. But a question was growing louder and louder in people's minds: couldn't they govern themselves instead?",
+      "In the summer of 1776, delegates gathered inside a brick building in Philadelphia. With the windows shut tight, they argued and debated for days—then finally wrote their bold decision on a single sheet of paper: the Declaration of Independence. It promised a brand-new country built on freedom and equality. That very brick building still stands today, known as Independence Hall.",
+      "When the declaration was finished, legend says a great bell was rung to spread the news across the city. But that bell hides a funny secret—after years of ringing, a long, jagged crack split right up its side! Instead of fixing it, people decided to leave it just as it was. A cracked bell, they felt, told the story of a young country that had weathered hard times to win its freedom. Today it's beloved as the Liberty Bell.",
+      "Eleven years later, people gathered in that same building again—this time to write the rulebook for running the whole country: the Constitution. That's how Philadelphia became the city where America's biggest decisions were born. Even now, walking its streets, you can feel a spark of that thrilling summer when the Liberty Bell rang out."
+    ],
+    "ja": [
+      "今から250年前、アメリカ大陸には遠い国の王様が治める13の植民地がありました。その中でも一番大きく、にぎやかだったのがフィラデルフィアです。印刷所や店が並ぶ通りには馬車が行き交い、ベンジャミン・フランクリンのような賢い人たちが新聞を作ったり新しい発明を考えたりしていました。でも人々の心の中には、だんだん大きくなる疑問がありました。「自分たちの国は自分たちで治めてはいけないのだろうか？」",
+      "1776年の夏、代表者たちがフィラデルフィアのれんが造りの建物に集まりました。窓をしっかり閉めて何日も議論を重ねた末、一枚の紙に大きな決意を書き記しました。それが『独立宣言』です。「自由で平等な国をつくる」という約束でした。そのれんがの建物は今も『独立記念館』としてそのまま建っています。",
+      "宣言ができあがると、大きな鐘を鳴らして街じゅうにこの知らせを伝えたと言われています。でもその鐘には面白い秘密があります。長く使われるうちに、鐘の横に大きく長いひびが入ってしまったのです！人々はそれを直さず、そのままにしておくことにしました。ひび割れた鐘こそが、自由のためにさまざまな困難を乗り越えたこの国の物語をよく表していると考えたからです。その鐘は今『自由の鐘』と呼ばれ、大切にされています。",
+      "それから11年後、人々は同じ建物に再び集まり、国を運営するためのルールブック『憲法』まで作り上げました。こうしてフィラデルフィアは、アメリカ史上もっとも重要な決断が生まれた街になったのです。今もこの街を歩くと、自由の鐘が鳴り響いたあの夏の日のわくわくをそのまま感じることができます。"
+    ],
+    "zh": [
+      "250年前,美洲大陆上有13块由遥远国王统治的殖民地,其中最大、最热闹的就是费城。街道上印刷铺和摊贩林立,马车来来往往,像本杰明·富兰克林这样聪明的人正在印报纸、琢磨新发明。可人们心里有个疑问越来越强烈:难道我们不能自己管理自己吗?",
+      "1776年夏天,代表们聚集在费城的一座砖楼里。他们紧闭窗户,连续辩论了好几天,最终把一个大胆的决定写在了一张纸上——那就是《独立宣言》。它承诺要建立一个自由平等的新国家。那座砖楼至今依然矗立在原地,如今被称为“独立厅”。",
+      "宣言写成后,据说人们敲响了一口大钟,把这个消息传遍全城。可这口钟藏着一个有趣的秘密——用了多年之后,它的侧面裂开了一道又长又粗的裂缝!人们没有把它修好,而是决定就这样保留下去。因为一口有裂痕的钟,恰恰讲述了这个国家为了自由,历经艰难险阻的故事。如今,它被人们亲切地称为“自由钟”。",
+      "十一年后,人们又聚集在同一座建筑里,写出了管理整个国家的规则手册——《宪法》。就这样,费城成了诞生美国历史上最重要决定的城市。直到今天,走在这座城市里,你依然能感受到那个自由钟响彻全城的夏日里的激动心情。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "미국 독립 선언문이 1776년 7월 4일, 필라델피아의 독립기념관에서 완성됐어요. 그래서 7월 4일은 지금도 미국의 생일이랍니다!",
+      "자유의 종에는 폭이 무려 60cm에 가까운 큰 금이 가 있어요. 사람들은 일부러 고치지 않고 그대로 보존하고 있죠.",
+      "같은 건물, 독립기념관에서 11년 뒤 미국 헌법도 만들어졌어요. 한 건물에서 나라의 시작과 규칙이 다 태어난 셈이에요.",
+      "벤저민 프랭클린은 필라델피아에서 피뢰침, 이중초점 안경 같은 발명품을 만들고, 미국 최초의 공공 도서관도 세웠어요.",
+      "'벳시 로스'라는 재봉사가 필라델피아에서 최초의 성조기를 바느질했다는 이야기가 전해 내려와요.",
+      "필라델피아 미술관의 긴 돌계단은 영화 '록키'에서 주인공이 뛰어오르는 장면으로 유명해져서, 지금도 관광객들이 두 팔을 번쩍 들고 따라 뛴답니다."
+    ],
+    "en": [
+      "The Declaration of Independence was finished in Philadelphia's Independence Hall on July 4, 1776—that's why July 4th is still America's birthday today!",
+      "The Liberty Bell has a crack nearly 60 cm (2 feet) long running up its side, and people have deliberately left it unrepaired ever since.",
+      "Eleven years later, the U.S. Constitution was written in that very same building—so a nation's birth and its rulebook were both born under one roof.",
+      "Benjamin Franklin invented the lightning rod and bifocal glasses in Philadelphia, and founded America's first public library there too.",
+      "Legend says a seamstress named Betsy Ross sewed the very first American flag right there in Philadelphia.",
+      "The long stone steps at the Philadelphia Museum of Art became famous from the movie 'Rocky'—visitors still race up them and throw their arms up just like he did!"
+    ],
+    "ja": [
+      "アメリカ独立宣言は1776年7月4日、フィラデルフィアの独立記念館で完成しました。だから7月4日は今もアメリカの誕生日なんです！",
+      "自由の鐘には長さ約60センチもの大きなひびが入っています。人々はあえて直さず、そのまま保存しています。",
+      "同じ建物、独立記念館で11年後にアメリカ憲法もつくられました。国の始まりとルールが同じ屋根の下で生まれたんですね。",
+      "ベンジャミン・フランクリンはフィラデルフィアで避雷針や遠近両用メガネを発明し、アメリカ初の公共図書館も設立しました。",
+      "『ベッツィ・ロス』という仕立て屋さんが、フィラデルフィアで最初の星条旗を縫ったという話が語り継がれています。",
+      "フィラデルフィア美術館の長い石段は映画『ロッキー』で主人公が駆け上がるシーンで有名になり、今も観光客が両手を上げて真似して駆け上がります。"
+    ],
+    "zh": [
+      "《独立宣言》于1776年7月4日在费城独立厅完成——所以7月4日至今仍是美国的生日!",
+      "自由钟侧面有一道近60厘米长的裂缝,人们特意没有把它修好,一直保留至今。",
+      "十一年后,《美国宪法》也是在同一座建筑——独立厅里写成的,一个国家的诞生和规则竟诞生于同一屋檐下。",
+      "本杰明·富兰克林在费城发明了避雷针和双光眼镜,还创办了美国第一座公共图书馆。",
+      "相传一位名叫贝琪·罗斯的裁缝在费城缝制了美国第一面星条旗。",
+      "费城艺术博物馆前的长石阶因电影《洛奇》主角奔跑而上的镜头而闻名,如今游客仍会举起双臂模仿他一路跑上去。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "종에 커다란 금이 갔는데, 사람들은 왜 고치지 않고 그대로 두었을까?",
+    "en": "The bell got a huge crack in it—so why didn't people just fix it?",
+    "ja": "鐘に大きなひびが入ったのに、どうして人々は直さずそのままにしたのかな？",
+    "zh": "钟都裂了这么大一道缝,人们为什么不把它修好呢?"
+  },
+  "places": [
+    {
+      "name": { "ko": "독립기념관", "en": "Independence Hall", "ja": "独立記念館", "zh": "独立厅" },
+      "blurb": {
+        "ko": "1776년, 대표들이 모여 독립 선언문에 서명한 바로 그 벽돌 건물이에요. 11년 뒤엔 이곳에서 미국 헌법도 만들어졌죠. 지금도 그 시절 회의실 모습이 고스란히 남아 있답니다.",
+        "en": "The very brick building where delegates signed the Declaration of Independence in 1776. Eleven years later, the U.S. Constitution was written here too. The old meeting room still looks just as it did back then.",
+        "ja": "1776年、代表者たちが独立宣言に署名したまさにそのれんが造りの建物。11年後にはここでアメリカ憲法もつくられました。当時の会議室がそのまま残っています。",
+        "zh": "1776年代表们签署《独立宣言》的那座砖楼。十一年后,《美国宪法》也在这里写成。当年的会议室至今保持着原貌。"
+      },
+      "coords": [39.9496, -75.1503]
+    },
+    {
+      "name": { "ko": "자유의 종", "en": "Liberty Bell", "ja": "自由の鐘", "zh": "自由钟" },
+      "blurb": {
+        "ko": "독립기념관 바로 앞, 유리 건물 안에 놓인 커다란 종이에요. 옆구리에 길게 난 금이 특징이죠. 이 종을 직접 눈으로 보고 나면 왜 미국인들이 이 종을 자유의 상징으로 아끼는지 이해가 될 거예요.",
+        "en": "A giant bell displayed inside a glass-walled building right across from Independence Hall. Its long crack is its trademark. Seeing it up close, you'll understand why Americans cherish it as a symbol of freedom.",
+        "ja": "独立記念館のすぐ向かいのガラス張りの建物にある巨大な鐘。長く走るひびが特徴です。実際に見ると、なぜアメリカ人がこの鐘を自由の象徴として大切にしているのかわかるはず。",
+        "zh": "就在独立厅正对面的玻璃展馆里,陈列着这口巨钟,标志性的长裂缝格外醒目。亲眼见到它,你就会明白美国人为何把它视为自由的象征而倍加珍惜。"
+      },
+      "coords": [39.9498, -75.1500]
+    },
+    {
+      "name": { "ko": "벳시 로스 하우스", "en": "Betsy Ross House", "ja": "ベッツィ・ロスの家", "zh": "贝琪·罗斯故居" },
+      "blurb": {
+        "ko": "최초의 성조기를 만들었다고 전해지는 재봉사 벳시 로스가 살던 작은 집이에요. 좁은 계단과 오래된 방을 둘러보며, 국기가 처음 만들어지던 순간을 상상해볼 수 있답니다.",
+        "en": "The small house where Betsy Ross, said to have sewn the first American flag, once lived. Wander its narrow stairs and old rooms and imagine the moment that very first flag came to life.",
+        "ja": "最初の星条旗を縫ったと伝えられる仕立て屋、ベッツィ・ロスが暮らした小さな家。せまい階段や古い部屋を見て回りながら、国旗が生まれた瞬間を想像できます。",
+        "zh": "相传缝制了第一面星条旗的裁缝贝琪·罗斯曾居住的小屋。走过狭窄的楼梯和老旧的房间,你可以想象国旗诞生那一刻的情景。"
+      },
+      "coords": [39.9587, -75.1444]
+    },
+    {
+      "name": { "ko": "필라델피아 미술관 (록키 계단)", "en": "Philadelphia Museum of Art (the Rocky Steps)", "ja": "フィラデルフィア美術館（ロッキーの階段）", "zh": "费城艺术博物馆（洛奇阶梯）" },
+      "blurb": {
+        "ko": "미술관으로 올라가는 넓은 돌계단은 영화 '록키'에서 주인공이 힘차게 뛰어오르던 곳으로 유명해요. 계단 꼭대기에서 두 팔을 번쩍 들면, 왜 이곳이 필라델피아의 자랑거리인지 알게 될 거예요.",
+        "en": "The wide stone steps leading up to the museum became world-famous when Rocky sprinted up them in the movie. Reach the top and throw your arms up—then you'll understand why Philadelphians are so proud of these steps.",
+        "ja": "美術館へと続く広い石段は、映画『ロッキー』で主人公が力強く駆け上がったことで有名になりました。頂上で両手を上げれば、フィラデルフィアの人々がこの階段を誇りに思う理由がわかるはず。",
+        "zh": "通往博物馆的宽阔石阶,因电影《洛奇》主角奋力奔跑而上的镜头闻名于世。爬到阶梯顶端举起双臂,你就会明白费城人为何对这段阶梯如此自豪。"
+      },
+      "coords": [39.9656, -75.1810]
+    }
+  ]
+}

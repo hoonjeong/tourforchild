@@ -1,0 +1,120 @@
+{
+  "id": "edinburgh",
+  "country": "gb",
+  "coords": [55.9533, -3.1883],
+  "name": { "ko": "에든버러", "en": "Edinburgh", "ja": "エディンバラ", "zh": "爱丁堡" },
+  "tagline": {
+    "ko": "잠든 화산 두 개 위에 세워진 동화 같은 도시",
+    "en": "The fairytale city built on top of two sleeping volcanoes",
+    "ja": "眠る火山二つの上に築かれたおとぎ話のような街",
+    "zh": "建在两座沉睡火山之上的童话之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 에든버러 자리에는 활활 타오르는 화산이 있었어요. 수백만 년이 흐르며 비바람과 얼음이 산을 깎아 냈지만, 단단한 화산의 심장 부분만은 뾰족한 바위산으로 남았답니다. 약 천 년 전, 사람들은 이 가파른 바위산을 보고 생각했어요. '적이 절대 못 오를 완벽한 성터잖아!' 그렇게 에든버러 성은 다 식어버린 화산 꼭대기에 세워졌어요.",
+      "성 아래로 도시가 자라나면서, 사람들은 '클로즈'라는 좁은 골목길에 다닥다닥 붙어 살았어요. 집을 10층 높이까지 쌓아 올렸는데, 그때로 치면 요즘의 고층 빌딩이나 마찬가지였죠. 도시가 더 넓어져야 했을 때, 사람들은 옛 거리 위에 새 거리를 통째로 지어버렸고, 그 아래 작은 가게와 집들이 옹기종기 모인 동네 하나가 통째로 땅속에 묻혀버렸어요. 지금도 그 숨겨진 지하 거리를 걸을 수 있는데, 수백 년 전 모습 그대로 얼어붙어 있답니다.",
+      "성에서 멀지 않은 곳에는 '보비'라는 작은 개가 살았어요. 주인이 세상을 떠나자, 보비는 그레이프라이어스 교회 묘지에 있는 주인의 무덤 곁을 떠나지 않았어요. 비가 오나 눈이 오나, 무려 14년 동안이나 그 자리를 지켰답니다. 도시 사람들은 이 의리 있는 강아지에게 푹 빠졌고, 지금도 보비의 동상이 그 자리를 지키고 있어요.",
+      "'아서스 시트'라는 언덕에 올라가 보세요. 이곳 역시 옛날 화산이랍니다! 꼭대기에 서면 바위 위의 성, 구불구불한 로열 마일, 그리고 바다까지 이어진 지붕들이 마치 동화책 지도처럼 한눈에 펼쳐져요. 해마다 8월이 되면 에든버러는 세계에서 가장 큰 예술 축제의 무대가 되어, 저글러와 음악가, 이야기꾼들이 거리마다 가득 찬답니다. 에든버러가 '전설로 만들어진 도시'라 불리는 이유를 알겠죠?"
+    ],
+    "en": [
+      "Long, long ago, a fiery volcano stood right where Edinburgh now sits. Millions of years passed, and wind, rain and ice wore the mountain down—but its hard volcanic core stayed standing tall as a steep, rocky crag. About a thousand years ago, people looked at that crag and thought: what a perfect spot for a castle no enemy could ever climb! So Edinburgh Castle was built right on top of a volcano that had long gone quiet.",
+      "As the city grew up below the castle, people packed into narrow stone alleys called 'closes,' stacking houses up to ten storeys high—skyscrapers of their day! When the city needed more room, workers simply built new streets right over the old ones, sealing a whole little neighborhood of tiny shops and homes into the ground beneath. You can still walk down those hidden underground streets today, frozen exactly as they were hundreds of years ago.",
+      "Not far from the castle lived a little dog named Bobby. When his owner died, Bobby refused to leave—he sat by the grave in Greyfriars churchyard every single day, through rain, wind and snow, for fourteen long years. The whole city fell in love with the loyal little dog, and his statue still stands watch nearby today.",
+      "Climb the hill called Arthur's Seat—yes, another old volcano!—and the whole city spreads out below like a fairytale map: the castle on its rock, the winding Royal Mile, and rooftops stretching all the way to the sea. Once a year every August, Edinburgh turns into a giant stage for the world's biggest arts festival, with jugglers, musicians and storytellers filling every street corner. No wonder people call Edinburgh a city built on legends."
+    ],
+    "ja": [
+      "はるか昔、今のエディンバラがある場所には燃えさかる火山がありました。何百万年もの間、風や雨、氷がその山を少しずつけずっていきましたが、かたい火山の芯だけはとがった岩山として残ったのです。今から千年ほど前、人々はこの切り立った岩を見てひらめきました。『敵が絶対によじ登れない、完ぺきなお城の場所だ！』こうしてエディンバラ城は、冷え切った火山の上に建てられました。",
+      "お城の下に街が広がっていくと、人々は『クロース』と呼ばれる細い路地にぎゅうぎゅうに暮らし、建物を10階建てほどの高さまで積み上げました。当時としては、まさに超高層ビルのようなものです。街をもっと広げる必要が出てきたとき、人々は古い通りの上に新しい通りをまるごと建ててしまい、その下に小さな店や家がぎっしり並ぶ一角がまるまる地面の中に埋まってしまいました。今でもその隠れた地下の通りを歩くことができ、何百年も前の姿のまま凍りついています。",
+      "お城からそう遠くない場所に、『ボビー』という名の小さな犬が暮らしていました。飼い主が亡くなると、ボビーはグレイフライアーズ教会の墓地にある飼い主のお墓のそばを離れようとしませんでした。雨の日も雪の日も、なんと14年もの間、その場所を守り続けたのです。街の人々はこの義理堅い犬にすっかり夢中になり、今でもボビーの銅像がそこに立っています。",
+      "『アーサーズ・シート』という丘に登ってみましょう。ここもまた昔の火山なのです！頂上に立つと、岩の上のお城、くねくねと続くロイヤル・マイル、そして海まで続く屋根々が、まるでおとぎ話の地図のように一望できます。毎年8月になると、エディンバラは世界最大の芸術祭の舞台に変わり、大道芸人や音楽家、語り部たちが街のあちこちを埋めつくします。エディンバラが『伝説でできた街』と呼ばれる理由、わかりましたか？"
+    ],
+    "zh": [
+      "很久很久以前，现在爱丁堡所在的地方曾有一座熊熊燃烧的火山。几百万年过去，风雨和冰雪把大山一点点磨平，只有火山坚硬的核心留了下来，变成一座陡峭的岩山。大约一千年前，人们看到这块陡峭的岩石，心想：这可是敌人绝对爬不上来的绝佳城堡地址！于是，爱丁堡城堡就这样建在了一座早已熄灭的火山顶上。",
+      "随着城堡下方的城市不断扩大，人们挤在叫作'克罗斯'的狭窄小巷里，把房子盖到十层楼高——在当时，那可是不折不扣的'摩天大楼'。后来城市需要更多空间，人们干脆在旧街道上方整个建起了新街道，把下面挤满小店铺和房屋的一整片街区都埋进了地下。如今你依然可以走进那条藏起来的地下街道，几百年前的样子就这样被原样冻结了下来。",
+      "离城堡不远的地方，住着一只叫'博比'的小狗。主人去世后，博比说什么也不肯离开，天天守在格雷弗莱尔教堂墓地里主人的坟墓旁边。不管刮风下雨还是下雪，它整整守了十四年。全城的人都被这只忠心耿耿的小狗打动了，如今它的雕像依然立在那里守望着。",
+      "去爬一爬叫'亚瑟王座'的小山吧——没错，这也是一座古老的火山！站在山顶，整座城市就像童话地图一样在眼前展开：岩石上的城堡、蜿蜒的皇家一英里大道，还有一直延伸到海边的屋顶。每年八月，爱丁堡都会变成世界上最大艺术节的舞台，杂耍艺人、音乐家和讲故事的人挤满每一个街角。难怪人们说，爱丁堡是一座由传说建成的城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "에든버러 성은 '캐슬 록'이라는 화산 바위 위에 서 있어요. 이 바위는 약 3억5천만 년 전 화산이 만든 거예요. 성보다 바위가 훨씬훨씬 오래됐죠!",
+      "도시 옆에 보이는 커다란 초록 언덕 '아서스 시트'도 사실 다 식어버린 화산이에요. 한 시간이면 꼭대기까지 걸어 올라갈 수 있어요.",
+      "로열 마일 밑에는 '메리 킹스 클로스'라는 숨겨진 지하 거리가 있어요. 250년도 더 전에 그 위에 새 거리를 지으면서 통째로 땅속에 묻혔답니다.",
+      "충직한 개 보비는 그레이프라이어스 교회 묘지에서 주인의 무덤을 14년이나 지켰어요. 지금도 사람들은 행운을 빌며 보비 동상의 코를 만진답니다.",
+      "일요일만 빼고 매일 낮 1시가 되면 성에서 대포 소리가 '쾅!' 울려요. 옛날에는 항구의 배들이 시계를 맞추라고 쏘던 대포였대요.",
+      "해마다 8월이면 에든버러에서 '프린지'라는 지구에서 가장 큰 예술 축제가 열려요. 온 도시가 거리 공연가, 코미디언, 공연으로 가득 찬답니다."
+    ],
+    "en": [
+      "Edinburgh Castle stands on 'Castle Rock,' the plug of a volcano that erupted about 350 million years ago—the rock is way, way older than the castle!",
+      "The big green hill beside the city, Arthur's Seat, is actually another long-dead volcano. You can hike right up to the top in about an hour.",
+      "Hidden beneath the Royal Mile is a whole underground street called Mary King's Close, sealed up when the city built new streets right over it more than 250 years ago.",
+      "A loyal little dog named Bobby guarded his owner's grave in Greyfriars Kirkyard for fourteen years. Visitors still rub his statue's nose for good luck today.",
+      "Every day except Sunday, a cannon called the One O'Clock Gun booms from the castle at exactly 1pm—it once helped ships in the harbor set their clocks.",
+      "Every August, Edinburgh hosts the Fringe, the largest arts festival on Earth, when the whole city fills with street performers, comedians and shows."
+    ],
+    "ja": [
+      "エディンバラ城は『キャッスル・ロック』という火山の岩の上に建っています。この岩は約3億5000万年前の火山がつくったもの。お城よりもずっとずっと古いんです！",
+      "街のそばに見える大きな緑の丘『アーサーズ・シート』も、実はすっかり冷えた火山です。1時間ほどで頂上まで歩いて登れます。",
+      "ロイヤル・マイルの地下には、『メアリー・キングス・クロース』というかくれた地下の通りがあります。250年以上前、その上に新しい通りを建てたことで、まるごと地中に埋まってしまいました。",
+      "義理堅い犬ボビーは、グレイフライアーズ教会の墓地で飼い主のお墓を14年も守り続けました。今でも人々は幸運を願ってボビーの銅像の鼻をなでます。",
+      "日曜日をのぞく毎日、お昼の1時になるとお城から大砲の『ドン！』という音が鳴りひびきます。昔は港の船が時計を合わせるために撃っていた大砲なんです。",
+      "毎年8月、エディンバラでは『フリンジ』という地球で一番大きな芸術祭が開かれます。街じゅうが大道芸人やコメディアン、公演でいっぱいになります。"
+    ],
+    "zh": [
+      "爱丁堡城堡矗立在一块叫'城堡岩'的火山岩上。这块岩石大约由三亿五千万年前的火山形成——比城堡本身古老得多得多！",
+      "城市旁边那座大大的绿色山丘'亚瑟王座'，其实也是一座早已熄灭的火山。大约一小时就能徒步登顶。",
+      "皇家一英里大道的地下藏着一条秘密街道，叫'玛丽金氏关'。250多年前，人们在它上方建起新街道，把它整个埋进了地底。",
+      "忠犬博比在格雷弗莱尔教堂墓地守着主人的坟墓，一守就是十四年。如今人们还会为了讨个好运气，去摸一摸博比雕像的鼻子。",
+      "除了星期天，每天中午一点，城堡都会'砰'地鸣响一声礼炮。过去，这是为了让港口里的船只对准时间用的。",
+      "每年八月，爱丁堡都会举办'边缘艺术节'——地球上规模最大的艺术节。整座城市到处都是街头艺人、喜剧演员和各种演出。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "수백 년 동안 땅속에 숨겨져 있던 거리가 있대. 그 안에 들어가면 뭘 발견하게 될까?",
+    "en": "There's a whole street that was hidden underground for hundreds of years—what do you think explorers found down there?",
+    "ja": "何百年も地面の下にかくれていた通りがあるんだって。中に入ったら、いったい何が見つかるかな？",
+    "zh": "有一条街道被埋在地下藏了好几百年，你猜猜，走进去会发现什么呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "에든버러 성", "en": "Edinburgh Castle", "ja": "エディンバラ城", "zh": "爱丁堡城堡" },
+      "blurb": {
+        "ko": "다 식은 화산 바위 위에 우뚝 선 성이에요. 수백 년 동안 왕과 여왕이 이곳에 살았고, 지금도 매일 낮 1시면 대포를 쏜답니다.",
+        "en": "A castle standing tall on a long-dead volcanic rock. Kings and queens lived here for centuries, and it still fires a cannon every day at 1pm.",
+        "ja": "冷え切った火山の岩の上にそびえるお城です。何百年もの間、王様や女王様がここに暮らし、今でも毎日お昼の1時に大砲を撃っています。",
+        "zh": "矗立在一座熄灭火山岩石上的城堡。几百年来，国王和王后都曾住在这里，如今每天中午一点它依然会鸣炮报时。"
+      },
+      "coords": [55.9486, -3.1999]
+    },
+    {
+      "name": { "ko": "아서스 시트", "en": "Arthur's Seat", "ja": "アーサーズ・シート", "zh": "亚瑟王座" },
+      "blurb": {
+        "ko": "도시 한가운데 우뚝 솟은 또 다른 옛 화산이에요. 꼭대기까지 걸어 올라가면 에든버러 전체가 한눈에 펼쳐진답니다.",
+        "en": "Another ancient volcano rising right in the middle of the city. Hike to the top and the whole of Edinburgh spreads out below you.",
+        "ja": "街の真ん中にそびえる、もう一つの昔の火山です。頂上まで歩いて登れば、エディンバラの街全体が一望できます。",
+        "zh": "耸立在城市中央的另一座古老火山。徒步登顶后，整个爱丁堡城会尽收眼底。"
+      },
+      "coords": [55.9441, -3.1618]
+    },
+    {
+      "name": { "ko": "메리 킹스 클로스", "en": "Mary King's Close", "ja": "メアリー・キングス・クロース", "zh": "玛丽金氏关" },
+      "blurb": {
+        "ko": "새 거리 아래 묻혀버린 옛날 지하 골목길이에요. 좁은 계단을 따라 내려가면 수백 년 전 사람들이 살던 모습 그대로를 만날 수 있어요.",
+        "en": "An old alleyway buried beneath a newer street. Head down the narrow stairs and you'll find life just as it was hundreds of years ago.",
+        "ja": "新しい通りの下にうずもれた、昔の地下の路地です。せまい階段を下りていくと、何百年も前の人々の暮らしがそのまま残っています。",
+        "zh": "被埋在新街道之下的古老地下小巷。沿着狭窄的台阶走下去，就能看到几百年前人们生活的原貌。"
+      },
+      "coords": [55.9500, -3.1902]
+    },
+    {
+      "name": { "ko": "그레이프라이어스 교회 묘지", "en": "Greyfriars Kirkyard", "ja": "グレイフライアーズ教会墓地", "zh": "格雷弗莱尔教堂墓地" },
+      "blurb": {
+        "ko": "충직한 개 보비가 14년 동안 주인의 무덤을 지킨 곳이에요. 입구 근처엔 보비를 기리는 작은 동상도 서 있답니다.",
+        "en": "The graveyard where the loyal dog Bobby watched over his owner's grave for fourteen years. A small statue honoring Bobby stands near the entrance.",
+        "ja": "義理堅い犬ボビーが14年間、飼い主のお墓を守り続けた場所です。入り口近くには、ボビーをたたえる小さな銅像も立っています。",
+        "zh": "忠犬博比在这里守护主人坟墓长达十四年的地方。入口附近还立着一座纪念博比的小雕像。"
+      },
+      "coords": [55.9469, -3.1928]
+    }
+  ]
+}

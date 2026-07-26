@@ -1,0 +1,120 @@
+{
+  "id": "jeju",
+  "country": "kr",
+  "coords": [33.4996, 126.5312],
+  "name": { "ko": "제주", "en": "Jeju", "ja": "済州（チェジュ）", "zh": "济州" },
+  "tagline": {
+    "ko": "화산이 빚어낸 섬, 숨 참고 잠수하는 바다 할머니들의 고향",
+    "en": "The volcano-built island where sea-diving grandmas hold their breath and dive for treasure",
+    "ja": "火山が作った島、息を止めて海にもぐるおばあちゃんたちのふるさと",
+    "zh": "火山塑造的岛屿，屏息潜海的海女奶奶们的家乡"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 제주도가 있던 자리엔 그냥 넓은 바다뿐이었어요. 그런데 땅속 깊은 곳에서 부글부글 끓던 마그마가 바닷속을 뚫고 솟아올라 불을 뿜기 시작했죠. 수백만 년 동안 화산이 여러 번 터지고 또 터지면서, 마침내 바다 위로 커다란 섬 하나가 만들어졌어요. 그 섬 한가운데엔 한라산이라는 크고 둥근 화산이 우뚝 솟아 있답니다.",
+      "화산이 폭발할 때마다 작은 언덕들도 여기저기 툭툭 솟아났어요. 제주 사람들은 이 작은 화산 언덕을 '오름'이라고 부르는데, 섬 곳곳에 무려 360개가 넘게 흩어져 있어요! 뜨거운 용암이 흘러 바다까지 다다르면서 새까만 돌밭을 만들고, 땅속에는 기다란 동굴도 남겼어요. 그 동굴 중 하나인 만장굴은 사람이 걸어 다닐 수 있을 만큼 커다란, 용암이 만든 지하 터널이랍니다.",
+      "화산섬 제주에는 특별한 사람들도 살고 있어요. 바로 '해녀'라는 바다 할머니들인데, 산소통 없이 숨 한 번 참고 깊은 바닷속까지 잠수해서 전복과 미역을 따 온답니다. 몇 분씩이나 숨을 참을 수 있다니, 정말 놀랍죠? 오랫동안 딸에서 딸로 전해진 이 특별한 기술은 유네스코가 인정한 소중한 문화유산이 되었어요.",
+      "지금 제주에 가면 한라산 꼭대기 백록담이라는 파란 호수까지 올라갈 수 있고, 성산일출봉에서 붉은 해가 바다 위로 떠오르는 모습도 볼 수 있어요. 컴컴한 용암 동굴 속을 걸어보고, 까만 돌담과 돌하르방이라는 돌 할아버지 석상도 만날 수 있죠. 불과 바다가 함께 빚어낸 이 섬은, 걸을수록 신기한 이야기가 계속되는 살아있는 화산 박물관이랍니다."
+    ],
+    "en": [
+      "Long, long ago, the spot where Jeju Island now sits was just open ocean. Deep underground, bubbling hot magma pushed up through the sea floor and burst into fire. Volcanoes erupted again and again for millions of years, until finally a great island rose above the waves. Right in its middle stands a big, round volcano called Hallasan.",
+      "Every time the volcano erupted, small hills popped up all around it too. Jeju people call these little volcanic bumps \"oreum,\" and more than 360 of them are scattered across the island! Hot lava that flowed all the way to the sea left behind fields of black rock — and long tunnels underground. One of those tunnels, Manjanggul, is a giant lava cave so big you can walk right through it.",
+      "Jeju is also home to some very special people: the \"haenyeo,\" or sea women, who hold their breath and dive deep into the ocean without any oxygen tanks to gather abalone and seaweed. Some of them can hold their breath for minutes at a time — can you believe that? Passed down from mother to daughter for generations, this amazing skill is now protected as a treasured UNESCO tradition.",
+      "Visit Jeju today, and you can hike all the way up Hallasan to Baengnokdam, a blue crater lake at the top, or watch the sun rise red over the sea at Seongsan Ilchulbong. You can walk through a pitch-dark lava cave, and meet stone grandfather statues called \"dol hareubang\" standing along black rock walls. Shaped by fire and sea together, this island keeps surprising you with a new story at every step — a living volcano museum."
+    ],
+    "ja": [
+      "はるか昔、今の済州島があるところは、ただの広い海でした。地面のずっと下でぐつぐつ煮えたぎるマグマが海底を突き破り、火をふき出し始めたのです。何百万年もの間、火山が何度も何度も噴火をくり返し、とうとう海の上に大きな島ができあがりました。その真ん中には、漢拏山（ハルラサン）という大きく丸い火山がそびえています。",
+      "火山が噴火するたびに、まわりには小さな丘もぽこぽこできました。済州の人たちはこの小さな火山の丘を『オルム』と呼び、島じゅうに360個以上も点在しています！熱い溶岩が海まで流れつくと、真っ黒な岩の原ができ、地面の中には長いトンネルも残りました。そのひとつ、萬丈窟（マンジャングル）は、人が歩いて入れるほど大きな溶岩洞窟です。",
+      "済州島には、とても特別な人たちも暮らしています。それが『海女（ヘニョ）』と呼ばれる海のおばあちゃんたちで、酸素ボンベなしで息を止め、深い海までもぐってアワビやワカメを採ってきます。数分も息を止められるなんて、すごいですよね？母から娘へと代々受け継がれてきたこの技は、今ではユネスコに認められた大切な文化になりました。",
+      "今、済州島に行くと、漢拏山の頂上にある白鹿潭（ペンノクタム）という青い湖まで登ることができ、城山日出峰（ソンサンイルチュルボン）では海から昇る赤い朝日を見ることもできます。真っ暗な溶岩洞窟を歩いたり、黒い石垣に立つ石のおじいさん像『トルハルバン』に出会ったりもできます。火と海がいっしょに作り上げたこの島は、歩けば歩くほど不思議な物語が続く、生きた火山博物館なのです。"
+    ],
+    "zh": [
+      "很久很久以前，现在济州岛所在的地方，只是一片辽阔的大海。地底深处翻滚沸腾的岩浆冲破海底，喷涌而出、燃起烈焰。经过几百万年一次又一次的火山喷发，海面上终于隆起了一座大岛。岛屿正中央，矗立着一座又大又圆的火山，叫做汉拿山。",
+      "每次火山喷发，周围也会冒出许多小山丘。济州人把这些小小的火山丘叫做“岳（오름，Oreum）”，全岛竟然散布着360多座！滚烫的熔岩一路流到海边，凝固成一片片黑色的石原，地下还留下了长长的隧道。其中一条叫万丈窟的隧道，是一个大到可以让人走进去的熔岩洞穴。",
+      "济州岛上还住着一群非常特别的人——“海女”。她们不带氧气瓶，只靠屏住一口气，就能潜入深深的海底采鲍鱼、捞海带。有人甚至能憋气好几分钟，是不是很惊人？这项代代相传、由母亲传给女儿的绝活，如今已被联合国教科文组织列为珍贵的文化遗产。",
+      "如今来到济州岛，你可以一路爬上汉拿山顶，看到一片湛蓝的火山口湖“白鹿潭”，也可以在城山日出峰看红彤彤的太阳从海面升起。你还能走进漆黑的熔岩洞窟，遇见黑色石墙旁那些名叫“石头爷爷（多尔哈鲁邦）”的石像。这座由烈火与大海共同雕琢而成的岛屿，每走一步都有新奇的故事，是一座活生生的火山博物馆。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "제주도는 섬 전체가 사실 하나의 커다란 화산이에요! 옛날 옛적 화산 폭발이 만든 섬이랍니다.",
+      "한라산은 한국에서 가장 높은 산(1,947m)인데, 꼭대기에는 '백록담'이라는 파란 화산 호수가 있어요.",
+      "제주에는 '오름'이라는 작은 화산 언덕이 360개가 넘게 있어요. 일 년 날수보다도 많답니다!",
+      "만장굴은 세계에서 가장 긴 용암동굴 중 하나예요. 사람이 서서 걸어 다닐 수 있을 만큼 커다랗답니다.",
+      "해녀 할머니들은 산소통 없이 숨만 참고 바닷속에 잠수해요. 이 기술은 유네스코 인류무형문화유산으로 등재됐어요.",
+      "제주에는 돌·바람·여자가 많다는 '삼다도', 도둑·거지·대문이 없다는 '삼무'라는 옛말이 있어요. 그래서 마을 입구엔 돌하르방이 지금도 서 있답니다."
+    ],
+    "en": [
+      "Jeju Island is basically one giant volcano — the whole island was born from ancient eruptions!",
+      "Hallasan is South Korea's tallest mountain (1,947 m), and at its very top sits a blue crater lake called Baengnokdam.",
+      "Jeju has more than 360 small volcanic hills called \"oreum\" — that's more than the number of days in a year!",
+      "Manjanggul is one of the longest lava tube caves in the world, big enough for people to walk through standing up.",
+      "Haenyeo sea women dive deep into the ocean holding just one breath, no oxygen tank needed — a skill now listed as a UNESCO Intangible Cultural Heritage.",
+      "Old Jeju sayings call it the island of \"three abundances\" — wind, rock, and women — and \"three absences\" — no thieves, no beggars, no need for gates. Stone grandfather statues called dol hareubang still stand guard at village entrances today."
+    ],
+    "ja": [
+      "済州島は、じつは島まるごとが一つの大きな火山なんです！大昔の噴火が生んだ島なのです。",
+      "漢拏山は韓国でいちばん高い山（標高1,947m）で、頂上には『白鹿潭』という青い火口湖があります。",
+      "済州島には『オルム』と呼ばれる小さな火山の丘が360個以上あります。一年の日数よりも多いんですよ！",
+      "萬丈窟は世界でも屈指の長さをほこる溶岩洞窟で、人が立ったまま歩けるほど大きいんです。",
+      "海女のおばあちゃんたちは酸素ボンベなしで、息を一回止めるだけで深い海にもぐります。この技はユネスコの無形文化遺産にも登録されました。",
+      "済州には『石・風・女が多い三多島』、『泥棒・こじき・門がない三無』という昔からの言い伝えがあります。だから村の入り口には今も石のおじいさん像『トルハルバン』が立っているのです。"
+    ],
+    "zh": [
+      "济州岛其实整座岛都是一座巨大的火山！它是古代火山喷发孕育出来的岛屿。",
+      "汉拿山是韩国最高的山（海拔1947米），山顶还有一个碧蓝的火山口湖，叫“白鹿潭”。",
+      "济州岛上有360多座名叫“岳（오름）”的小火山丘，比一年的天数还要多！",
+      "万丈窟是世界上数一数二长的熔岩洞窟，宽敞到可以让人站着走进去。",
+      "海女们不带氧气瓶，仅凭屏住一口气就能潜入深海，这项绝技如今已被列入联合国教科文组织非物质文化遗产。",
+      "济州岛自古就有“三多”（石头多、风多、女人多）和“三无”（没有小偷、没有乞丐、不用大门）的说法。至今，村口仍立着名叫“多尔哈鲁邦”的石头爷爷雕像守护着村庄。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "산소통도 없이 숨 한 번 참고 깊은 바닷속까지 잠수하는 해녀 할머니들, 너라면 몇 초나 버틸 수 있을 것 같아?",
+    "en": "Sea-diving grandmas hold just one breath and dive deep underwater with no oxygen tank at all — how many seconds do you think YOU could hold your breath?",
+    "ja": "酸素ボンベなしで、息を一回止めただけで深い海にもぐる海女のおばあちゃんたち。きみなら何秒がまんできるかな？",
+    "zh": "海女奶奶们不带氧气瓶，只靠屏住一口气就能潜入深海——你猜你自己能憋气坚持几秒呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "한라산", "en": "Hallasan (Mt. Halla)", "ja": "漢拏山（ハルラサン）", "zh": "汉拿山" },
+      "blurb": {
+        "ko": "한국에서 제일 높은 산이자, 제주도를 만든 화산 그 자체예요. 꼭대기까지 오르면 '백록담'이라는 파란 화구호가 짠! 하고 나타난답니다. 옛이야기 속 신선들이 흰 사슴을 타고 물을 마셨다는 전설도 전해져요.",
+        "en": "South Korea's tallest mountain — and the very volcano that built Jeju Island. Climb all the way up, and a blue crater lake called Baengnokdam appears at the top! Legend says immortals once rode white deer here to drink from it.",
+        "ja": "韓国でいちばん高い山であり、済州島そのものを作った火山です。頂上まで登ると、青い火口湖『白鹿潭』が現れます！昔は仙人が白い鹿に乗って水を飲みに来た、という伝説も残っています。",
+        "zh": "这是韩国最高的山，也是造就济州岛的那座火山本尊。一路爬到山顶，湛蓝的火山口湖“白鹿潭”便会出现在眼前！传说古时神仙曾骑着白鹿来这里饮水。"
+      },
+      "coords": [33.3617, 126.5292]
+    },
+    {
+      "name": { "ko": "성산일출봉", "en": "Seongsan Ilchulbong (Sunrise Peak)", "ja": "城山日出峰（ソンサンイルチュルボン）", "zh": "城山日出峰" },
+      "blurb": {
+        "ko": "약 5000년 전 바닷속에서 화산이 폭발해 만들어진 거대한 성 모양 봉우리예요. 이른 아침 여기 올라 붉은 해가 바다 위로 떠오르는 모습을 보면, 저절로 '우와!' 소리가 나온답니다. 유네스코 세계자연유산으로도 뽑혔어요.",
+        "en": "A giant, castle-shaped peak born when a volcano erupted right out of the sea about 5,000 years ago. Climb up early and watch the red sun rise over the ocean — you'll gasp \"wow!\" without even trying. It's also a UNESCO World Natural Heritage site.",
+        "ja": "約5000年前、海の中で火山が噴火してできた、お城のような形の巨大な峰です。朝早く登って、海から昇る赤い太陽を見ると、思わず『わあ！』と声が出ちゃいます。ユネスコ世界自然遺産にも選ばれています。",
+        "zh": "大约五千年前，海底火山喷发，造出了这座形如城堡的巨大山峰。清晨爬上去看红日从海面升起，会忍不住惊呼“哇！”它也被列为联合国教科文组织世界自然遗产。"
+      },
+      "coords": [33.4587, 126.9425]
+    },
+    {
+      "name": { "ko": "만장굴", "en": "Manjanggul Cave", "ja": "万丈窟（マンジャングル）", "zh": "万丈窟" },
+      "blurb": {
+        "ko": "뜨거운 용암이 흘러가며 파놓은 기다란 지하 터널이에요. 세계에서 손꼽히게 긴 용암동굴 중 하나로, 안으로 들어가면 마치 화산 배 속을 걷는 듯한 신비한 기분이 든답니다. 동굴 속엔 용암이 굳어 만들어진 커다란 돌기둥도 서 있어요.",
+        "en": "A long underground tunnel carved out by rivers of flowing hot lava. It's one of the longest lava tube caves in the world, and walking inside feels like strolling through the belly of a volcano. Deep inside stands a giant stone pillar formed when lava hardened in place.",
+        "ja": "熱い溶岩が流れてできた、長い地下トンネルです。世界でも屈指の長さをほこる溶岩洞窟で、中を歩くとまるで火山のおなかの中を歩いているような不思議な気分になります。洞窟の奥には、溶岩が固まってできた大きな石柱も立っています。",
+        "zh": "这是滚烫的熔岩流过时冲刷出的一条长长地下隧道。它是世界数一数二长的熔岩洞窟，走进去仿佛置身火山的“肚子”里，神秘极了。洞穴深处还立着一根熔岩凝固而成的巨大石柱。"
+      },
+      "coords": [33.5287, 126.7708]
+    },
+    {
+      "name": { "ko": "해녀박물관 (제주 해녀 문화)", "en": "Jeju Haenyeo Museum (Sea Women's Culture)", "ja": "済州海女博物館（済州の海女文化）", "zh": "济州海女博物馆（济州海女文化）" },
+      "blurb": {
+        "ko": "산소통도 없이 바닷속 깊이 잠수해 전복과 소라를 따 오는 해녀 할머니들의 이야기를 만날 수 있는 곳이에요. 물질을 마치고 물 위로 올라올 때 내는 '호오이!' 하는 숨비소리도 들어볼 수 있답니다. 이 특별한 기술과 문화는 유네스코가 인정한 인류무형문화유산이에요.",
+        "en": "Here you can meet the story of Jeju's haenyeo — sea-diving grandmas who plunge deep underwater without oxygen tanks to gather abalone and conch. You might even hear their famous \"hoo-i!\" whistle-breath as they surface for air. This one-of-a-kind skill and culture is now a UNESCO Intangible Cultural Heritage.",
+        "ja": "酸素ボンベなしで深い海にもぐり、アワビやサザエをとってくる海女のおばあちゃんたちの物語に出会える場所です。海面に上がるときに出す『ホオイ！』という息の音（スムビソリ）も聞けるかもしれません。この特別な技と文化は、ユネスコの無形文化遺産にも認められています。",
+        "zh": "在这里可以了解济州海女的故事——不带氧气瓶、潜入深海采鲍鱼和海螺的奶奶们。你甚至可能听到她们浮出水面时发出的那声著名的“呼咿！”换气声。这项独特的技艺与文化，如今已被联合国教科文组织列为非物质文化遗产。"
+      },
+      "coords": [33.5511, 126.7605]
+    }
+  ]
+}

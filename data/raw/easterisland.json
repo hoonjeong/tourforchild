@@ -1,0 +1,120 @@
+{
+  "id": "easterisland",
+  "country": "cl",
+  "coords": [-27.1127, -109.3497],
+  "name": { "ko": "이스터섬", "en": "Easter Island", "ja": "イースター島", "zh": "复活节岛" },
+  "tagline": {
+    "ko": "거대한 돌 얼굴들이 지켜보는, 태평양에서 가장 외로운 섬",
+    "en": "The loneliest island in the Pacific, watched over by giant stone faces",
+    "ja": "巨大な石の顔たちが見守る、太平洋でいちばん孤独な島",
+    "zh": "被巨大石头脸孔守护着的、太平洋上最孤独的岛屿"
+  },
+  "story": {
+    "ko": [
+      "태평양 한가운데, 사방을 둘러봐도 파란 바다뿐인 곳에 아주 작은 섬 하나가 떠 있어요. 가장 가까운 사람 사는 땅까지도 배로 며칠은 가야 할 만큼 외딴 섬이랍니다. 아주 오래전, 폴리네시아 사람들은 별과 파도만 보고 방향을 찾아 카누를 타고 이 머나먼 섬을 발견했어요. 그들은 이 섬을 '라파누이'라고 불렀죠.",
+      "이 섬에는 세상 어디에도 없는 신기한 것이 있어요. 바로 커다란 돌 얼굴 조각상, '모아이'예요. 사람들은 화산 바위산에서 돌을 깎아 조상님의 얼굴을 닮은 거대한 조각상을 무려 900개 가까이 만들었답니다. 어떤 모아이는 3층 건물만큼 키가 커서, 지금도 다 완성되지 못한 채 채석장 산비탈에 누워 있어요.",
+      "그런데 정말 궁금한 게 있어요. 무거운 돌덩이를 어떻게 채석장에서 저 멀리 해안까지 옮겼을까요? 라파누이 사람들은 옛날부터 '모아이가 스스로 걸어갔다'고 이야기해왔는데, 놀랍게도 최근 과학자들이 밧줄로 좌우로 흔들며 걷게 하는 방법을 실제로 해보니 거대한 모아이가 정말 뒤뚱뒤뚱 걸어가더래요!",
+      "지금도 라파누이 사람들의 후손들이 이 섬에 살면서 조상의 이야기를 지켜가고 있어요. 오늘날 우리가 이 섬을 방문하면, 파도 소리를 배경으로 조용히 바다를 바라보는 거대한 돌 얼굴들을 만날 수 있답니다. 수백 년 전 사람들이 무엇을 믿고, 무엇을 남기고 싶어 했는지 상상하게 만드는, 세상에서 가장 신비로운 섬이에요."
+    ],
+    "en": [
+      "Right in the middle of the Pacific Ocean, with nothing but blue water in every direction, floats one tiny island. It's so far from anywhere that the nearest place people live is days away by boat. Long ago, Polynesian voyagers found this faraway island using only the stars and the waves to guide their canoes. They named it Rapa Nui.",
+      "This island has something you won't find anywhere else on Earth: giant stone faces called moai. Long ago, people carved almost 900 of these huge statues out of volcanic rock, each one shaped to honor an ancestor. Some moai are as tall as a three-story building, and a few giant unfinished ones still lie on the hillside of the quarry where they were carved, never moved.",
+      "Here's the big mystery: how did people move such heavy stones all the way from the quarry to the coast? For generations, the Rapa Nui people have told a story that the moai 'walked' there on their own. Amazingly, scientists recently tried it themselves—tying ropes around a giant moai and rocking it side to side—and it really did waddle forward, step by step, just like the legend says!",
+      "Today, descendants of the Rapa Nui people still live on the island, keeping their ancestors' stories alive. When you visit, you can stand before these giant stone faces gazing quietly out to sea, waves crashing below them. It makes you wonder what those long-ago people believed in and wanted the world to remember—one of the most mysterious islands on Earth."
+    ],
+    "ja": [
+      "太平洋のまんなか、見わたすかぎり青い海しかない場所に、とても小さな島が浮かんでいます。いちばん近い人の住む土地まで船で何日もかかるほど、遠くはなれた島です。ずっと昔、ポリネシアの人々は星と波だけをたよりにカヌーをこぎ、この遠い島を見つけました。彼らはこの島を『ラパ・ヌイ』と呼びました。",
+      "この島には、世界のどこにもない不思議なものがあります。それが巨大な石の顔『モアイ』です。人々は火山の岩山から石を切り出し、ご先祖さまの顔に似せた巨大な像を、なんと900体近くも作りました。中には3階建てのビルほど大きなモアイもあり、いまだに完成しないまま、切り出された山の斜面にごろんと横たわっているものもあるのです。",
+      "でも、本当に不思議なことがあります。あんなに重い石を、切り出した山から遠くの海岸までどうやって運んだのでしょう？ラパ・ヌイの人々は昔から『モアイは自分で歩いていった』と語りついできました。すると最近、科学者たちがロープで巨大なモアイを左右にゆらしてみたところ、なんと本当にヨタヨタと前へ歩いていったのです！",
+      "今もラパ・ヌイの人々の子孫がこの島で暮らし、先祖の物語を大切に受けついでいます。この島を訪れると、波の音を聞きながら、静かに海を見つめる巨大な石の顔たちに出会えます。何百年も前の人々が何を信じ、何を残したかったのか——想像がふくらむ、世界でいちばん不思議な島です。"
+    ],
+    "zh": [
+      "在太平洋的正中央，四面八方除了蓝色的大海什么都没有，漂浮着一座极小的岛屿。这里远得离谱，最近有人居住的地方也要坐船好几天才能到达。很久很久以前，波利尼西亚的航海者只靠星星和海浪指路，划着独木舟发现了这座遥远的岛屿，并把它称作“拉帕努伊”。",
+      "这座岛上有一样世界上任何地方都找不到的东西——巨大的石头脸孔，叫做“摩艾”。很久以前，人们从火山岩山上凿石雕刻，做出了将近900尊模仿祖先容貌的巨大石像。有些摩艾高得像三层楼房，甚至还有几尊未完工的巨型摩艾，至今仍躺在采石场的山坡上,从没被搬走过。",
+      "但真正让人好奇的是：这么沉重的石头，究竟是怎么从采石场运到遥远的海岸边的呢？拉帕努伊人世世代代都说“摩艾是自己走过去的”。令人惊讶的是，科学家最近真的做了实验——用绳子绑住一尊巨大的摩艾，左右摇晃着推动它——结果它竟然真的像走路一样，一步一步摇摇摆摆地往前挪动了！",
+      "如今，拉帕努伊人的后代依然生活在这座岛上，守护着祖先的故事。当你来到这里，就能看到这些巨大的石头脸孔静静地望着大海，脚下浪花拍打不停。它们让人不禁想象，几百年前的人们究竟相信着什么、又想留下些什么——这是世界上最神秘的岛屿之一。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "이 작은 섬에 무려 900개에 가까운 모아이 석상이 있어요!",
+      "가장 큰 모아이는 3층 건물만큼 큰 약 10미터예요. 채석장에 미완성인 채로 아직도 누워 있답니다.",
+      "많은 모아이는 어깨까지 땅에 묻혀 있어서 얼굴만 보이지만, 사실은 몸통이 전부 있고 등에는 무늬까지 새겨져 있어요.",
+      "몇몇 모아이는 머리 위에 빨간 돌 모자, '푸카오'를 쓰고 있는데, 이건 완전히 다른 화산에서 캐낸 붉은 돌로 만든 거예요.",
+      "과학자들이 밧줄로 모아이를 좌우로 흔들며 걷게 해봤더니, 정말로 뒤뚱뒤뚱 앞으로 걸어갔어요! 옛 전설이 사실이었던 거죠.",
+      "이 섬은 지구에서 가장 외딴 유인도 중 하나예요. 가장 가까운 사람 사는 섬까지도 2000킬로미터 넘게 떨어져 있답니다."
+    ],
+    "en": [
+      "This tiny island has nearly 900 moai statues on it!",
+      "The largest moai is about 10 meters tall—as big as a three-story building—and it still lies unfinished in the quarry today.",
+      "Many moai are buried up to their shoulders, so only the face shows, but they actually have full bodies underground, with carvings even on their backs.",
+      "Some moai wear a red stone 'hat' called a pukao, carved from an entirely different volcano's red rock.",
+      "Scientists tied ropes around a moai and rocked it side to side—and it really did waddle forward, step by step, proving the old legend true!",
+      "This is one of the most remote inhabited islands on Earth—the nearest inhabited island is over 2,000 kilometers away."
+    ],
+    "ja": [
+      "この小さな島には、なんと900体近くのモアイ像があります！",
+      "最大のモアイは高さ約10メートル、3階建てのビルほどの大きさで、いまも未完成のまま採石場に横たわっています。",
+      "多くのモアイは肩まで土にうまっていて顔しか見えませんが、実は下に体全体があり、背中にまで模様がほられているんです。",
+      "頭の上に赤い石の帽子『プカオ』をかぶったモアイもいます。これはまったく別の火山から切り出した赤い石で作られています。",
+      "科学者がロープでモアイを左右にゆらしてみたところ、本当にヨタヨタと前へ歩いていきました！昔からの伝説が本当だったのです。",
+      "この島は地球でいちばん孤立した有人島の一つ。いちばん近い人が住む島まで2000キロメートル以上もはなれています。"
+    ],
+    "zh": [
+      "这座小岛上竟然有将近900尊摩艾石像！",
+      "最大的摩艾高约10米，跟三层楼房差不多高，至今仍未完工地躺在采石场里。",
+      "许多摩艾被埋到肩膀，只露出脸，其实地下还有完整的身体，甚至连背部都刻着花纹。",
+      "有些摩艾头顶戴着红色石头“帽子”，叫做普卡奥，是用完全不同的另一座火山出产的红石雕成的。",
+      "科学家用绳子绑住摩艾左右摇晃，结果它真的一步一步摇摇摆摆地往前走了！古老的传说被证实是真的。",
+      "这里是地球上最偏远的有人居住岛屿之一——离它最近的有人岛屿也在2000多公里之外。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "얼굴만 보이는 저 거대한 돌 조각상, 땅속에는 정말 몸통도 있을까?",
+    "en": "Those giant stone faces peeking out of the ground—do they really have whole bodies buried underneath?",
+    "ja": "顔だけ見えているあの巨大な石の像、土の中には本当に体もあるのかな？",
+    "zh": "那些只露出脸的巨大石像，地下真的埋着完整的身体吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "라노 라라쿠 (모아이 채석장)", "en": "Rano Raraku (the Moai Quarry)", "ja": "ラノ・ララク（モアイの採石場）", "zh": "拉诺拉拉库（摩艾采石场）" },
+      "blurb": {
+        "ko": "거의 모든 모아이가 태어난 화산 채석장이에요. 완성되지 못한 거대한 모아이 수십 개가 지금도 산비탈에 반쯤 파묻힌 채 남아 있어, 마치 조각을 하다 만 것 같은 신비로운 풍경을 만들어요.",
+        "en": "The volcanic quarry where almost every moai was born. Dozens of unfinished giant moai still lie half-buried on the hillside, frozen mid-carving—like the sculptors just stepped away for a moment.",
+        "ja": "ほとんどすべてのモアイが生まれた火山の採石場。何十体もの未完成の巨大モアイが今も山の斜面に半分うまったまま残り、彫っている途中で止まったような不思議な景色を作っています。",
+        "zh": "几乎所有摩艾都诞生于此的火山采石场。几十尊未完工的巨大摩艾至今仍半埋在山坡上,仿佛雕刻工匠刚刚离开了一样,画面十分奇妙。"
+      },
+      "coords": [-27.1211, -109.2886]
+    },
+    {
+      "name": { "ko": "아후 통가리키", "en": "Ahu Tongariki", "ja": "アフ・トンガリキ", "zh": "汤加里基石台" },
+      "blurb": {
+        "ko": "섬에서 가장 큰 제단 위에 모아이 15개가 나란히 줄지어 서 있는 곳이에요. 등 뒤로는 파도치는 바다가, 그 뒤로는 채석장이 있는 산이 보여서, 이 모아이들이 어디서 태어나 어디로 왔는지 한눈에 알 수 있답니다.",
+        "en": "Fifteen moai stand shoulder to shoulder atop the island's largest stone platform. Behind them crash the ocean waves, and beyond that rises the quarry mountain—so you can see exactly where these giants were born and where they ended up.",
+        "ja": "島でいちばん大きな祭壇の上に、15体のモアイが並んで立つ場所。背後には波打つ海、その向こうにはモアイが生まれた山が見え、彼らがどこで生まれどこへ来たのか一目でわかります。",
+        "zh": "十五尊摩艾并肩矗立在全岛最大的石台上。身后是波涛翻滚的大海,再远处就是它们诞生的采石场大山,让人一眼就能看出这些巨人从哪里来、又走到了哪里。"
+      },
+      "coords": [-27.1259, -109.2767]
+    },
+    {
+      "name": { "ko": "오롱고 (버드맨 마을)", "en": "Orongo (the Birdman Village)", "ja": "オロンゴ（バードマンの村）", "zh": "奥龙戈（鸟人村）" },
+      "blurb": {
+        "ko": "깎아지른 절벽 위에 돌집들이 옹기종기 모여 있는 곳이에요. 옛날 이곳에서는 매년 봄, 젊은이들이 절벽을 내려가 헤엄쳐서 작은 섬에서 알을 가져오는 '버드맨' 시합을 벌였대요. 이긴 사람은 그해의 특별한 지도자가 되었답니다.",
+        "en": "A cluster of stone houses perched on a clifftop. Every spring, young men used to climb down the cliff and swim to a tiny island to fetch a bird's egg in the 'Birdman' contest—and the winner became a special leader for the year.",
+        "ja": "切り立った崖の上に石の家々が集まる場所。昔は毎年春、若者たちが崖を下り、小さな島まで泳いで卵を取ってくる『バードマン』競争が行われ、勝った人はその年の特別な指導者になりました。",
+        "zh": "一群石屋聚集在陡峭悬崖顶上的地方。从前每逢春天,年轻人都要爬下悬崖、游到一座小岛上取回鸟蛋,进行“鸟人”竞赛,获胜者就能成为当年的特别领袖。"
+      },
+      "coords": [-27.1547, -109.4342]
+    },
+    {
+      "name": { "ko": "아나케나 해변", "en": "Anakena Beach", "ja": "アナケナ・ビーチ", "zh": "阿纳克纳海滩" },
+      "blurb": {
+        "ko": "새하얀 산호 모래가 펼쳐진 해변이에요. 전설에 따르면 이 섬 최초의 왕 '호투 마투아'가 카누를 타고 처음 상륙한 곳이 바로 여기래요. 지금도 해변 바로 옆에 모아이들이 서서 바다를 바라보고 있어요.",
+        "en": "A beach of brilliant white coral sand. Legend says this is exactly where Hotu Matu'a, the island's very first king, first landed his canoe long ago. Today, moai still stand right beside the beach, gazing out at the sea.",
+        "ja": "真っ白なサンゴの砂が広がる浜辺。伝説では、この島最初の王『ホツ・マツア』がカヌーで初めて上陸したのがまさにここだといいます。今もモアイが浜辺のすぐそばに立ち、海を見つめています。",
+        "zh": "铺满洁白珊瑚沙的海滩。传说这里正是全岛第一位国王“霍图·马图阿”当年乘独木舟首次登陆的地方。如今仍有摩艾矗立在海滩旁,静静望着大海。"
+      },
+      "coords": [-27.0726, -109.3252]
+    }
+  ]
+}

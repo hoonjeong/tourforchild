@@ -1,0 +1,120 @@
+{
+  "id": "strasbourg",
+  "country": "fr",
+  "coords": [48.5734, 7.7521],
+  "name": { "ko": "스트라스부르", "en": "Strasbourg", "ja": "ストラスブール", "zh": "斯特拉斯堡" },
+  "tagline": {
+    "ko": "황새와 커다란 시계, 크리스마스의 마법이 모두 사는 동화 같은 국경 도시",
+    "en": "The fairy-tale border city where storks, a giant clock, and Christmas magic all call home",
+    "ja": "コウノトリと巨大時計、クリスマスの魔法が息づく、おとぎ話のような国境の街",
+    "zh": "鹳鸟、巨大天文钟与圣诞魔法共同守护的童话边境之城"
+  },
+  "story": {
+    "ko": [
+      "프랑스와 독일 사이, 라인강이라는 넓은 강이 흐르는 곳에 알록달록한 도시 '스트라스부르'가 있어요. 이름 자체가 '길들의 도시'라는 뜻인데, 옛날부터 여행자와 상인들이 마차를 끌고 이곳을 지나다녔기 때문이에요. 오늘날 돌길을 따라 걸으면 분홍, 노랑, 파랑으로 칠해진 집들이 줄지어 있고, 벽에는 나무 기둥이 틱택토 판처럼 십자로 교차해 있어요. 고개를 들면 굴뚝 위에 커다란 둥지가 있고, 다리 긴 황새가 그 위에 서 있는 모습도 볼 수 있답니다.",
+      "그 지붕들 위로 우뚝 솟은 것은 분홍빛 돌로 지은 거대한 대성당이에요. 첨탑이 하나뿐인데, 무려 200년 넘게 세계에서 가장 높은 건물이었대요! 성당 안에는 집채만큼 커다란 시계가 있는데, 매일 정오 반이 되면 살아 움직여요. 색칠된 사도 인형들이 줄지어 지나가고, 나무로 만든 수탉이 날개를 퍼덕이며 '꼬끼오' 하고 울거든요. 수백 년째 똑같이요!",
+      "스트라스부르 지붕에는 아주 오래전부터 황새가 둥지를 틀었어요. 그래서 사람들은 황새가 행운을 가져다준다고 믿었고, 옛이야기에서는 심지어 아기를 데려다준다고도 했어요. 그런데 한때 황새가 도시에서 거의 사라질 뻔했답니다. 사냥과 혹독한 겨울 때문에 수가 크게 줄었거든요. 다행히 마음씨 착한 스트라스부르 사람들이 안전한 둥지를 만들고 새끼 황새를 정성껏 길러, 황새들을 다시 불러들였어요.",
+      "1570년부터 지금까지, 스트라스부르는 해마다 겨울이면 세계에서 가장 오래된 크리스마스 시장 중 하나를 열어요. 도시 전체가 반짝이는 불빛과 거대한 크리스마스트리로 뒤덮여서, 사람들은 이 도시를 '크리스마스의 수도'라고 부른답니다. 운하가 흐르는 '작은 프랑스'라는 예쁜 동네에서는, 옛날에 가죽장이와 방앗간 주인들이 살던 삐뚤빼뚤한 집들 사이로 배가 미끄러지듯 지나가요. 다리를 하나 더 건너면 유럽의회의 유리 건물이 나오는데, 한때 이 도시를 두고 다투던 프랑스와 독일이 이제는 가장 친한 이웃이 되었다는 걸 보여주는 희망의 표시랍니다."
+    ],
+    "en": [
+      "On the border between France and Germany, where a wide river called the Rhine flows, sits a colorful city called Strasbourg. Its name means something like 'city of the roads,' because for hundreds of years, travelers and traders pulled their carts through here on their way to somewhere else. Walk down its cobblestone streets today and you'll see rows of houses painted pink, yellow and blue, with wooden beams crisscrossing their fronts like a giant tic-tac-toe board. And if you look up, you might spot a huge nest on a chimney — with a long-legged stork standing guard.",
+      "Rising above all those rooftops is an enormous pink-stone cathedral with one single spire pointing straight into the sky. For more than two hundred years, it was the tallest building anywhere in the world! Inside, a magical clock as tall as a house comes alive every day at half past noon: painted apostles parade past a wooden rooster, and the rooster flaps its wings and crows, just as it has for centuries.",
+      "Storks have nested on Strasbourg's roofs for so long that people believe they bring good luck — and, in old stories, even bring new babies to families! But storks once nearly disappeared from the city forever. Hunters and hard winters wiped most of them out, until kind Strasbourgeois built safe nests and raised young storks by hand, coaxing the birds to come home again.",
+      "Every winter since the year 1570, Strasbourg has thrown one of the world's oldest Christmas markets, filling the whole city with twinkling lights and a giant Christmas tree that people call the 'Capital of Christmas.' And down by the canals, in a pretty old neighborhood called La Petite France, boats glide past crooked houses that used to belong to tanners and millers hundreds of years ago. Cross one more bridge, and you'll find the glass towers of the European Parliament — a hopeful sign that France and Germany, who once fought over this very city, are now the best of neighbors."
+    ],
+    "ja": [
+      "フランスとドイツの間、ライン川という大きな川が流れる場所に、色とりどりの街『ストラスブール』があります。名前には『道の街』という意味があり、昔から旅人や商人たちが荷馬車を引いてここを通り過ぎていったからです。今も石畳の道を歩くと、ピンクや黄色、青に塗られた家が並び、壁には木の柱が○×ゲームの盤のように交差しています。見上げれば、煙突の上に大きな巣があり、脚の長いコウノトリが立っていることもありますよ。",
+      "そんな屋根の上にそびえるのは、ピンク色の石で造られた巨大な大聖堂です。尖塔は一本だけですが、なんと200年以上も世界一高い建物だったのです！中には家ほど大きな時計があり、毎日正午半になると動き出します。色とりどりの使徒の人形が行進し、木でできたおんどりが羽ばたいて『コケコッコー』と鳴くのです。もう何百年もずっと同じように。",
+      "ストラスブールの屋根には、大昔からコウノトリが巣を作ってきました。だから人々はコウノトリが幸運を運ぶと信じ、昔話では赤ちゃんまで運んでくると言われました。ところが、コウノトリは一時、街からほとんど姿を消しかけました。狩猟や厳しい冬のせいで数が大きく減ってしまったのです。幸い、心優しいストラスブールの人々が安全な巣を作り、ヒナを大切に育てて、コウノトリを呼び戻しました。",
+      "1570年から今日まで、ストラスブールは毎年冬になると世界最古級のクリスマスマーケットを開いています。街全体がきらめく明かりと巨大なクリスマスツリーで包まれ、人々はこの街を『クリスマスの首都』と呼びます。運河が流れる『プティット・フランス』という美しい地区では、昔なめし革職人や粉ひき職人が住んでいた曲がりくねった家々の間を、船がすべるように進みます。橋をもう一つ渡ると、欧州議会のガラス張りの建物が見えてきます。かつてこの街を取り合っていたフランスとドイツが、今では一番の隣人になったことを示す、希望のしるしなのです。"
+    ],
+    "zh": [
+      "在法国和德国之间，一条名叫莱茵河的大河流过的地方，有一座色彩缤纷的城市——斯特拉斯堡。它的名字本意是“道路之城”，因为几百年来，旅人和商人都赶着马车经过这里，前往别的地方。如今走在鹅卵石街道上，你会看到一排排粉色、黄色、蓝色的房子，木梁交错地钉在墙面上，像一个个巨大的井字棋盘。抬头一看，烟囱上还有一个大大的鸟巢，一只长腿鹳鸟正站在上面呢。",
+      "在那些屋顶之上高高耸立的，是一座用粉色石头建成的巨大教堂。它只有一座尖塔，却在两百多年里一直是全世界最高的建筑！教堂里有一座和房子一样高的大钟，每天中午十二点半都会“活”过来：一排排彩绘的使徒雕像依次走过，木头做的公鸡扑扇翅膀，“喔喔”地打鸣——几百年来，天天如此。",
+      "很久很久以前，鹳鸟就开始在斯特拉斯堡的屋顶上筑巢了。于是人们相信鹳鸟会带来好运，古老的故事里甚至说，是鹳鸟把新生的婴儿送到了各家各户。可是有一段时间，鹳鸟几乎从这座城市里完全消失了——捕猎和严寒的冬天让它们的数量骤减。幸好，善良的斯特拉斯堡人搭起安全的巢穴，悉心养大小鹳鸟，才把它们重新唤了回来。",
+      "从1570年至今，斯特拉斯堡每年冬天都会举办世界上最古老的圣诞市集之一。整座城市被闪烁的灯光和一棵巨大的圣诞树点亮，人们干脆把这里叫作“圣诞之都”。沿着运河，在一个叫“小法兰西”的美丽街区里，小船缓缓划过昔日皮匠和磨坊主居住过的歪歪扭扭的老房子。再过一座桥，就能看到欧洲议会的玻璃大楼——它提醒着人们，曾经为这座城市争斗不休的法国和德国，如今已经成了最要好的邻居。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "스트라스부르 대성당은 1647년부터 1874년까지, 무려 227년 동안이나 세계에서 가장 높은 건물이었어요.",
+      "천문시계는 매일 낮 12시 반이 되면 쇼를 펼쳐요. 색칠된 사도 인형들이 지나가고, 기계로 만든 수탉이 날개를 퍼덕이며 울음소리를 낸답니다.",
+      "황새는 한때 스트라스부르 지붕에서 거의 사라질 뻔했지만, 마음씨 좋은 사람들이 안전한 둥지를 짓고 새끼를 직접 길러 다시 데려왔어요.",
+      "스트라스부르 크리스마스 시장은 1570년부터 지금까지 매년 겨울 열려서, 세계에서 가장 오래된 크리스마스 시장 중 하나예요. '크리스마스의 수도'라는 별명이 괜히 붙은 게 아니랍니다.",
+      "예쁜 운하 동네 '작은 프랑스'는 옛날에 가죽장이와 어부들이 살던 곳이었는데, 지금은 알록달록 삐뚤빼뚤한 집들 사이로 배가 지나다녀요.",
+      "구텐베르크는 독일 마인츠에서 인쇄술을 완성하기 훨씬 전, 스트라스부르에 살면서 책 만드는 방식을 영원히 바꿀 아이디어를 처음 실험했어요."
+    ],
+    "en": [
+      "Strasbourg Cathedral was the tallest building in the entire world for 227 years, from 1647 to 1874!",
+      "Its astronomical clock puts on a show every day at 12:30pm: painted apostles parade by while a mechanical rooster flaps its wings and crows.",
+      "Storks nearly vanished from Strasbourg's rooftops, but caring locals built safe nests and hand-raised chicks to bring the birds back.",
+      "Strasbourg's Christmas market has run every winter since 1570, making it one of the oldest in the world — no wonder it's nicknamed the 'Capital of Christmas.'",
+      "The pretty canal district called La Petite France used to be home to tanners and fishermen; now boats glide past its crooked, colorful houses.",
+      "Long before he perfected the printing press in Mainz, Johannes Gutenberg lived in Strasbourg, where he first experimented with the ideas that changed how books were made forever."
+    ],
+    "ja": [
+      "ストラスブール大聖堂は1647年から1874年まで、なんと227年間も世界一高い建物でした。",
+      "天文時計は毎日正午12時半にショーを見せます。色とりどりの使徒の人形が行進し、機械じかけのおんどりが羽ばたいて鳴くのです。",
+      "コウノトリは一時ストラスブールの屋根からほとんど姿を消しかけましたが、心優しい人々が安全な巣を作り、ヒナを手で育てて呼び戻しました。",
+      "ストラスブールのクリスマスマーケットは1570年から毎年冬に開かれ続けていて、世界最古級のクリスマスマーケットの一つです。『クリスマスの首都』と呼ばれるのも納得ですね。",
+      "美しい運河の街『プティット・フランス』は、昔はなめし革職人や漁師が暮らす場所でした。今は色とりどりの曲がった家々の間を船がすべっていきます。",
+      "グーテンベルクはドイツのマインツで印刷術を完成させるずっと前、ストラスブールに住み、本の作り方を永遠に変えるアイデアを初めて試していました。"
+    ],
+    "zh": [
+      "斯特拉斯堡教堂从1647年到1874年，整整227年间都是全世界最高的建筑！",
+      "天文钟每天中午十二点半都会上演一场表演：彩绘的使徒雕像依次走过，机械公鸡扑扇翅膀，发出打鸣声。",
+      "鹳鸟曾一度几乎从斯特拉斯堡的屋顶上消失，幸好善良的人们搭建安全的巢穴，亲手养大幼鸟，才把它们重新带了回来。",
+      "斯特拉斯堡的圣诞市集从1570年起每年冬天都会举办，是世界上最古老的圣诞市集之一——难怪它被称为“圣诞之都”。",
+      "美丽的运河街区“小法兰西”曾是皮匠和渔民居住的地方，如今小船穿梭在那些色彩斑斓、歪歪扭扭的老房子之间。",
+      "早在古腾堡在德国美因茨完善印刷术之前，他就住在斯特拉斯堡，并在那里第一次尝试了永远改变书籍制作方式的想法。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "지붕 위에 있는 황새 둥지가 행운을 가져다준대. 너희 집 지붕에도 커다란 새 둥지가 있으면 좋겠어?",
+    "en": "A stork's nest on the roof is supposed to bring good luck — would you want a giant bird's nest on top of your house?",
+    "ja": "屋根の上のコウノトリの巣は幸運を運ぶんだって。きみの家の屋根にも大きな鳥の巣があったらどう思う？",
+    "zh": "屋顶上的鹳鸟窝据说会带来好运——如果你家屋顶上也有一个巨大的鸟窝，你愿意吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "스트라스부르 대성당", "en": "Strasbourg Cathedral", "ja": "ストラスブール大聖堂", "zh": "斯特拉斯堡大教堂" },
+      "blurb": {
+        "ko": "이 분홍빛 사암 대성당은 첨탑을 하나만 지었는데도, 200년 넘게 지구에서 가장 높은 건물이었어요. 낮 12시 반에 안으로 들어가면 천문시계의 사도 행렬과 유명한 우는 수탉을 볼 수 있답니다.",
+        "en": "This pink sandstone cathedral had just one spire built, yet it soared higher than any other building on Earth for over two centuries. Step inside at 12:30pm to watch the astronomical clock's parade of apostles and its famous crowing rooster.",
+        "ja": "このピンク色の砂岩の大聖堂は、尖塔が一本しかないのに、200年以上も地球上で一番高い建物でした。正午12時半に中に入れば、天文時計の使徒の行進と、鳴くことで有名なおんどりを見られますよ。",
+        "zh": "这座粉色砂岩教堂只建了一座尖塔，却在两百多年里一直是地球上最高的建筑。中午十二点半走进去，就能看到天文钟里使徒巡游的场景，以及那只著名的会打鸣的公鸡。"
+      },
+      "coords": [48.5819, 7.7507]
+    },
+    {
+      "name": { "ko": "라 프티트 프랑스 (작은 프랑스)", "en": "La Petite France", "ja": "プティット・フランス", "zh": "小法兰西" },
+      "blurb": {
+        "ko": "알록달록한 목조 집들이 반짝이는 운하 위로 기울어져 있는 이 동화 같은 동네를 걸어보세요. 옛날엔 가죽장이와 어부들이 여기서 살고 일했지만, 지금은 배와 백조가 그 자리를 대신 지나다닌답니다.",
+        "en": "Wander this fairy-tale district where colorful half-timbered houses lean over sparkling canals. Tanners and fishermen once lived and worked here — today, boats and swans glide by instead.",
+        "ja": "色とりどりの木組みの家々が、きらめく運河の上に傾いて建つ、おとぎ話のような地区を歩いてみましょう。昔はなめし革職人や漁師がここで暮らし働いていましたが、今は船や白鳥がその代わりに行き来しています。",
+        "zh": "漫步在这个童话般的街区，色彩斑斓的木筋房屋斜倚在波光粼粼的运河边。曾经皮匠和渔民在这里生活工作，如今取而代之的是缓缓划过的小船和天鹅。"
+      },
+      "coords": [48.5804, 7.7398]
+    },
+    {
+      "name": { "ko": "클레베르 광장 (크리스마스 시장)", "en": "Place Kléber (Christmas Market Square)", "ja": "クレベール広場（クリスマスマーケット）", "zh": "克莱贝尔广场（圣诞市集）" },
+      "blurb": {
+        "ko": "12월이 되면 이 중심 광장은 세계에서 가장 오래된 크리스마스 시장 중 하나와 거대하고 반짝이는 트리로 환하게 빛나요. 스트라스부르가 자랑스럽게 '크리스마스의 수도'라고 부르는 도시의 심장 같은 곳이랍니다.",
+        "en": "Every December, this main square glows with one of the world's oldest Christmas markets and a giant, glittering tree. It's the beating heart of the city Strasbourg proudly calls the 'Capital of Christmas.'",
+        "ja": "12月になると、この中心広場は世界最古級のクリスマスマーケットと、巨大できらめくツリーで輝きます。ストラスブールが誇りを持って『クリスマスの首都』と呼ぶ、街の心臓部です。",
+        "zh": "每年十二月，这个中心广场都会点亮世界上最古老的圣诞市集之一，还有一棵巨大闪耀的圣诞树。这里正是斯特拉斯堡自豪地称为“圣诞之都”的城市心脏地带。"
+      },
+      "coords": [48.5839, 7.7455]
+    },
+    {
+      "name": { "ko": "보방 댐", "en": "Barrage Vauban", "ja": "ヴォーバン・ダム", "zh": "沃邦水坝" },
+      "blurb": {
+        "ko": "이 오래된 돌 댐은 옛날에 주변 들판에 물을 채워 도시를 적으로부터 지켜주던 곳이에요. 옥상 테라스에 올라가면 스트라스부르의 첨탑과 운하를 가장 멋지게 볼 수 있답니다.",
+        "en": "This old stone dam once protected the city from attackers by flooding the fields around it. Climb to its rooftop terrace for one of the best views of Strasbourg's spires and canals.",
+        "ja": "この古い石造りのダムは、かつて周りの畑に水を張って街を敵から守っていました。屋上テラスに登れば、ストラスブールの尖塔と運河を望む最高の景色が広がります。",
+        "zh": "这座古老的石坝曾通过淹没周围的田地来保护城市免受攻击。爬上它的屋顶露台，就能欣赏到斯特拉斯堡尖塔与运河最美的景色之一。"
+      },
+      "coords": [48.5773, 7.7368]
+    }
+  ]
+}

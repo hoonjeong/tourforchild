@@ -1,0 +1,120 @@
+{
+  "id": "agra",
+  "country": "in",
+  "coords": [27.1767, 78.0081],
+  "name": { "ko": "아그라", "en": "Agra", "ja": "アーグラ", "zh": "阿格拉" },
+  "tagline": {
+    "ko": "세상에서 가장 아름다운 사랑의 무덤, 타지마할이 있는 도시",
+    "en": "Home to the Taj Mahal, the world's most beautiful monument to love",
+    "ja": "世界で一番美しい愛のお墓、タージ・マハルがある街",
+    "zh": "世界上最美的爱情陵墓——泰姬陵所在的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날 인도에 '샤 자한'이라는 황제가 살았어요. 그는 아내 뭄타즈 마할을 세상 무엇보다 사랑했답니다. 두 사람은 어디든 함께 다녔고, 그녀는 황제의 가장 가까운 친구이자 지혜로운 조언자였어요. 그런데 그녀가 열네 번째 아이를 낳다가 그만 세상을 떠나고 말았어요. 슬픔에 빠진 황제는 다짐했어요. 세상에서 가장 아름다운 무덤을 지어주겠다고요.",
+      "샤 자한은 인도와 페르시아 등에서 최고의 건축가, 조각가, 예술가를 2만 명 넘게 불러 모았어요. 코끼리와 낙타들이 400킬로미터나 떨어진 채석장에서 반짝이는 흰 대리석을 실어 날랐죠. 장인들은 터키석, 옥, 청금석 같은 보석을 작은 꽃 모양으로 깎아 대리석에 촘촘히 박아 넣었는데, 손가락으로 만져도 이음새가 느껴지지 않을 만큼 정교했답니다.",
+      "완성까지 무려 22년이 걸렸어요. 완성된 모습은 믿기 힘들 만큼 아름다웠어요. 하얗게 빛나는 돔과 가느다란 탑 네 개, 그리고 그 모습을 거울처럼 비추는 기다란 연못까지! 대리석은 햇빛에 따라 색이 바뀌는 것 같아요. 새벽엔 은은한 분홍빛, 한낮엔 새하얀 빛, 보름달이 뜨면 황금빛으로요.",
+      "하지만 이야기엔 슬픈 반전이 있어요. 훗날 샤 자한의 아들이 아버지를 아그라 성에 가둬버렸거든요. 늙은 황제는 작은 창문으로 강 건너 아내를 위해 지은 무덤만 바라볼 수밖에 없었대요. 그가 세상을 떠나자, 마침내 아내 곁에 나란히 묻히게 되었답니다. 오늘날 타지마할은 '세계 신 7대 불가사의' 중 하나로, 전 세계 사람들이 그 빛나는 모습을 보러 몰려온답니다."
+    ],
+    "en": [
+      "Long ago in India, there lived an emperor named Shah Jahan who loved his wife, Mumtaz Mahal, more than anything in the world. They traveled everywhere together, and she was his closest friend and wisest advisor. But when she died after giving birth to their fourteenth child, the emperor was heartbroken. He made a promise: he would build her the most beautiful tomb the world had ever seen.",
+      "So Shah Jahan gathered thousands of the best builders, carvers, and artists from India, Persia, and beyond—more than 20,000 in all. Elephants and camels hauled glowing white marble from a quarry 400 kilometers away. Craftsmen carved tiny flowers from jewels like turquoise, jade, and lapis lazuli, then fit them into the marble so perfectly you can't feel a seam with your finger.",
+      "It took 22 years to finish. When it was done, the result was almost too beautiful to believe: a glowing white dome, four slim towers, and a long pool of water that mirrors it all like a second Taj Mahal floating upside down. The marble seems to change color with the sun—soft pink at dawn, dazzling white at noon, and golden under a full moon.",
+      "But the story has a sad turn. Shah Jahan's own son later locked him away in nearby Agra Fort. From a small window there, the old emperor could only gaze across the river at the tomb he'd built for his beloved wife. When he died, he was finally laid to rest right beside her. Today the Taj Mahal is one of the New Seven Wonders of the World, and millions of people travel from every corner of the globe just to see it glow."
+    ],
+    "ja": [
+      "はるか昔、インドに『シャー・ジャハーン』という皇帝がいました。彼は妻ムムターズ・マハルを世界の何よりも愛していました。二人はどこへでも一緒に出かけ、彼女は皇帝にとって一番の親友であり、頼れる相談相手でもありました。ところが、彼女は14番目の子どもを産んだ後に亡くなってしまいます。悲しみに沈んだ皇帝は心に誓いました。世界で一番美しいお墓を建てよう、と。",
+      "シャー・ジャハーンはインドやペルシャなどから、2万人を超える最高の建築家、彫刻家、職人たちを集めました。象やラクダが400キロも離れた採石場から、きらめく白い大理石を運びました。職人たちはトルコ石やヒスイ、ラピスラズリといった宝石を小さな花の形に削り、大理石にはめこみました。指でなぞっても継ぎ目が分からないほど精巧だったそうです。",
+      "完成までに22年もかかりました。出来上がった姿は信じられないほど美しいものでした。白く輝くドームと4本の細い塔、そしてすべてを鏡のように映す長い池。大理石は太陽の光によって色を変えるように見えます。夜明けにはやわらかなピンク色、真昼には真っ白、満月の夜には金色に。",
+      "でも、この物語には悲しい結末があります。後にシャー・ジャハーンの息子が、父をアグラ城に閉じこめてしまったのです。年老いた皇帝は、小さな窓から川の向こうにある、妻のために建てたお墓を眺めることしかできませんでした。彼が亡くなると、ようやく妻のそばに並んで葬られました。今日、タージ・マハルは『新・世界七不思議』の一つとされ、世界中から人々がその輝く姿を見にやって来ます。"
+    ],
+    "zh": [
+      "很久很久以前，印度有一位皇帝叫沙贾汗。他深爱着自己的妻子——慕塔芝·玛哈尔，胜过世间一切。两人无论去哪里都形影不离，她既是皇帝最亲密的朋友，也是他最信赖的谋士。可是，她在生下第十四个孩子后就去世了。伤心欲绝的皇帝立下誓言：他要为她建造世界上最美丽的陵墓。",
+      "沙贾汗从印度、波斯等地召集了两万多名最优秀的建筑师、雕刻家和工匠。大象和骆驼从四百公里外的采石场，运来一块块闪着微光的白色大理石。工匠们把绿松石、玉石、青金石等宝石雕刻成一朵朵小花，再嵌进大理石里，做工精细到用手指都摸不出接缝。",
+      "整整花了22年才建成。建成后的模样美得让人难以置信：洁白发光的圆顶，四座纤细的高塔，还有一池长长的水面，像镜子一样把这一切都倒映出来。大理石似乎会随阳光变换颜色——黎明是柔和的粉色，正午洁白如雪，满月之夜则闪着金光。",
+      "可是，故事有一个悲伤的转折。后来，沙贾汗的亲生儿子把他囚禁在附近的阿格拉堡里。年迈的皇帝只能透过一扇小窗户，隔着河眺望自己为爱妻建造的陵墓。他去世后，终于得以和妻子并肩长眠。如今，泰姬陵被列为“世界新七大奇迹”之一，全世界的人们不远万里，只为亲眼看看它闪耀的模样。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "타지마할을 짓는 데 22년이 걸렸고, 2만 명이 넘는 장인과 일꾼이 매달렸어요.",
+      "하얀 대리석이 하루 종일 색을 바꾸는 것 같아요. 새벽엔 분홍빛, 한낮엔 새하얀 빛, 노을엔 황금빛, 달빛 아래선 은빛으로요.",
+      "장인들은 터키석, 옥, 산호 같은 보석 수천 개를 꽃 모양으로 깎아 대리석에 박아 넣었는데, 이음새가 손끝에 느껴지지 않을 만큼 정교해요.",
+      "타지마할의 탑 네 개는 아주 살짝 바깥쪽으로 기울어져 있어요. 혹시 지진이 나도 무덤 쪽이 아니라 바깥으로 쓰러지게 하기 위해서래요.",
+      "전설에 따르면 샤 자한은 강 건너에 자신을 위한 검은 대리석 무덤도 지으려 했대요. 하지만 진짜였다는 증거는 아직 아무도 찾지 못했어요.",
+      "샤 자한은 말년을 아그라 성에 갇혀 지냈는데, 작은 창문으로 타지마할을 바라보는 것밖에 할 수 없었대요."
+    ],
+    "en": [
+      "It took 22 years and more than 20,000 workers and artists to build the Taj Mahal.",
+      "The white marble seems to change color all day—pinkish at sunrise, white at noon, golden at sunset, and silvery under moonlight.",
+      "Craftsmen inlaid thousands of tiny gemstones—like turquoise, jade, and coral—into the marble in flower patterns, a technique so precise you can't feel the seams.",
+      "The Taj Mahal's four minarets (towers) lean ever so slightly outward, so that if an earthquake ever knocked them down, they'd fall away from the tomb, not onto it.",
+      "Legend says Shah Jahan dreamed of building himself a matching black marble tomb across the river, though no one has ever found proof it was real.",
+      "Shah Jahan spent his last years locked in Agra Fort, where he could only watch the Taj Mahal from a small window until he died."
+    ],
+    "ja": [
+      "タージ・マハルの建設には22年かかり、2万人を超える職人や働き手が関わりました。",
+      "白い大理石は一日を通して色を変えるように見えます。夜明けはピンク、真昼は真っ白、夕暮れは金色、月明かりの下では銀色に。",
+      "職人たちはトルコ石やヒスイ、サンゴなど数千個の宝石を花の形に削って大理石にはめこみました。継ぎ目が指先でも分からないほどの精巧さです。",
+      "タージ・マハルの4本の塔は、ほんの少し外側に傾いています。もし地震が起きても、お墓の方ではなく外側に倒れるようにするためだそうです。",
+      "伝説によると、シャー・ジャハーンは川の向こうに自分のための黒い大理石の墓も建てようとしたそうです。でも、本当だったという証拠はまだ見つかっていません。",
+      "シャー・ジャハーンは晩年、アグラ城に閉じ込められ、小さな窓からタージ・マハルを眺めることしかできませんでした。"
+    ],
+    "zh": [
+      "建造泰姬陵一共花了22年，动用了两万多名工匠和工人。",
+      "白色大理石似乎整天都在变换颜色——黎明是粉色，正午雪白，黄昏金黄，月光下则是银色。",
+      "工匠们把绿松石、玉石、珊瑚等数千颗宝石雕成花朵嵌进大理石，做工精细到接缝连指尖都摸不出来。",
+      "泰姬陵的四座尖塔其实微微向外倾斜——据说是为了万一发生地震，它们会倒向外侧，而不会砸到陵墓本身。",
+      "传说沙贾汗曾想在河对岸为自己建一座一模一样的黑色大理石陵墓，不过至今没人找到证据证明这是真的。",
+      "沙贾汗晚年被囚禁在阿格拉堡，只能透过一扇小窗眺望泰姬陵，直到去世。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "햇빛만 받았을 뿐인데 건물 색깔이 스스로 바뀐다니, 믿을 수 있어?",
+    "en": "A marble building that changes color all by itself, just from sunlight—do you believe that?",
+    "ja": "日の光を浴びただけで、建物の色がひとりでに変わるなんて、信じられる？",
+    "zh": "一座建筑光靠阳光就能自己变换颜色，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "타지마할", "en": "Taj Mahal", "ja": "タージ・マハル", "zh": "泰姬陵" },
+      "blurb": {
+        "ko": "샤 자한이 뭄타즈 마할을 위해 지은, 하얗게 빛나는 무덤이에요. 가까이 다가가 대리석에 촘촘히 박힌 작은 보석 꽃무늬를 찾아보세요. 해 뜰 때와 질 때 색이 가장 신비롭게 바뀐답니다.",
+        "en": "The glowing white tomb Shah Jahan built for Mumtaz Mahal. Walk up close and look for the thousands of tiny inlaid gemstone flowers in the marble. Sunrise and sunset are the most magical times to see it change color.",
+        "ja": "シャー・ジャハーンがムムターズ・マハルのために建てた、白く輝くお墓。近くまで行って、大理石にびっしりはめこまれた小さな宝石の花模様を探してみて。日の出と日没の時間が、いちばん神秘的に色を変える瞬間です。",
+        "zh": "沙贾汗为慕塔芝·玛哈尔建造的洁白发光的陵墓。走近些，找找大理石上密密嵌着的宝石花朵图案。日出和日落时分，它的颜色变化最为神奇。"
+      },
+      "coords": [27.1751, 78.0421]
+    },
+    {
+      "name": { "ko": "아그라 성", "en": "Agra Fort", "ja": "アーグラ城", "zh": "阿格拉堡" },
+      "blurb": {
+        "ko": "샤 자한이 황제로 지냈던, 그리고 훗날 아들에게 갇혔던 붉은 사암 요새예요. 강 건너 타지마할을 바라보며 말년을 보낸 작은 탑 방을 찾아보세요.",
+        "en": "A huge red sandstone fortress where Shah Jahan lived as emperor—and later where his own son imprisoned him. Find the small tower room where the heartbroken emperor spent his last years gazing across the river at the Taj Mahal.",
+        "ja": "シャー・ジャハーンが皇帝として暮らし、そして後に息子に閉じこめられた赤い砂岩の要塞。川の向こうのタージ・マハルを眺めながら晩年を過ごした、小さな塔の部屋を探してみて。",
+        "zh": "沙贾汗曾在此以皇帝身份居住，后来又被儿子囚禁于此的红砂岩堡垒。找找那间小小的塔楼房间，他晚年就是在那里隔河眺望泰姬陵度过的。"
+      },
+      "coords": [27.1795, 78.0211]
+    },
+    {
+      "name": { "ko": "파테푸르 시크리", "en": "Fatehpur Sikri", "ja": "ファテープル・シークリー", "zh": "法塔赫布尔西克里" },
+      "blurb": {
+        "ko": "샤 자한의 증조할아버지 아크바르 황제가 지은 통째로 붉은 돌로 된 도시예요. 화려한 수도로 만들었지만, 물이 부족해 겨우 15년 만에 버려졌대요. 텅 빈 궁전과 커다란 마당이 마치 시간이 멈춘 유령 도시 같답니다.",
+        "en": "A whole city of red stone built by Shah Jahan's great-grandfather, Emperor Akbar, as his splendid new capital—then abandoned only 15 years later, they say because it ran out of water. Its empty palaces and giant courtyards feel like a ghost city frozen in time.",
+        "ja": "シャー・ジャハーンのひいおじいさん、アクバル皇帝が建てた、まるごと赤い石でできた都市。豪華な首都として造られましたが、水が足りなくなり、わずか15年で見捨てられたと言われています。がらんとした宮殿と広い中庭は、まるで時が止まった幽霊都市のよう。",
+        "zh": "沙贾汗的曾祖父阿克巴皇帝建造的一整座红石之城。这里原本是他建来当作辉煌都城的地方，却因为缺水，仅仅十五年就被废弃了。空荡荡的宫殿和巨大的庭院，像一座时间静止的幽灵之城。"
+      },
+      "coords": [27.0945, 77.6707]
+    },
+    {
+      "name": { "ko": "이티마드 웃 다울라 (아기 타지마할)", "en": "Itmad-ud-Daulah (the 'Baby Taj')", "ja": "イティマド・ウッダウラ（ベビー・タージ）", "zh": "伊蒂玛德-乌德-陶拉陵（小泰姬陵）" },
+      "blurb": {
+        "ko": "타지마할보다 약 10년 먼저 지어진 작은 대리석 무덤이에요. 똑같은 보석 꽃무늬 장식이 있어서, 많은 사람이 타지마할 디자인에 영감을 줬다고 믿는답니다. 그래서 '아기 타지'라고도 불려요.",
+        "en": "A smaller marble tomb built about a decade before the Taj Mahal, decorated with the same kind of jewel-inlay flowers. Many believe it inspired the real one's design, which is why people call it the 'Baby Taj.'",
+        "ja": "タージ・マハルより約10年早く建てられた、小さな大理石のお墓。同じような宝石の花模様の装飾があり、タージ・マハルのデザインにヒントを与えたと信じる人も多いです。そのため『ベビー・タージ』とも呼ばれています。",
+        "zh": "一座比泰姬陵早建约十年的小型大理石陵墓，装饰着同样的宝石花朵图案。很多人相信，正是它启发了泰姬陵的设计，因此它也被称为“小泰姬陵”。"
+      },
+      "coords": [27.2020, 78.0129]
+    }
+  ]
+}

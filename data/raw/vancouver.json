@@ -1,0 +1,120 @@
+{
+  "id": "vancouver",
+  "country": "ca",
+  "coords": [49.2827, -123.1207],
+  "name": { "ko": "밴쿠버", "en": "Vancouver", "ja": "バンクーバー", "zh": "温哥华" },
+  "tagline": {
+    "ko": "눈 덮인 산과 바다가 만나고, 천 년 된 나무가 마천루 옆에 서 있는 도시",
+    "en": "Where snow-capped mountains meet the ocean, and thousand-year-old trees stand beside skyscrapers",
+    "ja": "雪山と海が出会い、千年の木々が高層ビルのそばに立つ街",
+    "zh": "雪山与海洋相遇、千年古树与摩天大楼比肩而立的城市"
+  },
+  "story": {
+    "ko": [
+      "밴쿠버라는 이름이 생기기 훨씬 전, 이 바닷가에는 머스퀴엄, 스쿼미시, 슬레일와투스 같은 원주민들이 수천 년 동안 살고 있었어요. 사람들은 삼나무를 깎아 만든 카누를 타고 숲이 우거진 섬 사이를 오갔고, 가족의 이야기를 담은 커다란 토템 폴을 조각했답니다. 이곳의 숲은 정말 어마어마해서, 아이 셋이 손을 맞잡아도 안을 수 없을 만큼 굵은 나무들이 하늘 높이 치솟아 있었어요.",
+      "1792년, 영국의 탐험가 조지 밴쿠버 선장이 이 항구로 배를 몰고 들어와 해안을 지도로 그렸어요. 그로부터 수십 년 뒤, 이 근처에 작은 도시가 생겨나며 그의 이름을 따 '밴쿠버'라 불리게 됐죠. 그런데 이 새로운 도시는 태어난 지 얼마 안 돼 사라질 뻔했어요. 1886년, 큰불이 나서 도시 전체가 채 한 시간도 안 돼 몽땅 타버렸거든요! 하지만 사람들은 정말 빠르게 다시 일어섰고, 일 년도 안 돼 가게와 거리, 집들이 다시 들어섰답니다.",
+      "밴쿠버가 큰 도시로 자라날 때, 아주 멋진 일이 하나 있었어요. 오래된 숲을 몽땅 베어내는 대신, 도심 한복판에 커다란 숲 한 조각을 그대로 남겨두기로 한 거예요. 그곳이 바로 뉴욕의 센트럴파크보다 더 넓은 스탠리 파크랍니다. 천 년 묵은 나무들이 여전히 우뚝 서 있고, 풀밭 사이로 토템 폴이 솟아 있으며, 바닷가를 따라 빙 둘러 걷는 길이 나 있어요.",
+      "오늘날 밴쿠버는 마법 같은 풍경으로 유명해요. 마천루 바로 뒤에 눈 덮인 산들이 솟아 있어서, 같은 날 아침엔 스키를 타고 오후엔 바닷가를 걸을 수도 있답니다. 근처 바다에는 범고래가 헤엄쳐 다니고 하늘엔 독수리가 날아다니며, 도심 바로 옆 울창한 숲 협곡 위로는 흔들거리는 구름다리가 걸려 있어요. 밴쿠버에서는 야생과 도시가 한 번도 진짜로 헤어진 적이 없는 셈이죠."
+    ],
+    "en": [
+      "Long before this place was called Vancouver, Coast Salish peoples — the Musqueam, Squamish, and Tsleil-Waututh — had lived along this coastline for thousands of years. They paddled cedar canoes between forested islands and carved tall totem poles that told their families' stories. The forest here was enormous — trees so wide that three kids holding hands couldn't wrap around them, and so tall they seemed to touch the clouds.",
+      "In 1792, a British explorer named Captain George Vancouver sailed into this harbor and mapped the coastline. Decades later, a small town grew up nearby and took his name: Vancouver. But this brand-new city almost didn't survive its first year — in 1886, a fire swept through and burned nearly the whole town down in under an hour! Yet people rebuilt so fast that within a year, shops, streets, and houses stood again.",
+      "As Vancouver grew into a big city, something wonderful happened. Instead of cutting down all the old forest, people decided to keep a giant chunk of it right in the middle of downtown. That's Stanley Park — bigger than New York's Central Park. Thousand-year-old trees still stand tall there, totem poles rise up from the grass, and a path curls all the way around the park along the sea.",
+      "Today, Vancouver is famous for an almost magical view: snow-capped mountains rise right behind the skyscrapers, so on the very same day you could ski down a slope in the morning and walk along a beach in the afternoon. Orcas swim through the nearby waters, eagles soar overhead, and a wobbly bridge sways high above a forest canyon just outside downtown. In Vancouver, wild nature and the city have never really said goodbye to each other."
+    ],
+    "ja": [
+      "バンクーバーという名前ができるずっと前、この海辺にはマスクィーム、スコーミッシュ、ツレイル・ワトゥースといった先住民たちが何千年も暮らしていました。人々は杉の丸太をくりぬいたカヌーで木々の茂る島々を行き来し、家族の物語を刻んだ大きなトーテムポールを彫っていました。ここの森は本当に巨大で、子どもが三人で手をつないでも抱えきれないほど太い木々が、空高くそびえていたのです。",
+      "1792年、イギリスの探検家ジョージ・バンクーバー船長がこの入り江に船を進め、海岸線を地図に記しました。それから数十年後、この近くに小さな町ができ、彼の名前をとって『バンクーバー』と呼ばれるようになりました。しかしこの生まれたばかりの町は、あやうく消えてしまうところでした。1886年、大きな火事が起こり、町のほとんどが一時間もたたないうちに焼けてしまったのです！それでも人々はすぐに立ち上がり、一年もしないうちにお店や通り、家々がまた建ち並びました。",
+      "バンクーバーが大きな町へと育つ中で、すてきなことが一つ起こりました。古い森をすべて切り倒す代わりに、街のまん中に森の大きなかたまりをそのまま残すことにしたのです。それがニューヨークのセントラルパークよりも広いスタンレー・パーク。今も千年もの木々がそびえ立ち、芝生の間からトーテムポールがのぞき、海ぞいをぐるりと歩ける道が続いています。",
+      "今日のバンクーバーは、まるで魔法のような景色で知られています。高層ビルのすぐうしろに雪をかぶった山々がそびえているので、同じ日の朝にスキーをして、午後には海辺を歩くこともできるのです。近くの海にはシャチが泳ぎ、空にはワシが舞い、街のすぐそばの深い森の谷には、ゆらゆら揺れるつり橋が架かっています。バンクーバーでは、野生の自然と街が、一度も本当に別れたことがないのですね。"
+    ],
+    "zh": [
+      "很久以前，在“温哥华”这个名字出现之前，马斯昆、斯阔米什、塞利瓦图斯等原住民已经在这片海岸生活了几千年。他们划着雪松挖成的独木舟穿梭在林木茂密的岛屿之间，还雕刻出讲述家族故事的高大图腾柱。这里的森林大得惊人，有些树干粗到三个孩子手拉手都抱不过来，高高地直插云霄。",
+      "1792年，英国探险家乔治·温哥华船长驾船驶入这片海湾，把海岸线画上了地图。几十年后，附近兴起了一座小城市，人们就用他的名字将它命名为“温哥华”。可是这座新生的城市差点没能挺过第一年——1886年，一场大火不到一个小时就把几乎整座城市烧成灰烬！不过人们重建的速度快得惊人，不到一年，商店、街道和房屋又都拔地而起。",
+      "当温哥华逐渐长成一座大城市时，一件很棒的事发生了：人们没有把古老的森林全部砍光，而是决定在市中心正中央保留一大片森林。这就是斯坦利公园——比纽约中央公园还要大。千年古树至今仍然挺立，草地间竖立着图腾柱，一条沿海步道绕着公园边缘蜿蜒延伸。",
+      "如今，温哥华以一种近乎神奇的景象闻名：摩天大楼后面就矗立着积雪覆盖的高山，所以同一天早上就能滑雪，下午就能到海边散步。附近的海域里，虎鲸悠然游过，天上有老鹰盘旋，市中心不远处的森林峡谷上方，还悬着一座摇摇晃晃的吊桥。在温哥华，野性的自然从来没有真正和城市说过再见。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "스탠리 파크에 서 있는 토템 폴은 원주민 예술가들이 조각한 것으로, 여러 세대에 걸친 가족의 이야기를 담고 있어요.",
+      "1886년, 큰불이 나서 갓 태어난 밴쿠버시가 채 한 시간도 안 돼 거의 다 타버렸어요. 하지만 일 년 만에 다시 지어졌답니다!",
+      "스탠리 파크를 빙 둘러싼 바닷가 산책로는 길이가 거의 9킬로미터나 돼요. 세계에서 가장 긴 해안 산책로 중 하나랍니다.",
+      "산이 도심 바로 뒤에 있어서, 어떤 사람들은 아침엔 눈 덮인 산비탈에서 스키를 타고 오후엔 바닷가를 거닐어요. 그것도 같은 날에요!",
+      "카필라노 흔들다리는 길이 137미터에, 세찬 강물 위 70미터 높이에 걸려 있어요. 건너다 보면 무릎이 후들거릴지도 몰라요.",
+      "범고래와 물범, 심지어 혹등고래까지 밴쿠버 바로 앞바다를 헤엄쳐 다닌답니다."
+    ],
+    "en": [
+      "The totem poles standing in Stanley Park were carved by First Nations artists and tell family stories passed down through generations.",
+      "In 1886, a fire burned nearly the whole young city of Vancouver to the ground in under an hour — but it was rebuilt within about a year!",
+      "The seawall path around Stanley Park is almost 9 kilometers (5.5 miles) long, one of the longest uninterrupted waterfront paths in the world.",
+      "Because mountains rise so close to downtown, some people ski down a snowy slope in the morning and walk on a beach in the afternoon — the very same day!",
+      "The Capilano Suspension Bridge stretches 137 meters and sways 70 meters above a rushing river — tall enough to make your knees wobble.",
+      "Orcas, seals, and even humpback whales swim through the waters right around Vancouver."
+    ],
+    "ja": [
+      "スタンレー・パークに立つトーテムポールは先住民の芸術家たちが彫ったもので、何世代にもわたる家族の物語が刻まれています。",
+      "1886年、生まれたばかりのバンクーバーの町はほとんど一時間もたたないうちに火事で焼けてしまいました。でも一年で建て直されたのです！",
+      "スタンレー・パークをぐるりと囲む海辺の遊歩道は、長さがほぼ9キロメートル。世界でも指折りの長さの海岸沿いの道です。",
+      "山が街のすぐうしろにあるので、朝は雪の斜面でスキーをして、午後には海辺を散歩する人もいます。しかも同じ日に！",
+      "カピラノつり橋は長さ137メートル、荒々しい川の70メートル上に架かっています。渡ると膝がガクガクするかもしれません。",
+      "シャチやアザラシ、ザトウクジラまでもが、バンクーバーのすぐ沖の海を泳いでいます。"
+    ],
+    "zh": [
+      "斯坦利公园里的图腾柱是原住民艺术家雕刻的，上面刻着一代代流传下来的家族故事。",
+      "1886年，刚刚诞生的温哥华几乎在不到一小时内就被大火烧光了。可是不到一年，它就又被重建了起来！",
+      "环绕斯坦利公园的海滨步道全长将近9公里，是世界上最长的连续海滨步道之一。",
+      "由于高山就在市中心背后，有些人早上在雪坡上滑雪，下午就到海边散步——而且是同一天！",
+      "卡皮拉诺吊桥长137米，悬在湍急河流上方70米的高空，走过去膝盖可能会发软。",
+      "虎鲸、海豹，甚至座头鲸都会游经温哥华附近的海域。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "아침엔 눈 덮인 산에서 스키를 타고, 오후엔 바닷가에서 놀 수 있다니, 믿어져?",
+    "en": "Can you believe you could ski down a snowy mountain in the morning and play on a beach that same afternoon?",
+    "ja": "朝は雪山でスキー、午後は海辺で遊べるなんて、信じられる？",
+    "zh": "早上能在雪山滑雪，下午又能去海边玩，你相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "스탠리 파크", "en": "Stanley Park", "ja": "スタンレー・パーク", "zh": "斯坦利公园" },
+      "blurb": {
+        "ko": "도심 마천루 바로 옆, 거의 바다로 둘러싸인 커다란 공원이에요. 천 년 묵은 나무 아래를 걷다 보면, 원주민 예술가들이 조각한 알록달록한 토템 폴 무리를 만날 수 있어요.",
+        "en": "A giant park almost completely surrounded by the sea, right beside downtown's skyscrapers. Walk beneath thousand-year-old trees and you'll come across a cluster of colorful totem poles carved by First Nations artists.",
+        "ja": "街の高層ビルのすぐ横にある、ほとんど海に囲まれた大きな公園です。千年もの木々の下を歩くと、先住民の芸術家が彫ったカラフルなトーテムポールの一群に出会えます。",
+        "zh": "这是一座几乎被大海环绕的大公园，就在市中心摩天大楼旁边。走在千年古树下，你会遇到一群原住民艺术家雕刻的色彩缤纷的图腾柱。"
+      },
+      "coords": [49.3017, -123.1211]
+    },
+    {
+      "name": { "ko": "카필라노 흔들다리", "en": "Capilano Suspension Bridge", "ja": "カピラノつり橋", "zh": "卡皮拉诺吊桥" },
+      "blurb": {
+        "ko": "깊은 숲 협곡을 가로질러 137미터나 뻗은 흔들다리예요. 세찬 강물 위 70미터 높이에서 대롱대롱, 다 건너면 하늘 높이 걸린 나무다리도 걸을 수 있답니다.",
+        "en": "A wobbly bridge stretching 137 meters across a deep forest canyon, swaying 70 meters above a rushing river. Cross it if you dare, then walk a treetop bridge among towering evergreens.",
+        "ja": "深い森の谷を137メートルもわたるつり橋です。荒々しい川の70メートル上でゆらゆら揺れ、渡り終えると木々の上を歩くツリートップ橋も待っています。",
+        "zh": "这座吊桥横跨幽深的森林峡谷，长达137米，悬在湍急河流上方70米高处，摇摇晃晃。走过之后，还能漫步在树梢之间的另一座天空步道。"
+      },
+      "coords": [49.3429, -123.1150]
+    },
+    {
+      "name": { "ko": "그랜빌 아일랜드", "en": "Granville Island Public Market", "ja": "グランビル・アイランド", "zh": "格兰维尔岛" },
+      "blurb": {
+        "ko": "예전엔 시끄러운 공장이 있던 섬이었는데, 지금은 싱싱한 생선과 달콤한 간식, 거리 공연이 가득한 활기찬 시장이 됐어요. 알록달록한 어선들이 바로 앞바다에 둥둥 떠 있고, 머리 위로는 수상비행기가 붕붕 날아다녀요.",
+        "en": "Once a noisy factory island, now a lively public market packed with fresh fish, sweet treats, and street performers. Colorful fishing boats bob in the water just outside, and seaplanes buzz overhead.",
+        "ja": "昔はにぎやかな工場の島でしたが、今では新鮮な魚や甘いおやつ、大道芸でいっぱいの活気ある市場になっています。すぐ前の海にはカラフルな漁船が浮かび、頭の上には水上飛行機がブーンと飛んでいきます。",
+        "zh": "这里曾是一座喧闹的工厂小岛，如今变成了热闹的公共市场，摆满了新鲜的鱼货、香甜的小吃，还有街头表演。五颜六色的渔船就在门前的海面上摇晃，头顶时常有水上飞机嗡嗡飞过。"
+      },
+      "coords": [49.2714, -123.1340]
+    },
+    {
+      "name": { "ko": "그라우스 마운틴", "en": "Grouse Mountain", "ja": "グラウス・マウンテン", "zh": "格劳斯山" },
+      "blurb": {
+        "ko": "도시 바로 뒤에 솟은 산을 곤돌라를 타고 쭉 올라가면, 몇 분 만에 구름 위에서 밴쿠버와 바다를 내려다볼 수 있어요. 겨울엔 아침에 스키를 타고 오후엔 바닷가에 갈 수도 있답니다.",
+        "en": "Ride a gondola almost straight up the mountain right behind the city, and in minutes you're above the clouds, looking down at Vancouver and the ocean. In winter you can ski here in the morning and be on a beach by afternoon.",
+        "ja": "街のすぐうしろにそびえる山へゴンドラで一気に登ると、数分で雲の上からバンクーバーと海を見下ろせます。冬は朝にスキー、午後には海辺へも行けますよ。",
+        "zh": "乘缆车一路直上市区正后方的高山，几分钟后你就能站在云端俯瞰温哥华和大海。冬天，你可以早上滑雪，下午就到海边去玩。"
+      },
+      "coords": [49.3817, -123.0812]
+    }
+  ]
+}

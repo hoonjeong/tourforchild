@@ -1,0 +1,120 @@
+{
+  "id": "uluru",
+  "country": "au",
+  "coords": [-25.3444, 131.0369],
+  "name": { "ko": "울룰루", "en": "Uluru", "ja": "ウルル", "zh": "乌卢鲁" },
+  "tagline": {
+    "ko": "사막 한가운데서 노을처럼 붉게 빛나는 거대한 바위",
+    "en": "The giant red rock that glows like fire in the desert's heart",
+    "ja": "砂漠のまん中で夕焼けのように赤く輝く巨大な一枚岩",
+    "zh": "在沙漠中央如晚霞般燃烧发光的巨石"
+  },
+  "story": {
+    "ko": [
+      "호주 한가운데, 사방 어디를 봐도 붉은 모래와 낮은 덤불뿐인 드넓은 사막이 있어요. 그런데 그 사막 한가운데에 갑자기 거대한 바위 하나가 우뚝 솟아 있답니다. 사람들은 이 바위를 '울룰루'라고 불러요. 높이가 348미터나 되는데, 이건 파리의 에펠탑보다도 더 높은 높이랍니다!",
+      "울룰루가 있는 이 땅에는 아주 먼 옛날부터 '아낭구'라는 원주민들이 살아왔어요. 자그마치 3만 년도 넘게요! 아낭구 사람들은 울룰루가 그냥 돌덩이가 아니라고 말해요. 아주 먼 옛날 조상 정령들이 세상을 만들면서 남긴 이야기가 바위의 갈라진 틈, 움푹 팬 동굴, 물웅덩이 하나하나에 고스란히 새겨져 있다고 믿거든요.",
+      "울룰루의 진짜 신비는 해가 뜨고 질 때 나타나요. 낮에는 갈색빛이던 바위가, 해질녘이 되면 마치 마법에 걸린 것처럼 진한 주황색과 빨간색으로 활활 타오르듯 빛나요. 바위 속에 든 철 성분이 공기와 만나 녹슬면서 이런 색을 낸다고 해요. 게다가 우리 눈에 보이는 건 울룰루의 아주 일부일 뿐, 빙산처럼 훨씬 더 커다란 몸통이 땅속 깊이 파묻혀 있답니다.",
+      "예전에는 많은 사람들이 울룰루 꼭대기까지 기어 올라갔어요. 하지만 아낭구 사람들에게 울룰루는 함부로 밟아서는 안 되는 신성한 곳이었죠. 그래서 2019년부터는 바위를 오르는 대신, 바위 밑을 빙 둘러 걷는 길을 걸으며 이야기를 배우게 되었어요. 밤이 되면 반짝이는 빛의 정원이 사막을 별빛처럼 수놓기도 한답니다."
+    ],
+    "en": [
+      "Right in the middle of Australia, there's a huge desert where all you can see is red sand and low, scrubby bushes for miles and miles. But smack in the center of that desert, one giant rock suddenly rises out of the ground. People call it Uluru. It stands 348 meters tall—taller than the Eiffel Tower in Paris!",
+      "The Anangu people have lived on this land for more than 30,000 years. To the Anangu, Uluru isn't just a big rock. They say that long, long ago, ancestor spirits shaped the world—and the stories of what they did are still carved into every crack, cave, and waterhole on Uluru today.",
+      "Uluru's real magic happens at sunrise and sunset. All day it looks brownish, but as the sun dips low, it seems to catch fire—blazing orange and deep red, like magic. That color comes from iron inside the rock slowly rusting in the air. And here's the wildest part: what you see is only a small piece of Uluru. Like an iceberg, most of the rock is buried deep underground.",
+      "People used to climb all the way to the top of Uluru. But to the Anangu, walking on it felt like walking on something sacred, something not meant to be climbed. So since 2019, visitors walk around the base instead, learning the stories along the way. And at night, a magical garden of glowing lights sometimes turns the desert into its very own field of stars."
+    ],
+    "ja": [
+      "オーストラリアのまん中には、見わたす限り赤い砂と低い茂みしかない、とても広い砂漠があります。ところがその砂漠のど真ん中に、突然大きな岩が一つ、ぐんとそびえ立っているのです。人々はこれを『ウルル』と呼びます。高さはなんと348メートル。パリのエッフェル塔よりも高いんですよ！",
+      "この土地には、はるか昔から『アナング』という先住民の人々が暮らしてきました。その歴史、なんと3万年以上！アナングの人たちにとって、ウルルはただの岩ではありません。大むかし、祖先の精霊たちが世界をつくったときの物語が、岩のひび、洞くぼ、水たまりの一つひとつに刻まれていると信じられているのです。",
+      "ウルルの本当の不思議は、朝日や夕日のときにあらわれます。昼間は茶色っぽいのに、日がしずむころになると、まるで魔法にかかったようにオレンジや深い赤に燃え上がって見えるのです。これは岩の中の鉄分が空気にふれてさびるからだそう。さらにおどろくのは、私たちに見えているのはウルルのほんの一部だということ。氷山のように、もっと大きな岩の本体が地面の深くにうまっているのです。",
+      "昔はたくさんの人がウルルの頂上までよじ登っていました。でもアナングの人々にとって、それは大切な聖なる場所を踏みつけることでした。そこで2019年からは、登る代わりに岩のまわりをぐるりと歩く道を歩き、物語を学ぶようになりました。夜になると、きらめく光の庭が砂漠をまるで星空のように彩ることもあるんですよ。"
+    ],
+    "zh": [
+      "在澳大利亚的正中央，有一片一眼望不到边的沙漠，满眼都是红色的沙子和低矮的灌木丛。可就在这片沙漠的正中间，突然冒出一块巨大的岩石。人们把它叫做“乌卢鲁”。它高达348米，比巴黎的埃菲尔铁塔还要高！",
+      "在这片土地上，“阿南古”原住民已经生活了三万多年！在阿南古人眼里，乌卢鲁可不只是一块普通的大石头。他们相信，很久很久以前，祖先精灵们在创造世界时留下的故事，如今都还刻在这块岩石的每一道裂缝、每一个岩洞和每一处水洼里。",
+      "乌卢鲁真正的神奇，出现在日出和日落的时候。白天它看起来是棕色的，可到了太阳落山时，它就像被施了魔法一样，燃烧般地泛出橙色和深红色。这是因为岩石里的铁元素接触空气慢慢生锈的缘故。更让人惊讶的是，我们看到的其实只是乌卢鲁的一小部分，就像冰山一样，更巨大的岩石身躯深深埋在地底下。",
+      "过去曾有很多人一路爬到乌卢鲁的顶端。可对阿南古人来说，攀爬这座神圣的岩石是不应该的事。所以从2019年起，人们不再攀爬，而是沿着岩石底部的小路环绕行走，一路了解这些古老的故事。到了夜晚，一片闪闪发光的“光之花园”有时还会把沙漠点缀得像星空一样美丽。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "울룰루는 높이 348미터로, 프랑스 에펠탑보다도 더 높아요!",
+      "우리가 보는 울룰루는 전체 바위의 극히 일부일 뿐, 빙산처럼 훨씬 큰 몸통이 땅속 깊이 파묻혀 있어요.",
+      "바위 속 철 성분이 공기와 만나 녹스는 바람에, 해질녘이면 울룰루가 주황빛과 빨간빛으로 활활 타오르듯 빛나요.",
+      "아낭구 원주민들은 3만 년이 넘게 이 땅에서 살아왔어요. 세계에서 가장 오래 이어진 문화 중 하나랍니다.",
+      "바위 곳곳의 갈라진 틈과 동굴, 물웅덩이에는 아낭구 사람들의 옛이야기와 고대 바위 그림이 새겨져 있어요.",
+      "2019년부터는 바위를 오르는 대신, 밑을 빙 둘러 걷는 10km 길을 걸으며 그 이야기를 배우게 되었어요."
+    ],
+    "en": [
+      "Uluru stands 348 meters tall—taller than the Eiffel Tower in Paris!",
+      "What we see is only a tiny piece of Uluru; like an iceberg, a much bigger chunk of rock is buried deep underground.",
+      "Iron inside the rock slowly rusts when it meets the air, making Uluru blaze orange and red at sunset.",
+      "The Anangu people have lived on this land for more than 30,000 years, one of the longest continuous cultures on Earth.",
+      "Ancient rock art and old stories are tucked into Uluru's cracks, caves, and waterholes.",
+      "Since 2019, instead of climbing to the top, visitors walk the 10-km path around the base to learn its stories."
+    ],
+    "ja": [
+      "ウルルの高さは348メートル。パリのエッフェル塔よりも高いんです！",
+      "私たちに見えているのはウルルのほんの一部だけ。氷山のように、もっと大きな岩が地面の深くにうまっています。",
+      "岩の中の鉄分が空気にふれてさびるので、夕方になるとウルルはオレンジや赤に燃えるように輝きます。",
+      "アナング先住民は3万年以上もこの土地で暮らしてきました。世界でも最も長く続く文化の一つです。",
+      "岩のひび、洞くぼ、水たまりには、アナングの人々の昔話や古代の岩絵が刻まれています。",
+      "2019年からは頂上によじ登る代わりに、ふもとを一周する10kmの道を歩いて物語を学ぶようになりました。"
+    ],
+    "zh": [
+      "乌卢鲁高达348米，比巴黎的埃菲尔铁塔还要高！",
+      "我们看到的只是乌卢鲁极小的一部分，就像冰山一样，更大的岩体深深埋在地下。",
+      "岩石中的铁元素接触空气慢慢生锈，让乌卢鲁在日落时分燃烧般泛出橙红色。",
+      "阿南古原住民已经在这片土地上生活了三万多年，是世界上延续最久的文化之一。",
+      "岩石的裂缝、岩洞和水洼里，都刻着阿南古人的古老故事和远古岩画。",
+      "从2019年起，人们不再攀登山顶，而是沿着底部10公里的小路环绕行走，一路了解这些故事。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "낮에는 갈색이던 바위가 저녁이 되면 불처럼 빨갛게 변한대. 왜 그럴까?",
+    "en": "This brownish rock turns fiery red every evening. Why do you think that happens?",
+    "ja": "昼は茶色い岩が、夕方になると炎のように赤くなるんだって。どうしてだと思う？",
+    "zh": "白天棕色的岩石，一到傍晚就变成了火红色。你猜是为什么呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "울룰루 (에어즈 록)", "en": "Uluru (Ayers Rock)", "ja": "ウルル（エアーズロック）", "zh": "乌卢鲁（艾尔斯岩）" },
+      "blurb": {
+        "ko": "사막 한가운데 홀로 우뚝 솟은 세계에서 가장 큰 통바위예요. 해가 뜨고 질 때 색이 바뀌는 모습을 보려고 전 세계 사람들이 이곳을 찾아온답니다.",
+        "en": "The world's biggest single rock, rising alone in the middle of the desert. People travel from all over the world just to watch it change color at sunrise and sunset.",
+        "ja": "砂漠のまん中にぽつんとそびえる、世界最大級の一枚岩。日の出と日の入りに色が変わる様子を見ようと、世界中から人がやってきます。",
+        "zh": "在沙漠中央独自耸立的世界最大整体岩石。世界各地的人们都专程赶来，只为看它在日出日落时变换颜色。"
+      },
+      "coords": [-25.3444, 131.0369]
+    },
+    {
+      "name": { "ko": "무티줄루 워터홀", "en": "Mutitjulu Waterhole", "ja": "ムティジュル・ウォーターホール", "zh": "穆蒂朱鲁水潭" },
+      "blurb": {
+        "ko": "울룰루 밑동에 자리한 맑은 물웅덩이예요. 사막 한가운데인데도 물이 마르지 않는데, 아낭구 사람들은 이곳에 조상 정령이 산다고 믿어요. 근처 벽에는 오래된 바위 그림도 남아 있어요.",
+        "en": "A clear waterhole tucked at Uluru's base. Even in the desert, it almost never dries up, and the Anangu believe an ancestor spirit lives there. Nearby walls still hold ancient rock paintings.",
+        "ja": "ウルルのふもとにある澄んだ水たまり。砂漠のまん中なのにほとんど干上がらず、アナングの人々はここに祖先の精霊が住むと信じています。近くの壁には古い岩絵も残っています。",
+        "zh": "位于乌卢鲁底部的一处清澈水潭。即便身处沙漠，它也几乎从不干涸，阿南古人相信这里住着祖先精灵。附近的岩壁上还留有古老的岩画。"
+      },
+      "coords": [-25.3466, 131.0505]
+    },
+    {
+      "name": { "ko": "카타 추타 (올가스)", "en": "Kata Tjuta (The Olgas)", "ja": "カタ・ジュタ（オルガ山地）", "zh": "卡塔丘塔（奥尔加山）" },
+      "blurb": {
+        "ko": "울룰루에서 서쪽으로 조금만 가면 나오는 36개의 둥근 바위 봉우리예요. 놀랍게도 가장 높은 봉우리는 울룰루보다도 더 높답니다. 아낭구 사람들에게는 울룰루만큼이나 신성한 곳이에요.",
+        "en": "A cluster of 36 rounded rock domes a short way west of Uluru. Surprisingly, its tallest dome is even taller than Uluru itself! It's just as sacred to the Anangu people.",
+        "ja": "ウルルから少し西へ行くと現れる、36の丸い岩山の集まり。驚くことに、一番高い山はウルルよりも高いんです！アナングの人々にとってウルルと同じくらい神聖な場所です。",
+        "zh": "在乌卢鲁以西不远处，坐落着由36座圆顶岩峰组成的山群。令人惊讶的是，其中最高的一座竟比乌卢鲁还要高！对阿南古人来说，这里同样是神圣之地。"
+      },
+      "coords": [-25.3006, 130.7365]
+    },
+    {
+      "name": { "ko": "울룰루-카타 추타 문화 센터", "en": "Uluru-Kata Tjuta Cultural Centre", "ja": "ウルル・カタジュタ文化センター", "zh": "乌卢鲁—卡塔丘塔文化中心" },
+      "blurb": {
+        "ko": "아낭구 사람들이 직접 자신들의 이야기를 들려주는 곳이에요. 이곳에서 조상 정령들의 옛이야기, 전통 그림, 사막에서 살아가는 지혜를 배울 수 있답니다.",
+        "en": "A place where the Anangu people share their own stories in their own words. Here you can learn the old tales of ancestor spirits, see traditional art, and discover how they've thrived in the desert.",
+        "ja": "アナングの人々が自分たちの言葉で物語を語ってくれる場所。祖先の精霊の昔話や伝統的な絵、砂漠で生きる知恵を学ぶことができます。",
+        "zh": "阿南古人在这里亲自讲述属于他们自己的故事。你可以在这里了解祖先精灵的古老传说、传统绘画，以及他们在沙漠中生活的智慧。"
+      },
+      "coords": [-25.3512, 131.0454]
+    }
+  ]
+}

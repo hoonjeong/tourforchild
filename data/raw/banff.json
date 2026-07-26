@@ -1,0 +1,120 @@
+{
+  "id": "banff",
+  "country": "ca",
+  "coords": [51.1784, -115.5708],
+  "name": { "ko": "밴프", "en": "Banff", "ja": "バンフ", "zh": "班夫" },
+  "tagline": {
+    "ko": "온천 동굴 하나가 캐나다 최초의 국립공원이 된 산속 계곡",
+    "en": "The mountain valley where a hot-spring cave became Canada's very first national park",
+    "ja": "温泉の洞窟ひとつが、カナダ最初の国立公園になった山あいの谷",
+    "zh": "一个温泉洞穴，让这里成了加拿大第一座国家公园的山谷"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 거대한 얼음 강 '빙하'가 로키산맥을 깎아내며 흘러가면서 뾰족한 봉우리와 새파란 호수를 만들었어요. 수천 년 동안 스토니 나코다 등 원주민들이 이 계곡을 오가며 사냥하고 살아왔죠. 그러다 1883년, 철도를 놓으려고 산을 뚫던 인부들이 이상한 것을 발견했어요. 바위틈에서 김이 모락모락 나는 작은 구멍이었죠.",
+      "인부들이 삐걱거리는 사다리를 타고 내려가 보니, 놀랍게도 땅속에서 따뜻한 물이 보글보글 솟아나는 숨겨진 동굴이 있었어요! 소문이 금세 퍼지자 몇몇 사람들이 서로 이 멋진 곳의 주인이 되겠다고 다투기 시작했죠. 그러자 정부가 나서서 아주 멋진 결정을 내렸어요. 이 온천과 주변 산을 모든 사람의 것으로 만들기로 한 거예요. 그렇게 1885년, 캐나다 최초의 국립공원이 탄생했답니다.",
+      "하지만 밴프에는 또 다른 마법이 숨어 있었어요. 계곡을 따라 조금 올라가면 너무 맑고 파래서 가짜처럼 보이는 호수 두 개가 있었죠. 바로 '레이크 루이스'와 '모레인 레이크'예요. 이 신비한 색은 빙하가 바위를 가루로 갈아 만든 '암석 가루'가 물속에 떠다니며 햇빛을 반짝반짝 튕겨내기 때문이랍니다. 처음 이 호수를 본 사람들은 다들 눈이 휘둥그레졌대요.",
+      "오늘날 밴프는 작고 북적이는 마을이지만, 여전히 야생이 살아 숨 쉬는 곳이에요. 커다란 뿔을 가진 엘크가 마을 중심 거리를 어슬렁어슬렁 걷기도 하고, 밤이 되면 초록빛 오로라가 하늘을 물들이기도 하죠. 설퍼산 곤돌라 꼭대기나 웅장한 돌 호텔 밴프 스프링스 옆에 서면, 오래전 빙하와 탐험가, 온천을 발견한 인부들을 맞아준 그 봉우리들을 그대로 볼 수 있답니다."
+    ],
+    "en": [
+      "Long, long ago, giant rivers of ice called glaciers carved through the Rocky Mountains, shaping jagged peaks and brilliant blue lakes. For thousands of years, Stoney Nakoda and other Indigenous peoples traveled and hunted through these valleys, calling the land home. Then in 1883, railway workers blasting a path through the mountains stumbled on something strange — a small hole in the rock, puffing out warm steam.",
+      "The workers climbed down a wobbly ladder and found a hidden cave with warm water bubbling straight out of the earth! Word spread fast, and soon a few people were arguing over who should own this amazing spot. So the government made a wonderful decision instead: the hot spring and the mountains around it would belong to everyone. In 1885, Canada's very first national park was born.",
+      "But Banff had more magic tucked away nearby. A little way up the valley sat two lakes so clear and blue-green they looked almost unreal — Lake Louise and Moraine Lake. Their dazzling color comes from 'rock flour,' powder ground from stone by glaciers, floating in the water and bouncing back the sunlight. Anyone who saw them for the first time could hardly believe their eyes.",
+      "Today Banff is still a small, busy town with wild magic all around it. Elk with huge antlers sometimes stroll right down Main Street, and at night the sky can shimmer green with the northern lights. From the top of the Sulphur Mountain gondola, or beside the grand, castle-like Banff Springs Hotel, you can look out over the very same peaks that greeted glaciers, explorers, and hot-spring hunters long ago."
+    ],
+    "ja": [
+      "はるか昔、『氷河』と呼ばれる巨大な氷の川がロッキー山脈をけずり、とがった山々と真っ青な湖を作り出しました。何千年ものあいだ、ストーニー・ナコダなど先住民の人々がこの谷を行き来し、暮らしてきました。そして1883年、鉄道を通すために山を切り開いていた作業員たちが、不思議なものを見つけました。岩のすき間から湯気がゆらゆらと立ちのぼる小さな穴でした。",
+      "作業員たちがぐらぐらするはしごで下りてみると、地面から温かい水がぷくぷくとわき出る、隠れた洞くつがあったのです！うわさはすぐに広まり、何人かが「この素晴らしい場所は自分のものだ」と言い争い始めました。そこで政府は、とてもすてきな決断をしました。この温泉と周りの山々を、みんなのものにすることにしたのです。こうして1885年、カナダ最初の国立公園が生まれました。",
+      "でも、バンフにはまだ別の魔法が隠れていました。谷を少しのぼると、まるで作り物のように澄んだ青緑色の湖が二つありました。『レイク・ルイーズ』と『モレーン湖』です。この不思議な色は、氷河が岩をすりつぶしてできた『ロックフラワー（岩の粉）』が水の中にただよい、太陽の光をきらきらとはね返すからなんです。初めて見た人はみんな目を丸くしたそうです。",
+      "今もバンフは小さくにぎやかな町でありながら、まわりには野生の魔法があふれています。大きな角を持つエルクがメインストリートをのんびり歩くこともあり、夜には空が緑色のオーロラで染まることも。サルファー山のゴンドラの上や、お城のようなバンフ・スプリングス・ホテルのそばに立てば、遠い昔に氷河や探検家、温泉を見つけた作業員たちを迎えたのと同じ山々を見わたせます。"
+    ],
+    "zh": [
+      "很久很久以前，被称为“冰川”的巨大冰河缓缓流过落基山脉，雕刻出尖峭的山峰和碧蓝的湖泊。几千年来，斯托尼纳科达人等原住民一直在这片山谷中往来、狩猎，把这里当作家园。到了1883年，正在开山修铁路的工人们发现了一件奇怪的事——岩石缝里冒出一个小洞，还冒着热腾腾的水汽。",
+      "工人们顺着摇摇晃晃的梯子爬下去，竟发现一个隐藏的山洞，里面正咕嘟咕嘟地涌出温热的水！消息很快传开，几个人开始争论这块宝地该归谁所有。于是政府做出了一个了不起的决定：这处温泉和周围的群山，属于每一个人。就这样，1885年，加拿大第一座国家公园诞生了。",
+      "但班夫附近还藏着另一份魔法。沿着山谷往上走一点，有两片清澈得几乎不像真的蓝绿色湖泊——路易斯湖和梦莲湖。它们那令人惊叹的颜色，来自冰川磨出的“岩粉”，这些细粉悬浮在水中，把阳光反射得闪闪发光。第一次见到它们的人，几乎都不敢相信自己的眼睛。",
+      "如今的班夫依然是一个热闹的小镇，四周环绕着野性的魔法。长着巨大鹿角的马鹿有时会悠闲地走过镇上的大街，夜晚天空还会被绿色的极光染亮。站在硫磺山缆车顶端，或是那座宛如城堡的班夫温泉城堡酒店旁，你能看到和很久以前迎接冰川、探险家与温泉发现者的，同一片山峰。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "밴프는 1885년 캐나다 최초의 국립공원이 됐어요. 철도 인부 세 명이 온천 동굴을 발견한 덕분에, 세계에서도 가장 먼저 생긴 국립공원 중 하나가 됐답니다.",
+      "레이크 루이스와 모레인 레이크의 청록색 물빛은 빙하가 바위를 곱게 갈아 만든 '암석 가루'가 물속에 떠다니기 때문이에요.",
+      "모레인 레이크와 그 앞에 늘어선 '텐 픽스(열 개의 봉우리)'는 한때 캐나다 20달러 지폐 뒷면에 그려질 만큼 유명했어요.",
+      "밴프는 몇몇 나라보다도 넓은 국립공원 안에 자리하고 있어서, 지금도 마을 근처에서 엘크나 큰뿔양, 가끔 흑곰까지 볼 수 있답니다.",
+      "밴프 스프링스 호텔이 성처럼 생긴 이유는, 철도 회사가 여행객을 왕족처럼 대접하고 싶어했기 때문이에요. '풍경을 수출할 수 없다면, 관광객을 수입하겠다'는 말도 있었대요.",
+      "맑은 겨울밤이면 초록빛과 분홍빛 오로라가 밴프의 산 위에서 춤추듯 나타나기도 해요."
+    ],
+    "en": [
+      "Banff became Canada's first national park in 1885 — after just three railway workers found a hot-spring cave, it became one of the very first national parks in the whole world.",
+      "The turquoise color of Lake Louise and Moraine Lake comes from 'rock flour,' superfine rock powder ground up by glaciers that floats in the water.",
+      "Moraine Lake and its row of 'Ten Peaks' were once so famous they appeared on the back of Canada's $20 bill.",
+      "Banff sits inside a national park bigger than some entire countries, so it's still common to spot elk, bighorn sheep, or even a black bear near town.",
+      "The Banff Springs Hotel looks like a castle because its builders wanted travelers to feel like royalty — one even said, 'If we can't export the scenery, we'll import the tourists.'",
+      "On clear winter nights, the aurora borealis sometimes dances green and pink above Banff's mountains."
+    ],
+    "ja": [
+      "バンフは1885年、カナダ最初の国立公園になりました。鉄道作業員たった3人が温泉の洞くつを見つけたことがきっかけで、世界でも最初期の国立公園の一つになったのです。",
+      "レイク・ルイーズとモレーン湖のあの青緑色は、氷河が岩をすりつぶして作った『ロックフラワー（岩の粉）』が水の中にただよっているからなんです。",
+      "モレーン湖とその前に並ぶ『テン・ピークス（十の峰）』は、かつてカナダの20ドル紙幣のうらに描かれるほど有名でした。",
+      "バンフは、いくつかの国よりも広い国立公園の中にあるので、今でも町の近くでエルクやビッグホーンシープ、時には黒くまを見かけることがあります。",
+      "バンフ・スプリングス・ホテルがお城のような姿をしているのは、鉄道会社が旅行者に王族のような気分を味わってほしかったから。「景色を輸出できないなら、観光客を輸入しよう」という言葉も残っています。",
+      "晴れた冬の夜には、緑や桃色に光るオーロラがバンフの山々の上で踊るように現れることもあります。"
+    ],
+    "zh": [
+      "班夫在1885年成为加拿大第一座国家公园——仅仅因为三名铁路工人发现了一个温泉洞穴，它就成了全世界最早的国家公园之一。",
+      "路易斯湖和梦莲湖那种绿松石般的颜色，来自冰川磨出的“岩粉”——极细的石粉悬浮在水中所致。",
+      "梦莲湖和它前方排列的“十峰”曾经非常有名，一度被印在加拿大20元纸币的背面。",
+      "班夫坐落在一座比某些国家还大的国家公园里，所以至今在镇子附近仍常能见到马鹿、大角羊，甚至偶尔遇到黑熊。",
+      "班夫温泉城堡酒店之所以造得像城堡，是因为铁路公司希望旅客感觉自己像贵族一样——甚至还有人说：“如果我们不能出口风景，那就进口游客。”",
+      "在晴朗的冬夜，绿色和粉色的极光有时会在班夫的山峰上翩翩起舞。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "철도를 놓던 인부들이 바위틈에서 뜨끈뜨끈한 물이 나오는 구멍을 발견했대. 그게 나라 전체를 위한 공원이 됐다니, 믿어져?",
+    "en": "Railway workers found a little hole in the rocks with warm water bubbling out of it — and it turned into a park for a whole country. Can you believe that?",
+    "ja": "鉄道の作業員たちが、岩のすき間から温かい水が出てくる小さな穴を見つけたんだって。それが国全体のための公園になったなんて、信じられる？",
+    "zh": "修铁路的工人在岩缝里发现了一个冒着热水的小洞，后来它竟然变成了整个国家的公园。你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "레이크 루이스", "en": "Lake Louise", "ja": "レイク・ルイーズ", "zh": "路易斯湖" },
+      "blurb": {
+        "ko": "빙하 녹은 물이 만든 새파란 호수예요. 뒤로는 하얀 빙하가 반짝이고, 호수 색깔은 물속에 떠다니는 고운 암석 가루 때문이랍니다. 카누를 타고 노를 저으면 마치 그림 속에 들어간 기분이 들어요.",
+        "en": "A brilliant blue lake fed by melting glacier water, with a shining white glacier behind it. Its color comes from tiny rock powder floating in the water. Paddle a canoe across it and it feels like floating inside a painting.",
+        "ja": "氷河がとけた水でできた真っ青な湖。背後には白く輝く氷河が見えます。あの色は水の中にただよう細かい岩の粉のおかげ。カヌーで水面をこいでいると、まるで絵の中に浮かんでいるような気分になります。",
+        "zh": "由冰川融水汇成的碧蓝湖泊，湖后闪耀着洁白的冰川。那迷人的颜色，来自悬浮在水中的细小岩粉。划着独木舟滑过水面，感觉就像漂浮在一幅画里。"
+      },
+      "coords": [51.4254, -116.1773]
+    },
+    {
+      "name": { "ko": "모레인 레이크", "en": "Moraine Lake", "ja": "モレーン湖", "zh": "梦莲湖" },
+      "blurb": {
+        "ko": "열 개의 뾰족한 봉우리가 병풍처럼 둘러싼 호수예요. 한때 캐나다 20달러 지폐에 그려질 정도로 아름다워서 '캐나다에서 가장 예쁜 사진'이라는 별명도 있대요.",
+        "en": "A lake ringed by ten jagged peaks like a stone curtain. It was once so beautiful it appeared on Canada's $20 bill, earning it the nickname 'the most photographed spot in Canada.'",
+        "ja": "十のとがった峰が屏風のように取り囲む湖です。かつてカナダの20ドル紙幣に描かれるほど美しく、『カナダで一番写真に撮られる場所』というニックネームもあります。",
+        "zh": "十座尖峭的山峰像屏风一样环绕着这片湖水。它曾经美得被印在加拿大20元纸币上，还因此得到了“加拿大被拍照最多的地方”这个绰号。"
+      },
+      "coords": [51.3217, -116.1860]
+    },
+    {
+      "name": { "ko": "케이브 앤 베이슨 국립사적지", "en": "Cave and Basin National Historic Site", "ja": "ケイブ・アンド・ベイスン国定史跡", "zh": "洞穴与盆地国家历史遗址" },
+      "blurb": {
+        "ko": "1883년 철도 인부들이 처음 온천 동굴을 발견한 바로 그 장소예요. 이곳에서 시작된 이야기 덕분에 밴프가 캐나다 최초의 국립공원이 되었답니다.",
+        "en": "The very cave where railway workers first discovered the hot spring in 1883. The story that began here is the reason Banff became Canada's first national park.",
+        "ja": "1883年、鉄道作業員たちが初めて温泉を見つけた、まさにその洞くつです。ここで始まった物語のおかげで、バンフはカナダ最初の国立公園になりました。",
+        "zh": "这正是1883年铁路工人第一次发现温泉的那个洞穴。从这里开始的故事，正是班夫成为加拿大第一座国家公园的原因。"
+      },
+      "coords": [51.1728, -115.5919]
+    },
+    {
+      "name": { "ko": "밴프 스프링스 호텔", "en": "Banff Springs Hotel", "ja": "バンフ・スプリングス・ホテル", "zh": "班夫温泉城堡酒店" },
+      "blurb": {
+        "ko": "성처럼 생긴 커다란 돌 호텔이에요. 100년도 더 전에 철도 회사가 여행객을 끌어모으려고 지었는데, 지금도 숲과 산에 둘러싸인 채 우뚝 서 있어요.",
+        "en": "A giant stone hotel that looks just like a castle. Built more than 100 years ago by the railway company to draw in travelers, it still stands tall, surrounded by forest and mountains.",
+        "ja": "お城そっくりの巨大な石造りホテル。100年以上前に鉄道会社が旅行者を呼びこむために建てましたが、今も森と山々に囲まれて堂々と立っています。",
+        "zh": "一座宛如城堡的巨大石造酒店。一百多年前由铁路公司建造，为的是吸引旅客，如今它依然巍然屹立，被森林与群山环绕。"
+      },
+      "coords": [51.1636, -115.5697]
+    }
+  ]
+}

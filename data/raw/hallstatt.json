@@ -1,0 +1,120 @@
+{
+  "id": "hallstatt",
+  "country": "at",
+  "coords": [47.5622, 13.6493],
+  "name": { "ko": "할슈타트", "en": "Hallstatt", "ja": "ハルシュタット", "zh": "哈尔施塔特" },
+  "tagline": {
+    "ko": "산과 호수 사이에 낀 소금 마을, 이름을 딴 문화가 유럽 역사책에 실렸어요",
+    "en": "A salt village squeezed between mountain and lake — famous enough to name a whole era of history",
+    "ja": "山と湖にはさまれた塩の村、その名は歴史の一時代の名前にもなった",
+    "zh": "夹在群山与湖泊之间的盐村,连一整段欧洲历史都以它命名"
+  },
+  "story": {
+    "ko": [
+      "오스트리아 알프스산맥 깊숙한 곳에, 가파른 산과 초록빛 호수 사이에 겨우 끼어 있는 아주 작은 마을이 있어요. 바로 할슈타트예요. 파스텔색 집들이 동화책 그림처럼 옹기종기 쌓여 있고, 호수 위로는 백조가 미끄러지듯 헤엄치고, 마을 뒤로는 산이 우뚝 솟아 있답니다.",
+      "할슈타트가 특별한 진짜 이유는 산속에 숨어 있어요. 바로 '소금'이에요. 사람들은 무려 7000년 넘게 이 산에서 소금을 캐 왔는데, 옛날 이 지역 말로 '할(hall)'이 소금을 뜻할 정도였대요. 그래서 이곳은 세계에서 가장 오래된 소금 광산 중 하나가 되었죠. 옛날에는 소금이 너무 귀해서 '하얀 금'이라고 불렸고, 덕분에 할슈타트는 부유하고 유명한 마을이 되었어요.",
+      "오래전 물건들 — 도구, 장신구, 심지어 수천 년 된 나무 계단까지 — 이 마을 땅속에서 잔뜩 발견됐어요. 그래서 학자들은 유럽 역사의 한 시대 전체에 '할슈타트 문화'라는 이름을 붙였답니다. 세계 곳곳의 학생들이 역사 시간에 '할슈타트'를 배우는 거예요. 이 작은 마을 이름인 줄도 모른 채 말이죠!",
+      "오늘날 할슈타트는 너무나 사랑받아서, 저 멀리 중국에 마을을 통째로 똑같이 본떠 만든 곳까지 생겼어요. 방문객들은 소금 산속에서 오래된 나무 미끄럼틀을 타고 내려오고, 알록달록 그림이 그려진 해골이 가득한 작은 예배당도 들여다보고, 절벽에 매달린 유리 전망대에도 올라가 봐요. 한나절이면 다 둘러볼 만큼 작은 마을이지만, 그 이야기는 수천 년을 거슬러 올라간답니다."
+    ],
+    "en": [
+      "Imagine a village so tiny it barely fits between a steep mountain and a deep green lake. That's Hallstatt, tucked into the Austrian Alps, where pastel houses stack on top of each other like a fairytale picture, swans glide across the water, and mountains rise straight up behind the rooftops.",
+      "Hallstatt is so special because of something hidden inside the mountain: salt. For more than 7,000 years, people have dug salt out of these hills — so long that the old local word 'hall' itself meant 'salt.' That's how this became one of the oldest salt mines on Earth. Long ago, salt was so precious it was called 'white gold,' and it made Hallstatt rich and famous.",
+      "Because so many ancient things were found buried here — tools, jewelry, even a wooden staircase thousands of years old — scientists named an entire chunk of European history after this village: the 'Hallstatt culture.' That means kids all over the world learn about 'Hallstatt' in history class, even if they've never heard of the tiny village itself!",
+      "Today Hallstatt is so loved that a full-size copy of the whole village was built far away in China. Visitors ride old wooden slides down inside the salt mountain, peek into a chapel filled with painted skulls, and step out onto a glass platform hanging over the cliff. It's a village small enough to explore in an afternoon — but its story stretches back thousands of years."
+    ],
+    "ja": [
+      "オーストリアのアルプスの奥深く、切り立った山と深い緑色の湖の間に、ぎゅっとおさまる小さな村があります。それがハルシュタット。パステルカラーの家々がおとぎ話の絵のように寄り添って積み重なり、湖にはハクチョウがすいすいと泳ぎ、村の後ろには山がまっすぐそびえています。",
+      "ハルシュタットが特別な本当の理由は、山の中にかくれています。それは『塩』です。人々は7000年以上もこの山から塩を掘り出してきました。昔のこの地方の言葉では『ハル（hall）』が塩を意味していたほど。そのおかげで、ここは世界最古級の岩塩鉱山になったのです。昔、塩はとても貴重で『白い金』と呼ばれ、そのおかげでハルシュタットは豊かで有名な村になりました。",
+      "道具や装飾品、なんと数千年前の木の階段まで、たくさんの古い物がこの村の地下から見つかりました。そのため学者たちは、ヨーロッパの歴史のひとつの時代まるごとに『ハルシュタット文化』という名前をつけたのです。世界中の子どもたちが歴史の授業で『ハルシュタット』を学びます。この小さな村の名前だとは知らずに！",
+      "今日のハルシュタットはあまりに愛されすぎて、はるか遠く中国に村をまるごとそっくり真似た場所までできました。訪れる人は塩の山の中で古い木のすべり台に乗ってすべり降り、色とりどりに絵が描かれたどくろでいっぱいの小さな礼拝堂をのぞき、崖にせり出したガラスの展望台にも立ちます。半日あれば見て回れるほど小さな村ですが、その物語は数千年もさかのぼるのです。"
+    ],
+    "zh": [
+      "在奥地利阿尔卑斯山深处，有一座小小的村庄，紧紧夹在陡峭的山峰和碧绿的湖水之间——那就是哈尔施塔特。粉彩色的房子像童话插画一样层层叠叠地挤在一起，天鹅在湖面上悠然滑过，村庄背后的高山几乎是笔直地耸立着。",
+      "哈尔施塔特真正特别之处，藏在大山里面——那就是“盐”。人们在这里挖盐已经超过七千年，当地古老语言中“哈尔（hall）”这个词本身就是“盐”的意思。也正因如此，这里成了世界上最古老的盐矿之一。很久以前，盐十分珍贵，被称为“白色的金子”，也让哈尔施塔特因此变得富裕又出名。",
+      "工具、饰品，甚至一段几千年前的木楼梯，都是从这座村庄的地下被发现的。因此学者们用“哈尔施塔特文化”，为欧洲历史上的一整个时代命名。于是世界各地的孩子们都会在历史课上学到“哈尔施塔特”这个名字——却常常不知道那其实是一座小村庄的名字！",
+      "如今的哈尔施塔特实在太受欢迎，以至于远在中国，还建了一座一模一样的复制村庄。来这里的游客可以在盐山里坐古老的木头滑梯滑下去，探访一座摆满彩绘头骨的小教堂，还能走上悬在悬崖边的玻璃观景台。这座村庄小到半天就能逛完，它的故事却能追溯到几千年前。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "이 지역 옛말로 '할(hall)'은 소금을 뜻했어요. 사람들은 이 산에서 무려 7000년 넘게 소금을 캐 왔는데, 그래서 세계에서 가장 오래된 소금 광산 중 하나가 됐답니다.",
+      "이곳에서 옛날 물건이 어찌나 많이 발견됐는지, 기원전 800~450년 무렵 유럽 역사의 한 시대 전체가 이 작은 마을 이름을 따 '할슈타트 문화'라고 불려요.",
+      "소금 광산 안에는 수천 년 된 나무 계단이 있었는데, 세계에서 가장 오래된 나무 구조물 중 하나래요. 요즘 광부(와 관광객!)들은 걸어 다니는 대신 기다란 나무 미끄럼틀을 타고 산속을 내려가요.",
+      "할슈타트를 얼마나 좋아했는지, 2012년 중국 광둥성에는 집, 교회 종탑까지 똑같이 본뜬 실물 크기 복제 마을이 통째로 세워졌어요.",
+      "'바인하우스(뼈의 집)'라는 작은 예배당 안에는 꽃과 이름이 알록달록 그려진 사람 두개골이 줄줄이 놓여 있어요. 마을 묘지가 너무 좁아서 그렇게 됐다고 해요.",
+      "할슈타트와 주변 호수, 산은 유네스코 세계유산이에요. 1890년대에 도로가 처음 생기기 전까지는, 호수를 건너는 배가 마을을 드나드는 유일한 방법이었대요."
+    ],
+    "en": [
+      "The word 'hall' in this region's old language meant 'salt' — and people have mined salt from these mountains for over 7,000 years, making it one of the oldest salt mines on Earth.",
+      "So many ancient objects were found here that an entire era of European history, around 800-450 BC, is now called the 'Hallstatt culture,' named after this tiny village.",
+      "The salt mine once held a wooden staircase thousands of years old — among the oldest wooden structures ever found. Today's miners (and visitors!) zoom down into the mountain on long wooden slides instead of walking.",
+      "People loved Hallstatt so much that in 2012 a full-size copy of the entire village — houses, church tower and all — was built in Guangdong, China.",
+      "Inside a tiny chapel called the Beinhaus (bone house), rows of human skulls are painted with flowers and names, because the village graveyard was too small to hold everyone forever.",
+      "Hallstatt and the lake and mountains around it are a UNESCO World Heritage Site — and until a road was finally built in the 1890s, the only way in or out was by boat across the lake."
+    ],
+    "ja": [
+      "この地方の昔の言葉で『ハル（hall）』は塩を意味していました。人々はこの山で7000年以上も塩を掘り続け、そのおかげで世界最古級の岩塩鉱山になったのです。",
+      "ここであまりにたくさんの古い物が見つかったので、紀元前800〜450年ごろのヨーロッパの歴史の一時代まるごとが、この小さな村の名前をとって『ハルシュタット文化』と呼ばれています。",
+      "塩鉱山の中には数千年前の木の階段があり、世界最古級の木造構造物のひとつだそうです。今の坑夫たち（と観光客！）は歩く代わりに、長い木のすべり台に乗って山の中を下ります。",
+      "ハルシュタットがあまりに愛されたので、2012年には中国の広東省に、家も教会の塔もそっくりな実物大の複製村までまるごと造られました。",
+      "『バインハウス（骨の家）』という小さな礼拝堂には、花や名前が色あざやかに描かれた人の頭がい骨がずらりと並んでいます。村の墓地がせまかったためだそうです。",
+      "ハルシュタットと周りの湖・山はユネスコ世界遺産です。1890年代に道路がやっとできるまでは、湖を渡る船だけが村への行き来の方法でした。"
+    ],
+    "zh": [
+      "当地古老语言中，“哈尔（hall）”一词的意思就是“盐”。人们在这座山里挖盐已超过七千年，这里也因此成为世界上最古老的盐矿之一。",
+      "这里出土的古代文物实在太多了，以至于公元前800到450年左右的一整段欧洲历史时期，都以这座小村庄的名字被称为“哈尔施塔特文化”。",
+      "盐矿里曾有一段几千年前的木楼梯，是世界上现存最古老的木结构之一。如今矿工（还有游客！）不用走路，而是坐着长长的木滑梯滑下山去。",
+      "人们太喜欢哈尔施塔特了，2012年竟在中国广东建起了一座一模一样的实物大小复制村庄，连房子和教堂钟楼都照搬了。",
+      "在一座叫“骨头房（Beinhaus）”的小教堂里，摆着一排排画满鲜花和名字的人类头骨，因为村里的墓地太小，容不下所有人。",
+      "哈尔施塔特和周围的湖泊、群山是联合国教科文组织世界遗产。直到19世纪90年代才修通公路之前，坐船渡湖是进出村庄唯一的方式。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "이 작은 마을을 그대로 본떠 만든 곳이 저 멀리 중국에도 있대. 왜 그랬을까?",
+    "en": "There's an exact copy of this tiny village all the way in China — can you guess why?",
+    "ja": "この小さな村とそっくり同じ村が、遠い中国にもあるんだって。どうしてだと思う？",
+    "zh": "在遥远的中国，居然有一座和这个小村庄一模一样的复制村——你能猜到为什么吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "할슈타트 소금광산 (잘츠벨텐)", "en": "Hallstatt Salt Mine", "ja": "ハルシュタット岩塩鉱山（ザルツヴェルテン）", "zh": "哈尔施塔特盐矿（盐世界）" },
+      "blurb": {
+        "ko": "산 위로 케이블카를 타고 올라간 다음, 소금 산속 깊은 곳으로 길다란 나무 미끄럼틀 두 개를 타고 내려가요. 안에는 수천 년 전 광부들이 쓰던 오래된 나무 계단도 그대로 남아 있답니다.",
+        "en": "Ride a funicular up the mountain, then zoom down two long wooden slides deep inside the salt mountain. Inside, you can still see the ancient wooden staircase that miners used thousands of years ago.",
+        "ja": "ケーブルカーで山の上まで登ったら、塩の山の奥深くへ、長い木のすべり台を二つ滑り降ります。中には数千年前に坑夫が使っていた古い木の階段も今も残っています。",
+        "zh": "先乘缆车登上山顶，再从两条长长的木滑梯滑入盐山深处。矿洞里至今还保留着几千年前矿工使用过的古老木楼梯。"
+      },
+      "coords": [47.5519, 13.6416]
+    },
+    {
+      "name": { "ko": "월드헤리티지 스카이워크", "en": "World Heritage Skywalk", "ja": "ワールドヘリテージ・スカイウォーク", "zh": "世界遗产观景台（Skywalk）" },
+      "blurb": {
+        "ko": "절벽 끝에 유리 난간이 달린 전망대가 튀어나와 있어요. 마을 지붕과 호수 위로 훌쩍 높이 서서 내려다보면, 엽서 속 그림 같은 마을 전체가 발밑에 펼쳐진답니다.",
+        "en": "A glass-railed platform juts out from the cliff, high above the rooftops and the lake. Look down and you'll see the whole postcard-perfect village spread out beneath your feet.",
+        "ja": "崖の上からガラスの手すりがついた展望台がせり出しています。屋根や湖よりずっと高いところから見下ろすと、絵はがきのような村全体が足もとに広がります。",
+        "zh": "一座带玻璃护栏的观景台从悬崖边探出，高高俯瞰着屋顶与湖面。低头一看，整座如明信片般的村庄就铺展在你的脚下。"
+      },
+      "coords": [47.5513, 13.6425]
+    },
+    {
+      "name": { "ko": "바인하우스 (뼈의 집)", "en": "Beinhaus (Bone House)", "ja": "バインハウス（骨の家）", "zh": "骨头房（Beinhaus）" },
+      "blurb": {
+        "ko": "이 작은 예배당 안에는 꽃과 이름, 날짜가 알록달록 그려진 사람 두개골이 줄지어 있어요. 조금 무섭게 들리지만, 사실 공간이 부족해지자 마을 사람들이 조상님을 기억하려고 정성껏 만든 거랍니다.",
+        "en": "Inside this tiny chapel, rows of human skulls are painted with flowers, names, and dates. It sounds spooky, but villagers made it as a loving way to remember their ancestors when space ran out.",
+        "ja": "この小さな礼拝堂の中には、花や名前、日付が色あざやかに描かれた人の頭がい骨がずらりと並んでいます。少し不気味に聞こえますが、実は場所が足りなくなったとき、村人がご先祖さまを大切に想って作ったものなのです。",
+        "zh": "在这座小教堂里，一排排人类头骨上画满了鲜花、姓名和日期。听起来有点吓人，但其实是墓地空间不够时，村民们用来深情纪念祖先的方式。"
+      },
+      "coords": [47.5605, 13.6478]
+    },
+    {
+      "name": { "ko": "마르크트광장과 할슈타트 호수", "en": "Market Square & Lake Hallstatt", "ja": "マルクト広場とハルシュタット湖", "zh": "市集广场与哈尔施塔特湖" },
+      "blurb": {
+        "ko": "호숫가에 딱 붙어 있는 작은 광장을 파스텔색 집들이 둘러싸고 있어요. 백조들이 헤엄쳐 지나가고, 산은 호수에서 곧장 솟아오르죠. 왜 옛날 뱃사람들이 이곳을 알프스에서 가장 예쁜 호수라고 불렀는지 알 수 있는 장소예요.",
+        "en": "Pastel houses circle a tiny square right at the water's edge, where swans paddle by and mountains rise straight out of the lake. It's the perfect spot to imagine why sailors once called this the prettiest lake in the Alps.",
+        "ja": "水辺のすぐそばの小さな広場を、パステルカラーの家々が取り囲んでいます。ハクチョウが泳いでいき、山は湖からまっすぐそびえ立っています。昔の船乗りたちが、ここをアルプスで一番美しい湖と呼んだ理由がよくわかる場所です。",
+        "zh": "紧邻湖畔的小广场四周环绕着彩色房屋，天鹅悠然游过，群山从湖面直插而起。站在这里，你就能明白为什么从前的船夫称这里是阿尔卑斯山最美的湖。"
+      },
+      "coords": [47.5626, 13.6502]
+    }
+  ]
+}

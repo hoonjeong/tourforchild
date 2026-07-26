@@ -1,0 +1,120 @@
+{
+  "id": "cairo",
+  "country": "eg",
+  "coords": [30.0444, 31.2357],
+  "name": { "ko": "카이로", "en": "Cairo", "ja": "カイロ", "zh": "开罗" },
+  "tagline": {
+    "ko": "나일강이 선물한 피라미드와 파라오의 도시",
+    "en": "The city the Nile built, home of pyramids and pharaohs",
+    "ja": "ナイル川が育てた、ピラミッドとファラオの街",
+    "zh": "尼罗河孕育的金字塔与法老之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 이집트의 나일강 옆에 오늘날 '카이로'로 자라난 큰 도시가 있었어요. 나일강은 해마다 넘쳐흘러 까맣고 기름진 흙을 강가에 남겨 주었고, 사람들은 그 흙에 밀과 보리를 심었어요. 이집트 사람들은 나일강을 신이 주신 선물이라 믿었고, 이 강 덕분에 수천 년 동안 위대한 문명을 이어갈 수 있었답니다.",
+      "도시 바로 옆에는 '파라오'라는 왕들이 자신의 무덤으로 지은 거대한 돌 피라미드가 있어요. 기자의 대피라미드는 돌덩이를 무려 230만 개나 쌓아 올려 만들었는데, 무려 3800년 가까이 지구에서 가장 높은 건축물이었대요! 그 옆에는 사자의 몸에 사람의 얼굴을 한 커다란 '스핑크스'가 웅크리고 앉아, 수천 년째 피라미드를 지키고 있답니다.",
+      "이집트 사람들은 파라오가 죽으면 신이 된다고 믿었어요. 그래서 몸을 정성껏 감싸 미라로 만들고, 무덤 안에는 황금 보물과 '히에로글리프'라는 그림 문자를 가득 채웠죠. 이 그림 문자는 오랫동안 아무도 읽을 수 없었는데, 병사들이 우연히 발견한 '로제타석'이라는 돌에 같은 내용이 세 가지 문자로 새겨져 있어서, 약 200년 전 마침내 그 비밀이 풀렸답니다!",
+      "오늘날 카이로는 거의 2천만 명이 사는 활기찬 현대 도시예요. 파라오가 남긴 보물들은 이집트 박물관에 소중히 모셔져 있는데, 소년 왕 투탕카멘의 반짝이는 황금 가면도 볼 수 있어요. '칸 엘 칼릴리'라는 옛 시장에 가면, 600년 전과 똑같이 상인들의 외침과 향신료 냄새가 골목 가득 넘친답니다."
+    ],
+    "en": [
+      "Long, long ago, beside the Nile River in Egypt, there grew a great city that would one day become Cairo. Every year the Nile flooded and left rich black soil along its banks, and people planted wheat and barley in it. Egyptians believed the Nile was a gift from the gods, and thanks to this river, a magnificent civilization thrived here for thousands of years.",
+      "Just outside the city stand giant stone pyramids, built as tombs for kings called pharaohs. The Great Pyramid of Giza was stacked from about 2.3 million blocks of stone, and it stayed the tallest building on Earth for almost 3,800 years! Beside it crouches the Great Sphinx, a huge statue with a lion's body and a human face, guarding the pyramids for thousands of years.",
+      "Egyptians believed a pharaoh became a god after death, so they wrapped his body carefully into a mummy and filled his tomb with golden treasures and picture-writing called hieroglyphs. No one could read these pictures for a very long time—until soldiers found a stone slab called the Rosetta Stone, carved with the same message in three scripts, and about 200 years ago its secret was finally unlocked!",
+      "Today Cairo is a busy modern city of nearly 20 million people. The treasures the pharaohs left behind are kept safe in the Egyptian Museum, including the dazzling gold mask of the boy king Tutankhamun. Wander into the old market Khan el-Khalili, and you'll still hear merchants calling out and smell spices in the air, just like people have for 600 years."
+    ],
+    "ja": [
+      "はるか昔、エジプトのナイル川のほとりに、のちに『カイロ』へと育っていく大きな街がありました。ナイル川は毎年あふれて、真っ黒でこえた土を岸辺に残し、人々はそこに小麦や大麦を植えました。エジプトの人々はナイル川を神さまからの贈り物だと信じ、この川のおかげで何千年もの間、すばらしい文明が栄えたのです。",
+      "街のすぐ外には、『ファラオ』と呼ばれる王さまたちのお墓として建てられた、巨大な石のピラミッドが立っています。ギザの大ピラミッドは石のブロックをおよそ230万個も積み上げてつくられ、なんと3800年近くも地球で一番高い建物だったのです！そのそばには、ライオンの体に人の顔をした大きな『スフィンクス』がうずくまり、何千年もピラミッドを見守っています。",
+      "エジプトの人々は、ファラオが亡くなると神さまになると信じていました。だから体を大切に包んでミイラにし、お墓の中には黄金の宝物や『ヒエログリフ』という絵文字をたくさん納めました。この絵文字は長い間だれにも読めませんでしたが、兵士たちが偶然見つけた『ロゼッタ・ストーン』という石に、同じ内容が三つの文字で刻まれていたおかげで、約200年前についに秘密が解き明かされたのです！",
+      "今日のカイロは、およそ2000万人が暮らす活気ある現代都市です。ファラオたちが残した宝物はエジプト博物館に大切に収められていて、少年王ツタンカーメンのきらめく黄金のマスクも見ることができます。古い市場『ハン・ハリーリ』を歩けば、600年前と変わらず商人たちの元気な声や香辛料の香りが路地いっぱいに広がっています。"
+    ],
+    "zh": [
+      "很久很久以前，在埃及尼罗河边，有一座城市渐渐成长，后来变成了今天的开罗。尼罗河每年都会泛滥，在岸边留下肥沃的黑色泥土，人们就在这片土地上种小麦和大麦。埃及人相信尼罗河是神明的礼物，正是靠着这条河，一个伟大的文明才在这里延续了数千年。",
+      "在城市外面不远处，矗立着巨大的石头金字塔，那是古代国王“法老”为自己修建的陵墓。吉萨大金字塔用大约230万块石头堆砌而成，竟然在近3800年的时间里，一直是地球上最高的建筑！旁边蹲坐着一座狮身人面的巨大雕像——狮身人面像，它已经守护金字塔好几千年了。",
+      "埃及人相信，法老死后会变成神，所以他们小心翼翼地把法老的遗体包裹成木乃伊，还在陵墓里放满黄金珍宝和一种叫“象形文字”的图画文字。这些图画文字长久以来没有人能读懂，直到士兵们偶然发现了一块叫“罗塞塔石碑”的石头，上面用三种文字刻着同样的内容——大约200年前，这个秘密终于被解开了！",
+      "如今的开罗是一座热闹的现代化城市，居住着将近两千万人。法老们留下的宝藏被小心珍藏在埃及博物馆里，其中就有男孩国王图坦卡蒙那顶闪闪发光的黄金面具。走进古老的汗哈利利市场，你依然能听到商贩的吆喝声，闻到弥漫在小巷里的香料味，六百年来一直如此。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "기자의 대피라미드는 거의 3800년 동안 세계에서 가장 높은 건축물이었어요. 영국의 링컨 대성당이 지어지고 나서야 그 기록이 깨졌대요.",
+      "대피라미드는 무려 230만 개의 돌덩이로 쌓였는데, 어떤 돌은 코끼리만큼 무거웠대요.",
+      "스핑크스는 커다란 돌 하나를 통째로 깎아 만들었어요. 그래서 몸통과 얼굴이 하나로 이어져 있답니다.",
+      "이집트 사람들은 파라오뿐 아니라 고양이도 미라로 만들었어요! 고양이를 신성한 동물로 여겼거든요.",
+      "히에로글리프라는 그림 문자는 1400년 넘게 아무도 못 읽었는데, '로제타석' 덕분에 1822년에야 비밀이 풀렸어요.",
+      "옛날 나일강은 해마다 정확히 넘쳐흘러서, 이집트 사람들은 이 흐름을 보고 세계 최초의 365일짜리 달력 중 하나를 만들었대요."
+    ],
+    "en": [
+      "The Great Pyramid of Giza was the tallest building on Earth for almost 3,800 years, until England's Lincoln Cathedral was finally built taller.",
+      "The Great Pyramid is stacked from about 2.3 million stone blocks—some as heavy as an elephant!",
+      "The Great Sphinx was carved from one single giant block of limestone, so its body and face are all one piece of rock.",
+      "Egyptians didn't just mummify pharaohs—they mummified cats too! Cats were considered sacred animals.",
+      "Nobody could read hieroglyphs for over 1,400 years, until the Rosetta Stone helped crack the code in 1822.",
+      "The ancient Nile flooded so reliably each year that Egyptians used its pattern to create one of the world's first 365-day calendars."
+    ],
+    "ja": [
+      "ギザの大ピラミッドは、ほぼ3800年もの間、地球で一番高い建物でした。イギリスのリンカン大聖堂ができて、ようやくその記録がやぶられたそうです。",
+      "大ピラミッドはおよそ230万個もの石のブロックでできていて、中にはゾウくらい重い石もあったんですって。",
+      "スフィンクスは一つの大きな石灰岩を丸ごと削ってつくられたので、体と顔がひとつづきの岩なんです。",
+      "エジプトの人々はファラオだけでなく、ネコもミイラにしました！ネコは神聖な動物と考えられていたんです。",
+      "ヒエログリフという絵文字は1400年以上だれも読めませんでしたが、『ロゼッタ・ストーン』のおかげで1822年に解読されました。",
+      "昔のナイル川は毎年きまって同じころにあふれたので、エジプトの人々はそのリズムをもとに、世界最初期の365日カレンダーを作ったそうです。"
+    ],
+    "zh": [
+      "吉萨大金字塔曾是地球上最高的建筑，这个纪录保持了将近3800年，直到英国的林肯大教堂建成才被打破。",
+      "大金字塔由大约230万块石头堆砌而成，有些石头竟像大象一样重！",
+      "狮身人面像是用一整块巨大的石灰岩雕刻而成的，所以它的身体和脸其实是同一块石头。",
+      "埃及人不只把法老做成木乃伊，还会把猫做成木乃伊！因为猫在当时被视为神圣的动物。",
+      "象形文字有1400多年没人能读懂，直到1822年，人们靠“罗塞塔石碑”才终于破解了它的秘密。",
+      "古代尼罗河每年都会准时泛滥，埃及人根据这个规律，制定出了世界上最早的365天历法之一。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "크레인도 트럭도 없던 시절, 230만 개나 되는 돌덩이를 어떻게 저렇게 높이 쌓아 올렸을까?",
+    "en": "With no cranes or trucks, how did people stack 2.3 million stone blocks that high?",
+    "ja": "クレーンもトラックもなかった時代に、230万個もの石をあんなに高く積み上げるなんて、どうやったのかな？",
+    "zh": "没有起重机也没有卡车，古人到底是怎么把230万块石头堆得那么高的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "기자 대피라미드", "en": "Great Pyramid of Giza", "ja": "ギザの大ピラミッド", "zh": "吉萨大金字塔" },
+      "blurb": {
+        "ko": "이집트에서 가장 유명한 피라미드예요. 파라오 쿠푸의 무덤으로 지어졌고, 돌덩이 230만 개를 사람 손으로만 쌓아 올렸어요. 지금 봐도 입이 떡 벌어지는 크기랍니다.",
+        "en": "Egypt's most famous pyramid, built as a tomb for the pharaoh Khufu. About 2.3 million blocks of stone were stacked entirely by hand. Even today, its size is jaw-dropping.",
+        "ja": "エジプトでいちばん有名なピラミッド。ファラオ、クフ王のお墓として建てられました。230万個もの石をすべて人の手で積み上げたなんて、今見てもびっくりする大きさです。",
+        "zh": "埃及最著名的金字塔，是为法老胡夫修建的陵墓。大约230万块石头全靠人力堆砌而成，直到今天看起来依然大得让人张大嘴巴。"
+      },
+      "coords": [29.9792, 31.1342]
+    },
+    {
+      "name": { "ko": "기자 스핑크스", "en": "Great Sphinx of Giza", "ja": "ギザの大スフィンクス", "zh": "吉萨狮身人面像" },
+      "blurb": {
+        "ko": "사자 몸에 사람 얼굴을 한 거대한 돌 조각상이에요. 피라미드를 지키는 수호자처럼 4500년 가까이 한자리를 지키고 있어요.",
+        "en": "A giant statue with a lion's body and a human face. It has guarded the pyramids like a silent protector for nearly 4,500 years.",
+        "ja": "ライオンの体に人の顔を持つ巨大な石像。まるでピラミッドを守る番人のように、4500年近くもそこに座り続けています。",
+        "zh": "一座狮身人面的巨大石雕。它像守护者一样蹲坐在金字塔旁，已经默默守护了将近4500年。"
+      },
+      "coords": [29.9753, 31.1376]
+    },
+    {
+      "name": { "ko": "이집트 박물관", "en": "Egyptian Museum", "ja": "エジプト博物館", "zh": "埃及博物馆" },
+      "blurb": {
+        "ko": "파라오들의 보물이 가득한 박물관이에요. 소년 왕 투탕카멘의 황금 가면과 보물들을 두 눈으로 직접 볼 수 있답니다.",
+        "en": "A museum overflowing with pharaohs' treasures. Here you can see the golden mask and treasures of the boy king Tutankhamun with your very own eyes.",
+        "ja": "ファラオたちの宝物であふれる博物館。少年王ツタンカーメンの黄金のマスクや宝物を、自分の目でじっくり見ることができます。",
+        "zh": "一座装满法老珍宝的博物馆。你可以亲眼看到男孩国王图坦卡蒙的黄金面具和各种宝藏。"
+      },
+      "coords": [30.0478, 31.2336]
+    },
+    {
+      "name": { "ko": "칸 엘 칼릴리 시장", "en": "Khan el-Khalili Bazaar", "ja": "ハン・ハリーリ・バザール", "zh": "汗哈利利市场" },
+      "blurb": {
+        "ko": "600년 넘은 오래된 시장이에요. 좁은 골목마다 향신료, 램프, 스카프를 파는 가게가 가득해서 걷기만 해도 신기한 모험 같답니다.",
+        "en": "A bustling market over 600 years old. Its narrow lanes are packed with shops selling spices, lamps, and scarves—just walking through feels like an adventure.",
+        "ja": "600年以上の歴史を持つにぎやかな市場。せまい路地には香辛料やランプ、スカーフを売るお店がぎっしり並んでいて、歩くだけで冒険気分です。",
+        "zh": "一座有600多年历史的热闹市场。狭窄的小巷里挤满了卖香料、灯具和围巾的店铺，光是走一走就像在冒险。"
+      },
+      "coords": [30.0478, 31.2625]
+    }
+  ]
+}

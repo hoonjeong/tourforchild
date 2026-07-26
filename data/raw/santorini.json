@@ -1,0 +1,120 @@
+{
+  "id": "santorini",
+  "country": "gr",
+  "coords": [36.3932, 25.4615],
+  "name": { "ko": "산토리니", "en": "Santorini", "ja": "サントリーニ島", "zh": "圣托里尼" },
+  "tagline": {
+    "ko": "화산이 반으로 가른 섬, 어쩌면 아틀란티스의 시작",
+    "en": "The island a volcano split in two — and maybe inspired Atlantis",
+    "ja": "火山が真っ二つに割った島 ― もしかしたらアトランティスの始まり",
+    "zh": "被火山劈成两半的岛屿——也许就是亚特兰蒂斯的原型"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 에게해 한가운데에는 '스트롱길리'라는 동그란 섬이 있었어요. 섬 한가운데에는 커다란 화산이 잠들어 있었죠. 그 시절 사람들은 바닷가에 '아크로티리'라는 활기찬 마을을 이루고 살았어요. 집 벽에는 알록달록한 그림을 그리고, 배를 타고 먼 곳과 물건을 사고팔았답니다.",
+      "그런데 약 3600년 전, 땅이 흔들리기 시작하더니 화산이 크게 폭발했어요. 세계에서 손꼽힐 만큼 어마어마한 폭발이었죠. 다행히 땅이 미리 들썩여 준 덕분에, 사람들은 짐을 챙겨 서둘러 마을을 떠날 수 있었어요. 그래서 폼페이와 달리, 아크로티리에서는 사람 흔적이 하나도 발견되지 않았답니다.",
+      "폭발이 얼마나 컸던지, 섬 한가운데가 통째로 폭 꺼지면서 바닷물이 밀려들어와 커다란 웅덩이, '칼데라'를 만들었어요. 동그랗던 섬은 지금 우리가 아는 초승달 모양이 되었죠. 어떤 사람들은 이 이야기가 바닷속으로 가라앉았다는 전설의 섬 '아틀란티스' 이야기의 시작이라고 믿는답니다.",
+      "오늘날 산토리니에는 하얀 집과 파란 지붕이 절벽 위에 옹기종기 매달려 있어요. 저녁이 되면 사람들은 '이아' 마을에 모여 바다로 사라지는 해를 보며 손뼉을 친답니다. 바닷속 작은 섬 '네아 카메니'에서는 지금도 화산이 따뜻하게 숨쉬고 있어요. 산이 사라진 게 아니라, 잠시 잠들어 있을 뿐이거든요."
+    ],
+    "en": [
+      "Long, long ago, in the middle of the Aegean Sea there was one round island called Strongyli. A huge volcano slept quietly at its center. Back then, people lived in a lively seaside town called Akrotiri. They painted colorful pictures on their walls and sailed ships to trade goods with faraway lands.",
+      "Then, about 3,600 years ago, the ground began to shake, and the volcano erupted with tremendous force — one of the biggest eruptions the world has ever seen. Luckily, the earlier tremors had warned everyone, so people packed up and hurried away from the town in time. That's why, unlike Pompeii, not a single trace of a person was ever found at Akrotiri.",
+      "The eruption was so enormous that the whole center of the island collapsed and sank, and seawater rushed in to fill the giant hollow — a caldera. The once-round island became the crescent shape we know today. Some people believe this dramatic event is the true story behind the ancient legend of Atlantis, the island that sank beneath the waves.",
+      "Today, Santorini's white houses and blue-domed roofs cling together along the cliff's edge. Every evening, people gather in the village of Oia to watch the sun sink into the sea and clap when it disappears. On a small island in the middle of the sea, called Nea Kameni, the volcano still breathes warmly — proof that the mountain hasn't vanished, only fallen asleep for a while."
+    ],
+    "ja": [
+      "はるか昔、エーゲ海のまん中に『ストロンギリ』という丸い島がありました。島の真ん中には大きな火山が静かに眠っていました。その頃、人々は海辺に『アクロティリ』というにぎやかな町を作って暮らしていました。壁にはカラフルな絵を描き、船に乗って遠くの国と品物を売り買いしていたのです。",
+      "ところが約3600年前、大地がゆれ始め、火山が大きく噴火しました。世界でも指折りのすさまじい噴火でした。でも大地が前もってゆれてくれたおかげで、人々は荷物をまとめて急いで町をはなれることができました。だからポンペイとちがって、アクロティリからは人の姿がまったく見つからなかったのです。",
+      "噴火はあまりに大きく、島の真ん中がすっぽりとくぼみ、そこに海の水が流れこんで大きなくぼ地『カルデラ』ができました。丸かった島は、今のような三日月の形になったのです。この出来事が、海に沈んだという伝説の島『アトランティス』の話の始まりだと考える人もいます。",
+      "今のサントリーニ島には、白い家と青い屋根が崖の上にぎゅっと寄りそっています。夕方になると、人々は『イア』という村に集まり、海に沈む夕日を見て拍手を送ります。海の中の小さな島『ネア・カメニ』では、今も火山があたたかく息づいています。山は消えたのではなく、少し眠っているだけなのですね。"
+    ],
+    "zh": [
+      "很久很久以前，爱琴海中央有一座圆圆的岛屿，名叫“斯特朗吉利”。岛的正中央，一座大火山正静静沉睡着。那时候，人们在海边建起了一座热闹的小镇，叫“阿克罗蒂里”。他们在墙上画满了五颜六色的壁画，还乘船和远方的人做买卖。",
+      "大约3600年前，大地开始震动，火山突然猛烈爆发——这是世界历史上数一数二的大喷发。幸运的是，大地提前晃动报了信，人们赶紧收拾行装，匆匆离开了小镇。所以和庞贝不同，阿克罗蒂里没有发现一具遗体。",
+      "这次爆发实在太猛烈了，整座岛屿的中心整个塌陷下去，海水涌了进来，形成了一个巨大的凹坑——“火山口湾”。圆圆的岛屿从此变成了我们今天看到的新月形状。有人相信，这段故事正是沉入海底的传说之岛“亚特兰蒂斯”的原型。",
+      "如今的圣托里尼，白色的房子和蓝色的屋顶紧紧依偎在悬崖边上。每到傍晚，人们都会聚集在“伊亚”村，为沉入大海的夕阳鼓掌喝彩。海中央的小岛“新卡梅尼”里，火山至今仍在温暖地呼吸着。它并没有消失，只是暂时睡着了。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "산토리니는 원래 '스트롱길리'라는 동그란 섬 하나였는데, 약 3600년 전 화산이 가운데를 통째로 날려버렸어요. 인류 역사상 손꼽히는 큰 폭발이었대요.",
+      "날아간 섬 가운데에 바닷물이 밀려들어와, 지금 우리가 보는 커다란 웅덩이 '칼데라' 만이 생겼어요.",
+      "옛 마을 아크로티리는 폼페이처럼 화산재에 파묻혔지만, 사람 흔적은 하나도 발견되지 않았어요. 미리 흔들린 땅 덕분에 다들 안전하게 도망쳤거든요.",
+      "어떤 과학자들은 이 폭발이 바닷속으로 가라앉았다는 전설의 섬 '아틀란티스' 이야기의 뿌리라고 생각해요.",
+      "산토리니에는 검은색, 빨간색, 하얀색 해변이 다 있어요. 저마다 다른 화산암으로 만들어졌기 때문이랍니다.",
+      "이곳은 비가 거의 오지 않아서, 포도나무를 낮고 둥근 바구니 모양('쿨루라')으로 엮어 바람과 이슬을 지키며 키운답니다."
+    ],
+    "en": [
+      "Santorini used to be one round island called Strongyli, until a volcano blew its whole center away about 3,600 years ago — one of the biggest eruptions in human history.",
+      "The blasted-out center filled with seawater, forming the huge sunken bay we call a caldera today.",
+      "The ancient town of Akrotiri was buried in ash just like Pompeii, but not a single body was ever found — early earthquakes warned everyone to escape in time.",
+      "Some scientists think this eruption inspired the ancient legend of Atlantis, the island that vanished beneath the sea.",
+      "Santorini has beaches in different colors — black, red, and white — each formed from a different kind of volcanic rock.",
+      "It almost never rains here, so grapevines are woven into low, round basket shapes called 'kouloura' to shield the grapes from wind and trap the morning dew."
+    ],
+    "ja": [
+      "サントリーニ島はもともと『ストロンギリ』という丸い島でしたが、約3600年前、火山が真ん中をまるごと吹き飛ばしました。人類の歴史でも指折りの大噴火でした。",
+      "吹き飛んだ島の真ん中に海水が流れこみ、今わたしたちが見る大きなくぼ地『カルデラ』の湾ができました。",
+      "昔の町アクロティリはポンペイのように火山灰にうもれましたが、人の跡はまったく見つかりませんでした。前もって大地がゆれたおかげで、みんな無事に逃げられたのです。",
+      "この噴火が、海に沈んだという伝説の島『アトランティス』の話のもとになったと考える科学者もいます。",
+      "サントリーニには黒、赤、白のビーチがそろっています。それぞれちがう色の火山岩からできているからです。",
+      "ここはほとんど雨が降らないので、ブドウの木を低く丸いかご型（『クルーラ』）に編んで、風とつゆを守りながら育てています。"
+    ],
+    "zh": [
+      "圣托里尼原本是一座圆形的岛屿，名叫“斯特朗吉利”，大约3600年前，火山把岛的中心整个炸飞了——这是人类历史上数一数二的大喷发。",
+      "被炸开的岛屿中心涌入了海水，形成了我们今天看到的巨大凹陷海湾——“火山口湾”。",
+      "古镇阿克罗蒂里像庞贝一样被火山灰掩埋，却没有发现一具遗体。多亏地震提前发出了警告，大家都安全逃走了。",
+      "有些科学家认为，这次喷发正是沉入海底的传说之岛“亚特兰蒂斯”故事的原型。",
+      "圣托里尼拥有黑色、红色和白色的海滩，它们都是由不同颜色的火山岩形成的。",
+      "这里几乎从不下雨，所以葡萄藤被编成低矮的圆篮形状（叫“库鲁拉”），用来抵挡大风、留住露水。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "옛날에는 섬이 도넛처럼 동그랬는데, 화산이 가운데를 뻥 뚫어버렸대. 그 구멍에 무엇이 가득 찼을까?",
+    "en": "A whole island used to be round like a donut — then a volcano blew a giant bite out of the middle. Can you guess what filled the hole?",
+    "ja": "むかし島はドーナツみたいに丸かったのに、火山が真ん中を大きくえぐってしまったんだって。その穴には何がいっぱいになったと思う？",
+    "zh": "岛屿曾经像甜甜圈一样圆圆的，后来火山把中间炸出了一个大洞。你猜，那个洞后来被什么填满了？"
+  },
+  "places": [
+    {
+      "name": { "ko": "아크로티리 유적지", "en": "Akrotiri Archaeological Site", "ja": "アクロティリ遺跡", "zh": "阿克罗蒂里遗址" },
+      "blurb": {
+        "ko": "화산재에 파묻힌 이 미노아 마을은 '그리스의 폼페이'라고도 불리지만, 폼페이보다 훨씬 오래됐고 사람 흔적은 전혀 발견되지 않았어요. 재로 덮인 골목을 걸으면 3층짜리 집과 하수관, 3600년 전 그려진 알록달록한 벽화를 만날 수 있답니다.",
+        "en": "This buried Minoan town is often called the 'Greek Pompeii,' but it's even older and no bodies were ever found here. Walk its ash-covered streets and see three-story houses, drainage pipes, and colorful frescoes painted 3,600 years ago.",
+        "ja": "灰にうもれたこのミノア文明の町は『ギリシャのポンペイ』とも呼ばれますが、ポンペイよりずっと古く、人の跡は見つかっていません。灰に覆われた通りを歩けば、3階建ての家や排水管、3600年前に描かれたカラフルな壁画に出会えます。",
+        "zh": "这座被火山灰掩埋的米诺斯古镇常被称为“希腊的庞贝”，但它比庞贝古老得多，而且这里从未发现任何遗体。走在灰烬覆盖的街道上，你能看到三层楼的房屋、排水管，还有3600年前绘制的五彩壁画。"
+      },
+      "coords": [36.3506, 25.4045]
+    },
+    {
+      "name": { "ko": "이아 마을", "en": "Oia Village", "ja": "イア村", "zh": "伊亚村" },
+      "blurb": {
+        "ko": "절벽 위 마을 이아는 화산 분화구의 가장자리에 자리잡고 있어요. 저녁마다 사람들은 파란 지붕 교회 사이로 모여, 세계에서 가장 유명한 노을이 바다로 지는 모습을 지켜본답니다.",
+        "en": "This clifftop village sits right on the rim of the volcano's crater. Every evening, travelers gather among its blue-domed churches to watch one of the world's most famous sunsets sink into the sea.",
+        "ja": "崖の上の村イアは、まさに火山の噴火口のふちに位置しています。夕方になると、人々は青い屋根の教会のそばに集まり、世界でも有名な夕日が海に沈む景色を見守ります。",
+        "zh": "悬崖上的伊亚村正好坐落在火山口的边缘。每到傍晚，游客们都会聚集在蓝顶教堂之间，欣赏世界闻名的落日缓缓沉入大海。"
+      },
+      "coords": [36.4620, 25.3753]
+    },
+    {
+      "name": { "ko": "피라 (수도)", "en": "Fira Town", "ja": "フィラ（島の中心都市）", "zh": "菲拉城" },
+      "blurb": {
+        "ko": "산토리니의 중심 도시 피라는 바다에서 300미터나 높은 칼데라 절벽 끝에 매달리듯 자리잡고 있어요. 지그재그로 이어진 절벽 길은 케이블카나 다정한 당나귀를 타고 올라갈 수 있답니다.",
+        "en": "The island's capital clings to the caldera's edge, 300 meters above the sea. You can ride a cable car — or a friendly donkey — up the zigzag cliff path to reach it.",
+        "ja": "島の中心都市フィラは、海から300メートルも高いカルデラの崖ふちにしがみつくように広がっています。ジグザグの崖道は、ケーブルカーや人なつっこいロバに乗って登ることができます。",
+        "zh": "岛上的首府菲拉城紧贴在火山口悬崖边，高出海面300米。你可以乘缆车，或骑着友善的小毛驴，沿着之字形悬崖小路登上去。"
+      },
+      "coords": [36.4167, 25.4324]
+    },
+    {
+      "name": { "ko": "네아 카메니 화산섬", "en": "Nea Kameni Volcanic Islet", "ja": "ネア・カメニ火山島", "zh": "新卡梅尼火山岛" },
+      "blurb": {
+        "ko": "칼데라 한가운데 우뚝 솟은 작고 검은 섬, 바로 모든 것을 바꿔놓은 화산이에요. 연기 나는 분화구까지 걸어 올라갈 수 있고, 근처의 따뜻한 미네랄 온천에서 헤엄칠 수도 있답니다.",
+        "en": "A small dark island rising right in the middle of the caldera — the very volcano that changed everything. You can hike to its smoking crater and even swim in warm, mineral-rich waters nearby.",
+        "ja": "カルデラのど真ん中にそびえる小さな黒い島こそ、すべてを変えたあの火山です。煙を上げる火口までハイキングでき、近くの温かいミネラル豊富な海でも泳げます。",
+        "zh": "在火山口湾正中央耸立着一座黑色小岛，正是那座改变了一切的火山。你可以徒步走到冒烟的火山口，还能在附近温暖的矿物质海水中游泳。"
+      },
+      "coords": [36.4022, 25.3967]
+    }
+  ]
+}

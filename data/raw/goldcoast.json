@@ -1,0 +1,120 @@
+{
+  "id": "goldcoast",
+  "country": "au",
+  "coords": [-28.0167, 153.4000],
+  "name": { "ko": "골드코스트", "en": "Gold Coast", "ja": "ゴールドコースト", "zh": "黄金海岸" },
+  "tagline": {
+    "ko": "고대 화산이 만든 초록 산과 반짝이는 황금빛 파도가 만나는 곳",
+    "en": "Where an ancient volcano's green mountains meet golden, glittering waves",
+    "ja": "古代火山が生んだ緑の山と、きらめく黄金の波が出会う街",
+    "zh": "古老火山造就的青山，与闪耀金浪相遇的地方"
+  },
+  "story": {
+    "ko": [
+      "호주 동쪽 해안에는 햇살 아래 모래가 정말로 금빛으로 반짝이는 도시가 있어요. 그래서 사람들은 이곳을 '골드코스트(황금 해안)'라고 부르게 됐답니다. 약 70킬로미터나 이어지는 이 황금빛 해변은 서퍼들의 파도타기 함성으로 늘 시끌벅적해요. 사실 옛날에 땅을 팔던 사람들이 \"이 해안은 금값만큼 비싸다\"며 장난스럽게 부르던 별명이었는데, 1958년엔 아예 도시의 진짜 이름이 되어버렸어요!",
+      "하지만 골드코스트의 진짜 보물은 모래 밑이 아니라 해변 뒤편의 초록 산속에 숨어 있어요. 아주 먼 옛날, 그 산이 있던 자리에서 지구 역사상 손꼽힐 만큼 거대한 화산이 폭발했거든요. 수백만 년 동안 바람과 비가 화산을 깎아내면서 깊은 계곡과 시원한 폭포, 그리고 남극 대륙의 나무와 친척뻘 되는 아주 오래된 열대우림을 만들어냈답니다.",
+      "밤에 숨겨진 동굴 속으로 들어가면 파르스름한 작은 불빛들이 사방에서 반짝여요. 요정 조명이 아니라 진짜 '반딧불이 애벌레(글로우웜)'가 반짝이는 거랍니다! 바다로 눈을 돌리면, 겨울마다 커다란 혹등고래가 아기 고래와 나란히 헤엄치며 따뜻한 북쪽 바다를 향해 골드코스트 앞바다를 지나간답니다.",
+      "오늘날 골드코스트는 이런 자연의 신비에 신나는 재미까지 더한 곳이에요. 롤러코스터가 달리고, 캥거루와 앵무새가 뛰노는 동물원이 있고, 한때 세계에서 가장 높은 주거용 건물이었던 황금빛 타워 'Q1'도 우뚝 서 있죠. 해안 바로 앞바다에서는 서퍼들이 세계에서 손꼽히게 길고 매끄러운 파도를 탄답니다. 고대 화산과 반짝이는 동굴, 거대한 고래, 신나는 놀이기구가 모두 한 해안에서 만나는 곳, 그게 바로 골드코스트예요."
+    ],
+    "en": [
+      "On Australia's east coast there's a city where the sand really does look like gold under the sun — that's exactly why people call it the Gold Coast! Its beach stretches for about 70 kilometers, echoing all day with the cheers of surfers riding the waves. Long ago, real-estate sellers loved joking that this stretch of coast was 'worth its weight in gold,' and the nickname stuck so well that in 1958 it became the city's true, official name!",
+      "But the real treasure here isn't buried under the sand — it's hiding in the green mountains behind the beach. Millions of years ago, a colossal volcano erupted right where those hills now stand, one of the biggest volcanoes the Earth has ever known. Over millions of years, wind and rain wore the volcano down, carving deep valleys, tumbling waterfalls, and a rainforest so old it has trees related to ones from Antarctica.",
+      "Climb into a hidden cave here at night, and tiny blue-green lights glow all around you — but they're not fairy lights, they're glow-worms! Out on the ocean, giant humpback whales swim past every winter, often with a baby whale gliding close beside its mother, heading toward warmer waters up north.",
+      "Today the Gold Coast mixes all this natural wonder with pure fun: roller coasters racing by, wildlife parks full of kangaroos and lorikeets, and a golden tower called Q1 that once was the tallest place anyone could live in the whole world. Surfers ride some of the longest, smoothest waves on the planet just offshore. It's a place where an ancient volcano, glowing caves, giant whales, and thrill rides all share the very same golden coastline."
+    ],
+    "ja": [
+      "オーストラリアの東海岸に、太陽の光を浴びて砂が本当に金色に輝く街があります。だから人々はここを『ゴールドコースト(黄金海岸)』と呼ぶようになりました。約70キロも続くこの金色のビーチは、いつもサーファーたちの歓声でにぎやかです。実はこれ、昔の不動産業者が『この海岸は金と同じくらい価値がある』と冗談まじりに付けたあだ名で、1958年にはとうとう街の正式な名前になってしまったのです!",
+      "でもゴールドコーストの本当の宝物は、砂の下ではなく、ビーチの後ろにそびえる緑の山の中に隠れています。はるか昔、その山があった場所で、地球の歴史でも指折りの巨大な火山が噴火したのです。何百万年もの間、風と雨がその火山を少しずつ削り取り、深い谷や涼しい滝、そして南極大陸の木々と親戚にあたるほど古い熱帯雨林を作り上げました。",
+      "夜、隠れた洞窟に入ると、青緑色の小さな光があたり一面できらめきます。妖精の明かりではなく、本物の『グローワーム(光る幼虫)』なんですよ! 海に目を向ければ、冬になるたびに大きなザトウクジラが赤ちゃんクジラと並んで泳ぎ、あたたかい北の海を目指してゴールドコースト沖を通り過ぎていきます。",
+      "今のゴールドコーストは、こうした自然の神秘に、わくわくする楽しさまで加わった街です。ジェットコースターが走り、カンガルーやインコと遊べる動物園があり、かつて世界一高い居住用ビルだった金色のタワー『Q1』もそびえ立っています。海岸のすぐ沖では、サーファーたちが世界でも指折りの長くなめらかな波に乗ります。古代の火山、光る洞窟、大きなクジラ、わくわくする遊園地——それが全部一つの海岸に集まっているのが、ゴールドコーストなのです。"
+    ],
+    "zh": [
+      "在澳大利亚东海岸，有一座城市的沙滩在阳光下真的闪着金色的光芒——这就是人们叫它“黄金海岸”的原因!这片金色沙滩绵延约70公里，总是回荡着冲浪者们的欢呼声。其实呀，这个名字最早是上世纪五十年代房地产商开的一个玩笑，他们夸口说这片海岸“值不少金子”，没想到到了1958年，这竟然变成了这座城市正式的名字!",
+      "不过，黄金海岸真正的宝藏可不在沙子底下，而是藏在沙滩后面那片翠绿的山里。很久很久以前，那片山所在的地方曾经爆发过一座巨大的火山，规模在地球历史上也数得上号。几百万年来，风雨慢慢削蚀着这座火山，雕刻出幽深的峡谷、清凉的瀑布，还有一片古老得能和南极洲的树木沾亲带故的热带雨林。",
+      "夜晚走进这里隐秘的山洞，你会看到四周闪着蓝绿色的小光点——那可不是仙女的灯光，而是真正的“萤光虫”!把目光转向大海，每年冬天都会有巨大的座头鲸游过黄金海岸附近的海面，鲸鱼宝宝紧挨着妈妈，一起游向温暖的北方海域。",
+      "如今的黄金海岸把这些自然奇迹和满满的欢乐结合在了一起：过山车飞驰而过，动物园里袋鼠和鹦鹉活蹦乱跳，还有一座曾是世界最高住宅楼的金色高塔——Q1大厦，也高高矗立着。就在海岸不远的海面上，冲浪者们乘着世界数一数二绵长顺滑的海浪。古老的火山、发光的山洞、巨大的鲸鱼，还有刺激好玩的游乐设施，全都汇聚在这同一片海岸上，这就是黄金海岸。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'골드코스트'라는 이름은 1950년대 부동산업자들이 장난삼아 붙인 별명에서 시작됐어요. 모래 속에 진짜 금은 없고, 반짝이는 햇살만 가득하답니다!",
+      "골드코스트 뒤편 산속에 있는 '마운트 워닝(월룸빈)'은 한때 지구에서 손꼽히게 거대했을 고대 화산이 깎여 남은 봉우리예요.",
+      "근처 숨은 열대우림 동굴 속에는 작은 반딧불이 애벌레(글로우웜)들이 밤하늘의 별처럼 반짝여요. 사실은 먹이를 잡으려고 빛을 내는 거랍니다.",
+      "겨울마다 혹등고래들이 아기 고래를 데리고 1만 킬로미터가 넘는 여행을 하며 골드코스트 앞바다를 지나가요.",
+      "서퍼스 파라다이스의 'Q1' 타워는 한때 세계에서 가장 높은 주거용 건물이었어요. 78층 높이가 올림픽 성화를 닮은 모양이랍니다.",
+      "1965년부터 골드코스트엔 황금빛 옷을 입은 '미터 메이드'들이 거리를 다니며 운 좋은 관광객의 주차 미터기에 동전을 넣어준대요."
+    ],
+    "en": [
+      "The name 'Gold Coast' began as a cheeky real-estate nickname in the 1950s — there's no actual gold buried in the sand, just golden sunshine!",
+      "Mount Warning (Wollumbin), in the hills behind the Gold Coast, is the eroded core of an ancient volcano that may once have been one of the biggest volcanoes on Earth.",
+      "In hidden rainforest caves nearby, tiny glow-worms light up the dark like a starry sky — they're really glowing to lure in prey to eat.",
+      "Every winter, humpback whales swim right past Gold Coast beaches with their calves, on a journey of over 10,000 kilometers.",
+      "The Q1 tower in Surfers Paradise was once the tallest residential building in the world — 78 floors shaped like an Olympic torch.",
+      "Since 1965, Gold Coast 'Meter Maids' in gold outfits have strolled the streets popping coins into parking meters for lucky visitors."
+    ],
+    "ja": [
+      "『ゴールドコースト』という名前は、1950年代に不動産業者が冗談で付けたあだ名から始まりました。砂の中に本物の金はなく、輝く太陽の光がいっぱいなだけなんです!",
+      "ゴールドコーストの背後の山にある『マウント・ワーニング(ウォラムビン)』は、かつて地球でも指折りの巨大さだったかもしれない古代火山が削られて残った峰です。",
+      "近くの隠れた熱帯雨林の洞窟では、小さなグローワーム(光る幼虫)たちが夜空の星のように輝きます。実はエサを捕まえるために光っているのです。",
+      "冬になるたびザトウクジラが赤ちゃんクジラを連れて1万キロ以上の旅をしながら、ゴールドコースト沖を通り過ぎていきます。",
+      "サーファーズパラダイスの『Q1』タワーは、かつて世界一高い居住用ビルでした。オリンピックの聖火に似た形の78階建てです。",
+      "1965年から、ゴールドコーストでは金色の衣装を着た『メーターメイド』たちが通りを歩き、運のいい観光客の駐車メーターにコインを入れてくれます。"
+    ],
+    "zh": [
+      "“黄金海岸”这个名字，最早是上世纪五十年代房地产商开的一个玩笑外号。沙子里可没有真正的金子，有的只是满满的金色阳光!",
+      "黄金海岸背后山中的“沃宁山(沃伦宾)”，是一座古代火山被侵蚀后留下的山峰，这座火山曾经可能是地球上数一数二庞大的火山。",
+      "附近隐秘的雨林山洞里，小小的萤光虫像夜空繁星一样闪闪发光。其实它们发光是为了捕捉猎物呢。",
+      "每年冬天，座头鲸都会带着鲸鱼宝宝游过黄金海岸附近的海域，展开一场超过一万公里的长途旅行。",
+      "冲浪者天堂的“Q1”大厦曾是世界最高的住宅楼，78层楼高，造型像极了奥运火炬。",
+      "从1965年起，黄金海岸就有身穿金色服装的“计时女郎”走上街头，为幸运的游客往停车咪表里投硬币。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도시 이름에 '황금'이 들어가는데, 사실 모래 속엔 진짜 금이 하나도 없대. 왜 그렇게 부르게 됐을까?",
+    "en": "A whole city named after gold, but there's no real gold buried anywhere — can you guess why people call it that?",
+    "ja": "街の名前に『黄金』が入っているのに、砂の中には本物の金は一つもないんだって。どうしてそう呼ばれるようになったと思う?",
+    "zh": "这座城市的名字里有“黄金”两个字，可沙子里其实一点真金都没有——你猜猜为什么人们还是这么叫它？"
+  },
+  "places": [
+    {
+      "name": { "ko": "서퍼스 파라다이스 해변", "en": "Surfers Paradise Beach", "ja": "サーファーズパラダイス・ビーチ", "zh": "冲浪者天堂海滩" },
+      "blurb": {
+        "ko": "골드코스트의 황금빛 심장 같은 곳으로, '골드코스트'라는 이름과 서핑 문화가 처음 시작된 곳이에요. 고층 빌딩들 사이로 일년 내내 파도가 밀려와서, 사람들이 왜 이 해안에 반했는지 딱 알 수 있답니다.",
+        "en": "The golden heart of the Gold Coast, where the very nickname 'Gold Coast' and its surfing culture were born. Waves roll in almost every day of the year right beside the skyscrapers — the perfect spot to see why people fell in love with this coastline.",
+        "ja": "ゴールドコーストの金色に輝く中心地で、『ゴールドコースト』という名前とサーフィン文化が生まれた場所です。高層ビルが並ぶすぐそばに一年中波が打ち寄せ、人々がこの海岸に夢中になった理由がよくわかります。",
+        "zh": "这里是黄金海岸金色的心脏地带，“黄金海岸”这个名字和冲浪文化都诞生于此。高楼大厦紧邻沙滩，几乎一年四季都有海浪涌来，让人一下子就明白为什么大家会爱上这片海岸。"
+      },
+      "coords": [-28.0028, 153.4310]
+    },
+    {
+      "name": { "ko": "큐원(Q1) 스카이포인트 전망대", "en": "SkyPoint Q1 Observation Deck", "ja": "スカイポイント(Q1展望台)", "zh": "Q1观景台(SkyPoint)" },
+      "blurb": {
+        "ko": "한때 세계에서 가장 높은 주거용 건물이었던 Q1 타워 꼭대기까지 엘리베이터를 타고 올라가요. 건물 모양이 올림픽 성화를 닮았답니다. 전망대에서는 해변과 산속 옛 화산 흔적까지, 골드코스트 전체를 한눈에 볼 수 있어요.",
+        "en": "Ride an elevator to the top of Q1, once the tallest residential tower on the planet, shaped to look like an Olympic torch. From the deck you can spot the whole golden coastline — beaches, hinterland mountains, and the ancient volcano's rim — all at once.",
+        "ja": "かつて世界一高い居住用ビルだったQ1タワーの最上階まで、エレベーターで一気に上がります。ビルの形はオリンピックの聖火に似ています。展望台からは、ビーチから山の中の古代火山の跡まで、ゴールドコースト全体を一望できます。",
+        "zh": "乘电梯直达Q1大厦顶端——它曾是世界最高的住宅楼，造型像奥运火炬。站在观景台上，从沙滩到山里古老火山的痕迹，整个黄金海岸尽收眼底。"
+      },
+      "coords": [-28.0037, 153.4316]
+    },
+    {
+      "name": { "ko": "스프링브룩 국립공원 - 내추럴 브리지", "en": "Natural Bridge, Springbrook National Park", "ja": "スプリングブルック国立公園 - ナチュラル・ブリッジ", "zh": "斯普林布鲁克国家公园 - 天然桥" },
+      "blurb": {
+        "ko": "고대 화산암 천장에 뚫린 구멍으로 폭포가 곧장 쏟아져 숨겨진 동굴 안으로 떨어져요. 밤이 되면 그 동굴 안에서 수백 마리의 글로우웜(반딧불이 애벌레)이 반짝반짝 빛난답니다. 이 열대우림 전체가 수백만 년 전 골드코스트를 만든 거대한 화산의 가장자리에 자리잡고 있어요.",
+        "en": "A waterfall pours straight through a hole in an ancient volcanic rock roof into a hidden cave — and at night, that cave twinkles with hundreds of glowing glow-worms. This whole rainforest sits on the rim of the giant volcano that shaped the Gold Coast millions of years ago.",
+        "ja": "古代の火山岩の天井にあいた穴を通って、滝がまっすぐ隠れた洞窟の中へ流れ落ちます。夜になると、その洞窟の中で何百匹ものグローワーム(光る幼虫)がきらきら輝きます。この熱帯雨林全体が、何百万年も前にゴールドコーストを形づくった巨大な火山の縁に位置しているのです。",
+        "zh": "瀑布穿过古老火山岩顶上的一个洞口，直直落进一个隐藏的山洞里。到了夜晚，洞里会有成百上千只萤光虫闪闪发亮。这整片雨林，正好坐落在几百万年前塑造出黄金海岸的那座巨大火山的边缘上。"
+      },
+      "coords": [-28.3728, 153.2288]
+    },
+    {
+      "name": { "ko": "커럼빈 야생동물 보호구역", "en": "Currumbin Wildlife Sanctuary", "ja": "カランビン野生動物保護区", "zh": "卡伦宾野生动物保护区" },
+      "blurb": {
+        "ko": "매일 아침, 야생 무지개앵무 수백 마리가 한꺼번에 날아와 사람 손으로 직접 먹이를 받아먹어요. 알록달록한 색깔과 요란한 지저귐이 잊지 못할 순간을 만들어 준답니다. 이곳은 다친 캥거루와 코알라 같은 호주 동물들을 치료해 다시 자연으로 돌려보내는 야생동물 병원이기도 해요.",
+        "en": "Every morning, wild rainbow lorikeets swoop in by the hundreds to be hand-fed right here — a rush of color and noisy chatter you'll never forget. It's also a wildlife hospital where injured kangaroos, koalas, and other Aussie animals are cared for and released back to the wild.",
+        "ja": "毎朝、野生のレインボーロリキート(インコ)が何百羽も一斉に飛んできて、人の手から直接エサを食べます。色とりどりの姿とにぎやかな鳴き声は忘れられない体験になるはず。ここはケガをしたカンガルーやコアラなど、オーストラリアの動物たちを治療して自然に返す野生動物病院でもあります。",
+        "zh": "每天清晨，数以百计的野生彩虹吸蜜鹦鹉会一起飞来，直接从人的手上啄食——五彩缤纷、叽叽喳喳的场面让人难忘。这里同时也是一家野生动物医院，受伤的袋鼠、考拉等澳洲动物在这里接受治疗，再重新回归大自然。"
+      },
+      "coords": [-28.1325, 153.4839]
+    }
+  ]
+}

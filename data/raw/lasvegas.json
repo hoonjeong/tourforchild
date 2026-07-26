@@ -1,0 +1,120 @@
+{
+  "id": "lasvegas",
+  "country": "us",
+  "coords": [36.1699, -115.1398],
+  "name": { "ko": "라스베이거스", "en": "Las Vegas", "ja": "ラスベガス", "zh": "拉斯维加斯" },
+  "tagline": {
+    "ko": "조용한 사막 샘물이 우주에서도 보이는 빛의 도시로 변신한 이야기",
+    "en": "The quiet desert springs that turned into a city of lights bright enough to see from space",
+    "ja": "静かな砂漠の泉が、宇宙からも見える光の街に変わった物語",
+    "zh": "安静的沙漠泉水，如何变成一座连太空都能看见的光之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 반짝이는 불빛이라곤 하나도 없던 이곳은 미국 남서쪽의 메마른 '모하비 사막'이었어요. 수백 년 전에는 파이우트 원주민들이 이곳에 살면서, 모래 속 숨겨진 샘에서 물을 찾아냈답니다. 그러던 어느 날, 옛 스페인 무역로를 따라 여행하던 스페인 상인들이 메마른 사막 한가운데서 초록빛 풀이 자라는 신기한 샘물을 발견했어요. 그들은 이곳에 '풀밭'이라는 뜻의 스페인어, '라스베이거스'라는 이름을 붙였답니다.",
+      "오랫동안 라스베이거스는 사막을 가로지르는 기차가 물을 채우고 잠깐 쉬어가던 먼지투성이 작은 정거장에 불과했어요. 1905년, 일꾼들이 작은 땅들을 경매로 팔면서 조그만 철도 마을 하나가 태어났죠. 그때는 아무도 이 졸린 사막 마을이 언젠가 지구에서 가장 유명한 도시 중 하나가 되리라곤 상상하지 못했어요.",
+      "그런데 1930년대에 모든 게 달라졌어요. 근처에서 수천 명의 일꾼들이 콜로라도강을 가로지르는 어마어마하게 큰 댐, '후버 댐'을 지었거든요. 지금까지 만들어진 가장 크고 대담한 건축물 중 하나였죠. 이 댐은 거센 강물을 다스리고 전기를 만들어냈고, 사막에 물과 일자리를 가져다주었어요. 비슷한 시기에 네바다주가 도박을 합법화하면서, 나중에 '더 스트립'이라 불리게 될 길을 따라 반짝이는 호텔과 카지노들이 하나둘 생겨났답니다.",
+      "오늘날 라스베이거스는 네온사인과 불빛으로 어찌나 환하게 빛나는지, 비행기 창밖에서도, 심지어 우주에서도 알아볼 수 있을 정도예요. 호텔 앞에서는 거대한 분수가 음악에 맞춰 춤을 추고, 화산이 짜잔 하고 터지고, 롤러코스터가 하늘 위를 빙글빙글 달려요. 조용한 사막 샘물 몇 개로 시작한 이곳이, 밤에도 잠들지 않는 눈부신 도시가 된 거예요."
+    ],
+    "en": [
+      "Long, long ago, before there was a single glowing light, this place was just quiet, dry desert in the American Southwest called the Mojave Desert. Hundreds of years ago, Native American peoples such as the Paiute lived here, finding water hidden in springs beneath the sand. One day, Spanish traders traveling the Old Spanish Trail stumbled upon those surprising green, grassy springs bubbling up in the middle of the dry desert. They gave the spot a name: 'Las Vegas'—Spanish for 'the meadows.'",
+      "For a long time, Las Vegas was just a tiny, dusty stop where trains refueled with water on their way across the desert. In 1905, workers auctioned off little plots of land, and a small railroad town was born. Back then, nobody could have guessed that this sleepy desert town would one day become one of the most famous cities on Earth.",
+      "Everything changed in the 1930s. Nearby, thousands of workers built an enormous dam across the Colorado River—Hoover Dam—one of the biggest, boldest engineering projects ever attempted. It tamed the mighty river, made electricity, and brought water and jobs to the desert. Around the same time, Nevada made gambling legal, and glittering hotels and casinos began popping up along a road that would soon become known as 'the Strip.'",
+      "Today, Las Vegas glows so brightly with neon signs and lights that you can spot it from an airplane window—even from space! Giant fountains dance to music in front of hotels, a volcano erupts right on cue, and roller coasters loop through the sky above the street. What began as a few quiet desert springs grew into a dazzling city that never seems to sleep."
+    ],
+    "ja": [
+      "はるか昔、光る明かりなど一つもなかったこの場所は、アメリカ南西部の乾いた『モハーヴェ砂漠』でした。何百年も前には、パイユート族などの先住民がここに暮らし、砂の下に隠れた泉から水を見つけていました。ある日、古いスペイン交易路を旅していたスペイン商人たちが、乾いた砂漠のまん中に緑の草が生える不思議な泉を見つけました。彼らはそこに『草原』という意味のスペイン語、『ラスベガス』という名前をつけたのです。",
+      "長い間、ラスベガスは砂漠を横切る列車が水を補給するために立ち寄る、ほこりっぽい小さな駅にすぎませんでした。1905年、人々が小さな土地を競売にかけたことで、小さな鉄道の町が誕生しました。当時は、このねむたい砂漠の町がいつか地球でいちばん有名な都市の一つになるなんて、誰も想像していませんでした。",
+      "ところが1930年代、すべてが変わりました。近くで何千人もの作業員が、コロラド川をせき止める巨大なダム『フーバーダム』を建設したのです。これまでで最も大きく大胆な建築の一つでした。このダムは荒れる川をおさえ、電気を生み出し、砂漠に水と仕事をもたらしました。同じ頃、ネバダ州がギャンブルを合法化し、のちに『ザ・ストリップ』と呼ばれる通り沿いに、きらびやかなホテルやカジノが次々と建てられていきました。",
+      "今日のラスベガスは、ネオンサインと明かりであまりにも明るく輝いていて、飛行機の窓から、いえ宇宙からも見つけられるほどです。ホテルの前では巨大な噴水が音楽に合わせて踊り、火山がタイミングよく噴火し、ジェットコースターが通りの上空をぐるぐる走ります。静かな砂漠の泉がいくつかあっただけの場所が、夜も眠らないまばゆい街になったのです。"
+    ],
+    "zh": [
+      "很久很久以前，这里连一盏灯都没有，只是美国西南部一片干燥的沙漠，叫做“莫哈韦沙漠”。几百年前，帕尤特等原住民就生活在这里，在沙地下寻找隐藏的泉水。有一天，沿着古老的西班牙商路旅行的西班牙商人，在干旱沙漠的正中央，意外发现了几处冒着绿草的神奇泉水。他们给这个地方取名“拉斯维加斯”——西班牙语里“草甸”的意思。",
+      "很长一段时间里，拉斯维加斯只是火车横穿沙漠时补水休息的一个满是尘土的小站。1905年，人们拍卖了一小块一小块的土地，一个小小的铁路小镇就此诞生。那时候，谁也没想到这个昏昏欲睡的沙漠小镇，有一天会变成地球上最有名的城市之一。",
+      "到了20世纪30年代，一切都变了。附近，成千上万的工人建起了一座横跨科罗拉多河的巨型大坝——胡佛水坝，是有史以来最宏大、最大胆的工程之一。它驯服了汹涌的河水，发出电力，为沙漠带来了水源和工作。差不多同一时期，内华达州让赌博合法化，一间间闪闪发光的酒店和赌场，沿着后来被称为“拉斯维加斯大道”的街道拔地而起。",
+      "如今的拉斯维加斯，霓虹灯和灯光亮得连飞机窗外都能看见，甚至从太空中也能认出它。酒店前，巨大的喷泉随着音乐翩翩起舞，火山按时“喷发”，过山车在街道上空一圈圈飞驰。曾经只是几汪安静沙漠泉水的地方，变成了一座夜里也不睡觉的耀眼城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'라스베이거스'는 스페인어로 '풀밭'이라는 뜻이에요. 불빛이 생기기 훨씬 전, 사막 한가운데 진짜 초록빛 샘물이 있었기 때문이에요.",
+      "근처의 후버 댐을 지을 때 쓴 콘크리트는 미국을 동서로 가로지르는 2차선 도로를 놓을 수 있을 만큼 어마어마한 양이었대요.",
+      "벨라지오 호텔의 유명한 분수는 물을 140미터 넘게 쏘아 올리는데, 그 움직임 하나하나가 음악에 딱 맞춰 설계되어 있어요.",
+      "라스베이거스는 어찌나 환하게 빛나는지, 밤에 우주에서 지구를 내려다보는 우주비행사들도 그 불빛을 알아볼 수 있대요.",
+      "'네온 박물관'에는 은퇴한 거대한 네온 간판 800개가 넘게 모여 있어요. 오래된 카우보이 간판, 요정 램프 간판도 있답니다.",
+      "그 유명한 '환영합니다, 멋진 라스베이거스에' 간판은 1959년부터 지금까지 반짝이고 있는, 나이 65살이 넘은 간판이에요."
+    ],
+    "en": [
+      "'Las Vegas' is Spanish for 'the meadows'—named for real green springs bubbling in the desert long before any lights showed up.",
+      "Building nearby Hoover Dam used so much concrete that there was enough to pave a two-lane highway all the way across the United States.",
+      "The famous fountains at the Bellagio shoot water more than 140 meters (460 feet) high, timed perfectly to the beat of the music.",
+      "Las Vegas glows so brightly that astronauts looking down at Earth at night can actually spot its lights from space.",
+      "The Neon Museum is a 'boneyard' where more than 800 giant retired neon signs rest—including old cowboys and a genie's lamp.",
+      "The famous 'Welcome to Fabulous Las Vegas' sign has been glowing since 1959, making it more than 65 years old."
+    ],
+    "ja": [
+      "『ラスベガス』はスペイン語で『草原』という意味。明かりがともるずっと前、そこには本物の緑の泉がわき出ていたからです。",
+      "近くのフーバーダムを建てるのに使われたコンクリートは、アメリカを東西に横断する二車線の道路を作れるほどの量だったそうです。",
+      "ベラージオ・ホテルの有名な噴水は水を140メートル以上も打ち上げ、その動きは音楽にぴったり合わせて設計されています。",
+      "ラスベガスはとても明るく輝いているので、夜に地球を見下ろす宇宙飛行士たちにも、その明かりが見えるといいます。",
+      "『ネオン博物館』には引退した巨大なネオン看板が800枚以上集まっています。昔のカウボーイや魔法のランプの看板もありますよ。",
+      "有名な『ようこそ、すばらしきラスベガスへ』の看板は1959年からずっと光り続けている、65歳を超える大先輩なんです。"
+    ],
+    "zh": [
+      "“拉斯维加斯”在西班牙语里是“草甸”的意思——因为在灯光出现之前，这里真的有绿草丛生的泉水。",
+      "建造附近的胡佛水坝所用的混凝土，多到足够铺一条横贯美国东西的双车道公路。",
+      "百乐宫酒店著名的喷泉能把水喷到140多米高，每一个动作都跟着音乐精准编排。",
+      "拉斯维加斯亮得连夜晚俯瞰地球的宇航员，都能从太空中认出它的灯光。",
+      "“霓虹灯博物馆”是一处“坟场”，收藏着800多块退休的巨型霓虹招牌，其中还有旧牛仔和神灯造型的招牌。",
+      "著名的“欢迎来到美妙的拉斯维加斯”招牌自1959年起一直亮着，如今已经超过65岁了。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "우주에서도 보일 만큼 환한 도시가, 원래는 조용한 사막 샘물이었대. 대체 어떻게 이렇게 변했을까?",
+    "en": "A whole city glowing so bright you can see it from space—how did quiet desert springs ever turn into that?",
+    "ja": "宇宙からも見えるほど明るい街が、もとは静かな砂漠の泉だったんだって。いったいどうしてそうなったのかな？",
+    "zh": "一座亮到太空都能看见的城市，最初居然只是几汪安静的沙漠泉水，它到底是怎么变成这样的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "프리몬트 스트리트 익스피리언스", "en": "Fremont Street Experience", "ja": "フリーモント・ストリート・エクスペリエンス", "zh": "弗里蒙特街体验区" },
+      "blurb": {
+        "ko": "라스베이거스가 처음 태어난 옛 거리예요. 지금은 그 위에 거대한 지붕처럼 생긴 전광판이 덮여 있어서, 밤이 되면 화려한 빛 쇼가 머리 위에서 펼쳐진답니다.",
+        "en": "The original street where Las Vegas was born. It's now covered by a giant screen-canopy overhead, so at night a dazzling light show plays right above your head.",
+        "ja": "ラスベガスが最初に生まれた歴史ある通り。今では巨大なスクリーンの天蓋でおおわれていて、夜になると頭の真上できらびやかな光のショーが繰り広げられます。",
+        "zh": "拉斯维加斯最初诞生的老街道。如今头顶上覆盖着一块巨大的天幕屏幕，一到夜晚，绚丽的灯光秀就会在你头顶上演。"
+      },
+      "coords": [36.1712, -115.1434]
+    },
+    {
+      "name": { "ko": "벨라지오 분수", "en": "Bellagio Fountains", "ja": "ベラージオの噴水", "zh": "百乐宫喷泉" },
+      "blurb": {
+        "ko": "호텔 앞 커다란 호수에서 수백 개의 분수가 음악에 맞춰 춤을 추며 하늘 높이 솟아올라요. 밤이 되면 조명까지 더해져 마치 물이 노래하는 것처럼 보인답니다.",
+        "en": "Hundreds of fountains rise high above a huge lake in front of the hotel, dancing perfectly in time with music. At night, colorful lights make the water look like it's actually singing.",
+        "ja": "ホテル前の大きな湖から、何百もの噴水が音楽に合わせて高く舞い上がります。夜には照明も加わり、まるで水が歌っているように見えます。",
+        "zh": "酒店前的大湖里，成百上千的喷泉伴着音乐高高跃起、翩翩起舞。到了夜晚再加上灯光的映衬，水柱看起来就像在歌唱一样。"
+      },
+      "coords": [36.1126, -115.1767]
+    },
+    {
+      "name": { "ko": "후버 댐", "en": "Hoover Dam", "ja": "フーバーダム", "zh": "胡佛水坝" },
+      "blurb": {
+        "ko": "1930년대에 거센 콜로라도강을 막아 만든 거대한 댐이에요. 라스베이거스에 물과 전기를 가져다준 진짜 영웅이자, 지금도 감탄이 절로 나오는 어마어마한 건축물이랍니다.",
+        "en": "A massive dam built in the 1930s to hold back the powerful Colorado River. It's the real hero that brought Las Vegas its water and electricity, and it's still an awe-inspiring feat of engineering today.",
+        "ja": "1930年代に、勢いのあるコロラド川をせき止めて作られた巨大なダム。ラスベガスに水と電気をもたらした本当のヒーローで、今見てもため息が出るほど巨大な建造物です。",
+        "zh": "20世纪30年代建造的巨型大坝，拦住了汹涌的科罗拉多河。它是给拉斯维加斯带来水和电力的真正功臣，直到今天仍是令人赞叹的宏伟工程。"
+      },
+      "coords": [36.0161, -114.7377]
+    },
+    {
+      "name": { "ko": "네온 박물관", "en": "The Neon Museum", "ja": "ネオン博物館", "zh": "霓虹灯博物馆" },
+      "blurb": {
+        "ko": "라스베이거스 옛 호텔과 카지노에서 반짝이던 오래된 네온 간판들이 은퇴해서 쉬고 있는 곳이에요. 커다란 카우보이, 반짝이는 왕관 같은 간판들 사이를 걸으며 도시의 지난 이야기를 만날 수 있어요.",
+        "en": "The place where old neon signs from Las Vegas's earlier hotels and casinos come to retire and rest. Walk among giant cowboys and sparkling crowns and meet the city's earlier stories face to face.",
+        "ja": "昔のラスベガスのホテルやカジノで輝いていた古いネオン看板が、引退して休んでいる場所。大きなカウボーイやきらめく王冠の看板の間を歩きながら、街の昔の物語に出会えます。",
+        "zh": "曾经在拉斯维加斯老酒店和赌场里闪耀的旧霓虹招牌，如今在这里退休安放。走在巨大的牛仔和闪亮的皇冠招牌之间，仿佛能与这座城市从前的故事面对面。"
+      },
+      "coords": [36.1719, -115.1330]
+    }
+  ]
+}

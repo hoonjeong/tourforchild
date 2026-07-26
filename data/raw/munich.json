@@ -1,0 +1,120 @@
+{
+  "id": "munich",
+  "country": "de",
+  "coords": [48.1351, 11.5820],
+  "name": { "ko": "뮌헨", "en": "Munich", "ja": "ミュンヘン", "zh": "慕尼黑" },
+  "tagline": {
+    "ko": "수도사들이 이름 짓고 왕들이 화려하게 키운 도시, 도심 한복판에서 파도타기까지!",
+    "en": "Founded by monks, crowned by kings, and home to a wave you can surf in the city center",
+    "ja": "修道士が名づけ、王たちが磨き上げた街。街のまん中で波乗りもできちゃう！",
+    "zh": "由修士取名、由国王打造的城市，市中心还能冲浪！"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 뮌헨이 큰 도시가 되기 전에는 수도사들이 강가 언덕에 작은 마을을 세웠어요. 이곳은 소금을 실어 나르는 오래된 무역로가 강을 건너는 자리였죠. 사람들은 이 마을을 '수도사들 곁에'라는 뜻으로 부르기 시작했고, 그 말이 시간이 지나며 '뮌헨(München)'이라는 도시 이름이 되었답니다. 마을이 점점 커지면서 한가운데 시장 광장이 생겼는데, 그곳이 바로 오늘날까지도 도시의 심장인 '마리엔플라츠'예요.",
+      "몇백 년 뒤, '비텔스바흐' 가문이라는 강력한 왕가가 뮌헨을 자신들의 수도로 삼았어요. 이들은 도시를 근사하게 꾸미고 싶어서 웅장한 궁전들을 짓고, 두 개의 커다란 탑이 있는 '프라우엔키르헤' 성당도 세우기 시작했죠. 전설에 따르면 악마가 몰래 들어와 성당을 구경하다가 화가 나서 발을 쾅 굴렀는데, 그 발자국 모양의 자국이 지금도 바닥에 남아 있대요.",
+      "1810년, 왕세자가 공주와 결혼하면서 온 도시 사람들을 성문 밖으로 초대해 말 경주와 큰 잔치를 열었어요. 다들 어찌나 신났던지 해마다 다시 열기로 했고, 그 잔치는 점점 커지고 커져서 오늘날 지구에서 가장 큰 축제인 '옥토버페스트'가 되었답니다. 거대한 프레첼과 넘실대는 맥주가 가득한 축제죠.",
+      "뮌헨에는 지금도 곳곳에 깜짝 놀랄 이야기가 숨어 있어요. 신 시청사에서는 '글로켄슈필'이라는 커다란 시계가 매일 살아 움직이는데, 작은 인형들이 수백 년 전 기사들의 마상 시합을 재현해 보여준답니다. 그리고 '영국 정원'이라는 거대한 공원 한가운데에는 도시에서는 상상도 못 할 일이 벌어져요. 강물에 생긴 파도를 서퍼들이 사시사철, 비가 오나 눈이 오나 타고 있거든요!"
+    ],
+    "en": [
+      "Long ago, before Munich became a big city, a group of monks built a small settlement on a hill by a river crossing, where an old trading road carrying salt crossed the water. People started calling the place 'bei den Mönchen'—'by the monks'—and over time that became the city's name, München. As the settlement grew, a market square opened up in the middle, and that spot is still the heart of the city today: Marienplatz.",
+      "Centuries later, a powerful family called the Wittelsbachs made Munich their royal capital, and they wanted it to look magnificent. They built grand palaces and started a giant twin-towered church called Frauenkirche. Legend says the devil once snuck inside to see it, and where he stood stamping his foot in anger after realizing he'd been tricked, a strange footprint-shaped mark can still be found on the floor.",
+      "In 1810, the crown prince married a princess, and the whole city was invited outside the gates to celebrate with horse races and a huge party. Everyone had so much fun that they decided to do it again every single year—and that party grew and grew until it became Oktoberfest, the biggest folk festival on Earth, packed with giant pretzels and oceans of beer.",
+      "Munich still has surprises hiding around every corner. At the New Town Hall, a giant clock called the Glockenspiel comes alive every day, its little figures reenacting a knights' tournament from hundreds of years ago. And in the middle of a huge park called the English Garden, there's something you'd never expect in a city center—a river with a wave that never stops, where surfers ride it all year round, rain, shine, or snow."
+    ],
+    "ja": [
+      "はるか昔、今のミュンヘンがまだ大きな街になる前、修道士たちが川のほとりの丘に小さな集落を築きました。そこは塩を運ぶ古い交易路が川を渡る場所でした。人々はこの場所を『修道士たちのそばに』という意味で呼ぶようになり、その言葉がやがて『ミュンヘン（München）』という街の名前になったのです。集落が大きくなるにつれて真ん中に市場広場ができ、それが今も街の中心である『マリエン広場』なんですよ。",
+      "それから何百年もたって、『ヴィッテルスバッハ』というたいへん強い王家がミュンヘンを自分たちの都にしました。彼らは街を立派に見せたくて、豪華な宮殿をいくつも建て、二つの大きな塔を持つ『フラウエン教会』も建て始めました。伝説によると、悪魔がこっそり中をのぞきに来て、だまされたと知って怒り、床を思いきり踏みつけたそうです。その足あとの跡が、今も床に残っているといわれています。",
+      "1810年、王子さまがお姫さまと結婚し、街じゅうの人々を城門の外に招いて競馬と大きなお祝いを開きました。あまりに楽しかったので、毎年また開くことにし、そのお祝いはどんどん大きくなって、今では地球で一番大きなお祭り『オクトーバーフェスト』になったのです。大きなプレッツェルとあふれるビールでいっぱいのお祭りです。",
+      "ミュンヘンには今も、あちこちに驚くような話がかくれています。新市庁舎では『グロッケンシュピール』という大きな時計が毎日動きだし、小さな人形たちが数百年前の騎士の馬上試合を演じて見せてくれます。そして『イギリス庭園』という広大な公園の真ん中には、街のまん中では考えられないようなものがあります。川にできた波を、サーファーたちが一年中、雨でも雪でも乗り続けているのです！"
+    ],
+    "zh": [
+      "很久很久以前，如今的慕尼黑还只是一片小小的聚落，是修士们在河边小山上建立起来的。这里正好是一条运送盐巴的古老商道跨过河流的地方。人们开始把这里叫做“修士旁边”，这个名字渐渐演变成了城市的名字——“慕尼黑（München）”。随着聚落越来越大，中间形成了一个集市广场，那就是至今仍是城市心脏的“玛丽恩广场”。",
+      "几百年后，一个强大的家族——维特尔斯巴赫家族——把慕尼黑定为自己的都城。他们想让这座城市看起来无比壮丽，于是建起了华丽的宫殿，还开始修建有两座巨大圆顶塔楼的“圣母教堂”。传说魔鬼曾偷偷溜进去看，发现自己被骗后气得直跺脚，那个脚印般的痕迹据说至今还留在地板上。",
+      "1810年，王储和公主结婚，整座城市的人都被邀请到城门外参加赛马和盛大的庆典。大家玩得太开心了，决定每年都再办一次，这场庆典越办越大，最终变成了地球上最大的民间节日——“慕尼黑啤酒节”，到处都是巨大的椒盐脆饼和满满的啤酒。",
+      "慕尼黑至今仍处处藏着惊喜。在新市政厅，一座名叫“钟乐塔”的大钟每天都会“活”过来，小小的人偶们会重现几百年前骑士比武的场景。而在一座叫“英国花园”的巨大公园正中央，藏着一件你绝对想不到的事——河水里有一道永远不消失的浪，冲浪者们一年四季，不管下雨还是下雪，都在那里乘风破浪！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "뮌헨이라는 이름은 옛 독일어로 '수도사들 곁에'라는 뜻에서 왔어요. 진짜로 수도사들이 이 도시를 세우는 데 한몫했답니다.",
+      "옥토버페스트는 1810년 왕실 결혼 잔치에서 시작돼, 지금은 해마다 약 600만 명이 찾는 세계 최대 축제가 됐어요.",
+      "마리엔플라츠의 글로켄슈필 시계에는 종이 43개, 실물 크기 인형이 32개나 있어서 500년 된 이야기를 매일 재현해요.",
+      "전설에 따르면 악마가 프라우엔키르헤 성당에서 속은 걸 깨닫고 화가 나 발을 굴러, 그 발자국이 바닥에 남았대요.",
+      "도심 한복판, 영국 정원의 아이스바흐 강에는 늘 파도가 일어서 서퍼들이 겨울에도 파도를 탄답니다!",
+      "영국 정원은 세계에서 손꼽히게 큰 도시 공원이에요. 뉴욕의 센트럴파크보다도 크답니다."
+    ],
+    "en": [
+      "Munich's name comes from an old German phrase meaning 'by the monks'—monks really did help found the city.",
+      "Oktoberfest began in 1810 as a royal wedding party and is now the world's largest folk festival, with about 6 million visitors every year.",
+      "The Glockenspiel clock in Marienplatz has 43 bells and 32 life-size figures that act out a 500-year-old story every day.",
+      "Legend says the devil left an angry footprint on the floor of Frauenkirche church after realizing he'd been tricked.",
+      "In the middle of the city, surfers ride a never-stopping wave on the Eisbach river in the English Garden—even in winter!",
+      "The English Garden is one of the world's biggest city parks—even bigger than Central Park in New York."
+    ],
+    "ja": [
+      "ミュンヘンという名前は、古いドイツ語で『修道士たちのそばに』という意味からきています。本当に修道士たちがこの街づくりに関わったのです。",
+      "オクトーバーフェストは1810年の王室の結婚祝いから始まり、今では毎年約600万人がおとずれる世界最大のお祭りになりました。",
+      "マリエン広場のグロッケンシュピール時計には鐘が43個、実物大の人形が32体もあり、500年前の物語を毎日演じます。",
+      "伝説では、悪魔がフラウエン教会でだまされたと気づいて怒り、床を踏みつけたその足あとが残っているそうです。",
+      "街のまん中、イギリス庭園のアイスバッハ川にはいつも波ができていて、サーファーたちは冬でも波乗りを楽しみます！",
+      "イギリス庭園は世界でも指折りの大きな都市公園。ニューヨークのセントラルパークより広いんですよ。"
+    ],
+    "zh": [
+      "慕尼黑这个名字，来自古德语中“修士旁边”的意思——真的有修士参与建立了这座城市。",
+      "慕尼黑啤酒节始于1810年的一场皇室婚礼庆典，如今已成为世界最大的民间节日，每年吸引约六百万游客。",
+      "玛丽恩广场的钟乐塔上有43口钟、32个真人大小的人偶，每天都会重演一段500年前的故事。",
+      "传说魔鬼在圣母教堂里发现自己被骗后气得跺脚，那个脚印状的痕迹据说至今还留在地板上。",
+      "在市中心的英国花园里，艾斯巴赫河上有一道永不消失的浪，冲浪者甚至在冬天也在那里乘浪！",
+      "英国花园是世界上数一数二的大型城市公园，比纽约的中央公园还要大。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "바다도 없는 도시 한복판에서 파도를 타고 서핑을 한다니, 믿어져?",
+    "en": "Would you believe people surf on a wave right in the middle of a city—no ocean needed?",
+    "ja": "海もないのに、街のまん中で波乗りができるなんて信じられる？",
+    "zh": "没有大海，却能在市中心冲浪，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "마리엔플라츠 & 글로켄슈필 (신 시청사)", "en": "Marienplatz & the Glockenspiel (New Town Hall)", "ja": "マリエン広場とグロッケンシュピール（新市庁舎）", "zh": "玛丽恩广场与钟乐塔（新市政厅）" },
+      "blurb": {
+        "ko": "뮌헨의 심장이자 가장 오래된 광장이에요. 신 시청사 탑에서는 매일 정해진 시간에 인형들이 빙글빙글 돌며 수백 년 전 기사들의 마상 시합과 술통 장인들의 춤을 보여준답니다.",
+        "en": "The beating heart of Munich and its oldest square. Every day at set times, figures on the New Town Hall tower spin around, acting out a knights' tournament and a coopers' dance from hundreds of years ago.",
+        "ja": "ミュンヘンの心臓部で、最も古い広場です。新市庁舎の塔では毎日決まった時間に人形たちがくるくる回り、数百年前の騎士の馬上試合や樽職人の踊りを見せてくれます。",
+        "zh": "慕尼黑的心脏，也是最古老的广场。新市政厅的塔楼上，每天固定时间都会有人偶转动起来，演出几百年前骑士比武和箍桶匠跳舞的场景。"
+      },
+      "coords": [48.1374, 11.5755]
+    },
+    {
+      "name": { "ko": "프라우엔키르헤 (성모 교회)", "en": "Frauenkirche (Cathedral of Our Lady)", "ja": "フラウエン教会", "zh": "圣母教堂" },
+      "blurb": {
+        "ko": "두 개의 둥근 지붕 탑이 뮌헨 어디서나 보이는 상징적인 성당이에요. 안으로 들어가면 바닥에서 악마가 남겼다는 신기한 발자국 자국을 찾아볼 수 있어요.",
+        "en": "Its two onion-domed towers can be seen from almost anywhere in Munich, making it the city's symbol. Step inside and you can hunt for the strange footprint mark said to be left by the devil.",
+        "ja": "二つの丸い屋根の塔がミュンヘンのどこからでも見えるシンボルの教会です。中に入ると、悪魔が残したという不思議な足あとを床に見つけることができます。",
+        "zh": "两座圆顶塔楼在慕尼黑几乎处处可见，是这座城市的标志性教堂。走进教堂，你还能在地板上找到据说是魔鬼留下的神秘脚印。"
+      },
+      "coords": [48.1386, 11.5739]
+    },
+    {
+      "name": { "ko": "님펜부르크 궁전", "en": "Nymphenburg Palace", "ja": "ニンフェンブルク宮殿", "zh": "宁芬堡宫" },
+      "blurb": {
+        "ko": "비텔스바흐 왕가가 여름을 보내던 화려한 궁전이에요. '미친 왕' 루트비히 2세가 이곳에서 태어났고, 넓은 정원의 운하는 겨울이면 스케이트장으로 변신한답니다.",
+        "en": "The grand summer palace of the Wittelsbach royal family. 'Mad' King Ludwig II was born here, and the canals in its huge gardens turn into an ice-skating rink in winter.",
+        "ja": "ヴィッテルスバッハ家が夏を過ごした豪華な宮殿です。『狂王』ルートヴィヒ2世がここで生まれ、広い庭園の運河は冬になるとスケートリンクに変わります。",
+        "zh": "维特尔斯巴赫王室曾在这里避暑的华丽宫殿。“疯王”路德维希二世就出生在这里，宽广花园里的运河到了冬天会变成溜冰场。"
+      },
+      "coords": [48.1583, 11.5032]
+    },
+    {
+      "name": { "ko": "영국 정원 (아이스바흐 파도)", "en": "English Garden (Eisbach Wave)", "ja": "イギリス庭園（アイスバッハの波）", "zh": "英国花园（艾斯巴赫浪）" },
+      "blurb": {
+        "ko": "뉴욕 센트럴파크보다 큰 거대한 공원이에요. 그 안을 흐르는 아이스바흐 강에는 늘 똑같은 자리에서 부서지는 파도가 있어서, 서퍼들이 도심 한복판에서 파도를 탄답니다.",
+        "en": "A giant park bigger than New York's Central Park. The Eisbach river flowing through it has a wave that breaks in the exact same spot forever, so surfers ride it right in the middle of the city.",
+        "ja": "ニューヨークのセントラルパークより広い巨大な公園です。中を流れるアイスバッハ川にはいつも同じ場所にできる波があり、サーファーたちが街のまん中で波乗りを楽しんでいます。",
+        "zh": "一座比纽约中央公园还大的巨型公园。流经其中的艾斯巴赫河上有一道固定位置的浪，冲浪者们就在市中心乘风破浪。"
+      },
+      "coords": [48.1489, 11.5866]
+    }
+  ]
+}

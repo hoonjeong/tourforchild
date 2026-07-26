@@ -1,0 +1,120 @@
+{
+  "id": "abudhabi",
+  "country": "ae",
+  "coords": [24.4539, 54.3773],
+  "name": { "ko": "아부다비", "en": "Abu Dhabi", "ja": "アブダビ", "zh": "阿布扎比" },
+  "tagline": {
+    "ko": "가젤의 발자국이 반짝이는 현대 도시로 이끈 작은 사막 섬",
+    "en": "A tiny desert island that a gazelle's footprints turned into a shining modern city",
+    "ja": "ガゼルの足あとが輝く近代都市へと導いた小さな砂漠の島",
+    "zh": "瞪羚的足迹，把一座沙漠小岛带向闪耀现代都市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 사냥꾼이 폴짝폴짝 뛰어가는 가젤 한 마리를 쫓다가 아라비아 바닷가의 작은 모래섬까지 따라갔어요. 그런데 이게 웬일이에요? 메마른 사막 한가운데서 맑고 달콤한 샘물이 퐁퐁 솟아나고 있었던 거예요! 사람들은 이 섬을 '아부다비'라고 불렀는데, '가젤의 아버지'라는 뜻이에요. 바니 야스 부족 사람들은 이 귀한 물줄기 곁에 자리를 잡고 살기 시작했답니다.",
+      "그로부터 수백 년 동안, 섬의 삶은 조용하고 소박했어요. 용감한 진주잡이 어부들은 산소통도 없이 숨을 참고 따뜻한 걸프 바다 깊숙이 잠수해 조개 속 반짝이는 진주를 찾았죠. 모래 위에서는 사냥꾼들이 매를 길들여 함께 사냥을 다녔는데, 어찌나 믿음직했던지 매는 마치 가족 같은 존재가 되었답니다.",
+      "그런데 어느 날, 모든 게 순식간에 달라졌어요. 1950년대 후반, 사막과 바다 밑에 엄청난 보물이 숨어 있다는 걸 발견했거든요. 바로 석유였죠! 마법처럼, 조용하던 어촌 마을은 해마다 더 높고 반짝이는 건물로 채워지며 세상에서 가장 현대적인 도시 중 하나로 변해갔어요.",
+      "하지만 아부다비는 자신이 어디서 왔는지 잊지 않았어요. 오늘날 하얗게 빛나는 거대한 모스크 안에는 세상에서 가장 큰 손으로 짠 카펫이 깔려 있고, 어느 박물관은 둥근 지붕에서 '빛의 비'가 내리듯 반짝이는 별빛이 쏟아진답니다. 또 매들은 저마다 여권을 갖고 비행기를 타고 다니기도 해요. 가젤의 발자국에서 시작해 반짝이는 별빛까지, 정말 놀라운 여정이죠!"
+    ],
+    "en": [
+      "Long, long ago, a hunter chased a leaping gazelle onto a small, sandy island off Arabia's coast. There, hidden in the dry ground, he found something amazing—fresh, sweet water bubbling up in the middle of the desert! People named the island 'Abu Dhabi,' which means 'father of the gazelle,' and families from the Bani Yas tribe moved there to live by that precious water.",
+      "For hundreds of years, life on the island stayed small and simple. Brave pearl divers held their breath and dove deep into the warm Gulf sea without any oxygen tanks, searching for shiny pearls hidden inside shells. Up on the sand, hunters trained falcons to swoop and soar beside them—birds so trusted, they became like part of the family.",
+      "Then, everything changed almost overnight. In the late 1950s, workers discovered something huge hiding under the desert and the sea nearby: oil. Almost like magic, the quiet fishing town began growing taller and shinier every year, turning into one of the most modern cities on Earth.",
+      "But Abu Dhabi never forgot where it came from. Today it has the world's biggest hand-knotted carpet inside a giant mosque glowing white, a museum with a dome that sprinkles 'rain of light' onto visitors below, and falcons that fly on airplanes with their very own passports. From a gazelle's footprints to shooting stars of light—what a journey!"
+    ],
+    "ja": [
+      "むかしむかし、一人の狩人が跳びはねるガゼルを追いかけて、アラビアの海に浮かぶ小さな砂の島までたどり着きました。すると驚いたことに、乾いた砂漠のまん中から、澄んだ甘い泉の水がこんこんとわき出ていたのです！人々はこの島を『アブダビ』——『ガゼルの父』という意味の名前で呼び、バニ・ヤース族の人々がこの貴重な水のそばに住み着きました。",
+      "それから何百年もの間、島の暮らしは小さく質素なものでした。勇敢な真珠採りの人々は酸素タンクもなしに息を止め、あたたかい湾の海に深く潜って、貝の中に隠れた光る真珠を探しました。砂の上では、狩人たちが訓練したハヤブサと一緒に狩りに出かけ、ハヤブサはまるで家族の一員のように信頼される存在になりました。",
+      "ところがある時、すべてがあっという間に変わりました。1950年代後半、砂漠と近くの海の底に、とてつもない宝物が眠っていることが分かったのです。それは石油でした！まるで魔法のように、静かな漁村は年々高くきらびやかな建物であふれ、世界でも指折りの近代都市へと生まれ変わっていきました。",
+      "けれどアブダビは、自分がどこから来たのかを忘れませんでした。今日、白く輝く巨大なモスクには世界最大級の手織りじゅうたんが敷かれ、あるミュージアムの丸い屋根からは『光の雨』のようにきらめく星あかりが降りそそぎます。それぞれ自分のパスポートを持って飛行機に乗るハヤブサもいるんですよ。ガゼルの足あとから始まり、きらめく星の光まで——なんとすてきな旅でしょう！"
+    ],
+    "zh": [
+      "很久很久以前，一位猎人追赶着一只蹦跳的瞪羚，一直追到阿拉伯海边一座小小的沙岛上。没想到，就在干燥的沙漠正中央，竟然咕嘟咕嘟地涌出清甜的泉水！人们把这座岛叫作“阿布扎比”，意思是“瞪羚之父”，巴尼·雅斯部落的人们就此在这珍贵的泉水旁安家落户。",
+      "此后数百年，岛上的生活简单而宁静。勇敢的采珠人不带任何氧气瓶，屏住呼吸潜入温暖的海湾深处，在贝壳里寻找闪闪发光的珍珠。沙地上，猎人们训练猎鹰陪伴自己出猎，猎鹰是那么值得信赖，几乎成了家人一样的存在。",
+      "可是有一天，一切几乎在一夜之间发生了改变。20世纪50年代末，人们发现沙漠和附近海底藏着巨大的宝藏——石油！仿佛施了魔法一般，这座安静的渔村一年年长出更高、更闪耀的建筑，逐渐变成了世界上最现代化的城市之一。",
+      "但阿布扎比从未忘记自己从哪里来。如今，在一座洁白闪耀的巨大清真寺里，铺着世界上最大的手工编织地毯；一座博物馆的圆顶会像“光之雨”一样洒下点点星光；还有的猎鹰甚至拥有自己的护照，跟着主人一起搭飞机旅行。从瞪羚的足迹到闪耀的星光，这趟旅程真是奇妙极了！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "아부다비는 '가젤의 아버지'라는 뜻이에요. 가젤이 사냥꾼들을 숨겨진 샘물로 이끌었다는 전설에서 나온 이름이랍니다.",
+      "석유가 나오기 전, 사람들은 진주잡이로 먹고 살았어요. 산소통도 없이 숨을 참고 바닷속 깊이 잠수했다니 정말 대단하죠!",
+      "아랍에미리트의 매들은 어찌나 소중한지, 비행기를 탈 때 쓰는 자기만의 여권을 가진 매도 있대요.",
+      "셰이크 자예드 그랜드 모스크에는 세상에서 가장 큰 손뜨개 카펫과, 수백만 개의 크리스털이 반짝이는 샹들리에가 있어요.",
+      "루브르 아부다비의 둥근 지붕에는 별 모양 구멍이 7,850개나 있어서, 햇빛이 마치 반짝이는 '빛의 비'처럼 쏟아져요.",
+      "페라리 월드의 '포뮬러 로사'는 세상에서 가장 빠른 롤러코스터예요. 단 5초 만에 시속 240km까지 순식간에 치솟는답니다!"
+    ],
+    "en": [
+      "Abu Dhabi means 'father of the gazelle'—named after a legend about a gazelle leading hunters to a hidden freshwater spring.",
+      "Long before oil, people earned a living by pearl diving—holding their breath and diving deep with no oxygen tanks at all!",
+      "Falcons in the UAE are so precious that many of them have their own official passports to travel on airplanes.",
+      "The Sheikh Zayed Grand Mosque holds the world's largest hand-knotted carpet and chandeliers dripping with millions of crystals.",
+      "The dome of the Louvre Abu Dhabi has 7,850 star-shaped openings that let sunlight fall like a sparkling 'rain of light.'",
+      "Ferrari World's Formula Rossa is the fastest roller coaster on Earth—it rockets from 0 to 240 km/h (149 mph) in about 5 seconds!"
+    ],
+    "ja": [
+      "アブダビは『ガゼルの父』という意味。ガゼルが狩人たちを隠された泉へ導いたという伝説から名づけられました。",
+      "石油が見つかる前、人々は真珠採りで暮らしていました。酸素タンクなしで息を止め、海の深くまで潜っていたなんてすごいですね！",
+      "アラブ首長国連邦のハヤブサはとても大切にされていて、飛行機に乗るための自分専用のパスポートを持つ子もいるんですよ。",
+      "シェイク・ザイード・グランド・モスクには世界最大の手織りじゅうたんと、何百万個ものクリスタルがきらめくシャンデリアがあります。",
+      "ルーヴル・アブダビの丸い屋根には星形の穴が7,850個も開いていて、太陽の光がまるで『光の雨』のように降りそそぎます。",
+      "フェラーリ・ワールドの『フォーミュラ・ロッサ』は世界一速いジェットコースター。たった5秒で時速240kmまで加速するんです！"
+    ],
+    "zh": [
+      "阿布扎比意为“瞪羚之父”，这个名字来自一个传说——一只瞪羚把猎人们带到了隐藏的泉水旁。",
+      "在发现石油之前，人们靠采珠为生。不带任何氧气瓶，光靠屏住呼吸就潜入深深的海底，真是了不起！",
+      "阿联酋的猎鹰十分珍贵，有些猎鹰甚至拥有自己专属的护照，好跟主人一起搭飞机旅行。",
+      "谢赫扎耶德大清真寺里铺着世界上最大的手工编织地毯，还挂着镶嵌数百万颗水晶的吊灯。",
+      "卢浮宫阿布扎比的圆顶上开着7,850个星形孔洞，阳光洒落时就像一场闪闪发光的“光之雨”。",
+      "法拉利世界的“红色方程式”是世界上最快的过山车，只需大约5秒就能加速到时速240公里！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "달려가는 가젤을 쫓아갔더니, 사막 한가운데 숨겨진 샘물로 이어졌다면 어떨까?",
+    "en": "What if you followed a running gazelle... and it led you straight to hidden water in the middle of the desert?",
+    "ja": "走るガゼルを追いかけたら、砂漠のまん中に隠れた泉にたどり着いたとしたら、どう思う？",
+    "zh": "如果你追着一只奔跑的瞪羚，结果它把你带到了沙漠正中央的隐秘泉水旁，你会怎么想？"
+  },
+  "places": [
+    {
+      "name": { "ko": "셰이크 자예드 그랜드 모스크", "en": "Sheikh Zayed Grand Mosque", "ja": "シェイク・ザイード・グランド・モスク", "zh": "谢赫扎耶德大清真寺" },
+      "blurb": {
+        "ko": "새하얗게 빛나는 이 모스크는 한 번에 무려 4만 1천 명이 들어갈 수 있을 만큼 커요. 안에는 세상에서 가장 큰 손뜨개 카펫이 깔려 있고, 밤이 되면 거대한 샹들리에가 크리스털 별처럼 반짝인답니다.",
+        "en": "This gleaming white mosque is so big it can hold 41,000 worshippers at once. Inside lies the world's largest hand-knotted carpet, and at night, giant chandeliers sparkle like a sky full of crystal stars.",
+        "ja": "真っ白に輝くこのモスクは、一度に4万1000人もの人が入れるほど大きいんです。中には世界最大の手織りじゅうたんが敷かれ、夜には巨大なシャンデリアがクリスタルの星のようにきらめきます。",
+        "zh": "这座洁白闪耀的清真寺大到能同时容纳4.1万名礼拜者。寺内铺着世界最大的手工编织地毯，到了夜晚，巨大的吊灯闪烁得像满天的水晶星星。"
+      },
+      "coords": [24.4128, 54.4750]
+    },
+    {
+      "name": { "ko": "카스르 알 호스", "en": "Qasr Al Hosn", "ja": "カスル・アル・ホスン", "zh": "阿尔霍斯堡" },
+      "blurb": {
+        "ko": "아부다비에서 가장 오래된 건물로, 도시가 시작된 바로 그 샘물 곁에 지어졌어요. 옛날엔 요새이자 왕실 거처였는데, 지금은 작은 사막 마을이 어떻게 큰 도시로 자랐는지 이야기해준답니다.",
+        "en": "This is Abu Dhabi's oldest building, built around the very freshwater well that gave the city its start. Once a fort and a royal home, it now tells the story of how a tiny desert village grew into a great city.",
+        "ja": "アブダビ最古の建物で、この街の始まりとなったまさにその泉のそばに建てられました。かつては砦であり王族の住まいでしたが、今では小さな砂漠の村が大きな街へと育っていった物語を伝えています。",
+        "zh": "这是阿布扎比最古老的建筑，就建在让这座城市诞生的那口泉水旁边。它曾是堡垒和王室居所，如今诉说着一个小小沙漠村庄如何成长为大城市的故事。"
+      },
+      "coords": [24.4765, 54.3705]
+    },
+    {
+      "name": { "ko": "루브르 아부다비", "en": "Louvre Abu Dhabi", "ja": "ルーヴル・アブダビ", "zh": "卢浮宫阿布扎比" },
+      "blurb": {
+        "ko": "이 박물관 위에는 거대한 은빛 돔이 떠 있는데, 별 모양 구멍이 7,850개나 뚫려 있어요. 햇빛이 이 구멍을 통과하면, 반짝이는 '빛의 비' 아래를 걷는 듯한 기분이 든답니다.",
+        "en": "A giant silver dome floats above this museum, punched with 7,850 star-shaped holes. When the sun shines through, it feels like walking under a sparkling 'rain of light.'",
+        "ja": "このミュージアムの上には、星形の穴が7,850個も開いた巨大な銀色のドームが浮かんでいます。太陽の光がそこを通り抜けると、まるできらめく『光の雨』の下を歩いているような気分になります。",
+        "zh": "一座巨大的银色圆顶悬浮在这座博物馆之上，上面开着7,850个星形孔洞。阳光穿透而下时，就像走在一场闪闪发光的“光之雨”里。"
+      },
+      "coords": [24.5336, 54.3985]
+    },
+    {
+      "name": { "ko": "야스 아일랜드 페라리 월드", "en": "Ferrari World, Yas Island", "ja": "ヤス島 フェラーリ・ワールド", "zh": "亚斯岛法拉利世界" },
+      "blurb": {
+        "ko": "세상에서 가장 큰 페라리 모양 지붕 아래, 짜릿함을 찾는 사람들은 '포뮬러 로사'를 탄답니다. 지구에서 가장 빠른 롤러코스터로, 레이싱카보다도 더 빠르게 시속 240km까지 솟구쳐요!",
+        "en": "Under the world's biggest Ferrari-shaped roof, thrill-seekers ride the Formula Rossa—the fastest roller coaster on the planet. It rockets riders to 240 km/h faster than a race car can!",
+        "ja": "世界最大のフェラーリ型屋根の下で、スリルを求める人たちは『フォーミュラ・ロッサ』に乗ります。地球上で一番速いジェットコースターで、レーシングカーよりも速く時速240kmまで加速するんです！",
+        "zh": "在世界最大的法拉利造型屋顶下，寻求刺激的人们会去搭乘“红色方程式”——地球上最快的过山车。它加速的速度比赛车还快，能冲到时速240公里！"
+      },
+      "coords": [24.4830, 54.6076]
+    }
+  ]
+}

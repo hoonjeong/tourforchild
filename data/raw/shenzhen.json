@@ -1,0 +1,120 @@
+{
+  "id": "shenzhen",
+  "country": "cn",
+  "coords": [22.5431, 114.0579],
+  "name": { "ko": "선전", "en": "Shenzhen", "ja": "深セン（シェンチェン）", "zh": "深圳" },
+  "tagline": {
+    "ko": "작은 어촌 마을이 40년 만에 거대 도시로 자란 곳",
+    "en": "The fishing village that grew into a giant city in just 40 years",
+    "ja": "小さな漁村がわずか40年で巨大都市に育った街",
+    "zh": "小渔村用四十年长成超级大城市的地方"
+  },
+  "story": {
+    "ko": [
+      "아주 오래되지 않은 옛날, 중국 남쪽 바닷가에 '선전'이라는 작고 조용한 어촌 마을이 있었어요. 마을엔 겨우 3만 명 정도가 살았고, 논에서는 벼가 자라고 바닷가엔 고깃배가 둥실둥실 떠 있었죠. 바다 건너 바로 앞에는 크고 번화한 도시, 홍콩이 있었어요.",
+      "그러다 1980년, 정말 놀라운 일이 벌어졌어요. 중국은 이 작은 마을을 골라, 나라 안 어디에서도 해보지 않은 새로운 시도를 가장 먼저 해보기로 한 거예요. 선전은 중국 최초의 '경제특구'가 되어, 새로운 공장과 가게와 회사들이 자유롭고 빠르게 자랄 수 있는 곳이 되었답니다.",
+      "그리고 정말로 무섭게 자라났어요! 세계에서도 손꼽힐 만큼 빠른 속도로요. 논이었던 자리엔 북적이는 거리가 생기고, 작은 집들은 반짝이는 고층 빌딩으로 바뀌었어요. 겨우 몇십 년 만에, 3만 명이 살던 어촌 마을은 천만 명이 넘게 사는 거대한 도시가 되어, 발명가와 기술 회사들로 가득해졌답니다.",
+      "오늘날 선전은 높은 빌딩만큼이나 신나는 놀이공원으로도 유명해요. '세계의 창' 공원에 가면 한나절 만에 작은 에펠탑도, 작은 이집트 피라미드도 만날 수 있어요. '해피밸리'에서는 롤러코스터가 하늘을 가르며 달리죠. 예전엔 고기잡이만 하던 마을 치고는, 정말 대단하지 않나요?"
+    ],
+    "en": [
+      "Not so long ago, there was a quiet little fishing village called Shenzhen, tucked next to the sea in southern China. Only about 30,000 people lived there. Farmers grew rice in green fields, and fishing boats bobbed along the shore. Just across the water sat a much bigger, busier city called Hong Kong.",
+      "Then, in 1980, something amazing happened. China chose this sleepy village to try a brand-new idea first—before anywhere else in the whole country. Shenzhen became China's very first 'Special Economic Zone,' a place where new kinds of factories, shops, and businesses could grow fast and free.",
+      "And grow it did—faster than almost any city in human history! Rice paddies turned into busy streets. Small houses turned into shining skyscrapers. In just a few decades, that tiny fishing village of 30,000 became a giant city of more than ten million people, buzzing with inventors and tech companies.",
+      "Today Shenzhen is famous for more than skyscrapers—it's home to two dazzling theme parks. At Window of the World you can stand beside a mini Eiffel Tower and tiny Egyptian pyramids all in one afternoon. And at Happy Valley, roller coasters race through the sky. Not bad for a village that used to just fish!"
+    ],
+    "ja": [
+      "そんなに昔ではないころ、中国南部の海辺に『深セン』という小さくて静かな漁村がありました。村の人口はたった3万人ほど。田んぼでは稲が育ち、海には漁船がゆらゆら浮かんでいました。海の向こうには、大きくにぎやかな街、香港がありました。",
+      "ところが1980年、とても驚くことが起こりました。中国はこの小さな村を選び、国じゅうでまだ誰も試したことのない新しい取り組みを、真っ先にやってみることにしたのです。深センは中国で最初の『経済特区』となり、新しい工場やお店や会社が自由にすばやく育つ場所になりました。",
+      "そして本当にものすごい速さで成長しました。世界でも指折りの速さです。田んぼだった場所ににぎやかな通りができ、小さな家々はきらめく高層ビルに変わりました。わずか数十年で、3万人の漁村は1000万人を超える巨大都市になり、発明家やハイテク企業でいっぱいになったのです。",
+      "今日の深センは、高いビルと同じくらいわくわくする遊園地でも有名です。『世界之窓』では、たった半日でミニチュアのエッフェル塔やエジプトのピラミッドに会えます。『欢乐谷（ハッピーバレー）』では、ジェットコースターが空を切って走ります。かつて漁をするだけの村だったとは思えませんね！"
+    ],
+    "zh": [
+      "不久以前，在中国南方的海边，有一个又小又安静的渔村，名叫深圳。村里只住着大约三万人，稻田里长着水稻，海边渔船轻轻摇晃。隔着一片海水，对岸就是繁华的大城市——香港。",
+      "可是到了1980年，一件了不起的事发生了。中国选中了这个小村庄，第一个尝试全国还没人做过的新事情。深圳成了中国第一个“经济特区”，新的工厂、商店和公司都能在这里自由快速地成长。",
+      "于是它真的飞快地长大了，速度之快，在全世界都少见！曾经的稻田变成了热闹的街道，矮小的房子变成了闪闪发光的摩天大楼。短短几十年间，那个只有三万人的渔村，变成了一座人口超过一千万的大城市，到处都是发明家和科技公司。",
+      "今天的深圳，不仅有高楼大厦，还有两座超好玩的主题公园。在“世界之窗”，你一个下午就能看到迷你版埃菲尔铁塔和埃及金字塔。在“欢乐谷”，过山车呼啸着冲向天空。曾经只会打鱼的小渔村，现在是不是很了不起？"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1980년 이전 선전에는 겨우 3만 명 정도만 살았어요. 큰 경기장 하나를 겨우 채울 정도의 사람 수였죠.",
+      "1980년, 선전은 중국 최초의 '경제특구'가 되어 새로운 아이디어를 가장 먼저 시험해보는 곳이 되었어요.",
+      "지금은 천만 명이 넘는 사람이 선전에 살아요. 세계에서 가장 빠르게 커진 도시 중 하나랍니다.",
+      "'세계의 창' 공원에 가면 미니 에펠탑, 미니 이집트 피라미드, 미니 나이아가라 폭포까지 한 공원에서 다 볼 수 있어요!",
+      "'해피밸리 선전'은 롤러코스터와 신나는 공연으로 가득해서 하루 종일 놀아도 모자라요.",
+      "선전 바로 앞바다 건너에는 홍콩이 있어요. 예전에 논이었던 곳엔 이제 반짝이는 고층 빌딩들이 서 있답니다."
+    ],
+    "en": [
+      "Before 1980, only about 30,000 people lived in Shenzhen—fewer than fit inside a big stadium.",
+      "In 1980, Shenzhen became China's very first Special Economic Zone, a testing ground for brand-new ideas.",
+      "Today more than 10 million people live in Shenzhen—one of the fastest-growing cities anywhere in the world.",
+      "At Window of the World you can see a mini Eiffel Tower, mini Egyptian pyramids, and even a mini Niagara Falls, all in one park!",
+      "Happy Valley Shenzhen is packed with roller coasters and shows—a whole day of fun isn't even enough.",
+      "Just across the water from Shenzhen sits Hong Kong, and shiny skyscrapers now stand where rice fields used to grow."
+    ],
+    "ja": [
+      "1980年より前、深センにはたった3万人ほどしか住んでいませんでした。大きなスタジアムひとつ分にも満たない人数です。",
+      "1980年、深センは中国で初めての『経済特区』となり、新しいアイデアを真っ先に試す場所になりました。",
+      "今では1000万人を超える人が深センで暮らしています。世界でも指折りの速さで成長した都市のひとつです。",
+      "『世界之窓』では、ミニチュアのエッフェル塔やエジプトのピラミッド、なんとナイアガラの滝まで、ひとつの公園で見られます！",
+      "『欢乐谷（ハッピーバレー）深セン』はジェットコースターやショーでいっぱいで、一日じゅう遊んでも遊びたりないほどです。",
+      "深センのすぐ海の向こうには香港があります。かつて田んぼだった場所には、今は輝く高層ビルが立ち並んでいます。"
+    ],
+    "zh": [
+      "1980年以前，深圳只住着大约三万人，还没坐满一个大体育场。",
+      "1980年，深圳成为中国第一个经济特区，是最先尝试全新想法的地方。",
+      "如今深圳有超过一千万人居住，是世界上成长最快的城市之一。",
+      "在“世界之窗”，你能在一个公园里看到迷你埃菲尔铁塔、迷你埃及金字塔，甚至迷你尼亚加拉大瀑布！",
+      "“欢乐谷深圳”里满是过山车和精彩演出，玩上一整天都不够。",
+      "深圳隔海相望就是香港，曾经种水稻的地方，如今立满了闪闪发光的摩天大楼。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "3만 명이 살던 작은 어촌 마을이 겨우 40년 만에 천만 명이 넘는 도시가 됐대. 그 모습을 지켜본 사람들은 어떤 기분이었을까?",
+    "en": "A village of 30,000 people grew into a city of over 10 million in just 40 years. What do you think it felt like to watch that happen?",
+    "ja": "3万人の村が、たった40年で1000万人を超える都市になったんだって。それを見ていた人たちは、どんな気持ちだったと思う？",
+    "zh": "一个只有三万人的小渔村，只用了四十年就变成了超过一千万人的大城市。你觉得亲眼看着这一切发生的人，会是什么心情呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "세계의 창", "en": "Window of the World", "ja": "世界之窓（せかいのまど）", "zh": "世界之窗" },
+      "blurb": {
+        "ko": "미니어처로 만든 에펠탑, 피라미드, 나이아가라 폭포 등 세계 유명 명소들을 한자리에서 볼 수 있는 공원이에요. 한나절이면 전 세계를 다 구경한 기분이 든답니다!",
+        "en": "A park packed with miniature versions of the world's most famous landmarks—the Eiffel Tower, the pyramids, even Niagara Falls. You can 'visit' the whole world in a single afternoon!",
+        "ja": "エッフェル塔やピラミッド、ナイアガラの滝など、世界の有名な名所をミニチュアで再現した公園。半日で世界中を旅した気分になれます！",
+        "zh": "一座把埃菲尔铁塔、金字塔、尼亚加拉大瀑布等世界名胜都做成迷你模型的公园。一个下午就能“环游”全世界！"
+      },
+      "coords": [22.5372, 113.9727]
+    },
+    {
+      "name": { "ko": "해피밸리 선전", "en": "Happy Valley Shenzhen", "ja": "欢乐谷（ハッピーバレー）深セン", "zh": "欢乐谷深圳" },
+      "blurb": {
+        "ko": "짜릿한 롤러코스터와 신나는 공연이 가득한 놀이공원이에요. 선전이 놀이의 도시로도 유명해진 이유를 이곳에서 직접 느껴볼 수 있어요.",
+        "en": "A thrilling theme park full of roller coasters and lively shows. It's the reason Shenzhen is famous for fun as much as for skyscrapers.",
+        "ja": "スリル満点のジェットコースターや楽しいショーがいっぱいのテーマパーク。深センが遊びの街としても有名な理由を実感できます。",
+        "zh": "满是刺激过山车和精彩演出的主题公园。来这里，你就能明白深圳为什么不仅以高楼出名，也以好玩出名。"
+      },
+      "coords": [22.5397, 113.9754]
+    },
+    {
+      "name": { "ko": "선전만 공원", "en": "Shenzhen Bay Park", "ja": "深セン湾公園", "zh": "深圳湾公园" },
+      "blurb": {
+        "ko": "바다 건너 홍콩이 보이는 기다란 해안 공원이에요. 해가 질 무렵이면 반짝이는 도시 불빛이 물 위에 비쳐 반짝반짝 빛난답니다.",
+        "en": "A long waterfront park with a view of Hong Kong just across the bay. At sunset, the city's twinkling lights spill across the water.",
+        "ja": "湾の向こうに香港が見える細長い海辺の公園。夕暮れどきには、街のきらめく明かりが水面に映って輝きます。",
+        "zh": "一座细长的海滨公园，隔着海湾就能望见香港。傍晚时分，城市的点点灯光洒在水面上，闪闪发亮。"
+      },
+      "coords": [22.4934, 113.9714]
+    },
+    {
+      "name": { "ko": "핑안 국제금융센터", "en": "Ping An Finance Centre", "ja": "平安国際金融センター", "zh": "平安国际金融中心" },
+      "blurb": {
+        "ko": "예전에 논이었던 땅 위에 우뚝 솟은 반짝이는 초고층 빌딩이에요. 선전이 얼마나 빨리, 얼마나 높이 자랐는지 한눈에 보여주는 곳이랍니다.",
+        "en": "A gleaming super-tall skyscraper standing where rice paddies once grew. It shows, in one glance, just how fast and how high Shenzhen has grown.",
+        "ja": "かつて田んぼだった土地にそびえる、きらめく超高層ビル。深センがどれほど速く、どれほど高く成長したかを一目で伝えてくれます。",
+        "zh": "矗立在昔日稻田之上、闪闪发光的摩天大楼。它一眼就能让人看出深圳成长得有多快、有多高。"
+      },
+      "coords": [22.5341, 114.0552]
+    }
+  ]
+}

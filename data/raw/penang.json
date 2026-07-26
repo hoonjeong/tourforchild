@@ -1,0 +1,120 @@
+{
+  "id": "penang",
+  "country": "my",
+  "coords": [5.4141, 100.3288],
+  "name": { "ko": "페낭", "en": "Penang", "ja": "ペナン", "zh": "槟城" },
+  "tagline": {
+    "ko": "동양과 서양이 200년째 사이좋게 뒤섞인 열대의 섬",
+    "en": "A tropical island where East and West have been mixing for 200 years",
+    "ja": "東洋と西洋が200年間仲良く混ざり合ってきた熱帯の島",
+    "zh": "东方与西方交融了两百年的热带岛屿"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 말레이시아 앞바다에 작은 열대 섬 하나가 있었어요. 섬에는 '빈랑나무'라는 키 큰 야자나무가 가득했는데, 그래서 뱃사람들은 이 섬을 '풀라우 피낭', 즉 '빈랑 열매의 섬'이라고 불렀답니다. 따뜻한 에메랄드빛 바다와 초록빛 언덕에 둘러싸여 조용하고 한적해 보였지만, 사실 이 섬은 곧 세상에서 가장 신나는 교차로가 될 참이었어요.",
+      "1786년, 프랜시스 라이트라는 영국 상인이 배를 타고 와서 섬 북동쪽 끝에 무역 기지를 세우고 이곳을 '조지타운'이라 이름 붙였어요. 그는 이곳을 '자유 무역항'으로 만들었는데, 배가 물건을 싣고 내려도 세금을 따로 안 내도 된다는 뜻이었죠. 소문은 금세 퍼졌고, 중국, 인도, 아라비아, 유럽에서 온 배들이 향신료와 비단, 차를 싣고 앞다투어 몰려들었답니다.",
+      "배를 타고 온 사람들은 그대로 섬에 눌러앉았어요. 중국인, 말레이인, 인도인, 아랍인, 유럽인 가족들이 나란히 집을 짓고 살면서, 서로 다른 문화가 멋지게 뒤섞이기 시작했죠. 같은 거리에 중국 절, 힌두 사원, 모스크, 교회가 나란히 들어섰는데, 어떤 곳은 몇 걸음 사이로 붙어 있기도 해요! 어떤 중국인 가족들은 아예 바다 위에 나무 기둥을 박아 마을을 통째로 지었는데, 이걸 '클랜 제티'라고 불러요. 배 가까이서 살고 싶었거든요.",
+      "오늘날 조지타운의 옛 시가지는 너무나 특별해서 전 세계가 함께 지켜주기로 약속했고, 낡은 담벼락에는 아이와 고양이를 그린 알록달록한 벽화들이 살아 숨쉬듯 그려져 있어요. 시내를 벗어나면, 여러분의 증조할머니보다도 나이 많은 기차가 세계에서 손꼽히게 가파른 철길을 따라 시원하고 안개 낀 페낭 힐 꼭대기까지 데려다준답니다. 그리고 동남아시아에서 가장 큰 불교 사원 중 하나인 극락사에서는 수천 개의 등불이 마치 별을 땅으로 옮겨놓은 것처럼 반짝이죠. 작은 섬 하나 안에 온 세상이 담겨 있는 셈이에요!"
+    ],
+    "en": [
+      "Long ago, a small tropical island off the coast of Malaysia was covered in tall palm trees called betel nut palms. Sailors who passed by simply called it 'Pulau Pinang'—Betel Nut Island. Ringed by warm turquoise water and green hills, it looked like a quiet, sleepy place. But it was about to become one of the most exciting crossroads on Earth.",
+      "In 1786, a British trader named Francis Light sailed in and set up a trading post at the northeastern tip of the island, in a town he named George Town. He made it a free port, meaning ships could load and unload goods without paying extra taxes. Word spread fast, and soon ships from China, India, Arabia, and Europe were all sailing in to trade spices, silk, and tea.",
+      "People followed the ships and stayed. Chinese, Malay, Indian, Arab, and European families all built their homes side by side, and their cultures mixed together in wonderful new ways. Chinese temples, Hindu shrines, mosques, and churches popped up on the very same streets—sometimes just steps apart! Some Chinese families even built whole villages on wooden stilts right over the sea, called clan jetties, so they could live close to their boats.",
+      "Today George Town's old town is so special that the whole world agreed to protect it, and colorful street art of children and cats now dances across its ancient walls. Just outside the city, a train older than your great-great-grandmother climbs one of the steepest railways on the planet up misty, cool Penang Hill. And at the golden-lit Kek Lok Si Temple, one of the largest Buddhist temples in all of Southeast Asia, thousands of lanterns glow like stars brought down to earth. One little island, holding a whole world inside it!"
+    ],
+    "ja": [
+      "はるか昔、マレーシアの沖に小さな熱帯の島がありました。島には『ビンロウジュ』という背の高いヤシの木がたくさん生えていたので、船乗りたちはこの島を『プラウ・ピナン』、つまり『ビンロウの実の島』と呼びました。あたたかいエメラルド色の海と緑の丘に囲まれ、静かでのんびりした場所に見えましたが、実はこの島はまもなく世界でもっともわくわくする交差点になろうとしていたのです。",
+      "1786年、フランシス・ライトというイギリスの商人が船でやってきて、島の北東の端に交易の拠点を作り、そこを『ジョージタウン』と名付けました。彼はここを『自由貿易港』にしました。つまり船が荷物を積み下ろししても、余分な税金を払わなくてよかったのです。うわさはあっという間に広まり、中国、インド、アラビア、ヨーロッパから船が次々とやってきて、香辛料や絹、お茶を取り引きしました。",
+      "船に乗ってきた人々は、そのまま島に住みつきました。中国人、マレー人、インド人、アラブ人、ヨーロッパ人の家族が並んで家を建てて暮らすうちに、それぞれの文化がすてきに混ざり合っていきました。同じ通りに中国のお寺、ヒンドゥー教の祠、モスク、教会が並び、なんと数歩しか離れていない場所もあったのです！中には海の上に木の柱を立てて村ごと建てた中国人家族もいました。これは『クランジェティー』と呼ばれ、船のそばで暮らしたかったからなんですね。",
+      "今日、ジョージタウンの旧市街はとても特別なので、世界中がいっしょに守っていくと約束しました。古い壁には子どもや猫を描いたカラフルな壁画が、まるで生きているかのように広がっています。街を出ると、ひいひいおばあちゃんよりも年上の列車が、世界でも屈指の急な線路を通って、涼しくて霧のかかったペナン・ヒルの頂上まで連れて行ってくれます。そして東南アジアで最大級の仏教寺院の一つ、極楽寺では、何千ものちょうちんが、まるで星を地上に降ろしたようにきらめきます。小さな島ひとつに、世界まるごとが詰まっているのですね！"
+    ],
+    "zh": [
+      "很久很久以前，马来西亚沿海有一座小小的热带岛屿。岛上长满了高高的槟榔树，所以过路的水手们干脆把它叫作“浮罗槟榔”，也就是“槟榔果之岛”。岛屿被温暖的翡翠色海水和青翠的山丘环绕，看起来安静又悠闲，可这座小岛很快就要变成地球上最热闹的十字路口之一了。",
+      "1786年，一位名叫弗朗西斯·莱特的英国商人乘船而来，在岛的东北角建立了一个贸易据点，并把它命名为“乔治市”。他把这里变成了一个“自由港”——船只装卸货物都不用额外缴税。消息很快传开，来自中国、印度、阿拉伯和欧洲的船只争先恐后地驶来，用香料、丝绸和茶叶做买卖。",
+      "跟着船只而来的人们，就此在岛上安了家。华人、马来人、印度人、阿拉伯人和欧洲人的家庭比邻而居，各自的文化奇妙地交融在了一起。同一条街上，中国庙宇、印度神庙、清真寺和教堂比肩而立，有的地方甚至只隔了几步之遥！还有一些华人家族干脆在海面上打下木桩，整村整村地盖起了房子，这就是“姓氏桥”——他们想住得离自己的船近一点。",
+      "如今，乔治市的老城区实在太特别了，全世界都同意一起守护它；斑驳的老墙上，画满了孩子和猫咪的彩色壁画，仿佛随时都会动起来。走出城区，一列比你曾曾祖母还老的小火车，会沿着全球数一数二陡峭的铁轨，把你送上凉爽多雾的槟城山顶。而在东南亚最大的佛教寺庙之一——极乐寺，成千上万盏灯笼闪闪发光，仿佛把星星请下了人间。小小一座岛屿，竟装下了整个世界！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "페낭이라는 이름은 빈랑나무에서 왔어요. '풀라우 피낭'은 말레이어로 '빈랑 열매의 섬'이라는 뜻이에요.",
+      "조지타운은 독특한 문화와 건물이 어우러진 점을 인정받아 2008년 유네스코 세계유산이 됐어요.",
+      "진짜 자전거에 아이 둘을 그려 넣은 벽화가 너무 유명해져서, 도시 전체가 벽화 천지가 됐어요. 지금은 수백 개나 있대요!",
+      "'클랜 제티'는 바다 위 나무 기둥 위에 지은 마을 전체예요. 100년도 넘게 사람들이 물 위에서 살고 있답니다.",
+      "페낭 힐 등산열차는 세계에서 손꼽히게 가파른 철길이에요. 꼭대기는 해변보다 5도쯤 시원하대요.",
+      "동남아시아 최대급 불교 사원인 극락사는 설날마다 수천 개의 등불을 밝혀서, 언덕 전체가 별처럼 반짝인답니다."
+    ],
+    "en": [
+      "Penang got its name from betel nut palm trees—'Pulau Pinang' means 'Betel Nut Island' in Malay.",
+      "George Town was named a UNESCO World Heritage Site in 2008 for its one-of-a-kind mix of cultures and buildings.",
+      "A mural of two kids on a real bicycle, painted by artist Ernest Zacharevic, became so famous it started a whole city of street art—now there are hundreds of murals!",
+      "The clan jetties are entire villages built on wooden stilts over the sea. Families have lived there for more than 100 years, right above the water.",
+      "The Penang Hill funicular railway is one of the steepest in the world, and the summit can be about 5°C cooler than down by the beach.",
+      "Kek Lok Si, one of the largest Buddhist temples in Southeast Asia, lights up with thousands of lanterns for Chinese New Year—like a hillside full of stars."
+    ],
+    "ja": [
+      "ペナンという名前はビンロウジュ（ビンロウの木）に由来します。『プラウ・ピナン』はマレー語で『ビンロウの実の島』という意味です。",
+      "ジョージタウンは独特な文化と建物が入り混じっていることが認められ、2008年にユネスコ世界遺産に登録されました。",
+      "本物の自転車に乗る子どもたちを描いた壁画があまりに有名になり、街じゅうが壁画だらけに。今では数百点もあるそうです！",
+      "『クランジェティー』は海の上に木の柱を立てて作った村まるごとのこと。100年以上も前から人々が水の上で暮らしています。",
+      "ペナン・ヒルの登山鉄道は世界屈指の急勾配。頂上はビーチより5度くらい涼しいそうです。",
+      "東南アジア最大級の仏教寺院・極楽寺は、旧正月になると何千ものちょうちんで彩られ、丘全体が星のようにきらめきます。"
+    ],
+    "zh": [
+      "槟城的名字来自槟榔树。“浮罗槟榔”在马来语里就是“槟榔果之岛”的意思。",
+      "乔治市因独特的多元文化与建筑风貌，于2008年被列为联合国教科文组织世界遗产。",
+      "一幅画着两个孩子骑真实自行车的壁画火遍全球，从此整座城市变成了壁画天地——如今已有几百幅之多！",
+      "“姓氏桥”是建在海面木桩上的整片村庄，人们已经在水上生活了一百多年。",
+      "槟城山缆车轨道是全球最陡峭的铁路之一，山顶温度比海边低约5摄氏度。",
+      "东南亚最大的佛教寺庙之一——极乐寺，每逢农历新年都会点亮成千上万盏灯笼，整座山丘宛如繁星闪烁。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "작은 섬 하나에 어떻게 중국 절, 인도 사원, 모스크, 교회가 한 골목에 다 모여 있을까?",
+    "en": "Why does one little island have Chinese temples, Hindu shrines, mosques, and churches all on the same street?",
+    "ja": "どうして小さな島ひとつに、中国のお寺、ヒンドゥー教の祠、モスク、教会が同じ通りに全部あるのかな？",
+    "zh": "为什么一座小小的岛屿上，中国庙宇、印度神庙、清真寺和教堂会全都挤在同一条街上呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "조지타운 벽화 거리", "en": "George Town Street Art", "ja": "ジョージタウンのストリートアート", "zh": "乔治市壁画街" },
+      "blurb": {
+        "ko": "낡은 골목 담벼락마다 아이들, 고양이, 자전거를 그린 그림이 가득해요. 특히 진짜 자전거에 아이 둘이 타고 있는 벽화 앞에서는 다들 함께 사진을 찍는답니다.",
+        "en": "Old alley walls are covered in paintings of kids, cats, and bicycles. Everyone stops to pose with the famous mural of two children riding a real bicycle.",
+        "ja": "古い路地の壁には子どもや猫、自転車の絵がいっぱい。特に本物の自転車に子ども二人が乗っている壁画の前では、みんな一緒に写真を撮ります。",
+        "zh": "老巷子的墙壁上画满了孩子、猫咪和自行车。最有名的是两个孩子骑在真实自行车上的壁画，大家都爱在这里合影。"
+      },
+      "coords": [5.4145, 100.3384]
+    },
+    {
+      "name": { "ko": "페낭 힐", "en": "Penang Hill", "ja": "ペナン・ヒル", "zh": "槟城山" },
+      "blurb": {
+        "ko": "100년도 더 된 등산열차를 타고 세계에서 손꼽히게 가파른 철길을 오르면, 시원한 정상에서 섬 전체와 바다가 한눈에 펼쳐져요.",
+        "en": "Ride a funicular train over a hundred years old up one of the steepest railways on Earth, and the cool summit reveals the whole island and sea below.",
+        "ja": "100年以上前からある登山鉄道に乗って、世界屈指の急勾配を上ると、涼しい頂上から島全体と海が見渡せます。",
+        "zh": "乘坐已有百年历史的缆车，沿着全球数一数二陡峭的铁轨爬升，凉爽的山顶能俯瞰整座岛屿和大海。"
+      },
+      "coords": [5.4225, 100.2769]
+    },
+    {
+      "name": { "ko": "극락사", "en": "Kek Lok Si Temple", "ja": "極楽寺", "zh": "极乐寺" },
+      "blurb": {
+        "ko": "동남아시아에서 가장 큰 불교 사원 중 하나예요. 산비탈을 가득 채운 계단과 탑들이 있고, 설날에는 수천 개의 등불이 반짝여 온 언덕이 빛나요.",
+        "en": "One of the largest Buddhist temples in Southeast Asia, with pagodas and staircases climbing up the hillside. At Chinese New Year, thousands of lanterns light up the whole slope.",
+        "ja": "東南アジア最大級の仏教寺院。山の斜面いっぱいに塔と階段が広がり、旧正月には何千ものちょうちんが丘全体を照らします。",
+        "zh": "东南亚最大的佛教寺庙之一，佛塔和石阶铺满整个山坡。农历新年时，成千上万盏灯笼点亮整座山丘。"
+      },
+      "coords": [5.3988, 100.2739]
+    },
+    {
+      "name": { "ko": "클랜 제티 (성씨 다리 마을)", "en": "Clan Jetties", "ja": "クランジェティー（姓氏の橋の村）", "zh": "姓氏桥" },
+      "blurb": {
+        "ko": "바다 위에 나무 기둥을 박아 지은 마을이에요. 100년 넘게 같은 성씨를 가진 가족들이 대대로 물 위에서 살고 있답니다.",
+        "en": "A whole village built on wooden stilts over the water. Families sharing the same surname have lived here, right above the sea, for more than a hundred years.",
+        "ja": "海の上に木の柱を立てて造られた村。同じ姓を持つ家族が100年以上、代々水の上で暮らしています。",
+        "zh": "整座村庄建在海面的木桩上。拥有相同姓氏的家族已经在水上世代居住了一百多年。"
+      },
+      "coords": [5.4090, 100.3400]
+    }
+  ]
+}

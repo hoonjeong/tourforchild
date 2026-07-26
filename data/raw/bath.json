@@ -1,0 +1,120 @@
+{
+  "id": "bath",
+  "country": "gb",
+  "coords": [51.3811, -2.3590],
+  "name": { "ko": "배스", "en": "Bath", "ja": "バース", "zh": "巴斯" },
+  "tagline": {
+    "ko": "한 번도 식지 않는 신비한 온천 위에 세워진 영국 도시",
+    "en": "The English city built around a magic hot spring that never runs cold",
+    "ja": "決して冷めない不思議な温泉の上に築かれたイギリスの街",
+    "zh": "建在一处从未冷却的神奇温泉之上的英国城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 안개 낀 잉글랜드 서쪽 언덕에 '블러드'라는 왕자가 살았대요. 무서운 피부병에 걸려 궁에서 쫓겨난 그는 가난한 돼지치기가 되었죠. 그런데 어느 날, 자기가 기르던 돼지들이 자꾸 김이 모락모락 나는 진흙탕에서 뒹구는 걸 봤어요. 왕자도 따라서 그 따뜻한 진흙에 몸을 담갔더니, 신기하게도 피부병이 싹 나았답니다! 왕자는 뛸 듯이 기뻐하며 그 신비한 온천 자리에 마을을 세웠는데, 사람들은 그 마을이 바로 '배스'가 되었다고 말해요.",
+      "진짜 역사는 2000년 전, 로마 사람들이 이곳에 도착하면서 시작돼요. 그들도 신기한 광경을 보았어요. 불도 없는데 땅에서 저절로 뜨거운 물이 콸콸 솟아나고 있었거든요! 로마인들은 그 샘 속에 '술리스'라는 여신이 산다고 믿고, 신전과 커다란 목욕탕을 지어 바쳤어요. 그리고 이 도시를 '아쿠에 술리스', 즉 '술리스의 물'이라고 불렀답니다.",
+      "그 뒤로 몇 백 년 동안 배스의 신비한 온천은 거의 잊혀졌어요. 그러다 약 300년 전, 부유한 사람들이 이 치료 효과 있는 물을 다시 발견하면서, 배스는 영국에서 가장 세련된 온천 휴양 도시로 다시 태어났어요. 황금빛 돌로 지은 우아한 집들이 거리 전체를 곡선으로 둘러쌌는데, 그게 바로 유명한 '로열 크레센트'예요. 소설가 제인 오스틴도 이 광장을 거닐며 배스를 자신의 소설에 담았답니다.",
+      "정말 놀라운 사실은, 그 뜨거운 물이 지금도 옛날 로마 시대에 만든 바로 그 관을 타고, 그 옛날 그 욕조로 흘러들고 있다는 거예요. 지금 보글보글 솟아나는 물 한 방울 한 방울은, 사실 약 만 년 전에 근처 언덕에 내린 빗물이랍니다. 그 빗물이 땅속 깊이깊이 스며들었다가, 뜨겁게 데워져 다시 솟아나 우리를 만나러 온 거예요. 배스에서 그 물을 만지면, 지구 표면에 남은 것 중 손꼽히게 오래된 빗물을 만지는 셈이죠."
+    ],
+    "en": [
+      "Long ago, in the misty hills of western England, legend says a prince named Bladud caught a terrible skin disease and was sent away from home. He became a poor swineherd, and one day noticed his pigs kept wallowing in a steaming, muddy puddle. When he tried the warm mud himself, his skin cleared up! Overjoyed, he built a town right on that magic warm spring — and folks say that town became Bath.",
+      "Real history begins with the Romans, who arrived about 2,000 years ago and found the same strange thing: hot water bubbling straight out of the ground, all on its own, with no fire needed. They believed a goddess named Sulis lived in the spring, so they built her a temple and a grand bathing hall, calling the whole place 'Aquae Sulis' — the waters of Sulis.",
+      "For hundreds of years afterward, Bath's magic pool was almost forgotten. Then, about 300 years ago, rich visitors rediscovered the healing water and turned Bath into the most fashionable spa town in the country. Elegant golden-stone houses curved around whole streets, like the famous Royal Crescent, and writers like Jane Austen strolled its squares and wrote it into their books.",
+      "Here's the wow: that same hot water is still flowing today, through the very same Roman pipes, into the very same pool. Every drop that bubbles up actually fell as rain on nearby hills about 10,000 years ago, then journeyed deep underground before rising back hot to greet you. Stand by the water in Bath, and you're touching rain older than almost anything else on Earth's surface."
+    ],
+    "ja": [
+      "はるか昔、霧につつまれたイングランド西部の丘に、ブラッドという王子がいたと言われています。恐ろしい皮膚の病気にかかり、国を追われた王子は、貧しい豚飼いになりました。ところがある日、飼っている豚たちが湯気の立つ泥だまりで何度も転げまわっているのに気づきます。王子も試しにその温かい泥に入ってみると、なんと皮膚の病気がすっかり治ってしまったのです！大喜びした王子は、その不思議な温泉のそばに町を建てました。それが今のバースになったと言われています。",
+      "本当の歴史は、2000年前にローマ人がここへやってきたところから始まります。彼らも不思議な光景を目にしました。火もないのに、地面から熱いお湯がひとりでにこんこんとわき出ていたのです！ローマ人はその泉に『スリス』という女神が住んでいると信じ、神殿と大きな浴場を建ててささげました。そしてこの町を『アクアエ・スリス』、つまり『スリスの水』と呼んだのです。",
+      "それから何百年もの間、バースの不思議な温泉はほとんど忘れられていました。しかし約300年前、お金持ちの人々がこの体によいお湯を再発見し、バースはイギリスで一番おしゃれな温泉保養地として生まれ変わりました。はちみつ色の石でできた優雅な家々が、通りぜんたいをカーブさせて並び、それが有名な『ロイヤル・クレセント』です。作家ジェーン・オースティンもこの広場を散歩し、バースを自分の小説にえがきました。",
+      "驚くべきことに、その温かいお湯は今も、昔ローマ時代に作られたのと同じ配管を通って、同じ浴槽に流れこんでいます。今ぷくぷくとわき出る水の一滴一滴は、じつは約1万年前に近くの丘に降った雨なのです。その雨水は地面の奥深くまでしみこみ、熱くあたためられてまたわき上がり、私たちに会いに来てくれました。バースでその水にふれると、地球の表面に残る中でも指折りに古い雨にふれていることになるのです。"
+    ],
+    "zh": [
+      "很久很久以前，在雾气缭绕的英格兰西部丘陵间，传说住着一位名叫布拉德的王子。他得了一种可怕的皮肤病，被赶出了王宫，只好去当一个穷苦的牧猪人。有一天，他发现自己养的猪总喜欢在一个冒着热气的泥潭里打滚。他好奇地也跳进那温暖的泥浆里试了试，没想到皮肤病竟然奇迹般地好了！王子欣喜若狂，就在这处神奇温泉旁建起了一座小镇——据说，这座小镇后来就变成了巴斯。",
+      "真正的历史，从两千年前罗马人来到这里开始。他们也看到了同样奇特的景象：没有一点火，滚烫的泉水却自己咕嘟咕嘟从地里冒出来！罗马人相信泉水里住着一位名叫苏利斯的女神，于是为她建起神庙和一座宏伟的浴场，并把这座城市称为“阿奎埃·苏利斯”，意思是“苏利斯的泉水”。",
+      "此后几百年间，巴斯这处神奇的温泉几乎被人遗忘。大约300年前，富有的游客重新发现了这有益健康的泉水，巴斯从此变成了全英国最时髦的温泉度假胜地。一栋栋用蜜糖色石头建成的优雅住宅沿着街道排成完美的弧线，这就是著名的“皇家新月楼”。作家简·奥斯汀也曾漫步在这里的广场上，把巴斯写进了自己的小说。",
+      "最神奇的是，那股热水如今仍沿着古罗马人建造的同一条管道，流进同一个浴池。此刻咕嘟咕嘟冒出来的每一滴水，其实是大约一万年前落在附近山丘上的雨水。它慢慢渗入地底深处，被地热悄悄温热，又重新涌出地面来与我们相见。当你在巴斯触碰这泉水时，你摸到的可是地球表面留存至今、数一数二古老的雨水呢。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "배스의 온천수 한 방울 한 방울은 약 만 년 전 근처 언덕에 내린 빗물이 땅속 깊이 스며들었다가 따뜻하게 데워져 다시 솟아난 거예요.",
+      "배스는 영국 전체를 통틀어 자연 온천이 솟는 유일한 곳이에요. 하루에 백만 리터가 넘는 물이 섭씨 46도(화씨 114도) 가까운 뜨거운 온도로 솟아난답니다!",
+      "전설에 따르면 블러드 왕자는 자기 돼지들이 따뜻한 진흙 온천에서 뒹구는 걸 보고 따라 해봤다가 피부병이 나아서, 바로 그 자리에 마을을 세웠대요.",
+      "옛날 로마 사람들은 동전과 소원(가끔은 저주까지!)을 적은 쪽지를 신성한 샘에 던져 여신에게 바쳤어요. 고고학자들이 백 개 넘게 찾아냈답니다.",
+      "약 2000년 전 로마인들이 만든 납 수도관이 지금도 그대로 로마식 목욕탕에 물을 흘려보내고 있어요.",
+      "로열 크레센트는 30채의 웅장한 집들이 하나의 완벽한 곡선을 이루며 늘어서 있는데, 모두 같은 꿀색 배스 돌로 지어졌어요."
+    ],
+    "en": [
+      "Every drop of Bath's hot spring water fell as rain on nearby hills about 10,000 years ago, then seeped deep underground before bubbling back up warm.",
+      "Bath has the only natural hot springs in the whole of Britain — over a million liters of water gush out every day, nearly 46°C (114°F) hot!",
+      "Legend says a prince named Bladud was cured of a skin disease after watching his pigs wallow in the warm muddy spring — so he founded a town right there.",
+      "Ancient Romans tossed coins and little written wishes (even curses!) into the sacred spring as gifts for the goddess — archaeologists have found over a hundred of them.",
+      "The original lead pipes the Romans built about 2,000 years ago still carry water through the Roman Baths today.",
+      "The Royal Crescent is 30 grand houses built in one perfect curve, all from the same honey-colored Bath stone."
+    ],
+    "ja": [
+      "バースの温泉水の一滴一滴は、約1万年前に近くの丘に降った雨が地中深くしみこみ、あたためられてまたわき出てきたものです。",
+      "バースはイギリス全土でただ一つ、自然の温泉がわき出る場所です。毎日100万リットル以上の水が、セ氏46度近い熱さでわき出ているんですよ！",
+      "伝説によると、ブラッド王子は飼っている豚が温かい泥の温泉で転げまわるのを見てまねしてみたら皮膚の病気が治り、その場所に町を建てたそうです。",
+      "昔のローマ人は、コインや願いごと（時にはのろいまで！）を書いた札を聖なる泉に投げ入れて、女神へのお供えにしました。考古学者はこれまで100個以上見つけています。",
+      "約2000年前にローマ人が作った鉛の水道管が、今もそのままローマ浴場に水を流しています。",
+      "ロイヤル・クレセントは30軒の立派な家が一つの完璧なカーブを描いて並んでおり、すべて同じはちみつ色のバース産の石でできています。"
+    ],
+    "zh": [
+      "巴斯温泉水的每一滴，都是大约一万年前落在附近山丘上的雨水，渗入地下深处后被温热，又重新涌出地面。",
+      "巴斯是整个英国唯一天然温泉涌出的地方——每天涌出超过一百万升的水，温度接近46摄氏度（114华氏度）！",
+      "传说布拉德王子看见自己的猪在温暖的泥浆温泉里打滚，学着照做后皮肤病竟然痊愈了，于是他就在那里建起了一座小镇。",
+      "古罗马人会把硬币和写着心愿（有时甚至是诅咒！）的小纸片投入这处圣泉，作为献给女神的礼物。考古学家已经发现了一百多枚。",
+      "罗马人大约两千年前建造的铅制水管，至今仍在把水输送进罗马浴场。",
+      "皇家新月楼由30栋气派的住宅组成一道完美的弧线，全部用同样蜜糖色的巴斯石建造而成。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "지금 보글보글 솟아나는 따뜻한 물은 만 년 전에 내린 빗물이래. 그동안 대체 어디에 있었을까?",
+    "en": "That warm water bubbling up today fell as rain 10,000 years ago — where do you think it's been all this time?",
+    "ja": "今わき出ている温かいお湯は1万年前に降った雨なんだって。その間、いったいどこにいたんだろう？",
+    "zh": "现在咕嘟咕嘟冒出来的温水，竟然是一万年前落下的雨水。这段时间它究竟去了哪里呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "로만 바스 (로마 목욕탕)", "en": "The Roman Baths", "ja": "ローマン・バス（古代ローマ浴場）", "zh": "罗马浴场" },
+      "blurb": {
+        "ko": "로마인들이 거의 2000년 전에 만든 진짜 목욕탕 안으로 내려가 보세요. 지금도 김이 모락모락 나는 초록빛 온천수로 가득해요. 원래 돌바닥과 옛날 납 수도관, 사람들이 행운을 빌며 던진 동전들도 볼 수 있답니다.",
+        "en": "Step down into the actual pool the Romans built almost 2,000 years ago, still filled with steaming green spring water. You can see the original stone floor, ancient lead pipes, and even coins tourists once tossed in for luck.",
+        "ja": "ローマ人が2000年近く前に作った本物の浴槽の中へ、階段を下りて入ってみましょう。今も湯気の立つ緑色の温泉水で満たされています。当時のままの石の床や古い鉛の水道管、幸運を願って投げ入れられたコインも見られますよ。",
+        "zh": "走下台阶，进入罗马人近两千年前建造的真正浴池，里面至今仍蓄满冒着热气的碧绿泉水。你能看到原始的石头地面、古老的铅水管，还有游人为祈求好运投入的硬币。"
+      },
+      "coords": [51.3814, -2.3597]
+    },
+    {
+      "name": { "ko": "배스 대성당", "en": "Bath Abbey", "ja": "バース・アビー（大聖堂）", "zh": "巴斯修道院" },
+      "blurb": {
+        "ko": "이 우뚝 솟은 돌 교회는 옛 온천 바로 옆, 훨씬 더 오래된 색슨 시대 교회가 있던 자리에 세워졌어요. 정면을 올려다보면 돌로 조각된 천사들이 사다리를 타고 하늘로 올라가는 모습을 볼 수 있답니다.",
+        "en": "This towering stone church stands right on the spot where an even older Saxon church once stood, next door to the ancient hot spring. Look up at its west front and you'll see stone angels carved climbing ladders straight up to heaven.",
+        "ja": "このそびえ立つ石造りの教会は、古い温泉のすぐそばにあった、さらに昔のサクソン時代の教会の跡地に建っています。正面を見上げると、はしごを登って天へ向かう石の天使たちの彫刻が見えますよ。",
+        "zh": "这座高耸的石造教堂，就建在紧邻古老温泉、比它更早的撒克逊教堂旧址上。抬头看它的正面，你会看到石雕天使们正顺着梯子向天堂攀爬。"
+      },
+      "coords": [51.3812, -2.3590]
+    },
+    {
+      "name": { "ko": "로열 크레센트", "en": "Royal Crescent", "ja": "ロイヤル・クレセント", "zh": "皇家新月楼" },
+      "blurb": {
+        "ko": "서른 채의 웅장한 집들이 하나로 이어져 거대하고 완벽한 초승달 모양을 이루는데, 모두 같은 황금빛 배스 돌로 지어졌어요. 세계에서 손꼽히는 조지 왕조 시대 건축의 걸작이고, 제인 오스틴도 이 앞을 즐겨 산책했답니다.",
+        "en": "Thirty grand houses curve together in one giant, perfect crescent, all built from the same golden Bath stone. It's one of the finest examples of Georgian architecture anywhere in the world, and Jane Austen loved to walk past it.",
+        "ja": "30軒の壮大な家々が一つにつながり、巨大で完璧な三日月形を描いています。すべて同じ黄金色のバース産の石で建てられました。世界でも屈指のジョージアン様式建築の傑作で、ジェーン・オースティンもこの前を歩くのが好きだったそうです。",
+        "zh": "三十栋气派的住宅连成一道巨大而完美的新月形弧线，全部用同样金黄色的巴斯石建造。它是世界上乔治王朝建筑风格最精美的范例之一，简·奥斯汀也曾喜欢在此漫步。"
+      },
+      "coords": [51.3868, -2.3639]
+    },
+    {
+      "name": { "ko": "펄트니 다리", "en": "Pulteney Bridge", "ja": "パルトニー橋", "zh": "普尔特尼桥" },
+      "blurb": {
+        "ko": "이 다리는 전 세계에서 몇 개 안 되는, 양쪽에 작은 상점들이 줄지어 늘어선 특별한 다리예요. 다리를 건너면 마치 작은 골목길을 걷는 기분이 든답니다. 다리 아래로는 에이번 강물이 넓고 둥근 둑을 넘어 콸콸 흘러내려요.",
+        "en": "This is one of only a handful of bridges in the whole world with little shops built all along both sides, so crossing it feels just like walking down a tiny street. Underneath, the River Avon tumbles over a wide, curved weir.",
+        "ja": "この橋は、世界でもわずかしかない、両側にずらりと小さなお店が並ぶ橋の一つです。渡っていると、まるで小さな通りを歩いているみたい。橋の下では、エイヴォン川の水が広くカーブしたせきを勢いよく流れ落ちています。",
+        "zh": "这是全世界仅有的几座两侧都建满小店铺的桥梁之一，走过桥面就像走在一条小小的街道上。桥下，埃文河水正越过一道宽阔弯曲的堰坝奔流而下。"
+      },
+      "coords": [51.3821, -2.3564]
+    }
+  ]
+}

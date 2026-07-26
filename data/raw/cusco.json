@@ -1,0 +1,120 @@
+{
+  "id": "cusco",
+  "country": "pe",
+  "coords": [-13.5319, -71.9675],
+  "name": { "ko": "쿠스코", "en": "Cusco", "ja": "クスコ", "zh": "库斯科" },
+  "tagline": {
+    "ko": "돌 틈에 종이 한 장도 안 들어가는, '세상의 배꼽' 잉카의 수도",
+    "en": "The Inca capital called 'the navel of the world'—where stones fit tighter than a puzzle",
+    "ja": "石のすき間に紙一枚も入らない、『世界のへそ』インカの都",
+    "zh": "石缝连纸都塞不进的印加古都——“世界的肚脐”"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 남아메리카 안데스산맥 높은 곳에 '잉카 제국'이라는 어마어마하게 큰 나라가 있었어요. 그 심장이었던 도시가 바로 쿠스코예요. 잉카 사람들은 이 도시를 케추아 말로 '세상의 배꼽'이라고 불렀대요. 하늘 위에서 보면 도시 전체가 커다란 퓨마(고양잇과 동물) 모양으로 설계되었다는 사실, 알고 있었나요?",
+      "잉카 사람들은 돌을 다루는 솜씨가 정말 대단했어요. 커다란 돌덩이를 마치 퍼즐처럼 딱 맞게 깎아서, 시멘트 하나 없이도 돌과 돌 사이에 종이 한 장 들어갈 틈도 없이 쌓았답니다. 도시 위쪽 사크사이와만이라는 곳에는 지그재그로 이어진 거대한 돌담이 있는데, 어떤 돌은 학교 버스보다 더 무겁대요. 바퀴도, 쇠로 된 도구도 없이 어떻게 옮겼는지는 아직도 신비랍니다.",
+      "그런데 1532년, 스페인 사람들이 배를 타고 건너와 쿠스코를 차지해버렸어요. 그들은 잉카의 신전이었던 코리칸차(태양의 신전) 위에 성당을 새로 지었답니다. 코리칸차는 원래 벽 전체가 반짝이는 황금판으로 덮여 있던 곳이었어요. 시간이 흘러 큰 지진이 났을 때, 스페인식으로 지은 윗부분은 무너졌지만 그 아래 잉카 사람들이 쌓은 돌벽은 끄떡없이 서 있었대요.",
+      "오늘날 쿠스코는 구름 속에 숨겨진 신비의 도시, 마추픽추로 가는 관문으로 유명해요. 거리를 걸으면 여전히 잉카 시대의 돌담길을 밟을 수 있고, 6월이면 태양을 기리는 축제 '인티 라이미'가 온 도시를 물들인답니다. 수백 년이 지나도 쿠스코는 여전히 잉카의 숨결이 살아 숨 쉬는 도시예요."
+    ],
+    "en": [
+      "Long ago, high in South America's Andes mountains, there was a huge empire called the Inca Empire. Its beating heart was a city called Cusco. In Quechua, the Incas' own language, the name means 'the navel of the world.' And get this—seen from above, the whole city was laid out in the shape of a puma, a big wildcat!",
+      "Inca builders were absolute masters with stone. They carved giant blocks to fit together like a puzzle—no cement, no mortar, nothing—and the joints were so tight you couldn't slide a piece of paper between them. Up on the hill above town sits Sacsayhuamán, with zigzagging walls made of stones so huge some weigh more than a school bus. Nobody knows for sure how the Incas moved them without wheels or iron tools.",
+      "Then in 1532, Spanish soldiers sailed across the ocean and took over Cusco. They tore down part of Qorikancha, the Inca's Temple of the Sun—once covered wall to wall in gleaming gold—and built a church right on top of it. Years later, when a powerful earthquake shook the city, the Spanish-built upper walls crumbled, but the Inca stonework underneath didn't budge an inch.",
+      "Today, Cusco is famous as the gateway to Machu Picchu, the mysterious city hidden high in the clouds. Walk its streets and you're still stepping on stone walls the Incas built centuries ago. Every June, the whole city bursts with color for Inti Raymi, a festival honoring the sun. Hundreds of years later, Cusco still breathes with the spirit of the Inca."
+    ],
+    "ja": [
+      "はるか昔、南アメリカのアンデス山脈の高いところに『インカ帝国』という、とても大きな国がありました。その中心だった街が、クスコです。インカの人々の言葉ケチュア語で、クスコは『世界のへそ』という意味なんですよ。しかも、空から見ると街全体が大きなネコ科の動物「ピューマ」の形に作られていたんです！",
+      "インカの人たちは、石を扱う腕がとにかくすごかったんです。大きな石をパズルのようにぴったり合うように削り、セメントを一切使わずに積み上げました。石と石のすき間には紙一枚も入らないほどぴったりだったそうです。街の上にあるサクサイワマンという場所には、ジグザグに続く巨大な石垣があり、中にはスクールバスより重い石もあります。車輪も鉄の道具も使わずにどうやって運んだのか、今もなぞのままです。",
+      "ところが1532年、スペインの人たちが海を渡ってやってきて、クスコを支配してしまいました。彼らはインカの太陽の神殿『コリカンチャ』——もともと壁一面が金でおおわれていた場所——の上に、教会を建ててしまったのです。その後、大きな地震が起きたとき、スペイン式に建てられた上の部分はくずれましたが、その下にあったインカの石垣はびくともしませんでした。",
+      "今、クスコは雲の中に隠れた神秘の街『マチュピチュ』への玄関口として有名です。街を歩けば、今も昔のインカの人々が積んだ石畳を踏むことができます。毎年6月には、太陽をたたえるお祭り『インティ・ライミ』で街中が色あざやかに染まります。何百年たっても、クスコにはインカの息づかいが今も生きているのです。"
+    ],
+    "zh": [
+      "很久很久以前，在南美洲安第斯山脉的高处，曾有一个非常庞大的国家，叫做“印加帝国”。它的心脏地带，就是库斯科这座城市。用印加人自己的克丘亚语来说，库斯科的意思是“世界的肚脐”。而且，从空中俯瞰，整座城市竟然是按照一只美洲狮（一种大猫科动物）的形状建造的！",
+      "印加人处理石头的手艺简直令人惊叹。他们把巨大的石块凿成像拼图一样严丝合缝的形状，完全不用水泥，石头与石头之间连一张纸都塞不进去。城市上方有个地方叫萨克塞瓦曼，那里矗立着一道道之字形的巨大石墙，有些石块比一辆校车还重。没有轮子，也没有铁制工具，印加人到底是怎么搬动这些巨石的，至今仍是个谜。",
+      "可是到了1532年，西班牙人乘船远渡重洋，占领了库斯科。他们拆掉了印加人的太阳神庙——科里坎查的一部分，这座神庙原本满墙都镶着闪闪发光的金板，然后在原址上盖起了一座教堂。后来，一场强烈的地震袭来，西班牙人建的上层部分倒塌了，可下面印加人砌的石墙却纹丝不动。",
+      "如今，库斯科因为是通往马丘比丘——那座隐藏在云雾中的神秘古城——的门户而闻名。走在库斯科的街道上，你踏的仍是几百年前印加人铺砌的石路。每年六月，整座城市都会为庆祝太阳而举行“太阳祭”（印蒂拉伊米节），色彩缤纷、热闹非凡。历经数百年，库斯科依然跳动着印加的心跳。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "케추아 말로 쿠스코는 '세상의 배꼽'이라는 뜻이에요.",
+      "하늘에서 내려다보면 도시 전체가 커다란 퓨마(고양잇과 동물) 모양으로 설계되었대요.",
+      "잉카 사람들은 시멘트 없이 돌을 퍼즐처럼 딱 맞게 쌓아서, 돌 틈에 종이 한 장도 들어가지 않는대요.",
+      "사크사이와만의 어떤 돌은 학교 버스보다도 무거운데, 바퀴나 쇠 도구 없이 옮겼다니 정말 신기해요.",
+      "태양의 신전 코리칸차는 원래 온 벽이 황금판으로 덮여 있었는데, 지금은 그 터 위에 스페인식 성당이 세워져 있어요.",
+      "쿠스코는 구름 속에 숨겨진 신비의 도시 마추픽추로 가는 관문이에요. 마추픽추는 1911년에야 세상에 다시 알려졌답니다."
+    ],
+    "en": [
+      "In Quechua, the Incas' language, \"Cusco\" means \"the navel of the world.\"",
+      "Seen from above, the whole city was laid out in the shape of a puma.",
+      "Inca builders fit stones together like puzzle pieces with no mortar at all—the joints are so tight you can't slip a piece of paper between them.",
+      "Some stones at Sacsayhuamán weigh more than a school bus, yet the Incas moved them with no wheels and no iron tools.",
+      "Qorikancha, the Temple of the Sun, was once covered wall to wall in gold—today a Spanish colonial church stands on its old stone foundations.",
+      "Cusco is the gateway to Machu Picchu, the cloud-hidden city that wasn't shown to the wider world again until 1911."
+    ],
+    "ja": [
+      "インカの言葉ケチュア語で、クスコは「世界のへそ」という意味です。",
+      "空から見ると、街全体が大きなピューマ（ネコ科の動物）の形に作られていたそうです。",
+      "インカの人々はセメントを使わず、パズルのように石をぴったり組み合わせました。すき間には紙一枚も入らないほどです。",
+      "サクサイワマンにある石の中には、スクールバスより重いものもありますが、車輪も鉄の道具も使わずに運んだそうです。",
+      "太陽の神殿コリカンチャは、もとは壁一面が金でおおわれていました。今はその土台の上にスペイン風の教会が建っています。",
+      "クスコは、雲に隠れた神秘の街マチュピチュへの玄関口。マチュピチュが世界に広く知られたのは、なんと1911年のことでした。"
+    ],
+    "zh": [
+      "用印加人的克丘亚语来说，“库斯科”的意思是“世界的肚脐”。",
+      "从空中俯瞰，整座城市竟被设计成一只美洲狮（大猫科动物）的形状。",
+      "印加工匠不用水泥，把石块凿得像拼图一样严丝合缝——石缝之间连一张纸都塞不进去。",
+      "萨克塞瓦曼有些石块比一辆校车还重，印加人却在没有轮子、没有铁制工具的情况下把它们搬运到位。",
+      "太阳神庙科里坎查曾经满墙镶金，如今在它古老的石头地基上，矗立着一座西班牙殖民时期的教堂。",
+      "库斯科是通往马丘比丘的门户——这座藏在云雾中的神秘古城，直到1911年才重新为世人所知。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "바퀴도 쇠 도구도 없었는데, 잉카 사람들은 학교 버스보다 무거운 돌을 대체 어떻게 옮겼을까?",
+    "en": "No wheels, no iron tools—so how did the Incas ever move stones heavier than a school bus?",
+    "ja": "車輪も鉄の道具もなかったのに、インカの人たちはスクールバスより重い石をいったいどうやって運んだのかな？",
+    "zh": "没有轮子，也没有铁制工具——印加人到底是怎么搬动比校车还重的石头的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "아르마스 광장", "en": "Plaza de Armas", "ja": "アルマス広場", "zh": "阿玛斯广场" },
+      "blurb": {
+        "ko": "지금은 쿠스코의 중심 광장이지만, 잉카 시대에는 '와카이파타'라는 신성한 의식의 광장이었어요. 옛날엔 이곳에 금모래를 뿌려 신께 바쳤다고 전해진답니다. 지금도 광장을 둘러싼 건물들 아랫부분엔 잉카가 쌓은 돌벽이 그대로 남아 있어요.",
+        "en": "Today it's Cusco's main square, but in Inca times it was called Huacaypata, a sacred ceremonial plaza. Legend says the ground was once sprinkled with gold sand as an offering to the gods. Look closely and you'll still see original Inca stone walls at the base of the buildings around it.",
+        "ja": "今はクスコの中心広場ですが、インカ時代は『ワカイパタ』という神聖な儀式の広場でした。昔はここに金の砂をまいて神様に捧げたと伝えられています。今も広場を囲む建物の下の方には、インカ時代の石垣がそのまま残っています。",
+        "zh": "如今它是库斯科的主广场，可在印加时代，这里叫“瓦卡伊帕塔”，是举行神圣仪式的广场。传说人们曾在这里撒上金沙献给神明。至今广场周围建筑物的底部，仍保留着当年印加人砌的石墙。"
+      },
+      "coords": [-13.5170, -71.9787]
+    },
+    {
+      "name": { "ko": "사크사이와만", "en": "Sacsayhuamán", "ja": "サクサイワマン", "zh": "萨克塞瓦曼" },
+      "blurb": {
+        "ko": "도시 위쪽 언덕에 있는 거대한 돌 유적이에요. 지그재그로 이어진 돌담은 퓨마의 이빨을 나타낸다고 해요. 어떤 돌은 무려 100톤이 넘는데, 사람들이 어떻게 이걸 쌓았는지는 여전히 수수께끼랍니다.",
+        "en": "A massive stone complex on the hill above the city. Its zigzagging walls are said to represent the puma's teeth—remember, the whole city was shaped like a puma! Some blocks weigh over 100 tons, and exactly how they were stacked so precisely is still a mystery.",
+        "ja": "街の上の丘にある巨大な石の遺跡です。ジグザグの石垣はピューマの歯を表しているそうです（街全体がピューマの形だったのを思い出してくださいね！）。中には100トンを超える石もあり、どうやって積み上げたのかは今もなぞのままです。",
+        "zh": "位于城市上方山丘的巨大石头遗迹。之字形的石墙据说代表着美洲狮的牙齿——别忘了，整座城市本来就是美洲狮的形状！有些石块重达100多吨，究竟是如何被精准堆砌起来的，至今仍是未解之谜。"
+      },
+      "coords": [-13.5090, -71.9820]
+    },
+    {
+      "name": { "ko": "코리칸차 (태양의 신전)", "en": "Qorikancha (Temple of the Sun)", "ja": "コリカンチャ（太陽の神殿）", "zh": "科里坎查（太阳神庙）" },
+      "blurb": {
+        "ko": "잉카 제국에서 가장 신성한 신전이었어요. 원래는 벽 전체가 반짝이는 순금판으로 뒤덮여 있었대요. 스페인 사람들이 그 위에 산토도밍고 성당을 지었지만, 지진이 났을 때 아래쪽 잉카 돌벽만은 꿈쩍도 하지 않았답니다.",
+        "en": "The holiest temple in the whole Inca Empire. Its walls were once completely covered in sheets of gleaming gold. The Spanish built the Santo Domingo church right on top of it, but when earthquakes struck, only the Inca stone walls below refused to budge.",
+        "ja": "インカ帝国でもっとも神聖な神殿でした。かつては壁全体がきらきら光る純金の板でおおわれていたそうです。スペイン人はその上にサント・ドミンゴ教会を建てましたが、地震が起きたとき、びくともしなかったのは下のインカの石垣だけでした。",
+        "zh": "印加帝国最神圣的神庙。它的墙壁曾经完全被闪闪发光的纯金板覆盖。西班牙人在它上面建起了圣多明各教堂，可地震来袭时，唯独下面印加人砌的石墙纹丝不动。"
+      },
+      "coords": [-13.5228, -71.9700]
+    },
+    {
+      "name": { "ko": "마추픽추", "en": "Machu Picchu", "ja": "マチュピチュ", "zh": "马丘比丘" },
+      "blurb": {
+        "ko": "쿠스코에서 기차와 버스를 타고 갈 수 있는, 구름 위에 숨겨진 신비의 도시예요. 잉카 사람들이 산꼭대기에 지었지만 스페인 사람들은 끝내 이곳을 찾지 못했대요. 1911년에야 세상에 다시 알려져, 지금은 세계에서 가장 놀라운 유적 중 하나로 손꼽힌답니다.",
+        "en": "A mysterious city hidden above the clouds, reachable from Cusco by train and bus. The Incas built it high on a mountaintop, and the Spanish never managed to find it. It wasn't shown to the wider world again until 1911, and today it's counted among the most breathtaking ruins on Earth.",
+        "ja": "クスコから電車とバスで行ける、雲の上に隠れた神秘の街です。インカの人々が山の頂上に築きましたが、スペイン人はついに見つけられませんでした。世界に再び知られたのは1911年のことで、今では地球上でもっとも息をのむ遺跡の一つに数えられています。",
+        "zh": "从库斯科乘火车和巴士即可抵达，是隐藏在云端之上的神秘古城。印加人把它建在山顶，西班牙人却始终没能找到它。直到1911年，它才重新为世人所知，如今被列为地球上最令人惊叹的古迹之一。"
+      },
+      "coords": [-13.1631, -72.5450]
+    }
+  ]
+}

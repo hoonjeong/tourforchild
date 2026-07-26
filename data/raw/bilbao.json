@@ -1,0 +1,120 @@
+{
+  "id": "bilbao",
+  "country": "es",
+  "coords": [43.2630, -2.9350],
+  "name": { "ko": "빌바오", "en": "Bilbao", "ja": "ビルバオ", "zh": "毕尔巴鄂" },
+  "tagline": {
+    "ko": "반짝이는 물고기 미술관과 꽃 강아지로 다시 태어난 억척스러운 항구 도시",
+    "en": "The gritty port city that reinvented itself with a shining fish-museum and a flower puppy",
+    "ja": "光る魚の美術館と花の犬で生まれ変わったたくましい港町",
+    "zh": "靠一座闪亮鱼形博物馆和一只花朵小狗华丽转身的硬核港口城市"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 스페인 북부 바스크 지방을 흐르는 네르비온 강을 따라 빌바오라는 도시가 억세게 자라났어요. 철광석을 실은 배들이 쉴 새 없이 드나들었고, 강가에는 커다란 조선소와 제철소가 줄지어 있었죠. 크레인과 망치 소리가 밤낮없이 울리는, 땀과 연기로 세워진 도시였답니다.",
+      "그런데 1980년대에 들어서면서 공장들이 하나둘 문을 닫기 시작했어요. 일자리가 사라지고 건물들은 텅 비었으며, 강물은 오염으로 뿌옇게 흐려졌죠. 한때 자랑스러웠던 빌바오는 서서히 시들어가는 것만 같았어요.",
+      "그래서 도시는 대담한 선택을 했어요. 공장을 더 짓는 대신 '예술'을 짓기로 한 거예요. 1997년, 반짝이는 티타늄 판으로 뒤덮인 눈부신 미술관이 강가에 세워졌는데, 마치 거대한 은빛 물고기나 어쩌다 착륙한 우주선처럼 보였답니다. 전 세계 사람들이 그 모습을 보러 몰려들었고, 빌바오는 서서히 다시 살아나기 시작했어요. 이 '예술이 도시를 살린' 기적에는 '빌바오 효과'라는 이름까지 붙었답니다.",
+      "오늘날 맑고 반짝이는 강을 따라 걷다 보면, 그 미래적인 미술관 바로 옆에서 중세시대 그대로인 카스코 비에호(구시가지) 골목길을 만날 수 있어요. 미술관 앞에는 온몸이 꽃으로 뒤덮인 커다란 강아지가 지키고 서 있죠. 옛 빌바오와 새 빌바오가 여기서 손을 맞잡은 셈이에요. 지친 도시도 얼마든지 새롭게 다시 꿈꿀 수 있다는 걸 보여주면서요."
+    ],
+    "en": [
+      "Long ago, Bilbao grew rich and rough along the Nervión River in northern Spain, in the Basque Country. Ships loaded with iron ore sailed in and out, and giant shipyards and steel mills lined the riverbanks. It was a city built by muscle and smoke, humming day and night with cranes and hammers.",
+      "But by the 1980s, the factories began to close one by one. Jobs vanished, buildings stood empty, and the river ran gray with pollution. Bilbao, once so proud, felt like it was fading away.",
+      "So the city tried something bold: instead of building more factories, it built art. In 1997, a dazzling museum wrapped in shiny titanium plates rose beside the river - it looked like a giant silver fish, or a spaceship that had landed by mistake. People came from all over the world just to see it, and slowly, Bilbao came back to life. This 'art can save a city' magic even got its own name: the Bilbao Effect.",
+      "Today, walk along the clean, sparkling river and you'll find the old medieval lanes of Casco Viejo just steps from that futuristic museum, guarded by a giant dog covered in flowers. Old Bilbao and new Bilbao shake hands here - proof that a tired city can dream itself into something brand new."
+    ],
+    "ja": [
+      "その昔、スペイン北部バスク地方を流れるネルビオン川のほとりに、たくましく育った街がありました。それがビルバオです。鉄鉱石を積んだ船がひっきりなしに行き交い、川岸には大きな造船所や製鉄所がずらりと並んでいました。クレーンと金づちの音が昼も夜も響く、汗と煙で築かれた街だったのです。",
+      "ところが1980年代になると、工場が次々と閉まっていきました。仕事はなくなり、建物はからっぽになり、川の水は汚れて灰色に濁っていきました。かつて誇り高かったビルバオは、少しずつしぼんでいくように見えました。",
+      "そこで街は大胆な決断をします。工場をもっと建てる代わりに、『芸術』を建てることにしたのです。1997年、きらきら光るチタンの板でおおわれたまばゆい美術館が川辺にそびえ立ちました。まるで巨大な銀色の魚か、まちがえて着陸した宇宙船のように見えたそうです。世界中から人々が見にやってきて、ビルバオは少しずつよみがえっていきました。この『芸術が街を救う』奇跡には『ビルバオ効果』という名前までつけられました。",
+      "今、澄んできらめく川ぞいを歩くと、その未来的な美術館のすぐそばに、中世そのままのカスコ・ビエホ（旧市街）の路地が見つかります。美術館の前では、体じゅう花でおおわれた大きな犬が街を見守っています。ここで古いビルバオと新しいビルバオが手を取り合っているのです。疲れた街でも、新しく生まれ変わる夢を見られるということを教えてくれます。"
+    ],
+    "zh": [
+      "很久以前，在西班牙北部巴斯克地区的内尔维翁河畔，有一座靠汗水和烟囱撑起来的城市，那就是毕尔巴鄂。满载铁矿石的船只川流不息，河岸边排满了巨大的造船厂和炼钢厂。起重机和铁锤的声音昼夜不停地回荡着。",
+      "可是到了20世纪80年代，工厂一家接一家地关闭了。工作岗位消失了，建筑物空了下来，河水也被污染得灰蒙蒙的。曾经引以为傲的毕尔巴鄂，仿佛渐渐黯淡了下去。",
+      "于是这座城市做出了一个大胆的决定：与其再建工厂，不如建一座“艺术品”。1997年，一座包裹着闪闪发亮钛金属板的耀眼博物馆在河边拔地而起，看起来就像一条巨大的银色大鱼，又像一艘不小心降落的宇宙飞船。全世界的人们纷纷赶来一睹它的风采，毕尔巴鄂也渐渐重新焕发生机。这个“艺术能拯救一座城市”的奇迹，甚至有了自己的名字——“毕尔巴鄂效应”。",
+      "如今，沿着清澈闪亮的河边散步，你会发现在那座未来感十足的博物馆旁边，就是保留着中世纪风貌的毕尔巴鄂旧城区小巷。博物馆门前，还有一只全身覆满鲜花的巨型小狗守卫着。新旧毕尔巴鄂就这样在这里握手言和——证明一座疲惫的城市，也能重新做一个崭新的梦。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "구겐하임 빌바오 미술관은 약 3만 3천 장의 종이처럼 얇은 티타늄 판으로 덮여 있는데, 햇빛을 받으면 물고기 비늘처럼 반짝여요. 조선업으로 유명했던 도시의 과거를 담은 디자인이랍니다.",
+      "미술관 바로 앞에는 '퍼피'라는 12미터 높이의 강아지 조형물이 있는데, 수만 송이의 살아있는 꽃으로 뒤덮여 있고 계절마다 꽃을 새로 심어준대요.",
+      "근처에는 세계에서 가장 오래된 '운반교(트랜스포터 브리지)'인 비스카야 다리가 있어요. 1893년부터 매달린 곤돌라가 강을 오가며 사람과 자동차를 실어 날랐고, 지금은 유네스코 세계유산이랍니다.",
+      "빌바오의 술집에서는 '핀초스'라는 작은 안주를 먹고 이쑤시개를 모아두는데, 나중에 종업원이 이쑤시개 개수만 세면 얼마를 내야 하는지 알 수 있어요!",
+      "시민들이 사랑하는 축구팀 아틀레틱 빌바오는 아주 특별한 규칙이 있어요. 오직 바스크 출신이거나 바스크에서 훈련받은 선수만 뛸 수 있답니다.",
+      "예전엔 지나가기만 해도 코를 막아야 했던 네르비온 강이, 지금은 조정 경기와 수영 대회를 열 만큼 깨끗해졌어요. 도시가 다시 살아났다는 가장 큰 증거랍니다."
+    ],
+    "en": [
+      "The Guggenheim Museum Bilbao is wrapped in about 33,000 paper-thin titanium tiles that shimmer like fish scales in the sunlight - a nod to the city's shipbuilding past.",
+      "Right outside the museum sits 'Puppy,' a 12-meter-tall dog covered in tens of thousands of living flowers, which get replanted with the seasons.",
+      "Nearby, the Vizcaya Bridge is the world's oldest transporter bridge - since 1893 it has ferried people and cars across the river by swinging a hanging gondola, and it's a UNESCO World Heritage Site.",
+      "In Bilbao's tapas bars, you eat tiny snacks called pintxos and keep the toothpicks - at the end, the waiter just counts your sticks to know what you owe!",
+      "Athletic Club Bilbao, the city's beloved soccer team, has a very rare rule: it has only ever fielded players who are Basque or trained in the Basque Country.",
+      "The Nervión River, once so polluted people held their noses walking by, is now clean enough for rowing races and swimming - one of the biggest signs of the city's comeback."
+    ],
+    "ja": [
+      "グッゲンハイム美術館ビルバオは、紙のように薄いチタンの板およそ3万3000枚でおおわれていて、日光を浴びると魚のうろこのように輝きます。造船業で栄えた街の過去にちなんだデザインなんです。",
+      "美術館のすぐ前には『パピー』という高さ12メートルの犬の彫刻があり、数万本の生きた花でおおわれていて、季節ごとに花が植えかえられます。",
+      "近くには世界最古の『トランスポーター・ブリッジ』、ビスカヤ橋があります。1893年から、つり下げられたゴンドラが川を行き来して人や車を運んでおり、今ではユネスコ世界遺産です。",
+      "ビルバオの飲み屋では『ピンチョス』という小さなおつまみを食べ、使ったつまようじを取っておきます。最後に店員がつまようじの本数を数えるだけで、いくら払うかわかるんです！",
+      "市民に愛されるサッカーチーム、アスレティック・ビルバオにはとても珍しいルールがあります。バスク出身か、バスクで育った選手しか出場できないのです。",
+      "昔は通るだけで鼻をつまみたくなるほど汚れていたネルビオン川は、今ではボートレースや水泳大会が開けるほどきれいになりました。街がよみがえった何よりの証拠ですね。"
+    ],
+    "zh": [
+      "毕尔巴鄂古根海姆博物馆外覆盖着约3.3万片薄如纸张的钛金属板，阳光下闪闪发光，宛如鱼鳞——这是向这座城市造船业历史致敬的设计。",
+      "博物馆正门前有一只名叫“波比”的12米高小狗雕塑，全身覆盖着数万朵鲜活的花朵，会随季节重新栽种。",
+      "附近的比斯开桥是世界上最古老的“运输桥”：自1893年起，悬挂的吊舱就一直载着行人和汽车摆渡过河，如今已是联合国教科文组织世界遗产。",
+      "在毕尔巴鄂的酒吧里，人们吃一种叫“皮乔斯（pintxos）”的小吃，牙签用完先留着——最后服务员只需数一数牙签，就知道该收多少钱！",
+      "深受市民喜爱的毕尔巴鄂竞技俱乐部足球队有一条特别罕见的规定：只启用巴斯克出身或在巴斯克受训的球员。",
+      "内尔维翁河曾经脏到路人经过都要捂鼻子，如今已经干净到可以举办赛艇比赛和游泳赛事——这是这座城市重生的最大证明之一。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도시가 힘들어지자, 사람들은 반짝이는 물고기 모양 미술관과 꽃으로 뒤덮인 강아지를 만들었대. 그게 정말 도시를 살렸을까?",
+    "en": "A whole city was struggling - so it built a giant shiny fish-shaped museum and a flower-covered dog. Could that really save it?",
+    "ja": "街が元気をなくしたとき、人々は光る魚の形の美術館と花でおおわれた犬を作ったんだって。それで本当に街は元気になったのかな？",
+    "zh": "一座城市陷入低谷时，人们建了一座闪闪发光的鱼形博物馆和一只盖满鲜花的小狗。这样真的能拯救一座城市吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "구겐하임 빌바오 미술관", "en": "Guggenheim Museum Bilbao", "ja": "グッゲンハイム美術館ビルバオ", "zh": "毕尔巴鄂古根海姆博物馆" },
+      "blurb": {
+        "ko": "티타늄으로 뒤덮인 이 미술관은 마치 강가에서 펄쩍 뛰어오른 거대한 은빛 물고기처럼 보여요. 건축가 프랭크 게리가 설계한 이 독특하고 물결치는 모양이 하룻밤 새 빌바오를 꼭 가봐야 할 예술 도시로 바꿔놓았답니다.",
+        "en": "This titanium-clad museum looks like a giant silver fish caught mid-leap by the river. Its wild, curving shape by architect Frank Gehry turned Bilbao from a fading factory town into a must-see art destination almost overnight.",
+        "ja": "チタンでおおわれたこの美術館は、川辺で跳ねる巨大な銀色の魚のように見えます。建築家フランク・ゲーリーが設計したこの奇抜で波打つ形が、ほぼ一夜にしてビルバオを見逃せないアートの街に変えました。",
+        "zh": "这座覆盖钛金属的博物馆看起来就像一条在河边跃起的巨大银鱼。建筑师弗兰克·盖里设计的这个大胆流线造型，几乎一夜之间就把毕尔巴鄂变成了必去的艺术胜地。"
+      },
+      "coords": [43.2686, -2.9340]
+    },
+    {
+      "name": { "ko": "퍼피 (꽃 강아지 조각상)", "en": "Puppy (the flower-covered dog)", "ja": "パピー（花の犬の彫刻）", "zh": "波比（鲜花小狗雕塑）" },
+      "blurb": {
+        "ko": "미술관 앞을 지키고 선 퍼피는 수천 송이의 꽃으로 뒤덮인 12미터 높이의 다정한 웨스트하일랜드테리어예요. 빌바오 사람들은 명절마다 퍼피를 특별하게 꾸며주는데, 이렇게 커다랗고 순한 강아지가 온통 살아있는 식물로 만들어졌다는 게 정말 신기하답니다.",
+        "en": "Standing guard outside the museum is Puppy, a friendly 12-meter-tall West Highland Terrier covered in thousands of blooming flowers. Locals love dressing him up for holidays, and kids love how such a giant, gentle dog is made entirely of living plants.",
+        "ja": "美術館の前で街を見守るパピーは、数千の花でおおわれた高さ12メートルの人なつっこいウェストハイランド・テリアです。地元の人々は季節ごとにパピーを特別に飾りつけ、こんなに大きくて優しい犬がまるごと生きた植物でできていることに子どもたちは目を丸くします。",
+        "zh": "守在博物馆门前的波比，是一只被数千朵盛开鲜花覆盖、高12米的憨厚西高地梗犬雕塑。当地人喜欢在节日为它换装，孩子们也惊叹于这只巨大又温顺的小狗竟然完全由鲜活植物做成。"
+      },
+      "coords": [43.2684, -2.9327]
+    },
+    {
+      "name": { "ko": "비스카야 다리 (운반교)", "en": "Vizcaya Bridge", "ja": "ビスカヤ橋", "zh": "比斯开桥" },
+      "blurb": {
+        "ko": "1893년에 만들어진 이 다리는 세계에서 가장 오래된 운반교예요. 보통 도로 대신, 강 위 높은 곳에 매달린 곤돌라가 왔다 갔다 하면서 몇 초 만에 사람과 자동차를 실어 나른답니다. 지금은 유네스코 세계유산이고, 다리 위쪽 통로를 걸으며 새처럼 내려다볼 수도 있어요.",
+        "en": "Built in 1893, this is the world's oldest transporter bridge - instead of a normal roadway, a hanging gondola swings back and forth high above the river, carrying people and cars across in seconds. It's now a UNESCO World Heritage Site, and you can even walk across its high walkway for a bird's-eye view.",
+        "ja": "1893年に造られたこの橋は、世界最古のトランスポーター・ブリッジです。ふつうの道路の代わりに、川の上空高くつり下げられたゴンドラが行き来し、数秒で人や車を運びます。今ではユネスコ世界遺産で、橋の上の通路を歩いて鳥のように見下ろすこともできます。",
+        "zh": "这座建于1893年的大桥，是世界上最古老的运输桥。它没有普通的车道，而是靠一个悬挂在河面高处的吊舱来回摆动，几秒钟就能把行人和汽车运过河。如今它是联合国教科文组织世界遗产，你还可以走上桥顶通道，像鸟儿一样俯瞰四周。"
+      },
+      "coords": [43.3236, -3.0169]
+    },
+    {
+      "name": { "ko": "카스코 비에호 (구시가지)", "en": "Casco Viejo (Old Town)", "ja": "カスコ・ビエホ（旧市街）", "zh": "旧城区(卡斯科别霍)" },
+      "blurb": {
+        "ko": "미래적인 미술관에서 몇 분만 걸으면 나오는 이 좁은 중세 골목 일곱 갈래는 빌바오의 심장이에요. 핀초스 술집과 아기자기한 광장, 몇백 년 된 건물들로 가득하답니다. 아무 술집에나 들어가면 이쑤시개 꽂힌 핀초스 접시가 가득 쌓여 있는데, 구시가지를 맛보며 둘러보는 가장 즐거운 방법이에요.",
+        "en": "Just minutes from the futuristic museum, these seven narrow medieval streets are Bilbao's beating heart, packed with pintxos bars, tiny plazas, and centuries-old buildings. Duck into any bar and you'll see plates piled with pintxos and toothpicks - the tastiest way to explore the old town.",
+        "ja": "未来的な美術館からほんの数分歩けば、この七本の細い中世の路地、ビルバオの心臓部にたどり着きます。ピンチョスの店や小さな広場、何百年も前の建物でいっぱいです。どの店に入っても、つまようじが刺さったピンチョスのお皿が山積みになっていて、旧市街を味わいながら歩く一番おいしい方法ですよ。",
+        "zh": "从那座未来感十足的博物馆走几分钟，就能到达这七条狭窄的中世纪街道——毕尔巴鄂的心脏地带，到处是皮乔斯小酒馆、袖珍广场和几百年历史的老建筑。随便走进一家酒馆，都能看到插满牙签的皮乔斯摆满桌面，是探索旧城区最美味的方式。"
+      },
+      "coords": [43.2578, -2.9236]
+    }
+  ]
+}

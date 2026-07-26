@@ -1,0 +1,120 @@
+{
+  "id": "maui",
+  "country": "us",
+  "coords": [20.7984, -156.3319],
+  "name": { "ko": "마우이", "en": "Maui", "ja": "マウイ", "zh": "毛伊岛" },
+  "tagline": {
+    "ko": "태양을 밧줄로 묶은 영웅의 이름을 가진 섬, 고래가 노래하고 길이 폭포 사이로 굽이치는 곳",
+    "en": "The island named for a hero who lassoed the sun, where whales sing and roads wind past waterfalls",
+    "ja": "太陽を縄でつかまえた英雄の名を持つ島。クジラが歌い、道が滝の間をくねくね進む場所",
+    "zh": "以“套住太阳”的英雄命名的岛屿，鲸鱼在此歌唱，公路蜿蜒穿过座座瀑布"
+  },
+  "story": {
+    "ko": [
+      "옛날 하와이 전설에는 '마우이'라는 영리한 반신반인이 살았어요. 이 섬은 바로 그의 이름을 딴 것이랍니다. 마우이의 어머니는 낮이 너무 짧다고 투덜댔어요. 해가 하늘을 너무 빨리 가로질러서, 옷감을 말릴 시간이 없었거든요. 그래서 마우이는 거대한 화산 꼭대기에 올라가 해가 뜨기를 기다렸다가, 누나의 머리카락으로 만든 밧줄로 태양을 붙잡았답니다!",
+      "마우이는 태양이 하늘을 더 천천히 움직이겠다고 약속하게 만들었어요. 그 뒤로 마우이 섬의 하루는 길고 황금빛으로 물들게 되었대요. 그 화산 이름은 '할레아칼라', '태양의 집'이라는 뜻이에요. 지금도 사람들은 캄캄한 새벽에 일어나 해발 3,000미터가 넘는 그 정상까지 올라가요. 화성처럼 붉고 울퉁불퉁한 풍경 위로 하늘이 분홍빛과 황금빛으로 물드는 일출을 보기 위해서죠.",
+      "화산에서 내려오면 아주 구불구불한 길이 나오는데, 그 유명한 '하나로 가는 길'이에요. 이 길에는 커브가 620개, 작은 다리가 59개나 있대요. 운전자들은 천천히 갈 수밖에 없는데, 사실 그게 핵심이에요. 커브를 돌 때마다 웅덩이로 쏟아지는 폭포나 무지개, 바람에 사각거리는 대나무 숲이 숨어서 기다리고 있거든요.",
+      "그리고 겨울마다 훨씬 더 큰 손님이 찾아와요. 혹등고래들이 차가운 알래스카 바다에서 수천 킬로미터를 헤엄쳐 마우이의 따뜻한 파란 바다까지 와서, 새끼를 낳고 물속에서 신비로운 노래를 부른답니다. 해변에서는 고래가 바다 위로 훌쩍 뛰어오르는 모습을 볼 수도 있어요. 한번 보면 절대 잊지 못할 장면이죠."
+    ],
+    "en": [
+      "Long ago in Hawaiian legend, there lived a clever demigod named Maui — and this island carries his name. His mother complained that the days were too short: the sun raced across the sky so fast, her cloth never had time to dry. So Maui climbed to the very top of a giant volcano, waited for the sun to rise, and lassoed it with a rope made of his sister's hair!",
+      "He made the sun promise to move slower across the sky, and ever since, days on Maui have felt long and golden. That volcano is called Haleakala, meaning 'House of the Sun.' Even today, people wake up in the dark and hike to its summit — over 3,000 meters high — just to watch the sunrise turn the sky pink and gold above a landscape so rocky and red, it looks like Mars.",
+      "Down from the volcano winds a road so twisty it has 620 curves and 59 little bridges packed into just one stretch — the famous Road to Hana. Drivers creep along slowly, and that's the whole point: around every curve hides another waterfall crashing into a pool, or a rainbow, or a grove of bamboo trees clacking in the wind.",
+      "And every winter, something even bigger arrives. Humpback whales swim thousands of miles from icy Alaska all the way to Maui's warm blue water, just to have their babies and sing haunting songs underwater. From the shore, you might spot one leaping clean out of the ocean — a splash you'll never forget."
+    ],
+    "ja": [
+      "昔むかしのハワイの伝説に、『マウイ』というかしこい半神が登場します。この島は彼の名前にちなんでいるのです。マウイの母は昼が短すぎると文句を言っていました。太陽が空をあまりに速く駆けぬけるので、布を乾かす時間がなかったのです。そこでマウイは巨大な火山のてっぺんに登り、太陽が昇るのを待ちかまえて、姉の髪の毛で作った縄でつかまえてしまいました！",
+      "マウイは太陽に、もっとゆっくり空を進むと約束させました。それ以来、マウイ島の一日は長く、金色に輝くようになったといいます。その火山は『ハレアカラ』、『太陽の家』という意味です。今でも人々は真っ暗な中で起き出し、標高3000メートルを超える頂上まで登ります。まるで火星のような赤くごつごつした景色の上に、空がピンクと金色に染まる日の出を見るためです。",
+      "火山から下ると、とてもくねくねした道が続きます。有名な『ハナへの道』です。この道にはカーブが620、小さな橋が59もあるそうです。運転する人はゆっくり進むしかありませんが、それこそがこの道の醍醐味。カーブを曲がるたびに、水たまりに流れ落ちる滝や、虹、風にカサカサ揺れる竹林が隠れて待っています。",
+      "そして毎年冬になると、もっと大きなお客さんがやってきます。ザトウクジラたちが、冷たいアラスカの海から何千キロも泳いで、マウイの温かい青い海までやってきて、赤ちゃんを産み、水の中で神秘的な歌を歌うのです。浜辺からは、クジラが海からジャンプする姿が見えることも。一度見たら忘れられない光景です。"
+    ],
+    "zh": [
+      "很久以前的夏威夷传说里，有一位聪明的半神叫“毛伊”，这座岛就是以他的名字命名的。毛伊的妈妈总抱怨白天太短——太阳在天上跑得太快，布料都来不及晒干。于是毛伊爬上一座巨大火山的顶峰，等太阳升起时，用姐姐的头发编成绳子，把太阳给套住了！",
+      "毛伊让太阳答应在天空中走得慢一些。从那以后，毛伊岛的白天就变得又长又金灿灿的。那座火山叫“哈雷阿卡拉”，意思是“太阳之家”。直到今天，人们仍会在天还没亮时起床，爬到海拔3000多米的山顶，只为看着天空在一片红褐色、宛如火星表面的地貌上方，染成粉红与金色的日出。",
+      "从火山下来，是一条弯弯曲曲的公路，足足有620个弯道和59座小桥，这就是著名的“哈纳公路”。司机们不得不慢慢开——但这正是它的魅力所在：每转过一个弯，就可能藏着一道飞泻入水潭的瀑布、一道彩虹，或是一片在风中沙沙作响的竹林。",
+      "每年冬天，还会有更庞大的客人到访。座头鲸从冰冷的阿拉斯加海域，游上几千公里来到毛伊岛温暖的蓝色海水中产下幼鲸，并在水下唱起悠远的歌声。从岸边望去，你说不定能看到一头鲸鱼整个跃出海面——那水花，绝对让人终生难忘。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "이 섬의 이름은 태양을 밧줄로 붙잡았다는 전설 속 반신반인 '마우이'에서 따왔어요.",
+      "'할레아칼라'는 '태양의 집'이라는 뜻이에요. 정상은 해발 3,000미터가 넘고, 분화구 모습이 달과 너무 닮아서 NASA가 달 탐사 장비를 시험한 적도 있대요.",
+      "'하나로 가는 길'에는 약 100킬로미터 구간 안에 커브 620개와 다리 59개가 들어 있어요. 어떤 다리는 차 한 대만 겨우 지나갈 정도로 좁답니다!",
+      "겨울마다 수천 마리의 혹등고래가 알래스카에서 마우이까지 헤엄쳐 와요. 새끼를 낳으려고 약 4,000킬로미터를 헤엄쳐 온답니다.",
+      "혹등고래는 물속에서 길고 복잡한 노래를 부르는데, 그 소리가 바닷속으로 수 킬로미터나 퍼져 나간대요.",
+      "마우이의 어떤 해변은 모래가 새까매요. 파도에 부딪혀 곱게 갈린 화산암 가루로 만들어졌기 때문이에요."
+    ],
+    "en": [
+      "The island is named after Maui, a legendary demigod said to have lassoed the sun to make days longer.",
+      "Haleakala means 'House of the Sun' — its summit sits over 3,000 meters high, and its crater looks so much like the Moon that NASA once tested lunar equipment there.",
+      "The Road to Hana packs 620 curves and 59 bridges into about 100 kilometers — some of the bridges fit only one car at a time!",
+      "Every winter, thousands of humpback whales migrate here from Alaska — swimming roughly 4,000 kilometers just to have their babies in Maui's warm water.",
+      "Humpback whales sing long, complex songs underwater that can travel for many kilometers through the ocean.",
+      "Some of Maui's beaches have jet-black sand, made from volcanic rock ground smooth by the crashing waves."
+    ],
+    "ja": [
+      "この島の名前は、太陽を縄でつかまえたという伝説の半神『マウイ』にちなんでいます。",
+      "『ハレアカラ』は『太陽の家』という意味。頂上は標高3000メートルを超え、噴火口の様子が月にそっくりなので、NASAが月面探査の装置を試したこともあるそうです。",
+      "『ハナへの道』は約100キロメートルの区間にカーブ620、橋59があります。中には車1台がやっと通れるくらい狭い橋もあるんです！",
+      "毎年冬になると、何千頭ものザトウクジラがアラスカからマウイまで泳いできます。赤ちゃんを産むために、約4000キロメートルも泳いでくるのです。",
+      "ザトウクジラは水の中で長く複雑な歌を歌い、その声は海の中を何キロメートルも伝わっていきます。",
+      "マウイのある浜辺は砂が真っ黒。波にもまれて細かくすりつぶされた火山岩からできているのです。"
+    ],
+    "zh": [
+      "这座岛的名字来自传说中套住太阳的半神“毛伊”。",
+      "“哈雷阿卡拉”意为“太阳之家”。它的山顶海拔超过3000米，火山口景观酷似月球表面，美国宇航局甚至曾在那里测试登月设备。",
+      "“哈纳公路”在大约100公里的路程里，挤满了620个弯道和59座桥，有些桥窄得一次只能过一辆车！",
+      "每年冬天，成千上万头座头鲸从阿拉斯加游到毛伊岛——为了产下幼鲸，足足游了约4000公里。",
+      "座头鲸会在水下唱出悠长复杂的歌声，声音能在海中传播好几公里远。",
+      "毛伊岛有些海滩的沙子是乌黑色的，是被海浪拍打研磨细碎的火山岩形成的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "옛날 옛적 한 영웅이 밧줄로 태양을 붙잡아서 천천히 움직이게 만들었대. 왜 그랬을까?",
+    "en": "An old legend says a hero once lassoed the sun with a rope to make it move slower. Why would anyone want to do that?",
+    "ja": "昔、ある英雄がロープで太陽をつかまえて、ゆっくり動くようにしたんだって。どうしてそんなことをしたのかな？",
+    "zh": "传说很久以前有位英雄用绳子套住了太阳，让它走得慢一些。他为什么要这么做呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "할레아칼라 정상", "en": "Haleakala Summit", "ja": "ハレアカラ山頂", "zh": "哈雷阿卡拉山顶" },
+      "blurb": {
+        "ko": "해가 뜨기 전에 이 화산 정상까지 올라가면, 화성처럼 붉고 울퉁불퉁한 풍경 위로 하늘이 분홍빛과 황금빛으로 물드는 일출을 볼 수 있어요. 전설에 따르면 바로 이곳에서 영웅 마우이가 태양을 밧줄로 붙잡았대요.",
+        "en": "Climb before dawn to this volcano's summit and watch the sunrise paint the sky pink and gold over a landscape so red and rocky it looks like another planet. Legend says this is exactly where the hero Maui lassoed the sun.",
+        "ja": "夜明け前にこの火山の頂上まで登れば、まるで別の惑星のように赤くごつごつした景色の上に、空がピンクと金色に染まる日の出を見られます。伝説では、まさにこの場所で英雄マウイが太陽を縄でつかまえたとされています。",
+        "zh": "天亮前爬上这座火山的顶峰，就能看到天空在宛如异星球般红褐嶙峋的地貌上方，染成粉红与金色的日出。传说英雄毛伊正是在这里用绳子套住了太阳。"
+      },
+      "coords": [20.7097, -156.2533]
+    },
+    {
+      "name": { "ko": "하나로 가는 길", "en": "Road to Hana", "ja": "ハナへの道", "zh": "哈纳公路" },
+      "blurb": {
+        "ko": "이 유명한 구불구불한 길에는 커브가 620개, 좁은 다리가 59개나 있어요. 커브를 돌 때마다 쏟아지는 폭포, 무지개, 조용한 검은 모래 해변 같은 새로운 풍경이 숨어 있답니다.",
+        "en": "This famous winding road has 620 curves and 59 narrow bridges, and every turn hides something new — a crashing waterfall, a rainbow, or a quiet black-sand beach.",
+        "ja": "この有名なくねくね道にはカーブが620、狭い橋が59あります。曲がるたびに、流れ落ちる滝や虹、静かな黒砂の浜辺など、新しい景色が隠れています。",
+        "zh": "这条著名的蜿蜒公路有620个弯道和59座窄桥，每一次转弯都藏着新的风景——飞泻的瀑布、彩虹，或是一片安静的黑沙海滩。"
+      },
+      "coords": [20.7644, -155.9897]
+    },
+    {
+      "name": { "ko": "마알라에아 만", "en": "Maalaea Bay", "ja": "マアラエア湾", "zh": "马阿拉埃亚湾" },
+      "blurb": {
+        "ko": "이곳의 따뜻한 바다는 겨울마다 알래스카에서 수천 킬로미터를 헤엄쳐 온 혹등고래들로 가득 차요. 해변에서 잘 지켜보면 고래가 물 밖으로 훌쩍 뛰어오르는 모습을 볼 수도 있답니다.",
+        "en": "Warm waters here fill up every winter with humpback whales that traveled thousands of kilometers from Alaska. Watch closely from the shore and you might see one leap clean out of the water.",
+        "ja": "ここの温かい海は、毎年冬になるとアラスカから何千キロも泳いできたザトウクジラでいっぱいになります。浜辺からよく見ていると、クジラが水面からジャンプする姿が見られるかもしれません。",
+        "zh": "这里温暖的海水，每年冬天都会挤满从阿拉斯加游来几千公里的座头鲸。在岸边仔细观察，说不定能看到鲸鱼整个跃出水面。"
+      },
+      "coords": [20.7889, -156.5089]
+    },
+    {
+      "name": { "ko": "와이아나파나파 주립공원 (검은 모래 해변)", "en": "Waianapanapa State Park", "ja": "ワイアナパナパ州立公園（黒砂海岸）", "zh": "怀阿纳帕纳帕州立公园（黑沙滩）" },
+      "blurb": {
+        "ko": "이 해변은 반짝이는 새까만 화산 모래로 덮여 있고, 용암 절벽과 청록빛 파도가 그 주위를 감싸고 있어요. 전설에 따르면 근처의 숨겨진 동굴은 옛날에 사냥하는 매를 피해 숨던 곳이었대요.",
+        "en": "This beach glitters with jet-black volcanic sand, framed by lava-rock cliffs and turquoise waves. Legend says a hidden cave nearby was once a hiding place from a hunting hawk.",
+        "ja": "この浜辺は光る真っ黒な火山砂におおわれ、溶岩の崖とターコイズ色の波に囲まれています。伝説によると、近くの隠れた洞窟は昔、狩りをするタカから逃れて隠れた場所だったそうです。",
+        "zh": "这片海滩铺满闪亮的乌黑火山沙，四周环绕着熔岩峭壁和绿松石色的海浪。传说附近一个隐秘的洞穴，曾是躲避猎鹰追捕的藏身之所。"
+      },
+      "coords": [20.7911, -156.0025]
+    }
+  ]
+}

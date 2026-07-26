@@ -1,0 +1,120 @@
+{
+  "id": "washington",
+  "country": "us",
+  "coords": [38.9072, -77.0369],
+  "name": { "ko": "워싱턴 D.C.", "en": "Washington, D.C.", "ja": "ワシントンD.C.", "zh": "华盛顿特区" },
+  "tagline": {
+    "ko": "어느 주에도 속하지 않는, 대리석 기념물로 가득한 미국의 수도",
+    "en": "America's capital, belonging to no state, filled with soaring marble monuments",
+    "ja": "どの州にも属さない、大理石の記念碑が立ち並ぶアメリカの首都",
+    "zh": "不属于任何一个州、遍布大理石纪念碑的美国首都"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 미국이 영국으로부터 독립한 뒤, 지도자들은 어느 주에도 속하지 않는 새로운 수도가 필요했어요. 조지 워싱턴은 포토맥강 옆의 질퍽한 습지를 수도 자리로 골랐답니다. 사람들은 그의 이름을 따서 이 도시를 '워싱턴'이라고 불렀어요. 프랑스 출신 설계사 피에르 랑팡은 마차 바퀴살처럼 사방으로 뻗은 넓은 도로를 그려 넣었죠.",
+      "1814년, 영국과 전쟁을 벌이던 중 영국군이 갓 태어난 수도로 쳐들어와 대통령이 사는 집에 불을 질렀어요. 집을 다시 지을 때 사람들은 검게 그을린 돌벽 위에 새하얀 페인트를 칠했답니다. 그래서 이 건물은 '하얀 집', 백악관이라는 이름을 갖게 되었어요!",
+      "그 후 200년 동안 도시 곳곳에 대리석으로 만든 높다란 기념물이 하나둘 세워졌어요. 초대 대통령을 기리는 워싱턴 기념탑은 어찌나 큰지, 남북전쟁 때문에 공사가 20년이나 멈췄었대요. 그래서 지금도 탑 중간쯤에 대리석 색깔이 살짝 달라지는 부분을 볼 수 있답니다! 나중에는 커다란 대리석 링컨 대통령이 의자에 앉아 연못을 내려다보는 링컨 기념관도 세워졌어요.",
+      "오늘날 기념물들 사이 넓은 '내셔널 몰' 공원에는 무료 박물관인 스미소니언이 줄지어 있어요. 아이들은 진짜 라이트 형제의 비행기 아래 서보거나 달에서 가져온 돌을 만져볼 수 있답니다. 봄이 되면 일본이 선물한 수천 그루 벚나무가 온통 분홍빛으로 활짝 피어나, 한 걸음 한 걸음이 마치 미국 역사 속을 걷는 것 같답니다."
+    ],
+    "en": [
+      "Long ago, after America won its freedom from Britain, its leaders needed a brand-new capital that belonged to no single state. George Washington picked a marshy spot beside the Potomac River, and people named the city after him. A French-born designer, Pierre L'Enfant, drew grand wide avenues spreading out like the spokes of a wheel.",
+      "In 1814, during a war with Britain, British soldiers marched into the young capital and set fire to the president's house. When workers rebuilt it, they painted right over the scorched stone walls with bright white paint—and that's how the building got its new name: the White House!",
+      "Over the next 200 years, tall marble monuments rose across the city. A giant stone tower was built to honor the first president, but construction stopped for 20 years during the Civil War—look closely today and you can still spot where the marble color changes partway up! Later came the Lincoln Memorial, where a huge marble Lincoln sits in a chair, gazing over a long reflecting pool.",
+      "Today, the wide National Mall between the monuments is lined with free museums called the Smithsonian. Kids can stand beneath a real Wright brothers airplane or touch a rock brought back from the Moon. Every spring, thousands of cherry trees gifted by Japan burst into pink bloom, and every step feels like walking straight through American history."
+    ],
+    "ja": [
+      "はるか昔、アメリカがイギリスから独立したあと、指導者たちはどの州にも属さない新しい首都が必要になりました。ジョージ・ワシントンはポトマック川のほとりの、じめじめした湿地を首都の場所に選びました。人々は彼の名前にちなんで、この街を『ワシントン』と呼ぶようになったのです。フランス出身の設計者ピエール・ランファンは、車輪のスポークのように四方へ広がる大きな道を描きました。",
+      "1814年、イギリスとの戦争中、イギリス軍がまだ若いこの首都にせめこみ、大統領の住む家に火をつけました。家を建て直すとき、人々は黒くすすけた石の壁の上に真っ白なペンキをぬりました。そうしてこの建物は『ホワイトハウス』という名前を持つようになったのです！",
+      "それから200年の間に、街のあちこちに大理石でできた高い記念碑が次々と建てられました。初代大統領をたたえるワシントン記念塔はとても大きく、南北戦争のせいで工事が20年も止まったそうです。だから今でも塔の途中で大理石の色が少しちがう部分を見ることができます！のちには、大理石でできた大きなリンカーン大統領が椅子に座り、池を見下ろすリンカーン記念館も建てられました。",
+      "今日、記念碑の間に広がる『ナショナル・モール』という公園には、無料の博物館スミソニアンがずらりと並んでいます。子どもたちは本物のライト兄弟の飛行機の下に立ったり、月から持ち帰った石にさわったりできます。春になると、日本が贈った何千本もの桜が一面ピンク色に咲きほこり、一歩ごとにアメリカの歴史を歩いているような気分になります。"
+    ],
+    "zh": [
+      "很久以前，美国从英国独立后，领导人们需要一座不属于任何一个州的全新首都。乔治·华盛顿选中了波托马克河边一片泥泞的沼泽地作为首都所在地。人们用他的名字，把这座城市叫作“华盛顿”。一位法国出身的设计师皮埃尔·朗方，把宽阔的大道设计得像车轮的辐条一样向四面延伸。",
+      "1814年，在与英国交战期间，英军攻入了这座年轻的首都，还放火烧了总统居住的房子。人们重建房屋时，在被烟熏黑的石墙上涂上了雪白的油漆。就这样，这座建筑有了一个新名字——白宫！",
+      "此后的两百年里，城市各处陆续建起了大理石打造的高耸纪念碑。为纪念第一任总统而建的华盛顿纪念碑非常高大，因为南北战争，工程一度停工长达二十年。所以现在你仍能看到纪念碑中段大理石颜色略有不同的地方！后来，人们又建起了林肯纪念堂，一尊巨大的大理石林肯总统坐像俯视着倒影池。",
+      "如今，纪念碑之间那片宽阔的“国家广场”两侧，排列着免费的史密森尼博物馆群。孩子们可以站在真正的莱特兄弟飞机下面，还能摸一摸从月球带回来的石头。每到春天，日本赠送的数千棵樱花树会开满粉色花朵，每走一步都像是走进了美国的历史。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "워싱턴 D.C.는 어느 주에도 속하지 않는, 그 자체로 특별한 '연방 특구'예요.",
+      "워싱턴 기념탑은 수십 년 간격을 두고 두 번에 걸쳐 지어져서, 자세히 보면 탑 중간에서 대리석 색깔이 달라지는 걸 볼 수 있어요.",
+      "1814년 영국군이 대통령 관저를 불태운 뒤, 그을음을 가리려 하얀 페인트를 칠했고 그렇게 '백악관'이라는 이름이 생겼어요.",
+      "워싱턴에서는 어떤 건물도 국회의사당 돔보다 높이 지을 수 없어서, 하늘이 낮고 시원하게 트여 있어요.",
+      "1912년 일본은 우정의 표시로 수천 그루의 벚나무를 워싱턴에 선물했고, 지금도 봄마다 분홍빛으로 활짝 피어나요.",
+      "스미소니언 박물관들은 모두 무료인데, 그중 한 곳엔 진짜 달에 다녀온 아폴로 11호 캡슐과 라이트 형제의 진짜 비행기가 전시되어 있어요."
+    ],
+    "en": [
+      "Washington, D.C. isn't part of any state—it's its own special federal district.",
+      "The Washington Monument was built in two phases decades apart; look closely and you can see the marble change color partway up.",
+      "After British soldiers burned the president's house in 1814, it was repainted white to cover the scorch marks—giving us the 'White House.'",
+      "No building in Washington is allowed to be taller than the Capitol dome, so the skyline stays low and open.",
+      "In 1912, Japan gave Washington thousands of cherry blossom trees as a gift of friendship; they still bloom bright pink every spring.",
+      "The Smithsonian museums are all free, and one holds a real Apollo 11 capsule that flew to the Moon plus the actual Wright brothers airplane."
+    ],
+    "ja": [
+      "ワシントンD.C.はどの州にも属さない、それ自体が特別な『連邦特別区』です。",
+      "ワシントン記念塔は数十年の間をおいて二段階で建てられたので、よく見ると塔の途中で大理石の色が変わっています。",
+      "1814年にイギリス軍が大統領官邸を焼いたあと、すすを隠すため白いペンキをぬり、そこから『ホワイトハウス』という名前が生まれました。",
+      "ワシントンでは国会議事堂のドームより高い建物を建ててはいけない決まりがあり、空が低くすっきり開けています。",
+      "1912年、日本は友好のしるしとして何千本もの桜の木をワシントンに贈り、今も春になると鮮やかなピンク色に咲きます。",
+      "スミソニアン博物館はすべて無料で、そのひとつには本物の月飛行をしたアポロ11号のカプセルと、ライト兄弟の本物の飛行機が展示されています。"
+    ],
+    "zh": [
+      "华盛顿特区不属于任何一个州，它本身就是一个特殊的“联邦特区”。",
+      "华盛顿纪念碑分两个阶段、相隔数十年建成，仔细看会发现纪念碑中段大理石的颜色有些不同。",
+      "1814年英军烧毁总统官邸后，人们涂上白色油漆遮盖烟熏痕迹，“白宫”这个名字就是这么来的。",
+      "华盛顿规定任何建筑都不能高过国会大厦的圆顶，所以天际线又低又开阔。",
+      "1912年，日本作为友谊的象征，赠送了数千棵樱花树给华盛顿，如今每到春天依然粉花满树。",
+      "史密森尼博物馆全部免费开放，其中一座里陈列着真正飞往月球的阿波罗11号返回舱和莱特兄弟的真实飞机。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "사람들은 왜 대통령이 사는 집을 새하얗게 칠했을까?",
+    "en": "Why do you think people painted the president's house bright white?",
+    "ja": "どうして人々は大統領の住む家を真っ白に塗ったのだと思う？",
+    "zh": "你觉得人们为什么把总统住的房子刷成雪白色呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "백악관", "en": "The White House", "ja": "ホワイトハウス", "zh": "白宫" },
+      "blurb": {
+        "ko": "대통령이 살고 일하는 곳이에요. 1814년 영국군이 불태운 뒤 다시 지어 하얗게 칠했답니다. 방이 132개나 있고, 볼링장과 초콜릿을 만드는 주방까지 있대요!",
+        "en": "The president's home and office, rebuilt and painted white after British soldiers burned it in 1814. It has 132 rooms, a bowling alley, and even a chocolate-making kitchen!",
+        "ja": "大統領が暮らし、働く場所。1814年にイギリス軍が焼いたあと建て直され、白くぬられました。部屋は132もあり、ボウリング場やチョコレートを作る厨房まであるそうです！",
+        "zh": "总统居住和办公的地方。1814年被英军烧毁后重建并刷成白色。这里有132个房间，还有保龄球馆，厨房里甚至能做巧克力！"
+      },
+      "coords": [38.8977, -77.0365]
+    },
+    {
+      "name": { "ko": "링컨 기념관", "en": "Lincoln Memorial", "ja": "リンカーン記念館", "zh": "林肯纪念堂" },
+      "blurb": {
+        "ko": "커다란 대리석 링컨 대통령이 앉아 기다란 연못을 내려다보는 곳이에요. 1963년에는 마틴 루터 킹 목사가 이 계단 위에서 25만 명 앞에 그 유명한 '나에게는 꿈이 있습니다' 연설을 했답니다.",
+        "en": "A giant marble Lincoln sits here, watching over a long reflecting pool. In 1963, Martin Luther King Jr. stood on its steps and gave his famous 'I Have a Dream' speech to a quarter-million people.",
+        "ja": "大きな大理石のリンカーン大統領が座り、長い池を見下ろす場所。1963年にはキング牧師がこの階段の上で25万人を前に、あの有名な『私には夢がある』演説をしました。",
+        "zh": "一尊巨大的大理石林肯坐像俯视着长长的倒影池。1963年，马丁·路德·金牧师就站在这里的台阶上，向25万人发表了著名的“我有一个梦想”演讲。"
+      },
+      "coords": [38.8893, -77.0502]
+    },
+    {
+      "name": { "ko": "워싱턴 기념탑", "en": "Washington Monument", "ja": "ワシントン記念塔", "zh": "华盛顿纪念碑" },
+      "blurb": {
+        "ko": "조지 워싱턴을 기리기 위해 세운, 세계에서 가장 높은 돌 오벨리스크예요. 남북전쟁 때문에 공사가 20년이나 멈췄었는데, 자세히 보면 탑 중간에서 대리석 색이 달라지는 걸 지금도 볼 수 있어요!",
+        "en": "The tallest stone obelisk in the world, built to honor George Washington. Construction paused for 20 years during the Civil War—look closely and you can still spot where the marble color changes partway up!",
+        "ja": "ジョージ・ワシントンをたたえて建てられた、世界で最も高い石のオベリスク。南北戦争のせいで工事が20年も止まり、よく見ると塔の途中で大理石の色が変わっているのが今でも分かります！",
+        "zh": "为纪念乔治·华盛顿而建的世界最高石制方尖碑。因南北战争停工二十年，仔细看仍能发现纪念碑中段大理石颜色的变化！"
+      },
+      "coords": [38.8895, -77.0353]
+    },
+    {
+      "name": { "ko": "스미소니언 국립항공우주박물관", "en": "Smithsonian National Air and Space Museum", "ja": "スミソニアン国立航空宇宙博物館", "zh": "史密森尼国家航空航天博物馆" },
+      "blurb": {
+        "ko": "진짜 우주선과 비행기가 전시된 곳이에요. 라이트 형제의 진짜 비행기와, 우주비행사들을 달까지 실어 나른 아폴로 11호 캡슐을 직접 볼 수 있답니다. 게다가 입장료가 완전히 무료예요!",
+        "en": "Home to real space and flying machines—the actual Wright brothers airplane and the Apollo 11 capsule that carried astronauts to the Moon. Best of all, it's completely free to visit!",
+        "ja": "本物の宇宙船や飛行機が展示されている場所。ライト兄弟の本物の飛行機や、宇宙飛行士を月まで運んだアポロ11号のカプセルを間近で見られます。しかも入場は完全に無料です！",
+        "zh": "这里展出真正的航天器和飞机——莱特兄弟的真实飞机，以及把宇航员送上月球的阿波罗11号返回舱。而且完全免费参观！"
+      },
+      "coords": [38.8882, -77.0199]
+    }
+  ]
+}

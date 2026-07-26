@@ -1,0 +1,120 @@
+{
+  "id": "suzhou",
+  "country": "cn",
+  "coords": [31.2989, 120.5853],
+  "name": { "ko": "쑤저우", "en": "Suzhou", "ja": "蘇州（スーチョウ）", "zh": "苏州" },
+  "tagline": {
+    "ko": "실과 물, 그리고 비밀 정원으로 짜인 2500년 '지상 낙원'",
+    "en": "The 2,500-year-old 'paradise on earth' woven from silk, water, and secret gardens",
+    "ja": "絹と水、そして秘密の庭園でできた2500年の『地上の楽園』",
+    "zh": "由丝绸、流水与藏在深处的园林织就的两千五百年“人间天堂”"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 2500년도 더 전에 중국 동쪽의 큰 강 두 개 사이에 한 왕이 도시를 세우고 '쑤저우'라 불렀어요. 왕은 골목마다 운하를 파서 배가 집집마다 대문 앞까지 스르륵 지나다닐 수 있게 했답니다. 그래서 사람들은 이곳을 '지상의 낙원'이라 부르기 시작했어요.",
+      "쑤저우는 반짝이고 부드러운 것으로도 유명해졌어요. 바로 비단이에요. 수천 년 동안 농부들은 아주 작은 누에를 키웠는데, 이 누에들은 밤낮으로 뽕잎을 먹고 아주 가늘면서도 튼튼한 실로 고치를 지었죠. 황제들도 이 실로 만든 옷을 입고 싶어 했답니다.",
+      "부유한 학자와 관리들은 쑤저우의 수수한 회색 담장 뒤에 또 다른 놀라운 것을 만들었어요. 바로 '비밀 정원'이에요. 평범해 보이는 문을 열고 들어가면, 구불구불한 연못과 달 모양 창문, 산처럼 우뚝 선 기암괴석이 놀이터보다도 작은 공간 안에 통째로 담겨 있답니다.",
+      "도시 끝자락 언덕 위에는 천 년 넘게 조금씩 옆으로 기울어 온 탑이 서 있어요. 이탈리아의 유명한 피사의 사탑보다 더 많이 기울어져 있대요! 오늘날 쑤저우의 돌다리와 좁은 운하 사이를 거닐다 보면, 2500년째 사람들을 매료시켜 온 '지상 낙원' 속을 걷고 있는 셈이에요."
+    ],
+    "en": [
+      "Long, long ago—more than 2,500 years back—a king built a city between two great rivers in eastern China and named it Suzhou. He had canals dug through every lane so boats could glide right up to people's front doors. Soon, travelers started calling it 'paradise on earth.'",
+      "Suzhou also grew famous for something shiny and soft: silk. For thousands of years, farmers raised tiny silkworms that munched mulberry leaves day and night, then spun cocoons of thread so fine and strong that even emperors wanted robes made from it.",
+      "Rich scholars and officials built something else amazing behind Suzhou's plain gray walls: secret gardens. Step through an ordinary-looking door, and suddenly there's a whole miniature world—winding ponds, moon-shaped windows, and craggy rocks standing in for mountains, all packed into a space smaller than a playground.",
+      "On a hill at the edge of town stands a pagoda that has been quietly tilting sideways for over a thousand years—leaning even more than Italy's famous Leaning Tower of Pisa! Today, when you wander Suzhou's stone bridges and narrow canals, you're walking through a 'paradise on earth' that has been enchanting visitors for 2,500 years."
+    ],
+    "ja": [
+      "はるか昔、2500年以上前、中国東部の二つの大きな川のあいだに、ある王が街を築き『蘇州』と名づけました。王は路地という路地に運河を掘り、船が家々の玄関先までするすると通れるようにしたのです。そのため人々はここを『地上の楽園』と呼ぶようになりました。",
+      "蘇州はきらきら輝くやわらかいものでも有名になりました。それが絹です。何千年ものあいだ、農家の人たちは小さなカイコを育て、カイコは昼も夜も桑の葉を食べて、とても細くて丈夫な糸のまゆを作りました。皇帝たちもこの糸で作った服を着たがったそうです。",
+      "裕福な学者や役人たちは、蘇州の地味な灰色の塀のうしろに、もうひとつのすごいものを作りました。それが『秘密の庭園』です。何でもないような門をくぐると、曲がりくねった池や月の形をした窓、山に見立てたごつごつした岩が、公園より小さな空間にまるごと詰まっているのです。",
+      "街のはずれの丘の上には、千年以上も少しずつ横に傾いてきた塔が立っています。なんとイタリアの有名なピサの斜塔よりも傾いているのだとか！今日、蘇州の石橋や細い運河のあいだを歩けば、2500年ものあいだ人々を魅了しつづけてきた『地上の楽園』の中を歩いていることになるのです。"
+    ],
+    "zh": [
+      "很久很久以前，两千五百多年前，一位君王在中国东部两条大河之间建起了一座城市，取名“苏州”。他在城里家家户户门前都开凿了河道，让小船可以悄悄划过每一家的门口。于是人们开始把这里称作“人间天堂”。",
+      "苏州还因为一样闪闪发亮、柔软细腻的东西而闻名，那就是丝绸。几千年来，农户们养着小小的蚕宝宝，它们日夜啃食桑叶，吐出又细又结实的丝线，结成蚕茧。就连皇帝也想穿上用这种丝线织成的衣裳。",
+      "富有的文人和官员们，在苏州朴素的灰色院墙背后，还悄悄造出了另一样了不起的东西——藏起来的园林。推开一扇不起眼的小门，眼前忽然出现一个微缩的世界：曲折的池塘、圆圆的月洞门、还有代替高山的嶙峋怪石，全都塞进了比操场还小的一方天地里。",
+      "在城边的一座小山上，矗立着一座塔，一千多年来一直悄悄地向一侧倾斜，倾斜的程度据说比意大利著名的比萨斜塔还要厉害！今天，当你走过苏州的石桥、穿行在窄窄的河道之间，你其实正走在这座迷倒了人们两千五百年的“人间天堂”里。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "쑤저우가 얼마나 아름다운지, 옛날 중국에는 \"하늘에는 천당이 있고, 땅에는 쑤저우가 있다\"는 말이 있었대요.",
+      "이 도시는 2500년도 더 됐어요. 왕들이 칼을 차고 다니던 아주 먼 옛날에 세워졌답니다!",
+      "누에고치 하나에서 나오는 실 한 가닥이 1000미터 넘게 이어질 수 있대요. 축구장 열 개보다도 길다니 놀랍죠?",
+      "쑤저우는 세계에서 가장 긴 손으로 판 운하인 '대운하' 위에 자리하고 있어요. 트럭도 기차도 없던 아주 오래전에 만들어졌답니다.",
+      "쑤저우의 고전 정원들은 유네스코 세계유산으로, 창문마다 살아있는 그림처럼 풍경이 딱 맞게 담기도록 설계됐어요.",
+      "후치우 언덕의 기울어진 탑은 천 년 넘게 조금씩 기울어 왔는데, 유명한 피사의 사탑보다도 더 많이 기울어져 있대요!"
+    ],
+    "en": [
+      "Suzhou is so beautiful that an old Chinese saying goes: \"Above there is heaven, below there is Suzhou.\"",
+      "The city is more than 2,500 years old—built way back when kings still carried swords, not phones!",
+      "A single silk cocoon can unwind into one thread over 1,000 meters long—longer than ten soccer fields put together!",
+      "Suzhou sits along the Grand Canal, the longest hand-dug canal in the world, built long before trucks or trains existed.",
+      "Suzhou's classical gardens are UNESCO World Heritage sites, designed so that every window frames a view like a living painting.",
+      "The Leaning Pagoda of Tiger Hill has been tilting for over a thousand years—and it leans even more than the famous Tower of Pisa!"
+    ],
+    "ja": [
+      "蘇州があまりに美しいので、昔の中国には「天には天国があり、地には蘇州がある」ということわざがあったそうです。",
+      "この街は2500年以上前、王様が剣を腰につけていたようなはるか昔に築かれました！",
+      "カイコのまゆから出る一本の糸は1000メートル以上も続くことがあるそうです。サッカー場10個分より長いなんて驚きですね。",
+      "蘇州は世界最長の手掘り運河『大運河』のほとりにあります。トラックも電車もなかった大昔に作られたのです。",
+      "蘇州の古典庭園はユネスコ世界遺産で、どの窓からもまるで生きた絵のような景色が見えるよう設計されています。",
+      "虎丘の斜塔は千年以上前から少しずつ傾いてきましたが、なんと有名なピサの斜塔よりも傾いているのです！"
+    ],
+    "zh": [
+      "苏州有多美？中国自古就有一句话：“上有天堂，下有苏州。”",
+      "这座城市已经有两千五百多年历史了，建成的时候，国王们出门还得佩着剑呢！",
+      "一颗蚕茧抽出的丝线可以长达一千多米，比十个足球场连起来还长，是不是很神奇？",
+      "苏州坐落在大运河边——世界上最长的人工运河，早在有卡车和火车之前就被开凿出来了。",
+      "苏州的古典园林是联合国教科文组织世界遗产，每一扇窗户都被设计成像一幅活的画。",
+      "虎丘的斜塔已经倾斜了一千多年，据说比著名的比萨斜塔还要斜！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "쑤저우의 탑이 천 년 동안 옆으로 기울어져 있는데도 안 넘어졌대. 어떻게 그럴 수 있었을까?",
+    "en": "A pagoda in Suzhou has been leaning sideways for a thousand years without falling over—how do you think it's still standing?",
+    "ja": "蘇州の塔は千年も横に傾いたままなのに倒れていないんだって。どうしてそんなことができるのかな？",
+    "zh": "苏州有一座塔，歪着身子倾斜了一千年都没倒下，你觉得它是怎么做到的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "줘정위안 (졸정원)", "en": "Humble Administrator's Garden", "ja": "拙政園（せっせいえん）", "zh": "拙政园" },
+      "blurb": {
+        "ko": "쑤저우에서 가장 크고 유명한 정원이에요. 연못과 지그재그 다리, 정자들이 어디에 서 있든 완벽한 그림처럼 보이도록 설계됐답니다. 작은 공간 안에 온 세상을 담을 수 있다는 걸 보여주는 곳이죠.",
+        "en": "Suzhou's largest and most famous garden. Its ponds, zigzag bridges, and pavilions were arranged so that no matter where you stand, you see a perfect picture. It's proof that a small space can hold a whole world.",
+        "ja": "蘇州でいちばん大きくて有名な庭園です。池やジグザグの橋、あずまやが、どこに立っても絵のように見えるよう設計されています。小さな空間に世界まるごとを詰め込めることを教えてくれる場所です。",
+        "zh": "苏州最大、最有名的园林。池塘、曲桥和亭台的布局，让你无论站在哪里，看到的都是一幅完美的画面。它证明了小小的空间也能装下整个世界。"
+      },
+      "coords": [31.3256, 120.6294]
+    },
+    {
+      "name": { "ko": "후치우 (호구산)", "en": "Tiger Hill", "ja": "虎丘（こきゅう）", "zh": "虎丘" },
+      "blurb": {
+        "ko": "천 년 넘게 옆으로 기울어 온 쑤저우의 유명한 '사탑'이 있는 곳이에요. 피사의 사탑보다 더 많이 기울어져 있대요. 언덕 아래 신비로운 연못 밑에는 칼을 사랑한 옛 왕이 잠들어 있다는 전설도 전해진답니다.",
+        "en": "Home to Suzhou's famous 'Leaning Pagoda,' which has been tilting sideways for over a thousand years—more than the Tower of Pisa! Legend says a sword-loving ancient king is buried beneath the mysterious pond at the foot of the hill.",
+        "ja": "千年以上も横に傾いてきた蘇州名物の『斜塔』がある場所です。ピサの斜塔よりも傾いているのだとか。丘のふもとの不思議な池の底には、剣を愛した昔の王が眠っているという伝説も伝わっています。",
+        "zh": "苏州著名的“斜塔”就矗立在这里，一千多年来慢慢倾斜，据说比比萨斜塔还要斜。传说山脚下那口神秘的水池底下，还沉睡着一位爱剑的古代君王。"
+      },
+      "coords": [31.3312, 120.5751]
+    },
+    {
+      "name": { "ko": "류위안 (유원)", "en": "Lingering Garden", "ja": "留園（りゅうえん）", "zh": "留园" },
+      "blurb": {
+        "ko": "중국의 4대 명원 중 하나로, 수백 개의 조각된 돌 비석이 늘어선 긴 회랑과, 이름까지 붙은 기묘하고 커다란 바위로 유명해요. 걷다 보면 마치 한 편의 시 속을 거니는 기분이 든답니다.",
+        "en": "One of China's four most famous gardens, known for a long corridor lined with hundreds of carved stone tablets and a strange, towering rock that even has its own name. Wandering through feels like walking inside a poem.",
+        "ja": "中国四大名園のひとつで、何百もの彫刻がほどこされた石碑が並ぶ長い回廊と、名前までつけられた奇妙で大きな岩で有名です。歩いていると、まるで一編の詩の中を歩いているような気分になります。",
+        "zh": "中国四大名园之一，以数百块雕刻精美的石碑长廊，以及一块又高又奇、还专门取了名字的巨石而闻名。走在其中，就像走进了一首诗里。"
+      },
+      "coords": [31.3079, 120.6103]
+    },
+    {
+      "name": { "ko": "핑장루 (평강로, 옛 운하 거리)", "en": "Pingjiang Road (Old Canal Street)", "ja": "平江路（古運河通り）", "zh": "平江路（古运河老街）" },
+      "blurb": {
+        "ko": "800년째 같은 운하를 따라 이어진 돌길이에요. 지금도 작은 다리 아래로 배가 스르륵 지나다녀서, 사람들이 왜 쑤저우를 '동양의 베니스'라 불렀는지 딱 알 수 있답니다.",
+        "en": "A stone-paved street that has followed the same canal for 800 years. Boats still glide beneath its little bridges today, showing exactly why people once called Suzhou 'the Venice of the East.'",
+        "ja": "800年間、同じ運河ぞいに続いてきた石畳の道です。今でも小さな橋の下を船がするすると通り、なぜ蘇州が『東洋のベネチア』と呼ばれたのかがよくわかります。",
+        "zh": "一条沿着同一条河道延续了八百年的石板路。至今仍有小船从小桥下悄悄划过，让人一眼就明白苏州为什么被称作“东方威尼斯”。"
+      },
+      "coords": [31.3175, 120.6281]
+    }
+  ]
+}

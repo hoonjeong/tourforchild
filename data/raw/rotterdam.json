@@ -1,0 +1,120 @@
+{
+  "id": "rotterdam",
+  "country": "nl",
+  "coords": [51.9244, 4.4777],
+  "name": { "ko": "로테르담", "en": "Rotterdam", "ja": "ロッテルダム", "zh": "鹿特丹" },
+  "tagline": {
+    "ko": "폭탄이 무너뜨렸지만, 꿈꾸는 사람들이 세상에 없던 모습으로 다시 세운 도시",
+    "en": "The city bombs destroyed - and dreamers rebuilt like nowhere else on Earth",
+    "ja": "爆弾に壊されても、夢見る人々が世界のどこにもない姿によみがえらせた街",
+    "zh": "曾被炸弹摧毁，却被追梦人重建成世界独一无二模样的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 로테르담은 작은 어촌 마을에서 시작됐어요. 마을 사람들은 '로테'라는 작은 강물이 넘치지 않도록 둑(담)을 쌓았는데, 그래서 마을 이름도 '로테르-담'이 되었답니다! 넓은 강을 따라 배들이 드나들기 시작하면서, 조용하던 마을은 어느새 세계에서 손꼽히게 바쁜 항구 도시로 자라났어요.",
+      "그런데 1940년 5월의 어느 오후, 모든 게 순식간에 달라졌어요. 2차 세계대전 중 폭탄이 로테르담에 떨어졌고, 겨우 몇 시간 만에 수백 년 된 옛 시가지 거의 전부가 사라져 버렸답니다. 로테르담 역사에서 가장 슬픈 날 중 하나였죠.",
+      "하지만 로테르담 사람들은 예전 모습 그대로 다시 짓지 않았어요. 대신 소매를 걷어붙이고 이렇게 물었죠. \"세상에 없던 걸 만들어보면 어떨까?\" 건축가들은 금방이라도 쓰러질 듯 기울어진 노란 큐브 집들을 짓고, 안쪽 천장에 커다란 과일과 꽃이 가득한 벽화를 그린 무지개 모양의 거대한 시장 건물도 세웠어요.",
+      "오늘날 로테르담은 네덜란드의 다른 도시와는 전혀 달라 보여요. 미래에서 온 듯한 대담한 건물들로 가득해서 사람들은 이곳을 '마스강의 맨해튼'이라고 부르기도 하죠. 지금도 세계 곳곳에서 온 배들이 항구를 드나들고, 밤이 되면 백조 모양 다리가 강 위에서 반짝여요. 유로마스트 전망대 꼭대기에 올라가면, 다시 씩씩하게 일어선 이 도시가 마치 거대한 레고 마을처럼 펼쳐진 걸 볼 수 있답니다."
+    ],
+    "en": [
+      "Long ago, Rotterdam began as a tiny fishing village where villagers built a dam across a little river called the Rotte to keep the water out. That's actually where the name comes from - \"Rotter-dam\"! Ships started sailing in and out along the wide river beside it, and slowly the sleepy village grew into one of the busiest harbor cities in the whole world.",
+      "But one terrible afternoon in May 1940, everything changed. During World War II, bombs fell on Rotterdam, and in just a few hours, almost the entire old town center - its centuries-old streets and buildings - was gone. It was one of the saddest days the city ever knew.",
+      "Yet Rotterdammers didn't just rebuild the old city the way it used to look. They rolled up their sleeves and asked a bold question: what if we build something the world has never seen before? Architects dreamed up wobbly yellow houses tilted like they're about to tip over, and a giant rainbow-shaped market hall painted inside with a ceiling mural bursting with giant fruit and flowers.",
+      "Today Rotterdam looks like no other Dutch city - so full of daring, futuristic buildings that people nickname it \"Manhattan on the Maas.\" Ships from every corner of the planet still glide through its harbor, and a swan-shaped bridge glows over the river at night. Ride to the top of the Euromast tower, and you can see this brave, rebuilt city spreading out beneath you like a giant Lego town brought to life."
+    ],
+    "ja": [
+      "昔むかし、ロッテルダムは小さな漁村として始まりました。村人たちは『ロッテ』という小川があふれないようにダム（堤防）を築いたことから、村の名前も『ロッテル・ダム』になったのです！広い川に沿って船が行き来するようになり、静かだった村はいつしか世界でも有数の忙しい港町へと育っていきました。",
+      "ところが1940年5月のある午後、すべてが一変しました。第二次世界大戦中、ロッテルダムに爆弾が落とされ、わずか数時間で何百年も続いた旧市街のほとんどが失われてしまったのです。ロッテルダムの歴史の中でも、もっとも悲しい日のひとつでした。",
+      "それでもロッテルダムの人々は、昔のままの街を建て直そうとはしませんでした。腕まくりをして、こう考えたのです。「世界にまだない、新しいものを作ってみよう」。建築家たちは今にも倒れそうなほど傾いた黄色い立方体の家を建て、天井いっぱいに巨大な果物や花の絵を描いた、虹のような形の大きな市場の建物も作りました。",
+      "今のロッテルダムは、オランダの他の街とはまったくちがって見えます。まるで未来からやってきたような大胆な建物がたくさんあるので、人々はここを『マース川のマンハッタン』とも呼びます。今も世界中から船が港に出入りし、夜になると白鳥のような形の橋が川の上で輝きます。ユーロマストの展望台のてっぺんに登れば、力強く生まれ変わったこの街が、まるで巨大なレゴの街のように広がっているのが見えますよ。"
+    ],
+    "zh": [
+      "很久很久以前，鹿特丹只是一个小小的渔村。村民们在一条叫“罗特”的小河上筑起堤坝，防止河水泛滥，于是村子的名字也变成了“鹿特丹”（意思是“罗特河上的堤坝”）！随着船只沿着宽阔的河流往来穿梭，这个安静的小村庄渐渐长成了世界上最繁忙的港口城市之一。",
+      "可是1940年5月的一个下午，一切都变了。第二次世界大战期间，炸弹落在了鹿特丹，短短几个小时内，几百年历史的老城几乎全部消失了。那是鹿特丹历史上最悲伤的日子之一。",
+      "但鹿特丹人没有把老城原样重建。他们卷起袖子，问自己一个大胆的问题：“不如造一些世界上从未有过的东西？”建筑师们设计出好像随时要倾倒的黄色方块屋，还建起一座彩虹形状的巨大市场大楼，天花板上画满了硕大的水果和鲜花壁画。",
+      "如今的鹿特丹，看起来和荷兰其他城市完全不同。城里到处是大胆前卫、仿佛来自未来的建筑，人们甚至把它称作“马斯河畔的曼哈顿”。世界各地的船只依然穿梭进出这座港口，夜晚，一座天鹅形状的大桥在河面上闪闪发光。如果登上欧洲桅杆瞭望塔的顶端，你就能看到这座重新站起来的城市，像一座巨大的乐高城铺展在你脚下。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "로테르담이라는 이름 자체가 \"로테 강 위의 둑\"이라는 뜻이에요. 도시 전체가 작은 시냇물 이름을 따서 지어진 거죠!",
+      "노랗게 기울어진 큐브 하우스들은 마치 숲속 나무들처럼 보이도록 디자인됐어요. 집마다 45도씩 기울어져 있어서 금방이라도 넘어질 것 같지만, 절대 넘어지지 않는답니다.",
+      "마르크트할(시장 건물) 안쪽 천장에는 '풍요의 뿔'이라는 거대한 그림이 그려져 있는데, 무려 11,000제곱미터 넓이에 과일과 꽃, 벌레들이 가득해요. 네덜란드에서 가장 큰 예술 작품 중 하나랍니다.",
+      "하얗게 휘어진 에라스뮈스 다리는 '백조'라는 별명으로 불려요. 기울어진 기둥 하나는 40층 건물보다도 높답니다.",
+      "메이플라워호보다도 먼저, 1620년에 '필그림'이라 불리는 사람들이 로테르담의 옛 항구 델프스하벤에서 첫 배를 타고 아메리카를 향한 여정을 시작했어요.",
+      "뾰족한 유로마스트 전망탑 꼭대기에는 '유로스쿠프'라는 회전 유리 캡슐이 있어서, 탑 바깥쪽을 나사처럼 빙글빙글 돌며 더 높이 올라간답니다."
+    ],
+    "en": [
+      "Rotterdam's name literally means \"dam on the Rotte river\" - the whole city is named after a tiny stream!",
+      "The tilted yellow Cube Houses were designed to look like a forest of trees, each one twisted 45 degrees like it's about to fall over (but it never does).",
+      "Inside the Markthal, a giant ceiling painting called \"Horn of Plenty\" covers 11,000 square meters with fruits, flowers, and bugs - it's one of the largest artworks in the Netherlands.",
+      "The swooping white Erasmus Bridge is nicknamed \"The Swan,\" and one of its tilted towers stands taller than a 40-story building.",
+      "Long before the Mayflower, in 1620, a group called the Pilgrims set sail from Rotterdam's old harbor of Delfshaven on their very first ship before heading on to America.",
+      "At the top of the needle-shaped Euromast tower, a spinning glass capsule called the Euroscoop slowly corkscrews up the outside for an even higher view."
+    ],
+    "ja": [
+      "ロッテルダムという名前は「ロッテ川のダム」という意味です。街全体が小さな小川の名前からつけられたのですね！",
+      "黄色く傾いたキューブハウスは、森の木々のように見えるようデザインされました。それぞれの家が45度かたむいていて、今にも倒れそうに見えますが、決して倒れません。",
+      "マルクトハル（市場の建物）の天井には『豊穣の角』という巨大な絵が描かれていて、なんと11,000平方メートルもの広さに果物や花、虫たちがびっしり。オランダで最も大きな芸術作品のひとつです。",
+      "白くカーブしたエラスムス橋は『白鳥』というあだ名で呼ばれています。かたむいた塔のひとつは、40階建てのビルよりも高いのです。",
+      "メイフラワー号よりも前、1620年に『ピルグリム』と呼ばれる人たちが、ロッテルダムの古い港デルフスハーフェンから最初の船に乗り、アメリカを目指す旅を始めました。",
+      "とがった形のユーロマスト展望塔のてっぺんには『ユーロスクープ』という回転ガラスカプセルがあり、塔の外側をらせん状にぐるぐる回りながら、さらに高くのぼっていきます。"
+    ],
+    "zh": [
+      "“鹿特丹”这个名字的意思就是“罗特河上的堤坝”——整座城市竟然是以一条小小的溪流命名的！",
+      "倾斜的黄色方块屋被设计成像一片森林里的树木。每一间都倾斜45度，看起来随时要倒下，但其实永远不会倒。",
+      "市场大楼(Markthal)内部的天花板上，画着一幅名为“丰饶之角”的巨型壁画，面积多达11000平方米，画满了水果、鲜花和小虫子，是荷兰最大的艺术作品之一。",
+      "白色弧形的伊拉斯谟大桥有个绰号叫“天鹅”，它其中一座倾斜的桥塔比40层楼还要高。",
+      "早在“五月花号”之前的1620年，一群被称为“清教徒”(Pilgrims)的人就是从鹿特丹的老港口代尔夫斯港(Delfshaven)登上第一艘船，开启了前往美洲的旅程。",
+      "在尖尖的欧洲桅杆瞭望塔(Euromast)顶端，有一个叫“欧洲展望舱”(Euroscoop)的旋转玻璃舱，会像螺丝一样沿着塔的外侧慢慢盘旋而上，带你看到更高的景色。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도시 이름이 작은 강둑에서 나왔대! '로테르담'이 진짜 무슨 뜻인지 맞혀볼까?",
+    "en": "A whole city got its name from a tiny river dam - can you guess what \"Rotterdam\" actually means?",
+    "ja": "街の名前が小さな川の堤防から来てるんだって！『ロッテルダム』の本当の意味、あててみる？",
+    "zh": "整座城市的名字竟然来自一条小小的河堤——你能猜出“鹿特丹”到底是什么意思吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "큐브 하우스 (쿠부스보닝언)", "en": "Cube Houses (Kubuswoningen)", "ja": "キューブハウス（クブスヴォニンゲン）", "zh": "方块屋（Kubuswoningen）" },
+      "blurb": {
+        "ko": "밝은 노란색 집들이 잔뜩 기울어진 채 가느다란 기둥 하나에 아슬아슬하게 서 있는 동네예요. 추상적인 숲을 표현하려고 이렇게 디자인했는데, 지금도 진짜 가족들이 그 안에서 살고 있답니다!",
+        "en": "A whole neighborhood of bright yellow houses tilted at a wild angle, each one balanced on a single narrow pillar. They were designed to look like an abstract forest - and yes, real families live inside them today!",
+        "ja": "明るい黄色の家々が大きく傾き、細い柱一本の上に危なっかしく立ち並ぶ一角。抽象的な森をイメージしてデザインされましたが、今も本物の家族がその中で暮らしているんですよ！",
+        "zh": "一整片明黄色的房子东倒西歪，每一栋都只靠一根细细的柱子撑着。它们被设计成抽象森林的模样——而且现在真的有家庭住在里面哦！"
+      },
+      "coords": [51.9214, 4.4906]
+    },
+    {
+      "name": { "ko": "마르크트할 (시장 건물)", "en": "Markthal (Market Hall)", "ja": "マルクトハル（市場の建物）", "zh": "市场大楼（Markthal）" },
+      "blurb": {
+        "ko": "무지개 모양의 이 거대한 건물 안으로 들어가 위를 올려다보세요. 10미터 크기의 과일과 꽃이 가득한 천장 그림이 치즈, 생선, 꽃 가게들 위로 펼쳐져 있어요. 마치 그림 속에서 장을 보는 기분이랍니다!",
+        "en": "Step inside this giant rainbow-shaped hall and look up - a ceiling mural bursting with 10-meter-tall fruits and flowers stretches above rows of cheese, fish, and flower stalls. It's like shopping inside a painting!",
+        "ja": "虹のような形をしたこの巨大な建物に入って、上を見上げてみて。チーズや魚、花のお店の上に、10メートルもある果物や花でいっぱいの天井画が広がっています。まるで絵の中で買い物をしているみたい！",
+        "zh": "走进这座彩虹形状的巨大建筑，抬头看看——高达10米的水果和鲜花壁画覆盖在奶酪、鱼类和花卉摊位的上方。就像是在一幅画里逛街买东西一样！"
+      },
+      "coords": [51.9199, 4.4881]
+    },
+    {
+      "name": { "ko": "에라스뮈스 다리 (백조 다리)", "en": "Erasmus Bridge (The Swan)", "ja": "エラスムス橋（白鳥橋）", "zh": "伊拉斯谟大桥（天鹅桥）" },
+      "blurb": {
+        "ko": "이 우아한 하얀 다리는 마스강 위를 가로질러 휘어지듯 놓여 있어요. 하나의 높고 굽은 기둥에서 뻗어 나온 케이블들이 다리를 지탱하는데, 그 모습이 꼭 백조 같아서 '백조 다리'라는 별명이 붙었답니다. 밤이 되면 불이 켜져 강물 위로 반짝인대요.",
+        "en": "This graceful white bridge swoops across the river Maas, held up by cables from one tall, curved tower - which is exactly why everyone calls it \"The Swan.\" At night it lights up and glows over the water.",
+        "ja": "この優雅な白い橋はマース川を弧を描くようにまたいでいます。1本の高くカーブした塔から伸びるケーブルが橋を支えていて、その姿がまるで白鳥のようだから『白鳥橋』と呼ばれているのです。夜になるとライトアップされ、川面に美しく輝きます。",
+        "zh": "这座优雅的白色大桥优美地横跨马斯河，由一座高高弯曲的桥塔用缆索支撑，那模样正像一只天鹅，因此人人都叫它“天鹅桥”。夜晚亮灯时，桥影在河面上熠熠生辉。"
+      },
+      "coords": [51.9060, 4.4877]
+    },
+    {
+      "name": { "ko": "델프스하벤 (옛 항구)", "en": "Delfshaven (Historic Harbor)", "ja": "デルフスハーフェン（歴史ある港）", "zh": "代尔夫斯港（历史港区）" },
+      "blurb": {
+        "ko": "로테르담에서 폭격을 피해 살아남은 몇 안 되는 지역 중 하나예요. 아늑한 옛 벽돌집들과 풍차가 조용한 운하를 따라 늘어서 있죠. 1620년, '필그림'들이 아메리카로 향하는 배에 오른 곳이 바로 이곳이랍니다.",
+        "en": "One of the only corners of Rotterdam that survived the bombing, with cozy old brick houses and a windmill lining a quiet canal. It's also the very spot where the Pilgrims boarded a ship bound for America back in 1620.",
+        "ja": "ロッテルダムの中でも爆撃をまぬがれた数少ない一角。趣のあるれんが造りの家々と風車が、静かな運河沿いに並んでいます。1620年、『ピルグリム』たちがアメリカ行きの船に乗り込んだのも、まさにこの場所です。",
+        "zh": "这是鹿特丹为数不多躲过轰炸的角落之一，古朴的砖房和一座风车沿着安静的运河排列。1620年，“清教徒”们正是从这里登上驶向美洲的船只。"
+      },
+      "coords": [51.9038, 4.4535]
+    }
+  ]
+}

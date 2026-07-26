@@ -1,0 +1,120 @@
+{
+  "id": "valencia",
+  "country": "es",
+  "coords": [39.4699, -0.3763],
+  "name": { "ko": "발렌시아", "en": "Valencia", "ja": "バレンシア", "zh": "巴伦西亚" },
+  "tagline": {
+    "ko": "강을 통째로 옮기고, 그 자리를 거인이 사는 공원으로 바꾼 도시",
+    "en": "The city that moved an entire river and turned its bed into a giant's playground",
+    "ja": "川をまるごと引っ越しさせ、その跡を巨人の遊び場に変えた街",
+    "zh": "把整条河都搬走,把河床变成巨人游乐场的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 스페인의 햇살 가득한 지중해 해안에 로마 사람들이 세운 도시가 있었어요. 오렌지 나무가 활짝 피어 있었고, '투리아'라는 강이 도시 한가운데를 가로질러 흘렀죠. 바닷가엔 고기잡이배가 통통 떠 있었고, 도시 남쪽에는 '알부페라'라는 얕고 넓은 호수가 바람에 넘실대는 논과 함께 펼쳐져 있었어요. 이렇게 활기찬 도시가 바로 '발렌시아'인데, 훗날 세계에서 가장 유명한 요리 하나를 탄생시키게 된답니다.",
+      "그런데 발렌시아에 생명을 주던 그 강이 무서운 얼굴을 드러낸 적이 있어요. 1957년 10월, 며칠 동안 억수 같은 비가 쏟아지더니 투리아 강이 둑을 넘어 도시를 덮치는 끔찍한 홍수가 났어요. 물이 거리와 가게 안으로 콸콸 밀려들었고, 사람들은 다짐했답니다. '다시는 이 강이 도시를 물에 잠기게 할 수 없어!'",
+      "그래서 발렌시아 사람들은 대담한 결정을 내렸어요. 강이 도시 바깥으로 새 길을 따라 흐르게 하고, 옛 강바닥은 완전히 물 없이 비워둔 거예요. 그 텅 빈 강바닥을 고속도로로 덮는 대신, 9킬로미터나 되는 거대한 초록 공원으로 바꾸었답니다! 지금은 아이들이 동화 속 거인처럼 잔디밭에 누운 '걸리버' 조각상을 기어오르고 미끄럼틀을 타며 놀고, 그 근처엔 눈과 조개, 공룡뼈를 닮은 새하얀 건물들이 강물이 흐르던 자리에 우뚝 서 있어요.",
+      "이 하얀 건물들이 모여 '예술과 과학의 도시'를 이루는데, 유럽에서 가장 큰 수족관과 커다란 눈이 깜빡이는 모양의 천체관이 있답니다. 발렌시아에는 놀랄 일이 더 있어요. 바로 이곳이 파에야의 진짜 고향이고, 알부페라에서 자란 쌀로 만든대요. 그리고 매년 3월이면 '파야스' 축제가 열려, 거대한 조각상들이 밤새 반짝이다가 마지막 날 밤엔 불꽃과 함께 활활 타오른답니다."
+    ],
+    "en": [
+      "Long ago, a Roman city grew on Spain's sunny Mediterranean coast, where orange trees bloomed and a river called the Turia flowed straight through the middle of town. Fishing boats bobbed near the beach, and just south of the city, a huge, shallow lake called the Albufera rippled with wind-blown rice paddies. This lively place became Valencia—and one day it would invent one of the world's most famous dishes.",
+      "But the same river that gave Valencia life could also turn dangerous. In October 1957, days of pounding rain sent the Turia roaring over its banks in a terrifying flood. Water rushed through streets and shops, and the city knew right away: this river could never be allowed to flood the city again.",
+      "So the people of Valencia did something bold—they built the river a brand-new path outside the city and left its old bed completely dry. Instead of paving over it with a highway, they turned the empty riverbed into a giant green park, 9 kilometers long! Today kids climb and slide across a giant sculpture named Gulliver, lying in the grass just like in the storybook, while nearby, gleaming white buildings shaped like eyes, shells, and skeletons rise where the river used to flow.",
+      "Those white buildings make up the City of Arts and Sciences, home to Europe's biggest aquarium and a planetarium shaped like a giant blinking eye. And Valencia has plenty more surprises: it's the true birthplace of paella, cooked with rice from the Albufera, and every March it explodes with the Fallas festival, when giant statues glow all night before going up in fireworks and flame."
+    ],
+    "ja": [
+      "むかしむかし、スペインの太陽まぶしい地中海沿岸に、ローマ人が築いた街がありました。オレンジの木々が花を咲かせ、『トゥリア川』という川が街のまん中を流れていました。海辺には漁船がぷかぷか浮かび、街の南には『アルブフェラ』という浅くて広い湖が、風にゆれる田んぼとともに広がっていました。この活気ある街こそバレンシア。のちに世界で最も有名な料理のひとつを生み出すことになります。",
+      "けれど、バレンシアに命を与えていたその川が、恐ろしい顔を見せたことがありました。1957年10月、何日も土砂降りの雨が続き、トゥリア川があふれて街をおそう、ものすごい洪水が起きたのです。水は通りや店になだれこみ、人々は心に決めました。『二度とこの川に街を水びたしにさせない』と。",
+      "そこでバレンシアの人々は、大胆な決断をしました。川を街の外に新しい道で流し、もとの川底はすっかり水のないまま残したのです。空っぽになった川底を高速道路にする代わりに、なんと9キロメートルもの巨大な緑の公園に変えました！今では、絵本の巨人のように芝生に横たわる『ガリバー』の像を、子どもたちがよじ登ったり滑り台で遊んだりしています。すぐそばには、目や貝がら、恐竜の骨のような真っ白な建物が、かつて川が流れていた場所にそびえ立っています。",
+      "この白い建物群が『芸術科学都市』で、ヨーロッパ最大の水族館と、大きな目のようにまばたきするプラネタリウムがあります。バレンシアには驚きがまだまだあります。実はここがパエリア本当の生まれ故郷で、アルブフェラで育てたお米で作られたのです。そして毎年3月には『ファジャス祭り』が開かれ、巨大な人形の像が夜通し輝いたあと、最終日の夜には花火とともに燃え上がります。"
+    ],
+    "zh": [
+      "很久很久以前，在西班牙阳光灿烂的地中海海岸边，罗马人建起了一座城市。橙子树开满了花，一条叫“图里亚”的河从城市正中央流过。海边渔船轻轻摇晃，城南还有一片叫“阿尔布费拉”的浅浅大湖，周围是随风起伏的稻田。这座热闹的城市就是巴伦西亚——后来它还发明了世界上最有名的美食之一。",
+      "可是，这条给巴伦西亚带来生机的河流，也曾露出可怕的一面。1957年10月，连续几天的倾盆大雨让图里亚河猛涨，洪水冲破河岸，淹没了整座城市，街道和店铺里灌满了水。人们下定决心：绝不能再让这条河淹没城市了！",
+      "于是巴伦西亚人做出了一个大胆的决定：给河流修一条新的路，让它绕开城市，把原来的河床留成完全干涸的一片空地。他们没有把这片空地铺成高速公路，而是把它变成了一座长达9公里的巨大绿色公园！如今，孩子们爬上躺在草地上、像童话里的巨人一样大的“格列佛”雕像，从他身上的滑梯滑下来玩耍；不远处，一栋栋雪白的建筑像眼睛、贝壳和恐龙骨头，矗立在曾经河水流淌的地方。",
+      "这些白色建筑组成了“艺术科学城”，里面有欧洲最大的水族馆，还有一座形状像巨大眨眼睛的天文馆。巴伦西亚还有更多惊喜：这里才是海鲜饭（paella）真正的故乡，最初就是用阿尔布费拉湖边种出的大米做成的。而且每年3月，这里都会举办“法雅节”，巨大的雕像彻夜闪耀，到最后一晚，随着烟花绽放，所有雕像都会燃烧起来。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1957년 무시무시한 홍수가 난 뒤, 사람들은 투리아 강 전체를 도시 밖으로 옮기고 옛 강바닥은 물 없이 비워뒀어요.",
+      "그 마른 강바닥은 고속도로 대신 9킬로미터짜리 거대한 공원이 됐어요. 동화 속 거인처럼 잔디에 누운 '걸리버' 조각상 위를 아이들이 기어오르며 논답니다.",
+      "'예술과 과학의 도시'는 옛 강바닥 한가운데 지어졌어요. 건물들이 커다란 눈, 조개껍데기, 공룡 뼈처럼 생겼답니다.",
+      "그 안의 '오세아노그라픽' 수족관은 유럽에서 가장 커요. 흰돌고래와 돌고래가 살고, 유리 터널 위로 상어가 헤엄쳐 지나간답니다.",
+      "발렌시아는 진짜 파에야의 고향이에요! 알부페라 호수 근처에서 오렌지 나뭇가지 불로 쌀과 콩, 토끼고기를 넣어 만든 게 시작이었대요.",
+      "매년 3월엔 '파야스' 축제가 열려요. 거리마다 '니놋'이라는 거대한 조각상이 세워지고, 매일 오후엔 귀가 얼얼할 만큼 큰 불꽃놀이가 터진 뒤, 마지막 밤엔 조각상들이 모두 활활 타오른답니다."
+    ],
+    "en": [
+      "After a terrifying flood in 1957, engineers moved the entire Turia river outside the city and left the old riverbed completely dry.",
+      "That dry riverbed became a giant 9-kilometer park instead of a highway. Kids climb all over a sculpture named Gulliver, lying in the grass just like the storybook giant.",
+      "The City of Arts and Sciences was built right in the middle of the old riverbed—its buildings look like giant eyes, seashells, and dinosaur bones.",
+      "Inside, the Oceanogràfic aquarium is the largest in Europe. Beluga whales and dolphins live there, and sharks swim right over a glass tunnel above your head.",
+      "Valencia is the true home of paella! It began near the Albufera lagoon, cooked over orange-wood fires with rice, beans, and rabbit.",
+      "Every March, Valencia holds the Fallas festival: giant statues called 'ninots' fill the streets, ear-rattling fireworks go off every afternoon, and on the last night, every single statue goes up in flames."
+    ],
+    "ja": [
+      "1957年のおそろしい洪水のあと、人々はトゥリア川をまるごと街の外へ移し、もとの川底は水のないまま残しました。",
+      "その乾いた川底は、高速道路の代わりに9キロメートルの巨大な公園になりました。絵本の巨人のように芝生に横たわる『ガリバー』の像に、子どもたちがよじ登って遊びます。",
+      "『芸術科学都市』はもとの川底のまん中に建てられました。建物は大きな目や貝がら、恐竜の骨のような形をしています。",
+      "その中の水族館『オセアノグラフィック』はヨーロッパ最大！シロイルカやイルカがくらし、ガラスのトンネルの上をサメが泳いでいきます。",
+      "バレンシアはパエリア本当の故郷です！アルブフェラ湖のそばで、オレンジの木の枝を燃やしながらお米や豆、ウサギ肉を煮こんだのが始まりだそうです。",
+      "毎年3月には『ファジャス祭り』が開かれます。通りには『ニノット』という巨大な像が並び、毎日午後には耳がジンとするほど大きな花火が鳴りひびき、最終日の夜には像がすべて燃え上がります。"
+    ],
+    "zh": [
+      "1957年那场可怕的洪水过后，人们把整条图里亚河都改道到了城市外面，让原来的河床彻底干涸下来。",
+      "那片干涸的河床没有变成高速公路，而是变成了一座长9公里的巨大公园。孩子们会爬上躺在草地上、像童话巨人一样大的“格列佛”雕像玩耍。",
+      "“艺术科学城”就建在原来的河床正中央，那里的建筑看起来像巨大的眼睛、贝壳，还有恐龙骨头。",
+      "里面的“海洋馆”是欧洲最大的水族馆！白鲸和海豚住在里面，鲨鱼还会从玻璃隧道顶上游过去。",
+      "巴伦西亚才是海鲜饭真正的故乡！最早是在阿尔布费拉湖边，用橙木生火，煮上大米、豆子和兔肉做成的。",
+      "每年3月都会举办“法雅节”：街道上摆满叫“尼诺特”的巨大雕像，每天下午都会放震耳欲聋的鞭炮烟花，到最后一晚，所有雕像都会熊熊燃烧起来。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "강 하나를 통째로 들어서 도시 밖으로 옮겼대! 그게 정말 가능했을까?",
+    "en": "They picked up an entire river and moved it outside the city! Can you imagine how that's even possible?",
+    "ja": "川をまるごと持ち上げて、街の外に引っ越しさせたんだって！そんなこと本当にできると思う？",
+    "zh": "居然把一整条河搬到了城市外面！你相信这种事真的能做到吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "예술과 과학의 도시", "en": "City of Arts and Sciences", "ja": "芸術科学都市", "zh": "艺术科学城" },
+      "blurb": {
+        "ko": "옛날 투리아 강이 흐르던 바로 그 자리에 새하얀 건물들이 눈부시게 서 있어요. 눈 모양을 한 '에미스페릭' 안에서는 둥근 화면으로 영화를 볼 수 있고, 옆에는 유럽에서 가장 큰 수족관 '오세아노그라픽'이 있어서 상어와 돌고래, 흰돌고래를 만날 수 있답니다.",
+        "en": "Dazzling white buildings rise right where the Turia river used to flow. Inside the eye-shaped Hemisfèric you can watch movies on a giant curved screen, and next door the Oceanogràfic—Europe's biggest aquarium—is home to sharks, dolphins, and beluga whales.",
+        "ja": "かつてトゥリア川が流れていたまさにその場所に、真っ白な建物がまばゆく建っています。目の形をした『エミスフェリック』の中では丸い大画面で映画が見られ、隣にはヨーロッパ最大の水族館『オセアノグラフィック』があって、サメやイルカ、シロイルカに会えます。",
+        "zh": "就在曾经图里亚河流过的地方，矗立着一片耀眼的雪白建筑。眼睛造型的“半球影院”里可以在弧形大银幕上看电影，旁边就是欧洲最大的水族馆“海洋馆”，里面住着鲨鱼、海豚和白鲸。"
+      },
+      "coords": [39.4542, -0.3499]
+    },
+    {
+      "name": { "ko": "걸리버 공원", "en": "Gulliver Park", "ja": "ガリバー公園", "zh": "格列佛公园" },
+      "blurb": {
+        "ko": "동화책 속 거인 걸리버가 잔디밭에 큰 대(大) 자로 누워 있어요. 이야기 속에서는 작은 사람들이 그를 밧줄로 묶었지만, 여기서는 아이들이 그의 몸 위를 신나게 기어오르고 옷 위로 만든 미끄럼틀을 타고 내려온답니다.",
+        "en": "A giant sculpture of Gulliver lies stretched out in the grass, just like in the storybook where tiny people tied him down. But here, kids don't tie him up—they climb all over him and slide down ropes and ladders built into his giant clothes.",
+        "ja": "絵本の巨人ガリバーが芝生の上に大の字で横たわっています。物語の中では小人たちがロープで巨人をしばりましたが、ここでは子どもたちが体の上を元気によじ登り、服にしつらえられた滑り台をすべりおります。",
+        "zh": "一座巨大的格列佛雕像大字形躺在草地上，就像故事里被小人国居民用绳子绑住的那样。不过在这里，孩子们可不是绑他，而是兴高采烈地爬到他身上，从他“衣服”做成的滑梯上滑下来。"
+      },
+      "coords": [39.4747, -0.3717]
+    },
+    {
+      "name": { "ko": "라 론하 데 라 세다 (비단 거래소)", "en": "La Lonja de la Seda (Silk Exchange)", "ja": "ラ・ロンハ・デ・ラ・セダ（絹の取引所）", "zh": "丝绸交易所（La Lonja de la Seda）" },
+      "blurb": {
+        "ko": "500년 전 비단 상인들이 이 화려한 고딕 건물 안에서 거래를 맺었어요. 나선형으로 꼬인 돌기둥들이 마치 야자수처럼 천장까지 뻗어 있죠. 얼마나 아름답고 소중한지 유네스코 세계유산으로 지정되었답니다.",
+        "en": "Five hundred years ago, silk merchants sealed their deals inside this grand Gothic hall, its twisting stone columns spiraling up to the ceiling like giant palm trees. It's so beautiful and important that UNESCO named it a World Heritage Site.",
+        "ja": "500年前、絹商人たちがこの豪華なゴシック建築の中で取引をしていました。ねじれた石の柱がヤシの木のように天井まで伸びています。あまりに美しく貴重なため、ユネスコの世界遺産に選ばれました。",
+        "zh": "五百年前，丝绸商人们就在这座宏伟的哥特式建筑里谈生意。一根根扭曲的石柱像棕榈树一样直冲天花板。它实在太美太重要了，被联合国教科文组织列为世界遗产。"
+      },
+      "coords": [39.4739, -0.3789]
+    },
+    {
+      "name": { "ko": "알부페라 자연공원", "en": "Albufera Natural Park", "ja": "アルブフェラ自然公園", "zh": "阿尔布费拉自然公园" },
+      "blurb": {
+        "ko": "도시 남쪽에 펼쳐진 넓고 얕은 호수예요. 주변 논들이 노을빛을 받으면 황금빛 거울처럼 반짝인답니다. 바로 이곳에서 발렌시아의 대표 요리 파에야가 태어났어요. 이 호수의 물로 기른 쌀로 만들었거든요.",
+        "en": "A wide, shallow lagoon spreads out just south of the city, ringed by rice paddies that shimmer like a golden mirror at sunset. This is where Valencia's most famous dish, paella, was born—cooked with rice grown right in this water.",
+        "ja": "街の南に広がる浅くて広い湖です。まわりの田んぼは夕焼けを受けると、金色の鏡のように輝きます。ここでこそバレンシアの名物パエリアが生まれました。この湖の水で育てたお米を使って作られたのです。",
+        "zh": "这是城市南边一片宽阔浅浅的湖泊。夕阳西下时，周围的稻田会像金色的镜子一样闪闪发光。巴伦西亚最著名的海鲜饭，正是在这里诞生的——用这片湖水浇灌出的大米做成。"
+      },
+      "coords": [39.3300, -0.3500]
+    }
+  ]
+}

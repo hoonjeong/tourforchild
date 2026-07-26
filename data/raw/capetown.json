@@ -1,0 +1,120 @@
+{
+  "id": "capetown",
+  "country": "za",
+  "coords": [-33.9249, 18.4241],
+  "name": { "ko": "케이프타운", "en": "Cape Town", "ja": "ケープタウン", "zh": "开普敦" },
+  "tagline": {
+    "ko": "구름이 식탁보처럼 흘러내리는, 아프리카 땅끝의 도시",
+    "en": "The city at Africa's tip where an ancient flat mountain touches the clouds",
+    "ja": "雲がテーブルクロスのように流れ落ちる、アフリカ最南端の街",
+    "zh": "云朵像桌布一样倾泻而下的非洲最南端之城"
+  },
+  "story": {
+    "ko": [
+      "아프리카 대륙의 맨 끝자락에 케이프타운이라는 도시가 있어요. 도시 옆에는 바다에서 곧장 솟아오른 거대한 평평한 산이 우뚝 서 있는데, 이름은 '테이블 마운틴'이에요. 이 산은 그냥 높기만 한 게 아니라 정말정말 오래됐어요. 공룡보다도, 안데스산맥이나 히말라야산맥보다도 먼저 생긴 산이거든요. 이 바위는 수억 년 전, 땅 위에 아직 아무 생명도 없던 시절에 모래와 자갈이 차곡차곡 눌려서 만들어졌답니다.",
+      "배를 타고 지나가던 옛날 뱃사람들은 신기한 광경을 봤어요. 하얀 구름이 산꼭대기 평평한 곳에 몽글몽글 쌓였다가, 마치 누가 식탁보를 툭 터는 것처럼 산비탈로 스르륵 흘러내리는 거예요. 옛날부터 전해오는 이야기에 따르면, '반 헝크스'라는 해적이 산 위에서 악마와 담배 연기 내뿜기 시합을 벌였는데, 그때부터 연기가 멈추지 않고 계속 피어오른다고 해요. 그러니까 뿌연 구름은 그 전설의 시합에서 남은 연기인 셈이죠.",
+      "케이프타운은 놀라움이 끝이 없어요. 해안 도로를 달리다 보면 모래사장에서 뒤뚱뒤뚱 걷는 검고 하얀 펭귄 무리를 만날 수도 있답니다. 큰 도시에서 살짝만 나가면, 사람들이 헤엄치는 바로 옆에서 펭귄들이 일광욕을 즐기고 있다니 믿기나요? 계속 남쪽으로 가면 반도의 맨 끝 '희망봉'이 나오는데, 그곳에서는 두 개의 큰 바다가 만나 소용돌이치고, 높은 절벽 아래로 고깃배들이 통통 떠다닌답니다.",
+      "바다 건너 작은 섬 하나에는 더 큰 이야기가 숨어 있어요. 넬슨 만델라라는 사람이 피부색 때문에 사람들을 차별하던 부당한 법에 맞서다가 오랫동안 그 섬에 갇혀 지내야 했거든요. 하지만 세월이 흘러 그는 자유의 몸이 되었고, 온 나라 사람들이 그를 대통령으로 뽑았답니다. 오늘날 케이프타운은 색깔과 음악이 넘치는 도시가 되었고, 유명한 산은 자연의 오래된 힘과 용감했던 한 지도자의 이야기를 여전히 조용히 내려다보고 있어요."
+    ],
+    "en": [
+      "At the very southern tip of Africa sits Cape Town, hugging the coast where a giant flat-topped mountain rises straight out of the sea. That mountain, called Table Mountain, isn't just tall—it's ancient, older than dinosaurs, older even than the Andes or the Himalayas. Its rock formed from sand and pebbles pressed together hundreds of millions of years ago, back when there was no life at all on land.",
+      "Sailors who saw Table Mountain from their ships noticed something strange: sometimes a soft white cloud spills over its flat top and pours down the sides like a tablecloth being shaken out. Old local legend says a pirate named Van Hunks once challenged the devil to a smoking contest on the mountain, and the smoke from their pipes never stopped swirling—so now every misty cloud is a leftover puff from that legendary duel.",
+      "Cape Town keeps surprising you. Drive along the coast and you might spot a colony of black-and-white penguins waddling on a sandy beach—penguins, sunbathing next to swimmers, just a short trip from a big city! Keep going to the very tip of the peninsula, Cape Point, where two oceans swirl together and fishing boats bob under towering cliffs.",
+      "Just offshore, a small island holds a bigger story. For years, a man named Nelson Mandela was kept there for standing up against unfair rules that kept people apart because of their skin color. Years later he walked free, and the whole country chose him as its president. Today Cape Town is full of color and music, and its most famous mountain still watches over a story of nature's ancient power and a leader's brave heart."
+    ],
+    "ja": [
+      "アフリカ大陸の一番南のはしに、ケープタウンという街があります。街のすぐそばには、海からまっすぐそびえる巨大な平らな山があり、その名は『テーブルマウンテン』。この山はただ高いだけでなく、とても古いんです。恐竜よりも、アンデス山脈やヒマラヤ山脈よりも先にできた山なんですよ。この岩は何億年も前、まだ陸に生き物がいなかったころ、砂や小石がぎゅっと押し固められてできました。",
+      "昔、船で通りかかった船乗りたちは不思議な光景を目にしました。真っ白な雲が平らな山頂にもくもくとたまり、まるで誰かがテーブルクロスをバサッとふるうように、山の斜面をすべり落ちていくのです。昔から伝わる話によると、『ヴァン・ハンクス』という海賊が山の上で悪魔と煙を出す競争をしたそうで、そのときの煙が今も止まらずくすぶり続けているのだとか。だから、あのもくもくした雲は伝説の勝負の煙の名残というわけです。",
+      "ケープタウンには驚きがつきません。海沿いの道を走っていると、砂浜をよちよち歩く白黒のペンギンの群れに出会うこともあります。大きな街からちょっと足をのばすだけで、泳ぐ人のすぐとなりでペンギンが日なたぼっこしているなんて、信じられますか？さらに南へ進むと、半島の最果て『喜望峰』に着きます。そこでは二つの大きな海がぶつかり合って渦を巻き、高い崖の下を小さな漁船がゆらゆら浮かんでいます。",
+      "海のむこうの小さな島には、もっと大きな物語がねむっています。ネルソン・マンデラという人は、肌の色で人々を差別する不公平な決まりに立ち向かったせいで、長い間その島に閉じこめられていました。けれど時がたち、彼は自由の身となり、国じゅうの人々が彼を大統領に選びました。今日のケープタウンは色と音楽にあふれる街になり、あの有名な山は、自然の大昔からの力と、勇気ある指導者の物語を、今も静かに見守っています。"
+    ],
+    "zh": [
+      "在非洲大陆最南端，坐落着一座名叫开普敦的城市。城市旁边耸立着一座从海中直接拔地而起的巨大平顶山，名叫“桌山”。这座山不仅高耸，而且非常古老——比恐龙还要古老，甚至比安第斯山脉和喜马拉雅山脉出现得还早。这些岩石是在几亿年前、陆地上还没有任何生命的时候，由沙子和碎石层层压实而成的。",
+      "从前经过的水手们看到了一幕奇妙的景象：一团团洁白的云朵在平坦的山顶聚拢，接着像有人抖开桌布一样，缓缓从山坡上倾泻而下。当地流传的古老传说说，一个叫范·亨克斯的海盗曾在山上和魔鬼比赛吐烟圈，从那以后，烟雾就再也没有停过——所以每一团弥漫的云雾，都是那场传奇较量留下的余烟。",
+      "开普敦总有意想不到的惊喜。沿着海岸公路开车，你可能会遇见一群黑白相间、摇摇摆摆走在沙滩上的企鹅。从大城市出发只需一小段路，就能看到企鹅在游泳的人们身旁悠闲晒太阳，是不是很难相信？继续往南走，就到了半岛最尽头的“好望角”，那里两大洋交汇打旋，高耸的悬崖下渔船轻轻摇晃。",
+      "海对岸的一座小岛，藏着一个更大的故事。纳尔逊·曼德拉曾因反抗那些因肤色而歧视人们的不公正法律，被长年关押在这座岛上。但岁月流逝，他终于重获自由，全国人民选他当上了总统。今天的开普敦充满色彩与音乐，而那座著名的大山依然静静俯瞰着这片土地——见证着大自然亘古的力量，也见证着一位勇敢领袖的故事。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "테이블 마운틴의 바위는 5억 년도 더 됐어요. 공룡은 물론 안데스산맥보다도 먼저 생겼답니다!",
+      "테이블 마운틴 주변에는 식물이 2000종 넘게 자라요. 작은 공원 하나에 영국 전체보다 더 다양한 식물이 있는 셈이죠.",
+      "산꼭대기에서 구름이 흘러내리면 사람들은 '식탁보'라고 불러요. 전설에 따르면 악마와 벌인 마법의 담배 연기 시합에서 나온 연기래요.",
+      "바닥이 빙글빙글 도는 케이블카를 타면 올라가는 내내 360도로 경치를 다 볼 수 있어요.",
+      "볼더스 비치에서는 아프리카펭귄들이 일광욕하는 사람들 바로 옆을 뒤뚱뒤뚱 지나다녀요. 지구에서 야생 펭귄과 함께 헤엄칠 수 있는 몇 안 되는 곳이에요.",
+      "넬슨 만델라는 감옥살이 27년 중 18년을 바로 앞바다의 로벤섬에서 보낸 뒤, 케이프타운과 남아프리카공화국에서 가장 유명한 대통령이 되었어요."
+    ],
+    "en": [
+      "Table Mountain's rock is over 500 million years old—older than the dinosaurs and even the Andes Mountains!",
+      "Table Mountain and its slopes are home to over 2,000 plant species—more kinds of plants than the whole United Kingdom, in one small park.",
+      "When clouds spill over the mountain's flat top, locals call it 'the tablecloth'—and legend says it's smoke from a magical pipe-smoking contest with the devil.",
+      "A cableway car with a rotating floor carries visitors to the top, so everyone gets a 360-degree view on the ride up.",
+      "At Boulders Beach, African penguins waddle right past sunbathers—one of the only places on Earth to swim near wild penguins.",
+      "Nelson Mandela was held on Robben Island, just offshore, for 18 of his 27 years in prison before becoming Cape Town's—and South Africa's—most famous free president."
+    ],
+    "ja": [
+      "テーブルマウンテンの岩は5億年以上前のもの。恐竜はもちろん、アンデス山脈よりも先にできたんです！",
+      "テーブルマウンテンとその周りには2000種以上の植物が生えています。小さな一つの公園に、イギリス全土よりも多くの植物の種類があるんですよ。",
+      "山頂から雲が流れ落ちると、地元の人は『テーブルクロス』と呼びます。伝説では、悪魔との魔法の煙くらべの煙なんだとか。",
+      "床がくるくる回るケーブルカーに乗れば、登る間ずっと360度の景色を楽しめます。",
+      "ボルダーズ・ビーチでは、アフリカペンギンの群れが日光浴する人のすぐそばをよちよち歩いていきます。野生のペンギンと一緒に泳げる、地球でも数少ない場所です。",
+      "ネルソン・マンデラは27年の獄中生活のうち18年を、すぐ沖のロベン島で過ごしたのち、ケープタウンと南アフリカでもっとも有名な大統領になりました。"
+    ],
+    "zh": [
+      "桌山的岩石已有超过五亿年历史——比恐龙还要古老，甚至比安第斯山脉还要早出现！",
+      "桌山及周边生长着超过2000种植物，一座小小的公园里，植物种类比整个英国还要丰富。",
+      "当云朵从山顶倾泻而下时，当地人称之为“桌布”。传说那是与魔鬼比赛吐烟时留下的魔法烟雾。",
+      "缆车的地板会缓缓旋转，让游客在登顶的路上就能欣赏360度的全景。",
+      "在博尔德斯海滩，非洲企鹅摇摇摆摆地从晒太阳的人们身边走过——这是地球上少数能与野生企鹅一起游泳的地方之一。",
+      "纳尔逊·曼德拉27年牢狱生涯中，有18年是在近海的罗本岛度过的，后来他成为开普敦乃至南非最著名的总统。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "햇살 가득한 해변에 펭귄이 산다면 믿을 수 있겠어?",
+    "en": "Would you believe penguins live on a sunny beach right next to a big city?",
+    "ja": "日ざしいっぱいのビーチにペンギンが住んでいるなんて、信じられる？",
+    "zh": "你敢相信，阳光沙滩上竟然住着一群企鹅吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "테이블 마운틴", "en": "Table Mountain", "ja": "テーブルマウンテン", "zh": "桌山" },
+      "blurb": {
+        "ko": "도시를 내려다보는 평평한 꼭대기의 거대한 산으로, 바위가 공룡보다도 오래됐어요. 빙글빙글 도는 케이블카를 타고 꼭대기에 오르면 식탁보처럼 흐르는 구름과 두 바다가 만나는 풍경을 볼 수 있어요.",
+        "en": "The flat-topped giant towering over the city, made of rock older than the dinosaurs. Ride the rotating cable car to the top for clouds pouring like a tablecloth and views stretching over two oceans.",
+        "ja": "街を見下ろす、平らな頂上を持つ巨大な山。岩は恐竜よりも古いんです。くるくる回るケーブルカーで頂上まで登れば、テーブルクロスのように流れる雲と、二つの海が出会う景色が見られます。",
+        "zh": "俯瞰全城的平顶巨山，岩石比恐龙还要古老。乘坐会旋转的缆车登顶，就能看到像桌布一样倾泻的云朵，以及两大洋交汇的壮丽景色。"
+      },
+      "coords": [-33.9628, 18.4098]
+    },
+    {
+      "name": { "ko": "볼더스 비치", "en": "Boulders Beach", "ja": "ボルダーズ・ビーチ", "zh": "博尔德斯海滩" },
+      "blurb": {
+        "ko": "아프리카펭귄 무리가 사는 곳으로, 해변에 놀러 온 사람들 바로 옆에서 뒤뚱뒤뚱 걷고 헤엄쳐요. 지구에서 몇 곳뿐인, 야생 펭귄과 함께하는 진귀한 해변이랍니다.",
+        "en": "Home to a colony of African penguins that waddle and swim right alongside beachgoers—a rare treat found in only a few spots on Earth.",
+        "ja": "アフリカペンギンの群れがすむ場所で、遊びに来た人のすぐそばをよちよち歩いたり泳いだりしています。野生のペンギンと一緒にすごせる、地球でもめずらしいビーチです。",
+        "zh": "一群非洲企鹅生活的地方，它们摇摇摆摆地从游客身边走过，甚至下海游泳。这是地球上为数不多能与野生企鹅共游的海滩。"
+      },
+      "coords": [-34.1976, 18.4064]
+    },
+    {
+      "name": { "ko": "희망봉", "en": "Cape of Good Hope", "ja": "喜望峰", "zh": "好望角" },
+      "blurb": {
+        "ko": "반도의 거친 끝자락으로, 대서양과 인도양이 만나 소용돌이치는 바다와 깎아지른 절벽이 펼쳐져요. 옛날 뱃사람들이 지나가기 가장 무섭고 어려운 곳으로 여기던 곳이랍니다.",
+        "en": "The wild, windswept tip of the peninsula where the Atlantic and Indian Oceans swirl together beneath dramatic cliffs—once feared by sailors as one of the trickiest points to round.",
+        "ja": "半島の荒々しい先端で、大西洋とインド洋がぶつかって渦を巻き、切り立った崖が広がります。昔の船乗りたちが、通るのがもっとも恐ろしく難しい場所として恐れていたところです。",
+        "zh": "半岛最狂野的尽头，大西洋与印度洋在此交汇打旋，悬崖峭壁十分壮观。曾被古代水手视为最令人畏惧、最难绕过的地方。"
+      },
+      "coords": [-34.3568, 18.4740]
+    },
+    {
+      "name": { "ko": "로벤섬", "en": "Robben Island", "ja": "ロベン島", "zh": "罗本岛" },
+      "blurb": {
+        "ko": "넬슨 만델라가 부당한 법에 맞서다 갇혀 지냈던 작은 섬이에요. 그가 훗날 대통령이 되면서, 이 섬은 자유와 희망을 상징하는 곳이 되었답니다.",
+        "en": "The small island where Nelson Mandela was held for standing up against unfair rules. After he later became president, the island became a symbol of freedom and hope.",
+        "ja": "ネルソン・マンデラが不公平な決まりに立ち向かって閉じこめられていた小さな島。彼がのちに大統領になったことで、この島は自由と希望のしるしになりました。",
+        "zh": "纳尔逊·曼德拉因反抗不公正法律而被关押的小岛。后来他成为总统，这座岛也因此成为自由与希望的象征。"
+      },
+      "coords": [-33.8065, 18.3702]
+    }
+  ]
+}

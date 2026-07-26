@@ -1,0 +1,120 @@
+{
+  "id": "sandiego",
+  "country": "us",
+  "coords": [32.7157, -117.1611],
+  "name": { "ko": "샌디에이고", "en": "San Diego", "ja": "サンディエゴ", "zh": "圣地亚哥" },
+  "tagline": {
+    "ko": "캘리포니아가 태어난 햇살 가득한 만 — 판다와 바다사자, 거대한 군함 박물관이 사는 곳",
+    "en": "The sunny bay where California began — now home to pandas, sea lions, and a giant warship museum",
+    "ja": "カリフォルニアが生まれた陽だまりの湾 — パンダとアシカ、巨大な軍艦博物館の街",
+    "zh": "加利福尼亚诞生的阳光海湾——大熊猫、海狮和巨型军舰博物馆的家"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 캘리포니아라는 이름이 생기기도 전에, 태평양과 맞닿은 이 넓은 만에는 원래 '쿠메야이' 원주민들이 살고 있었어요. 그러다 1542년, 포르투갈 출신 탐험가 후안 카브리요 선장이 작은 배 '산 살바도르'호를 타고 멕시코 쪽에서 올라와 이 잔잔하고 푸른 만에 닻을 내렸어요. 그는 지금의 미국 서해안 땅을 밟은 최초의 유럽인이었답니다. 그래서 사람들은 샌디에이고를 '캘리포니아가 태어난 곳'이라고 불러요.",
+      "그로부터 200년도 더 지난 1769년, 스페인 신부들이 바로 이 만에 캘리포니아 최초의 선교회인 '산디에고 데 알칼라'를 세웠어요. 이건 시작에 불과했죠. 해안을 따라 목걸이처럼 총 21개의 선교회가 줄줄이 세워졌는데, 하나하나가 걸어서 딱 하루 거리만큼 떨어져 있었대요.",
+      "오늘날 샌디에이고는 전혀 다른 것으로 유명해요. 바로 날씨예요! 거의 매일 해가 쨍쨍하고, 기온은 늘 포근한 21도쯤을 유지해서 사람들은 이곳을 '미국에서 가장 멋진 도시'라고 불러요. 이 좋은 날씨 덕분에 세계에서 손꼽히는 동물원도 생겼는데, 2024년엔 몇 년 만에 자이언트 판다가 다시 돌아왔고, 근처 라호이아에서는 바다사자들이 인도에 누워 짖으며 낮잠을 잔답니다.",
+      "그리고 만 위에는 커다란 회색 배, USS 미드웨이호가 떠 있어요. 한때 지구에서 가장 큰 배였는데, 지금은 마음껏 올라가 볼 수 있는 박물관이 되었죠. 비행갑판 위에 서서 전투기들을 바라보면, 1542년 탐험가의 작은 배 한 척으로 시작된 이 작은 만이 얼마나 크게 자랐는지 느낄 수 있어요."
+    ],
+    "en": [
+      "Long ago, before California was even called California, a wide bay on the edge of the Pacific was home to the Kumeyaay people. Then in 1542, a Portuguese captain named Juan Cabrillo sailed his little ship, the San Salvador, up from Mexico and dropped anchor in this calm blue bay. He was the first European to ever set foot on what is now the west coast of the United States — and that's exactly why people call San Diego 'the birthplace of California.'",
+      "More than 200 years later, in 1769, Spanish priests picked this same bay to build California's very first mission, San Diego de Alcalá. It was only the beginning — 21 missions in all went up along the coast like beads on a string, each one built about one day's walk from the next.",
+      "Today San Diego is famous for something else entirely: its weather. The sun shines almost every single day, the air stays a cozy 70 degrees, and people call it 'America's Finest City.' That sunshine helped build one of the world's most amazing zoos, where giant pandas moved back in 2024 after years away, and playful sea lions bark and nap right on the sidewalks of nearby La Jolla.",
+      "And out in the bay floats a giant gray ship called the USS Midway — once the largest ship on Earth, now a floating museum you can climb all over. Stand on its flight deck, look at the fighter jets, and you can feel just how far this little bay has come: from one explorer's ship in 1542 to a Navy giant today."
+    ],
+    "ja": [
+      "はるか昔、まだ『カリフォルニア』という名前もなかったころ、太平洋に面したこの大きな湾には、もともと『クメヤーイ』先住民が暮らしていました。そして1542年、ポルトガル出身の船長フアン・カブリリョが小さな船『サン・サルバドール号』でメキシコ側から北上し、この穏やかで青い湾に錨をおろしました。彼は今のアメリカ西海岸に足を踏み入れた最初のヨーロッパ人でした。だから人々はサンディエゴを『カリフォルニア誕生の地』と呼ぶのです。",
+      "それから200年以上たった1769年、スペインの神父たちがこの同じ湾に、カリフォルニア初の伝道所『サン・ディエゴ・デ・アルカラ』を建てました。これは始まりにすぎませんでした。海岸沿いにネックレスのように、全部で21の伝道所が次々と建てられ、どれも歩いてちょうど一日ぶんの距離にありました。",
+      "今日のサンディエゴは、まったく別のことで有名です。それは天気！ほぼ毎日太陽がさんさんと輝き、気温はいつも心地よい21度前後。だから人々はここを『アメリカで一番すてきな街』と呼びます。この良い天気のおかげで世界屈指の動物園も生まれ、2024年には数年ぶりにジャイアントパンダが戻ってきました。近くのラホヤでは、アシカたちが歩道でほえたり昼寝をしたりしています。",
+      "そして湾には、大きな灰色の船『USSミッドウェイ号』が浮かんでいます。かつて地球上でいちばん大きな船でしたが、今では自由に登れる博物館になりました。飛行甲板に立って戦闘機を見れば、1542年に探検家の小さな船一隻から始まったこの小さな湾が、どれほど大きく育ったかを感じられます。"
+    ],
+    "zh": [
+      "很久很久以前，在还没有“加利福尼亚”这个名字的年代，这片濒临太平洋的海湾原本住着库梅亚伊原住民。后来到了1542年，一位来自葡萄牙的船长胡安·卡布里洛驾着小船“圣萨尔瓦多号”从墨西哥一路北上，在这片平静蔚蓝的海湾抛下了锚。他是第一个踏上如今美国西海岸土地的欧洲人。所以人们把圣地亚哥称为“加利福尼亚的诞生地”。",
+      "两百多年后的1769年，西班牙传教士就在这同一片海湾建起了加利福尼亚第一座传教站——圣迭戈·德阿尔卡拉。这仅仅是个开始，沿着海岸线，像项链一样陆续建起了整整21座传教站，每一座之间正好相隔一天的步行路程。",
+      "如今的圣地亚哥，因为完全不同的东西而出名——那就是天气！几乎天天阳光灿烂，气温常年保持在舒适的21摄氏度左右，因此人们称它为“美国最棒的城市”。得益于这样的好天气，这里还诞生了世界顶尖的动物园：2024年，阔别多年的大熊猫重新回到了这里；附近的拉霍亚海湾，海狮们则大摇大摆地趴在人行道上晒太阳、打呼噜。",
+      "海湾里还停泊着一艘巨大的灰色军舰——“中途岛号”航空母舰。它曾是地球上最大的军舰，如今变成了一座可以到处攀爬参观的博物馆。站在飞行甲板上，看着那些战斗机，你就能感受到，这片小小的海湾从1542年一艘探险家的小船开始，如今已经变得多么壮阔。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1542년, 탐험가 후안 카브리요가 바로 이곳에서 미국 서해안에 발을 디딘 최초의 유럽인이 되었어요. 그래서 샌디에이고를 '캘리포니아가 태어난 곳'이라고 부른답니다.",
+      "샌디에이고는 일 년 내내 거의 매일 해가 뜨고 비가 거의 안 와서, 사람들은 이곳을 '미국에서 가장 멋진 도시'라고 불러요.",
+      "스페인 선교사들은 캘리포니아 해안을 따라 21개의 선교회를 지었는데, 1769년 바로 이곳에서 시작했어요. 하나하나가 걸어서 하루 거리만큼 떨어져 있었대요.",
+      "USS 미드웨이호는 1945년 처음 만들어졌을 때 세계에서 가장 큰 배였어요. 지금은 박물관이 되어 비행갑판 위 진짜 전투기들 사이를 마음껏 걸어 다닐 수 있답니다.",
+      "샌디에이고 동물원은 1925년 호주 밖에서 태어난 최초의 코알라를 키워냈고, 2024년에는 몇 년 만에 자이언트 판다가 다시 돌아왔어요.",
+      "라호이아 코브에서는 야생 바다사자와 물범들이 울타리도 없이 해변과 인도에서 그냥 낮잠을 잔답니다."
+    ],
+    "en": [
+      "In 1542, explorer Juan Cabrillo became the first European to set foot on the U.S. West Coast right here — which is why people call San Diego the birthplace of California.",
+      "San Diego is sunny almost every day of the year and rarely gets rain, which is why locals call it 'America's Finest City.'",
+      "Spanish missionaries built 21 missions up the California coast, starting here in 1769 — each one built about a day's walk from the next.",
+      "When the USS Midway launched in 1945, it was the largest ship in the world. Now it's a museum where you can climb around real fighter jets on its flight deck.",
+      "The San Diego Zoo helped raise the first koala ever born outside Australia back in 1925, and in 2024 giant pandas moved back in after years away.",
+      "At La Jolla Cove, wild sea lions and seals nap right on the beach and sidewalks — no fence, no cage, just napping neighbors."
+    ],
+    "ja": [
+      "1542年、探検家フアン・カブリリョがまさにここで、アメリカ西海岸に足を踏み入れた最初のヨーロッパ人になりました。だからサンディエゴは『カリフォルニア誕生の地』と呼ばれています。",
+      "サンディエゴは一年中ほぼ毎日晴れて、雨もめったに降らないので、人々はここを『アメリカで一番すてきな街』と呼びます。",
+      "スペインの宣教師たちはカリフォルニアの海岸沿いに21の伝道所を建てましたが、1769年、まさにここから始まりました。どれも歩いて一日ぶんの距離だったそうです。",
+      "USSミッドウェイ号は1945年に造られたとき、世界でいちばん大きな船でした。今は博物館になっていて、飛行甲板の本物の戦闘機のあいだを自由に歩き回れます。",
+      "サンディエゴ動物園は1925年、オーストラリア以外で初めて生まれたコアラを育てました。そして2024年には、数年ぶりにジャイアントパンダが戻ってきました。",
+      "ラホヤ・コーブでは、野生のアシカやアザラシが柵もなくビーチや歩道でお昼寝しています。"
+    ],
+    "zh": [
+      "1542年，探险家胡安·卡布里洛正是在这里，成为第一个踏上美国西海岸的欧洲人。所以人们把圣地亚哥称为“加利福尼亚的诞生地”。",
+      "圣地亚哥一年到头几乎天天阳光灿烂，很少下雨，因此人们称它为“美国最棒的城市”。",
+      "西班牙传教士沿着加利福尼亚海岸建起了21座传教站，1769年正是从这里开始的。据说每一座之间相隔正好一天的步行路程。",
+      "“中途岛号”航空母舰在1945年建成时，曾是世界上最大的军舰。如今它变成了博物馆，你可以在飞行甲板上的真飞机之间自由走动。",
+      "圣地亚哥动物园在1925年养育了史上第一只在澳大利亚以外出生的考拉宝宝，2024年，阔别多年的大熊猫又搬了回来。",
+      "在拉霍亚海湾，野生海狮和海豹就直接趴在沙滩和人行道上打盹，连围栏都没有。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "축구장 세 개만큼 큰 군함이 만 위에 떠 있대. 그 배 안에서 사는 걸 상상할 수 있어?",
+    "en": "A huge warship as big as three football fields floats right in the bay — can you imagine living on it?",
+    "ja": "サッカー場3つ分もある巨大な軍艦が湾に浮かんでいるんだって。その船の中で暮らすなんて想像できる？",
+    "zh": "海湾里漂着一艘和三个足球场一样大的军舰，你能想象住在里面吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "카브리요 국립기념지", "en": "Cabrillo National Monument", "ja": "カブリロ国立記念碑", "zh": "卡布里洛国家纪念地" },
+      "blurb": {
+        "ko": "1542년 후안 카브리요가 샌디에이고 만으로 들어온 바로 그 자리에 세워진 절벽 위 공원이에요. 옛 등대까지 올라가면 그가 처음 봤던 것과 똑같은 파란 바다를 볼 수 있고, 맑은 날엔 헤엄치는 고래도 만날 수 있답니다.",
+        "en": "This clifftop park marks the very spot where Juan Cabrillo sailed into San Diego Bay in 1542. Climb up to the old lighthouse and look out over the same blue water he saw first — on a clear day you might even spot whales swimming by.",
+        "ja": "1542年にフアン・カブリリョがサンディエゴ湾に入ってきた、まさにその場所に建つ崖の上の公園。古い灯台まで登ると、彼が最初に見たのと同じ青い海を見わたせて、晴れた日にはクジラが泳ぐ姿も見られるかもしれません。",
+        "zh": "这座悬崖上的公园正是1542年胡安·卡布里洛驶入圣地亚哥湾的地方。爬上古老的灯塔，眺望他当年最先看到的那片蓝色海水，晴天时说不定还能看到鲸鱼游过呢。"
+      },
+      "coords": [32.6722, -117.2417]
+    },
+    {
+      "name": { "ko": "샌디에이고 동물원", "en": "San Diego Zoo", "ja": "サンディエゴ動物園", "zh": "圣地亚哥动物园" },
+      "blurb": {
+        "ko": "아름다운 발보아 공원 안에 자리한, 세계에서 가장 유명한 동물원 중 하나예요. 2024년엔 몇 년 만에 자이언트 판다가 돌아왔고, 호주 밖에서 아기 코알라를 처음 키워낸 곳이기도 해요. 따뜻한 햇살 덕분에 전 세계 동물들이 이곳 날씨를 사람만큼이나 좋아한답니다.",
+        "en": "One of the most famous zoos on Earth, tucked inside beautiful Balboa Park. Giant pandas moved back in 2024 after years away, and it was the first place outside Australia to ever raise a baby koala. Thanks to the sunshine, animals from all over the world love this climate almost as much as people do.",
+        "ja": "美しいバルボア公園の中にある、地球でいちばん有名な動物園のひとつ。2024年には数年ぶりにジャイアントパンダが戻り、オーストラリア以外で初めて赤ちゃんコアラを育てた場所でもあります。太陽のおかげで、世界中の動物たちが人と同じくらいこの気候を気に入っているようです。",
+        "zh": "坐落在美丽的巴尔博亚公园里，是地球上最著名的动物园之一。2024年，阔别多年的大熊猫重新入住；这里也是澳大利亚以外第一个成功养育考拉宝宝的地方。多亏了这里的好天气，世界各地的动物和人类一样，都爱上了这片阳光。"
+      },
+      "coords": [32.7353, -117.1490]
+    },
+    {
+      "name": { "ko": "USS 미드웨이 박물관", "en": "USS Midway Museum", "ja": "USSミッドウェイ博物館", "zh": "中途岛号航空母舰博物馆" },
+      "blurb": {
+        "ko": "이 거대한 회색 배는 한때 세계에서 가장 큰 배였고, 무려 47년 동안 해군에서 활약했어요. 지금은 갑판을 마음껏 걸어보고, 진짜 전투기 조종석에도 앉아볼 수 있어요. 한때는 물 위에 떠 있는 도시처럼 4500명의 선원이 함께 살았대요.",
+        "en": "This gray giant was once the largest ship in the world and served the Navy for 47 years. Now you can walk its decks, sit in a real fighter jet cockpit, and imagine 4,500 sailors living aboard all at once — like a floating city.",
+        "ja": "この灰色の巨大な船は、かつて世界でいちばん大きな船で、47年間も海軍で活躍しました。今では甲板を自由に歩き、本物の戦闘機のコックピットに座ることもできます。かつては4500人もの船員が同時に暮らす、まるで海に浮かぶ街のようでした。",
+        "zh": "这艘灰色巨舰曾是世界上最大的军舰，在海军服役长达47年。如今你可以在甲板上自由行走，坐进真正的战斗机驾驶舱，想象当年4500名水兵同时生活在船上的样子——就像一座漂浮的城市。"
+      },
+      "coords": [32.7137, -117.1751]
+    },
+    {
+      "name": { "ko": "라호이아 코브", "en": "La Jolla Cove", "ja": "ラホヤ・コーブ", "zh": "拉霍亚海湾" },
+      "blurb": {
+        "ko": "야생 바다사자와 물범들이 모래사장과 바위 위에서 낮잠을 자고, 사람들 코앞에서 짖고 일광욕을 즐기는 작은 해변이에요. 파도가 절벽을 깎아 만든 바다 동굴도 있는데, 썰물 때는 직접 걸어 들어갈 수도 있답니다.",
+        "en": "A little beach cove where wild sea lions and harbor seals nap right on the sand and rocks, barking and sunbathing just feet from visitors. Waves have carved sea caves into the cliffs here too — some you can even walk into at low tide.",
+        "ja": "野生のアシカやアザラシが砂浜や岩の上でお昼寝し、観光客のすぐそばで鳴いたり日光浴をしたりする小さな入り江。波が崖を削ってできた海食洞もあり、潮が引くと中を歩いて入れることもあります。",
+        "zh": "这个小海湾里，野生海狮和海豹直接趴在沙滩和岩石上打盹，在游客身边大声吼叫、悠闲晒太阳。海浪还在这里的悬崖上凿出了海蚀洞，退潮时甚至可以走进去看看。"
+      },
+      "coords": [32.8508, -117.2713]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "perth",
+  "country": "au",
+  "coords": [-31.9505, 115.8605],
+  "name": { "ko": "퍼스", "en": "Perth", "ja": "パース", "zh": "珀斯" },
+  "tagline": {
+    "ko": "검은 백조가 탐험가를 놀라게 하고, 온 도시가 우주비행사를 위해 불을 밝힌 지구에서 가장 외딴 햇살 도시",
+    "en": "The wonderfully faraway, sunshine-soaked city that once lit up the night for an astronaut in space",
+    "ja": "黒い白鳥が探検家を驚かせ、街じゅうの明かりが宇宙飛行士のためにともった、地球でいちばん遠い太陽の街",
+    "zh": "黑天鹅曾让探险家大吃一惊、全城灯火曾为宇航员点亮夜空的地球最遥远的阳光之城"
+  },
+  "story": {
+    "ko": [
+      "호주 서쪽 끝, 반짝이는 강을 따라 자리 잡은 햇살 가득한 도시가 있어요. 바로 '퍼스'예요. 퍼스는 지구에서 가장 외딴 대도시로 손꼽히는데, 가장 가까운 대도시인 애들레이드까지도 2000킬로미터가 넘는대요. 여러 나라를 가로지르는 거리보다 더 먼 거리죠! 그래서 퍼스는 한쪽엔 황금빛 바닷가, 다른 쪽엔 붉은 사막이 펼쳐진, 마치 자기만의 작은 세상 같답니다.",
+      "퍼스가 생기기 훨씬 전인 1697년, 네덜란드 탐험가 빌럼 더 블라밍이 이 강을 거슬러 올라갔어요. 그런데 물 위에 떠 있는 백조들을 보고 선원들과 함께 깜짝 놀랐죠 — 백조가 새까만 색이었거든요! 그때 유럽 사람들은 백조는 무조건 하얗다고 믿고 있었기 때문에, 검은 백조는 마치 마법처럼 신기했어요. 블라밍은 이 강을 '스완 강(백조의 강)'이라 이름 붙였고, 훗날 그 강가에 생긴 도시는 백조를 도시의 상징으로 삼았답니다.",
+      "같은 탐험가는 근처 작은 섬에도 갔는데, 덤불 사이를 폴짝폴짝 뛰어다니는 이상한 동물들을 보았어요. 그는 그게 커다란 쥐라고 철석같이 믿고, 섬 이름을 '로트네스트(쥐 둥지)'라고 지어버렸답니다! 그런데 한참 뒤에야 사람들은 그게 쥐가 아니라, 늘 웃는 얼굴의 귀여운 유대류 '쿼카'라는 걸 알게 됐어요. 지금은 쿼카가 사람에게 폴짝 다가와 셀카를 찍는 걸로 세계적으로 유명하답니다.",
+      "퍼스에는 또 하나 놀라운 이야기가 있어요. 1962년, 우주비행사 존 글렌이 우주에서 호주 위를 지나갈 때, 퍼스 사람들은 집집마다 불을 몽땅 켰어요. 저 멀리 우주에서도 도시가 반짝이는 걸 볼 수 있도록 말이죠. 존 글렌은 정말 놀랐고, 그 뒤로 퍼스는 '빛의 도시'라는 별명을 얻었답니다 — 우주에서도 손을 흔들 수 있을 만큼 환하게 빛나는 도시예요!"
+    ],
+    "en": [
+      "On the wild west coast of Australia sits a sunny city called Perth, wrapped around a sparkling river. It's often called one of the most far-away big cities on the whole planet — the next major city, Adelaide, is over 2,000 kilometers away, further than crossing several countries! That means Perth feels like its own little world, with golden beaches on one side and red desert on the other.",
+      "Long before Perth existed, a Dutch explorer named Willem de Vlamingh sailed up the river in 1697. He and his sailors nearly fell over in shock — the swans gliding on the water were jet black! Back then, everyone in Europe believed all swans were white, so black swans seemed almost magical. De Vlamingh named the river the Swan River, and centuries later, the city that grew on its banks took the swan as its symbol.",
+      "The very same explorer then sailed to a small island nearby and spotted funny little creatures hopping through the bushes. He was so sure they were giant rats that he named the island 'Rotte nest' — rat's nest! It took a long time for people to realize these weren't rats at all, but cheerful, smiling marsupials called quokkas, now famous the world over for hopping right up to visitors for a selfie.",
+      "Perth has one more surprise up its sleeve. In 1962, astronaut John Glenn was zooming over Australia in space when the people of Perth switched on every single light they had, just so he could see their city glowing far below. He was amazed, and ever since, Perth has been nicknamed the 'City of Light' — a whole city bright enough to wave hello from space!"
+    ],
+    "ja": [
+      "オーストラリアの西のはしっこ、きらきら光る川ぞいに、太陽いっぱいの街があります。それが『パース』です。パースは地球でもっとも遠くはなれた大都市のひとつと言われていて、いちばん近い大都市アデレードまでも2000キロメートル以上もあるんです。いくつもの国をまたぐくらいの距離ですね！だからパースは、片側に金色のビーチ、もう片側に赤い砂漠が広がる、まるで自分だけの小さな世界のような街なんです。",
+      "パースができるずっと前、1697年にオランダの探検家ウィレム・デ・フラミングがこの川をさかのぼりました。すると水面に浮かぶ白鳥を見て、船員たちとびっくり仰天。なんと白鳥が真っ黒だったのです！当時ヨーロッパの人々は『白鳥は白いもの』と信じていたので、黒い白鳥はまるで魔法のようにふしぎでした。デ・フラミングはこの川を『スワン川（白鳥の川）』と名づけ、のちにその川岸にできた街は、白鳥を街のシンボルにしたのです。",
+      "同じ探検家は近くの小さな島にも行き、やぶの中をぴょんぴょん跳ねまわる不思議な生きものを見つけました。彼はそれを大きなネズミだと思いこみ、島に『ロットネスト（ネズミの巣）』という名前をつけてしまいます！ずっとあとになって、それはネズミではなく、いつもにこにこ顔のかわいい有袋類『クオッカ』だとわかりました。今ではクオッカが人に寄ってきていっしょに写真を撮ることで、世界中で大人気なんですよ。",
+      "パースにはもうひとつ、おどろきの物語があります。1962年、宇宙飛行士ジョン・グレンが宇宙からオーストラリアの上空を通過したとき、パースの人たちは家じゅうの明かりをぜんぶつけました。遠い宇宙からでも街の明かりが見えるようにと。ジョン・グレンはとても感動し、それ以来パースは『光の街』と呼ばれるようになりました — 宇宙からも手をふれるくらい、まぶしく輝く街なんです！"
+    ],
+    "zh": [
+      "在澳大利亚西海岸尽头,沿着一条波光粼粼的河流,坐落着一座阳光满溢的城市——珀斯。珀斯常被称为地球上最与世隔绝的大城市之一:离它最近的大城市阿德莱德也在两千多公里之外,比穿越好几个国家的距离还要远!这让珀斯就像一个属于自己的小世界,一边是金色沙滩,另一边是红色沙漠。",
+      "早在珀斯出现之前的1697年,荷兰探险家威廉·德·弗拉明沿着这条河往上航行。他和水手们看到水面上的天鹅时,全都惊呆了——那些天鹅竟然是黑色的!当时欧洲人都相信天鹅一定是白色的,黑天鹅简直像魔法一样神奇。德·弗拉明把这条河命名为“天鹅河”,后来在河岸边兴起的城市,也把天鹅当成了自己的象征。",
+      "同一位探险家又航行到附近的一座小岛,看见灌木丛里蹦蹦跳跳着一些奇怪的小动物。他坚信那是大老鼠,于是把这座岛取名叫“罗特尼斯特”(老鼠窝的意思)!很久以后,人们才发现那根本不是老鼠,而是一种总是笑眯眯的可爱有袋动物——短尾矮袋鼠(quokka)。如今,短尾矮袋鼠因为喜欢蹦到游客身边一起自拍,红遍了全世界。",
+      "珀斯还有一个更神奇的故事。1962年,宇航员约翰·格伦乘飞船飞越澳大利亚上空时,珀斯的居民把家家户户的灯都打开了,好让远在太空中的他也能看见城市的点点灯光。约翰·格伦大为感动,从此珀斯就有了一个外号——“光之城”,这是一座连太空中都能看见它在发光挥手的城市!"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "퍼스는 지구에서 가장 외딴 대도시로 자주 꼽혀요. 가장 가까운 대도시 애들레이드까지도 2000킬로미터가 넘는답니다.",
+      "1697년 네덜란드 탐험가가 검은 백조를 보고 이 강을 '스완 강(백조의 강)'이라 이름 붙였어요. 그때 유럽 사람들은 백조는 다 하얗다고 믿었대요!",
+      "같은 탐험가가 귀여운 쿼카를 커다란 쥐로 착각해서, 로트네스트 섬 이름을 '쥐 둥지'라고 지어버렸어요.",
+      "쿼카는 늘 웃는 것처럼 보여서 '세상에서 가장 행복한 동물'이라고 불려요.",
+      "1962년 퍼스는 도시의 불을 몽땅 켜서, 우주에 있던 우주비행사 존 글렌이 그 빛을 볼 수 있게 했어요. 그 뒤로 '빛의 도시'라는 별명이 생겼죠.",
+      "퍼스는 세계에서 손꼽히게 햇살이 많은 도시예요. 1년에 해가 비치는 시간이 약 3000시간이나 되는데, 열흘 중 여덟 날은 해가 쨍쨍한 셈이랍니다!"
+    ],
+    "en": [
+      "Perth is often called the most isolated major city in the world — the nearest big city, Adelaide, is over 2,000 km away.",
+      "A Dutch explorer named the river 'Swan River' in 1697 after spotting black swans — Europeans back then thought all swans were white!",
+      "The same explorer mistook cute quokkas for giant rats and named Rottnest Island 'rat's nest' by mistake.",
+      "Quokkas are known as 'the world's happiest animal' because they always look like they're smiling.",
+      "In 1962, Perth lit up every light in the city so astronaut John Glenn could see it glowing from space — earning it the nickname 'City of Light.'",
+      "Perth is one of the sunniest capital cities in the world, with around 3,000 hours of sunshine every year — that's like sunshine on 8 out of every 10 days!"
+    ],
+    "ja": [
+      "パースは地球でもっとも遠くはなれた大都市とよく言われます。いちばん近い大都市アデレードまでも2000キロメートル以上あるんです。",
+      "1697年、オランダの探検家が黒い白鳥を見て、この川を『スワン川（白鳥の川）』と名づけました。当時ヨーロッパの人々は『白鳥は白いもの』と信じていたんですよ！",
+      "同じ探検家が、かわいいクオッカを大きなネズミとかんちがいして、ロットネスト島に『ネズミの巣』という名前をつけてしまいました。",
+      "クオッカはいつも笑っているように見えるので、『世界一幸せな動物』と呼ばれています。",
+      "1962年、パースは街じゅうの明かりをぜんぶつけて、宇宙にいた宇宙飛行士ジョン・グレンにその光を見せました。それ以来『光の街』というニックネームがつきました。",
+      "パースは世界でも指おりの日照時間の多い都市。1年でおよそ3000時間も太陽が照るそうで、10日のうち8日は晴れているようなものなんです！"
+    ],
+    "zh": [
+      "珀斯常被称为地球上最与世隔绝的大城市——离它最近的大城市阿德莱德也有两千多公里远。",
+      "1697年,一位荷兰探险家因为看见黑天鹅,把这条河命名为“天鹅河”。当时欧洲人都相信天鹅一定是白色的呢!",
+      "同一位探险家把可爱的短尾矮袋鼠误认成大老鼠,于是把罗特尼斯特岛取名叫“老鼠窝”。",
+      "短尾矮袋鼠总是一副笑眯眯的样子,因此被称为“世界上最快乐的动物”。",
+      "1962年,珀斯把全城的灯都打开,让太空中的宇航员约翰·格伦也能看到城市的光亮,从此有了“光之城”的外号。",
+      "珀斯是世界上阳光最充足的城市之一,一年大约有3000个小时的日照时间——差不多每10天里有8天都阳光灿烂!"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "퍼스는 우주에 있는 우주비행사가 볼 수 있도록 도시의 불을 몽땅 켰대. 너라면 우주에서 너희 동네를 알아볼 수 있을 것 같아?",
+    "en": "Perth once lit up every light in the whole city just so an astronaut in space could see it glowing below — do you think you could spot your town from way up in space?",
+    "ja": "パースは宇宙にいる宇宙飛行士に見えるように、街じゅうの明かりを全部つけたんだって。きみは宇宙から自分の町を見つけられると思う？",
+    "zh": "珀斯曾经把全城的灯都打开,好让太空中的宇航员看到它的光。你觉得,如果换成你,能从太空中认出自己的家乡吗?"
+  },
+  "places": [
+    {
+      "name": { "ko": "킹스 파크", "en": "Kings Park", "ja": "キングスパーク", "zh": "国王公园" },
+      "blurb": {
+        "ko": "스완 강이 내려다보이는 언덕 위에 자리한, 세계에서 손꼽히게 큰 도심 공원이에요. 이곳에서는 옛날 탐험가를 깜짝 놀라게 한 검은 백조들이 헤엄치던 바로 그 강물과, 반짝이는 도시 전경을 한눈에 내려다볼 수 있답니다.",
+        "en": "One of the world's largest inner-city parks, perched on a hill above the Swan River. From here you can look down at the very water where black swans once amazed an explorer, with the whole shining city spread out behind it.",
+        "ja": "スワン川を見下ろす丘の上にある、世界でも有数の大きな都心公園。ここからは、昔探検家をおどろかせた黒い白鳥が泳いでいたまさにその川と、きらめく街の景色を一望できます。",
+        "zh": "俯瞰天鹅河的山丘上,坐落着世界上数一数二的大型市内公园。在这里,你能看到当年令探险家惊叹的黑天鹅曾经游过的那条河,还有身后那座闪闪发光的城市全景。"
+      },
+      "coords": [-31.9598, 115.8386]
+    },
+    {
+      "name": { "ko": "로트네스트 섬", "en": "Rottnest Island", "ja": "ロットネスト島", "zh": "罗特尼斯特岛" },
+      "blurb": {
+        "ko": "퍼스에서 배를 타고 잠깐이면 닿는 섬으로, 수천 마리의 쿼카가 살고 있어요. 옛날 네덜란드 탐험가가 커다란 쥐로 착각했던 바로 그 동물이랍니다. 배에서 내리면 쿼카가 폴짝 다가와 함께 셀카를 찍자고 할지도 몰라요!",
+        "en": "A short ferry ride from Perth, this island is home to thousands of quokkas — the very animals a Dutch explorer once mistook for giant rats. Hop off the boat and you might have one hopping right up to you for a selfie!",
+        "ja": "パースからフェリーですぐ行けるこの島には、何千匹ものクオッカが暮らしています。オランダの探検家が大きなネズミとかんちがいした、まさにあの動物です。船を降りると、クオッカがぴょんと寄ってきて一緒に写真を撮ってくれるかも！",
+        "zh": "从珀斯坐渡轮很快就能到达这座小岛,岛上生活着成千上万只短尾矮袋鼠——正是当年被荷兰探险家误认成大老鼠的那种动物。下船后,说不定就有一只蹦到你身边,和你一起自拍呢!"
+      },
+      "coords": [-32.0069, 115.5228]
+    },
+    {
+      "name": { "ko": "프리맨틀", "en": "Fremantle", "ja": "フリーマントル", "zh": "弗里曼特尔" },
+      "blurb": {
+        "ko": "먼 바다를 건너온 옛날 배들이 도착하던 역사 깊은 항구 도시예요. 죄수들이 직접 지은 감옥은 지금 세계유산이 되었는데, 그 안엔 진짜 탈옥 이야기들이 가득하답니다.",
+        "en": "A historic port town where old ships once arrived after the long, lonely voyage across the ocean. Its convict-built prison, now a World Heritage site, is full of true tales of daring escapes.",
+        "ja": "遠い海をこえてやってきた昔の船が到着した、歴史ある港町。囚人たちが自らの手で建てた牢獄は今では世界遺産となり、本当にあった脱獄の物語がいっぱいです。",
+        "zh": "这是一座历史悠久的港口小镇,当年远渡重洋的老船只就是在这里靠岸的。由囚犯亲手建造的监狱如今已是世界遗产,里面藏着许多真实的越狱故事。"
+      },
+      "coords": [-32.0569, 115.7439]
+    },
+    {
+      "name": { "ko": "엘리자베스 부두 (스완 강변)", "en": "Elizabeth Quay", "ja": "エリザベス・キー（スワン川岸）", "zh": "伊丽莎白码头（天鹅河畔）" },
+      "blurb": {
+        "ko": "스완 강가에 자리한 반짝이는 부두예요. 이따금 돌고래가 헤엄쳐 지나가고, 밤이 되면 도시 전체가 환하게 빛난답니다. 어두워진 뒤 이곳에 서서, 창문마다 불이 켜져 우주에 인사를 건넸던 그 밤을 상상해 보세요.",
+        "en": "A sparkling waterfront right on the Swan River, where dolphins sometimes swim by and the whole city lights up at night. Stand here after dark and imagine every window glowing, just like the night Perth said hello to space.",
+        "ja": "スワン川ぞいにきらめく水辺スポット。ときどきイルカが泳いでいくのが見え、夜になると街全体が明るく輝きます。日が暮れたあとここに立って、窓という窓に明かりがともり、宇宙にあいさつを送ったあの夜を想像してみて。",
+        "zh": "这是天鹅河畔一处波光粼粼的滨水区,偶尔能看到海豚游过,夜幕降临后整座城市都会亮起灯光。天黑后站在这里,想象一下当年万家灯火齐亮、向太空打招呼的那个夜晚吧。"
+      },
+      "coords": [-31.9581, 115.8590]
+    }
+  ]
+}

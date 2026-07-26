@@ -1,0 +1,120 @@
+{
+  "id": "kaohsiung",
+  "country": "tw",
+  "coords": [22.6273, 120.3014],
+  "name": { "ko": "가오슝", "en": "Kaohsiung", "ja": "高雄（カオシュン）", "zh": "高雄" },
+  "tagline": {
+    "ko": "용의 입으로 들어가 호랑이 입으로 나오는, 바다와 예술이 만나는 항구 도시",
+    "en": "The harbor city where you walk into a dragon's mouth and out a tiger's",
+    "ja": "龍の口から入り虎の口から出る、海とアートが出会う港町",
+    "zh": "从龙口进、虎口出的港都，海洋与艺术在这里相遇"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 대만 남쪽 바닷가에 작은 어촌이 있었어요. 사람들은 대나무 울타리로 항구를 두르고 물고기를 잡으며 살았지요. 원주민들은 이곳을 '타카우'라고 불렀는데, 그 이름이 오늘날 가오슝의 시작이 되었답니다.",
+      "세월이 흘러 작은 어촌은 점점 커져서 큰 항구 마을이 되었어요. 옛날 일본이 대만을 다스리던 시절, '타카우'라는 발음이 일본의 어느 지역 이름과 비슷하다는 이유로 도시 이름이 지금의 '가오슝'으로 바뀌었대요. 그 뒤로 세계 곳곳의 배들이 이 항구에 짐을 싣고 내리러 몰려들었답니다.",
+      "지금 가오슝은 대만에서 가장 큰 항구 도시이면서, 동시에 신기한 놀이터 같은 곳이 되었어요. 낡은 창고들이 있던 부둣가는 알록달록한 예술의 거리로 변신했고, 심지어 지하철역 천장에는 무지개보다 더 화려한 유리 지붕이 반짝인답니다.",
+      "게다가 도심 한복판 산에는 야생 원숭이들이 폴짝폴짝 뛰어다니고, 커다란 용과 호랑이 조각상은 입으로 들어갔다 나오면 행운을 준다고 해요. 산 위에는 30층 건물만큼 커다란 청동 부처님이 조용히 도시를 내려다보고 있고요. 가오슝은 전설과 예술과 바다가 한데 어우러진, 모험 가득한 도시랍니다."
+    ],
+    "en": [
+      "Long ago, on the southern tip of Taiwan, a small fishing village grew up by the sea. People fenced off their harbor with bamboo and spent their days catching fish. The local Indigenous people called the place something like 'Takau,' and that old name became the seed of today's Kaohsiung.",
+      "Years passed, and the tiny fishing village kept growing into a real port town. Long ago, when Japan ruled Taiwan, officials thought 'Takau' sounded like a place name back in Japan, so they renamed the city 'Kaohsiung.' After that, ships from all over the world began crowding into its harbor to load and unload cargo.",
+      "Today Kaohsiung is Taiwan's biggest harbor city — and it's also turned itself into a giant playground of wonder. Old dusty warehouses along the water became a rainbow-colored art district, and one underground train station even has a swirling glass ceiling that glows brighter than a rainbow.",
+      "On top of that, wild monkeys hop along a mountain right in the middle of downtown, and giant dragon and tiger statues let you 'walk into their mouths' for good luck. Up on a nearby hill, a bronze Buddha as tall as a 30-story building quietly watches over the whole city. Kaohsiung mixes legend, art, and the sea into one big adventure."
+    ],
+    "ja": [
+      "はるか昔、台湾の南のはしっこに小さな漁村がありました。人々は竹の柵で港を囲み、魚をとって暮らしていました。地元の原住民の人々はこの場所を『タカウ』のように呼び、その古い名前が今の高雄のはじまりになったのです。",
+      "月日がたち、小さな漁村は少しずつ大きな港町へと育っていきました。むかし日本が台湾を治めていたころ、『タカウ』という響きが日本のある地名に似ているというので、都市の名前は今の『高雄（カオシュン）』に変わったそうです。それからというもの、世界中の船がこの港に荷物を積みおろしにやってくるようになりました。",
+      "今の高雄は台湾いちの港町であると同時に、まるごと不思議な遊び場のような街になりました。水辺の古びた倉庫街はカラフルなアートエリアに変身し、ある地下鉄の駅の天井には、虹よりもきらびやかなガラスのドームが輝いています。",
+      "しかも、街のまんなかの山には野生のおサルさんたちがぴょんぴょん跳びまわり、大きな龍と虎の像は口から入って口から出ると幸運がもらえるのだとか。近くの丘の上には、30階建てのビルほど大きな青銅の仏さまが、街をそっと見守っています。高雄は伝説とアートと海がまざりあった、冒険いっぱいの街なのです。"
+    ],
+    "zh": [
+      "很久很久以前，在台湾南端的海边，有一座小小的渔村。人们用竹篱笆围出港湾，靠打鱼为生。当地原住民把这里叫作类似“打狗（Takau）”的名字，这个古老的名字，正是今天高雄的起点。",
+      "岁月流转，小小的渔村渐渐长成了热闹的港口小镇。很久以前，日本统治台湾的时期，官员们觉得“打狗（Takau）”这个发音，和日本某个地名很相似，于是把城市改名为现在的“高雄”。从那以后，世界各地的船只都涌向这个港口，来来往往装卸货物。",
+      "如今的高雄，既是台湾最大的港口城市，也把自己变成了一座奇妙的大游乐场。水边那些老旧的仓库，摇身一变成了色彩缤纷的艺术特区；甚至有一座地铁站的天花板上，闪耀着一整片比彩虹还绚丽的玻璃穹顶。",
+      "不仅如此，市中心的一座小山上，野生猴子蹦蹦跳跳地穿梭其间；巨大的龙和虎雕像，据说从口中走进去、再走出来，就能带来好运。附近山丘上，一尊高达三十层楼的青铜大佛静静俯瞰着整座城市。高雄把传说、艺术与大海，全都揉进了这一场大冒险里。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "가오슝의 옛 이름 '타카우'가 일본의 지명과 발음이 비슷해서, 도시 이름이 통째로 '가오슝'으로 바뀌었대요!",
+      "지하철 '메이리다오' 역에는 세계에서 가장 큰 유리 예술 작품인 '빛의 돔'이 있어요. 만드는 데만 4년 넘게 걸렸대요.",
+      "연못가에 있는 용과 호랑이 탑은 용의 입으로 들어가서 호랑이 입으로 나오면 나쁜 운은 사라지고 좋은 운만 남는대요.",
+      "포광산 불타기념관의 커다란 청동 좌불상은 세계에서 손꼽히게 큰 앉은 부처님 동상 중 하나예요.",
+      "도심 한가운데 있는 '서우산(원숭이 산)'에는 진짜 야생 원숭이들이 살고 있어서, 산책하다 마주칠 수도 있어요!",
+      "위우잉 공연예술센터는 지붕이 하나로 이어진 공연장 중 세계에서 가장 큰 건물로, 커다란 반얀나무를 본떠 만들었어요."
+    ],
+    "en": [
+      "Kaohsiung's old name 'Takau' sounded like a place name in Japan—so the whole city got renamed 'Kaohsiung'!",
+      "Formosa Boulevard metro station holds the 'Dome of Light,' the largest glass artwork in the world. It took over four years just to make.",
+      "At the Dragon and Tiger Pagodas by the lotus pond, you walk in through the dragon's mouth and out through the tiger's—bad luck stays behind, and only good luck comes with you.",
+      "The giant bronze seated Buddha at the Fo Guang Shan Buddha Museum is one of the tallest seated Buddha statues on Earth.",
+      "Right in the middle of the city sits Monkey Mountain, home to real wild monkeys—you might actually meet one on a hike!",
+      "The Weiwuying performing arts center is the largest single-roofed performing arts venue in the world, shaped like the sprawling canopy of a giant banyan tree."
+    ],
+    "ja": [
+      "高雄の古い名前『タカウ』の響きが日本のある地名に似ていたので、都市の名前がまるごと『高雄』に変わったんです！",
+      "地下鉄の美麗島駅には、世界最大のガラス芸術作品『光の穹頂（ドーム）』があります。完成までに4年以上かかったそうです。",
+      "蓮池潭のほとりにある龍虎塔は、龍の口から入って虎の口から出ると、悪い運はあとに残り、良い運だけを持ち帰れると言われています。",
+      "仏光山仏陀記念館の巨大な青銅の座仏像は、世界でも指おりの大きさをほこる座仏像のひとつです。",
+      "街のまんなかにそびえる『壽山（サルの山）』には本物の野生のおサルさんたちが暮らしていて、散歩中に出会うこともあるんですよ！",
+      "衛武営国家芸術文化センターは、屋根がひとつづきの公演施設として世界最大。大きなガジュマルの木の枝葉をイメージしてつくられました。"
+    ],
+    "zh": [
+      "高雄的旧名“打狗”发音和日本某个地名很像，结果整座城市的名字就被改成了“高雄”！",
+      "地铁美丽岛站里有全世界最大的玻璃艺术作品“光之穹顶”，光是打造就花了四年多的时间。",
+      "莲池潭畔的龙虎塔，据说从龙口走进去、再从虎口走出来，坏运气就会留在里面,只带走好运。",
+      "佛光山佛陀纪念馆里那尊巨大的青铜坐佛像，是全世界数一数二高大的坐佛雕像。",
+      "市中心矗立着“寿山”（又叫猴山），山上住着真正的野生猴子，散步时说不定就能遇到一只！",
+      "卫武营国家艺术文化中心是全世界屋顶一体成型的最大表演艺术中心，造型灵感来自一棵枝叶开展的大榕树。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "용의 입으로 들어가서 호랑이 입으로 나오면 정말 행운이 찾아올까? 너라면 어느 쪽 입으로 먼저 들어가 볼래?",
+    "en": "If you walk in through a dragon's mouth and out through a tiger's, do you think good luck really follows you home?",
+    "ja": "龍の口から入って虎の口から出たら、本当に幸運がついてくるのかな？どっちの口から先に入ってみたい？",
+    "zh": "如果从龙口走进去、再从虎口走出来，你觉得好运真的会跟着你回家吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "롄츠탄 (연못)과 용호탑", "en": "Lotus Pond & Dragon and Tiger Pagodas", "ja": "蓮池潭と龍虎塔", "zh": "莲池潭与龙虎塔" },
+      "blurb": {
+        "ko": "커다란 연못 위에 세워진 두 개의 탑으로, 하나는 용 모양 입구, 다른 하나는 호랑이 모양 입구예요. 용의 입으로 들어가 호랑이 입으로 나오면 나쁜 운은 없어지고 좋은 운만 남는다는 재미난 전설이 전해져요.",
+        "en": "Two towers rise over a wide lotus pond—one shaped like a dragon's mouth, the other a tiger's. Legend says walking in through the dragon and out through the tiger washes away bad luck and leaves you with only the good kind.",
+        "ja": "広い蓮池潭の上に建つ二つの塔で、片方は龍の口、もう片方は虎の口の形をしています。龍から入って虎から出ると、悪い運が消えて良い運だけが残るという楽しい言い伝えがあります。",
+        "zh": "宽阔的莲池潭上矗立着两座塔，一座是龙形入口，一座是虎形入口。传说从龙口走进去、从虎口走出来，坏运气就会消失，只留下好运气。"
+      },
+      "coords": [22.6923, 120.2965]
+    },
+    {
+      "name": { "ko": "치진 섬", "en": "Cijin Island", "ja": "旗津島", "zh": "旗津岛" },
+      "blurb": {
+        "ko": "작은 배를 타고 5분만 건너면 도착하는 좁고 긴 섬이에요. 하얀 등대와 옛 요새가 항구를 내려다보고 있고, 모래사장에서는 검은 모래를 밟아볼 수도 있답니다.",
+        "en": "A five-minute ferry ride whisks you to this long, narrow sandbar island. A white lighthouse and an old fort look out over the harbor, and its beach lets you feel real black sand under your feet.",
+        "ja": "小さな船でたった5分で渡れる、細長い島です。白い灯台と古い砦が港を見下ろし、浜辺では黒い砂を踏んでみることもできます。",
+        "zh": "只要搭五分钟渡轮，就能抵达这座狭长的沙洲小岛。白色灯塔和古老炮台俯瞰着港湾，沙滩上还能踩到真正的黑沙。"
+      },
+      "coords": [22.6193, 120.2687]
+    },
+    {
+      "name": { "ko": "피어-2 예술특구", "en": "Pier-2 Art Center", "ja": "駁二芸術特区（ピア2）", "zh": "驳二艺术特区" },
+      "blurb": {
+        "ko": "낡은 항구 창고들을 알록달록한 예술 공간으로 바꾼 곳이에요. 커다란 로봇 조형물과 자전거 도로가 있어, 예전엔 짐을 나르던 곳이 지금은 웃음소리 가득한 놀이터가 되었답니다.",
+        "en": "Old dockside warehouses were transformed into a rainbow-bright art park. Giant robot sculptures and bike paths now fill a place that once only carried cargo—today it echoes with laughter instead.",
+        "ja": "古い港の倉庫を、色とりどりのアート空間に変えた場所。大きなロボットのオブジェや自転車道があり、かつて荷物を運んでいた場所が、今では笑い声あふれる遊び場になりました。",
+        "zh": "旧时港边的仓库，被改造成了色彩缤纷的艺术空间。这里有巨大的机器人雕塑和自行车道，曾经只用来搬运货物的地方，如今充满了欢声笑语。"
+      },
+      "coords": [22.6203, 120.2853]
+    },
+    {
+      "name": { "ko": "메이리다오 역 (빛의 돔)", "en": "Formosa Boulevard Station (Dome of Light)", "ja": "美麗島駅（光の穹頂）", "zh": "美丽岛站（光之穹顶）" },
+      "blurb": {
+        "ko": "지하철역 한가운데 하늘처럼 펼쳐진 거대한 유리 지붕이에요. 세계에서 가장 큰 유리 예술 작품으로, 밑에서 올려다보면 마치 색색깔 별빛 아래 서 있는 기분이 든답니다.",
+        "en": "A colossal glass ceiling stretches over the metro station like an underground sky. It's the largest glass artwork on Earth, and standing beneath it feels like standing under a sky full of colorful, glowing stars.",
+        "ja": "地下鉄駅の真ん中に、空のように広がる巨大なガラスの天井。世界最大のガラス芸術作品で、下から見上げると、色とりどりの星空の下に立っているような気分になります。",
+        "zh": "地铁站正中央有一整片如天空般铺展的巨大玻璃穹顶，是全世界最大的玻璃艺术品。站在下方抬头仰望，就像置身于一片色彩斑斓的星空之下。"
+      },
+      "coords": [22.6316, 120.3014]
+    }
+  ]
+}

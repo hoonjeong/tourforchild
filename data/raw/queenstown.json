@@ -1,0 +1,120 @@
+{
+  "id": "queenstown",
+  "country": "nz",
+  "coords": [-45.0312, 168.6626],
+  "name": { "ko": "퀸스타운", "en": "Queenstown", "ja": "クイーンズタウン", "zh": "皇后镇" },
+  "tagline": {
+    "ko": "거인의 심장이 아직도 뛰는 호수, 그리고 모험이 시작된 다리",
+    "en": "A lake with a giant's heartbeat, and the bridge where adventure was born",
+    "ja": "巨人の心臓が今も鼓動する湖、そして冒険が生まれた橋",
+    "zh": "巨人的心跳仍在湖底跳动，冒险精神诞生的那座桥"
+  },
+  "story": {
+    "ko": [
+      "뉴질랜드 남섬, 뾰족뾰족한 눈 덮인 산봉우리 '더 리마커블스'가 병풍처럼 둘러싼 곳에 새파랗게 반짝이는 호수가 있어요. 그 호숫가에 자리 잡은 작은 마을이 바로 퀸스타운이에요. 그런데 마오리족 사람들은 이 호수가 살아있다고, 심장이 뛰고 있다고 이야기한답니다.",
+      "아주 오랜 옛날, 어느 거인이 추장의 딸을 몰래 산속으로 데려갔대요. 마타카우리라는 용감한 젊은 사냥꾼이 몰래 다가가, 몸을 웅크리고 잠든 거인 주위에 마른 고사리를 쌓고 불을 질렀어요. 거인은 활활 타올랐고, 웅크린 거대한 몸이 그대로 땅속 깊이 녹아내려, 지그재그로 길게 팬 자리에 눈 녹은 물이 채워져 지금의 '와카티푸 호수'가 되었대요. 지금도 호수는 잠든 거인의 몸 모양 그대로 남아 있답니다.",
+      "여기서 소름 돋는 부분! 전설에 따르면 거인의 심장은 그 물속에서도 멈추지 않고 뛰고 있대요. 그리고 진짜로 신기한 일이 있어요 — 과학자들이 재보니, 이 호수의 물높이는 밤낮없이 25분쯤마다 살짝 오르내린대요, 마치 천천히 숨 쉬듯이요. 아무도 계획한 게 아니고, 아무도 조절하지 않는데, 호수가 조용히 스스로 그러고 있는 거예요.",
+      "훗날 금을 찾아 사람들이 몰려왔고, 정착민들은 풍경이 너무 아름다워 '여왕님께 어울린다'며 마을 이름을 '퀸스타운'이라 지었대요. 오늘날 이곳은 스스로를 '세계 모험의 수도'라 부르는데, 지구 최초의 상업 번지점프가 바로 마을 밖 다리에서 시작됐고, 같은 리마커블스 산 아래 강에서는 제트보트가 신나게 물살을 가른답니다. 전설이든 과학이든 한 가지는 확실해요 — 이 호수는 한 번도 움직임을 멈춘 적이 없다는 것!"
+    ],
+    "en": [
+      "Tucked in the mountains of New Zealand's South Island sits a sparkling blue lake ringed by jagged, snow-dusted peaks called The Remarkables. The little town on its shore is Queenstown — and Māori legend says the whole lake is alive, with a heartbeat of its own.",
+      "Long ago, storytellers say, a giant kidnapped a chief's daughter and carried her into the mountains. A brave young hunter named Matakauri crept up while the giant slept curled on his side, and set the dry bracken around him ablaze. The giant burned so fiercely that his huge curled-up body melted deep into the earth, leaving behind a long, zigzag hollow that filled with snowmelt to become Lake Wakatipu — shaped, to this day, exactly like a sleeping giant.",
+      "Here's the part that gives kids goosebumps: the legend says the giant's heart never stopped beating under all that water. And real scientists have found something wonderfully strange — the lake's surface really does rise and fall a little, like slow breathing, every twenty-five minutes or so, day and night, forever. Nobody planned it and nobody controls it; it's just something this lake quietly does.",
+      "Long after that, gold-hunters flooded in, and settlers thought the view was so grand it was 'fit for a queen' — so they named the town Queenstown. Today it calls itself the Adventure Capital of the World: the very first bungy jump on Earth happened off a bridge just outside town, and jet boats now go zooming down the rivers below those same Remarkable mountains. Legend or science, one thing is certain — this lake has never stopped moving."
+    ],
+    "ja": [
+      "ニュージーランド南島、『ザ・リマーカブルズ』と呼ばれる雪をかぶったギザギザの山々に囲まれて、真っ青に輝く湖があります。その湖畔にある小さな町がクイーンズタウン。でもマオリの人たちは、この湖には心臓があって、生きていると言い伝えているんです。",
+      "その昔、ある巨人が酋長の娘をさらって山の中へ連れ去ってしまいました。マタカウリという勇敢な若い狩人が、体を丸めて眠る巨人にそっと近づき、まわりの枯れたシダに火をつけたのです。巨人はごうごうと燃え上がり、丸まった巨大な体はそのまま地面深くとけこんで、ジグザグに長くくぼんだ跡ができました。そこに雪どけ水がたまってできたのが、今の『ワカティプ湖』。今でも湖は、眠る巨人の体そのままの形をしているそうです。",
+      "ここがぞくぞくするところ！伝説によると、巨人の心臓は水の底でも止まらずに鼓動を続けているのだとか。そして本当に不思議なことがあります――科学者が調べると、この湖の水面は昼も夜も25分おきくらいに、ほんの少し上がったり下がったりしているんです。まるでゆっくり呼吸しているみたいに。誰が仕組んだわけでも、誰がコントロールしているわけでもなく、湖が静かに自分でそうしているのです。",
+      "その後、金を求めて人々がどっと押し寄せ、開拓者たちはあまりの美しさに『女王さまにふさわしい』と、この町を『クイーンズタウン』と名づけました。今では『世界の冒険の首都』を自称するこの町。地球で最初の商業バンジージャンプは、町のすぐ外の橋から始まりましたし、同じリマーカブルズ山のふもとの川では、ジェットボートが水しぶきを上げて走ります。伝説でも科学でも、確かなことがひとつ――この湖はいまだかつて動きを止めたことがないのです。"
+    ],
+    "zh": [
+      "在新西兰南岛，有一片被人称作“瞭望山脉”（The Remarkables）的锯齿状雪峰环抱着的湛蓝湖泊。湖畔那座小镇就是皇后镇。可是毛利人却说，这片湖是活的，它有自己的心跳。",
+      "很久很久以前，一个巨人偷偷把一位酋长的女儿掳进了大山深处。一位名叫马塔考里（Matakauri）的勇敢年轻猎人，趁巨人蜷缩着熟睡时悄悄靠近，在他周围堆满干燥的蕨草并点起了火。巨人被烧得轰然坍塌，那蜷曲的巨大身躯就此深深熔进了大地，留下一道长长的锯齿状凹槽，融化的雪水灌进去，就成了今天的瓦卡蒂普湖（Lake Wakatipu）——直到今天，湖的形状仍和沉睡巨人的身躯一模一样。",
+      "最让人起鸡皮疙瘩的是：传说巨人的心脏在水底从未停止跳动。而更神奇的是，科学家真的发现——这片湖水的水面每隔约25分钟就会悄悄地涨落一点点，昼夜不停，就像在缓慢地呼吸一样。没有人设计过这件事，也没有人能控制它，湖泊只是自己安静地这样运作着。",
+      "后来，淘金者蜂拥而至，早期移民觉得这里的风景美得“配得上一位女王”，于是把小镇取名为“皇后镇”。如今，这里自称是“世界冒险之都”——地球上第一次商业蹦极就诞生在镇外的一座桥上，而在同一座瞭望山脉脚下的河流里，喷射快艇如今飞驰而过、水花四溅。不管是传说还是科学，有一件事是确定的：这片湖，从来没有停止过它的律动。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "와카티푸 호수는 밤낮없이 25~27분마다 물높이가 살짝 오르내려요. 과학자들은 '세이시(seiche)'라 부르지만, 마오리 전설은 거인의 심장 박동이라고 해요.",
+      "호수 모양이 마치 번개처럼 지그재그인 이유는, 전설 속 거인이 녹아내린 몸 모양 그대로 남았기 때문이래요.",
+      "와카티푸 호수는 뉴질랜드에서 손꼽히게 깊은 호수예요. 깊이가 380미터가 넘어서, 웬만한 바다보다도 깊답니다!",
+      "세계 최초의 상업 번지점프가 1988년 이곳 카와라우 다리에서 시작됐어요. 그전엔 아무도 돈을 내고 다리에서 뛰어내리지 않았대요!",
+      "1912년에 만들어진 증기선 '어언슬로 호'는 지금도 이 호수를 누비며 달려요. 100년도 넘게 사람이 직접 석탄을 퍼 넣어 움직인답니다.",
+      "뾰족한 '더 리마커블스' 산맥은 이름처럼 정말 특이해요 — 세계에서 드물게 산맥이 거의 정남북 방향으로 뻗어 있거든요. 영화 속 눈 덮인 왕국으로도 여러 번 나왔답니다."
+    ],
+    "en": [
+      "Lake Wakatipu really rises and falls by a few centimeters every 25–27 minutes, all day and night — scientists call it a 'seiche,' but Māori legend says it's a giant's heartbeat.",
+      "The lake is shaped like a zigzag bolt of lightning because, legend says, that's the exact shape of the giant's body after he melted into the ground.",
+      "Lake Wakatipu is one of the deepest lakes in New Zealand — over 380 meters (1,247 feet) deep, deeper than much of the sea around the coast!",
+      "The world's first commercial bungy jump happened here in 1988, off the Kawarau Bridge — before that, nobody paid money to jump off a bridge on purpose!",
+      "A 1912 steamship called the TSS Earnslaw still steams across the lake today, burning coal shoveled by hand, just like over a hundred years ago.",
+      "The jagged mountains called The Remarkables got their name because it's rare for a mountain range to run almost exactly north–south — and they've even played a snowy, magical kingdom in movies."
+    ],
+    "ja": [
+      "ワカティプ湖は昼も夜も25〜27分おきに水面が少しだけ上下します。科学者は『セイシュ』と呼びますが、マオリの伝説では巨人の心臓の鼓動だと言われています。",
+      "湖の形がジグザグの稲妻のようなのは、伝説の巨人がとけて残した体の形そのままだからだそうです。",
+      "ワカティプ湖はニュージーランド屈指の深い湖。深さは380メートル以上もあり、まわりの海よりも深いんです！",
+      "世界初の商業バンジージャンプは1988年、ここカワラウ橋で始まりました。それまで誰もお金を払って橋から飛び降りようとはしなかったんですって！",
+      "1912年に造られた蒸気船『アーンズロー号』は、今もこの湖を走っています。100年以上前と同じように、今も人の手で石炭をくべて動かしているんですよ。",
+      "ギザギザの『ザ・リマーカブルズ』山脈は、世界でも珍しくほぼ真南北に連なる山脈。雪をかぶった山頂は映画の中で不思議な王国としても登場しました。"
+    ],
+    "zh": [
+      "瓦卡蒂普湖真的会昼夜不停地每隔25到27分钟涨落几厘米。科学家称之为“假潮（seiche）”，但毛利传说说那是巨人的心跳。",
+      "湖泊之所以呈锯齿状，据传说是因为那正是巨人熔化后留下的身体形状。",
+      "瓦卡蒂普湖是新西兰数一数二的深湖，深度超过380米，比周围不少海域还要深！",
+      "世界上第一次商业蹦极于1988年在这里的卡瓦劳大桥诞生——在那之前，从没有人愿意花钱从桥上跳下去！",
+      "一艘建于1912年的蒸汽船“厄恩斯洛号”至今仍航行在这片湖上，还像一百多年前一样，靠人工铲煤驱动。",
+      "锯齿状的“瞭望山脉”十分特别——世界上几乎正南北走向的山脉本就少见。它洁白的山巅还曾在电影里扮演过神秘的雪国王城。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "호수 전체가 거인의 심장처럼 두근두근 숨을 쉰다는 게 믿어져?",
+    "en": "Did you know a whole lake can breathe in and out like a giant's heartbeat?",
+    "ja": "湖全体が巨人の心臓みたいにドクンドクンと呼吸しているなんて、信じられる？",
+    "zh": "整片湖泊会像巨人的心跳一样一起一伏地“呼吸”，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "카와라우 다리", "en": "Kawarau Bridge", "ja": "カワラウ橋", "zh": "卡瓦劳大桥" },
+      "blurb": {
+        "ko": "1880년대에 만들어져 금광으로 향하던 사람들이 건너던 다리예요. 그러다 1988년, 이 다리에서 세계 최초로 돈을 내고 뛰어내리는 번지점프가 시작됐죠. 지금도 사람들은 고무줄 하나에 몸을 맡기고 다리 아래로 비명을 지르며 뛰어내린답니다.",
+        "en": "Built in the 1880s to carry gold-rush traffic across the gorge, this bridge became the birthplace of bungy jumping in 1988, when the first paying jumper leapt off into the river below. People still fly off it on a rubber cord today, screaming the whole way down.",
+        "ja": "1880年代に造られ、金を求める人たちが渡っていた橋です。1988年、この橋から世界初のお金を払うバンジージャンプが始まりました。今も人々はゴムひも一本を頼りに、叫び声をあげながら橋の下へ飛び込んでいます。",
+        "zh": "这座建于19世纪80年代的大桥，曾是淘金者们往来的必经之路。1988年，世界第一次收费蹦极就从这座桥上一跃而下诞生了。如今人们仍靠一根橡皮绳，尖叫着从桥上纵身跳下。"
+      },
+      "coords": [-45.1275, 168.7546]
+    },
+    {
+      "name": { "ko": "와카티푸 호수", "en": "Lake Wakatipu", "ja": "ワカティプ湖", "zh": "瓦卡蒂普湖" },
+      "blurb": {
+        "ko": "전설 속 거인의 몸 모양 그대로 지그재그로 뻗은, 이야기의 주인공 호수예요. 호숫가에 가만히 서서 지켜보면, 정말로 물높이가 슬쩍슬쩍 오르내리는 걸 느낄 수도 있어요.",
+        "en": "The giant, zigzag-shaped lake at the heart of the legend — and the real, gently pulsing water Queenstown is built beside. Watch closely near the shore and you might just catch it quietly rising, right on schedule.",
+        "ja": "伝説の巨人の体の形そのままに、ジグザグに広がる物語の主人公の湖です。湖畔でじっと見つめていると、本当に水面がゆっくり上下するのを感じられるかもしれません。",
+        "zh": "这就是传说的主角——形状如巨人身躯般蜿蜒曲折的湖泊。如果你站在湖边静静观察，说不定真能感受到水面正悄悄地缓缓涨落。"
+      },
+      "coords": [-45.0350, 168.6600]
+    },
+    {
+      "name": { "ko": "스카이라인 곤돌라", "en": "Skyline Queenstown Gondola", "ja": "スカイラインゴンドラ", "zh": "天际缆车" },
+      "blurb": {
+        "ko": "마을 뒷산을 거의 수직으로 타고 올라가는 케이블카예요. 몇 분 만에 450미터를 올라가면 지그재그 호수 전체가 한눈에 내려다보인답니다. 꼭대기에서는 루지 카트를 타고 신나게 미끄러져 내려올 수도 있어요.",
+        "en": "A cable car climbs almost straight up the mountainside above town, lifting you 450 meters in just minutes for a bird's-eye view of the lake's whole zigzag shape. At the top, you can even ride a luge cart squealing back down the hill.",
+        "ja": "町の裏山をほぼ真っすぐに登っていくケーブルカーです。わずか数分で450メートルも登ると、ジグザグの湖全体を一望できます。山頂ではルージュカートに乗って、坂道を歓声をあげながら滑り降りることもできますよ。",
+        "zh": "一条几乎垂直爬上小镇后山的缆车索道，几分钟内就能带你升高450米，把整片锯齿状的湖泊尽收眼底。到了山顶，你还能坐上雪橇车，一路尖叫着滑下山坡。"
+      },
+      "coords": [-45.0356, 168.6689]
+    },
+    {
+      "name": { "ko": "더 리마커블스", "en": "The Remarkables", "ja": "ザ・リマーカブルズ", "zh": "瞭望山脉" },
+      "blurb": {
+        "ko": "호수 위로 우뚝 솟은 뾰족뾰족한 산맥이에요. 해질녘엔 온 산이 발그레한 분홍빛으로 물든답니다. 눈 덮인 봉우리는 영화 속 신비한 왕국으로도 등장했고, 겨울엔 진짜 아이들이 그 비탈에서 스키와 스노보드를 탄대요.",
+        "en": "This jagged mountain range towers over the lake and turns bright pink at sunset. Its snowy peaks have starred in movies as magical, faraway kingdoms — and in winter, real kids ski and snowboard right down its slopes.",
+        "ja": "湖の上にそびえるギザギザの山脈です。夕暮れには山全体がほんのりピンク色に染まります。雪をかぶった頂は映画の中で不思議な王国としても登場し、冬には本物の子どもたちがその斜面でスキーやスノーボードを楽しんでいます。",
+        "zh": "这片高耸在湖面之上的锯齿状山脉，在日落时会染上淡淡的粉红色。它雪白的山巅曾在电影里化身神秘遥远的国度，而到了冬天，真正的孩子们就在这些山坡上滑雪、滑雪板。"
+      },
+      "coords": [-45.0928, 168.8206]
+    }
+  ]
+}

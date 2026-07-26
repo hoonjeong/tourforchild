@@ -1,0 +1,120 @@
+{
+  "id": "marseille",
+  "country": "fr",
+  "coords": [43.2965, 5.3698],
+  "name": { "ko": "마르세유", "en": "Marseille", "ja": "マルセイユ", "zh": "马赛" },
+  "tagline": {
+    "ko": "공주의 술잔 한 번으로 시작된, 프랑스에서 가장 오래된 항구 도시",
+    "en": "France's oldest city, started by one wine cup handed to a stranger",
+    "ja": "王女が差し出した一杯の酒から始まった、フランス最古の港町",
+    "zh": "一杯酒开启的传奇——法国最古老的港口城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금으로부터 약 2600년 전, 그리스의 '포카이아'라는 도시에서 온 뱃사람들이 나무배를 타고 지중해를 가로질러 프랑스 남쪽의 아름다운 천연 항구에 닻을 내렸어요. 그들은 새로운 터전에 '마살리아'라는 이름을 붙였답니다. 이 작은 항구 마을은 훗날 프랑스에서 가장 오래된 도시로 자라났어요. 파리보다도 수백 년이나 먼저 생긴 도시랍니다!",
+      "그날의 이야기는 아주 멋진 전설로 전해져요. 그 지역 공주 '집티스'는 잔치에서 술잔을 건네는 사람을 남편으로 고르기로 했는데, 뜻밖에도 이웃 나라 왕자들을 다 지나쳐 그리스 배의 선장 '프로티스'에게 잔을 건넸대요! 공주의 아버지는 크게 기뻐하며 그리스 뱃사람들에게 땅을 선물해 새 도시를 세우게 해 주었답니다.",
+      "마살리아는 점점 자라 오늘날의 '마르세유'라는 북적이는 항구 도시가 되었어요. 세계 곳곳의 배들이 물건을 사고팔러 몰려들었죠. 항구 앞바다에는 마르세유를 지키는 돌 요새 '이프 성'도 세워졌는데, 훗날 한 작가가 이곳을 소설 속 가장 유명한 감옥으로 만들었어요. 바로 '몬테크리스토 백작'이 탈출한 그 성이랍니다!",
+      "오늘날 마르세유는 신기한 것들로 가득해요. 옛 항구에는 지금도 어부들이 생선을 가득 싣고 돌아와 프랑스식 생선 수프 '부야베스'를 만들고, 언덕 위 성당에서는 '봉 메르(좋은 어머니)'라 불리는 황금빛 성모상이 도시를 내려다봐요. 도시 밖으로 조금만 나가면 하얀 절벽과 거인이 만든 수영장처럼 새파랗고 맑은 바닷물이 숨어 있는 '칼랑크'가 여러분을 기다린답니다."
+    ],
+    "en": [
+      "Long, long ago—about 2,600 years back—Greek sailors from a city called Phocaea crossed the whole Mediterranean Sea in wooden boats and dropped anchor in a beautiful natural harbor in the south of France. They named their new home Massalia. It grew into the oldest city in all of France—older than Paris by hundreds of years!",
+      "People still tell a wonderful legend about that very first day. A local princess named Gyptis was choosing a husband at a feast, and she was supposed to pick one man by handing him a cup of wine. Instead, she walked right past all the local princes and handed the cup to Protis, the captain of the Greek ships! Her father was so pleased, he gave the sailors land to build their new city.",
+      "Massalia grew into busy Marseille, a port city where ships from all over the world came to trade. Just offshore, sailors built a stone fortress called Château d'If to guard the harbor. Later, a writer turned it into the most famous prison in books—Château d'If is where the hero of The Count of Monte Cristo made his daring escape!",
+      "Today Marseille is full of wonders. Its Old Port still bustles with fishing boats bringing in fish for bouillabaisse, a golden statue of the Virgin Mary watches over the city from a hilltop church nicknamed 'La Bonne Mère,' and just outside town hide the Calanques—towering white cliffs with water so blue and clear it looks like a swimming pool made by giants."
+    ],
+    "ja": [
+      "はるか昔、今から約2600年前、ギリシャの『フォカイア』という街から来た船乗りたちが、木の船で地中海を渡り、フランス南部の美しい天然の港にいかりを下ろしました。彼らは新しい住みかを『マッサリア』と名づけました。この小さな港町は、やがてフランスで最も古い都市に育ちます。パリよりも何百年も前にできた街なんですよ！",
+      "その日のことは、すてきな伝説として語りつがれています。地元の王女『ギュプティス』は、宴会でワインの杯を差し出した相手をむこにする決まりだったのですが、なんと近隣の王子たちを素通りして、ギリシャ船の船長『プロティス』に杯を渡したのです！王女の父はとても喜び、ギリシャの船乗りたちに土地を贈って新しい街をつくらせました。",
+      "マッサリアはやがて成長し、今の活気ある港町『マルセイユ』になりました。世界中の船が商いのためにやってきます。港の沖には街を守る石の要塞『イフ城』も建てられましたが、のちにある作家がここを小説一番有名なろうやに変えました。あの『モンテ・クリスト伯』の主人公が脱獄した、まさにその城なのです！",
+      "今のマルセイユは、ふしぎなものでいっぱい。旧港には今も漁師たちが魚をたっぷり積んで戻り、魚のスープ『ブイヤベース』が作られます。丘の上の教会では『ボンヌ・メール（よき母）』と呼ばれる金色の聖母像が街を見守り、街の外には、白い断崖と巨人が作ったプールのように真っ青で澄んだ海が広がる『カランク』が隠れています。"
+    ],
+    "zh": [
+      "很久很久以前，大约2600年前，一群来自希腊“福西亚”城的水手，乘着木船横渡整个地中海，在法国南部一处美丽的天然港湾抛下了锚。他们把新家园取名为“马萨利亚”。这个小小的港口小镇后来长成了法国最古老的城市——比巴黎还要早上好几百年！",
+      "关于那一天，人们至今还流传着一个动人的传说。当地公主吉普提斯要在宴会上把一杯酒递给自己选中的丈夫，没想到她径直走过所有邻国的王子，把酒杯递给了希腊船队的船长普罗提斯！公主的父亲十分高兴，便把一片土地赠给希腊水手，让他们建立新的城市。",
+      "马萨利亚渐渐长大，变成了今天热闹的港口城市马赛。世界各地的船只都来这里做生意。港口外的小岛上，人们还建起了守卫港湾的石头堡垒“伊夫堡”，后来一位作家把它写成小说里最有名的监狱——没错，就是《基督山伯爵》主人公越狱的那座城堡！",
+      "今天的马赛充满了奇妙的事物。老港口至今每天都有渔船满载而归，煮出一锅法式鱼汤“马赛鱼汤”；山丘上的教堂顶端，一尊金色的圣母像被人们称为“好妈妈”，日夜守望着城市。城外不远处，还藏着“卡朗克峡湾”——陡峭的白色悬崖间，是像巨人做的泳池一样湛蓝清澈的海水。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "마르세유는 약 기원전 600년, 그리스 포카이아에서 온 뱃사람들이 세운 도시예요. 프랑스에서 가장 오래된 도시랍니다.",
+      "마르세유의 탄생 전설에 따르면, 공주 집티스가 잔치에서 그리스 선장 프로티스에게 술잔을 건네 남편으로 골랐고, 그 결혼 선물로 땅을 받아 도시가 시작됐대요.",
+      "바다 위 작은 섬에 세워진 이프 성은 소설 '몬테크리스토 백작'의 극적인 탈출 장면으로 유명해졌어요.",
+      "마르세유 근처 '칼랑크'는 가파른 하얀 절벽 사이로 에메랄드빛 바닷물이 좁게 파고든 곳인데, 유럽에서 이런 풍경은 거의 찾아보기 힘들어요.",
+      "전통 방식으로 만드는 '마르세유 비누'는 올리브유로 만들며, 적어도 1600년대부터 같은 방식을 지켜오고 있어요.",
+      "마르세유의 유명한 생선 수프 '부야베스'는 어부들이 팔고 남은 자잘한 생선들을 큰 냄비에 몽땅 넣고 끓이면서 탄생했대요."
+    ],
+    "en": [
+      "Marseille was founded around 600 BC by Greek sailors from Phocaea, making it the oldest city in France.",
+      "Its founding legend says a princess named Gyptis picked Greek captain Protis as her husband by handing him a wine cup at a feast—and Marseille was born as a wedding gift of land.",
+      "The island fortress Château d'If became famous for the dramatic escape scene in the novel The Count of Monte Cristo.",
+      "The Calanques near Marseille are steep white cliffs with turquoise water squeezed into narrow inlets—found almost nowhere else in Europe.",
+      "Traditional Savon de Marseille soap has been made the same way, from olive oil, since at least the 1600s.",
+      "Bouillabaisse, Marseille's famous fish stew, was invented by fishermen who tossed their unsellable leftover fish into one big, delicious pot."
+    ],
+    "ja": [
+      "マルセイユは紀元前600年ごろ、ギリシャのフォカイアから来た船乗りたちが築いた街。フランスで最も古い都市です。",
+      "誕生の伝説によると、王女ギュプティスが宴でギリシャ船長プロティスにワインの杯を渡して婿に選び、結婚の贈り物として土地をもらったことから街が始まったそうです。",
+      "海に浮かぶ小島に建つイフ城は、小説『モンテ・クリスト伯』の劇的な脱獄シーンで有名になりました。",
+      "マルセイユ近くの『カランク』は、切り立つ白い崖の間にエメラルド色の海がせまく入りこむ地形で、ヨーロッパでもめずらしい景色です。",
+      "伝統の『マルセイユ石けん』はオリーブ油から作られ、少なくとも1600年代から同じ製法が受けつがれています。",
+      "マルセイユ名物の魚スープ『ブイヤベース』は、漁師たちが売れ残った小魚を大なべにまとめて煮こんだのが始まりだそうです。"
+    ],
+    "zh": [
+      "马赛大约建于公元前600年，由来自希腊福西亚的水手建立，是法国最古老的城市。",
+      "马赛的建城传说是：公主吉普提斯在宴会上把酒杯递给希腊船长普罗提斯，选他为夫，并把土地当作结婚礼物送给了希腊水手，城市就这样诞生了。",
+      "建在海中小岛上的伊夫堡，因小说《基督山伯爵》里那场惊心动魄的越狱而闻名。",
+      "马赛附近的“卡朗克峡湾”，是陡峭白色悬崖间挤出的一道道翠绿海湾，这样的景色在欧洲十分罕见。",
+      "传统的“马赛皂”用橄榄油制成，至少从1600年代起就一直沿用同样的制作方法。",
+      "马赛名菜“马赛鱼汤”据说是渔民们把卖剩的杂鱼一股脑儿丢进大锅里煮出来的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "공주가 낯선 사람에게 술잔을 딱 한 번 건넨 것만으로 도시 하나가 시작됐대. 너라면 그렇게 순식간에 큰 결정을 내릴 수 있을까?",
+    "en": "A princess picked a total stranger to marry just by handing him a cup—and that's how a whole city got started. Would you dare to make a choice that big in one second?",
+    "ja": "王女がワインの杯を一度差し出しただけで、街が一つ始まったんだって。きみなら、そんな大きな決断を一瞬でできるかな？",
+    "zh": "公主只递出一杯酒，就开启了一座城市的故事。如果是你，敢不敢在一瞬间做出这么大的决定？"
+  },
+  "places": [
+    {
+      "name": { "ko": "옛 항구 (비외포르)", "en": "Old Port (Vieux-Port)", "ja": "旧港（ヴィユー・ポール）", "zh": "老港（Vieux-Port）" },
+      "blurb": {
+        "ko": "2600년 전 모든 이야기가 시작된 항구예요. 지금도 매일 아침 어선들이 들어오고, 생선 시장에서 바다 냄새가 물씬 풍긴답니다.",
+        "en": "The harbor where it all began 2,600 years ago. Fishing boats still dock here every morning, and a real fish market still fills the air with the smell of the sea.",
+        "ja": "2600年前、すべてが始まった港。今も毎朝漁船が入り、魚市場からは海のかおりがただよいます。",
+        "zh": "一切开始的地方，距今已有2600年。渔船至今每天清晨都会靠岸，鱼市里总飘着大海的气息。"
+      },
+      "coords": [43.2958, 5.3699]
+    },
+    {
+      "name": { "ko": "노트르담 드 라 가르드 대성당", "en": "Notre-Dame de la Garde", "ja": "ノートルダム・ド・ラ・ガルド大聖堂", "zh": "守护圣母圣殿" },
+      "blurb": {
+        "ko": "언덕 꼭대기 성당 위에 황금빛 성모상이 서서 드나드는 배들을 지켜봐요. 계단을 오르면 도시 전체와 바다, 저 멀리 칼랑크까지 한눈에 보인답니다.",
+        "en": "A golden statue of Mary tops this hilltop church, watching over every ship that comes and goes. Climb up and you can see the whole city, the sea, and even the Calanques in the distance.",
+        "ja": "丘の上の教会にそびえる金色の聖母像が、出入りする船を見守っています。階段を上れば、街全体と海、遠くのカランクまで見わたせます。",
+        "zh": "山丘上的教堂顶着一尊金色圣母像，守望着每一艘进出港口的船。爬上山顶，整座城市、大海，甚至远处的卡朗克峡湾都能尽收眼底。"
+      },
+      "coords": [43.2841, 5.3714]
+    },
+    {
+      "name": { "ko": "이프 성", "en": "Château d'If", "ja": "イフ城", "zh": "伊夫堡" },
+      "blurb": {
+        "ko": "작은 섬 위에 세워진 이 돌 요새는 항구를 지키다가 나중엔 감옥이 되었어요. 소설 '몬테크리스토 백작'의 주인공이 탈출한 곳으로 가장 유명하답니다!",
+        "en": "This small stone fort on an island once guarded the harbor and later became a prison. It's most famous for one story: the hero of The Count of Monte Cristo breaks out of it!",
+        "ja": "小島に建つこの石の要塞は港を守り、のちにろうやになりました。小説『モンテ・クリスト伯』の主人公が脱獄した場所として一番有名です！",
+        "zh": "这座建在小岛上的石头堡垒曾守卫港口，后来变成了监狱。它最出名的，是《基督山伯爵》主人公从这里越狱的故事！"
+      },
+      "coords": [43.2799, 5.3253]
+    },
+    {
+      "name": { "ko": "칼랑크 국립공원", "en": "Calanques National Park", "ja": "カランク国立公園", "zh": "卡朗克国家公园" },
+      "blurb": {
+        "ko": "하얀 절벽 사이 길을 따라 걷다 보면 숨겨진 푸른 바다 만이 나타나요. 배와 카약, 수영하는 사람들이 모여드는 비밀의 낙원 같은 곳이에요.",
+        "en": "Hike between cliffs of white rock until you reach hidden coves of blue-green water. Boats, kayaks, and swimmers all come here for what feels like a secret paradise.",
+        "ja": "白い断崖の間の道を歩くと、隠れた青い入り江が現れます。船やカヤック、泳ぐ人たちが集まる、秘密の楽園のような場所です。",
+        "zh": "沿着白色悬崖间的小路徒步，就能走到藏在其中的碧蓝海湾。船只、皮划艇和游泳的人都爱来这个像秘密乐园一样的地方。"
+      },
+      "coords": [43.2094, 5.4503]
+    }
+  ]
+}

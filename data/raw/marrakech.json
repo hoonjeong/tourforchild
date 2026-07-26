@@ -1,0 +1,120 @@
+{
+  "id": "marrakech",
+  "country": "ma",
+  "coords": [31.6295, -7.9811],
+  "name": { "ko": "마라케시", "en": "Marrakech", "ja": "マラケシュ", "zh": "马拉喀什" },
+  "tagline": {
+    "ko": "낙타 대상의 길과 눈 덮인 산이 만나는 붉은 도시, 밤이 되면 광장이 마법처럼 변해요",
+    "en": "The Red City where camel-caravan roads meet snowy mountains, and a market square turns into magic every night",
+    "ja": "ラクダの隊商路と雪山が出会う赤い街。夜になると広場が魔法のように様変わりします",
+    "zh": "骆驼商队之路与雪山相遇的红色之城，夜幕降临，广场就像变魔术一样"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 낙타를 탄 대상들이 드넓고 황금빛으로 빛나는 사하라 사막을 건너 금과 소금, 향긋한 향신료를 실어 날랐어요. 그리고 약 1000년 전, 눈 덮인 높은 산 아래에 한 지도자가 지친 여행자들을 위한 새로운 쉼터를 만들었답니다. 그곳이 바로 '마라케시'예요. 마라케시는 순식간에 세상에서 가장 북적이는 교차로 중 하나가 되었어요.",
+      "사람들은 도시를 지키기 위해 두꺼운 성벽을 빙 둘러 쌓았는데, 땅에서 캐낸 붉은 흙으로 벽돌을 구워 만들었어요. 뜨거운 사막의 햇살 아래서 도시 전체가 따뜻한 붉은빛으로 반짝였고, 그래서 사람들은 이곳을 '레드 시티(붉은 도시)'라고 부르기 시작했어요. 이 별명은 지금까지도 자랑스럽게 이어지고 있답니다.",
+      "도시 한가운데에는 '제마 엘프나'라는 커다란 광장이 있어요. 낮에는 오렌지 주스 수레와 정겨운 수다 소리로 조용히 북적이지만, 해가 지는 순간 마법처럼 완전히 달라져요. 이야기꾼들이 사람들을 모으고, 북소리가 울려 퍼지고, 수백 개의 노점에서는 지글지글 구운 케밥과 달콤한 민트차 냄새가 솔솔 퍼진답니다.",
+      "구시가지 골목으로 들어가면 '수크'라는 좁은 길들이 미로처럼 이어져서, 길을 잃어도 즐거울 정도예요. 알록달록한 향신료, 반짝이는 등불, 화려한 카펫이 가득하죠. 평범해 보이는 문 뒤에는 오렌지 나무와 졸졸 흐르는 분수가 있는 비밀 정원이 숨어 있어요. 지금도 활기차게 살아 숨 쉬는 오래된 붉은 도시 속 작은 낙원인 셈이죠."
+    ],
+    "en": [
+      "Long, long ago, camel caravans crossed the wide, golden Sahara Desert, carrying gold, salt, and sweet-smelling spices. About a thousand years ago, near tall mountains capped with snow, a leader built a brand-new resting place for those tired travelers. He called it Marrakech, and it quickly grew into one of the busiest crossroads on Earth.",
+      "To keep their city safe, the people raised thick walls all the way around it—and they built them from reddish clay dug straight out of the ground. Under the desert sun, the whole city glowed a warm, rusty red, so everyone began calling it 'the Red City,' a nickname it still proudly wears today.",
+      "Right in the heart of the city sits a giant square called Jemaa el-Fnaa. By day, it hums quietly with orange-juice carts and friendly chatter, but the moment the sun sets, it changes like magic—storytellers gather crowds, drummers start beating, and hundreds of food stalls light up, filling the air with the smell of sizzling kebabs and sweet mint tea.",
+      "Wander into the old town and you'll happily get lost in a maze of narrow lanes called souks, bursting with rainbow spices, twinkling lanterns, and colorful carpets. Behind plain, mysterious doorways hide secret gardens with orange trees and bubbling fountains—tiny paradises tucked inside an ancient red city that's still buzzing with life today."
+    ],
+    "ja": [
+      "はるか昔、ラクダに乗った隊商たちが広大で金色に輝くサハラ砂漠を渡り、金や塩、香り高い香辛料を運んでいました。そして今から約1000年前、雪をかぶった高い山のふもとに、ある指導者が疲れた旅人たちのための新しい休み場所を作りました。それが『マラケシュ』です。マラケシュはあっという間に、世界でも指折りのにぎやかな交差点になりました。",
+      "人々は街を守るために、まわりをぐるりと厚い城壁で囲みました。城壁は地面から掘り出した赤い土でできたレンガで作られていました。砂漠の強い日差しの下で街全体が温かい赤色にかがやき、人々はこの街を『レッドシティ（赤い街）』と呼ぶようになったのです。この愛称は今でも誇らしげに残っています。",
+      "街の真ん中には『ジャマ・エル・フナ』という大きな広場があります。昼間はオレンジジュースの屋台やおしゃべりの声で静かににぎわっていますが、日が沈むと魔法のようにガラリと変わります。語り部が人を集め、太鼓の音が鳴りひびき、数百もの屋台が焼きたてのケバブと甘いミントティーの香りを漂わせるのです。",
+      "旧市街に足をふみ入れると、『スーク』と呼ばれる細い路地が迷路のように広がり、迷子になっても楽しいくらい。色とりどりの香辛料、きらめくランタン、あざやかなじゅうたんがあふれています。何の変哲もない扉の奥には、オレンジの木と小さな噴水がある秘密の庭がかくれていることも。今もいきいきと息づく、古い赤い街の中の小さな楽園なのです。"
+    ],
+    "zh": [
+      "很久很久以前，骑着骆驼的商队穿越广阔金黄的撒哈拉沙漠，运送着黄金、盐巴和香气扑鼻的香料。大约一千年前，在白雪覆盖的高山脚下，一位首领为疲惫的旅人建起了一座全新的歇脚之地。这就是“马拉喀什”。它很快就成了世界上最热闹的十字路口之一。",
+      "为了保护这座城市，人们在四周筑起厚厚的城墙，砖块全都是用从地里挖出的红土烧制而成。在炙热的沙漠阳光下，整座城市都泛着温暖的红色光芒，人们于是开始叫它“红色之城”——这个昵称一直骄傲地保留到了今天。",
+      "城市正中央有一座叫“杰马夫纳广场”的大广场。白天，橙汁小推车和邻里闲聊的声音让它安静地热闹着；可太阳一落山，它就像变魔术一样彻底改变——说书人围拢起人群，鼓声咚咚响起，数百个小吃摊亮起灯火，空气里飘满烤肉串和甜甜薄荷茶的香味。",
+      "走进老城区，你会一头扎进名叫“苏克”的狭窄小巷迷宫，就算迷路也开心得很。五颜六色的香料、闪闪发亮的灯笼、鲜艳的地毯到处都是。一扇扇看起来普普通通的门后面，常常藏着种满橙子树、有潺潺喷泉的秘密花园——藏在这座依然生机勃勃的古老红城里的一个个小天堂。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "마라케시는 서기 1070년쯤 세워졌어요. 거의 1000년이나 된 도시랍니다.",
+      "구시가지의 성벽과 건물들은 붉은 흙으로 지어져서 '레드 시티'라는 별명이 붙었어요.",
+      "제마 엘프나 광장의 이야기꾼과 악사, 요리사들이 너무 특별해서, 유네스코는 건물이 아니라 '사람들'을 세계 문화유산으로 인정했어요!",
+      "쿠투비아 모스크의 탑이 너무 사랑받아서, 수백 년 동안 구시가지에서는 이 탑보다 높은 건물을 지을 수 없었대요.",
+      "쿠투비아 탑과 거의 똑같이 생긴 '자매 탑'이 스페인과 모로코의 수도 라바트에도 있어요!",
+      "사디안 왕조의 무덤은 300년 동안 벽에 막혀 숨겨져 있었는데, 1917년에야 비행기에서 찍은 사진 덕분에 다시 발견됐어요!"
+    ],
+    "en": [
+      "Marrakech was founded around 1070 AD, which makes it almost 1,000 years old.",
+      "Its old-town walls and buildings are built from reddish clay, which is exactly why people nicknamed it 'the Red City.'",
+      "The storytellers, musicians, and cooks of Jemaa el-Fnaa square were so special that UNESCO honored 'the people' themselves as a world cultural treasure, not any building!",
+      "The Koutoubia Mosque's tower is so beloved that, for centuries, no other building in the old city was allowed to rise higher than it.",
+      "The Koutoubia's tower has 'sister towers' that look almost exactly alike in Spain and in Morocco's capital, Rabat!",
+      "The Saadian Tombs were bricked up and hidden for 300 years—nobody rediscovered them until an airplane photo spotted them in 1917!"
+    ],
+    "ja": [
+      "マラケシュは西暦1070年ごろに作られました。もうすぐ1000年になる街なんです。",
+      "旧市街の城壁や建物は赤い土で作られていて、それが『レッドシティ』という愛称の由来です。",
+      "ジャマ・エル・フナ広場の語り部や音楽家、料理人たちがあまりに特別だったので、ユネスコは建物ではなく『人々』を世界の文化遺産として認めました！",
+      "クトゥビアモスクの塔があまりに愛されていたので、何百年もの間、旧市街ではこの塔より高い建物を建てることが許されなかったそうです。",
+      "クトゥビアの塔とそっくりな『姉妹の塔』が、スペインとモロッコの首都ラバトにもあるんです！",
+      "サアード朝の王家の墓は300年もの間、壁でふさがれて隠されていました。1917年に飛行機からの写真でようやく再発見されたんです！"
+    ],
+    "zh": [
+      "马拉喀什大约建于公元1070年，差不多有一千年的历史了。",
+      "老城的城墙和建筑都是用红土建造的，这正是它“红色之城”这个昵称的由来。",
+      "杰马夫纳广场上的说书人、乐师和厨师实在太特别了，联合国教科文组织认定的世界文化遗产不是某座建筑，而是“这些表演的人”！",
+      "库图比亚清真寺的宣礼塔太受人喜爱，好几百年里老城区都不允许盖比它更高的建筑。",
+      "库图比亚宣礼塔在西班牙和摩洛哥首都拉巴特都有长得几乎一模一样的“姐妹塔”！",
+      "萨阿德王朝的陵墓被封在墙里藏了300年，直到1917年一张飞机拍下的照片才让人们重新发现它！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "낮에는 오렌지 주스를 파는 조용한 광장이, 밤이 되면 이야기꾼과 북소리, 수백 개의 먹거리 노점으로 가득한 거대한 밤 파티로 변신한대. 그 모습을 직접 보고 싶지 않아?",
+    "en": "Imagine a town square that quietly sells orange juice all day... then turns into a giant nighttime party with storytellers, drummers, and hundreds of food stalls. Would you want to see it happen?",
+    "ja": "昼間はオレンジジュースを売っている静かな広場が、夜になると語り部や太鼓の音、数百のごちそう屋台でいっぱいの大きな夜のお祭りに変わるんだって。その様子、見てみたくない？",
+    "zh": "白天安安静静卖橙汁的广场，一到晚上就变成挤满说书人、鼓声和几百个小吃摊的超大夜间派对，你想不想亲眼去看看？"
+  },
+  "places": [
+    {
+      "name": { "ko": "제마 엘프나 광장", "en": "Jemaa el-Fnaa Square", "ja": "ジャマ・エル・フナ広場", "zh": "杰马夫纳广场" },
+      "blurb": {
+        "ko": "마라케시의 심장 같은 커다란 광장이에요. 낮에는 조용하다가도 저녁만 되면 이야기꾼과 악사, 지글지글 노점 음식이 가득한 축제로 변해요. 온 세상이 이곳을 살아 있는 보물로 인정했을 정도랍니다.",
+        "en": "This giant square is the beating heart of Marrakech. It's calm by day, but every evening it bursts into a carnival of storytellers, musicians, and sizzling food stalls—so special that the whole world recognized it as a living treasure.",
+        "ja": "マラケシュの心臓ともいえる大きな広場。昼間は静かでも、夕方になると語り部や音楽家、じゅうじゅう音を立てる屋台でいっぱいのお祭りに変わります。世界中がここを生きた宝物として認めたほどです。",
+        "zh": "这是马拉喀什跳动的心脏般的大广场。白天安静，傍晚就变成说书人、乐师和滋滋作响的小吃摊组成的嘉年华——特别到全世界都把它当作活着的珍宝来认可。"
+      },
+      "coords": [31.6258, -7.9891]
+    },
+    {
+      "name": { "ko": "쿠투비아 모스크", "en": "Koutoubia Mosque", "ja": "クトゥビアモスク", "zh": "库图比亚清真寺" },
+      "blurb": {
+        "ko": "800년 된 이 탑은 사막에서 길 잃은 여행자들을 집으로 안내해 주던 등대 같은 곳이에요. 지금도 구시가지에서 가장 높은 건물이고, 이 아름다운 모양은 스페인과 모로코 수도 라바트의 유명한 탑에도 그대로 쓰였어요.",
+        "en": "This 800-year-old tower once guided lost travelers home across the desert—it's still the tallest thing in the old city. Its beautiful design was copied for famous towers in Spain and in Morocco's capital, Rabat.",
+        "ja": "800年前に建てられたこの塔は、砂漠で道に迷った旅人たちを家まで導く灯台のような存在でした。今も旧市街で一番高い建物で、この美しい形はスペインやモロッコの首都ラバトの有名な塔にもそのまま使われています。",
+        "zh": "这座800年历史的宣礼塔曾像灯塔一样，为沙漠中迷路的旅人指引回家的方向。它至今仍是老城区最高的建筑，这优美的造型还被复制到了西班牙和摩洛哥首都拉巴特的著名高塔上。"
+      },
+      "coords": [31.6242, -7.9932]
+    },
+    {
+      "name": { "ko": "바히아 궁전", "en": "Bahia Palace", "ja": "バヒア宮殿", "zh": "巴伊亚宫" },
+      "blurb": {
+        "ko": "'세상에서 가장 아름다운 궁전'을 짓고 싶었던 대신을 위해 지은 궁전이에요. 화려하게 그림 그려진 천장과 타일 안뜰, 비밀 정원이 가득해서 방마다 걸을 때마다 동화 속에 들어간 기분이 든답니다.",
+        "en": "Built for a powerful vizier who wanted 'the most beautiful palace ever,' this place is full of painted ceilings, tiled courtyards, and secret gardens. Wandering from room to room feels like stepping into a fairy tale.",
+        "ja": "『世界一美しい宮殿』を作りたかった大臣のために建てられた宮殿です。色あざやかな天井の絵やタイルの中庭、秘密の庭がいっぱいで、部屋から部屋へ歩くだけでおとぎ話に迷いこんだ気分になれます。",
+        "zh": "这座宫殿是为一位想建造“世界上最美宫殿”的大臣而建的。彩绘天花板、瓷砖庭院和秘密花园随处可见，从一个房间走到另一个房间，就像走进了童话故事。"
+      },
+      "coords": [31.6218, -7.9836]
+    },
+    {
+      "name": { "ko": "마조렐 정원", "en": "Majorelle Garden", "ja": "マジョレル庭園", "zh": "马若雷勒花园" },
+      "blurb": {
+        "ko": "이 정원은 만든 화가의 이름을 딴 '마조렐 블루'라는 눈에 확 띄는 파란색으로 칠해져 있어요. 커다란 선인장과 대나무 사이를 걷다 보면 알록달록한 새들이 폴짝폴짝 날아다니는 것도 볼 수 있어요.",
+        "en": "This garden is painted a striking, electric blue called 'Majorelle Blue,' named after the artist who created it. Wander among towering cacti and bamboo, and you might spot bright birds flitting between the plants.",
+        "ja": "この庭園は作った画家の名前にちなんだ『マジョレルブルー』という目にあざやかな青色で塗られています。大きなサボテンや竹の間を歩けば、色とりどりの鳥がぴょんぴょん飛びまわる姿も見られますよ。",
+        "zh": "这座花园被涂成一种叫“马若雷勒蓝”的鲜艳蓝色，得名于创建它的画家。走在高大的仙人掌和竹子之间，你还可能看到色彩斑斓的鸟儿在花丛间跳来跳去。"
+      },
+      "coords": [31.6412, -8.0031]
+    }
+  ]
+}

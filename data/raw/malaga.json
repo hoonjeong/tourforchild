@@ -1,0 +1,120 @@
+{
+  "id": "malaga",
+  "country": "es",
+  "coords": [36.7213, -4.4214],
+  "name": { "ko": "말라가", "en": "Malaga", "ja": "マラガ", "zh": "马拉加" },
+  "tagline": {
+    "ko": "피카소를 세상에 선물한 2800년 된 항구 도시",
+    "en": "The 2,800-year-old port city that gave the world Picasso",
+    "ja": "ピカソを世界に贈った2800年の港町",
+    "zh": "把毕加索献给世界的两千八百年港口城市"
+  },
+  "story": {
+    "ko": [
+      "지금으로부터 거의 2800년 전, 아주 먼 땅 페니키아에서 온 뱃사람들이 스페인 남쪽의 햇살 가득한 해안에 배를 대고 작은 무역 마을을 세웠어요. 이들은 이곳을 '말라카'라고 불렀고, 마을은 생선과 기름, 소금을 실은 배들이 쉴 새 없이 드나드는 북적이는 항구로 자라났답니다. 오늘날 이 마을은 '말라가'라고 불리는데, 서유럽에서 지금까지 남아 있는 가장 오래된 도시 중 하나예요.",
+      "그 뒤로 수백 년 동안 여러 민족이 이 햇살 좋은 항구에 반해 찾아왔어요. 로마 사람들은 사람들이 하늘 아래에서 연극을 구경하던 돌 극장을 지었답니다. 그다음엔 북아프리카에서 온 무어인들이 찾아와 무려 800년 가까이 머물렀는데, 언덕 위에 '알카사바'라는 요새를, 그보다 더 높은 곳엔 바다를 감시하는 '히브랄파로' 성을 세웠어요.",
+      "그러다 1881년, 도시 한가운데 볕 좋은 광장에서 멋진 일이 벌어졌어요. '파블로 피카소'라는 아기가 태어난 거예요! 피카소는 광장의 비둘기를 구경하고 카페 냅킨에 그림을 끄적이며 자랐고, 훗날 세상에서 가장 유명한 화가 중 한 명이 되었답니다. 말라가는 그를 잊지 않고, 그의 가족이 도시에 기증한 그림들로 가득한 '피카소 미술관'을 열었어요.",
+      "오늘날 말라가를 거닐면 케이크처럼 켜켜이 쌓인 역사를 그대로 느낄 수 있어요. 무어인의 탑 아래엔 로마 시대 돌들이 남아 있고, 피카소가 태어난 광장에서 몇 걸음만 걸으면 바로 해변이거든요. 어부들은 지금도 옛날 방식 그대로 모래사장에서 정어리를 굽고, 언덕 위 성은 수천 년 전 페니키아 사람들이 타고 온 그 푸른 바다를 여전히 내려다보고 있답니다."
+    ],
+    "en": [
+      "Almost 2,800 years ago, sailors from a faraway land called Phoenicia landed on the sunny coast of southern Spain and built a little trading town. They named it Malaka, and it grew into a busy port where ships came and went loaded with fish, oil, and salt. Today that same town is called Málaga — and it's one of the oldest cities still standing in all of Western Europe.",
+      "Over the centuries, many different people fell in love with this sunny harbor. Romans built a stone theatre where crowds watched plays under the open sky. Later, Moorish rulers arrived from North Africa and stayed for almost 800 years, building a hilltop fortress called the Alcazaba and, even higher up, a castle named Gibralfaro to watch for ships out at sea.",
+      "Then, in 1881, something wonderful happened in a sunny square in the middle of the city: a baby boy named Pablo Picasso was born. He grew up watching pigeons in the plaza and doodling on café napkins, and one day he'd become one of the most famous artists who ever lived. Málaga never forgot him — its Picasso Museum is filled with paintings his own family gave the city.",
+      "Walk through Málaga today and you can feel all of this history stacked up like layers of a cake — Roman stones under Moorish towers, Picasso's plaza a few steps from the beach. Fishermen still grill sardines on the sand the old way, and the castle on the hill still looks out over the very same blue sea the Phoenicians sailed in on, thousands of years ago."
+    ],
+    "ja": [
+      "今からおよそ2800年前、遠いフェニキアという地からやってきた船乗りたちが、スペイン南部の日差し降りそそぐ海岸に上陸し、小さな交易の町を築きました。彼らはこの町を『マラカ』と呼び、やがて魚や油、塩を積んだ船がひっきりなしに行き交う、にぎやかな港町へと育っていきました。今日この町は『マラガ』と呼ばれ、西ヨーロッパでいまも残る最古級の都市のひとつなんですよ。",
+      "それから何百年もの間、いろいろな民族がこの日当たりのよい港を気に入って訪れました。ローマ人は青空の下で人々が演劇を楽しんだ石造りの劇場を建てました。その後、北アフリカからやってきたムーア人が実に800年近くもここにとどまり、丘の上に『アルカサバ』という要塞を、さらに高い場所には海を見張る『ヒブラルファロ城』を築きました。",
+      "そして1881年、街の真ん中の日当たりのよい広場で、すてきな出来事が起こりました。『パブロ・ピカソ』という赤ちゃんが生まれたのです！ピカソは広場のハトを眺め、カフェのナプキンに絵を描きながら育ち、やがて世界で最も有名な画家のひとりになりました。マラガは彼を忘れず、家族が街に贈った作品でいっぱいの『ピカソ美術館』を開きました。",
+      "今、マラガを歩くと、ケーキの層のように重なった歴史をそのまま感じることができます。ムーア人の塔の下にはローマ時代の石が眠り、ピカソが生まれた広場からほんの数歩でビーチに出られるのです。漁師たちは今でも昔ながらのやり方で砂浜でイワシを焼き、丘の上の城は、何千年も前にフェニキア人が船でやってきたのと同じ青い海を、今も見下ろしています。"
+    ],
+    "zh": [
+      "大约2800年前，从遥远的腓尼基远道而来的水手们，在西班牙南部阳光明媚的海岸登陆，建起了一座小小的贸易城镇。他们把这里叫做“马拉卡”，后来这里渐渐发展成一个繁忙的港口，装满鱼、油和盐的船只川流不息。如今这座城镇被称为“马拉加”，是西欧至今仍屹立的最古老城市之一。",
+      "此后的数百年里，许多不同的民族都爱上了这个阳光港湾。罗马人在这里建起了一座石头剧场，人们在露天下观看戏剧演出。后来，来自北非的摩尔人抵达此地，一住就是将近800年，他们在山丘上建起了名为“阿尔卡萨瓦”的要塞，还在更高处修建了“希布拉尔法罗城堡”，用来眺望海上的动静。",
+      "到了1881年，在城市中央一个阳光洒落的广场上，发生了一件美妙的事：一个名叫巴勃罗·毕加索的婴儿出生了！小毕加索看着广场上的鸽子长大，还喜欢在咖啡馆的餐巾纸上涂涂画画，后来他成为了世界上最著名的画家之一。马拉加从未忘记他，还开设了“毕加索博物馆”，里面摆满了他的家人捐赠给这座城市的画作。",
+      "今天走在马拉加街头，你能真切感受到像蛋糕一层层叠起来的历史：摩尔人的塔楼下埋藏着罗马时代的石头，从毕加索出生的广场走几步就是海滩。渔民们至今仍用古老的方式在沙滩上烤沙丁鱼，山顶的城堡依旧俯瞰着几千年前腓尼基人乘船而来的那片蔚蓝大海。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "말라가는 거의 2800년 전, 기원전 770년쯤 페니키아 뱃사람들이 세운 도시예요. 서유럽에서 가장 오래된 도시 중 하나랍니다.",
+      "옛 이름 '말라카'는 소금을 뜻하는 말에서 왔을 수도 있어요. 이 마을은 생선을 소금에 절여 '가룸'이라는 짭짤한 소스를 만드는 걸로 유명했거든요.",
+      "언덕 위 알카사바 요새와 히브랄파로 성은 지그재그로 이어진 성벽으로 연결돼 있어서, 병사들이 밖으로 나가지 않고도 두 곳을 오갈 수 있었대요.",
+      "로마 시대 극장은 오랫동안 땅속에 묻힌 채 잊혀 있었는데, 1951년 정원을 만들다가 우연히 발견됐어요.",
+      "화가 파블로 피카소는 1881년 말라가에서 태어났고, 나중에 그의 가족이 수백 점의 작품을 도시의 피카소 미술관에 기증했어요.",
+      "말라가 해변에서는 지금도 신선한 정어리를 대나무 꼬치에 꿰어 장작불에 구워 먹는데, 이걸 '에스페토'라고 불러요."
+    ],
+    "en": [
+      "Malaga is nearly 2,800 years old, founded by Phoenician sailors around 770 BC — one of the oldest cities in Western Europe.",
+      "Its old name 'Malaka' may come from a word for salt, because the town was famous for salting fish to make a tangy sauce called garum.",
+      "The Alcazaba fortress and Gibralfaro castle on the hill above are connected by a zigzagging wall, so soldiers could dash between them without ever stepping outside.",
+      "A Roman theatre lay buried and forgotten for centuries — workers only rediscovered it by accident in 1951 while building a garden.",
+      "Painter Pablo Picasso was born in Málaga in 1881; his family later donated hundreds of his artworks to the city's Picasso Museum.",
+      "On Málaga's beaches, cooks still skewer fresh sardines on bamboo sticks and grill them over open wood fires — a treat called 'espetos.'"
+    ],
+    "ja": [
+      "マラガはおよそ2800年前、紀元前770年ごろにフェニキアの船乗りたちが築いた街です。西ヨーロッパで最も古い都市のひとつなんです。",
+      "昔の名前『マラカ』は『塩』を意味する言葉から来たのかもしれません。この町は魚を塩づけにして『ガルム』という塩辛いソースを作ることで有名でした。",
+      "丘の上のアルカサバ要塞とヒブラルファロ城は、ジグザグに続く城壁でつながっていて、兵士たちは外に出ずに行き来できたそうです。",
+      "ローマ時代の劇場は長い間、地中に埋もれて忘れられていましたが、1951年に庭園づくりの最中に偶然発見されました。",
+      "画家パブロ・ピカソは1881年にマラガで生まれ、のちに家族が数百点の作品を街のピカソ美術館に寄贈しました。",
+      "マラガのビーチでは今でも新鮮なイワシを竹の串に刺し、たき火で焼いて食べます。これは『エスペト』と呼ばれるごちそうです。"
+    ],
+    "zh": [
+      "马拉加几乎有2800年历史，是公元前770年左右由腓尼基水手建立的——是西欧最古老的城市之一。",
+      "它的旧名“马拉卡”可能来自表示“盐”的词，因为这座小镇曾以腌鱼制作一种叫“加鲁姆”的咸味酱汁而闻名。",
+      "山丘上的阿尔卡萨瓦要塞和希布拉尔法罗城堡之间，由一道之字形的城墙相连，士兵不用走到外面就能在两地之间往返。",
+      "一座罗马剧场曾被埋没遗忘了几百年，直到1951年人们在修建花园时才偶然重新发现它。",
+      "画家巴勃罗·毕加索1881年出生于马拉加，后来他的家人把数百件作品捐赠给了这座城市的毕加索博物馆。",
+      "在马拉加的海滩上，人们至今仍把新鲜沙丁鱼串在竹签上，架在篝火上烤——这道美食叫“埃斯佩托”。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "볕 좋은 광장에서 태어난 아기가 자라서 세계에서 가장 유명한 화가가 되었대. 누구인지 맞혀볼래?",
+    "en": "A tiny baby born in a sunny square grew up to become one of the world's most famous painters — can you guess who?",
+    "ja": "日当たりのよい広場で生まれた赤ちゃんが、世界一有名な画家になったんだって。だれだかわかるかな？",
+    "zh": "一个在阳光广场出生的小婴儿,长大后成了世界上最有名的画家之一,你猜猜是谁?"
+  },
+  "places": [
+    {
+      "name": { "ko": "알카사바 요새", "en": "The Alcazaba", "ja": "アルカサバ要塞", "zh": "阿尔卡萨瓦要塞" },
+      "blurb": {
+        "ko": "이 무어 양식의 요새 겸 궁전은 옛 로마 유적 위에 세워졌어요. 정원과 탑을 오르다 보면 말 그대로 여러 겹의 역사를 밟고 지나가는 셈이죠. 지금은 공작새들이 마당을 거닐지만, 예전엔 이슬람 통치자들이 이곳에서 아래쪽 항구를 내려다봤답니다.",
+        "en": "This Moorish palace-fortress was built on top of old Roman ruins, so as you climb through its gardens and towers you're literally walking over layers of history. Peacocks roam its courtyards today, but centuries ago it was the seat of Muslim rulers watching over the port below.",
+        "ja": "このムーア様式の要塞兼宮殿は、古いローマ遺跡の上に建てられました。庭や塔をのぼっていくと、まさに何層もの歴史を踏みしめて歩いているようなものです。今では中庭を孔雀が歩き回っていますが、昔はイスラムの支配者たちがここから下の港をながめていました。",
+        "zh": "这座摩尔风格的堡垒宫殿建在古罗马遗迹之上，攀登它的花园和塔楼时，你就像是踩在层层叠叠的历史之上。如今孔雀在庭院里悠闲漫步，而几百年前，这里曾是穆斯林统治者俯瞰下方港口的地方。"
+      },
+      "coords": [36.7212, -4.4159]
+    },
+    {
+      "name": { "ko": "히브랄파로 성", "en": "Gibralfaro Castle", "ja": "ヒブラルファロ城", "zh": "希布拉尔法罗城堡" },
+      "blurb": {
+        "ko": "도시에서 가장 높은 언덕 위에 자리한 이 성은 옛날에 수평선 너머 적선을 감시하던 곳이에요. 지금 성벽에 오르면 말라가 최고의 전망을 만날 수 있어요. 지붕들과 항구, 그리고 수천 년 전부터 뱃사람들이 건너온 바로 그 푸른 바다까지 한눈에 보인답니다.",
+        "en": "Perched on the highest hill in town, this castle once kept watch for enemy ships out on the horizon. Climb its walls today and you'll get the best view in Málaga — rooftops, the harbor, and the same blue sea sailors have crossed for thousands of years.",
+        "ja": "町でいちばん高い丘の上に建つこの城は、かつて水平線のかなたから来る敵船を見張っていました。今、城壁にのぼれば、マラガいちばんの絶景が待っています。屋根の連なりや港、そして何千年も前から船乗りたちが渡ってきたあの青い海までひと目で見渡せます。",
+        "zh": "这座城堡坐落在城中最高的山丘上，曾经用来监视海平线上出现的敌船。如今爬上城墙，你会看到马拉加最美的景色——层层屋顶、港湾，还有数千年来水手们一直横渡的那片蔚蓝大海。"
+      },
+      "coords": [36.7239, -4.4128]
+    },
+    {
+      "name": { "ko": "로마 극장", "en": "Roman Theatre", "ja": "ローマ劇場", "zh": "罗马剧场" },
+      "blurb": {
+        "ko": "알카사바 바로 아래에 자리한 이 돌 극장은 약 2000년 전 로마 사람들이 별빛 아래에서 연극과 음악을 즐기려고 지은 곳이에요. 오랫동안 땅속에 묻혀 잊혀 있다가 1951년 인부들이 우연히 파내면서 다시 세상에 나왔답니다. 정말 숨겨진 보물이었던 셈이죠.",
+        "en": "Tucked right at the foot of the Alcazaba, this stone theatre was built around 2,000 years ago for Romans to watch plays and music under the stars. It was buried and forgotten for ages until workers accidentally dug it up in 1951 — a true hidden treasure.",
+        "ja": "アルカサバのすぐふもとにあるこの石造りの劇場は、約2000年前にローマ人が星空の下で演劇や音楽を楽しむために建てたものです。長い間地中に埋もれて忘れられていましたが、1951年に作業員が偶然掘り当てました。まさに隠れた宝物だったのです。",
+        "zh": "这座石头剧场就位于阿尔卡萨瓦脚下，大约建于2000年前，供罗马人在星空下观看戏剧和音乐表演。它曾长期被埋没遗忘，直到1951年工人们偶然把它挖了出来——真是一件隐藏的宝藏。"
+      },
+      "coords": [36.7207, -4.4174]
+    },
+    {
+      "name": { "ko": "말라가 피카소 미술관", "en": "Picasso Museum Málaga", "ja": "マラガ・ピカソ美術館", "zh": "马拉加毕加索博物馆" },
+      "blurb": {
+        "ko": "피카소가 태어난 광장에서 몇 걸음이면 닿는 이 미술관에는, 그가 평생 잊지 않았던 도시에 가족이 직접 기증한 그림과 조각, 스케치들이 모여 있어요. 아이들은 그의 장난스럽고 알록달록한 화풍을 가까이서 볼 수 있는데, 낙서도 멋진 작품이 될 수 있다는 걸 보여준답니다.",
+        "en": "Just steps from the plaza where Picasso was born, this museum holds paintings, sculptures, and sketches his own family gave to the city he never forgot. Kids can spot his playful, colorful style up close — proof that doodling can turn into something amazing.",
+        "ja": "ピカソが生まれた広場からほんの数歩のこの美術館には、彼が忘れることのなかった街に家族が贈った絵画や彫刻、スケッチが集められています。子どもたちは彼の遊び心あふれるカラフルな画風を間近で見ることができ、落書きもすごい作品になれることを教えてくれます。",
+        "zh": "这座博物馆距离毕加索出生的广场只有几步之遥，收藏着他家人捐赠给这座他从未忘记的城市的画作、雕塑和素描。孩子们可以近距离看到他那充满童趣、色彩缤纷的风格——证明了涂鸦也能变成了不起的艺术。"
+      },
+      "coords": [36.7213, -4.4200]
+    }
+  ]
+}

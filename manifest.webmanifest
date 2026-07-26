@@ -1,0 +1,16 @@
+{
+  "name": "TourForChild — 아이와 떠나는 여행 이야기",
+  "short_name": "TourForChild",
+  "description": "아이와 함께 여행 가기 전 미리 읽는, 도시별 재미있는 역사·이야기. 4개국어, 오프라인 지원.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffdf7",
+  "theme_color": "#ff6b6b",
+  "lang": "ko",
+  "categories": ["travel", "education", "kids"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

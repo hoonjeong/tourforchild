@@ -1,0 +1,120 @@
+{
+  "id": "dubrovnik",
+  "country": "hr",
+  "coords": [42.6507, 18.0944],
+  "name": { "ko": "두브로브니크", "en": "Dubrovnik", "ja": "ドゥブロヴニク", "zh": "杜布罗夫尼克" },
+  "tagline": {
+    "ko": "어떤 군대도 뚫지 못한 성벽을 쌓은 작은 바다의 나라",
+    "en": "The tiny sea republic that built a wall no army could break",
+    "ja": "どんな軍隊も破れなかった城壁を築いた小さな海の国",
+    "zh": "建起一道任何军队都攻不破的城墙的海上小国"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 아드리아해 바닷가에 '라구사'라는 작은 도시가 있었어요(지금은 두브로브니크라고 불러요). 이 작은 도시는 큰 이웃 나라에 고개 숙이지 않겠다고 결심했죠. 은과 향신료, 옷감을 가득 실은 배를 지중해 곳곳으로 보내며 자랑스러운 바다 무역 국가로 성장했답니다. 도시 곳곳에 새겨진 한마디, '리베르타스(자유)'가 이 도시의 자랑이었어요.",
+      "그 자유를 지키기 위해 사람들은 도시 전체를 둘러싸는 어마어마한 것을 만들었어요. 길이가 거의 2킬로미터에 이르는 돌담을 쌓았는데, 어떤 부분은 높이가 25미터나 됐어요. 6층짜리 건물보다 높은 셈이죠! 성문마다 탑과 요새가 지키고 서서 바다를 감시했고, 수백 년 동안 그 어떤 침략군도 이 성벽을 뚫지 못했답니다. 라구사는 지혜롭게도 힘센 이웃 나라에 조공을 바치며 외교관과 상인의 나라로 이름을 날렸어요.",
+      "하지만 군대가 못한 일을 자연이 해냈어요. 1667년, 커다란 지진이 도시를 뒤흔들어 아름다운 건물 대부분을 순식간에 무너뜨렸어요. 그래도 튼튼한 성벽은 끄떡없이 버텼고, 사람들은 돌 하나하나를 다시 쌓아 도시를 되살렸어요. 넓은 대리석 거리와 웅장한 궁전도 다시 태어났답니다.",
+      "수백 년이 흐른 1991년, 성벽 도시는 전쟁 속에서 또 한 번 위험에 빠졌어요. 이번에는 세계 곳곳의 사람들이 힘을 모아 도시를 지키고 고쳤답니다. 오늘날 두브로브니크는 그 어느 때보다 반짝여요. 성벽 위를 한 바퀴 걸을 수 있고, 항구엔 작은 배들이 가득하고, 수백만 명의 발걸음에 닳아 거울처럼 빛나는 돌길이 여행객을 반긴답니다."
+    ],
+    "en": [
+      "Long ago, on the Adriatic coast, a small city called Ragusa (today's Dubrovnik) decided it would never bow to a bigger neighbor. Though tiny, it built itself into a proud sea-trading power, sending ships loaded with silver, spices, and cloth all across the Mediterranean. Its pride was one word carved everywhere around town: Libertas — Freedom.",
+      "To protect that freedom, the people built something enormous around their entire city: a wall of stone nearly 2 kilometers around, some parts climbing 25 meters high — taller than a six-story building! Towers and fortresses guarded every gate, watching the sea for danger, and for centuries no invading army ever broke through. Ragusa stayed independent by being clever too, paying tribute to powerful neighbors instead of fighting, and becoming famous for skilled diplomats and traders.",
+      "But nature did what armies could not. In 1667, a huge earthquake shook the city and knocked down most of its beautiful buildings in minutes. Still, the great walls held strong, and the people rebuilt their home stone by stone, bringing back its wide marble streets and grand palaces.",
+      "Centuries later, in 1991, the walled city faced danger again during a war. This time, people from all over the world helped protect and repair it. Today Dubrovnik shines brighter than ever — its walls open for visitors to walk all the way around, its harbor still full of little boats, and its stone streets so polished by millions of footsteps that they gleam like mirrors."
+    ],
+    "ja": [
+      "昔々、アドリア海のほとりに『ラグーサ』という小さな街がありました（今のドゥブロヴニクです）。この小さな街は、大きな隣国に頭を下げないと心に決めていました。銀や香辛料、布をたっぷり積んだ船を地中海のあちこちへ送り出し、誇り高い海の貿易国へと育っていったのです。街のいたるところに刻まれた『リベルタス（自由）』という言葉が、この街の誇りでした。",
+      "その自由を守るため、人々は街全体を取り囲む、とてつもないものを築きました。長さおよそ2キロメートルにおよぶ石の城壁で、ある部分は高さ25メートルにも達しました。6階建てのビルより高いのです！門ごとに塔や砦が立ち、海を見張り、何百年もの間どんな敵軍もこの城壁を突破できませんでした。ラグーサは戦う代わりに強い隣国へ貢ぎ物を送り、すぐれた外交官と商人の国として名を馳せたのです。",
+      "けれど、軍隊にもできなかったことを自然がやってのけました。1667年、大きな地震が街をゆさぶり、美しい建物のほとんどをあっという間に崩してしまったのです。それでも頑丈な城壁はびくともせず、人々は石を一つ一つ積み直して街をよみがえらせました。広い大理石の通りも、りっぱな宮殿も再び生まれ変わったのです。",
+      "何百年もたった1991年、城壁の街は戦争の中でふたたび危険にさらされました。今度は世界中の人々が力を合わせて街を守り、修復しました。今日のドゥブロヴニクは、これまで以上に輝いています。城壁の上をぐるりと歩くことができ、港には小さな船がいっぱいで、何百万人もの足あとで磨かれた石畳は鏡のようにきらめきながら旅人を迎えてくれます。"
+    ],
+    "zh": [
+      "很久很久以前，亚得里亚海边有一座叫“拉古萨”的小城（也就是今天的杜布罗夫尼克）。这座小城下定决心，绝不向强大的邻国低头。它派出满载白银、香料和布匹的商船驶向地中海各地，逐渐成长为一个自豪的海上贸易强国。城里到处刻着一个词——“利伯塔斯（自由）”，这正是这座城市的骄傲。",
+      "为了守护这份自由，人们建起了一样围绕整座城市的巨大工程：一道将近2公里长的石头城墙，有些地方高达25米——比六层楼还高！每座城门都有塔楼和堡垒把守，日夜望着大海，几百年来没有一支入侵的军队能够攻破这道城墙。拉古萨也很聪明：与其打仗，不如向强邻纳贡，因而以精明的外交官和商人闻名于世。",
+      "但军队做不到的事，大自然做到了。1667年，一场大地震摇撼了整座城市，转眼间就震塌了大部分美丽的建筑。尽管如此，坚固的城墙依然屹立不倒，人们一块石头一块石头地把家园重新建了起来，宽阔的大理石街道和宏伟的宫殿也重新焕发光彩。",
+      "几百年后的1991年，这座城墙之城在战争中再次面临危险。这一次，来自世界各地的人们齐心协力保护和修复了它。如今的杜布罗夫尼克比以往任何时候都更加闪耀——游客可以沿着城墙走完一整圈，港口里停满了小船，被数百万双脚磨得光可鉴人的石板路，正闪闪发光地迎接每一位来客。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "성벽은 둘레가 거의 2킬로미터에, 높이는 최대 25미터 — 6층 건물보다 높아요 — 어떤 군대도 이 성벽을 뚫지 못했어요.",
+      "대표 거리인 스트라둔은 석회암으로 포장돼 있는데, 수백 년간 사람들이 밟고 다녀 비온 뒤엔 거울처럼 반짝인답니다.",
+      "1416년, 라구사 공화국은 노예 무역을 금지했어요. 세계에서 가장 먼저 이를 금지한 나라 중 하나였답니다.",
+      "프란체스코 수도원 안 약국은 1317년부터 지금까지 문을 열고 있는, 유럽에서 가장 오래된 약국 중 하나예요.",
+      "1667년 큰 지진이 도시 건물 대부분을 무너뜨렸지만, 튼튼한 성벽은 거의 끄떡없었어요.",
+      "스르지산까지 케이블카를 타고 올라가면, 주황빛 지붕이 반짝이는 성벽 도시 전체를 새처럼 내려다볼 수 있어요."
+    ],
+    "en": [
+      "The city walls stretch almost 2 km around and reach up to 25 m tall — taller than a six-story building — and no army ever broke through them.",
+      "The main street, Stradun, is paved with limestone so polished by centuries of footsteps that it shines like a mirror, especially after rain.",
+      "In 1416, the Republic of Ragusa banned the slave trade — one of the very first governments in the world to do so.",
+      "A pharmacy inside the Franciscan Monastery has been open since 1317, making it one of the oldest working pharmacies in Europe.",
+      "In 1667, a massive earthquake toppled most of the city's buildings, but the mighty walls barely budged.",
+      "You can ride a cable car up Mount Srđ for a bird's-eye view of the whole walled city glowing orange-roofed by the sea."
+    ],
+    "ja": [
+      "城壁は周囲およそ2キロメートル、高さは最大25メートル——6階建てのビルより高く——どんな軍隊もこの城壁を突破できませんでした。",
+      "メインストリートのストラドゥンは石灰岩で舗装されていて、何百年もの人々の足で磨かれ、雨上がりには鏡のように輝きます。",
+      "1416年、ラグーサ共和国は奴隷貿易を禁止しました。世界でもっとも早くこれを禁止した国の一つです。",
+      "フランシスコ会修道院の中の薬局は1317年から今も営業していて、ヨーロッパ最古級の現役の薬局です。",
+      "1667年の大地震で街の建物の大半が崩れましたが、頑丈な城壁はほとんど無傷でした。",
+      "スルジ山までロープウェイで上ると、オレンジ色の屋根が輝く城壁の街全体を鳥のように見下ろせます。"
+    ],
+    "zh": [
+      "城墙周长将近2公里，最高处达25米——比六层楼还高——从来没有一支军队能攻破它。",
+      "主街斯特拉敦大道由石灰岩铺成，被数百年的脚步磨得雨后闪闪发亮，像镜子一样。",
+      "1416年，拉古萨共和国就禁止了奴隶贸易，是世界上最早这样做的政权之一。",
+      "方济各会修道院里的药房自1317年营业至今，是欧洲现存最古老的药房之一。",
+      "1667年的大地震震塌了城里大部分建筑，坚固的城墙却几乎毫发无损。",
+      "乘缆车登上斯尔德山，就能像小鸟一样俯瞰整座橙色屋顶闪闪发光的城墙之城。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도시 전체를 둘러싼 2킬로미터짜리 거대한 돌담, 너라면 끝까지 한 바퀴 걸어볼 수 있을까?",
+    "en": "A whole city wrapped in a giant stone wall two kilometers around — would you dare walk all the way around it?",
+    "ja": "街全体を取り囲む2キロメートルもの巨大な石の壁、あなたなら最後まで歩いてみる？",
+    "zh": "整座城市被一道两公里长的巨大石墙围住，你敢沿着它走完一整圈吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "두브로브니크 성벽", "en": "The City Walls", "ja": "ドゥブロヴニクの城壁", "zh": "杜布罗夫尼克城墙" },
+      "blurb": {
+        "ko": "옛 시가지 전체를 둘러싼 길이 약 2킬로미터의 성벽이에요. 오를 수 있는 탑도 있고, 사방으로 탁 트인 바다 전망도 볼 수 있어요. 한 바퀴 다 걸어보면 왜 어떤 적도 들어오지 못했는지 알게 될 거예요.",
+        "en": "Nearly 2 km of stone circling the entire Old Town, with towers to climb and sea views all around. Walk the full loop and you'll understand why no enemy ever got in.",
+        "ja": "旧市街全体を取り囲む、長さ約2キロメートルの城壁です。登れる塔もあり、四方に広がる海の景色も見られます。ぐるりと一周歩けば、なぜどんな敵も入れなかったのか分かるはずです。",
+        "zh": "环绕整个老城、长约2公里的城墙。城墙上有可以攀登的塔楼，四周还能看到开阔的海景。沿着城墙走完一圈，你就会明白为什么没有敌人能攻进来。"
+      },
+      "coords": [42.6435, 18.1080]
+    },
+    {
+      "name": { "ko": "로브리예나츠 요새", "en": "Lovrijenac Fortress", "ja": "ロヴリイェナツ要塞", "zh": "洛夫里耶纳茨要塞" },
+      "blurb": {
+        "ko": "서쪽 성벽 바깥, 절벽 위에 우뚝 선 요새예요. 전설에 따르면 경쟁국이 먼저 요새를 짓지 못하게 하려고 단 3개월 만에 지었대요. 사람들은 이곳을 '두브로브니크의 지브롤터'라고 부른답니다.",
+        "en": "Perched on a cliff just outside the western wall, this fortress was supposedly built in just three months to stop a rival power from building there first. Locals nickname it 'Dubrovnik's Gibraltar.'",
+        "ja": "西側の城壁の外、崖の上にそびえる要塞です。ライバル国に先に砦を建てられないよう、伝説ではわずか3か月で建てられたそうです。人々はこれを『ドゥブロヴニクのジブラルタル』と呼びます。",
+        "zh": "矗立在西侧城墙外悬崖上的要塞。传说为了不让对手国抢先在此建堡垒，人们只用了短短三个月就把它建了起来。当地人称它为“杜布罗夫尼克的直布罗陀”。"
+      },
+      "coords": [42.6396, 18.1043]
+    },
+    {
+      "name": { "ko": "스트라둔 거리", "en": "Stradun", "ja": "ストラドゥン通り", "zh": "斯特拉敦大道" },
+      "blurb": {
+        "ko": "오래된 돌집과 카페가 늘어선 도시의 대표 거리예요. 발밑을 잘 살펴보세요. 수백 년간 사람들이 밟고 다녀 돌바닥이 유리처럼 반질반질하게 빛난답니다.",
+        "en": "The city's grand limestone main street, lined with old stone houses and cafés. Look down at your feet — the stone has been polished so smooth by centuries of footsteps that it shines like glass.",
+        "ja": "古い石造りの家々やカフェが立ち並ぶ、街のメインストリートです。足元をよく見てみて。何百年もの人々の足で磨かれた石畳が、ガラスのようにつやつや光っています。",
+        "zh": "两旁排满古老石屋和咖啡馆的城市主街。低头看看脚下——被数百年脚步磨得光滑的石板路，亮得像玻璃一样。"
+      },
+      "coords": [42.6414, 18.1093]
+    },
+    {
+      "name": { "ko": "프란체스코 수도원 옛 약국", "en": "Franciscan Monastery Old Pharmacy", "ja": "フランシスコ会修道院の古い薬局", "zh": "方济各会修道院古药房" },
+      "blurb": {
+        "ko": "수도원 안에 숨어 있는 아주 작은 약국이에요. 1317년부터 지금까지 약을 만들어 온, 유럽에서 가장 오래된 약국 중 하나랍니다. 수백 년 전 수도사들이 쓰던 오래된 약병과 도구들을 들여다보세요.",
+        "en": "Tucked inside a monastery, this tiny pharmacy has been mixing remedies since 1317 — one of the oldest still working in Europe. Peer in at the old jars and tools monks used centuries ago.",
+        "ja": "修道院の中にひっそりとある、とても小さな薬局です。1317年から今も薬を作り続けている、ヨーロッパ最古級の薬局のひとつ。何百年も前に修道士たちが使っていた古い薬びんや道具をのぞいてみて。",
+        "zh": "藏在修道院里的一间很小的药房。自1317年起一直在配制药物，是欧洲现存最古老的药房之一。快去看看几百年前修士们用过的旧药瓶和工具吧。"
+      },
+      "coords": [42.6420, 18.1103]
+    }
+  ]
+}

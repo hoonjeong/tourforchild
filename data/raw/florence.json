@@ -1,0 +1,120 @@
+{
+  "id": "florence",
+  "country": "it",
+  "coords": [43.7696, 11.2558],
+  "name": { "ko": "피렌체", "en": "Florence", "ja": "フィレンツェ", "zh": "佛罗伦萨" },
+  "tagline": {
+    "ko": "르네상스를 세상에 선물한 작은 강변 도시",
+    "en": "The little river city that gave the world the Renaissance",
+    "ja": "世界にルネサンスを贈った、川辺の小さな街",
+    "zh": "把文艺复兴献给世界的小小河畔之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 이탈리아의 아르노 강가에 '피렌체'라는 작은 도시가 있었어요. 이 도시 사람들은 양털 장사와 은행업으로 큰돈을 벌었답니다. 그중 '메디치'라는 한 가문은 어찌나 부유하고 힘이 셌던지, 도시 전체를 뒤에서 움직이는 숨은 지배자가 되었어요.",
+      "메디치 가문은 금화보다 예술을 더 사랑했어요. 아무도 알아주지 않던 젊은 화가와 조각가들을 찾아내 물감과 대리석, 작업할 공간을 아낌없이 내주었죠. 가장 큰 골칫거리는 따로 있었어요. 피렌체의 거대한 새 성당 꼭대기를 덮을 만큼 커다란 돔을 짓는 법을 아무도 몰랐거든요. 브루넬레스키라는 건축가가 기발한 방법을 생각해냈어요. 아래에서 받쳐주는 비계 없이 돔을 짓겠다는 계획이었죠. 사람들은 미쳤다고 손가락질했지만, 정말로 성공했고, 그 돔은 지금까지도 세계에서 가장 큰 벽돌 돔으로 남아 있답니다.",
+      "한편, 작업장 마당에는 거대한 대리석 덩어리가 25년째 버려져 있었어요. 두 조각가가 도전했다가 '이건 못 쓴다'며 포기한 돌이었죠. 그런데 스물여섯 살의 젊은 예술가 미켈란젤로가 한번 해보겠다고 나섰어요. 3년 뒤, 그는 5미터나 되는 대리석 영웅 '다비드'를 세상에 공개했답니다. 어찌나 진짜 사람 같던지, 곧 숨을 쉴 것 같다는 말까지 나왔대요.",
+      "이 작은 도시 하나에서 이렇게 많은 예술 작품이 순식간에 쏟아져 나오자, 사람들은 이 시기를 '다시 태어난다'는 뜻의 '르네상스'라고 부르기 시작했어요. 오늘날에도 피렌체는 그 시절 그림과 돔, 조각상으로 가득해요. 골목마다, 성당마다 숨어 있죠. 이 도시를 걷는다는 건, 곧 현대 예술이 태어난 자리를 그대로 걷는 셈이에요."
+    ],
+    "en": [
+      "Once, hundreds of years ago, there was a small city on a river in Italy called the Arno. Its name was Florence, and its people made their fortune from wool and banking. One family, the Medici, grew so rich and so powerful that they became the secret rulers behind the whole city.",
+      "The Medici loved art more than gold coins. They found young painters and sculptors nobody else believed in, and gave them paint, marble, and a place to work. There was one big problem, though: nobody knew how to build a dome big enough to crown Florence's giant new cathedral. An engineer named Brunelleschi came up with a wild plan — build the dome without any scaffolding holding it up from below. People thought he was crazy, but it worked, and to this day, it's still the largest brick dome ever built.",
+      "Meanwhile, a giant block of marble sat abandoned in a workshop yard for 25 years — two sculptors had tried to carve it and given up, calling it ruined. Then a 26-year-old artist named Michelangelo asked to try. Three years later, he unveiled David, a 5-meter-tall marble hero so lifelike that people said he might start breathing.",
+      "This one small city produced so much art, so fast, that people started calling the age a 'rebirth' — Renaissance. Today, Florence is still bursting with the same paintings, domes, and statues, tucked into every church and street corner. Walk through the city, and you're walking straight through the birthplace of modern art."
+    ],
+    "ja": [
+      "はるか昔、イタリアのアルノ川のほとりに『フィレンツェ』という小さな街がありました。街の人々は羊毛の商売と銀行業で大きな富を築きました。中でも『メディチ家』という一族はあまりにも裕福で力を持ち、街全体をかげであやつる支配者になっていったのです。",
+      "メディチ家は金貨よりも芸術を愛していました。誰にも認められていなかった若い画家や彫刻家を見つけては、絵の具や大理石、働く場所を惜しみなく与えたのです。そんな中、最大の悩みがありました。フィレンツェの巨大な新しい大聖堂の上に載せる、大きなドームの建て方が誰にもわからなかったのです。ブルネレスキという建築家が奇想天外な方法を思いつきました。下から支える足場なしにドームを建てるという計画です。人々は正気じゃないと笑いましたが、本当に成功し、そのドームは今も世界最大のレンガのドームとして残っています。",
+      "一方、作業場の庭には巨大な大理石のかたまりが25年も放置されていました。二人の彫刻家が挑んでは『もう使い物にならない』とあきらめた石でした。そこへ26歳の若き芸術家ミケランジェロが挑戦したいと名乗り出ます。3年後、彼は高さ5メートルの大理石の英雄『ダビデ像』を世に送り出しました。あまりにも本物そっくりで、今にも息をしそうだと言われたそうです。",
+      "この小さな一つの街から、これほど多くの芸術がどっと生まれたので、人々はこの時代を『生まれ変わり』を意味する『ルネサンス』と呼ぶようになりました。今日でもフィレンツェは、当時の絵画やドーム、彫刻でいっぱいです。教会のすみずみ、通りの角々に隠れています。この街を歩くことは、現代芸術が生まれた場所をそのまま歩くことなのです。"
+    ],
+    "zh": [
+      "很久很久以前，在意大利阿尔诺河畔，有一座叫“佛罗伦萨”的小城。城里的人靠羊毛生意和银行业赚了大钱。其中有一个叫“美第奇”的家族，富有又强大，渐渐成了整座城市背后真正说了算的人。",
+      "美第奇家族爱艺术胜过爱金币。他们发掘那些没人看好的年轻画家和雕塑家，慷慨地提供颜料、大理石和工作的地方。当时有个大难题：没人知道该怎么盖一个大到能盖住佛罗伦萨那座巨大新教堂顶部的圆顶。一位名叫布鲁内莱斯基的建筑师想出了一个疯狂的办法——不用底下的脚手架支撑，直接把圆顶建起来。大家都觉得他疯了，可他真的成功了，直到今天，这座圆顶仍是世界上最大的砖砌穹顶。",
+      "与此同时，一块巨大的大理石在作坊的院子里被闲置了25年——两位雕塑家都试着雕刻过它，最后都放弃了，说这块石头已经“废了”。这时，一位26岁的年轻艺术家米开朗基罗站出来说想试试。三年后，他揭幕了“大卫”——一尊高达5米的大理石英雄雕像，栩栩如生到人们都说他好像马上就要呼吸了。",
+      "这一座小城在这么短的时间里诞生了这么多艺术杰作，人们开始把这段日子称为“文艺复兴”——意思是“重生”。今天的佛罗伦萨依然满是那个年代的画作、圆顶和雕像，藏在每一座教堂、每一个街角。走在这座城市里，就像是直接走进了现代艺术诞生的地方。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "브루넬레스키는 아래를 받치는 비계 하나 없이 두오모의 돔을 지었어요. 벽돌을 비스듬히 엇갈려 쌓는 특별한 방법을 썼는데, 지금도 세계에서 가장 큰 벽돌 돔이랍니다.",
+      "미켈란젤로의 '다비드'는 25년 전에 다른 조각가 두 명이 포기했던 거대한 대리석 덩어리를 깎아 만든 작품이에요.",
+      "메디치 가문은 원래 은행가였지만, 예술의 열렬한 팬이 되어 미켈란젤로, 보티첼리, 레오나르도 다빈치 같은 천재들을 발굴하고 후원했어요.",
+      "피렌체의 '베키오 다리'에는 상점들이 줄지어 있는데, 2차 세계대전 때 후퇴하던 군대가 유일하게 폭파하지 않은 다리였대요.",
+      "지금은 세계적인 미술관이 된 '우피치'는 원래 정부 사무실 건물이었어요. '우피치'라는 이름 자체가 '사무실들'이라는 뜻이랍니다.",
+      "젤라토는 메디치 가문의 파티를 위해 한 요리사가 달콤한 크림을 처음으로 얼려 만든 게 시작이라는 이야기도 있어요."
+    ],
+    "en": [
+      "Brunelleschi built the Duomo's dome without any scaffolding underneath — using a clever herringbone brick pattern — and it's still the largest brick dome ever built.",
+      "Michelangelo's David was carved from a giant block of marble that two other sculptors had given up on 25 years earlier.",
+      "The Medici family were bankers who became art's biggest fans, discovering and funding geniuses like Michelangelo, Botticelli, and Leonardo da Vinci.",
+      "Florence's Ponte Vecchio is lined with shops, and it's the only bridge in the city that retreating soldiers did not blow up in World War II.",
+      "The Uffizi, now one of the world's most famous art museums, was originally built as government offices — 'uffizi' literally means 'offices.'",
+      "Some say gelato was invented in Florence for a Medici party, when a clever cook froze sweet cream for the very first time."
+    ],
+    "ja": [
+      "ブルネレスキは下から支える足場を一切使わずにドゥオーモのドームを建てました。レンガを斜めに組む特別な方法を使い、今でも世界最大のレンガのドームです。",
+      "ミケランジェロの『ダビデ像』は、25年前に他の二人の彫刻家があきらめた巨大な大理石のかたまりから彫り出されました。",
+      "メディチ家はもともと銀行家でしたが、芸術の大ファンになり、ミケランジェロやボッティチェリ、レオナルド・ダ・ヴィンチのような天才たちを見つけて支援しました。",
+      "フィレンツェの『ヴェッキオ橋』にはお店が並んでいて、第二次世界大戦で撤退する軍が唯一爆破しなかった橋だそうです。",
+      "今では世界的な美術館になった『ウフィツィ』は、もともと役所の建物でした。『ウフィツィ』という名前自体が『事務所』という意味なんです。",
+      "ジェラートは、メディチ家のパーティーのために料理人が甘いクリームを初めて凍らせて作ったのが始まりだという説もあります。"
+    ],
+    "zh": [
+      "布鲁内莱斯基在没有任何底部脚手架支撑的情况下建成了主教座堂的圆顶——用了一种巧妙的人字形砖砌法——至今仍是世界上最大的砖砌穹顶。",
+      "米开朗基罗的“大卫”雕像，是用一块25年前被另外两位雕塑家放弃的巨大大理石雕刻而成的。",
+      "美第奇家族原本是银行家，后来却成了艺术的头号粉丝，发掘并资助了米开朗基罗、波提切利、达·芬奇这样的天才。",
+      "佛罗伦萨的“老桥”两旁开满了商店，是二战撤退的军队唯一没有炸毁的桥。",
+      "如今是世界著名美术馆的“乌菲兹”，最初其实是政府的办公楼——“乌菲兹”这个词本身就是“办公室”的意思。",
+      "有一种说法是，杰拉托冰淇淋最早是一位厨师为美第奇家族的派对第一次把甜奶油冷冻起来做出来的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "조각가 두 명이나 포기한 돌덩이가 세상에서 가장 유명한 조각상이 됐대. 그게 뭔지 맞혀볼래?",
+    "en": "A block of marble that two sculptors gave up on became one of the most famous statues ever — can you guess which one?",
+    "ja": "彫刻家が二人もあきらめた石が、世界一有名な彫刻になったんだって。何の像か当てられるかな？",
+    "zh": "两位雕塑家都放弃的一块石头，后来变成了世界上最有名的雕像之一——你猜得出是哪一座吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "두오모 대성당 (산타 마리아 델 피오레 성당)", "en": "Florence Cathedral (the Duomo)", "ja": "フィレンツェ大聖堂（ドゥオーモ）", "zh": "佛罗伦萨主教座堂（大教堂）" },
+      "blurb": {
+        "ko": "브루넬레스키의 유명한 돔이 얹혀 있는 거대한 성당이에요. 아무도 짓는 법을 몰랐던 그 돔을, 비계 없이 짓는 방법을 그가 찾아냈죠. 돔 안 계단 463개를 오르면 도시 전체가 발아래 펼쳐진답니다.",
+        "en": "This is the giant church topped by Brunelleschi's famous dome — the one nobody knew how to build until he found a way to do it without scaffolding. Climb the 463 steps inside the dome and the whole city unfolds beneath you.",
+        "ja": "ブルネレスキの有名なドームが載る巨大な聖堂です。誰も建て方を知らなかったこのドームを、彼は足場なしで建てる方法を見つけました。ドーム内の463段の階段を上ると、街全体が足元に広がります。",
+        "zh": "这座巨大的教堂顶着布鲁内莱斯基那座著名的圆顶——当年没人知道该怎么建，是他想出了不用脚手架的办法。爬上圆顶内463级台阶，整座城市就会展现在你脚下。"
+      },
+      "coords": [43.7731, 11.2560]
+    },
+    {
+      "name": { "ko": "아카데미아 미술관 (다비드상이 있는 곳)", "en": "Galleria dell'Accademia (home of the real David)", "ja": "アカデミア美術館（本物のダビデ像）", "zh": "学院美术馆（大卫真迹所在地）" },
+      "blurb": {
+        "ko": "긴 전시실에 들어서면 진짜 '다비드'가 서 있어요. 모두가 포기했던 그 대리석으로 만든, 5미터 높이의 조각상이죠. 발밑에 서서 올려다보면, 왜 사람들이 그가 숨을 쉴 것 같다고 했는지 알 수 있어요.",
+        "en": "Step into a long hall and there he is: the real, 5-meter David, carved from that 'ruined' marble everyone else gave up on. Stand at his feet and look up — it's easy to see why people once thought he might start breathing.",
+        "ja": "長い展示室に入ると、そこに本物の『ダビデ像』が立っています。みんながあきらめた大理石から彫られた、高さ5メートルの像です。足元に立って見上げると、なぜ人々が息をしそうだと言ったのか分かります。",
+        "zh": "走进长长的展厅，真正的“大卫”就站在那里——用那块被所有人放弃的大理石雕成的5米高雕像。站在他脚边抬头看，你就会明白为什么人们曾说他好像要呼吸了。"
+      },
+      "coords": [43.7768, 11.2588]
+    },
+    {
+      "name": { "ko": "베키오 다리", "en": "Ponte Vecchio (the \"Old Bridge\")", "ja": "ヴェッキオ橋（『古い橋』の意味）", "zh": "老桥（韦奇奥桥）" },
+      "blurb": {
+        "ko": "아르노 강 위에 놓인, 작은 금세공 가게들로 빼곡한 다리예요. 2차 세계대전 때 살아남은 피렌체의 유일한 다리랍니다. 다른 다리들은 모두 파괴됐거든요.",
+        "en": "A bridge crammed with tiny gold shops, built right over the Arno River. It's the only bridge in Florence that survived World War II — every other one was destroyed.",
+        "ja": "アルノ川に架かる、小さな金細工店がぎっしり並ぶ橋です。第二次世界大戦を生き延びたフィレンツェで唯一の橋。ほかの橋はすべて壊されてしまいました。",
+        "zh": "一座架在阿尔诺河上、挤满了小金饰店的桥。它是佛罗伦萨在二战中唯一幸存下来的桥，其余的桥都被摧毁了。"
+      },
+      "coords": [43.7680, 11.2531]
+    },
+    {
+      "name": { "ko": "우피치 미술관", "en": "Uffizi Gallery", "ja": "ウフィツィ美術館", "zh": "乌菲兹美术馆" },
+      "blurb": {
+        "ko": "원래는 메디치 가문의 정부 사무실 건물이었지만, 지금은 보티첼리와 레오나르도 다빈치의 그림으로 가득해요. 세계에서 가장 오래된 공공 미술관 중 하나랍니다.",
+        "en": "Once just government offices for the Medici family, this building is now packed with Botticelli and Leonardo paintings. It's one of the oldest public art museums in the whole world.",
+        "ja": "もともとはメディチ家の役所だった建物ですが、今はボッティチェリやレオナルド・ダ・ヴィンチの絵でいっぱいです。世界最古級の公共美術館の一つです。",
+        "zh": "这里原本只是美第奇家族的政府办公楼，如今却挂满了波提切利和达·芬奇的画作。它是全世界最古老的公共美术馆之一。"
+      },
+      "coords": [43.7678, 11.2553]
+    }
+  ]
+}

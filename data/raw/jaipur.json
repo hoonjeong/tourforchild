@@ -1,0 +1,120 @@
+{
+  "id": "jaipur",
+  "country": "in",
+  "coords": [26.9124, 75.7873],
+  "name": { "ko": "자이푸르", "en": "Jaipur", "ja": "ジャイプル", "zh": "斋浦尔" },
+  "tagline": {
+    "ko": "커다란 퍼즐처럼 지어진 뒤, '환영해요' 한마디를 위해 통째로 분홍빛이 된 도시",
+    "en": "The Pink City built like a giant puzzle—painted one color just to say welcome",
+    "ja": "巨大なパズルのように造られ、『ようこそ』のひと言のために街全体がピンク色になった街",
+    "zh": "像巨大拼图一样规划建成，又为了一句“欢迎”而整座变成粉红色的城市"
+  },
+  "story": {
+    "ko": [
+      "옛날 인도 북서쪽 사막 지역에 '사와이 자이 싱 2세'라는 젊은 왕이 살았어요. 무엇보다 공부를, 특히 수학과 별을 관찰하는 걸 좋아하는 왕이었죠. 어느 날 그는 아무도 해본 적 없는 일을 해보기로 했어요. 도시를 처음부터 새로 설계해서 짓는 거였죠. 그렇게 1727년, '자이푸르'가 탄생했답니다.",
+      "자이푸르는 아무렇게나 지어지지 않았어요. 왕과 뛰어난 건축가는 도시를 마치 커다란 퍼즐판처럼 반듯한 사각 구역으로 나누고, 넓은 도로를 바둑판처럼 곧게 뻗도록 설계했어요. 인도 최초의 '완벽하게 계획된 도시' 중 하나가 되었는데, 놀랍게도 이 모든 게 겨우 4년 만에 완성됐답니다!",
+      "그런데 아무도 예상 못한 반전이 있어요. 자이푸르는 처음부터 분홍색이 아니었거든요! 1876년, 영국 왕자가 도시를 방문한다는 소식에 옛 시가지 건물을 전부 따뜻한 분홍빛으로 칠했어요. 사람들이 그 모습을 어찌나 좋아했던지, 옛 시가지 건물은 앞으로도 계속 분홍색이어야 한다는 법까지 생겼답니다. 그래서 지금도 '핑크시티'라고 불리는 거예요.",
+      "놀라운 이야기는 계속돼요. '하와 마할'에는 벌집처럼 자잘한 창문이 수백 개나 있는데, 옛날 공주님들이 이 창문 너머로 거리의 축제를 몰래 구경할 수 있었대요. 언덕 위 '암베르 성'에는 작은 거울 조각 수천 개로 뒤덮인 방이 있어서, 촛불 하나만 켜도 마치 밤하늘의 별처럼 반짝인답니다. 오늘날 이 분홍빛 퍼즐 도시는 유네스코 세계유산으로도 지정됐어요!"
+    ],
+    "en": [
+      "Long ago, in the desert lands of northwestern India, there lived a young king named Sawai Jai Singh II. He loved learning more than almost anything—especially mathematics and the stars. One day he decided to do something almost nobody had done before: build a brand-new capital city from scratch. That's how Jaipur was born, in the year 1727.",
+      "Jaipur wasn't built any old way. The king and his clever architect laid it out like a giant puzzle board, with neat square blocks and wide streets crossing each other in perfect lines. It became one of India's first fully planned cities—and somehow, the whole thing was finished in just about four years!",
+      "Here's a twist nobody expects: Jaipur wasn't always pink! In 1876, the city painted every building in the old town a warm, welcoming pink to greet a visiting British prince. Everyone loved how it looked so much that a law was made—buildings in the old city must stay pink forever. That's exactly why people now call it 'the Pink City.'",
+      "And the wow keeps going. At Hawa Mahal, hundreds of tiny honeycomb windows let royal princesses peek at busy street parades without ever being seen. Up on a hilltop, Amber Fort hides a room covered in thousands of tiny mirrors that twinkle like a night sky when you light just one candle. Today, this whole pink puzzle-city is even a UNESCO World Heritage Site!"
+    ],
+    "ja": [
+      "むかし、インド北西部の砂漠地帯に、サワイ・ジャイ・シング2世という若い王がいました。彼は勉強が大好きで、特に数学や星の観察に夢中でした。ある日、王は誰もやったことのないことに挑戦しようと決めました。街をゼロから新しく設計して造ることです。こうして1727年、『ジャイプル』が生まれました。",
+      "ジャイプルは適当に造られたわけではありません。王と腕利きの建築家は、街をまるで大きなパズル盤のように四角い区画に分け、広い通りを碁盤の目のようにまっすぐ通しました。インドで最初に『完璧に計画された都市』の一つとなり、しかも、これがわずか4年ほどで完成したというから驚きです！",
+      "でも、誰も予想しなかった意外な話があります。実はジャイプルは、最初からピンク色だったわけではないのです！1876年、イギリスの王子が街を訪れることになり、旧市街の建物をすべて温かみのあるピンク色に塗ったのです。人々はその姿をとても気に入り、旧市街の建物は今後もずっとピンクでなければならないという決まりまでできました。だから今も『ピンクシティ』と呼ばれているのですね。",
+      "驚きの話はまだ続きます。『ハワー・マハル』には、蜂の巣のような小さな窓が数百もあり、昔の王女さまたちはこの窓ごしに通りのお祭りをこっそり見物できたそうです。丘の上の『アンベール城』には、小さな鏡のかけらが何千枚も張られた部屋があり、ろうそくを一本ともすだけで、まるで夜空の星のようにきらめきます。今日、このピンク色のパズルのような街は、ユネスコの世界遺産にも登録されているんですよ！"
+    ],
+    "zh": [
+      "很久以前，在印度西北部的沙漠地区，住着一位年轻的国王，名叫萨瓦伊·杰伊·辛格二世。他最喜欢的事就是学习，尤其痴迷数学和观星。有一天，他决定做一件几乎没人做过的事——从零开始，重新设计并建造一座全新的城市。就这样，1727年，“斋浦尔”诞生了。",
+      "斋浦尔可不是随随便便建起来的。国王和一位聪明的建筑师把整座城市划分成方方正正的街区，就像一块巨大的拼图板，宽阔的街道笔直交错，如同棋盘。它成为印度最早“完全按规划建造”的城市之一——更让人惊讶的是，这一切竟然只用了大约四年就完工了！",
+      "接下来有个谁也想不到的转折：斋浦尔一开始其实并不是粉红色的！1876年，因为一位英国王子要来访，人们把老城区的所有建筑都刷成了温暖的粉红色。大家太喜欢这个样子了，于是还立下一条规矩：老城区的建筑必须永远保持粉红色。这就是它如今被称为“粉红之城”的由来。",
+      "更多的惊喜还在后面。“风之宫殿”上有几百扇蜂窝状的小窗户，从前的公主们就是透过这些小窗，偷偷观看街上的热闹庆典而不被人发现。山顶上的“琥珀堡”里藏着一间贴满数千片小镜子的房间，只要点亮一根蜡烛，整个房间就会像夜空繁星一样闪烁。如今，这座粉红色的拼图之城，还被列为联合国教科文组织世界遗产呢！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "자이푸르는 1727년, 마치 커다란 퍼즐처럼 반듯한 사각 구역으로 설계됐어요. 인도 최초의 '완벽하게 계획된 도시' 중 하나였고, 겨우 4년 만에 완성됐답니다.",
+      "옛 시가지 전체가 1876년 영국 왕자를 맞이하려고 분홍색으로 칠해졌어요. 지금도 그 지역 건물은 꼭 분홍색을 유지해야 한다는 법이 있대요.",
+      "잔타르 만타르에는 세계에서 가장 큰 돌 해시계가 있어요. 무려 2초 단위까지 정확하게 시간을 알려준답니다!",
+      "'하와 마할(바람의 궁전)'에는 벌집 모양의 작은 창문이 953개나 있어요. 옛날 공주님들이 이 창문으로 거리를 몰래 구경했대요.",
+      "암베르 성의 '거울의 방(셰시 마할)'은 작은 거울 조각 수천 개로 뒤덮여 있어요. 촛불 하나만 켜도 방 전체가 별처럼 반짝인답니다.",
+      "자이푸르는 델리, 아그라와 함께 인도의 유명한 '골든 트라이앵글' 여행 코스에 속하고, 도시 전체가 2019년 유네스코 세계유산으로 지정됐어요."
+    ],
+    "en": [
+      "Jaipur was laid out in 1727 like a giant puzzle of square blocks—one of India's very first fully planned cities—and it was finished in only about four years.",
+      "The whole Old City was painted pink in 1876 to welcome a visiting British prince, and a law still says buildings there must stay pink today.",
+      "Jantar Mantar holds the world's largest stone sundial—so precise it can tell time accurate to about two seconds!",
+      "Hawa Mahal, the 'Palace of Winds,' has 953 tiny honeycomb windows so royal women could watch street life below without ever being seen.",
+      "Inside Amber Fort's Sheesh Mahal (Mirror Palace), thousands of tiny mirror pieces cover the walls—light just one candle and the whole room twinkles like a starry sky.",
+      "Jaipur is one stop on India's famous 'Golden Triangle' trip with Delhi and Agra, and the whole Pink City became a UNESCO World Heritage Site in 2019."
+    ],
+    "ja": [
+      "ジャイプルは1727年、大きなパズルのような四角い区画に沿って設計されました。インド初の『完璧に計画された都市』の一つで、わずか4年ほどで完成しました。",
+      "旧市街全体が1876年、イギリスの王子を迎えるためにピンク色に塗られました。今でもその地区の建物はピンク色を保たなければならないという決まりがあるそうです。",
+      "ジャンタル・マンタルには世界最大の石造り日時計があります。なんと2秒単位まで正確に時間を教えてくれるんです！",
+      "『ハワー・マハル（風の宮殿）』には蜂の巣のような小さな窓が953個もあります。昔の王女さまたちはこの窓から通りをこっそり見物したそうです。",
+      "アンベール城の『鏡の間（シーシュ・マハル）』は、小さな鏡のかけら数千枚でおおわれています。ろうそくを一本ともすだけで、部屋全体が星のようにきらめきます。",
+      "ジャイプルはデリー、アグラとともにインドの有名な『ゴールデン・トライアングル』の旅ルートの一つで、街全体が2019年にユネスコ世界遺産に登録されました。"
+    ],
+    "zh": [
+      "斋浦尔于1727年按照方方正正的拼图式街区规划而建，是印度最早“完全规划”的城市之一，而且只用了大约四年就建成了。",
+      "1876年，为了迎接来访的英国王子，整个老城区都被刷成了粉红色。据说至今那里的建筑仍必须保持粉红色，这是有规定的。",
+      "简塔·曼塔天文台里有世界上最大的石造日晷，精确度高达大约两秒钟！",
+      "“风之宫殿”上有953扇蜂窝状的小窗户，从前的公主们就是透过这些窗户偷偷观看街上的景象。",
+      "琥珀堡的“镜宫”墙壁上镶嵌着数千片小镜子，只要点亮一根蜡烛，整个房间就会像繁星一样闪烁。",
+      "斋浦尔是印度著名“金三角”旅游路线（德里、阿格拉、斋浦尔）的一站，整座粉红之城在2019年被列为联合国教科文组织世界遗产。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "우리 동네 건물을 전부 딱 한 가지 색으로 칠해서 손님을 반긴다면, 너는 무슨 색을 고르고 싶어? 그리고 왜?",
+    "en": "Imagine painting every single building in your whole town the exact same color just to say 'welcome!'—what color would you choose, and why?",
+    "ja": "もし自分の街の建物を全部、同じ色にぬって『ようこそ』と伝えるとしたら、何色を選ぶ？そしてそれはなぜかな？",
+    "zh": "如果要把你所在城市的所有建筑都刷成同一种颜色，来对客人说“欢迎”，你会选什么颜色？为什么呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "하와 마할 (바람의 궁전)", "en": "Hawa Mahal (Palace of Winds)", "ja": "ハワー・マハル（風の宮殿）", "zh": "风之宫殿" },
+      "blurb": {
+        "ko": "벌집 모양의 분홍빛 벽에 작은 창문이 953개나 뚫려 있어요. 옛날 궁궐 여인들은 이 창문 뒤에 앉아 거리의 축제를 구경했지만, 밖에서는 그들의 모습이 전혀 보이지 않았대요.",
+        "en": "A pink, honeycomb-shaped palace wall with 953 tiny windows. Royal women once sat behind these windows to watch street parades below—seeing everything while staying completely unseen.",
+        "ja": "蜂の巣のような形をしたピンク色の壁に、小さな窓が953個も開いています。昔、宮殿の女性たちはこの窓の奥に座って通りのお祭りを眺めましたが、外からは彼女たちの姿がまったく見えなかったそうです。",
+        "zh": "蜂窝状的粉红色墙壁上开着953扇小窗户。从前宫廷里的女眷们坐在窗后观看街上的庆典，外面的人却完全看不到她们的身影。"
+      },
+      "coords": [26.9239, 75.8267]
+    },
+    {
+      "name": { "ko": "암베르 성", "en": "Amber Fort", "ja": "アンベール城", "zh": "琥珀堡" },
+      "blurb": {
+        "ko": "언덕 위에 우뚝 선 웅장한 성으로, 안에는 반짝이는 비밀이 숨어 있어요. 작은 거울 조각 수천 개로 뒤덮인 '셰시 마할(거울의 방)'인데, 촛불 하나만 켜도 천장 전체가 별이 가득한 밤하늘처럼 반짝인답니다.",
+        "en": "A grand hilltop fort with a dazzling secret inside: the Sheesh Mahal, a room covered in thousands of tiny mirror pieces. Light just one candle in there and the whole ceiling sparkles like a sky full of stars.",
+        "ja": "丘の上にそびえる壮大な城で、中にはきらめく秘密が隠されています。小さな鏡のかけら数千枚でおおわれた『シーシュ・マハル（鏡の間）』では、ろうそくを一本ともすだけで天井全体が星でいっぱいの夜空のように輝きます。",
+        "zh": "矗立在山顶上的雄伟城堡，里面藏着一个闪闪发光的秘密——镜宫，墙上贴满了数千片小镜子。只要点亮一根蜡烛，整个天花板就会像繁星满天的夜空一样闪耀。"
+      },
+      "coords": [26.9855, 75.8513]
+    },
+    {
+      "name": { "ko": "잔타르 만타르 천문대", "en": "Jantar Mantar Observatory", "ja": "ジャンタル・マンタル天文台", "zh": "简塔·曼塔天文台" },
+      "blurb": {
+        "ko": "하늘을 관찰하려고 만든 거대한 돌 기구들이 가득한 정원이에요. 그중 하나는 세계에서 가장 큰 돌 해시계로, 무려 2초 단위까지 정확하게 시간을 알려준답니다.",
+        "en": "A garden full of giant stone instruments built to study the sky. One of them is the world's largest stone sundial—so accurate it can tell time down to about two seconds.",
+        "ja": "空を観察するために造られた巨大な石の装置がずらりと並ぶ庭です。その一つは世界最大の石造り日時計で、なんと2秒単位まで正確に時間を教えてくれます。",
+        "zh": "这座花园里布满了用来观测天象的巨型石制仪器。其中一座是世界上最大的石造日晷，精确度竟然可以达到大约两秒钟。"
+      },
+      "coords": [26.9246, 75.8246]
+    },
+    {
+      "name": { "ko": "잘 마할 (물의 궁전)", "en": "Jal Mahal (Water Palace)", "ja": "ジャル・マハル（水の宮殿）", "zh": "水中宫殿（贾尔宫）" },
+      "blurb": {
+        "ko": "호수 한가운데 둥둥 떠 있는 것처럼 보이는 궁전이에요. 맨 꼭대기 층만 물 위로 살짝 보이고, 나머지 층은 일부러 물에 잠겨 있대요. 마치 돌로 만든 마술 같죠?",
+        "en": "A palace that seems to float right in the middle of a lake. Only its top floor peeks above the water—the other floors stay hidden and flooded on purpose, like a magic trick made of stone.",
+        "ja": "湖のちょうど真ん中に浮かんでいるように見える宮殿です。いちばん上の階だけが水面からのぞき、残りの階はわざと水に沈められているのだそう。まるで石でできた魔法のようですね。",
+        "zh": "这座宫殿看起来就像漂浮在湖泊正中央。只有最顶层露出水面，其余楼层都被故意淹没在水下，就像一场用石头变出来的魔术。"
+      },
+      "coords": [26.9537, 75.8462]
+    }
+  ]
+}

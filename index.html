@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>TourForChild — 아이와 떠나는 여행 이야기</title>
+  <meta name="description" content="아이와 함께 여행 가기 전 미리 읽으면 좋은, 도시별 역사·재미있는 사실을 재미있게 알려주는 무료 사이트. 4개국어 지원, 지도 연동, 오프라인 사용.">
+  <meta name="theme-color" content="#ff6b6b">
+  <meta name="robots" content="index,follow">
+
+  <!-- Open Graph / social -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="TourForChild">
+  <meta property="og:title" content="TourForChild — 아이와 떠나는 여행 이야기">
+  <meta property="og:description" content="도시마다 숨은 재미있는 이야기를 아이와 함께 미리 읽어보세요. Fun travel stories for kids.">
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="TourForChild">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="icon" href="icon.svg">
+
+  <!-- set theme early to avoid flash -->
+  <script>
+    (function () {
+      var s = localStorage.getItem("tfc_theme");
+      if (!s) s = (window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", s);
+    })();
+  </script>
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- Site-wide structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "TourForChild",
+    "description": "Fun travel stories, history and fun facts for family trips with kids.",
+    "inLanguage": ["ko","en","ja","zh"]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="logo" href="#/">
+        <span class="globe">🌍</span>
+        <span class="full"><b>Tour</b><i>ForChild</i></span>
+      </a>
+      <span class="header-spacer"></span>
+      <nav class="header-actions" id="headerActions" aria-label="quick actions"></nav>
+      <nav class="lang-switch" id="langSwitch" aria-label="language"></nav>
+    </div>
+    <div class="wrap" style="padding-bottom:6px">
+      <small id="brandTag" style="color:var(--ink-soft)"></small>
+    </div>
+  </header>
+
+  <main class="wrap" id="app"></main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="fix" id="footerFix"></div>
+      <p id="footerAbout"></p>
+      <p>© TourForChild · Maps © OpenStreetMap contributors · Photos via Wikipedia</p>
+    </div>
+  </footer>
+
+  <!-- Data (no DB, no fetch — works from file:// too) -->
+  <script src="i18n.js"></script>
+  <script src="data/index.js"></script>
+  <script src="data/themes.js"></script>
+  <script src="app.js"></script>
+
+  <!-- PWA service worker (offline). Only on http/https, not file:// -->
+  <script>
+    if ("serviceWorker" in navigator && location.protocol.indexOf("http") === 0) {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("sw.js").catch(function () {});
+      });
+    }
+  </script>
+</body>
+</html>

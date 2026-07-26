@@ -1,0 +1,120 @@
+{
+  "id": "bohol",
+  "country": "ph",
+  "coords": [9.6474, 123.8536],
+  "name": { "ko": "보홀", "en": "Bohol", "ja": "ボホール", "zh": "薄荷岛" },
+  "tagline": {
+    "ko": "천 개의 초콜릿 언덕이 바다에서 솟아난 섬",
+    "en": "The island where a thousand chocolate-brown hills rise from the sea",
+    "ja": "千のチョコレート色の丘が海から生まれた島",
+    "zh": "千座巧克力山丘从海中升起的岛屿"
+  },
+  "story": {
+    "ko": [
+      "필리핀 한가운데, '보홀'이라는 초록빛 섬에 아주 신기한 언덕들이 있어요. 하나가 아니라 무려 1000개도 넘는 언덕이, 마치 거인이 초콜릿 과자를 잔뜩 늘어놓은 것처럼 들판 곳곳에 봉긋봉긋 솟아 있답니다. 사람들은 이 언덕을 '초콜릿 힐'이라고 불러요. 건기가 되면 풀빛이 갈색으로 변해서, 섬 전체에 코코아 가루를 뿌려 놓은 것처럼 보이거든요.",
+      "옛날 이야기에 따르면, 두 거인이 크게 싸우면서 며칠 동안 바위와 흙을 던지다가 지쳐서 결국 친구가 됐는데, 그때 어질러 놓은 흙더미가 수백 개의 언덕이 됐대요. 또 다른 전설에서는 '아로고'라는 거인이 사랑을 잃고 흘린 커다란 눈물이 굳어서 언덕이 되었다고도 해요. 과학자들의 설명은 조금 다르지만 이 역시 놀라워요. 아주 먼 옛날 보홀은 바다 밑에 있었는데, 산호와 조개껍데기가 켜켜이 쌓이고 땅이 서서히 바다 위로 솟아올랐대요. 그 뒤 비와 강물이 오랜 세월 돌을 깎아 내어, 지금의 봉긋한 언덕 1000여 개를 만들어 냈답니다.",
+      "보홀의 숲 그늘에는 또 다른 보물이 숨어 있어요. 바로 세상에서 가장 작은 원숭이 무리 중 하나인 '안경원숭이(타르시어)'예요. 손바닥 위에 쏙 올라갈 만큼 작은데, 눈은 어마어마하게 커서 자기 뇌보다도 크답니다! 타르시어는 4500만 년 전부터 거의 모습이 변하지 않아서 '살아있는 화석'이라고도 불려요. 부엉이처럼 고개를 거의 한 바퀴 돌릴 수 있고, 나무 사이를 소리 하나 없이 사뿐사뿐 뛰어다닌답니다.",
+      "보홀에는 필리핀 역사에서 가장 다정한 순간도 담겨 있어요. 1565년, 이 지역의 추장 '다투 시카투나'와 스페인 탐험가 '레가스피'는 서로 적이 아니라 친구가 되고 싶었어요. 그래서 둘은 각자 손가락에서 나온 핏방울을 포도주 잔에 떨어뜨려 함께 나누어 마셨대요. 필리핀 역사에서 가장 처음으로 맺어진 우정의 약속 중 하나였죠. 초콜릿 언덕과 커다란 눈의 타르시어, 그리고 술잔 속 우정의 약속까지 - 보홀은 그 자체로 하나의 커다란 이야기랍니다."
+    ],
+    "en": [
+      "In the middle of the Philippines, on a green island called Bohol, something magical rises from the ground - not one hill, but more than a thousand of them, popping up all over the countryside like a giant's row of candy kisses. They're famous the world over as the Chocolate Hills, and once a year, in the dry season, they turn a rich brown, like the whole island got dusted with cocoa powder.",
+      "Local legend says two giants once had a huge fight, hurling boulders and sand across Bohol for days until they got tired and became friends - leaving their mess behind as hundreds of hills. Another story tells of a giant named Arogo who cried over a lost love, and his giant tears dried into these hills. Scientists have their own less magical but no less amazing story: millions of years ago, Bohol lay under the sea. Coral and shells piled up, the land slowly rose from the ocean, and rain and rivers carved that stone into over a thousand cone-shaped hills.",
+      "Bohol keeps another wonder hidden in the shade of its forests: the tarsier, one of the smallest primates on Earth - so tiny it can perch on your hand, with eyes each bigger than its own brain! Tarsiers have barely changed in 45 million years, so scientists call them living fossils. They can spin their heads almost all the way around like little owls, and they leap through the trees in total silence.",
+      "Bohol also holds one of the friendliest moments in Philippine history. In 1565, a local chief named Datu Sikatuna and a Spanish explorer named Miguel López de Legazpi wanted to become friends instead of enemies. So they each let a drop of their blood fall into a cup of wine, and drank it together as a promise of peace - one of the very first friendship treaties in the country's history. Chocolate hills, huge-eyed tarsiers, and a handshake sealed in a cup - that's Bohol, an island that's really one giant story."
+    ],
+    "ja": [
+      "フィリピンのちょうど真ん中に、『ボホール』という緑豊かな島があります。そこには不思議な丘がなんと1000個以上もならんでいて、まるで巨人がチョコレート菓子をたくさん並べたみたいに、あちこちにぽこぽこ盛り上がっているのです。人々はこの丘を『チョコレートヒルズ』と呼んでいます。乾季になると草の色が茶色に変わり、島全体にココアパウダーをふりかけたように見えるんですよ。",
+      "昔話によると、二人の巨人が大げんかをして、何日も岩や土を投げ合ったあげく疲れ果てて仲直りし、そのとき散らかった土くれが何百もの丘になったそうです。また別の伝説では、アロゴという巨人が失恋して流した大きな涙が固まって丘になったとも言われています。科学者たちの説明は少しちがいますが、これもまた驚きです。大昔、ボホールは海の底にありました。サンゴや貝がらが積み重なり、やがて陸地がゆっくりと海の上にせり上がってきたのです。そのあと雨と川が長い年月をかけて岩を削り、今の1000以上のぽっこりした丘を作り出しました。",
+      "ボホールの森の陰には、もう一つの宝物が隠れています。世界で最も小さいサルの仲間、『メガネザル(ターシャ)』です。手のひらにちょこんとのるほど小さいのに、目は自分の脳より大きいんです!ターシャは4500万年前からほとんど姿を変えていないので、『生きた化石』とも呼ばれます。フクロウのように首をほぼ一回転させることができ、木々の間を音もなくぴょんぴょん跳びまわります。",
+      "ボホールには、フィリピンの歴史でいちばん心温まる瞬間も刻まれています。1565年、この地の首長だったダトゥ・シカトゥナと、スペインの探検家レガスピは、敵ではなく友になりたいと考えました。そこで二人はそれぞれ指先の血を一滴ずつワインの杯に落とし、それを一緒に飲み干したのです。これはフィリピンの歴史でもっとも早い『友情の誓い』のひとつでした。チョコレートの丘、大きな目のターシャ、そして杯に交わした友情の約束 - ボホールはまるごと一つの大きな物語なのです。"
+    ],
+    "zh": [
+      "在菲律宾正中央,有一座绿意盎然的岛屿叫“薄荷岛”(Bohol)。岛上藏着一个奇妙景象——一千多座小山丘像巨人摆放的巧克力糖果一样,一颗颗从大地上鼓起来。人们把它们叫做“巧克力山”。每到旱季,草色转成棕褐色,整座岛就像被撒上了一层可可粉。",
+      "传说古时候有两个巨人大吵一架,一连好几天互相投掷石头和泥土,直到累得筋疲力尽才握手言和,而他们扔下的那些土堆,后来就变成了数百座小山丘。还有一个传说讲,一位名叫阿罗戈的巨人因为失恋而哭泣,他那巨大的泪水凝固后也变成了这些山丘。科学家的解释虽然少了些魔法,却同样令人惊叹:很久很久以前,薄荷岛还沉在海底,珊瑚和贝壳一层层堆积,陆地慢慢从海中隆起。之后,雨水和河流花了漫长岁月雕刻这片石灰岩,才形成了今天这一千多座圆锥形的小山丘。",
+      "薄荷岛的树荫深处,还藏着另一件珍宝——世界上最小的灵长类动物之一,眼镜猴(跗猴)。它小到能蜷在你的手掌心里,一双眼睛却大得超过了它自己的大脑!跗猴在四千五百万年里几乎没有变化,因此被称为“活化石”。它能像猫头鹰一样把头几乎转一整圈,还能在树枝间悄无声息地跳来跳去。",
+      "薄荷岛还铭刻着菲律宾历史上最温暖的一刻。1565年,当地酋长达图·西卡图纳与西班牙探险家黎牙实比,不想成为敌人,而想成为朋友。于是两人各自将一滴指尖的血滴入一杯葡萄酒中,一同举杯共饮,立下和平的约定——这是菲律宾历史上最早的“友谊盟约”之一。巧克力山、大眼睛的跗猴,还有杯中缔结的友谊——薄荷岛本身,就是一个巨大的故事。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "초콜릿 힐은 무려 1,776개나 있대요! 약 50제곱킬로미터 벌판에 흩어져 있는데, 크기와 모양이 거의 다 비슷하답니다.",
+      "언덕은 일 년 내내 초록빛이다가, 건기에만 잠깐 갈색으로 변해요. 그래서 '초콜릿'이라는 이름이 붙었죠.",
+      "타르시어는 세상에서 가장 작은 원숭이 중 하나예요. 몸은 손바닥에 쏙 들어갈 만큼 작은데, 눈알 하나가 자기 뇌보다 크답니다!",
+      "타르시어는 4500만 년 동안 거의 변하지 않아서 '살아있는 화석'이라고 불려요.",
+      "로복 강에서는 물 위에 뜬 식당을 타고 강을 내려가는데, 강가에서 아이들이 노래하며 손을 흔들고 대나무 다리가 흔들거려요.",
+      "1565년, 이 지역 추장과 스페인 탐험가는 보홀에서 역사상 최초의 우정 조약을 맺었어요. 각자 핏방울을 포도주에 섞어 함께 마시며 약속했답니다."
+    ],
+    "en": [
+      "There are said to be as many as 1,776 Chocolate Hills, spread across roughly 50 square kilometers - and they're all almost exactly the same size and shape.",
+      "The hills stay green most of the year and only turn chocolate-brown during the dry season - that's how they got their sweet nickname.",
+      "A tarsier is one of the smallest primates in the world. Its whole body fits in your palm, but each of its eyeballs is bigger than its brain!",
+      "Tarsiers have barely changed in 45 million years, so scientists call them 'living fossils.'",
+      "On the Loboc River, floating restaurants drift past singing, waving children and swaying bamboo bridges along the banks.",
+      "In 1565, a local chief and a Spanish explorer sealed history's first friendship treaty on Bohol by mixing drops of their blood into wine and drinking it together."
+    ],
+    "ja": [
+      "チョコレートヒルズは、なんと1,776個もあると言われています!約50平方キロメートルの範囲に広がっていて、大きさも形もほとんどそっくりなんです。",
+      "丘は一年のほとんどは緑色ですが、乾季のあいだだけ茶色に変わります。それで『チョコレート』という名前がついたんですよ。",
+      "ターシャは世界で最も小さいサルの仲間の一つ。体は手のひらに収まるほど小さいのに、目玉ひとつが自分の脳より大きいんです!",
+      "ターシャは4500万年もの間ほとんど姿を変えていないので、『生きた化石』と呼ばれています。",
+      "ロボック川では水に浮かぶレストランに乗って川下りができ、岸辺では子どもたちが歌って手を振り、竹の吊り橋がゆらゆら揺れます。",
+      "1565年、この地の首長とスペインの探検家は、ボホールで歴史上最初の『友情の誓い』を交わしました。それぞれの血を一滴ワインに落とし、共に飲み干して約束したのです。"
+    ],
+    "zh": [
+      "巧克力山据说多达1,776座!它们分布在约50平方公里的范围内,大小和形状几乎都一模一样。",
+      "这些山丘一年大部分时间是绿色的,只有旱季才会变成巧克力般的棕色,这也是它们名字的由来。",
+      "跗猴是世界上最小的灵长类动物之一。它的身体小到能蜷进你的手掌心,可一颗眼球却比它的大脑还大!",
+      "跗猴在四千五百万年间几乎没有变化,因此被称为“活化石”。",
+      "在洛博河上可以乘坐水上浮动餐厅顺流而下,岸边孩子们唱歌挥手,竹制吊桥随风轻轻摇晃。",
+      "1565年,当地酋长与西班牙探险家在薄荷岛缔结了历史上最早的“友谊盟约”之一——各自将一滴血滴入葡萄酒中,一同饮下立誓。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "거인이 흘린 눈물이 진짜로 초콜릿 색깔 언덕 1000개가 될 수 있을까?",
+    "en": "What if a giant's tears could turn into a thousand chocolate-colored hills?",
+    "ja": "巨人の涙が、本当にチョコレート色の丘1000個になったりするのかな?",
+    "zh": "如果巨人的眼泪真的能变成一千座巧克力色的山丘,你相信吗?"
+  },
+  "places": [
+    {
+      "name": { "ko": "초콜릿 힐 전망대", "en": "Chocolate Hills Complex", "ja": "チョコレートヒルズ展望台", "zh": "巧克力山观景台" },
+      "blurb": {
+        "ko": "봉긋한 언덕 1000개가 들판 가득 펼쳐진 곳이에요. 해질 무렵 전망대에 오르면 언덕들이 황금빛으로 물드는데, 정말 거인이 만든 것처럼 신비롭답니다.",
+        "en": "More than a thousand mound-shaped hills spread across the fields here, all nearly the same size. Climb the viewing deck at sunset and watch them glow gold before the light fades - it's easy to see why people believed giants made them.",
+        "ja": "丘のような形をした1000以上の山が野原いっぱいに広がっています。夕暮れに展望台にのぼると、丘が黄金色に輝き、まるで巨人が作ったかのような神秘的な景色が見られます。",
+        "zh": "一千多座圆润的小山丘铺满了整片田野。傍晚爬上观景台,能看到山丘被染成金色,难怪人们相信这是巨人的杰作。"
+      },
+      "coords": [9.8306, 124.1636]
+    },
+    {
+      "name": { "ko": "타르시어 보호구역 (코렐라)", "en": "Philippine Tarsier Sanctuary", "ja": "フィリピンメガネザル保護区", "zh": "菲律宾跗猴保护区" },
+      "blurb": {
+        "ko": "진짜 타르시어를 만날 수 있는 조용한 숲속 보호구역이에요. 커다란 눈을 깜빡이며 나뭇가지에 매달려 있는데, 방문객은 소곤소곤 말하고 플래시는 절대 터뜨리면 안 돼요. 타르시어가 깜짝 놀라기 쉽거든요.",
+        "en": "A quiet forest sanctuary where you can spot real tarsiers clinging to branches, their huge eyes blinking in the shade. Visitors must whisper and skip the camera flash, because tarsiers are shy and easily startled.",
+        "ja": "本物のターシャに会える静かな森の保護区。大きな目をぱちぱちさせながら枝につかまっています。ターシャは臆病でおどろきやすいので、訪れる人はささやき声で話し、フラッシュも使ってはいけません。",
+        "zh": "一处安静的森林保护区,可以近距离看到真正的跗猴挂在树枝上,眨着大大的眼睛。因为跗猴胆子很小容易受惊,游客必须轻声细语,也不能使用闪光灯拍照。"
+      },
+      "coords": [9.7375, 123.9987]
+    },
+    {
+      "name": { "ko": "로복 강", "en": "Loboc River", "ja": "ロボック川", "zh": "洛博河" },
+      "blurb": {
+        "ko": "정글 사이를 굽이굽이 흐르는 잔잔한 초록빛 강이에요. 물 위에 뜬 식당을 타고 가면 노래하는 아이들과 흔들리는 대나무를 지나치는데, 필리핀에서 손꼽히게 아름다운 뱃놀이 코스랍니다.",
+        "en": "A calm green river winding through the jungle, famous for its floating restaurants that drift past singing children and swaying bamboo. It's one of the most beautiful boat rides in the whole Philippines.",
+        "ja": "ジャングルの中をゆるやかに流れる緑色の川。浮かぶレストランに乗ると、歌う子どもたちや揺れる竹林のそばを通り過ぎていきます。フィリピンでも屈指の美しい船旅です。",
+        "zh": "一条在丛林间蜿蜒流淌的平静绿色河流,以水上浮动餐厅闻名——乘船而下会经过唱歌的孩子和摇曳的竹林,是全菲律宾最美的乘船体验之一。"
+      },
+      "coords": [9.6423, 124.0325]
+    },
+    {
+      "name": { "ko": "혈맹 기념비", "en": "Blood Compact Shrine", "ja": "血の同盟記念碑", "zh": "血约纪念碑" },
+      "blurb": {
+        "ko": "1565년 다투 시카투나와 레가스피가 우정의 약속을 맺은 장소를 기념하는 곳이에요. 포도주에 핏방울을 나눠 넣고 함께 마셨던 이 사건은 필리핀 역사에서 가장 오래된 평화 조약 중 하나로 기록돼 있답니다.",
+        "en": "A monument marking the spot where Datu Sikatuna and Miguel López de Legazpi sealed their 1565 friendship pact with a shared cup of wine and blood. It's one of the very first peace treaties recorded in Philippine history.",
+        "ja": "1565年にダトゥ・シカトゥナとレガスピが友情の誓いを交わした場所を記念する記念碑。血を一滴ずつ落としたワインを分けあって飲んだこの出来事は、フィリピン史上最初期の平和条約の一つとして記録されています。",
+        "zh": "一座纪念碑,标记着1565年达图·西卡图纳与黎牙实比缔结友谊盟约的地点。他们共饮混有双方血滴的葡萄酒,这一事件被记录为菲律宾历史上最早的和平条约之一。"
+      },
+      "coords": [9.6517, 123.8563]
+    }
+  ]
+}

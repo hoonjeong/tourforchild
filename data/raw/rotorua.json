@@ -1,0 +1,120 @@
+{
+  "id": "rotorua",
+  "country": "nz",
+  "coords": [-38.1368, 176.2497],
+  "name": { "ko": "로토루아", "en": "Rotorua", "ja": "ロトルア", "zh": "罗托鲁瓦" },
+  "tagline": {
+    "ko": "땅이 부글부글 끓고, 쉭쉭 김을 내뿜으며, 저녁밥까지 지어주는 마을",
+    "en": "The town where the earth bubbles, hisses, and cooks your dinner",
+    "ja": "大地がぶくぶく沸き立ち、湯気を上げ、夕ごはんまで作ってくれる町",
+    "zh": "大地咕嘟冒泡、嘶嘶冒气、还能替你做晚饭的小镇"
+  },
+  "story": {
+    "ko": [
+      "뉴질랜드 북섬에는 땅 자체가 살아 숨 쉬는 듯한 마을이 있어요. 사람들 집 마당 틈에서 김이 모락모락 피어오르고, 진흙탕은 보글보글 끓는 수프처럼 부글거리며, 가끔은 뜨거운 물기둥이 하늘 높이 '펑!' 하고 솟구쳐요. 여기가 바로 로토루아랍니다. 맞아요, 이곳엔 살짝 썩은 달걀 냄새가 나는데, 유황 때문이에요! 현지 사람들은 그냥 '유황 도시'라고 부르며 대수롭지 않게 여긴답니다.",
+      "마오리 어른들은 왜 이 땅이 이렇게 뜨거운지 이야기해 주세요. 아주 먼 옛날, '응아토로이랑이'라는 위대한 사제가 통가리로 산의 얼음 봉우리에 올랐다가 얼어붙을 뻔했어요. 그는 바다 건너 고향 하와이키에 있는 누이들에게 불을 보내달라고 외쳤답니다. 그 불은 땅속 깊은 곳을 지나 그에게 왔는데, 지나가는 길마다 땅 위로 불쑥불쑥 솟아올랐대요. 그 불의 흔적 덕분에 뉴질랜드 이 일대, 그리고 로토루아까지 지금도 김과 온천이 땅에서 쉭쉭 솟아난다고 해요.",
+      "수백 년 동안 마오리 사람들은 이 뜨거운 땅과 싸우는 대신 함께 살아왔어요. 파카레와레와 마을에서는 지금도 가족들이 쉭쉭 김이 나는 구멍에 상자를 넣어 저녁밥을 짓고, 욕조 대신 따뜻한 온천에 몸을 담근답니다. 가스레인지 없이, 그냥 음식 바구니를 땅속에 내려놓기만 하면 땅이 알아서 요리해 준다니 신기하지 않나요?",
+      "1886년, 타라웨라 산이 어마어마하게 폭발해서 마을 하나를 통째로 묻어버리고, '세계 8번째 불가사의'라 불리던 아름다운 핑크·화이트 테라스까지 파괴해 버렸어요. 하지만 그 재앙 속에서 지구에서 가장 어린 지열 계곡, 와이망구 밸리가 새로 태어났고, 지금도 김을 뿜어낸답니다. 그리고 근처에서는 포후투 간헐천 같은 힘센 온천이 지금도 물기둥을 수십 미터나 하늘로 쏘아 올려요. 로토루아의 조용한 거리 밑에서 땅이 여전히 살아 움직이고 있다는 증거죠."
+    ],
+    "en": [
+      "On New Zealand's North Island there's a town where the ground itself is alive. Steam drifts up from cracks in people's backyards, mud pools blop and bubble like simmering soup, and every so often a fountain of hot water bursts high into the sky. Welcome to Rotorua — and yes, it smells a little like rotten eggs, because that's what sulfur does! Locals just call it 'Sulphur City' and shrug.",
+      "Māori elders tell a story of why the ground is so hot here. Long ago, a great priest named Ngātoroirangi climbed the icy peak of Mount Tongariro and nearly froze. He called across the ocean to his sisters back home in Hawaiki, begging for fire. The fire traveled to him deep underground, bursting up along the way — and that fiery trail is why steam and hot springs still hiss out of the earth all through this part of New Zealand, right up to Rotorua.",
+      "For hundreds of years, Māori communities have lived right alongside all that heat, not fighting it but using it. At Whakarewarewa village, families still cook dinner in steam boxes sunk into hissing vents, and bathe in warm pools instead of bathtubs. Imagine never needing a stove — just lower your basket of food into the ground and let the earth do the cooking!",
+      "In 1886, Mount Tarawera erupted so fiercely it buried a village and destroyed the famous Pink and White Terraces, once called the eighth wonder of the world. But out of that disaster grew Waimangu Valley, the youngest geothermal valley on Earth, still steaming today. And nearby, geysers like mighty Pōhutu still shoot water dozens of meters into the sky — proof that under Rotorua's calm streets, the earth is very much awake."
+    ],
+    "ja": [
+      "ニュージーランド北島には、大地そのものが生きているような町があります。庭のすき間からは湯気がゆらゆら立ちのぼり、泥だまりはスープのようにぶくぶくと沸き立ち、時おり熱いお湯の柱が空高く『ドッカーン』と噴き上がります。ここがロトルアです。そう、ちょっと腐った卵のようなにおいがするんです、これは硫黄のせい！地元の人たちはただ『硫黄の町』と呼んで、気にもとめません。",
+      "マオリの長老たちは、なぜこの土地がこんなに熱いのか教えてくれます。はるか昔、ンガトロイランギという偉大な祭司がトンガリロ山の凍える頂に登り、凍え死にそうになりました。彼は海の向こうの故郷ハワイキにいる姉妹たちに、火を送ってほしいと叫びました。その火は地の底深くを通ってやってきて、通り道のあちこちで地上に噴き出したのです。その炎の道すじのおかげで、ニュージーランドのこの一帯、そしてロトルアでも、今なお湯気や温泉が地面からシューシューと噴き出しているのですね。",
+      "何百年もの間、マオリの人々はこの熱い大地と戦うのではなく、うまく付き合ってきました。ファカレワレワ村では今も、家族がシューシューと湯気の出る穴に箱を沈めて夕食を作り、湯船の代わりに温かい池で体を温めます。ガスコンロもいらず、食べ物のかごを地面に下ろすだけで、大地が料理をしてくれるなんて不思議ですね！",
+      "1886年、タラウェラ山が激しく噴火し、村を一つまるごと埋め、『世界8番目の不思議』と呼ばれた美しいピンク＆ホワイトテラスまで壊してしまいました。けれどもその災害から、地球でいちばん若い地熱の谷、ワイマング・バレーが生まれ、今も湯気を上げ続けています。そして近くでは、力強いポフツ間欠泉のような温泉が今も何十メートルも水柱を空へ噴き上げます。ロトルアの静かな通りの下で、大地は今もしっかり生きているのです。"
+    ],
+    "zh": [
+      "在新西兰北岛，有一座仿佛大地本身都在呼吸的小镇。后院的裂缝里飘出袅袅蒸汽，泥浆池像炖汤一样咕嘟咕嘟冒泡，时不时还会有一股滚烫的水柱“轰”地冲向天空。这里就是罗托鲁瓦。没错，这里空气里带着一点臭鸡蛋味，那是硫磺的味道！当地人干脆把它叫作“硫磺城”，一点也不介意。",
+      "毛利长辈们会讲述这片土地为何如此炽热的故事。很久很久以前，一位名叫恩加托罗朗吉的伟大祭司登上了通加里罗山冰冷的山顶，差点被冻僵。他隔着大海向故乡哈瓦基的姐妹们呼喊，求她们送来火种。那团火穿过地底深处赶来救他，一路上不断从地面冒出——正是这条火焰之路，让新西兰这一带、直到罗托鲁瓦，至今仍不断从地下喷出蒸汽与温泉。",
+      "几百年来，毛利人从不与这片炽热的土地对抗，而是与它共处。在瓦卡雷瓦雷瓦村，至今仍有家庭把箱子放进嘶嘶冒气的地热口里做晚饭，用温热的池水代替浴缸泡澡。不用炉灶，只要把装食物的篮子放进地里，大地就会替你把饭煮好——是不是很神奇？",
+      "1886年，塔拉威拉火山猛烈喷发，整座村庄被掩埋，就连曾被称为“世界第八大奇迹”的粉红白色台地也被摧毁了。但正是从这场灾难中，诞生了地球上最年轻的地热山谷——怀芒古山谷，至今仍热气腾腾。附近，强劲的波胡图间歇泉等温泉，如今依然把水柱喷向几十米高的天空。这一切都证明，在罗托鲁瓦宁静的街道之下，大地依然生机勃勃。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "로토루아 공기엔 유황 때문에 살짝 썩은 달걀 냄새가 나요. 그래서 별명이 '유황 도시'랍니다.",
+      "포후투 간헐천은 하루에도 20번 넘게 뿜어져 나오는데, 어떤 날은 물기둥이 30미터까지 치솟아요.",
+      "레이디 녹스 간헐천은 매일 아침 정해진 시간에 '공연'을 해요. 관리인이 비누를 살짝 넣으면 물의 표면장력이 깨지면서 딱 맞춰 뿜어져 나온답니다.",
+      "샴페인 풀은 축구장만큼이나 넓은데, 땅 밑에서 올라오는 광물 때문에 가장자리가 새빨간 주황빛으로 물들어 있어요.",
+      "마오리 가족들은 수백 년 동안 뜨거운 땅에 박은 '항이' 찜통으로 음식을 요리해 왔어요. 불 없이도 되는 천연 오븐인 셈이죠.",
+      "1886년 타라웨라 화산 폭발로 유명한 핑크·화이트 테라스는 파괴됐지만, 대신 지구에서 가장 어린 지열 계곡인 와이망구 밸리가 새로 생겨났어요."
+    ],
+    "en": [
+      "Rotorua smells a bit like rotten eggs because of all the sulfur in the air — locals nicknamed it 'Sulphur City.'",
+      "Pōhutu Geyser can erupt more than 20 times a day, sometimes shooting water 30 meters high.",
+      "Lady Knox Geyser 'performs' on a schedule every morning — a ranger adds a pinch of soap, which breaks the water's surface tension and sets it off right on cue.",
+      "The Champagne Pool is nearly as wide as a soccer field, its bright orange rim colored by minerals bubbling up from below.",
+      "Māori families have cooked meals for centuries using 'hāngī' steam boxes sunk right into the hot ground — a natural oven with no fire needed.",
+      "The 1886 eruption of Mount Tarawera destroyed the famous Pink and White Terraces but created Waimangu Valley — the youngest geothermal valley on Earth."
+    ],
+    "ja": [
+      "ロトルアの空気は硫黄のせいでほんのり腐った卵のようなにおいがします。だから『硫黄の町』というあだ名がついています。",
+      "ポフツ間欠泉は1日に20回以上も噴き出すことがあり、多い時は水柱が30メートルの高さまで上がります。",
+      "レディ・ノックス間欠泉は毎朝決まった時間に『ショー』をします。係の人が石けんを少し入れると水の表面張力がこわれて、ぴったりのタイミングで噴き出すのです。",
+      "シャンパンプールはサッカー場ほど広く、地下から上がってくる鉱物のせいで縁が鮮やかなオレンジ色に染まっています。",
+      "マオリの家族たちは何百年もの間、熱い地面にうめこんだ『ハンギ』という蒸し箱で料理をしてきました。火を使わない天然のオーブンですね。",
+      "1886年のタラウェラ山噴火で有名なピンク＆ホワイトテラスは壊れてしまいましたが、代わりに地球でいちばん若い地熱の谷、ワイマング・バレーが生まれました。"
+    ],
+    "zh": [
+      "罗托鲁瓦的空气里带着一点臭鸡蛋味，都是硫磺惹的祸，所以这里得了个外号叫“硫磺城”。",
+      "波胡图间歇泉一天能喷发20多次，有时水柱能冲到30米高。",
+      "诺克斯女士间歇泉每天早上都会准时“表演”：管理员放一点点肥皂，打破水的表面张力，它就会准时喷发。",
+      "香槟池差不多有一个足球场那么宽，边缘因为地下涌上来的矿物质而染成鲜艳的橙色。",
+      "毛利人几百年来一直用埋在热地里的“航吉”蒸箱来做饭——完全不用生火的天然烤箱。",
+      "1886年塔拉威拉火山喷发摧毁了著名的粉红白色台地，却也造就了地球上最年轻的地热山谷——怀芒古山谷。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "저녁밥을 그냥 땅속에 내려놓기만 해도 익는 마을에서 살아보고 싶니?",
+    "en": "Would you want to live in a town where you could cook your dinner just by lowering it into the ground?",
+    "ja": "夕ごはんを地面に下ろすだけで作れる町に住んでみたい？",
+    "zh": "如果晚饭只要放进地里就能煮熟，你想住在这样的小镇吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "테 푸이아", "en": "Te Puia", "ja": "テ・プイア", "zh": "蒂普亚" },
+      "blurb": {
+        "ko": "힘센 포후투 간헐천이 있는 곳으로, 하루에도 여러 번 끓는 물을 하늘 수십 미터 높이로 뿜어 올려요. 동시에 살아 있는 마오리 예술 학교이기도 해서, 젊은 조각가와 직조공들이 대대로 이어져 온 기술을 배운답니다.",
+        "en": "Home to the mighty Pōhutu Geyser, which can shoot boiling water dozens of meters into the sky several times a day. It's also a living school of Māori arts, where young carvers and weavers learn the same skills passed down for generations.",
+        "ja": "力強いポフツ間欠泉があり、1日に何度も沸騰したお湯を数十メートルの高さまで噴き上げます。同時に生きたマオリ芸術の学校でもあり、若い彫刻家や織物職人が代々受け継がれた技を学んでいます。",
+        "zh": "这里是强劲的波胡图间歇泉的家园，一天能好几次把滚烫的水喷到几十米高的空中。它同时也是一所“活的”毛利艺术学校，年轻的雕刻师和编织匠在这里学习代代相传的手艺。"
+      },
+      "coords": [-38.1614, 176.2667]
+    },
+    {
+      "name": { "ko": "파카레와레와 마을", "en": "Whakarewarewa Living Māori Village", "ja": "ファカレワレワ・リビング・マオリ・ヴィレッジ", "zh": "瓦卡雷瓦雷瓦毛利村" },
+      "blurb": {
+        "ko": "마오리 가족들이 대를 이어 김과 온천 사이에서 살아온 진짜 마을이에요. 가스레인지 대신 땅의 열로 요리를 하죠. 마을을 걷다 보면 누군가의 앞마당에서 항이 찜통이 김을 뿜으며 저녁을 짓는 모습을 볼 수도 있어요.",
+        "en": "A real neighborhood where Māori families have lived among the steam and hot pools for generations, cooking with the earth's natural heat instead of a stove. Walk through and you might see dinner steaming away in a hāngī box right in someone's front yard.",
+        "ja": "マオリの家族が代々、湯気と温泉のそばで暮らしてきた本物の集落です。ガスコンロの代わりに大地の熱で料理をします。村を歩くと、誰かの前庭でハンギの箱が湯気を上げて夕食を作っているのが見られるかもしれません。",
+        "zh": "这是一个毛利家庭世代生活在蒸汽与温泉之间的真实社区，他们用大地的天然热量做饭，而不是用炉灶。走在村子里，你可能会看到谁家前院的航吉蒸箱正冒着热气准备晚餐。"
+      },
+      "coords": [-38.1651, 176.2519]
+    },
+    {
+      "name": { "ko": "와이오타푸 지열 원더랜드", "en": "Wai-O-Tapu Thermal Wonderland", "ja": "ワイオタプ・サーマル・ワンダーランド", "zh": "怀奥塔普地热奇境" },
+      "blurb": {
+        "ko": "샴페인 풀처럼 유명한 주황빛 온천을 포함해 무지개색 온천이 가득한 곳이에요. 매일 아침, 레이디 녹스 간헐천은 관리인의 작은 도움 덕분에 정확한 시간에 맞춰 '공연'을 펼친답니다.",
+        "en": "A rainbow-colored wonderland of hot springs, including the famous orange-rimmed Champagne Pool. Every morning, Lady Knox Geyser puts on a scheduled show, right on time thanks to a little help from a park ranger.",
+        "ja": "有名なオレンジ色のふちを持つシャンパンプールをはじめ、虹色の温泉が広がるワンダーランドです。毎朝、レディ・ノックス間欠泉は係員のちょっとした手助けで、時間ぴったりに『ショー』を見せてくれます。",
+        "zh": "这里是一片色彩缤纷的温泉奇境，包括著名的橙色边缘香槟池。每天早上，诺克斯女士间歇泉都会在管理员的小小帮助下准时“表演”喷发。"
+      },
+      "coords": [-38.3573, 176.3606]
+    },
+    {
+      "name": { "ko": "와이망구 화산 계곡", "en": "Waimangu Volcanic Valley", "ja": "ワイマング火山渓谷", "zh": "怀芒古火山谷" },
+      "blurb": {
+        "ko": "1886년 타라웨라 화산의 거대한 폭발로 태어난, 지구에서 가장 어린 지열 계곡이에요. 김이 피어오르는 호수와 분화구를 지나 걸으며, 단 하룻밤 만에 온 땅을 바꿔놓은 화산을 상상해 보세요.",
+        "en": "Born from the huge 1886 eruption of Mount Tarawera, this is the youngest geothermal valley on Earth. Walk past steaming lakes and craters and imagine the volcano that reshaped the whole landscape in a single night.",
+        "ja": "1886年のタラウェラ山の大噴火から生まれた、地球でいちばん若い地熱の谷です。湯気の立つ湖や噴火口のそばを歩きながら、たった一晩で景色をすっかり変えてしまった火山を想像してみてください。",
+        "zh": "这里诞生于1886年塔拉威拉火山的巨大喷发，是地球上最年轻的地热山谷。走过冒着热气的湖泊与火山口，想象一下那座在一夜之间彻底改变整片土地的火山吧。"
+      },
+      "coords": [-38.2822, 176.3833]
+    }
+  ]
+}

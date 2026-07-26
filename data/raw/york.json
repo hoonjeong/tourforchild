@@ -1,0 +1,120 @@
+{
+  "id": "york",
+  "country": "gb",
+  "coords": [53.9600, -1.0873],
+  "name": { "ko": "요크", "en": "York", "ja": "ヨーク", "zh": "约克" },
+  "tagline": {
+    "ko": "로마의 요새, 바이킹의 항구, 고딕 대성당의 도시 — 이름이 세 번 바뀐 영국 도시",
+    "en": "The English city with three names: Roman fortress, Viking port, Gothic cathedral town",
+    "ja": "ローマの砦、バイキングの港、ゴシック大聖堂の街 ― 名前が三度変わったイギリスの街",
+    "zh": "罗马要塞、维京港口、哥特大教堂之城——一座换了三次名字的英国城市"
+  },
+  "story": {
+    "ko": [
+      "2000년 전, 로마 병사들이 북쪽 브리튼 섬까지 행진해 와서 두 강이 만나는 자리에 요새를 세웠어요. 그들은 이곳을 '에보라쿰'이라고 불렀는데, 로마 제국 전체에서도 손꼽히게 중요한 기지가 되었답니다. 황제들도 이곳을 찾아왔는데, 콘스탄티누스 대제는 바로 이 요새에서 로마의 새 황제로 선포되었어요.",
+      "몇 백 년이 지난 뒤, 사나운 뱃사람 바이킹들이 강을 거슬러 올라와 이 도시를 차지했어요. 그들은 도시 이름을 '요르빅'으로 바꾸고, 멀리서 온 비단과 은, 호박을 파는 상인들로 북적이는 무역 도시로 만들었죠. 바이킹이 떠난 지 한참 뒤, 고고학자들이 거리 밑을 깊이 파 내려가 보니 진흙 속에 그대로 남은 바이킹 마을 전체가 나타났어요. 집도, 장난감도, 낡은 신발까지 고스란히요!",
+      "중세 시대에는 사람들이 도시 전체를 빙 둘러싼 튼튼한 돌 성벽을 쌓았는데, 그 대부분이 지금도 그대로 서 있어요. 도시 한가운데에는 '요크 민스터'라는 거대한 성당을 세웠는데, 북유럽에서 가장 큰 고딕 성당 중 하나랍니다. 완성하는 데만 250년이 넘게 걸렸고, 커다란 스테인드글라스 창문은 햇빛이 비치면 보석처럼 반짝인답니다.",
+      "오늘날 요크에는 케이크처럼 여러 겹으로 옛 이름들이 숨어 있어요. '섐블스'라는 좁고 구불구불한 골목을 걸어보면, 진짜 중세 거리를 걷는 듯한 기분이 드는데, 어찌나 신비로운지 해리 포터의 '다이애건 앨리'에 영감을 주었다고 해요. 로마, 바이킹, 중세 — 요크에서는 도시를 떠나지 않고도 세 개의 다른 세상을 만날 수 있답니다!"
+    ],
+    "en": [
+      "Two thousand years ago, Roman soldiers marched north into Britain and built a fortress where two rivers met. They called it Eboracum, and it became one of the most important bases in the whole Roman Empire. Emperors even visited — one, Constantine the Great, was declared ruler of Rome right there in the fortress.",
+      "Centuries later, fierce sailors called Vikings rowed up the river and took the city for themselves. They renamed it Jorvik and turned it into a busy trading town, packed with merchants selling silk, silver, and amber from lands far away. Long after the Vikings left, archaeologists dug deep under the streets and found an entire Viking neighborhood, perfectly preserved in the mud — houses, toys, even old shoes.",
+      "Then, in the Middle Ages, people built a ring of stone walls around the whole city — walls so strong that most of them still stand today. Right in the center, they raised a giant cathedral called York Minster, one of the largest Gothic churches in all of Northern Europe. It took more than 250 years to finish, and its enormous stained-glass windows glow like jewels when the sun shines through.",
+      "Today, the city still carries all its old names hidden inside it, layer upon layer like a cake. Walk down the narrow, crooked street called the Shambles, and you're strolling through a real medieval lane so magical it helped inspire Diagon Alley in Harry Potter. Roman, Viking, medieval — in York, you can visit three different worlds without ever leaving town!"
+    ],
+    "ja": [
+      "2000年前、ローマの兵士たちがブリテン島の北まで進み、二つの川が出会う場所にとりでを築きました。彼らはそこを『エボラクム』と呼び、ローマ帝国の中でも指折りの重要な基地にしました。皇帝たちもここを訪れ、コンスタンティヌス大帝はまさにこのとりでで、ローマの新しい皇帝として宣言されたのです。",
+      "それから何百年もたって、勇ましい船乗りバイキングたちが川をさかのぼり、この街を自分たちのものにしました。彼らは街の名前を『ヨルヴィク』に変え、遠い国から来た絹や銀、琥珀を売る商人でにぎわう交易の街に育てました。バイキングが去ってからずっと後、考古学者たちが通りの下を深くほったところ、泥の中にそのまま残ったバイキングの町がまるごと現れました。家も、おもちゃも、古い靴までそのままに！",
+      "中世になると、人々は街全体をぐるりと囲む頑丈な石の城壁を築き、その大部分は今も残っています。街の真ん中には『ヨーク・ミンスター』という巨大な大聖堂が建てられ、北ヨーロッパでも最大級のゴシック様式の教会になりました。完成までに250年以上かかり、大きなステンドグラスの窓は日が差すと宝石のように輝きます。",
+      "今のヨークには、ケーキのように何層にも昔の名前が重なっています。『シャンブルズ』という細くて曲がりくねった小道を歩くと、まるで本物の中世の街を歩いているような気分になり、あまりに幻想的なので、ハリー・ポッターの『ダイアゴン横丁』のヒントになったともいわれます。ローマ、バイキング、中世――ヨークでは、街を出ることなく三つの違う世界を訪れることができるのです！"
+    ],
+    "zh": [
+      "两千年前，罗马士兵一路向北进入不列颠，在两条河流交汇的地方建起了一座要塞。他们把它叫做“埃波拉库姆”，这里后来成了整个罗马帝国最重要的基地之一。就连皇帝们也来过这里——君士坦丁大帝正是在这座要塞里被宣布为罗马新皇帝的。",
+      "几百年后，勇猛的维京水手们沿河而上，占领了这座城市。他们把城市改名为“约尔维克”，把它变成了一个热闹的贸易之城，商人们在这里售卖来自远方的丝绸、白银和琥珀。维京人离开很久以后，考古学家们在街道下深挖，竟发现了整整一片完好保存在泥土中的维京村落——房屋、玩具，甚至旧鞋子都还在！",
+      "到了中世纪，人们围着整座城市建起了坚固的石头城墙，如今大部分城墙依然屹立。在城市正中央，人们建起了一座名叫“约克大教堂”的巨大教堂，是北欧最大的哥特式教堂之一。它足足花了250多年才建成，巨大的彩色玻璃窗在阳光照耀下像宝石一样闪闪发光。",
+      "如今的约克，就像一块层层叠叠的蛋糕，把从前的名字都藏在了身体里。走进一条叫“肉铺街”的狭窄弯曲小巷，你会感觉自己真的走进了中世纪的街道——它太有魔力了，据说还启发了《哈利·波特》里的对角巷。罗马、维京、中世纪——在约克，你不用离开这座城市，就能造访三个不同的世界！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "요크는 역사 속에서 이름을 세 번이나 바꿨어요. 로마 시대엔 '에보라쿰', 바이킹 시대엔 '요르빅', 지금은 '요크'랍니다.",
+      "요크의 성벽은 옛 시가지를 5킬로미터 가까이 빙 둘러싸고 있어요. 영국에서 가장 완전하게 남아 있는 중세 성벽인데, 한 바퀴를 걸어서 다 돌 수도 있답니다!",
+      "요크 민스터의 커다란 동쪽 창문은 테니스 코트만큼 크고, 600년도 더 된 중세 스테인드글라스로 만들어졌어요.",
+      "요르빅 바이킹 센터에서는 작은 타임머신 차를 타고 되살린 바이킹 거리를 지나가요. 서기 960년의 소리는 물론, 냄새까지 그대로 느낄 수 있답니다!",
+      "서기 306년, 콘스탄티누스 대제가 바로 요크에서 로마 황제로 선포되었어요. 이 일은 로마 제국 전체를 바꿔놓았답니다.",
+      "섐블스 거리는 위층 건물들이 너무 가까워서, 맞은편 이웃과 창문 너머로 악수를 할 수 있을 정도예요."
+    ],
+    "en": [
+      "York has worn three different names across history: Roman Eboracum, Viking Jorvik, and today's York.",
+      "The city walls stretch nearly 5 kilometers around the old town — the longest complete medieval walls in all of England, and you can walk the whole loop!",
+      "York Minster's Great East Window is roughly the size of a tennis court, made of medieval stained glass over 600 years old.",
+      "At the JORVIK Viking Centre, little time-travel cars carry visitors through a rebuilt Viking street — complete with the sounds, and even the smells, of the year 960!",
+      "In 306 AD, Constantine the Great was declared Roman Emperor right in York — a decision that changed the whole empire.",
+      "The Shambles' upper floors lean so close together that neighbors across the street could almost shake hands out of their windows."
+    ],
+    "ja": [
+      "ヨークは歴史の中で名前を三回変えました。ローマ時代は『エボラクム』、バイキング時代は『ヨルヴィク』、そして今は『ヨーク』です。",
+      "ヨークの城壁は旧市街を約5キロにわたって囲んでいます。イングランドで最も完全な形で残る中世の城壁で、ぐるっと一周歩くこともできます！",
+      "ヨーク・ミンスターの大きな東の窓は、テニスコートほどの大きさがあり、600年以上前の中世のステンドグラスでできています。",
+      "ヨルヴィク・バイキング・センターでは、小さなタイムトラベルカーに乗って再現されたバイキングの通りを進みます。西暦960年の音はもちろん、においまでそのまま感じられます！",
+      "西暦306年、コンスタンティヌス大帝はまさにヨークでローマ皇帝に宣言されました。この出来事はローマ帝国全体を変えました。",
+      "シャンブルズ通りは上の階の建物がとても近く、向かいの家の人と窓ごしに握手できそうなほどです。"
+    ],
+    "zh": [
+      "约克在历史上换过三个名字：罗马时代叫“埃波拉库姆”，维京时代叫“约尔维克”，如今叫“约克”。",
+      "约克的城墙绕着老城将近5公里长，是全英格兰保存最完整的中世纪城墙，你甚至可以绕着走完整整一圈！",
+      "约克大教堂那扇巨大的东面花窗，差不多有一个网球场那么大，用的是600多年前的中世纪彩色玻璃。",
+      "在约尔维克维京中心，小小的时光穿梭车会载着你穿过重建的维京街道——公元960年的声音，甚至气味，都能真实地感受到！",
+      "公元306年，君士坦丁大帝正是在约克被宣布为罗马皇帝，这件事改变了整个罗马帝国。",
+      "肉铺街两旁楼房的上层靠得非常近，对面邻居几乎可以从窗户里伸手握手。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "작은 도시 하나가 2000년 동안 이름을 세 번이나 바꿨대요. 로마, 바이킹, 영국 — 왜 그랬을지 맞혀볼래?",
+    "en": "One little city has worn three different names in 2,000 years — Roman, Viking, and English. Can you guess why?",
+    "ja": "小さな街が2000年の間に名前を三回も変えたんだって。ローマ、バイキング、イギリス――どうしてか当ててみる？",
+    "zh": "一座小城市，两千年里换了三个名字——罗马、维京、英国。你能猜到为什么吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "요크 민스터", "en": "York Minster", "ja": "ヨーク・ミンスター", "zh": "约克大教堂" },
+      "blurb": {
+        "ko": "북유럽에서 가장 큰 고딕 성당 중 하나예요. 250년 넘게 걸려 완성됐고, 커다란 스테인드글라스 창문 너머로 색색깔 햇빛이 쏟아진답니다. 성당 지하에는 로마 시대 요새의 흔적도 남아 있어요.",
+        "en": "One of the largest Gothic cathedrals in Northern Europe, it took over 250 years to build. Sunlight pours through its huge stained-glass windows in every color of the rainbow. Down in its undercroft, you can still see the remains of the old Roman fortress underneath.",
+        "ja": "北ヨーロッパでも最大級のゴシック様式の大聖堂。完成までに250年以上かかり、大きなステンドグラスの窓から色とりどりの光がふりそそぎます。地下には昔のローマ要塞の跡も残っています。",
+        "zh": "北欧最大的哥特式教堂之一，足足花了250多年才建成。阳光透过巨大的彩色玻璃窗洒下五彩斑斓的光芒。教堂地下室里，至今还留着古罗马要塞的遗迹。"
+      },
+      "coords": [53.9623, -1.0820]
+    },
+    {
+      "name": { "ko": "요르빅 바이킹 센터", "en": "JORVIK Viking Centre", "ja": "ヨルヴィク・バイキング・センター", "zh": "约尔维克维京中心" },
+      "blurb": {
+        "ko": "고고학자들이 실제로 파낸 바이킹 마을 자리 위에 세워졌어요. 작은 타임머신 차를 타고 서기 960년의 요르빅 거리를 지나가면서, 그때의 소리와 냄새까지 느껴볼 수 있답니다.",
+        "en": "Built right on top of the real site where archaeologists dug up a Viking neighborhood. Ride a little time-travel car through Jorvik as it looked in the year 960 — sounds, sights, and even smells included!",
+        "ja": "考古学者たちが実際にバイキングの村を発掘した場所の真上に建てられました。小さなタイムトラベルカーに乗って西暦960年のヨルヴィクの通りを進み、当時の音やにおいまで感じられます。",
+        "zh": "就建在考古学家真正挖出维京村落的原址之上。乘坐小小的时光穿梭车穿过公元960年模样的约尔维克街道，连当时的声音和气味都能感受到！"
+      },
+      "coords": [53.9584, -1.0805]
+    },
+    {
+      "name": { "ko": "섐블스 거리", "en": "The Shambles", "ja": "シャンブルズ", "zh": "肉铺街（Shambles）" },
+      "blurb": {
+        "ko": "좁고 구불구불한 진짜 중세 골목이에요. 옛날엔 정육점들이 늘어서 있었는데, 위층 건물들이 서로 너무 가까워서 마주 보는 이웃끼리 손을 뻗으면 닿을 정도랍니다. 해리 포터의 다이애건 앨리에 영감을 준 곳으로도 유명해요.",
+        "en": "A real, narrow, crooked medieval lane once lined with butcher shops. The upper floors of the buildings lean so close together that neighbors across the street could almost touch hands. It's famous for helping inspire Diagon Alley in Harry Potter.",
+        "ja": "本物の細くて曲がりくねった中世の路地で、昔は精肉店が並んでいました。建物の上の階同士がとても近く、向かいの家の人と手が届きそうなほど。ハリー・ポッターの『ダイアゴン横丁』のヒントになったことでも有名です。",
+        "zh": "一条真正狭窄弯曲的中世纪小巷，从前两旁开满了肉铺。楼房上层彼此靠得非常近，对面邻居几乎可以伸手相触。这里也因启发了《哈利·波特》里的对角巷而闻名。"
+      },
+      "coords": [53.9599, -1.0823]
+    },
+    {
+      "name": { "ko": "클리퍼드 타워", "en": "Clifford's Tower", "ja": "クリフォーズ・タワー", "zh": "克利福德塔" },
+      "blurb": {
+        "ko": "언덕 위에 서 있는 둥근 모양의 오래된 성탑이에요. 노르만 왕들이 도시를 다스리기 위해 세운 성의 마지막 남은 부분이랍니다. 꼭대기에 올라가면 요크 시내와 성벽이 한눈에 내려다보여요.",
+        "en": "A round, ancient stone tower standing on top of a mound. It's the last remaining piece of the castle Norman kings built to rule the city. Climb to the top and you can see all of York and its old walls spread out below.",
+        "ja": "丘の上に建つ丸い形の古い石の塔。ノルマン王たちが街を治めるために築いた城の、今も残る唯一の部分です。てっぺんに登れば、ヨークの街と古い城壁を一望できます。",
+        "zh": "矗立在土丘之上的一座古老圆形石塔，是诺曼国王为统治这座城市所建城堡中唯一留存至今的部分。爬到塔顶，可以俯瞰整个约克城和古老的城墙。"
+      },
+      "coords": [53.9575, -1.0817]
+    }
+  ]
+}

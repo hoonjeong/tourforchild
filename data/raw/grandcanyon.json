@@ -1,0 +1,120 @@
+{
+  "id": "grandcanyon",
+  "country": "us",
+  "coords": [36.1069, -112.1129],
+  "name": { "ko": "그랜드캐니언", "en": "Grand Canyon", "ja": "グランドキャニオン", "zh": "大峡谷" },
+  "tagline": {
+    "ko": "강물이 600만 년 동안 깎아 만든 지구에서 가장 웅장한 협곡",
+    "en": "A river spent six million years carving Earth's grandest canyon",
+    "ja": "川が600万年かけて削り出した、地球でいちばん壮大な峡谷",
+    "zh": "一条河用六百万年雕刻出的地球最壮阔峡谷"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 아직 이름도 없던 시절, 미국 애리조나의 드넓은 사막 한가운데를 힘센 강물이 흐르기 시작했어요. 콜로라도강은 한 방울 한 방울, 해마다 조금씩 바위를 깎아 냈어요. 자그마치 수백만 년이 걸렸지만 강물은 멈추지 않았고, 땅속에서 거대한 협곡이 서서히 모습을 드러냈답니다.",
+      "오늘날 그 협곡은 믿기 힘들 만큼 커요. 길이는 무려 445킬로미터, 너비는 최대 29킬로미터, 깊이는 1.6킬로미터가 넘게 뚝 떨어져요. 가장자리에 서면 맞은편 절벽이 아득히 멀어 보이는데, 마치 바위와 하늘로 만든 거대한 바다를 보는 것 같답니다.",
+      "협곡의 벽은 빨강, 주황, 회색 줄무늬가 층층이 쌓인 거대한 역사책 같아요. 층마다 만들어진 시대가 다르고, 가장 아래쪽 바위는 무려 20억 년이나 되었어요. 지구에서 발견된 바위 중에서도 손꼽히게 오래된 거랍니다. 사람들이 이런 걸 기록으로 남기기 훨씬 전부터, 하바수파이, 후알라파이, 나바호, 호피 같은 원주민들이 협곡 안팎에서 살아왔고, 지금도 그 후손들이 살고 있어요.",
+      "지금은 전 세계 사람들이 이 협곡을 보러 몰려와요. 가장자리에서 내려다보기도 하고, 구불구불한 길을 따라 걸어 내려가기도 하고, 심지어 허공에 둥둥 뜬 것 같은 유리 다리 위를 걷기도 하죠. 자동차만큼 날개가 넓은 콘도르가 협곡에서 올라오는 따뜻한 바람을 타고 유유히 날아다녀요. 그저 물과 시간만으로도 이렇게 놀랍고 힘센 걸 만들 수 있다는 걸 보여주는 곳이랍니다."
+    ],
+    "en": [
+      "Long before it had a name, a mighty river began carving its way through the high desert of northern Arizona. Drop by drop, year after year, the Colorado River sliced deeper and deeper into the rock. It took millions of years, but the river never stopped — and slowly, an enormous canyon began to open up in the earth.",
+      "Today that canyon is almost too big to believe. It stretches 277 miles long, gapes up to 18 miles wide, and plunges more than a mile straight down. Stand at the edge and the far wall looks impossibly far away — some say it's like staring across a whole ocean made of rock and sky.",
+      "The walls themselves are like a giant history book stacked in stripes of red, orange, and gray. Each layer was laid down at a different time, and the oldest rocks at the very bottom are almost 2 billion years old — some of the oldest rock ever found on our planet. For thousands of years before anyone wrote any of this down, Native peoples such as the Havasupai, Hualapai, Navajo, and Hopi made their homes in and around the canyon, and some still do today.",
+      "Now people come from all over the world just to peek over the rim, hike down winding trails, or even walk out onto a glass bridge that seems to float in thin air. Condors with wings as wide as a car soar on the warm air rising from the canyon below. It's a place that reminds everyone how patient, powerful, and astonishing plain old water and time can be."
+    ],
+    "ja": [
+      "まだ名前もなかったずっと昔、アメリカ・アリゾナの広い砂漠のまん中を、力強い川が流れ始めました。コロラド川は一滴一滴、何年もかけて岩を少しずつ削っていきました。なんと数百万年もかかりましたが、川は止まることなく、やがて地面に巨大な峡谷がゆっくりと姿を現していったのです。",
+      "今、その峡谷は信じられないほど大きくなりました。長さは約445キロメートル、幅は最大29キロメートル、深さは1.6キロメートル以上もストンと落ちこんでいます。ふちに立つと向こう側の崖がとても遠く見えて、まるで岩と空でできた大きな海を眺めているようです。",
+      "峡谷の壁は、赤やオレンジ、灰色のしま模様が幾重にも重なった巨大な歴史の本のよう。層ごとにできた時代がちがい、いちばん下の岩はなんと20億年も前のもの——地球で見つかった岩の中でも指折りの古さです。人々がそれを記録するよりずっと前から、ハバスパイ族やワラパイ族、ナバホ族、ホピ族といった先住民が峡谷の中や周りで暮らしてきましたし、今もその子孫が住んでいます。",
+      "今では世界中から人がこの峡谷を見にやってきます。ふちからのぞきこんだり、くねくねした道を歩いて下りたり、宙に浮いているようなガラスの橋を渡ったりもできます。車ほど翼が広いコンドルが、峡谷から立ちのぼる暖かい風に乗ってゆうゆうと飛んでいます。ただの水と時間だけで、こんなにも壮大で力強いものが生まれるのだと教えてくれる場所です。"
+    ],
+    "zh": [
+      "很久很久以前，那时它还没有名字，一条大河开始在美国亚利桑那州的辽阔沙漠中冲刷出一条路。科罗拉多河一点一滴、年复一年地切削着岩石。虽然花了数百万年，河水却从未停歇——渐渐地，大地裂开出一道巨大的峡谷。",
+      "如今这座峡谷大得让人难以置信。它长约445公里，最宽处近29公里，深度超过1.6公里，笔直向下。站在边缘往对面看，崖壁显得遥不可及，有人说这就像望着一片用岩石和天空组成的海洋。",
+      "峡谷的岩壁就像一本巨大的历史书，一层层叠着红色、橙色和灰色的条纹。每一层形成的年代都不同，最底层的岩石距今差不多有20亿年——是地球上发现的最古老的岩石之一。早在人们把这些写下来之前的几千年里，哈瓦苏派人、华拉派人、纳瓦霍人和霍皮人等原住民就已经在峡谷内外安家，如今他们的后代依然生活在那里。",
+      "现在，世界各地的人们都来这里，只为在边缘俯瞰一眼，沿着蜿蜒的小路徒步而下，甚至走上一座仿佛悬浮在半空中的玻璃桥。翼展宽得像一辆汽车的秃鹫，乘着峡谷升腾的暖风悠然翱翔。这里让人明白，光是水和时间，就能创造出如此壮阔又惊人的奇迹。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "그랜드캐니언은 길이 445킬로미터, 너비 최대 29킬로미터, 깊이는 1.6킬로미터가 넘어요. 산 여러 개가 통째로 들어갈 만큼 어마어마하죠.",
+      "콜로라도강은 오직 흐르는 물과 모래, 돌만으로 약 600만 년에 걸쳐 이 거대한 협곡을 깎아 만들었어요.",
+      "가장 아래쪽 바위는 무려 20억 년 전 것으로, 지구 나이의 거의 절반이나 된답니다!",
+      "하바수파이 원주민들은 지금도 협곡 안, 페인트로 칠한 듯한 청록색 폭포 근처에서 살고 있어요.",
+      "북아메리카에서 가장 큰 나는 새인 캘리포니아 콘도르는 날개폭이 거의 3미터나 되는데, 협곡에서 올라오는 따뜻한 바람을 타고 활공해요.",
+      "그랜드캐니언 웨스트에는 말굽 모양의 유리 다리 '스카이워크'가 있어서, 협곡 바닥에서 1200미터 높이에 둥둥 떠 있는 기분을 느낄 수 있어요."
+    ],
+    "en": [
+      "The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide, and over a mile (1.6 km) deep — big enough to fit several mountains inside it.",
+      "The Colorado River carved this whole canyon over about 6 million years, using nothing but flowing water, sand, and rock.",
+      "The oldest rocks at the very bottom are almost 2 billion years old — nearly half the age of Earth itself!",
+      "The Havasupai people still live inside the canyon, near a hidden waterfall so blue-green it looks painted.",
+      "California condors, the biggest flying birds in North America with wings nearly 10 feet (3 m) wide, glide over the canyon using rising warm air.",
+      "At Grand Canyon West, you can walk out onto a horseshoe-shaped glass bridge called the Skywalk, floating 4,000 feet above the canyon floor."
+    ],
+    "ja": [
+      "グランドキャニオンは長さ445キロメートル、幅最大29キロメートル、深さは1.6キロメートル以上——山がいくつも丸ごと入ってしまうほどの大きさです。",
+      "コロラド川は、流れる水と砂、石だけで、約600万年かけてこの巨大な峡谷を削り出しました。",
+      "いちばん下にある岩はなんと20億年前のもので、地球の年齢のほぼ半分にもなります！",
+      "ハバスパイ族の人々は今も峡谷の中、ペンキで塗ったような青緑色の滝の近くで暮らしています。",
+      "北アメリカ最大の飛ぶ鳥、カリフォルニアコンドルは翼を広げるとほぼ3メートル。峡谷から立ちのぼる暖かい風に乗って滑空します。",
+      "グランドキャニオン・ウエストには馬蹄形のガラスの橋『スカイウォーク』があり、峡谷の底からおよそ1200メートルの高さに浮かぶ感覚を味わえます。"
+    ],
+    "zh": [
+      "大峡谷长445公里，最宽处约29公里，深度超过1.6公里——大到能把好几座山整个装进去。",
+      "科罗拉多河仅靠流水、沙子和石头，花了大约六百万年，就切削出了这座巨大的峡谷。",
+      "最底层的岩石距今差不多有20亿年之久，几乎是地球年龄的一半！",
+      "哈瓦苏派原住民至今仍生活在峡谷之中，住在一处蓝绿得像被涂过颜料的瀑布附近。",
+      "北美洲体型最大的飞鸟——加利福尼亚神鹫，翼展将近3米宽，会乘着峡谷升腾的暖风滑翔。",
+      "在西峡谷（Grand Canyon West），你可以走上一座马蹄形的玻璃桥“天空步道”，仿佛悬浮在峡谷底部上方1200米的高空。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "강물 하나가 깊이 1.6킬로미터, 길이 수백 킬로미터나 되는 협곡을 깎아 냈대요. 그러려면 대체 몇 년이나 걸렸을까요?",
+    "en": "One river carved a canyon over a mile deep and hundreds of miles long — how many years do you think that took?",
+    "ja": "たった一本の川が、深さ1.6キロメートル、長さ数百キロメートルもの峡谷を削り出したんだって。いったい何年かかったと思う？",
+    "zh": "一条河竟然切出了一座深超过1.6公里、长达数百公里的大峡谷——你猜这要花多少年呀？"
+  },
+  "places": [
+    {
+      "name": { "ko": "매더 포인트 (사우스 림)", "en": "Mather Point (South Rim)", "ja": "マーサー・ポイント（サウスリム）", "zh": "马瑟观景点（南缘）" },
+      "blurb": {
+        "ko": "많은 사람이 협곡을 처음 마주하는 곳이 바로 이 전망대예요. 이곳에 서면 절로 '우와!' 소리가 나온답니다. 여기서 보면 색색깔 바위층이 몇 킬로미터나 펼쳐지고, 저 아래 콜로라도강이 반짝이는 게 보여요.",
+        "en": "This famous overlook is many visitors' very first view of the canyon — and it never fails to make people gasp. From here you can see layer upon layer of colorful rock stretching for miles, with the Colorado River glinting far below.",
+        "ja": "ここは多くの人が峡谷を初めて目にする有名な展望スポットで、思わず『わあ！』と声が出てしまいます。ここからは色とりどりの岩の層が何キロも続き、はるか下でコロラド川がきらきら光っているのが見えます。",
+        "zh": "这是许多游客第一次看到大峡谷的著名观景点，总能让人不由自主地发出惊叹。从这里望去，五颜六色的岩层绵延数公里，科罗拉多河在遥远的谷底闪闪发光。"
+      },
+      "coords": [36.0716, -112.1075]
+    },
+    {
+      "name": { "ko": "브라이트 엔젤 트레일", "en": "Bright Angel Trail", "ja": "ブライトエンジェル・トレイル", "zh": "光明天使步道" },
+      "blurb": {
+        "ko": "이 지그재그 오솔길은 협곡 가장자리에서 강까지 이어져 있는데, 단 몇 시간만 걸어 내려가도 수백만 년 된 바위층을 통과할 수 있어요. 100년도 더 전부터 사용해 온 이 구불구불한 길로, 지금도 노새를 탄 사람들과 짐이 오르내린답니다.",
+        "en": "This zig-zagging trail winds from the rim all the way down toward the river, dropping through millions of years of rock in just a few hours of walking. Mule trains still carry riders and supplies down the very same switchbacks used over a century ago.",
+        "ja": "このジグザグの道は、峡谷のふちから川のほとりまで続いていて、わずか数時間歩くだけで何百万年分もの岩の層を通り抜けられます。100年以上前から使われてきたこの九十九折りの道を、今もラバに乗った人や荷物が行き来しています。",
+        "zh": "这条之字形小路从峡谷边缘一路蜿蜒通向谷底的河边，只需几个小时的徒步，就能穿越数百万年的岩层。一百多年来，骡队至今仍沿着这条盘山小道运送游客和物资。"
+      },
+      "coords": [36.0573, -112.1425]
+    },
+    {
+      "name": { "ko": "콜로라도강 & 팬텀 랜치", "en": "Colorado River & Phantom Ranch", "ja": "コロラド川とファントム・ランチ", "zh": "科罗拉多河与幻影农场" },
+      "blurb": {
+        "ko": "협곡 맨 밑바닥에는 이 모든 걸 수백만 년에 걸쳐 조금씩 깎아 만든 그 콜로라도강이 힘차게 흐르고 있어요. 이 근처에는 자그마한 팬텀 랜치가 있는데, 미국에서 오직 걸어서나 노새를 타고, 혹은 뗏목을 타고서만 갈 수 있는 몇 안 되는 곳이랍니다.",
+        "en": "Down at the very bottom of the canyon runs the mighty Colorado River — the very river that carved this whole place, drop by drop, over millions of years. Near here sits tiny Phantom Ranch, one of the only places in the U.S. you can only reach by foot, mule, or raft.",
+        "ja": "峡谷のいちばん底には、何百万年もかけてこの場所全部を削り出した張本人、力強いコロラド川が流れています。この近くには小さなファントム・ランチがあり、アメリカでも徒歩かラバ、いかだでしか行けない数少ない場所の一つです。",
+        "zh": "峡谷最深处流淌着那条真正的主角——科罗拉多河，正是它花了数百万年一点点雕刻出了整座峡谷。附近有一处小小的“幻影农场”，是美国少数只能靠徒步、骑骡子或乘筏子才能到达的地方之一。"
+      },
+      "coords": [36.1044, -112.0937]
+    },
+    {
+      "name": { "ko": "그랜드캐니언 스카이워크", "en": "Grand Canyon Skywalk", "ja": "グランドキャニオン・スカイウォーク", "zh": "大峡谷天空步道" },
+      "blurb": {
+        "ko": "협곡 서쪽 끝에는 말굽 모양의 유리 다리가 허공으로 툭 튀어나와 있어요. 다리 끝까지 걸어가면 발밑엔 오직 유리뿐, 곧장 아래로 1200미터 협곡 바닥이 내려다보인답니다.",
+        "en": "On the western edge of the canyon, a horseshoe-shaped glass bridge juts out over open air. Walk to its edge and you're standing on nothing but glass, staring straight down 4,000 feet to the canyon floor below.",
+        "ja": "峡谷の西の端には、馬蹄形のガラスの橋が空中に突き出しています。橋の先まで歩くと、足元にあるのはガラスだけ。まっすぐ下、1200メートル先の峡谷の底が見えます。",
+        "zh": "峡谷西端有一座马蹄形的玻璃桥凌空而出。走到桥的尽头，脚下只有透明的玻璃，可以径直俯瞰1200米之下的谷底。"
+      },
+      "coords": [36.0847, -113.8114]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cinqueterre",
+  "country": "it",
+  "coords": [44.1212, 9.7033],
+  "name": { "ko": "친퀘테레", "en": "Cinque Terre", "ja": "チンクエ・テッレ", "zh": "五渔村" },
+  "tagline": {
+    "ko": "절벽에 매달린 다섯 개의 무지개 마을",
+    "en": "Five rainbow villages clinging to the cliffs of Italy's coast",
+    "ja": "崖にしがみつく5つの虹色の村",
+    "zh": "五座悬挂在悬崖上的彩虹村庄"
+  },
+  "story": {
+    "ko": [
+      "이탈리아 서북쪽, 리구리아의 거친 초록빛 해안에는 반짝이는 파란 바다 위 절벽에 다닥다닥 붙어 있는 아주 작은 마을 다섯 개가 있어요. 사람들은 이곳을 '친퀘테레'라고 불러요. 이탈리아 말로 '다섯 개의 땅'이라는 뜻이죠. 분홍, 노랑, 주황, 파랑... 집들은 마치 크레파스 상자를 절벽 위에 쏟아부은 것처럼 알록달록 층층이 쌓여 있답니다.",
+      "아주 오래전, 이곳에는 평평한 땅이 거의 없었어요. 가파른 바위산이 그대로 바다로 곤두박질치는 지형이었거든요. 그래서 사람들은 산비탈을 따라 돌담을 쌓아 계단처럼 생긴 작은 밭을 수천 개나 만들었어요. 포도나무를 심기 위해서였죠. 돌 하나하나를 쌓아 올리는 데 수백 년이나 걸렸답니다.",
+      "수백 년 동안 다섯 마을을 잇는 길은 하나도 없었어요. 배를 타거나, 절벽을 따라 난 오솔길을 걷거나, 훗날에는 산을 뚫어 만든 기차 터널을 지나야만 마을을 오갈 수 있었죠. 두 마을 사이 절벽길 하나는 손잡고 걷는 연인들로 유명해져서 '사랑의 길'이라는 별명까지 붙었답니다.",
+      "오늘날 친퀘테레는 유네스코 세계유산이자 국립공원으로 보호받고 있어요. 자동차 도로도, 시멘트도 이곳을 바꿔놓지 못했기 때문이죠. 하이킹 길과 꼬마 기차, 배를 이용하면 하루 만에 색색깔 마을 다섯 곳을 모두 둘러볼 수 있어요. 각 마을은 천 년 전 그 모습 그대로, 자기만의 작은 항구를 지키며 절벽 위에 앉아 있답니다."
+    ],
+    "en": [
+      "On the wild green coast of Liguria in northwestern Italy, five tiny villages perch on cliffs above a sparkling blue sea. Together they're called Cinque Terre — Italian for 'Five Lands.' Their houses are painted every color you can imagine: pink, yellow, orange, blue — stacked on top of each other like a box of crayons tipped over a cliff.",
+      "Long, long ago, there was barely any flat ground here at all — just steep, rocky mountains tumbling straight into the sea. So people carved thousands of tiny stone-walled terraces up the slopes, like giant staircases, to plant grapevines where nothing should really grow. It took hundreds of years of patient stacking, one stone at a time.",
+      "For centuries, the five villages had no road connecting them to each other or the outside world. The only ways in or out were by boat, on foot along cliffside trails, or — much later — through train tunnels blasted straight through the mountains. One trail hugging the cliffs between two villages became so famous for couples strolling hand in hand that people started calling it the 'Path of Love.'",
+      "Today, Cinque Terre is protected as a national park and a UNESCO World Heritage Site, precisely because no road or concrete ever flattened this place. Hop a hiking trail, a tiny train, or a boat, and in one single day you can visit all five candy-colored villages — each one perched on its own cliff, guarding its own little harbor, exactly as it has for a thousand years."
+    ],
+    "ja": [
+      "イタリア北西部、リグーリア州の荒々しい緑の海岸には、青くきらめく海の上の崖にぴったりと張りついた、とても小さな村が5つあります。人々はここを『チンクエ・テッレ』と呼びます。イタリア語で『5つの土地』という意味です。ピンク、黄色、オレンジ、青…家々はまるでクレヨンの箱を崖の上にひっくり返したように、色とりどりに積み重なっています。",
+      "ずっと昔、ここにはほとんど平らな土地がありませんでした。急な岩山がそのまま海へ落ちこむような地形だったのです。そこで人々は山の斜面に石垣を積み、階段のような小さな畑を何千も作りました。ぶどうを育てるためです。石を一つずつ積み上げるのに、何百年もかかったといいます。",
+      "何百年もの間、5つの村をつなぐ道路はありませんでした。船に乗るか、崖沿いの小道を歩くか、ずっと後になって山をくり抜いたトンネルを電車で通るしか、村を行き来する方法がなかったのです。ある村と村の間の崖道は、手をつないで歩く恋人たちの間で有名になり、『愛の小道』というニックネームまでつきました。",
+      "今日、チンクエ・テッレはユネスコ世界遺産であり国立公園として守られています。車道もコンクリートも、この場所を変えてしまわなかったからです。ハイキングコースや小さな電車、船を使えば、一日で色とりどりの5つの村すべてをめぐることができます。どの村も千年前とほとんど変わらぬ姿で、自分だけの小さな港を見守りながら崖の上にたたずんでいます。"
+    ],
+    "zh": [
+      "在意大利西北部利古里亚的粗犷绿色海岸上，有五座小小的村庄紧紧贴在闪闪发光的蓝色大海上方的悬崖上。人们把这里叫做“五渔村”，意大利语里的意思就是“五片土地”。粉色、黄色、橙色、蓝色……房子层层叠叠、五颜六色，就像有人把一整盒蜡笔倒扣在悬崖上。",
+      "很久很久以前，这里几乎没有平地——陡峭的岩石山直接扎进大海里。于是人们沿着山坡砌起石墙，造出成千上万块像台阶一样的小田地，只为了种上葡萄藤。一块石头一块石头地垒起来，整整花了好几百年。",
+      "几百年来，这五座村庄之间没有一条路相连。人们只能坐船、走悬崖边的小路，直到很久以后才有穿山而过的火车隧道可以往来。有一条连接两座村庄的悬崖小路，因为总有情侣手牵手在这里散步而出了名，人们叫它“爱之路”。",
+      "如今，五渔村作为联合国教科文组织世界遗产和国家公园受到保护，正是因为这里从未被公路或水泥彻底改变过。坐上徒步小道、迷你火车或小船，一天之内就能走遍这五座色彩斑斓的村庄。每一座村庄都像一千年前那样，守着自己的小港湾，稳稳地立在悬崖上。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'친퀘테레'는 '다섯 개의 땅'이라는 뜻이에요. 몬테로소, 베르나차, 코르닐리아, 마나롤라, 리오마조레, 이렇게 다섯 마을을 가리키죠.",
+      "코르닐리아 마을은 바다에 붙어 있지 않아요! 언덕 꼭대기에 있어서, 라르다리나라는 지그재그 계단 382개를 올라가야 마을에 닿을 수 있답니다.",
+      "마을 안에는 자동차가 거의 없어요. 골목 대부분이 바퀴 달린 것은 다닐 수 없는, 좁고 가파른 계단이거든요.",
+      "가파른 계단식 포도밭에서는 '샤케트라'라는 달콤한 황금빛 와인이 나와요. 햇볕에 말린 포도로 만든답니다.",
+      "마나롤라와 리오마조레를 잇는 절벽길은 '비아 델라모레', 즉 '사랑의 길'이라는 별명으로 유명해요.",
+      "친퀘테레는 유네스코 세계유산이자 이탈리아에서 가장 작은 국립공원이에요. 수백 년 동안 마을과 포도밭 모습이 거의 그대로이기 때문이랍니다."
+    ],
+    "en": [
+      "Cinque Terre means 'Five Lands' — for its five villages: Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore.",
+      "One village, Corniglia, isn't even next to the sea — it sits on a hilltop, and to reach it you must climb 382 zigzag steps called the Lardarina.",
+      "There are almost no cars in the villages — many streets are just staircases, too narrow and steep for anything with wheels.",
+      "The steep terraced vineyards produce a sweet golden wine called Sciacchetrà, made from grapes dried in the sun before pressing.",
+      "A famous cliffside trail between Manarola and Riomaggiore is nicknamed the 'Via dell'Amore' — the 'Path of Love.'",
+      "Cinque Terre is a UNESCO World Heritage Site and Italy's smallest national park, because its villages and terraces have stayed almost unchanged for centuries."
+    ],
+    "ja": [
+      "『チンクエ・テッレ』は『5つの土地』という意味。モンテロッソ、ヴェルナッツァ、コルニリア、マナローラ、リオマッジョーレという5つの村を指します。",
+      "コルニリア村は海に面していません！丘の上にあるので、ラルダリーナと呼ばれるジグザグの階段382段を登らないと村にたどり着けないのです。",
+      "村の中には車がほとんどありません。路地の多くは車輪のあるものが通れないほど狭くて急な階段だからです。",
+      "急な段々畑からは『シャケトラ』と呼ばれる甘い黄金色のワインが作られます。太陽の下で干したぶどうから造られます。",
+      "マナローラとリオマッジョーレをつなぐ崖道は『ヴィア・デッラモーレ（愛の小道）』という愛称で有名です。",
+      "チンクエ・テッレはユネスコ世界遺産であり、イタリアで一番小さな国立公園。村や畑の姿が何百年もほとんど変わっていないからです。"
+    ],
+    "zh": [
+      "“五渔村”意思是“五片土地”，指的是蒙特罗索、韦尔纳扎、科尔尼利亚、马纳罗拉和里奥马焦雷这五座村庄。",
+      "科尔尼利亚村甚至不挨着海！它建在山顶上，要爬上名叫“拉尔达丽娜”的382级之字形台阶才能到达。",
+      "村子里几乎没有汽车——很多小巷又窄又陡，只是台阶，任何带轮子的东西都过不去。",
+      "陡峭的梯田葡萄园出产一种叫“夏克特拉”的甜美金色葡萄酒，用晒干后的葡萄酿成。",
+      "连接马纳罗拉和里奥马焦雷的悬崖小路有个著名的昵称——“爱之路”（Via dell'Amore）。",
+      "五渔村是联合国教科文组织世界遗产，也是意大利最小的国家公园，因为几百年来村庄和梯田几乎没有改变过。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "문을 열면 바로 파도가 찰랑거리는, 절벽에 딱 붙은 집에서 살아보고 싶니?",
+    "en": "Would you want to live in a house glued right onto a cliff, with the sea splashing at your front door?",
+    "ja": "ドアを開けたらすぐ波がチャプチャプ寄せてくる、崖にぴったりくっついた家に住んでみたい？",
+    "zh": "你想不想住在一栋一开门就能听见海浪拍打的悬崖小屋里？"
+  },
+  "places": [
+    {
+      "name": { "ko": "베르나차", "en": "Vernazza", "ja": "ヴェルナッツァ", "zh": "韦尔纳扎" },
+      "blurb": {
+        "ko": "작은 항구와 오래된 성이 있는 마을이에요. 예전엔 해적선을 피해 배를 이 아늑한 항구 안에 숨겼대요. 지금은 세상에서 가장 예쁜 항구 중 하나로 불려요.",
+        "en": "A village with a tiny harbor and an old castle. Long ago, boats hid in this cozy inlet to escape pirate ships. Today it's called one of the prettiest harbors in the world.",
+        "ja": "小さな港と古いお城がある村。昔は海賊船から逃れるため、この入り江に船を隠したそうです。今では世界で一番美しい港の一つと呼ばれています。",
+        "zh": "一座有小港湾和古老城堡的村庄。从前人们把船藏进这个小海湾，躲避海盗。如今这里被称为世界上最美的港湾之一。"
+      },
+      "coords": [44.1345, 9.6857]
+    },
+    {
+      "name": { "ko": "마나롤라", "en": "Manarola", "ja": "マナローラ", "zh": "马纳罗拉" },
+      "blurb": {
+        "ko": "친퀘테레에서 사진을 가장 많이 찍는 마을이에요. 알록달록한 탑 모양 집들이 바위 위에 겹겹이 서 있고, 바다로 풍덩 뛰어들 수 있는 바위 웅덩이도 있답니다.",
+        "en": "The most photographed of the five villages. Colorful tower-like houses stack up on the rocks, and there's a natural rock pool where you can jump right into the sea.",
+        "ja": "チンクエ・テッレで一番写真に撮られる村。色とりどりの塔のような家が岩の上に重なり合い、海へ飛びこめる岩場のプールもあります。",
+        "zh": "五渔村里被拍照最多的村庄。五颜六色的塔楼式房屋层层叠叠地立在岩石上，还有可以跳进海里的天然岩石泳池。"
+      },
+      "coords": [44.1067, 9.7273]
+    },
+    {
+      "name": { "ko": "리오마조레", "en": "Riomaggiore", "ja": "リオマッジョーレ", "zh": "里奥马焦雷" },
+      "blurb": {
+        "ko": "다섯 마을 중 가장 남쪽에 있어요. 좁은 골짜기를 따라 알록달록한 집들이 쌓여 있고, 여기서부터 유명한 '사랑의 길'이 시작된답니다.",
+        "en": "The southernmost of the five villages. Colorful houses stack along a narrow valley, and it's where the famous 'Path of Love' trail begins.",
+        "ja": "5つの村の中で一番南にある村。細い谷に沿って色とりどりの家が積み重なり、ここから有名な『愛の小道』が始まります。",
+        "zh": "五座村庄中最靠南的一座。色彩斑斓的房屋沿着狭窄的山谷层层堆叠，著名的“爱之路”正是从这里出发。"
+      },
+      "coords": [44.0993, 9.7376]
+    },
+    {
+      "name": { "ko": "코르닐리아", "en": "Corniglia", "ja": "コルニリア", "zh": "科尔尼利亚" },
+      "blurb": {
+        "ko": "다섯 마을 중 유일하게 바다에서 떨어진, 절벽 꼭대기 마을이에요. 포도밭에 둘러싸여 있고, 382개 계단을 올라야 만날 수 있어서 더 특별하답니다.",
+        "en": "The only one of the five villages set back from the sea, perched on a clifftop and ringed by vineyards. Reaching it means climbing 382 steps — which makes it feel extra special.",
+        "ja": "5つの村で唯一、海から離れた崖の上の村。ぶどう畑に囲まれていて、382段の階段を登らないとたどり着けない特別な村です。",
+        "zh": "五座村庄中唯一一座不挨海的村庄，坐落在被葡萄园环绕的悬崖顶上，要爬382级台阶才能到达，因此格外特别。"
+      },
+      "coords": [44.1194, 9.7106]
+    }
+  ]
+}

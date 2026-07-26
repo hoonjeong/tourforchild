@@ -1,0 +1,120 @@
+{
+  "id": "verona",
+  "country": "it",
+  "coords": [45.4384, 10.9916],
+  "name": { "ko": "베로나", "en": "Verona", "ja": "ヴェローナ", "zh": "维罗纳" },
+  "tagline": {
+    "ko": "2000년째 노래가 멈추지 않는 로마 원형경기장, 줄리엣의 발코니가 있는 도시",
+    "en": "The Roman arena that never stopped singing, home to Juliet's famous balcony",
+    "ja": "2000年たっても歌が止まらないローマの円形闘技場、ジュリエットのバルコニーがある街",
+    "zh": "两千年来歌声从未停止的古罗马竞技场，朱丽叶阳台的所在地"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 로마 사람들은 이탈리아 북쪽, 강물이 부드럽게 굽이치는 곳에 도시를 하나 세우고 '베로나'라고 불렀어요. 도시 한가운데에는 커다란 돌 원형경기장을 지었는데, 수만 명이 앉아 검투사 경기와 전차 경주, 맹수 쇼를 볼 수 있을 만큼 어마어마하게 컸답니다.",
+      "정말 놀라운 건, 이 경기장이 로마의 콜로세움만큼이나 오래됐는데도 지금까지 한 번도 멈추지 않고 쓰이고 있다는 거예요! 요즘도 따뜻한 여름밤이면 마이크 하나 없이 오페라 가수들이 노래를 부르는데, 목소리가 2000년 된 돌벽에 부딪혀 저절로 울려 퍼진답니다. 그러면 수천 명이 별빛 아래 앉아 옛날 로마 사람들처럼 공연을 즐기죠.",
+      "몇백 년이 흐른 뒤, 멀리 영국의 시인 셰익스피어는 베로나에 사는 두 젊은 연인, 로미오와 줄리엣의 이야기를 희곡으로 썼어요. 사실 그는 베로나에 와 본 적도 없었을지 몰라요. 하지만 사람들은 이 이야기를 너무나 사랑한 나머지, 지금도 예쁜 돌집에 발코니를 만들어 놓고 '줄리엣이 여기서 로미오를 내려다봤을 거야'라고 상상한답니다.",
+      "해마다 베로나에는 그냥 '줄리엣 앞'이라고만 적힌 편지가 수천 통씩 도착해요. '줄리엣의 비서들'이라 불리는 친절한 자원봉사자들이 편지를 하나하나 읽고, 사랑과 우정에 대한 다정한 답장을 써 준답니다. 강가에는 옛날 로마 다리도 서 있는데, 전쟁 때 부서졌지만 사람들이 강바닥에서 원래 돌들을 건져내 한 조각 한 조각 다시 쌓아 올렸어요. 베로나는 이렇게 언제나 과거를 다시 살아 숨 쉬게 만드는 도시랍니다."
+    ],
+    "en": [
+      "Long, long ago, the Romans built a city in northern Italy beside a gently curving river, and they called it Verona. Right in the middle of town, they raised a huge stone arena — big enough for tens of thousands of people to sit and watch gladiators, chariot races, and wild animal shows under the open sky.",
+      "Here's the incredible part: that arena is almost as old as the famous Colosseum in Rome, and it has never stopped being used! On warm summer nights today, opera singers still perform there with no microphones at all — their voices simply bounce off the ancient stone — and thousands of people watch under the stars, just like Romans did 2,000 years ago.",
+      "Centuries later, a poet in faraway England named William Shakespeare wrote a play about two young lovers from Verona named Romeo and Juliet. He probably never even visited the city himself, but people fell so in love with the story that today you can visit a charming old stone house with a balcony, where visitors imagine Juliet once stood and looked down at Romeo.",
+      "Every single year, thousands of letters arrive in Verona addressed simply to 'Juliet.' A group of kind volunteers called Juliet's Secretaries reads every one and writes back with gentle advice about love and friendship. Down by the river stands an ancient Roman bridge that was blown apart during a war and later rebuilt stone by stone — many of the very same stones fished right back out of the water — because Verona always finds a way to bring its past back to life."
+    ],
+    "ja": [
+      "はるか昔、ローマ人たちはイタリア北部、川がゆるやかに曲がる場所に街を築き、『ヴェローナ』と名づけました。街の真ん中には大きな石の円形闘技場が建てられ、何万人もの人が座って剣闘士の戦いや戦車競走、猛獣ショーを見られるほど巨大でした。",
+      "本当にすごいのは、この闘技場がローマのコロッセオと同じくらい古いのに、今も現役で使われ続けていることです！暖かい夏の夜には、マイクなしでオペラ歌手が歌い、その声が2000年前の石の壁に反射して自然に響きわたります。何千人もの人々が星空の下で、昔のローマ人と同じように公演を楽しむのです。",
+      "何百年もたって、遠くイギリスの詩人シェイクスピアが、ヴェローナに住む若い恋人ロミオとジュリエットの物語を戯曲に書きました。実はヴェローナに来たことすらなかったかもしれません。でも人々はこの物語を心から愛したので、今でもかわいらしい石造りの家にバルコニーが作られ、『ジュリエットはここからロミオを見おろしたんだ』と想像を楽しんでいます。",
+      "毎年、ヴェローナには『ジュリエットへ』とだけ書かれた手紙が何千通も届きます。『ジュリエットの秘書たち』と呼ばれる優しいボランティアが一通一通読んで、恋や友情についての温かい返事を書いてくれるのです。川のそばには古いローマ橋も立っていて、戦争でこわれてしまいましたが、人々が川底から元の石を拾い集め、一つひとつ積み直しました。ヴェローナはこうして、いつも過去をよみがえらせる街なのです。"
+    ],
+    "zh": [
+      "很久很久以前，罗马人在意大利北部一条河流轻轻拐弯的地方建起一座城市，取名“维罗纳”。城市正中央矗立着一座巨大的石头竞技场，大到能容纳数万人坐着观看角斗士搏斗、战车竞速和猛兽表演。",
+      "神奇的是，这座竞技场几乎和罗马的斗兽场一样古老，却从来没有真正停止使用过！如今温暖的夏夜里，歌剧演员依然不用麦克风在这里演唱——声音靠着两千年的石墙自然回荡开来，成千上万的观众坐在星空下，就像古罗马人当年一样欣赏演出。",
+      "几百年后，远在英国的诗人莎士比亚写了一部戏剧，讲述维罗纳一对年轻恋人罗密欧与朱丽叶的故事。他可能压根没来过维罗纳，但人们太喜爱这个故事了，如今还专门在一栋漂亮的石屋上造了一个阳台，让游客想象朱丽叶曾从这里俯瞰罗密欧。",
+      "每年，维罗纳都会收到成千上万封只写着“致朱丽叶”的信件。一群被称为“朱丽叶的秘书”的热心志愿者会读完每一封信，并写回温暖的建议，谈爱情和友情。河边还立着一座古罗马桥，在战争中被炸毁，后来人们把原来的石块从河底一块块打捞上来，重新拼砌了回去。维罗纳就是这样一座总能让过去重新活过来的城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "베로나 원형경기장은 서기 30년쯤 지어져 로마 콜로세움만큼이나 오래됐어요. 지금까지 남아 있는 로마 시대 경기장 중 보존이 가장 잘된 곳 중 하나랍니다.",
+      "약 1만 5천 명이 앉을 수 있는 이 경기장에서는 마이크 없이도 오페라 가수의 목소리가 또렷하게 울려 퍼져요. 2000년 된 돌이 소리를 완벽하게 전달해 주거든요.",
+      "줄리엣의 발코니는 사실 셰익스피어가 희곡을 쓴 지 한참 뒤에야 만들어졌어요. 그래도 해마다 수백만 명이 그 아래서 사진을 찍는답니다.",
+      "'이탈리아 베로나, 줄리엣 앞'이라고만 적힌 편지가 전 세계에서 도착해요. '줄리엣의 비서들'이라는 자원봉사자들이 해마다 수천 통에 답장을 쓴대요.",
+      "줄리엣 청동상의 오른쪽 어깨를 만지면 사랑이 이루어진다는 이야기가 있어요. 얼마나 많이 만졌는지 그 부분만 반짝반짝 금빛으로 빛난답니다.",
+      "베로나의 로마식 다리 '폰테 피에트라'는 2차 세계대전 때 부서졌지만, 사람들이 강에서 원래 돌을 건져내 그대로 다시 지었어요."
+    ],
+    "en": [
+      "The Verona Arena was built around AD 30 — almost as old as Rome's Colosseum — and it's one of the best-preserved Roman amphitheaters in the world.",
+      "It can seat about 15,000 people, and opera singers perform there with no microphones — the 2,000-year-old stone carries their voices perfectly.",
+      "Juliet's balcony wasn't actually built until centuries after Shakespeare's play — but that hasn't stopped millions of visitors from posing beneath it every year.",
+      "Real letters addressed only to 'Juliet, Verona, Italy' arrive from all over the world; volunteers called Juliet's Secretaries answer thousands of them every year.",
+      "Touching the right shoulder of Juliet's bronze statue is said to bring luck in love — it's rubbed so shiny you can see it glowing gold.",
+      "Ponte Pietra, Verona's Roman bridge, was destroyed in World War II and rebuilt using original stones that divers pulled back out of the river."
+    ],
+    "ja": [
+      "ヴェローナの円形闘技場は西暦30年ごろに建てられ、ローマのコロッセオと同じくらい古いんです。現存するローマ時代の闘技場の中でも、特によく保存されている一つですよ。",
+      "約1万5000人が座れるこの闘技場では、マイクなしでもオペラ歌手の声がくっきり響きます。2000年前の石が音を完璧に伝えてくれるからです。",
+      "ジュリエットのバルコニーは、実はシェイクスピアが戯曲を書いてからずっと後に作られました。それでも毎年何百万人もの人がその下で写真を撮っています。",
+      "『イタリア、ヴェローナ、ジュリエットへ』とだけ書かれた手紙が世界中から届きます。『ジュリエットの秘書たち』というボランティアが、毎年何千通にも返事を書いているそうです。",
+      "ジュリエット像の右肩に触れると恋がかなうと言われています。あまりに多くの人が触れるので、そこだけ金色にピカピカ光っているんですよ。",
+      "ヴェローナのローマ橋『ポンテ・ピエトラ』は第二次世界大戦でこわされましたが、人々が川から元の石を拾い上げ、そのまま組み直して復活させました。"
+    ],
+    "zh": [
+      "维罗纳竞技场大约建于公元30年，几乎和罗马斗兽场一样古老，是现存保存最完好的古罗马竞技场之一。",
+      "这座能容纳约1.5万人的竞技场里，歌剧演员不用麦克风也能让声音清晰传遍全场——两千年的石头完美地传递着声音。",
+      "朱丽叶的阳台其实是在莎士比亚写完戏剧很久之后才建造的，但每年仍有数百万游客站在阳台下拍照留念。",
+      "只写着“意大利维罗纳，致朱丽叶”的信件从世界各地寄来，被称为“朱丽叶的秘书”的志愿者们每年要回复成千上万封。",
+      "据说摸一摸朱丽叶铜像的右肩能带来爱情好运，因为被摸的次数太多，那个地方都被摸得金光闪闪。",
+      "维罗纳的古罗马桥“石桥”在第二次世界大战中被炸毁，后来人们从河里把原来的石块打捞上来，原样重新砌好。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "진짜가 아닌 사랑 이야기인데도 해마다 편지가 수천 통씩 온대. 너라면 줄리엣에게 편지를 써 볼래?",
+    "en": "A love story that isn't even real still gets thousands of letters every year — would you write one to Juliet?",
+    "ja": "本当じゃない恋の物語なのに、毎年何千通も手紙が届くんだって。あなたならジュリエットに手紙を書いてみる？",
+    "zh": "一个并非真实的爱情故事，每年却能收到成千上万封信——你会想给朱丽叶写一封信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "베로나 원형경기장", "en": "Verona Arena", "ja": "ヴェローナ闘技場", "zh": "维罗纳竞技场" },
+      "blurb": {
+        "ko": "거의 2000년 동안 거의 멈추지 않고 공연이 열려 온 거대한 로마 경기장이에요. 옛날엔 검투사들이 싸웠지만, 지금은 마이크 없이도 울려 퍼지는 오페라 가수들의 목소리가 밤하늘을 가득 채운답니다.",
+        "en": "This giant Roman arena has hosted shows for almost 2,000 years without ever really stopping. Gladiators once fought here — today opera singers fill the night air instead, with no microphones needed at all.",
+        "ja": "ほぼ2000年もの間、ほとんど休むことなく公演が行われてきた巨大なローマの闘技場です。昔は剣闘士が戦っていましたが、今はマイクなしで響くオペラ歌手の声が夜空を満たしています。",
+        "zh": "这座巨大的古罗马竞技场近两千年来几乎从未停止过演出。曾经角斗士在这里搏斗，如今不用麦克风的歌剧演员的歌声则填满了夜空。"
+      },
+      "coords": [45.4386, 10.9909]
+    },
+    {
+      "name": { "ko": "줄리엣의 집", "en": "Casa di Giulietta (Juliet's House)", "ja": "ジュリエットの家", "zh": "朱丽叶故居" },
+      "blurb": {
+        "ko": "셰익스피어의 유명한 희곡에서 영감을 받아 만든 아담한 안뜰과 돌 발코니예요. 전 세계 사람들이 벽에 사랑의 쪽지를 붙이고, 청동상의 어깨를 만지면 사랑이 이루어진다고 믿는답니다.",
+        "en": "A charming courtyard and stone balcony inspired by Shakespeare's famous play. Visitors from around the world leave love notes on the walls and believe that touching the bronze statue's shoulder brings luck in love.",
+        "ja": "シェイクスピアの有名な戯曲からインスピレーションを受けた、かわいらしい中庭と石のバルコニーです。世界中の人々が壁に恋のメッセージを貼り、ジュリエット像の肩に触れると恋がかなうと信じています。",
+        "zh": "一座灵感来自莎士比亚名剧的精致庭院，还有一个石头阳台。世界各地的人们在墙上留下爱情字条，并相信摸一摸铜像的肩膀能带来爱情好运。"
+      },
+      "coords": [45.4423, 10.9994]
+    },
+    {
+      "name": { "ko": "폰테 피에트라 (돌다리)", "en": "Ponte Pietra (Stone Bridge)", "ja": "ポンテ・ピエトラ（石の橋）", "zh": "石桥（Ponte Pietra）" },
+      "blurb": {
+        "ko": "2000년도 더 전, 로마 사람들이 처음 놓은 베로나에서 가장 오래된 다리예요. 2차 세계대전 때 부서졌지만, 사람들이 강 밑에서 원래 돌을 건져내어 그대로 다시 쌓아 올렸답니다.",
+        "en": "Verona's oldest bridge, first built by the Romans over 2,000 years ago. It was blown up during World War II, but people rebuilt it using the very same stones, fished back out of the river below.",
+        "ja": "2000年以上前にローマ人が最初に架けた、ヴェローナで最も古い橋です。第二次世界大戦でこわれましたが、人々が川底から元の石を拾い上げ、そのまま組み直しました。",
+        "zh": "维罗纳最古老的桥，两千多年前由罗马人建造。它在第二次世界大战中被炸毁，但人们从河底打捞出原来的石块，原样重新拼砌了起来。"
+      },
+      "coords": [45.4453, 10.9959]
+    },
+    {
+      "name": { "ko": "에르베 광장", "en": "Piazza delle Erbe", "ja": "エルベ広場", "zh": "香草广场" },
+      "blurb": {
+        "ko": "옛날엔 로마의 포룸이었던 이 활기찬 광장은 2000년 넘게 베로나의 시장 역할을 해 왔어요. 프레스코화로 꾸며진 건물들과 우뚝 솟은 람베르티 탑을 올려다보면, 과일과 기념품 대신 로마 상인들이 물건을 팔던 그 옛날이 떠오른답니다.",
+        "en": "Once the Roman forum, this lively square has been Verona's marketplace for over 2,000 years. Look up at the old frescoed buildings and the tall Lamberti Tower, and imagine Roman traders selling their goods here long before market stalls sold fruit and souvenirs.",
+        "ja": "かつてローマのフォロ（広場）だったこの活気ある広場は、2000年以上ずっとヴェローナの市場として使われてきました。フレスコ画で飾られた建物と高くそびえるランベルティの塔を見上げれば、果物やお土産の代わりにローマの商人たちが品物を売っていた昔を思い浮かべられます。",
+        "zh": "这里曾是古罗马的广场，两千多年来一直是维罗纳的集市。抬头看看那些绘有壁画的建筑和高耸的兰贝尔蒂塔，想象一下罗马商人曾在这里做生意，而不是像现在这样卖水果和纪念品。"
+      },
+      "coords": [45.4436, 10.9975]
+    }
+  ]
+}

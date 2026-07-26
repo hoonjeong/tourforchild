@@ -1,0 +1,120 @@
+{
+  "id": "danang",
+  "country": "vn",
+  "coords": [16.0544, 108.2022],
+  "name": { "ko": "다낭", "en": "Da Nang", "ja": "ダナン", "zh": "岘港" },
+  "tagline": {
+    "ko": "불 뿜는 용 다리와 구름 위 황금 손이 있는 신비한 바닷가 도시",
+    "en": "The seaside city with a fire-breathing dragon bridge and giant golden hands in the clouds",
+    "ja": "火をふく龍の橋と、雲の上の黄金の手がある不思議な海辺の街",
+    "zh": "拥有喷火龙桥与云端金手的神奇海滨之城"
+  },
+  "story": {
+    "ko": [
+      "'베트남'이라는 이름이 생기기 훨씬 전, 이 바닷가에는 '참파'라는 항해 왕국이 있었어요. 참파의 뱃사람들은 바다를 누비며 무역을 했고, 예술가들은 신과 무희의 모습을 아름다운 돌조각으로 남겼답니다. 다낭은 바로 이 한강이 바다와 만나는 자리에서 자라났고, 천 년이 넘도록 크고 작은 배들이 항구를 드나들었어요.",
+      "도시 남쪽으로 조금만 가면, 논 한가운데 갑자기 다섯 개의 신기한 돌산이 솟아 있어요. 옛이야기에 따르면 커다란 용이 이곳에 알을 낳았고, 알이 깨어나자 거북 신령이 산속에서 아기 용을 몰래 키웠대요. 오늘날 이 산들 안에는 동굴과 숨겨진 절, 바위를 깎아 만든 비밀 계단이 가득하답니다.",
+      "다낭에는 진짜로 불을 뿜는 다리가 있어요! 한강을 가로지르는 커다란 황금빛 용 모양 다리인데, 주말 밤이 되면 환하게 빛나다가 갑자기 입에서 진짜 불꽃과 시원한 물안개를 뿜어낸답니다. 그 모습을 보던 사람들은 저마다 '우와!' 하고 탄성을 지르죠. 용의 기운이 지금도 이 도시에 살아 있다는 걸 보여주는 셈이에요.",
+      "다낭 뒤편 안개 낀 산속에는 마치 구름 위를 떠다니는 듯한 다리가 있는데, 커다란 돌 손 두 개가 그 다리를 받치고 있어요. 바다 쪽 초록빛 반도에는 하얀 대불상이 우뚝 서서, 바다로 나가는 어선들을 지켜본답니다. 신비한 산과 불 뿜는 용 다리, 하늘을 떠받친 거대한 손까지 — 다낭은 마치 진짜로 이루어진 동화 나라 같아요."
+    ],
+    "en": [
+      "Long before Vietnam was called Vietnam, a seafaring kingdom called Champa ruled this coast. Its sailors traded up and down the sea, and its artists carved beautiful stone statues of gods and dancers. Da Nang grew up right where the Han River meets the ocean, and boats have been sliding in and out of its harbor for more than a thousand years.",
+      "Just south of the city, five strange stone hills rise straight out of the flat rice fields. Long ago, people believed a giant dragon laid an egg there, and when it hatched, a turtle god secretly raised the baby dragon inside the mountain. Today these hills are hollowed out with caves, hidden temples, and secret staircases carved right into the rock.",
+      "Da Nang has a bridge that can actually breathe fire! Shaped like a giant golden dragon stretching across the Han River, it lights up every weekend night, then suddenly shoots real flames and cool mist from its mouth while everyone watching goes 'whoa!' It's Da Nang's way of showing the dragon's spirit is still alive in the city.",
+      "Up in the misty mountains behind Da Nang, there's a bridge that looks like it's floating in the clouds—held up by two giant hands made of stone. On a green peninsula by the sea, a huge white statue stands watch over the fishing boats heading out. Between magic mountains, a dragon bridge, and giant hands in the sky, Da Nang feels like a fairy tale that happens to be real."
+    ],
+    "ja": [
+      "「ベトナム」という名前ができるずっと前、この海辺には『チャンパ』という航海王国がありました。チャンパの船乗りたちは海を渡って交易し、芸術家たちは神さまや踊り子の姿を美しい石の彫刻に残しました。ダナンはハン川が海と出会うこの場所で育ち、千年以上も大小の船が港を出入りしてきました。",
+      "街の南へ少し行くと、田んぼのまん中に五つの不思議な石の山が突然そびえています。昔話によると、大きな龍がここに卵を産み、卵がかえると亀の神さまが山の中でひそかに子どもの龍を育てたそうです。今ではこれらの山の中に、洞窟や隠れたお寺、岩をけずって作った秘密の階段がいっぱいあります。",
+      "ダナンには本当に火をふく橋があるんです！ハン川にかかる大きな金色の龍の形をした橋で、週末の夜になるとキラキラ光り、とつぜん口から本物の炎とひんやりした霧をふき出します。それを見た人はみんな『わあっ！』と声をあげるほど。龍の力が今もこの街に生きていることを見せてくれるのですね。",
+      "ダナンの後ろに広がる霧の山の中には、まるで雲の上にうかんでいるような橋があり、二つの大きな石の手がその橋を支えています。海に面した緑の半島には、白い大きな仏さまの像が立ち、海へ出ていく漁船を見守っています。ふしぎな山、火をふく龍の橋、空を支える巨大な手——ダナンはまるで本当になったおとぎ話の国のようです。"
+    ],
+    "zh": [
+      "在“越南”这个名字出现之前很久，这片海岸就有一个叫“占婆”的航海王国。占婆的水手们乘船往来贸易，艺术家们把神明和舞者的模样刻成了美丽的石雕。岘港正是在韩江与大海相遇的地方成长起来的，一千多年来，大大小小的船只一直在这里的港口进进出出。",
+      "从市区往南走一小段路，稻田中央突然冒出五座奇特的石山。传说很久以前一条巨龙在这里产下了龙蛋，蛋孵化后，龟神便在山中偷偷把小龙养大。如今这些山里布满了洞穴、隐秘的寺庙，还有直接在岩石上凿出的秘密台阶。",
+      "岘港有一座真的会喷火的桥！它横跨韩江，形状像一条金色巨龙，每到周末夜晚就会亮起灯光，然后突然从嘴里喷出真正的火焰和清凉的水雾。看到的人都会忍不住惊呼“哇！”这仿佛在告诉大家，龙的力量至今仍活在这座城市里。",
+      "岘港背后云雾缭绕的山中，有一座看起来像漂浮在云端的桥，由两只巨大的石手托举着。而在海边一座绿意盎然的半岛上，一尊洁白的巨大佛像静静伫立，守望着出海的渔船。神秘的山、喷火的龙桥，还有撑起天空的巨手——岘港就像一个真实存在的童话王国。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "다낭 남쪽의 오행산(마블마운틴)은 금·수·목·화·토, 다섯 원소의 이름을 하나씩 딴 다섯 개의 돌산이에요.",
+      "한강을 가로지르는 용다리는 주말 밤마다 진짜 불꽃과 물안개를 입에서 뿜어낸답니다.",
+      "바나힐의 골든 브릿지는 커다란 돌 손 두 개가 떠받치고 있는데, 마치 오래된 유적 같지만 사실 2018년에 새로 만들어졌어요.",
+      "미케 해변은 예전에 외국 군인들이 '차이나 비치'라고 불렀는데, 지금은 세계에서 가장 아름다운 해변 중 하나로 꼽혀요.",
+      "오행산 동굴 안에는 진짜 절과 불상이 바위를 깎아 만들어져 있고, 천장 구멍으로 햇빛이 쏟아져 들어오는 곳도 있어요.",
+      "손짜 반도의 하얀 관음상은 높이가 아파트 24층 건물만큼이나 커요. 바다를 향해 서서 어부들을 지켜준답니다."
+    ],
+    "en": [
+      "Marble Mountains, just south of the city, are five stone hills named after the five elements: metal, water, wood, fire, and earth.",
+      "The Dragon Bridge across the Han River really does breathe fire and spray mist from its mouth every weekend night.",
+      "The Golden Bridge in Ba Na Hills is held up by two giant stone hands—it looks ancient and mossy, but it was actually finished in 2018.",
+      "My Khe Beach was once nicknamed 'China Beach' by foreign soldiers, and today it's ranked among the world's most beautiful beaches.",
+      "Inside Marble Mountains, real temples and Buddha statues are carved straight into the cave walls, some lit by holes open to the sky above.",
+      "The giant white Lady Buddha statue on Son Tra Peninsula stands about as tall as a 24-story building and watches over the sea for fishermen."
+    ],
+    "ja": [
+      "市の南にある五行山（マーブルマウンテン）は、金・水・木・火・土の五つの元素の名前がついた五つの石山です。",
+      "ハン川にかかる龍橋は、週末の夜になると本当に口から炎と霧をふき出します。",
+      "バーナーヒルズのゴールデンブリッジは二つの巨大な石の手で支えられていて、まるで古い遺跡みたいですが、実は2018年に完成したばかりです。",
+      "ミーケー・ビーチは昔、外国の兵士たちに『チャイナビーチ』と呼ばれていましたが、今では世界で最も美しいビーチのひとつに選ばれています。",
+      "五行山の洞くつの中には、岩をけずって作った本物のお寺や仏像があり、天井の穴から日の光が差しこむ場所もあります。",
+      "ソンチャ半島の白い観音像は、24階建てのビルくらいの高さがあり、海を向いて漁師たちを見守っています。"
+    ],
+    "zh": [
+      "岘港南边的五行山是五座以“金、水、木、火、土”五种元素命名的石山。",
+      "横跨韩江的龙桥每到周末夜晚，真的会从嘴里喷出火焰和水雾。",
+      "巴拿山的金桥由两只巨大的石手托举着，看起来像古老遗迹，其实是2018年才建成的。",
+      "美溪海滩曾被外国士兵称为“中国海滩”，如今被评为世界上最美丽的海滩之一。",
+      "五行山的洞穴里有直接在岩壁上凿出的真实寺庙和佛像，有些洞顶还有天然的透光孔。",
+      "山茶半岛上洁白的观音像大约有24层楼那么高，面朝大海守护着出海的渔民。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "진짜로 불을 뿜는 다리를 건널 용기가 있을까?",
+    "en": "Would you dare walk across a bridge that suddenly breathes real fire?",
+    "ja": "本当に火をふく橋を渡る勇気、ある？",
+    "zh": "你敢走过一座会突然喷火的桥吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "오행산 (마블마운틴)", "en": "Marble Mountains", "ja": "五行山（マーブルマウンテン）", "zh": "五行山（大理石山）" },
+      "blurb": {
+        "ko": "다섯 개의 돌산 안에는 동굴 절과 불상이 숨어 있어요. 계단을 오르면 다낭 시내와 바다가 한눈에 펼쳐진답니다. 용이 알을 낳았다는 전설의 무대이기도 해요.",
+        "en": "Hidden inside these five stone hills are cave temples and Buddha statues carved right into the rock. Climb the stairs and the whole city and coastline spread out below you. This is also the legendary spot where a dragon is said to have laid its egg.",
+        "ja": "五つの石山の中には、岩をけずって作った洞くつの寺と仏像が隠れています。階段を登ると、ダナンの街と海が一望できます。ここは龍が卵を産んだという伝説の舞台でもあります。",
+        "zh": "这五座石山中藏着凿刻在岩壁上的洞穴寺庙和佛像。沿着台阶爬上去，岘港市区和海岸线尽收眼底。这里也是传说中巨龙产卵的地方。"
+      },
+      "coords": [16.0021, 108.2625]
+    },
+    {
+      "name": { "ko": "용다리", "en": "Dragon Bridge", "ja": "龍橋（ドラゴンブリッジ）", "zh": "龙桥" },
+      "blurb": {
+        "ko": "6개의 차선을 가진 커다란 용 모양 다리예요. 주말 밤 9시가 되면 다리 위 용머리가 진짜 불과 물을 뿜어내는 깜짝 쇼가 펼쳐진답니다.",
+        "en": "A huge six-lane bridge shaped like a coiling dragon. Every weekend at 9pm, the dragon's head puts on a surprise show, blasting real fire and water into the night.",
+        "ja": "とぐろを巻く龍の形をした、6車線もある大きな橋。週末の夜9時になると、龍の頭から本物の炎と水がふき出すサプライズショーが始まります。",
+        "zh": "这是一座造型像蟠龙的六车道大桥。每逢周末晚上九点，龙头会突然喷出真正的火焰和水柱，上演一场惊喜表演。"
+      },
+      "coords": [16.0610, 108.2245]
+    },
+    {
+      "name": { "ko": "골든 브릿지 (바나힐)", "en": "Golden Bridge (Ba Na Hills)", "ja": "ゴールデンブリッジ（バーナーヒルズ）", "zh": "金桥（巴拿山）" },
+      "blurb": {
+        "ko": "구름 위에 떠 있는 듯한 황금빛 다리를, 이끼 낀 거대한 돌 손 두 개가 떠받치고 있어요. 케이블카를 타고 산 위로 올라가면 만날 수 있는데, 마치 동화 속 세상에 들어온 기분이 든답니다.",
+        "en": "A golden bridge that seems to float above the clouds, held up by two giant stone hands covered in 'moss.' You ride a cable car up the mountain to reach it, and it feels like stepping straight into a fairy tale.",
+        "ja": "雲の上にうかんでいるような金色の橋を、苔むした巨大な石の手が二つ支えています。ケーブルカーで山を登った先にあり、まるでおとぎ話の世界に入りこんだような気分になります。",
+        "zh": "一座仿佛悬浮在云端的金色桥梁，由两只布满“苔藓”的巨大石手托举着。乘缆车登上山顶就能到达，仿佛一脚踏进了童话世界。"
+      },
+      "coords": [15.9977, 107.9945]
+    },
+    {
+      "name": { "ko": "손짜 반도 관음상", "en": "Lady Buddha of Son Tra", "ja": "ソンチャ半島の観音像", "zh": "山茶半岛观音像" },
+      "blurb": {
+        "ko": "손짜 반도에 서 있는 하얀 관음상은 다낭에서 가장 큰 불상이에요. 바다를 향해 두 팔을 벌리고 서서, 폭풍우 속 어부들을 지켜준다고 믿어져요.",
+        "en": "The tall white Lady Buddha standing on Son Tra Peninsula is the biggest statue in Da Nang. She faces the sea with open arms, and fishermen believe she watches over them through every storm.",
+        "ja": "ソンチャ半島に立つ白い観音像は、ダナンで最も大きな仏像です。海に向かって両腕を広げて立ち、嵐の中でも漁師たちを見守ってくれると信じられています。",
+        "zh": "矗立在山茶半岛的白色观音像是岘港最大的佛像。她面朝大海、张开双臂，渔民们相信无论风浪多大，她都在守护着他们。"
+      },
+      "coords": [16.1019, 108.2803]
+    }
+  ]
+}

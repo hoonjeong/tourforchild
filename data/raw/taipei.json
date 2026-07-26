@@ -1,0 +1,120 @@
+{
+  "id": "taipei",
+  "country": "tw",
+  "coords": [25.0330, 121.5654],
+  "name": { "ko": "타이베이", "en": "Taipei", "ja": "台北（タイペイ）", "zh": "台北" },
+  "tagline": {
+    "ko": "2000년 넘은 보물과 기록적인 타워가 함께 하늘을 채우는 도시",
+    "en": "The city where centuries-old treasures and a record-breaking tower share the same skyline",
+    "ja": "千年を超える宝物と記録的なタワーが同じ空を分かち合う街",
+    "zh": "千年珍宝与破纪录高塔共享同一片天空的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 타이완 북쪽 끝에는 초록빛 산으로 둘러싸인 널찍하고 안개 자욱한 분지가 있었어요. 강물이 습지 사이를 굽이굽이 흘렀고, 그곳엔 케타갈란족 사람들이 물고기를 잡고 농사를 지으며 살았답니다. 훗날 이곳에 성벽으로 둘러싸인 도시가 세워졌고, 사람들은 '타이완의 북쪽'이라는 뜻으로 '타이베이'라 불렀어요. 조용한 강가 마을은 조금씩 자라 북적이는 도시가 되었죠.",
+      "그러다 1949년, 정말 놀라운 일이 벌어졌어요. 바다 건너에서 전쟁이 한창일 때, 반짝이는 보물들 — 옥으로 깎은 조각품, 오래된 그림, 수천 년 된 황제의 보석들 — 이 서둘러 상자에 담겨 배에 실렸고, 안전하게 지키기 위해 타이베이로 옮겨졌답니다. 오늘날 그 보물들은 국립고궁박물원을 가득 채우고 있는데, 이는 세상에서 손꼽히는 훌륭한 컬렉션이에요.",
+      "시간이 흘러 2000년대, 타이베이는 이번엔 하늘을 향해 더 큰 꿈을 꿨어요. 사람들은 대나무를 층층이 쌓은 듯한 반짝이는 타워, '타이베이 101'을 세웠는데, 얼마나 높았던지 몇 년 동안이나 세계에서 가장 높은 건물 기록을 지켰답니다. 그런데 이 섬에는 태풍과 지진이 자주 찾아오기 때문에, 건물 안에는 작은 집만큼이나 커다란 황금빛 공을 매달아 살살 흔들리게 해서 건물 전체를 든든하게 지탱하도록 만들었어요.",
+      "오늘날 타이베이를 걸으면 하루 오후 만에 시간여행을 떠날 수 있어요. 향 연기 피어오르는 오래된 사원에서 신들에게 인사를 하고, 이곳에서 처음 만들어진 버블티를 한 모금 마신 다음, 엘리베이터를 타고 89층까지 올라가 산 너머로 지는 해를 바라보는 거죠. 옛것과 새것, 땅과 하늘 — 타이베이는 이 모든 걸 하나로 품고 있답니다."
+    ],
+    "en": [
+      "Long, long ago, a wide, misty basin ringed by green mountains sat at the northern tip of Taiwan. Rivers wound through marshland where the Ketagalan people fished and farmed, calling this home. Later, settlers built a walled city here and named it Taipei — simply 'North Taiwan.' Little by little, the sleepy river town grew into a busy capital.",
+      "Then, in 1949, something extraordinary happened. As war raged across the strait, crates and crates of dazzling treasures — jade carvings, ancient paintings, emperors' jewels thousands of years old — were rushed onto ships and sailed to Taipei to keep them safe. Today those treasures fill the National Palace Museum, one of the greatest collections on Earth.",
+      "Fast forward to the 2000s, and Taipei dreamed even bigger — straight up. Engineers built Taipei 101, a shimmering tower shaped like stacked bamboo, so tall it held the world record for years. But typhoons and earthquakes shake this island often, so inside the tower they hung a giant golden ball the size of a small house, swinging gently to keep the whole building steady.",
+      "Walk through Taipei today and you can time-travel in a single afternoon: bow before ancient gods at a smoky temple, sip a bubble tea invented right here, then ride an elevator to the 89th floor and watch the sun set over the mountains. Old and new, ground and sky — Taipei holds them all together."
+    ],
+    "ja": [
+      "はるか昔、台湾の北のはしに、緑の山々に囲まれた広くて霧深い盆地がありました。川が湿地の間をくねくねと流れ、そこにはケタガラン族の人々が魚をとり、畑をたがやして暮らしていました。のちにこの地に城壁で囲まれた街がつくられ、人々は『台湾の北』という意味で『台北』と呼びました。静かな川辺の町は少しずつ育ち、にぎやかな都になっていきました。",
+      "そして1949年、とても驚くべきことが起こりました。海の向こうで戦争が激しくなっていたころ、きらめく宝物たち――翡翠の彫刻、古い絵画、何千年も前の皇帝の宝石――が急いで箱づめされ、船に積まれて、安全のために台北へと運ばれたのです。今日、それらの宝物は国立故宮博物院を埋めつくしており、世界でも指折りのすばらしいコレクションになっています。",
+      "時は流れて2000年代、台北は今度は空に向かって大きな夢を見ました。人々は竹を積み重ねたような形の光る塔『台北101』を建てましたが、あまりの高さに何年もの間、世界一高いビルの記録を持っていました。でもこの島には台風や地震がよくやってくるので、ビルの中には小さな家ほどもある金色の球をつるし、ゆっくりと揺れることでビル全体をしっかり支えるようにしたのです。",
+      "今、台北を歩けば、ひとつの午後でタイムトラベルができます。お香のけむる古いお寺で神さまにあいさつをし、ここで生まれたタピオカミルクティーをひと口飲んでから、エレベーターで89階まで上がって山の向こうに沈む夕日をながめる。古いものと新しいもの、地上と空――台北はそのすべてを一つにまとめているのです。"
+    ],
+    "zh": [
+      "很久很久以前，在台湾北端，有一片被青翠山峦环绕、雾气缭绕的宽阔盆地。河流蜿蜒穿过沼泽湿地，凯达格兰族人在这里捕鱼耕种，安居乐业。后来，人们在这里建起了一座有城墙环绕的城市，因为它位于“台湾北部”，便取名为“台北”。这座安静的河边小城，渐渐长成了一座热闹的都市。",
+      "到了1949年，一件了不起的事情发生了。当海峡对岸战火纷飞之时，一箱箱闪耀的珍宝——玉雕、古画、几千年前皇帝的珠宝——被匆匆装箱运上船，跨海送到台北妥善保存。如今，这些珍宝填满了国立故宫博物院，成为世界上数一数二的伟大收藏。",
+      "时间来到21世纪初，台北这次把梦想投向了天空。人们建起了一座形似层层竹节的闪亮高塔——台北101，它高得惊人，曾连续多年保持“世界第一高楼”的纪录。可是这座岛屿常常遭遇台风和地震，于是工程师在大楼里悬挂了一个像小房子那么大的金色圆球，让它轻轻摆动，稳稳撑住整栋大楼。",
+      "如今漫步台北，一个下午就能完成一次时空旅行：先到烟雾缭绕的古庙向神明问好，喝一杯诞生于此的珍珠奶茶，再搭电梯直上89楼，眺望夕阳落入远山。旧与新，地面与天空——台北把这一切都融合在了一起。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "타이베이 101은 2004년부터 2010년까지 세계에서 가장 높은 건물이라는 기록을 갖고 있었어요.",
+      "건물 안에는 무게가 약 660톤이나 되는 거대한 황금빛 흔들이 공(댐퍼)이 매달려 있어요. 태풍이나 지진이 와도 건물이 흔들리지 않게 잡아주는데, 창문 너머로 직접 볼 수도 있답니다!",
+      "국립고궁박물원에는 무려 70만 점에 가까운 보물이 있어서, 한 번에 아주 일부만 전시하고 계속 바꿔가며 보여준대요.",
+      "그중 가장 유명한 작품은 배추 모양 그대로 조각한 옥 공예품인데, 잎사귀 사이에 작은 여치까지 숨어 있어요.",
+      "쫀득한 타피오카 알갱이가 들어간 달콤한 밀크티, 버블티는 바로 이곳 타이완에서 처음 만들어져 지금은 전 세계 사람들이 즐겨 마셔요.",
+      "용산사는 1738년부터 자리를 지켜온 사원인데, 여러 신을 한꺼번에 모시고 있어서 사람들은 사랑, 좋은 성적, 건강을 빌러 각기 다른 자리를 찾아간대요."
+    ],
+    "en": [
+      "Taipei 101 held the world record for tallest building from 2004 to 2010.",
+      "Inside the tower hangs a giant golden damper ball weighing about 660 tons, swinging to keep the building steady during typhoons and earthquakes—you can see it through a window!",
+      "The National Palace Museum holds nearly 700,000 treasures, so many that only a small slice can be shown at once, with exhibits rotated regularly.",
+      "One of its most famous pieces is a jade carving shaped exactly like a Chinese cabbage, with a tiny grasshopper hidden among the leaves.",
+      "Bubble tea—sweet milk tea with chewy tapioca pearls—was invented right here in Taiwan and is now loved all over the world.",
+      "Longshan Temple has stood since 1738 and honors many different gods at once, so people visit different corners to wish for love, good grades, or good health."
+    ],
+    "ja": [
+      "台北101は2004年から2010年まで、世界一高いビルという記録を持っていました。",
+      "ビルの中には重さ約660トンもの巨大な金色の振り子（ダンパー）がつるされていて、台風や地震が来てもビルが揺れすぎないように支えています。窓ごしに実際に見ることもできるんです！",
+      "国立故宮博物院にはなんと70万点近くの宝物があり、一度に展示できるのはほんの一部だけ。展示品は少しずつ入れ替えられています。",
+      "その中でも一番有名な作品は、白菜そっくりの形に彫られた翡翠の彫刻で、葉っぱの間には小さなキリギリスまでかくれています。",
+      "もちもちのタピオカが入った甘いミルクティー、タピオカミルクティーはここ台湾で生まれ、今では世界中の人に愛されています。",
+      "龍山寺は1738年からこの地に立つお寺で、たくさんの神さまを一度にまつっているので、人々は恋愛、成績、健康など願いごとによって別々の場所にお参りするそうです。"
+    ],
+    "zh": [
+      "台北101在2004年到2010年间，曾保持“世界最高建筑”的纪录。",
+      "大楼内悬挂着一个重达约660吨的巨大金色阻尼球，它靠轻轻摆动来抵消台风和地震带来的晃动，游客隔着窗户就能亲眼看到！",
+      "国立故宫博物院收藏了将近70万件珍宝，多到一次只能展出很小一部分，展品会定期轮换。",
+      "其中最有名的一件，是雕成大白菜模样的翠玉作品，叶片间还藏着一只小小的蝈蝈。",
+      "Q弹珍珠加甜甜奶茶做成的珍珠奶茶，就是在台湾发明的，如今全世界的人都爱喝。",
+      "龙山寺自1738年就矗立至今，同时供奉着许多不同的神明，人们会依照心愿——姻缘、学业、健康——到不同的角落祈求。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "작은 집만큼 커다란 황금빛 공이 초고층 빌딩 안에 매달려 있대. 왜 그런지 맞혀볼래?",
+    "en": "A gold ball the size of a small house hangs inside a skyscraper—can you guess why?",
+    "ja": "小さな家くらい大きな金色の球が、超高層ビルの中につるされているんだって。どうしてか当ててみる？",
+    "zh": "一个像小房子那么大的金色圆球被挂在摩天大楼里面，你能猜到为什么吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "타이베이 101", "en": "Taipei 101", "ja": "台北101", "zh": "台北101" },
+      "blurb": {
+        "ko": "한때 세계에서 가장 높았던 건물로, 대나무 모양의 이 타워는 101층이나 되고 안에는 폭풍 속에서도 건물을 지켜주는 커다란 황금빛 공이 매달려 있어요. 초고속 엘리베이터를 타고 전망대에 오르면 도시 전체가 발아래 펼쳐진답니다.",
+        "en": "Once the tallest building on Earth, this bamboo-shaped tower has 101 floors and a giant golden damper ball swinging inside to keep it steady in storms. Ride the super-fast elevator to the observation deck and see the whole city spread out below.",
+        "ja": "かつて世界一高かった建物で、竹のような形をしたこのタワーは101階建て。中には嵐から建物を守る巨大な金色の球がつるされています。超高速エレベーターで展望台に上がれば、街全体が足もとに広がります。",
+        "zh": "这座曾是世界最高的建筑，外形像层层竹节，共有101层，内部悬挂着在暴风中保护大楼的巨大金色阻尼球。乘超高速电梯登上观景台，整座城市尽收眼底。"
+      },
+      "coords": [25.0340, 121.5645]
+    },
+    {
+      "name": { "ko": "국립고궁박물원", "en": "National Palace Museum", "ja": "国立故宮博物院", "zh": "国立故宫博物院" },
+      "blurb": {
+        "ko": "1949년 바다 건너로 옮겨진 70만 점에 가까운 보물들이 모여 있는 곳이에요. 잎사귀 사이에 여치가 숨어 있는 그 유명한 옥 배추도 여기 있죠. 보물이 너무 많아서 매일 새로운 방을 봐도 다 보려면 몇 년이 걸린대요.",
+        "en": "Home to nearly 700,000 treasures rescued and shipped across the sea in 1949, including the famous jade 'cabbage' with its hidden grasshopper. There's so much here that even seeing a new room every day, it would take years to see it all.",
+        "ja": "1949年に海を越えて運ばれた、70万点近い宝物が集まる場所。葉っぱの間にキリギリスが隠れた、あの有名な翡翠の白菜もここにあります。宝物があまりに多く、毎日ちがう部屋を見ても全部見るのに何年もかかるそうです。",
+        "zh": "这里收藏着1949年跨海运来的近70万件珍宝，包括那件叶间藏着蝈蝈的著名翠玉白菜。珍宝数量多到即使每天参观不同展厅，也要好几年才能看完。"
+      },
+      "coords": [25.1024, 121.5485]
+    },
+    {
+      "name": { "ko": "용산사", "en": "Longshan Temple", "ja": "龍山寺", "zh": "龙山寺" },
+      "blurb": {
+        "ko": "1738년에 지어진 이 향 연기 자욱하고 화려한 사원에는 여러 신이 한 지붕 아래 모셔져 있어요. 아이도 어른도 이곳에 와서 절을 하고 향을 피우며 소원을 빌어요. 어느 자리를 찾아가느냐에 따라 사랑, 좋은 성적, 건강을 빌 수 있답니다.",
+        "en": "Built in 1738, this smoky, colorful temple honors many gods under one roof. Kids and grown-ups alike come to bow, light incense, and make a wish—for love, good grades, or good health, depending on which corner they visit.",
+        "ja": "1738年に建てられた、お香のけむる色あざやかなこの寺には、たくさんの神さまが一つ屋根の下にまつられています。子どもも大人もお参りに来て、お香をあげ、願いごとをします。どの場所を訪れるかで、恋愛や成績、健康を願うのだそうです。",
+        "zh": "建于1738年，这座香烟缭绕、色彩缤纷的寺庙供奉着众多神明。无论大人小孩都会来这里参拜、上香、许愿——依照所到的角落不同，可以祈求姻缘、学业或健康。"
+      },
+      "coords": [25.0374, 121.5199]
+    },
+    {
+      "name": { "ko": "스린 야시장", "en": "Shilin Night Market", "ja": "士林夜市", "zh": "士林夜市" },
+      "blurb": {
+        "ko": "타이베이에서 가장 크고 유명한 야시장 중 하나로, 지글지글 소리 나는 길거리 음식 노점과 게임, 그리고 취두부 냄새로 가득해요. 대만 야시장이 왜 세계적으로 유명한지 직접 맛볼 수 있는 최고의 장소랍니다.",
+        "en": "One of Taipei's biggest and most famous night markets, packed with sizzling street food stalls, games, and the smell of stinky tofu in the air. It's the best place to taste why Taiwanese night markets are famous around the world.",
+        "ja": "台北で最も大きく有名な夜市の一つ。ジュウジュウ音を立てる屋台やゲーム、そして臭豆腐のにおいでいっぱいです。台湾の夜市がなぜ世界的に有名なのか、実際に味わえる最高の場所です。",
+        "zh": "这是台北规模最大、最有名的夜市之一，摊位上滋滋作响的小吃、各种游戏，还有空气中飘散的臭豆腐味。这里是亲身体验台湾夜市为何闻名世界的最佳去处。"
+      },
+      "coords": [25.0880, 121.5240]
+    }
+  ]
+}

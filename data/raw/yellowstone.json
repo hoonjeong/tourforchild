@@ -1,0 +1,120 @@
+{
+  "id": "yellowstone",
+  "country": "us",
+  "coords": [44.4280, -110.5885],
+  "name": { "ko": "옐로스톤", "en": "Yellowstone", "ja": "イエローストーン", "zh": "黄石" },
+  "tagline": {
+    "ko": "땅이 불을 숨쉬고, 무지개빛 웅덩이가 보글대는 세계 최초의 국립공원",
+    "en": "The world's first national park — where the ground breathes fire and rainbow pools bubble",
+    "ja": "大地が火を呼吸し、虹色の池がわき立つ、世界最初の国立公園",
+    "zh": "大地呼吸着火焰、彩虹水池咕嘟冒泡的世界第一座国家公园"
+  },
+  "story": {
+    "ko": [
+      "네 발밑에 커다랗고 졸린 용이 잠들어 있다고 상상해 보세요. 불을 뿜는 대신 뜨거운 물을 하늘로 '푸우' 뿜어낸다면 어떨까요? 그게 바로 옐로스톤이에요! 김이 모락모락 나는 간헐천이 쉭쉭 소리를 내고, 무지개빛 웅덩이가 보글보글 끓고, 진흙 웅덩이는 오트밀처럼 뽀글뽀글 튀어요. 이 모든 게 가능한 이유는 옐로스톤이 지구에서 가장 큰 화산 중 하나 위에 자리 잡고 있기 때문이에요. 그리고 이 화산은 지금도 여전히 살아 있답니다.",
+      "아주 오래전, 탐험가들이 옐로스톤에서 돌아와 하늘로 물이 솟구치고 진흙이 부글부글 끓는다고 이야기했을 때, 사람들은 아무도 믿지 않았어요! 너무 말도 안 되는 이야기처럼 들렸거든요. 하지만 1872년, 미국은 이 놀라운 땅을 영원히 지키기로 했어요. 그렇게 옐로스톤은 전 세계 최초의 국립공원이 되었답니다.",
+      "공원의 진짜 스타는 '올드 페이스풀'이라는 간헐천이에요. 이 녀석은 어찌나 믿음직한지, 약 90분마다 마치 시계처럼 정확하게 수십 미터 높이로 뜨거운 물을 뿜어낸답니다. 근처에 있는 '그랜드 프리즈매틱 스프링'은 활활 타는 주황색, 눈부신 노란색, 짙은 파란색으로 반짝여요. 페인트를 칠한 게 아니라, 펄펄 끓는 물을 좋아하는 아주 작은 생물, 미생물들이 만들어 낸 색깔이랍니다.",
+      "옐로스톤은 불과 물만 있는 곳이 아니에요. 동물들이 마음껏 뛰노는 야생의 보금자리이기도 하답니다. 털북숭이 커다란 들소들이 도로 한가운데를 유유히 걸어 다니고, 회색곰은 강에서 물고기를 잡고, 늑대들은 숲속에서 울부짖어요. 사실 늑대는 거의 70년 동안 이 공원에서 완전히 사라졌었는데, 1995년에 사람들이 다시 데려왔어요. 그러자 공원 전체가 서서히 더 건강하고 야생다워졌답니다."
+    ],
+    "en": [
+      "Imagine a giant, sleepy dragon snoozing right under your feet — but instead of breathing fire, it huffs hot water into the sky. That's Yellowstone! Steamy geysers hiss, rainbow-colored pools bubble, and mud pots plop like giant bowls of oatmeal. All of this happens because Yellowstone sits on top of one of the biggest volcanoes on Earth — and it's still very much alive.",
+      "Long ago, when explorers first came back from Yellowstone and told people about water shooting into the sky and mud that boiled and popped, almost nobody believed them! It sounded too wild to be true. But in 1872, the United States decided to protect this amazing land forever — making Yellowstone the very first national park in the whole world.",
+      "The star of the park is Old Faithful, a geyser so reliable it blasts a fountain of hot water dozens of meters high about every ninety minutes, like clockwork. Nearby, Grand Prismatic Spring glows in fiery orange, sunny yellow, and deep blue — not from paint, but from tiny living creatures called microbes that love to live in super-hot water.",
+      "Yellowstone isn't just fire and water — it's also a wild, wild home for animals. Huge, shaggy bison wander right across the roads, grizzly bears fish in rivers, and howling wolves roam the forests. Wolves actually disappeared from the park for almost 70 years — until people brought them back in 1995, and the whole park slowly grew wilder and healthier again."
+    ],
+    "ja": [
+      "自分の足の下に、大きな眠った竜がねむっていると想像してみて。火を吐くかわりに、熱いお湯を空にふーっと吹き上げたら？それがイエローストーンです！湯気の立つ間欠泉がシューシュー音を立て、虹色の池がぽこぽこわき、泥だまりはオートミールみたいにぽこぽこはねます。これが全部起きるのは、イエローストーンが地球で一番大きな火山の一つの上にあるからで、しかもその火山は今も生きているんです。",
+      "その昔、探検家たちがイエローストーンから帰ってきて、空高く水がふき出し、泥がぐつぐつ煮えたつと話したとき、だれも信じませんでした！あまりにも信じられない話だったからです。でも1872年、アメリカはこのすばらしい土地を永遠に守ることに決めました。こうしてイエローストーンは、世界で最初の国立公園になったのです。",
+      "公園いちばんのスターは『オールド・フェイスフル』という間欠泉。とても律儀で、およそ90分おきに、まるで時計みたいに正確に、何十メートルもの高さまで熱いお湯を吹き上げます。近くにある『グランド・プリズマティック・スプリング』は、燃えるようなオレンジ、まぶしい黄色、深い青にきらめきます。これはペンキではなく、めちゃくちゃ熱いお湯が大好きな小さな微生物たちが作り出す色なんです。",
+      "イエローストーンは火と水だけの場所ではありません。動物たちが自由に暮らす野生の楽園でもあるんです。毛むくじゃらの大きなバイソンが道のまん中をのんびり歩き、ハイイログマは川で魚をつかまえ、オオカミは森の中で遠ぼえします。実はオオカミは70年近くもこの公園から姿を消していましたが、1995年に人々がまた連れてきました。すると公園全体が少しずつ、もっと健康で野生らしくなっていったのです。"
+    ],
+    "zh": [
+      "想象一下，你的脚下正睡着一条巨大又爱打盹的龙——它不会喷火，却会把滚烫的水“呼”地喷向天空。这就是黄石！蒸腾的间歇泉嘶嘶作响，五彩斑斓的水池咕嘟咕嘟冒泡，泥浆潭像燕麦粥一样噗噗地冒泡。这一切之所以能发生，是因为黄石就坐落在地球上最大的火山之一上面——而且这座火山至今仍然“活着”。",
+      "很久以前，探险家们从黄石回来，讲起水柱冲天、泥浆咕嘟咕嘟沸腾的事，几乎没有人相信！听起来实在太不可思议了。可是到了1872年，美国决定要永远保护这片神奇的土地。就这样，黄石成为了全世界第一座国家公园。",
+      "公园里的大明星是一座叫“老忠实泉”的间歇泉。它非常守时，大约每90分钟就会像时钟一样精准地喷出几十米高的热水柱。附近的“大棱镜温泉”闪耀着火焰般的橙色、耀眼的黄色和深邃的蓝色——这可不是油漆画的，而是无数喜欢生活在滚烫热水里的微小生物染出来的颜色。",
+      "黄石不只有火和水，它还是动物们自由自在的野性家园。毛茸茸的大野牛就在路中央悠闲踱步，灰熊在河里捕鱼，狼群在森林里嗥叫。其实狼曾经在这座公园里消失了将近70年，直到1995年人们才把它们重新带回来。从那以后，整座公园慢慢变得更健康、也更加“野”了。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "옐로스톤은 1872년, 세계 최초의 국립공원이 되었어요. 그전까지는 어떤 나라도 그냥 '아름답다'는 이유로 땅을 지켜준 적이 없었대요.",
+      "옐로스톤에는 지구 어디보다 많은 간헐천이 있어요. 500개가 넘는데, 이건 전 세계 간헐천의 절반이 넘는 숫자예요!",
+      "올드 페이스풀은 약 90분마다 물을 최대 55미터 높이까지 뿜어요. 15층 건물 높이만큼이나 높답니다.",
+      "그랜드 프리즈매틱 스프링의 무지개색은 페인트가 아니라, 뜨거운 물을 좋아하는 수조 마리의 작은 미생물들이 만들어낸 거예요.",
+      "옐로스톤 땅은 해마다 아주 조금씩 부풀었다 가라앉았다 해요. 마치 그 아래 잠든 거대한 화산이 숨을 쉬는 것처럼요.",
+      "늑대는 거의 70년 동안 옐로스톤에서 사라졌었어요. 1995년에 다시 돌아오자, 강과 숲도 함께 더 건강해졌답니다!"
+    ],
+    "en": [
+      "Yellowstone became the world's very first national park in 1872 — before that, no country had ever protected a place just because it was wonderful.",
+      "There are more geysers in Yellowstone than anywhere else on Earth — over 500, more than half of all the geysers in the whole world!",
+      "Old Faithful shoots hot water up to 55 meters high — about as tall as a 15-story building — roughly every 90 minutes.",
+      "Grand Prismatic Spring's rainbow colors come from trillions of tiny microbes that love living in scalding-hot water, not from paint or dye.",
+      "The ground at Yellowstone actually rises and falls a little every year, like the giant volcano underneath is slowly breathing.",
+      "Wolves vanished from Yellowstone for almost 70 years. When they came back in 1995, they helped rivers and forests grow healthier too!"
+    ],
+    "ja": [
+      "イエローストーンは1872年、世界で最初の国立公園になりました。それまで、どこの国も『美しいから』という理由だけで土地を守ったことはなかったそうです。",
+      "イエローストーンには地球のどこよりも多くの間欠泉があります。500以上あり、これは世界中の間欠泉の半分以上にあたる数なんです！",
+      "オールド・フェイスフルは約90分おきに、最大55メートルの高さまでお湯をふき上げます。15階建てのビルくらいの高さです。",
+      "グランド・プリズマティック・スプリングの虹色は、ペンキではなく、熱いお湯が大好きな何兆もの小さな微生物が作り出しています。",
+      "イエローストーンの地面は、毎年ほんの少しずつふくらんだりしずんだりしています。まるで下に眠る巨大な火山が呼吸しているみたいですね。",
+      "オオカミは70年近くイエローストーンから姿を消していました。1995年にもどってくると、川や森もいっしょに元気になったんです！"
+    ],
+    "zh": [
+      "黄石在1872年成为了世界上第一座国家公园。在那之前，从来没有哪个国家仅仅因为一个地方“太美”就把它保护起来。",
+      "黄石的间歇泉比地球上任何地方都多，超过500座，占了全世界间歇泉数量的一半还多！",
+      "老忠实泉大约每90分钟喷发一次，最高能喷到55米，差不多有15层楼那么高。",
+      "大棱镜温泉的彩虹色不是油漆画出来的，而是数万亿喜欢滚烫热水的微小生物“染”出来的。",
+      "黄石的地面每年都会微微鼓起又落下一点点，就像地下那座巨大的火山在悄悄呼吸一样。",
+      "狼曾经在黄石消失了将近70年。1995年它们重新归来后，河流和森林也跟着变得更健康了！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "발밑에서 잠든 화산이 숨을 쉬고 있다면, 너는 그걸 느끼거나 소리로 들을 수 있을 것 같아?",
+    "en": "If a sleeping volcano is breathing right under your feet, do you think you'd feel it — or hear it hiss?",
+    "ja": "足の下で眠る火山が呼吸しているとしたら、きみはそれを感じたり、音で聞いたりできると思う？",
+    "zh": "如果一座沉睡的火山就在你脚下呼吸，你觉得你能感觉到，或者听到它的声音吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "올드 페이스풀 간헐천", "en": "Old Faithful", "ja": "オールド・フェイスフル間欠泉", "zh": "老忠实泉" },
+      "blurb": {
+        "ko": "이 유명한 간헐천은 약 90분마다 마치 자기만의 시계를 가진 것처럼 하늘 높이 뜨거운 물을 뿜어내요. 사람들은 벤치에 둘러앉아 하늘로 솟구치는 물줄기를 구경한답니다.",
+        "en": "This famous geyser blasts hot water dozens of meters into the air roughly every 90 minutes, almost like it's keeping its own clock. Crowds gather on benches around it just to watch the sky-high splash.",
+        "ja": "この有名な間欠泉は、まるで自分だけの時計を持っているかのように、およそ90分おきに空高く熱いお湯を吹き上げます。人々はベンチに座って、空へ舞い上がる水しぶきを見物します。",
+        "zh": "这座著名的间歇泉大约每90分钟就会向空中喷出几十米高的热水，仿佛自己带着一只时钟。人们围坐在长椅上，专程来看这场直冲云霄的水柱表演。"
+      },
+      "coords": [44.4605, -110.8281]
+    },
+    {
+      "name": { "ko": "그랜드 프리즈매틱 스프링", "en": "Grand Prismatic Spring", "ja": "グランド・プリズマティック・スプリング", "zh": "大棱镜温泉" },
+      "blurb": {
+        "ko": "미국에서 가장 큰 온천으로, 하늘을 올려다보는 커다란 눈처럼 활활 타는 주황색, 노란색, 초록색 테두리를 두르고 있어요. 이 색깔들은 페인트가 아니라 뜨거운 물을 좋아하는 미생물들이 만든 거랍니다.",
+        "en": "The largest hot spring in the U.S., ringed in blazing orange, yellow, and green like a giant eye staring up at the sky. Those colors come from heat-loving microbes, not paint — the hotter the water, the different the color.",
+        "ja": "アメリカ最大の温泉で、空を見上げる巨大な目のように、燃えるようなオレンジ、黄色、緑の輪に囲まれています。この色はペンキではなく、熱いお湯が大好きな微生物たちが作り出したものです。",
+        "zh": "这是美国最大的温泉，被燃烧般的橙色、黄色和绿色环绕，就像一只仰望天空的巨大眼睛。这些颜色不是油漆画的，而是喜欢滚烫热水的微生物们制造出来的。"
+      },
+      "coords": [44.5251, -110.8383]
+    },
+    {
+      "name": { "ko": "옐로스톤 그랜드 캐니언", "en": "Grand Canyon of the Yellowstone", "ja": "イエローストーン・グランドキャニオン", "zh": "黄石大峡谷" },
+      "blurb": {
+        "ko": "강물이 깎아 만든 알록달록하고 가파른 협곡이에요. 우렁차게 쏟아지는 로어 폭포는 나이아가라 폭포보다 두 배나 높답니다. 이 협곡의 노란빛 도는 바위에서 옐로스톤이라는 이름이 나왔다고 해요!",
+        "en": "A river carved this colorful, steep-walled canyon, and the thundering Lower Falls tumbles down twice as high as Niagara Falls. The canyon's yellow-streaked rock is actually where the park got its name!",
+        "ja": "川が削り出した色あざやかで切り立った峡谷。轟音とともに落ちる下流の滝は、ナイアガラの滝の2倍もの高さがあります。この峡谷の黄色っぽい岩こそが、イエローストーンという名前の由来なんです！",
+        "zh": "这条河流冲刷出色彩斑斓、峭壁陡立的峡谷，轰鸣的下瀑布落差是尼亚加拉瀑布的两倍。这座峡谷泛黄的岩石正是“黄石”这个名字的由来！"
+      },
+      "coords": [44.7196, -110.4966]
+    },
+    {
+      "name": { "ko": "매머드 온천 테라스", "en": "Mammoth Hot Springs", "ja": "マンモス・ホット・スプリングス", "zh": "猛犸温泉台地" },
+      "blurb": {
+        "ko": "땅속에서 솟아오른 뜨거운 물이 광물을 실어 나르며 하얗고 물결치는 돌 테라스를 만들어냈어요. 마치 돌로 된 얼어붙은 폭포 같죠. 이 테라스는 지금도 매일 조금씩 자라며 모양을 바꾸고 있답니다.",
+        "en": "Hot water bubbling up from underground carries minerals that harden into wavy, white stone terraces — like a frozen waterfall made of rock. The terraces keep slowly growing and changing shape every single day.",
+        "ja": "地下からわき出す熱いお湯がミネラルを運び、波打つ白い石の段々を作り出しました。まるで石でできた凍った滝のよう。この段々は今も毎日少しずつ育ち、形を変え続けています。",
+        "zh": "从地下涌出的热水携带着矿物质，凝结成波浪状的白色石灰岩台地，就像一道被冻住的石头瀑布。这些台地至今仍在每天一点点生长、变换形状。"
+      },
+      "coords": [44.9683, -110.7024]
+    }
+  ]
+}

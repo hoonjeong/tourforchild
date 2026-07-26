@@ -1,0 +1,120 @@
+{
+  "id": "mumbai",
+  "country": "in",
+  "coords": [19.0760, 72.8777],
+  "name": { "ko": "뭄바이", "en": "Mumbai", "ja": "ムンバイ", "zh": "孟买" },
+  "tagline": {
+    "ko": "일곱 개의 섬을 이어 붙여 만든, 영화를 가장 사랑하는 바닷가 도시",
+    "en": "Seven islands stitched into one movie-loving city by the sea",
+    "ja": "七つの島をつなげてできた、映画が大好きな海辺の街",
+    "zh": "由七座小岛拼接而成、最爱电影的滨海城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 인도 서쪽 바닷가에는 섬이 무려 일곱 개나 옹기종기 흩어져 있었어요. 섬과 섬 사이는 얕은 바닷물과 갯벌로 나뉘어 있었죠. 그런데 사람들이 조금씩 그 사이를 흙과 돌로 메우기 시작했어요. 수백 년에 걸쳐 섬들이 하나둘 이어지더니, 마침내 커다란 하나의 땅이 되었답니다. 그 땅이 바로 오늘날의 '뭄바이'예요!",
+      "그렇게 태어난 뭄바이는 구불구불 길게 이어진 해안선을 갖게 됐어요. 바다를 향한 이 도시의 관문에는 커다란 돌 아치가 하나 서 있는데, 이름하여 '인도의 문'이에요. 백여 년 전에 세워진 이 문은, 배를 타고 오는 사람들이 가장 먼저 마주하는 뭄바이의 얼굴이었답니다. 지금도 뭄바이를 대표하는 가장 유명한 풍경이죠.",
+      "뭄바이에는 또 하나 세계가 다 아는 자랑거리가 있어요. 바로 '볼리우드'라는 영화 마을이에요. 이곳에서는 노래하고 춤추는 화려한 인도 영화들이 세계 어느 나라보다 많이 만들어져요. 한 해에 만들어지는 영화 편수로는 뭄바이가 세계 1등이랍니다!",
+      "뭄바이에는 아주 신기한 배달부들도 있어요. '다바왈라'라는 사람들은 매일 아침 집에서 갓 만든 따뜻한 점심 도시락을 받아, 자전거와 기차, 손수레를 갈아타며 도시 곳곳 사무실 책상까지 정확히 배달해요. 글자 주소 대신 색깔과 기호로 목적지를 알아맞히는데, 실수가 거의 없어서 전 세계 학교에서 그 비법을 연구할 정도랍니다. 섬을 이어 만든 도시가 이렇게 노래하고, 배달하고, 살아 숨 쉬고 있어요!"
+    ],
+    "en": [
+      "Long ago, seven little islands lay scattered along the western coast of India. Shallow seawater and muddy flats separated them from one another. But bit by bit, people began filling in the gaps with earth and stone. Over hundreds of years, the islands joined together one by one, until at last they became one great stretch of land. That land is the city we now call Mumbai!",
+      "Because of this stitching-together, Mumbai grew a long, winding coastline that curls along the sea. Right at its edge stands a giant stone archway called the Gateway of India. Built about a hundred years ago, it was the very first thing sailors saw as their ships arrived from across the ocean. Today, it's still Mumbai's most famous face.",
+      "Mumbai has another claim to fame that the whole world knows: Bollywood, its dazzling film town. Here, more singing, dancing, colorful movies are made every year than in any other film industry on Earth. When it comes to the sheer number of films made in a year, Mumbai wins first place!",
+      "Mumbai is also home to some very clever delivery workers called dabbawalas. Every morning they pick up warm, home-cooked lunchboxes and carry them by bicycle, train, and handcart, delivering each one to the exact right office desk by lunchtime. Instead of written addresses, they use colors and symbols to find their way—and they almost never make a mistake, which is why schools around the world study how they do it. A city built by joining islands together is still singing, delivering, and buzzing with life today!"
+    ],
+    "ja": [
+      "はるか昔、インド西の海岸に七つの小さな島が点々と散らばっていました。島と島の間は、浅い海水と泥の干潟で隔てられていました。でも人々は少しずつ、その間を土と石でうめ始めたのです。何百年もかけて島々は一つ、また一つとつながり、ついに一つの大きな陸地になりました。それが今の『ムンバイ』なんですよ！",
+      "こうしてできたムンバイは、海に沿ってくねくねと長く続く海岸線を持つようになりました。その海への玄関口には、大きな石のアーチが立っています。名前は『インド門』。今から百年ほど前に建てられ、船で訪れる人たちが真っ先に目にするムンバイの顔でした。今でもムンバイを代表する一番有名な景色です。",
+      "ムンバイには、世界中が知るもう一つの自慢があります。『ボリウッド』という映画の街です。ここでは歌って踊る色あざやかなインド映画が、世界のどの国よりもたくさん作られています。一年に作られる映画の本数では、ムンバイが世界一なんですよ！",
+      "ムンバイにはとても不思議な配達人もいます。『ダッバーワーラー』と呼ばれる人たちは、毎朝家で作られたあたたかいお弁当を受け取り、自転車や電車、荷車を乗りついで、街のあちこちのオフィスの机まできっちり届けます。文字の住所の代わりに色と記号で行き先を見分け、ほとんど間違えないので、世界中の学校がその秘密を研究しているほどです。島をつなげてできた街は、今日も歌い、配達し、生き生きと息づいています！"
+    ],
+    "zh": [
+      "很久很久以前，印度西边的海岸上散落着七座小小的岛屿。岛与岛之间，隔着浅浅的海水和泥滩。可是人们开始一点一点地用泥土和石头把中间填平。经过几百年，岛屿一个接一个连在了一起，最终变成了一整片辽阔的陆地。那片土地，就是今天的“孟买”！",
+      "就这样诞生的孟买，拥有了一条沿海蜿蜒伸展的长长海岸线。在朝向大海的门户处，矗立着一座巨大的石头拱门，名叫“印度门”。大约一百年前建成的它，是坐船而来的人们最先看到的孟买面孔。直到今天，它依然是孟买最著名的风景。",
+      "孟买还有一件全世界都知道的骄傲，那就是叫“宝莱坞”的电影之城。在这里，载歌载舞、色彩缤纷的印度电影，产量比世界上任何一个国家都要多。要论一年拍出的电影数量，孟买是世界第一！",
+      "孟买还有一群非常了不起的送餐人。他们叫“达巴瓦拉”，每天清晨取走家里刚做好的热腾腾的午餐盒，换乘自行车、火车和手推车，把它们准确无误地送到城市各处的办公桌上。他们不用文字地址，而是靠颜色和符号来辨认目的地，几乎从不出错，世界各地的学校都在研究他们的秘诀。由岛屿拼接而成的城市，至今仍在歌唱、奔忙、生机勃勃！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "뭄바이는 원래 일곱 개의 섬이었는데, 사람들이 사이사이를 메워 하나의 큰 도시로 이었어요.",
+      "'인도의 문'은 배를 타고 오는 사람들을 가장 먼저 맞이하던 커다란 돌 아치예요.",
+      "뭄바이는 노래하고 춤추는 영화를 세계 어느 나라보다 많이 만드는 '볼리우드'의 고향이에요.",
+      "'다바왈라' 배달부들은 매일 10만~20만 개의 도시락을 사무실 책상까지 정확히 배달해요.",
+      "다바왈라는 글자 주소 대신 색깔과 기호로 도시락을 구분하는데, 실수가 거의 없어서 하버드 경영대학원도 연구했대요.",
+      "'마린 드라이브'는 밤이 되면 가로등 불빛이 해안을 따라 목걸이처럼 빛나서 '여왕의 목걸이'라고 불려요."
+    ],
+    "en": [
+      "Mumbai used to be seven separate islands, until people filled in the gaps between them to make one big city.",
+      "The Gateway of India is a huge stone arch that once greeted people arriving by ship first of all.",
+      "Mumbai is home to Bollywood, which makes more singing-and-dancing movies than any other country in the world.",
+      "Dabbawala delivery workers carry 100,000 to 200,000 lunchboxes to the right office desks every single day.",
+      "Dabbawalas sort lunchboxes using colors and symbols instead of written addresses, and they barely ever make a mistake—Harvard Business School even studied how they do it.",
+      "At night, the streetlights along Marine Drive curve like a glowing necklace, which is why people call it the 'Queen's Necklace.'"
+    ],
+    "ja": [
+      "ムンバイはもともと七つの島だったけれど、人々がその間をうめて一つの大きな街につなげました。",
+      "『インド門』は、船で訪れる人たちを真っ先に迎えていた大きな石のアーチです。",
+      "ムンバイは、歌って踊る映画を世界のどの国よりもたくさん作る『ボリウッド』のふるさとです。",
+      "『ダッバーワーラー』たちは、毎日10万〜20万個ものお弁当を、正しいオフィスの机まで届けています。",
+      "ダッバーワーラーは文字の住所ではなく色と記号でお弁当を仕分け、ほとんど間違えないので、ハーバード・ビジネス・スクールまで研究したほどです。",
+      "夜になると『マリン・ドライブ』の街灯が海岸ぞいにネックレスのように輝くので、『女王の首飾り』と呼ばれています。"
+    ],
+    "zh": [
+      "孟买原本是七座各自独立的小岛，后来人们填平了岛与岛之间的空隙，把它们连成了一座大城市。",
+      "“印度门”是一座巨大的石头拱门，曾经第一个迎接乘船而来的人们。",
+      "孟买是“宝莱坞”的故乡，这里拍出的载歌载舞的电影比世界上任何一个国家都多。",
+      "“达巴瓦拉”送餐员每天要把十万到二十万个午餐盒准确送到对的办公桌上。",
+      "达巴瓦拉不用文字地址，而是靠颜色和符号来分辨午餐盒，几乎从不出错，哈佛商学院都专门研究过他们的方法。",
+      "到了夜晚，“玛丽娜海滨大道”沿岸的路灯像项链一样闪闪发光,因此被称为“女王的项链”。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "원래 일곱 개였던 섬이 지금은 하나로 딱 붙어 있대. 어떻게 그럴 수 있었을까?",
+    "en": "Seven separate islands are now all stuck together as one. How do you think that happened?",
+    "ja": "もともと七つあった島が、今は一つにぴったりくっついているんだって。どうしてそうなったと思う？",
+    "zh": "原本是七座分开的小岛，现在却紧紧连成了一体。你觉得这是怎么发生的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "인도의 문", "en": "Gateway of India", "ja": "インド門", "zh": "印度门" },
+      "blurb": {
+        "ko": "바다를 바라보고 선 거대한 돌 아치예요. 백여 년 전에 세워져, 배를 타고 온 사람들이 가장 먼저 만나던 뭄바이의 얼굴이었어요. 지금도 뭄바이 하면 가장 먼저 떠오르는 풍경이랍니다.",
+        "en": "A giant stone arch facing out to sea. Built about a hundred years ago, it was the very first sight that greeted people arriving by ship. It's still the picture that comes to mind first when you think of Mumbai.",
+        "ja": "海に向かって立つ巨大な石のアーチ。百年ほど前に建てられ、船で来た人たちが真っ先に目にするムンバイの顔でした。今でもムンバイと聞いて最初に思い浮かぶ景色です。",
+        "zh": "一座面朝大海矗立的巨大石拱门。大约一百年前建成，是乘船而来的人们最先见到的孟买面孔。直到今天，一提到孟买，人们最先想到的还是它。"
+      },
+      "coords": [18.9220, 72.8347]
+    },
+    {
+      "name": { "ko": "마린 드라이브", "en": "Marine Drive", "ja": "マリン・ドライブ", "zh": "玛丽娜海滨大道" },
+      "blurb": {
+        "ko": "아라비아해를 따라 활처럼 길게 굽은 해안 도로예요. 밤이 되면 가로등이 줄지어 반짝여서, 마치 목걸이가 바다를 감싼 듯 보여요. 그래서 사람들은 이 길을 '여왕의 목걸이'라고 부른답니다.",
+        "en": "A long, bow-shaped road curving beside the Arabian Sea. At night its streetlights glow in a row, looking just like a necklace wrapped around the water. That's why people call this road the 'Queen's Necklace.'",
+        "ja": "アラビア海に沿って弓のように長く曲がる海岸道路。夜になると街灯が一列に輝き、まるでネックレスが海を包んでいるように見えます。だから人々はこの道を『女王の首飾り』と呼びます。",
+        "zh": "一条沿着阿拉伯海弯成弓形的长长海滨大道。到了夜晚，路灯连成一排闪闪发光，看起来就像一条项链环抱着海湾。因此人们把这条路称为“女王的项链”。"
+      },
+      "coords": [18.9440, 72.8238]
+    },
+    {
+      "name": { "ko": "엘레판타 석굴", "en": "Elephanta Caves", "ja": "エレファンタ石窟群", "zh": "象岛石窟" },
+      "blurb": {
+        "ko": "배를 타고 가야 하는 작은 섬에 자리한 동굴 사원이에요. 천 년도 더 전에 사람들이 단단한 바위를 직접 파서 만들었대요. 안에는 힌두교 신 시바를 새긴 거대한 돌 조각들이 가득하답니다.",
+        "en": "Cave temples on a small island you can only reach by boat. People carved them straight out of solid rock more than a thousand years ago. Inside wait huge stone sculptures of the Hindu god Shiva.",
+        "ja": "船でしか行けない小さな島にある洞窟寺院。千年以上前に、人々がかたい岩を直接ほって作りました。中にはヒンドゥー教の神シヴァを刻んだ巨大な石の彫刻がいっぱいです。",
+        "zh": "位于一座只能坐船抵达的小岛上的石窟寺庙。一千多年前，人们直接在坚硬的岩石中凿刻而成。里面满是雕刻着印度教湿婆神的巨大石像。"
+      },
+      "coords": [18.9633, 72.9315]
+    },
+    {
+      "name": { "ko": "필름 시티 (볼리우드 촬영소)", "en": "Film City (Bollywood Studios)", "ja": "フィルム・シティ（ボリウッド撮影所）", "zh": "电影城（宝莱坞摄影棚）" },
+      "blurb": {
+        "ko": "노래하고 춤추는 인도 영화, '볼리우드'가 만들어지는 커다란 촬영소예요. 이곳에서 세계 어느 나라보다 많은 영화가 해마다 탄생한답니다. 운이 좋으면 촬영 중인 장면을 구경할 수도 있어요!",
+        "en": "A huge studio lot where Bollywood's singing, dancing movies come to life. More films are born here every year than in any other country. If you're lucky, you might even spot a scene being filmed!",
+        "ja": "歌って踊るインド映画『ボリウッド』が生まれる大きな撮影所。ここでは世界のどの国よりも多くの映画が毎年生まれています。運が良ければ、撮影中のシーンを見られるかも！",
+        "zh": "宝莱坞载歌载舞的电影就在这座巨大的摄影棚里诞生。这里每年拍出的电影比世界上任何一个国家都多。运气好的话，说不定还能看到正在拍摄的场景呢！"
+      },
+      "coords": [19.1663, 72.8974]
+    }
+  ]
+}

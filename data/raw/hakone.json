@@ -1,0 +1,120 @@
+{
+  "id": "hakone",
+  "country": "jp",
+  "coords": [35.2323, 139.0272],
+  "name": { "ko": "하코네", "en": "Hakone", "ja": "箱根", "zh": "箱根" },
+  "tagline": {
+    "ko": "연기 나는 화산 계곡과 용이 사는 호수, 후지산까지 한곳에 모인 산속 마을",
+    "en": "A steaming volcano, a dragon's lake, and Mount Fuji—all in one mountain town",
+    "ja": "煙たつ火山の谷と竜の湖、そして富士山が全部そろう山あいの町",
+    "zh": "冒烟的火山山谷、藏着巨龙的湖泊，还有富士山，全都聚在这座山间小镇"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 에도(지금의 도쿄)와 교토를 오가려면 반드시 안개 자욱한 험한 산길, '하코네'를 넘어야 했어요. 무사도, 장사꾼도, 순례자도 모두 같은 좁은 길을 걸었고, 그들을 위해 심어둔 커다란 삼나무 가로수 그늘 아래서 잠시 쉬어가곤 했죠. 고갯길 꼭대기에는 엄격한 검문소가 있어서, 지나가는 사람들을, 특히 무기를 숨기거나 몰래 이동하는 여자들을 하나하나 꼼꼼히 살폈답니다.",
+      "그런데 하코네에는 훨씬 더 오래되고 훨씬 더 뜨거운 비밀이 숨어 있어요. 수천 년 전, 이곳의 화산이 한 번 터지는 데 그치지 않고 산 전체를 뒤흔들며 무너져 내렸고, 그 바람에 강물이 막혀 깊고 맑은 화구호 '아시노코'가 생겨났답니다. 옛날 사람들은 이 호수 밑에 머리 아홉 개 달린 사나운 용이 살며 마을을 괴롭혔는데, 지혜로운 스님이 그 용을 길들여 호수의 수호신으로 만들었다고 믿었어요.",
+      "용을 수호신으로 모시기 위해 사람들은 호숫가에 '하코네 신사'를 세우고, 물속에 빨간 도리이(신사 입구 문)를 세웠어요. 그래서 호수가 잔잔한 날엔 마치 도리이가 물 위에 둥둥 떠 있는 것처럼 보인답니다. 맑은 날 도리이 앞에 서서 바라보면, 눈 덮인 후지산이 그 뒤로 정확히 솟아올라, 마치 그림엽서 속 풍경 같아요.",
+      "그 화가 잔뜩 났던 화산은 사실 완전히 잠들지 않았어요. 지금도 '오와쿠다니'라는 연기 자욱한 계곡에서 뜨거운 김을 뿜어내고 있죠. 사람들은 유황 온천물에 달걀을 직접 삶는데, 껍데기가 새까맣게 변해요. 이 까만 달걀을 하나 먹으면 수명이 7년 늘어난다는 전설 때문에, 다들 줄을 서서 하나씩 사 먹는답니다."
+    ],
+    "en": [
+      "Long ago, if you wanted to travel between Edo (old Tokyo) and Kyoto, you had to cross a wall of steep, misty mountains called Hakone. Samurai, merchants, and pilgrims all walked the same narrow road, resting under a long avenue of towering cedar trees planted just for them. At the top of the pass stood a strict checkpoint where guards checked every single traveler—especially watching for hidden swords and women sneaking through.",
+      "But Hakone hides a secret that's much older and much hotter. Thousands of years ago, a volcano here didn't just erupt once—it collapsed and shook the whole mountain, blocking a river and creating a deep, clear crater lake called Lake Ashi. Locals once believed a fierce nine-headed dragon lived beneath its waters, terrorizing villages, until a wise monk tamed it and turned it into the lake's guardian spirit.",
+      "To honor that dragon-turned-guardian, people built Hakone Shrine right on the shore—and set a bright red torii gate standing in the water itself, so it looks like it's floating when the lake is calm. On clear days, if you stand facing the gate, snowy Mount Fuji rises perfectly behind it, like the whole scene was made for a postcard.",
+      "And that angry volcano never really went to sleep—it just simmers now in a smoky valley called Owakudani, 'the Great Boiling Valley,' where steam still hisses out of the rocks. Visitors boil eggs right in the sulfur springs until the shells turn jet black, and everyone lines up to eat one, because legend says each black egg you eat adds seven years to your life."
+    ],
+    "ja": [
+      "はるか昔、江戸（今の東京）と京都を行き来するには、霧に包まれた険しい山道「箱根」を越えなければなりませんでした。お侍も、商人も、お遍路さんも、みんな同じ細い道を歩き、旅人のために植えられた大きな杉並木の陰でひと休みしたそうです。峠のてっぺんには厳しい関所があり、旅人ひとりひとりを、とくに隠した刀や許可なく通ろうとする女性がいないか、きびしく調べていました。",
+      "でも箱根には、もっとずっと昔からの、もっと熱い秘密がかくれています。数千年前、ここの火山は一度噴火しただけでなく、山ごとくずれ落ちて川をせき止め、深く澄んだカルデラ湖「芦ノ湖」を作りました。昔の人々は、この湖の底に頭が九つある恐ろしい竜が住んで村を苦しめていたけれど、賢いお坊さんがその竜を手なずけて湖の守り神にした、と信じていました。",
+      "竜を守り神としてまつるため、人々は湖のほとりに「箱根神社」を建て、水の中に真っ赤な鳥居を立てました。だから湖が静かな日には、鳥居がまるで水に浮かんでいるように見えるのです。晴れた日に鳥居の前に立つと、雪をかぶった富士山がちょうど後ろにそびえ、まるで絵はがきのような景色になります。",
+      "あんなに怒っていた火山は、実は完全には眠っていません。今も「大涌谷」という煙たちこめる谷で、熱い蒸気をシューシューと噴き出しています。訪れた人は硫黄の温泉で卵をゆで、殻がまっ黒になったところを食べます。この黒たまごを一つ食べると寿命が7年のびるという言い伝えがあるので、みんな並んで買うのです。"
+    ],
+    "zh": [
+      "很久很久以前，要往来江户（现在的东京）和京都，必须翻越一条雾气缭绕、山势险峻的山路——箱根。武士、商人、香客都走在同一条窄路上，还会在专为旅人栽种的高大杉树林荫下歇脚。山口的最高处有一座严格的关卡，官兵会仔细盘查每一位过路人，尤其留意有没有人偷藏刀剑，或是没有通行许可就想混过去的女子。",
+      "但箱根还藏着一个更古老、更炽热的秘密。几千年前，这里的火山不只是喷发了一次，而是整座山崩塌下陷，堵住了河流，形成了一汪深邃清澈的火山口湖——芦之湖。传说湖底曾住着一条九头巨龙，四处兴风作浪、祸害村庄，直到一位聪明的僧人将它降伏，让它成了守护这片湖水的神灵。",
+      "为了感谢这条化身守护神的巨龙，人们在湖边建起了箱根神社，还在水中立起一座鲜红的鸟居（神社大门）。于是每当湖面平静，这座鸟居看起来就像漂浮在水面上一样。晴天时站在鸟居前望去，白雪覆盖的富士山正好从它身后升起，美得就像明信片上的风景。",
+      "那座曾经暴怒的火山，其实并没有真正沉睡。如今它仍在一处烟雾缭绕的山谷——大涌谷（意思是“大大沸腾的山谷”）——嘶嘶地喷着热气。游客们会直接把鸡蛋放进硫磺温泉里煮，蛋壳会变得漆黑发亮。传说吃一颗黑鸡蛋能延寿七年，所以大家都排着队买来吃。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "오와쿠다니에서는 유황 온천물에 달걀을 삶으면 껍데기가 새까매지는데, 그걸 먹으면 수명이 7년 늘어난다는 전설이 있어요.",
+      "아시노코 호수는 수천 년 전 화산이 무너지며 강물을 막아 생긴 깊은 화구호예요.",
+      "하코네 신사의 새빨간 도리이는 아시노코 호수 물 위에 세워져, 마치 둥둥 떠 있는 것처럼 보여요.",
+      "옛 도카이도 길에는 약 400년 전에 심은 커다란 삼나무 400여 그루가 지금도 늘어서서 여행자들에게 그늘을 만들어줘요.",
+      "하코네 검문소에서는 산을 넘는 여행자를 하나하나 엄격히 검사했는데, 특히 숨긴 무기와 허가 없이 다니는 여자를 조심스레 살폈대요.",
+      "해마다 설날이면 대학생 육상 선수들이 하코네의 가파른 산길을 오르내리며 달리는 '하코네 역전마라톤'이 열리는데, 일본에서 가장 인기 있는 스포츠 중계 중 하나랍니다."
+    ],
+    "en": [
+      "In Owakudani, eggs boiled in the hot sulfur springs turn completely black—and legend says eating one adds seven years to your life.",
+      "Lake Ashi formed thousands of years ago when a volcanic collapse blocked a river valley, turning it into a deep crater lake.",
+      "Hakone Shrine's bright red torii gate stands right in Lake Ashi, appearing to float on the water—one of Japan's most famous 'floating' torii.",
+      "Along the old Tokaido road, over 400 giant cedar trees planted about 400 years ago still shade travelers walking the same path samurai once used.",
+      "The Hakone checkpoint once strictly inspected every traveler crossing the mountains, especially checking for hidden weapons and women traveling without permission.",
+      "Every New Year's Day, top university runners race up and down Hakone's steep mountain roads in the Hakone Ekiden relay—one of Japan's most-watched sports events."
+    ],
+    "ja": [
+      "大涌谷では硫黄の温泉で卵をゆでると殻が真っ黒になり、それを食べると寿命が7年のびると言われています。",
+      "芦ノ湖は数千年前、火山が崩れて川をせき止めたことでできた深いカルデラ湖です。",
+      "箱根神社の真っ赤な鳥居は芦ノ湖の水の中に立っていて、まるで水に浮かんでいるように見えます。",
+      "昔の東海道には、約400年前に植えられた大きな杉並木が今も400本以上残り、旅人に木陰を作っています。",
+      "箱根の関所では山を越える旅人をひとりひとり厳しく調べ、特に隠した刀や許可なく通る女性がいないか気をつけていました。",
+      "毎年お正月には、大学生ランナーが箱根の急な山道を走りぬける「箱根駅伝」が開かれ、日本で最も人気のあるスポーツ中継の一つです。"
+    ],
+    "zh": [
+      "在大涌谷，把鸡蛋放进硫磺温泉水里煮，蛋壳会变得漆黑，传说吃一颗能延寿七年。",
+      "芦之湖是几千年前火山崩塌堵住河流后形成的深邃火山口湖。",
+      "箱根神社鲜红的鸟居立在芦之湖水中，湖面平静时看起来就像漂浮在水上。",
+      "古老的东海道旁，约400年前栽种的杉树至今仍有400多棵挺立，为旅人遮阴。",
+      "箱根关卡曾严格盘查每一位翻山的旅人，尤其留意藏匿的刀剑和没有通行许可的女子。",
+      "每年元旦，大学生选手都会在箱根陡峭的山路上奔跑接力，这就是万众瞩目的“箱根驿传”马拉松接力赛。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "화산의 뜨거운 김 때문에 새까맣게 변한 달걀, 너라면 한 입 먹어볼 수 있겠어?",
+    "en": "An egg turned jet-black by a volcano's hot steam—would you dare take a bite?",
+    "ja": "火山の熱い蒸気でまっ黒になった卵、君なら一口食べてみる？",
+    "zh": "被火山热气熏得漆黑的鸡蛋，你敢咬一口尝尝吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "오와쿠다니 (대탕곡)", "en": "Owakudani Valley", "ja": "大涌谷", "zh": "大涌谷" },
+      "blurb": {
+        "ko": "하코네를 만든 그 화산이 아직도 뜨거운 김을 뿜어내는 연기 자욱한 계곡이에요. 여기서 새까맣게 삶은 달걀을 먹으면 수명이 7년 늘어난다는 전설이 있죠. 케이블카를 타면 김이 솟는 계곡을 하늘에서 내려다볼 수 있어요.",
+        "en": "A smoky volcanic valley where the very eruption that shaped Hakone still hisses with hot steam. Try a jet-black boiled egg here—legend says it adds seven years to your life. A ropeway glides right over the steaming vents for a bird's-eye view.",
+        "ja": "箱根を作ったあの火山が、今も熱い蒸気を噴き出す煙たちこめる谷です。ここでまっ黒に茹でた卵を食べると寿命が7年のびると言われています。ロープウェイに乗れば、湯気の上がる谷を空から見下ろせます。",
+        "zh": "这里仍在冒着热气的烟雾山谷，正是塑造箱根地形的那座火山留下的痕迹。传说吃一颗在这里煮得漆黑的鸡蛋能延寿七年。缆车会滑过冒烟的谷地上空，让你从高处俯瞰全景。"
+      },
+      "coords": [35.2419, 139.0203]
+    },
+    {
+      "name": { "ko": "아시노코 호수 & 하코네 신사 도리이", "en": "Lake Ashi & Hakone Shrine's Floating Torii", "ja": "芦ノ湖と箱根神社の鳥居", "zh": "芦之湖与箱根神社鸟居" },
+      "blurb": {
+        "ko": "먼 옛날 화산이 무너지며 강을 막아 생긴 짙푸른 호수예요. 물 위에 서 있는 빨간 도리이는 마치 둥둥 떠 있는 것 같고, 맑은 날엔 그 뒤로 후지산이 우뚝 솟아요. 해적선 모양의 유람선이 도리이 바로 옆을 지나간답니다.",
+        "en": "This deep blue lake formed when an ancient volcanic collapse blocked a river. A bright red torii gate stands right in the water, seeming to float—with Mount Fuji rising perfectly behind it on clear days. Pirate-ship-style sightseeing boats cruise right past the gate.",
+        "ja": "遠い昔、火山の崩落が川をせき止めてできた深い青色の湖です。水の中に立つ真っ赤な鳥居はまるで浮いているようで、晴れた日にはその後ろに富士山がぴったりそびえます。海賊船風の遊覧船が鳥居のすぐそばを通ります。",
+        "zh": "很久以前，火山崩塌堵住河流后形成的深蓝色湖泊。立在水中的鲜红鸟居看起来像是漂浮着，晴天时富士山正好从它身后耸立而起。海盗船造型的观光游船会从鸟居旁驶过。"
+      },
+      "coords": [35.2005, 139.0247]
+    },
+    {
+      "name": { "ko": "하코네 검문소 (하코네 세키쇼)", "en": "Hakone Checkpoint (Hakone Sekisho)", "ja": "箱根関所", "zh": "箱根关卡（箱根关所）" },
+      "blurb": {
+        "ko": "옛날 산을 넘는 여행자를 하나하나 검사하던 에도시대 검문소를 복원한 곳이에요. 사무라이 갑옷을 입어보고, 무기를 숨긴 사람이 없는지 살피던 망루도 들여다볼 수 있어요. 옛 도카이도 시절로 떠나는 재미난 시간여행이랍니다.",
+        "en": "A rebuilt Edo-period checkpoint where guards once inspected every traveler crossing the mountains. Try on samurai gear and peek into the watchtower where guards checked for hidden weapons. It's a fun step back into the days of the old Tokaido road.",
+        "ja": "山を越える旅人をひとりひとり調べていた江戸時代の関所を復元した場所です。侍の甲冑を試着したり、隠した武器がないか見張った物見やぐらをのぞいたりできます。昔の東海道時代へのたのしいタイムトリップです。",
+        "zh": "这里复原了江户时代盘查过往旅人的关卡。你可以试穿武士盔甲，还能爬上瞭望塔，看看当年守卫如何检查是否藏有兵器。是一次重回古老东海道时代的有趣体验。"
+      },
+      "coords": [35.199, 139.0219]
+    },
+    {
+      "name": { "ko": "하코네 조각의 숲 미술관", "en": "Hakone Open-Air Museum", "ja": "箱根彫刻の森美術館", "zh": "箱根雕刻之森美术馆" },
+      "blurb": {
+        "ko": "일본 최초의 야외 조각 미술관으로, 안개 낀 산속 곳곳에 커다란 예술 작품들이 서 있어요. 아이들은 스테인드글라스로만 만들어진 탑 속에 직접 들어가 볼 수 있고, 작품을 구경하며 발을 담그는 온천 족욕탕도 있답니다.",
+        "en": "Japan's first outdoor sculpture museum, where giant artworks stand among the misty mountains. Kids can climb inside a tower made entirely of stained glass, and there's even a foot-bath hot spring to soak tired toes while looking at art.",
+        "ja": "日本初の野外彫刻美術館で、霧につつまれた山あいに大きな芸術作品が立ちならびます。子どもたちはステンドグラスだけで作られた塔の中に入ることができ、作品をながめながら足をひたせる足湯もありますよ。",
+        "zh": "日本第一座户外雕塑美术馆，云雾缭绕的山间矗立着一件件巨大的艺术品。孩子们可以走进完全用彩色玻璃搭建的塔中，还有一处足浴温泉，能一边泡脚一边欣赏艺术品。"
+      },
+      "coords": [35.2508, 139.0466]
+    }
+  ]
+}

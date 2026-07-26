@@ -1,0 +1,120 @@
+{
+  "id": "yogyakarta",
+  "country": "id",
+  "coords": [-7.7956, 110.3695],
+  "name": { "ko": "족자카르타", "en": "Yogyakarta", "ja": "ジョグジャカルタ", "zh": "日惹" },
+  "tagline": {
+    "ko": "지금도 진짜 왕이 사는 도시, 근처엔 하늘 높이 솟은 돌 사원들이 잠들어 있어요",
+    "en": "The city with a real living king, next door to two sleeping stone giants",
+    "ja": "今も本物の王様が暮らす街、すぐそばには眠る巨大な石の寺院たち",
+    "zh": "至今仍有真正国王居住的城市，近旁沉睡着两座巨大石造寺庙"
+  },
+  "story": {
+    "ko": [
+      "인도네시아 자와 섬에는 아주 특별한 도시가 있어요. 바로 족자카르타예요. 이 도시엔 지금도 진짜 임금님이 살고 있거든요! '술탄'이라 불리는 이 왕은 도시 한가운데 '크라톤'이라는 궁궐에서 지내는데, 수백 년 전부터 쭉 그래왔대요. 궁궐 문을 지나면 바틱 천을 두른 경비병과 왕실 행사를 준비하는 무용수들을 만날 수도 있답니다.",
+      "그런데 족자카르타의 가장 큰 비밀은 궁궐이 아니라 근처 정글 속에 숨어 있어요. 1200년도 더 전에, 수천 명의 사람들이 돌덩이 200만 개 넘게 쌓아 올려 산처럼 거대한 사원을 만들었어요. 바로 '보로부두르'예요. 이 사원은 빙글빙글 돌면서 걸어 올라가도록 만들어졌는데, 마치 하늘로 이어지는 거대한 돌 미로 같답니다. 그러다 화산이 폭발하고 정글이 무성해지면서, 보로부두르는 수백 년 동안 재와 덩굴 속에 파묻혀 사라졌어요. 그리고 훗날 사람들이 다시 그곳을 발견했답니다.",
+      "멀지 않은 곳엔 보로부두르에 견줄 만한 '프람바난' 사원이 우뚝 솟아 있어요. 비슷한 시기에 힌두교 신들을 위해 지어진 뾰족한 돌탑들이죠. 탑 벽면 곳곳엔 왕자와 공주, 원숭이 군대가 등장하는 옛이야기 '라마야나'가 조각되어 있어요. 어떤 밤에는 무용수들이 반짝이는 탑 옆 무대에서 바로 그 이야기를 진짜 별빛 아래에서 춤으로 들려준답니다.",
+      "이 모든 골짜기를 지켜보는 건 '메라피 화산'이에요. 지구에서 가장 활발한 화산 중 하나로, 이름 자체가 '불의 산'이라는 뜻이래요. 화산재 덕분에 땅이 아주 기름져서, 족자카르타 주변 논은 유난히 푸르답니다. 살아있는 술탄, 잠들었던 돌 거인들, 그리고 불을 뿜는 산까지—족자카르타는 아직도 끝나지 않은 이야기 같은 도시예요."
+    ],
+    "en": [
+      "On the island of Java in Indonesia sits a city like no other: Yogyakarta still has a real king. He's called the Sultan, and he lives in a palace called the Kraton, right in the middle of the city, just as sultans have for hundreds of years. Step through the gates and you might spot palace guards in batik sarongs and dancers practicing for a royal ceremony.",
+      "But Yogyakarta's biggest secret isn't in the palace—it's hiding in the jungle nearby. Over 1,200 years ago, thousands of workers stacked more than two million stone blocks into a giant temple shaped like a mountain, called Borobudur. It was built so you walk around and around it, climbing higher each time, like a giant stone maze leading up to the sky. Then a volcano erupted and the jungle grew wild, and Borobudur vanished under ash and vines for centuries—until people found it hiding there again.",
+      "Not far away stands Borobudur's rival: Prambanan, a cluster of soaring stone towers built for Hindu gods around the same time. Carved all over its walls is the tale of a prince, a princess, and a monkey army—the ancient story of the Ramayana. On some nights, dancers still act out that very story on a stage right beside the glowing towers, under real stars.",
+      "Watching over the whole valley is Mount Merapi, one of the most active volcanoes on Earth—its name literally means 'mountain of fire.' Its ash makes the soil incredibly rich, which is why the rice fields around Yogyakarta are so green. Between a living sultan, sleeping stone giants, and a fire-breathing mountain, Yogyakarta feels like a story that never stopped being told."
+    ],
+    "ja": [
+      "インドネシアのジャワ島に、ちょっと特別な街があります。ジョグジャカルタです。この街には、今でも本物の王様が住んでいるんです！『スルタン』と呼ばれるこの王様は、街の真ん中にある『クラトン』という宮殿でずっと暮らしていて、それは何百年も前から続いていることなんですよ。門をくぐると、バティック布をまとった衛兵や、王室の儀式のために練習する踊り手たちに出会えるかもしれません。",
+      "でも、ジョグジャカルタいちばんの秘密は宮殿ではなく、近くのジャングルの中に隠れています。今から1200年以上前、何千人もの人々が石のブロックを200万個以上も積み上げて、山のように大きなお寺を作りました。それが『ボロブドゥール』です。このお寺はぐるぐる回りながら少しずつ高く登っていくつくりで、まるで空へと続く巨大な石の迷路のよう。やがて火山が噴火し、ジャングルが生い茂ると、ボロブドゥールは何百年も灰とつるの下に埋もれて姿を消してしまいました。そして後になって、人々はそこを再び見つけたのです。",
+      "そう遠くない場所に、ボロブドゥールに負けないくらいの『プランバナン』寺院がそびえています。ほぼ同じ時代に、ヒンドゥー教の神々のために建てられた、とがった石の塔です。塔の壁には、王子とお姫様、そしてサルの軍隊が登場する昔話『ラーマーヤナ』がびっしり彫られています。夜になると、今でも踊り手たちが輝く塔の横のステージで、本物の星空の下、その物語を踊りで語ってくれることがあるんですよ。",
+      "この谷全体を見守っているのが『メラピ山』。地球でもっとも活発な火山のひとつで、その名前は『火の山』という意味なんです。火山灰のおかげで土がとても豊かになり、ジョグジャカルタ周辺の田んぼはひときわ緑豊かなんですよ。生きているスルタン、眠っていた石の巨人たち、そして火を吹く山——ジョグジャカルタは、まだ終わっていない物語みたいな街なんです。"
+    ],
+    "zh": [
+      "在印度尼西亚爪哇岛上，有一座与众不同的城市——日惹。这座城市至今仍住着一位真正的国王！他被称为“苏丹”，一直住在城市正中央一座叫“克拉顿”的王宫里，几百年来一直如此。穿过宫门，你可能会遇见身穿蜡染纱笼的卫兵，还有正在为王室仪式排练的舞者。",
+      "不过，日惹最大的秘密并不在王宫里，而是藏在附近的丛林深处。一千二百多年前，成千上万的人堆砌了超过两百万块石头，建成了一座山一样巨大的寺庙，那就是“婆罗浮屠”。这座寺庙的构造让人一圈圈绕着往上走，越走越高，就像一座通向天空的巨型石头迷宫。后来，火山喷发，丛林疯长，婆罗浮屠被火山灰和藤蔓掩埋了好几百年，消失得无影无踪——直到后来人们才重新发现了它。",
+      "不远处矗立着足以和婆罗浮屠媲美的“普兰巴南”神庙。它建于差不多同一时期，是为印度教众神修建的一群尖顶石塔。塔壁上到处雕刻着王子、公主和猴子大军的古老传说——《罗摩衍那》。有些夜晚，舞者们仍会在闪闪发光的石塔旁的舞台上，在真正的星空下，用舞蹈讲述这段传奇。",
+      "守望着整片山谷的是“默拉皮火山”，地球上最活跃的火山之一，它的名字本身就是“火之山”的意思。火山灰让土壤格外肥沃，所以日惹周围的稻田总是绿油油的。既有还在位的苏丹，又有沉睡的石头巨人，再加上一座会喷火的山——日惹就像一个从未讲完的故事。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "보로부두르는 세계에서 가장 큰 불교 사원이에요. 돌덩이 200만 개 이상을 쌓아 만들었는데, 시멘트 하나 없이도 서로 딱 맞물려 있대요!",
+      "하늘에서 내려다보면 보로부두르의 밑바닥은 거대한 만다라 무늬를 이뤄요. 스님들은 그 길을 빙빙 돌며 걷는 게 마치 깨달음을 향해 걸어가는 여정 같다고 말해요.",
+      "프람바난에서 가장 높은 탑은 47미터나 돼요. 15층 건물보다도 높은 셈이라, 인도네시아에서 가장 높은 힌두 사원이랍니다.",
+      "족자카르타는 인도네시아에서 지금도 진짜 왕이 다스리는 유일한 지역이에요. 술탄이 도지사 역할까지 함께 맡고 있대요.",
+      "메라피 화산은 어찌나 자주 폭발하는지, 과학자들이 거의 매일 살펴봐요. 화산재는 천 년 넘게 사원들을 묻었다 드러냈다 해왔답니다.",
+      "말리오보로 거리엔 저녁마다 '안동'이라는 마차와 '베짝'이라는 삼륜 자전거 택시가 줄지어 다녀요. 지금도 사람들이 실제로 이걸 타고 다닌답니다."
+    ],
+    "en": [
+      "Borobudur is the largest Buddhist temple in the world, built from over 2 million stone blocks—with no cement holding them together!",
+      "Seen from the sky, Borobudur's base forms a giant mandala pattern, and monks say walking its circular paths again and again is like a journey toward enlightenment.",
+      "Prambanan's tallest tower rises about 47 meters—taller than a 15-story building—making it the tallest Hindu temple in Indonesia.",
+      "Yogyakarta is the only place in Indonesia still ruled by an actual king today—the Sultan also serves as the region's governor.",
+      "Mount Merapi erupts so often that scientists watch it almost every day; its ash has buried and uncovered temples for over a thousand years.",
+      "Malioboro Street fills up every evening with horse-drawn carriages called andong and pedicabs called becak, which people still ride to get around today."
+    ],
+    "ja": [
+      "ボロブドゥールは世界最大の仏教寺院。石のブロックを200万個以上も積み上げて造られましたが、セメントは使わず、ぴったり組み合わさっているんです！",
+      "空から見ると、ボロブドゥールの土台は巨大な曼荼羅の形をしています。僧侶たちは、その道を何度もぐるぐる歩くことは悟りへの旅そのものだと言うそうです。",
+      "プランバナンでいちばん高い塔は47メートル。15階建てビルよりも高く、インドネシアでいちばん高いヒンドゥー教寺院なんです。",
+      "ジョグジャカルタは、今でも本物の王様が治めているインドネシア唯一の地域。スルタンは知事の役目も兼ねているんですよ。",
+      "メラピ山はしょっちゅう噴火するので、科学者たちがほぼ毎日見守っています。その灰は千年以上、寺院を埋めたり見せたりを繰り返してきました。",
+      "マリオボロ通りには夕方になると『アンドン』という馬車と『ベチャ』という三輪自転車タクシーが並びます。今でも実際に人々が乗って移動しているんですよ。"
+    ],
+    "zh": [
+      "婆罗浮屠是世界上最大的佛教寺庙，用超过两百万块石头堆砌而成，却完全没有用水泥，石块之间严丝合缝！",
+      "从空中俯瞰，婆罗浮屠的地基呈现出巨大的曼陀罗图案。僧侣们说，沿着环形回廊一圈圈行走，就像一场通往觉悟的旅程。",
+      "普兰巴南最高的塔约有47米高，比15层楼还高，是印度尼西亚最高的印度教寺庙。",
+      "日惹是印度尼西亚唯一至今仍由真正国王统治的地区，苏丹同时还兼任省长。",
+      "默拉皮火山经常喷发，科学家们几乎每天都要观测它。上千年来，它的火山灰曾一次次掩埋又露出寺庙。",
+      "马里奥伯罗街每到傍晚，就会挤满叫“安栋”的马车和叫“倍恰”的三轮自行车出租车，如今人们仍在实际乘坐它们出行。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "축구장보다 더 큰 돌 사원이 정글 속에 수백 년 동안 파묻혀 있었대. 사람들은 어떻게 그걸 다시 찾아냈을까?",
+    "en": "Imagine a stone temple bigger than a soccer field, buried under jungle for centuries—how do you think people finally found it again?",
+    "ja": "サッカー場より大きな石のお寺が、ジャングルの中に何百年も埋もれていたんだって。人々はどうやってそれを見つけたと思う？",
+    "zh": "一座比足球场还大的石头寺庙，在丛林里被埋了好几百年。你觉得人们是怎么重新找到它的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "크라톤 (술탄 왕궁)", "en": "Kraton Yogyakarta (Sultan's Palace)", "ja": "クラトン（スルタン王宮）", "zh": "克拉顿（苏丹王宫）" },
+      "blurb": {
+        "ko": "지금도 술탄이 실제로 살고 있는 궁궐이에요. 옛날 왕과 왕비를 위해 춤추던 무용수와 가믈란 연주자들의 공연을, 지금도 이 마당에서 가끔 볼 수 있답니다.",
+        "en": "The living palace of Yogyakarta's Sultan, who still rules from here today. Wander through courtyards where royal dancers and gamelan musicians once performed for kings and queens—and sometimes still do.",
+        "ja": "今もスルタンが実際に暮らす宮殿です。昔、王や王妃のために踊っていた踊り手やガムランの演奏者たちの姿を、今でもこの中庭で見られることがあります。",
+        "zh": "这是苏丹如今仍真实居住的王宫。过去为国王王后表演的舞者和甘美兰乐师，如今偶尔还会在这个庭院里演出。"
+      },
+      "coords": [-7.8053, 110.3644]
+    },
+    {
+      "name": { "ko": "보로부두르 사원", "en": "Borobudur Temple", "ja": "ボロブドゥール寺院", "zh": "婆罗浮屠寺庙" },
+      "blurb": {
+        "ko": "1200년도 더 전에 지어진, 산처럼 거대한 세계 최대의 불교 사원이에요. 계단을 따라 오르며 옛이야기가 새겨진 조각들을 지나면, 마침내 하늘과 마주하는 꼭대기에 다다르게 돼요.",
+        "en": "The largest Buddhist temple on Earth, built like a giant stone mountain over 1,200 years ago. Climb its levels and pass carvings of an ancient legend before reaching the very top, facing the open sky.",
+        "ja": "1200年以上前に建てられた、山のように巨大な世界最大の仏教寺院。階段をのぼりながら昔話が刻まれた彫刻の横を通り過ぎ、やがて空と向き合う頂上へたどり着きます。",
+        "zh": "建于一千二百多年前，是一座山一样巨大的世界最大佛教寺庙。沿着台阶往上走，经过刻满古老传说的浮雕，最终抵达直面天空的顶端。"
+      },
+      "coords": [-7.6079, 110.2038]
+    },
+    {
+      "name": { "ko": "프람바난 사원", "en": "Prambanan Temple", "ja": "プランバナン寺院", "zh": "普兰巴南神庙" },
+      "blurb": {
+        "ko": "힌두교 신들을 위해 지어진 뾰족한 돌탑들로, 라마야나 이야기가 벽면 가득 새겨져 있어요. 밤이 되면 반짝이는 탑 옆에서 무용수들이 그 이야기를 그대로 춤으로 보여준답니다.",
+        "en": "Soaring stone towers built for Hindu gods, carved from top to bottom with the story of the Ramayana. At night, dancers still perform that very legend on a stage beside the glowing towers.",
+        "ja": "ヒンドゥー教の神々のために建てられたとがった石の塔で、壁一面にラーマーヤナの物語が彫られています。夜になると、輝く塔のそばで踊り手たちがその物語を踊りで見せてくれます。",
+        "zh": "为印度教众神建造的尖顶石塔群，墙壁上刻满了《罗摩衍那》的整个故事。夜晚，舞者们仍会在闪亮的石塔旁，用舞蹈把这个传说重新演绎出来。"
+      },
+      "coords": [-7.7520, 110.4915]
+    },
+    {
+      "name": { "ko": "타만 사리 (왕실 수상 정원)", "en": "Taman Sari (Royal Water Castle)", "ja": "タマンサリ（王室の水の庭園）", "zh": "塔曼萨里（王室水上花园）" },
+      "blurb": {
+        "ko": "술탄의 가족이 헤엄치고 쉬던 비밀 정원이에요. 몰래 빠져나갈 수 있는 숨겨진 통로도 있었다는데, 바다까지 이어지는 굴이 있다는 전설도 전해온답니다.",
+        "en": "A secret garden of pools once built for the sultan's family to swim, relax, and slip away unseen through hidden tunnels. Legend even says one passage stretched all the way to the sea.",
+        "ja": "スルタンの家族が泳いだり、くつろいだりした秘密の庭園です。こっそり抜け出せる隠し通路もあり、海までつながるトンネルがあるという言い伝えも残っています。",
+        "zh": "这是苏丹家族曾经游泳、休憩的秘密花园，还有可以悄悄溜走的隐秘通道。据说其中一条隧道甚至一直通向大海。"
+      },
+      "coords": [-7.8104, 110.3597]
+    }
+  ]
+}

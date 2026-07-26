@@ -1,0 +1,120 @@
+{
+  "id": "seattle",
+  "country": "us",
+  "coords": [47.6062, -122.3321],
+  "name": { "ko": "시애틀", "en": "Seattle", "ja": "シアトル", "zh": "西雅图" },
+  "tagline": {
+    "ko": "불이 다시 지어 올린 도시, 인도 밑엔 숨겨진 지하 마을이 있어요",
+    "en": "The city a fire rebuilt one story higher—with a hidden underground town below its sidewalks",
+    "ja": "火事がもう一階分高く建て直した街――歩道の下には隠れた地下の町がある",
+    "zh": "被大火“抬高一层”重建的城市——人行道下藏着一座地下小镇"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 시애틀 언덕과 바닷가에는 두와미시 원주민들이 수천 년 동안 살고 있었어요. 1850년대에 정착민들이 이곳에 마을을 세우고, 두와미시족의 추장 '시애틀'의 이름을 따서 도시 이름을 지었답니다. 바다와 숲, 그리고 잠든 화산 '레이니어산'에 둘러싸인 이 작은 벌목 마을은 아주 빠르게 자라났어요.",
+      "그런데 1889년 6월 어느 날, 목공소에서 아교 냄비에 불이 붙더니 순식간에 나무로 된 건물들 사이로 불길이 번졌어요. 단 몇 시간 만에 시내 거의 전체가 불타 버렸답니다! 다행히 목숨을 잃은 사람은 없었고, 시애틀 사람들은 포기하지 않고 도시를 더 크고 튼튼하게 다시 짓기로 했어요.",
+      "도시를 다시 지을 때, 기술자들은 바닷물이 자꾸 넘치는 문제를 해결하려고 도로 전체를 한 층 높이 올렸어요. 그런데 가게 주인들은 도로가 다 완성되기도 전에 예전 높이 그대로 다시 문을 열었답니다. 그래서 사람들은 한동안 사다리를 타고 내려가야, 예전엔 길이었던 '지하' 인도를 걸을 수 있었어요. 지금도 그 숨겨진 지하 도시를 직접 걸어볼 수 있답니다.",
+      "70년이 흐른 뒤, 시애틀은 온 세상에 '미래 도시'를 보여주고 싶었어요. 그래서 1962년 만국박람회를 위해 1년도 안 되는 시간 만에 우뚝 솟은 스페이스 니들을 세웠답니다. 그날 이후로 우주선처럼 생긴 꼭대기는 안개 낀 아침과 시장에서 날아다니는 생선, 세계 최초의 스타벅스 커피잔으로 유명한 도시를 내려다보고 있어요. 스페이스 니들에 올라가면 노을에 분홍빛으로 물드는 레이니어산까지 볼 수 있는데, 마치 커다란 화산이 도시를 조용히 지켜주는 것 같답니다."
+    ],
+    "en": [
+      "Long before skyscrapers, the hills and shores around what is now Seattle were home to the Duwamish people for thousands of years. Settlers arrived in the 1850s and named their growing town after a Duwamish leader, Chief Seattle. Ringed by water, forests, and a sleeping volcano called Mount Rainier, the little logging town grew fast.",
+      "But one June day in 1889, a pot of glue caught fire in a woodworking shop, and flames raced through the wooden buildings nearby. In just a few hours, almost the whole downtown burned down! Amazingly, nobody was killed, and the people of Seattle decided to rebuild bigger and stronger instead of giving up.",
+      "When they rebuilt, engineers raised the streets one whole story higher to solve a flooding problem near the water. But shopkeepers reopened at the old street level before the new roads were even finished, so for years people climbed down ladders to walk on 'basement' sidewalks that used to be the street. Today you can still explore that hidden underground city.",
+      "Seventy years later, Seattle wanted to show the world it was a city of the future, so for the 1962 World's Fair, builders raised the towering Space Needle in less than a year. Ever since, its saucer-shaped top has watched over a city famous for foggy mornings, flying fish at the market, and the very first Starbucks coffee cup. From the Space Needle you can even spot Mount Rainier glowing pink at sunset, like a giant sleepy volcano watching over it all."
+    ],
+    "ja": [
+      "はるか昔、今のシアトルの丘や海辺には、何千年も前からデュワミッシュ族が暮らしていました。1850年代に開拓者たちがここに町をつくり、デュワミッシュ族の酋長『シアトル』の名前をとって町の名前にしました。海と森、そして眠る火山『レーニア山』に囲まれたこの小さな木こりの町は、あっという間に大きくなっていきました。",
+      "ところが1889年6月のある日、木工所でにかわのなべから火が出て、あっという間に近くの木造の建物へ燃え広がりました。ほんの数時間で、街の中心部のほとんどが焼けてしまったのです！幸い、命を落とした人はいませんでした。シアトルの人々はあきらめず、街をもっと大きく丈夫に建て直すことに決めました。",
+      "街を建て直すとき、技術者たちは海水があふれる問題を解決するため、道路全体を1階分高くしました。でもお店の人たちは、道路が完成する前に元の高さでお店を開けてしまったのです。そのため人々はしばらくの間、はしごを下りて、昔は道だった『地下』の歩道を歩かなければなりませんでした。今でもその隠れた地下の街を歩いて見学できるんですよ。",
+      "それから70年後、シアトルは世界に『未来の街』を見せたいと考えました。そこで1962年の万国博覧会のために、1年もかからずにそびえ立つスペースニードルを建てました。それ以来、宇宙船のような形の展望台は、霧の朝や市場で飛び交う魚、世界初のスターバックスのコーヒーカップで有名な街を見守っています。スペースニードルに登れば、夕日でピンク色に染まるレーニア山も見えて、まるで大きな火山が街をそっと見守っているようです。"
+    ],
+    "zh": [
+      "很久很久以前，如今西雅图的山丘和海边，世代居住着杜瓦米什原住民，已经生活了几千年。19世纪50年代，拓荒者们在这里建起小镇，并用杜瓦米什族酋长“西雅图”的名字为它命名。这座被大海、森林和一座沉睡的火山雷尼尔山环绕的小小伐木镇，很快就发展壮大起来。",
+      "可是到了1889年6月的一天，一家木工作坊里的胶锅着了火，火焰很快蔓延到附近的木头建筑上。短短几个小时，市中心几乎全被烧毁！幸运的是没有人因此丧生，西雅图人没有放弃，而是决定把城市重建得更大、更坚固。",
+      "重建时，工程师们为了解决海水倒灌的问题，把整条街道垫高了整整一层楼。可店主们等不及道路完工，就在原来的高度重新开了店。于是有好一阵子，人们得爬下梯子，才能走到曾经是街道、如今变成“地下”的人行道上。直到今天，你还能亲自走进这座藏在地底的隐秘城市呢。",
+      "七十年后，西雅图想向全世界展示自己是一座“未来之城”。于是为了1962年的世界博览会，工人们不到一年就建起了高耸入云的太空针塔。从那以后，这座形似飞碟的塔顶，一直俯瞰着这座以雾蒙蒙的清晨、市场里“飞”来飞去的鱼、以及全球第一家星巴克咖啡杯闻名的城市。登上太空针塔，你甚至能看到夕阳把雷尼尔山染成粉红色，仿佛一座巨大的火山正静静守护着整座城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "스페이스 니들은 1962년 만국박람회를 위해 1년도 안 되는 시간에 지어졌고, 엘리베이터는 시속 16km(약 10마일)로 쌩 올라가요.",
+      "1889년 대화재는 시내 25개가 넘는 블록을 태워버렸지만, 놀랍게도 목숨을 잃은 사람은 한 명도 없었어요.",
+      "도로를 한 층 높여 다시 지으면서, 예전 인도는 숨겨진 터널이 되었어요. 지금도 '시애틀 언더그라운드' 투어로 직접 걸어볼 수 있답니다.",
+      "파이크 플레이스 마켓에서는 생선 가게 아저씨들이 포장하기 전에 생선을 하늘로 휙 던지는데, 이게 유명한 볼거리가 됐어요!",
+      "세계 최초의 스타벅스 매장이 1971년 파이크 플레이스 마켓 근처에 문을 열었답니다.",
+      "시애틀은 늘 푸른 나무숲 때문에 '에메랄드 시티'라는 별명이 있고, 날씨 맑은 날엔 도심에서도 진짜 화산인 레이니어산을 볼 수 있어요."
+    ],
+    "en": [
+      "The Space Needle was built in less than a year for the 1962 World's Fair, and its elevators zoom up at about 16 km/h (10 mph).",
+      "The Great Seattle Fire of 1889 burned down more than 25 city blocks—but amazingly, nobody died.",
+      "Because the streets were rebuilt one story higher, the old sidewalks became hidden tunnels you can still tour today: Seattle Underground.",
+      "At Pike Place Market, fishmongers toss whole fish through the air before wrapping them—it's become a famous show!",
+      "The very first Starbucks store ever opened near Pike Place Market back in 1971.",
+      "Seattle is nicknamed the 'Emerald City' for its evergreen forests, and on clear days you can spot Mount Rainier, a real volcano, right from downtown."
+    ],
+    "ja": [
+      "スペースニードルは1962年の万国博覧会のために1年もかからずに建てられ、エレベーターは時速16km（約10マイル）でぐんぐん上がります。",
+      "1889年の大火災では街の25ブロック以上が焼けましたが、驚くことに亡くなった人は一人もいませんでした。",
+      "道路を1階分高く建て直したことで、昔の歩道は隠れたトンネルになりました。今でも『シアトル・アンダーグラウンド』ツアーで歩いて見学できます。",
+      "パイク・プレイス・マーケットでは、魚屋さんが包む前に魚を空中にポーンと投げるパフォーマンスが有名です！",
+      "世界初のスターバックスの店は、1971年にパイク・プレイス・マーケットの近くにオープンしました。",
+      "シアトルは常緑樹の森にちなんで『エメラルド・シティ』と呼ばれ、晴れた日にはダウンタウンから本物の火山レーニア山が見えます。"
+    ],
+    "zh": [
+      "太空针塔是为1962年世界博览会、不到一年就建成的，电梯上升速度可达每小时16公里（约10英里）。",
+      "1889年的大火烧毁了市中心25个街区以上，但神奇的是没有一个人丧生。",
+      "由于街道被重建得高出一层楼，旧的人行道变成了隐藏的地下通道，如今你还能参加“西雅图地下之旅”亲自走一走。",
+      "在派克市场，鱼贩们会在包装前把整条鱼抛向空中——这已经成了一场著名的表演！",
+      "全球第一家星巴克门店，1971年就开在派克市场附近。",
+      "西雅图因常青树林而被称为“翡翠之城”，天气晴朗时，从市中心就能看到真正的火山——雷尼尔山。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "시애틀 인도 바로 밑에 숨겨진 마을이 통째로 있다는 거, 믿어져?",
+    "en": "Would you believe there's a whole hidden town buried right under Seattle's sidewalks?",
+    "ja": "シアトルの歩道のすぐ下に、まるごと隠れた町があるなんて、信じられる？",
+    "zh": "西雅图人行道下面竟然藏着一整座小镇，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "스페이스 니들", "en": "Space Needle", "ja": "スペースニードル", "zh": "太空针塔" },
+      "blurb": {
+        "ko": "184미터 높이의 이 탑은 1962년 만국박람회를 위해 1년도 안 되어 지어졌어요, '미래 도시'를 보여주려고요. 엘리베이터를 타고 올라가면 빙글빙글 도는 레스토랑과 저 멀리까지 펼쳐지는 풍경을 만날 수 있어요.",
+        "en": "This 184-meter tower was built in under a year for the 1962 World's Fair, to show off a 'city of the future.' Ride the elevator up for a spinning restaurant and views for miles around.",
+        "ja": "高さ184メートルのこの塔は、『未来の街』を見せるために1962年の万国博覧会向けに1年足らずで建てられました。エレベーターで上がると、くるくる回るレストランと遠くまで広がる景色が待っています。",
+        "zh": "这座184米高的塔楼是为展示“未来之城”，在不到一年内为1962年世界博览会建成的。乘电梯上去，就能看到旋转餐厅和望不到边的美景。"
+      },
+      "coords": [47.6205, -122.3493]
+    },
+    {
+      "name": { "ko": "파이크 플레이스 마켓", "en": "Pike Place Market", "ja": "パイク・プレイス・マーケット", "zh": "派克市场" },
+      "blurb": {
+        "ko": "1907년부터 문을 연, 미국에서 가장 오래된 농산물 시장 중 하나예요. 생선 가게 아저씨들이 연어를 휙휙 던지는 모습을 구경하고, 근처 세계 최초의 스타벅스 매장에도 들러보세요.",
+        "en": "One of America's oldest farmers markets, running since 1907. Watch fishmongers toss salmon through the air, then stop by the very first Starbucks storefront nearby.",
+        "ja": "1907年から続く、アメリカ最古級の朝市の一つ。魚屋さんがサーモンを空中に投げる様子を見たり、近くにある世界初のスターバックスの店にも寄ってみよう。",
+        "zh": "自1907年营业至今，是美国历史最悠久的农贸市场之一。看鱼贩把三文鱼抛向空中，再去附近全球第一家星巴克门店尝尝美味。"
+      },
+      "coords": [47.6097, -122.3421]
+    },
+    {
+      "name": { "ko": "시애틀 언더그라운드 (파이오니어 스퀘어)", "en": "Seattle Underground (Pioneer Square)", "ja": "シアトル・アンダーグラウンド（パイオニア・スクエア）", "zh": "西雅图地下城（先锋广场）" },
+      "blurb": {
+        "ko": "1889년 화재 이후, 이 근처 도로는 한 층 높게 다시 지어졌어요. 투어에 참여하면 새 도시 아래 묻혀버린 옛 가게와 인도를 직접 걸어볼 수 있답니다.",
+        "en": "After the 1889 fire, streets here were rebuilt a whole story higher. Take a tour and walk right through the old storefronts and sidewalks that got buried below the new city.",
+        "ja": "1889年の火災の後、このあたりの道路は1階分高く建て直されました。ツアーに参加すれば、新しい街の下に埋もれた昔のお店や歩道を実際に歩くことができます。",
+        "zh": "1889年大火之后，这一带的街道被重建得高出了一层楼。参加地下之旅，就能亲自走过那些被埋在新城市之下的旧店铺和人行道。"
+      },
+      "coords": [47.6013, -122.3339]
+    },
+    {
+      "name": { "ko": "케리 파크", "en": "Kerry Park", "ja": "ケリー・パーク", "zh": "凯瑞公园" },
+      "blurb": {
+        "ko": "언덕 위 작은 공원인데, 시애틀 시내 전경을 담은 엽서 같은 풍경으로 유명해요. 맑은 날엔 그 뒤로 노을에 물든 레이니어산까지 보인답니다.",
+        "en": "A little hilltop park with the best postcard view of Seattle's skyline—and, on clear days, Mount Rainier glowing pink at sunset behind it all.",
+        "ja": "丘の上にある小さな公園で、シアトルの街並みを一望できる絵はがきのような景色で有名です。晴れた日には、その奥に夕日でピンク色に染まるレーニア山も見えます。",
+        "zh": "这座山丘小公园以拥有西雅图天际线的明信片级美景而闻名。天气晴朗时，还能看到远处被夕阳染成粉色的雷尼尔山。"
+      },
+      "coords": [47.6295, -122.3599]
+    }
+  ]
+}

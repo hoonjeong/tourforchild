@@ -1,0 +1,120 @@
+{
+  "id": "kyoto",
+  "country": "jp",
+  "coords": [35.0116, 135.7681],
+  "name": { "ko": "교토", "en": "Kyoto", "ja": "京都", "zh": "京都" },
+  "tagline": {
+    "ko": "천 년 넘게 일본의 수도였던, 옛 일본이 살아 숨쉬는 도시",
+    "en": "Japan's capital for over 1,000 years—where old Japan is still alive",
+    "ja": "千年以上も日本の都だった、今も昔の日本が息づく街",
+    "zh": "曾是日本千年古都，古老日本至今仍在呼吸的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 1200년도 더 전에 일본의 왕(천황)은 새로운 수도를 짓기로 했어요. '헤이안쿄'라는 이름의 이 도시가 바로 오늘날의 교토랍니다. 중국의 큰 도시를 본떠 길을 마치 바둑판처럼 반듯반듯하게 만들었어요. 그래서 지금도 교토를 걷다 보면 길이 가로세로로 시원하게 뻗어 있는 걸 볼 수 있어요.",
+      "교토는 그 후로 무려 1000년이 넘게 일본의 수도였어요! 그 오랜 시간 동안 천황과 귀족들이 살았고, 아름다운 시와 그림, 다도, 정원 가꾸기 같은 우아한 문화가 꽃피었죠. 온통 금박으로 반짝이는 킨카쿠지(금각사)도 이 시절에 지어졌는데, 연못에 비친 황금빛 모습이 마치 동화 속 궁전 같답니다.",
+      "그런데 20세기 중반, 큰 전쟁이 일어났을 때 교토는 하마터면 폭격을 맞을 뻔했어요. 하지만 교토의 아름다운 역사와 문화를 아까워한 어느 외국 관리 덕분에, 교토는 폭격 목록에서 빠지게 됐답니다. 그 덕분에 옛 절과 거리들이 지금도 그때 모습 그대로 남아 있는 거예요.",
+      "오늘날 교토에 가면 수천 개의 새빨간 문이 산길을 따라 끝없이 이어지는 후시미이나리 신사, 대나무가 하늘을 가릴 만큼 빽빽한 아라시야마 숲도 만날 수 있어요. 거리에는 아직도 곱게 기모노를 입은 게이코(게이샤)와 마이코가 사뿐사뿐 걸어다니고요. 교토는 옛날의 일본이 지금도 살아 숨 쉬는 도시랍니다."
+    ],
+    "en": [
+      "Long ago, more than 1,200 years back, Japan's emperor decided to build a brand-new capital city. He called it Heian-kyo—'the capital of peace and tranquility'—and today we know it as Kyoto. Streets were laid out in a neat grid, copied from a great Chinese city, like a giant checkerboard. Walk through Kyoto today and you can still feel those crisp straight streets running north-south and east-west.",
+      "Kyoto stayed Japan's capital for over 1,000 years! Emperors and nobles lived there, and elegant arts bloomed—poetry, painting, tea ceremonies, and gorgeous gardens. Kinkaku-ji, the Golden Pavilion, was built in this era too, covered in real gold leaf. Its reflection shimmers on the pond below like a palace straight out of a fairy tale.",
+      "Then, in the middle of the 1900s, a huge war broke out, and Kyoto nearly got bombed. But a foreign official who treasured Kyoto's beauty and history helped get it taken off the bombing list. Thanks to him, Kyoto's old temples and streets are still standing exactly as they were, almost untouched.",
+      "Visit Kyoto today, and you'll find Fushimi Inari Shrine, where thousands of bright red gates form tunnels winding up a mountain. There's Arashiyama's bamboo grove too, so thick and tall it blocks out the sky. In the streets, geiko (geisha) and maiko still glide by in beautiful kimono. Kyoto is a city where old Japan is still alive and breathing."
+    ],
+    "ja": [
+      "はるか昔、1200年以上前、日本の天皇は新しい都をつくることにしました。『平安京』と名づけられたこの都が、今の京都です。中国の大きな都をお手本に、道は碁盤の目のようにきれいに区切られました。今も京都を歩くと、東西南北にまっすぐ伸びる道を感じることができます。",
+      "京都はその後、なんと1000年以上も日本の都でした！その間ずっと天皇や貴族が暮らし、詩や絵、茶道、庭づくりといった優雅な文化が花開きました。金箔で全体をおおわれた金閣寺もこの時代に建てられ、池に映るその金色の姿は、まるでおとぎ話のお城のようです。",
+      "ところが20世紀なかば、大きな戦争が起こったとき、京都はあやうく爆撃されるところでした。でも、京都の美しさと歴史を大切に思ったある外国の役人のおかげで、爆撃のリストから外されたのです。そのおかげで、古いお寺や町並みが今もそのままの姿で残っています。",
+      "今の京都を訪ねると、真っ赤な鳥居が何千も山道に連なる伏見稲荷大社や、空が見えないほど竹が生いしげる嵐山の竹林に出会えます。町では今も、着物姿の芸妓（げいこ）や舞妓がしとやかに歩いています。京都は、昔の日本が今も生きて息づく街なのです。"
+    ],
+    "zh": [
+      "很久很久以前，一千二百多年前，日本天皇决定建造一座全新的都城。这座名叫“平安京”的城市，就是今天的京都。街道仿照中国的大都城，被规划成整整齐齐的棋盘格。直到今天，走在京都街头，还能感受到那纵横笔直的道路。",
+      "此后，京都竟然做了一千多年的日本首都！在那漫长岁月里，天皇和贵族都住在这里，诗歌、绘画、茶道、造园等优雅的文化蓬勃发展。全身贴满金箔的金阁寺也是那个时代建造的，它倒映在池水中的金色身影，美得像童话里的宫殿。",
+      "但到了20世纪中期，一场大战爆发，京都差点遭到轰炸。幸好一位珍惜京都之美与历史的外国官员，把它从轰炸名单上划掉了。多亏了他，京都古老的寺庙和街道，至今几乎原样保留了下来。",
+      "如今来到京都，你能看到伏见稻荷大社——成千上万座朱红色鸟居沿山路连成隧道；还有嵯峨岚山的竹林，竹子密得几乎遮住了天空。街上，身着华丽和服的艺妓（艺伎）和舞妓依然翩翩而行。京都是一座古老日本至今仍在呼吸的城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "교토는 794년부터 1868년까지, 무려 천 년이 넘도록 일본의 수도였어요.",
+      "금각사는 벽 전체가 진짜 금박으로 덮여 있는데, 옛날 불이 나서 다 타버린 뒤 지금 모습으로 다시 지어졌대요.",
+      "후시미이나리 신사에는 붉은 문(도리이)이 만 개도 넘게 서 있는데, 소원이 이뤄진 사람들이 하나씩 감사한 마음으로 세운 거래요.",
+      "2차 세계대전 때 교토는 폭격 목표 후보였지만, 이 도시의 아름다움을 아낀 미국 관리 덕분에 폭격을 피했어요.",
+      "아라시야마의 대나무 숲은 바람에 흔들리며 나는 소리가 하도 신비로워서 '일본의 지켜야 할 소리 100선'에 뽑혔어요.",
+      "교토에는 유네스코 세계유산이 무려 17곳이나 있고, 지금도 게이코와 마이코가 전통 춤과 예절을 배우고 있답니다."
+    ],
+    "en": [
+      "Kyoto was Japan's capital for more than 1,000 years, from 794 to 1868.",
+      "Kinkaku-ji's walls are covered in real gold leaf—it burned down long ago and was rebuilt to look just as dazzling.",
+      "Fushimi Inari Shrine has over 10,000 red torii gates, each donated one by one by people whose wishes came true.",
+      "During World War II, Kyoto was on a list of possible bombing targets, but it was spared thanks to an American official who cherished its beauty.",
+      "The rustling sound of Arashiyama's bamboo grove is so magical it was chosen as one of 'Japan's 100 Soundscapes to Preserve.'",
+      "Kyoto has 17 UNESCO World Heritage Sites, and geiko and maiko are still trained today in traditional dance and manners."
+    ],
+    "ja": [
+      "京都は794年から1868年まで、1000年以上も日本の都でした。",
+      "金閣寺の壁は本物の金箔でおおわれています。昔火事で焼けてしまいましたが、今のきらびやかな姿に建て直されました。",
+      "伏見稲荷大社には1万基以上の赤い鳥居があり、願いがかなった人々が一つずつ感謝をこめて奉納したものです。",
+      "第二次世界大戦中、京都は爆撃の候補地でしたが、その美しさを大切に思ったアメリカの役人のおかげで爆撃をまぬがれました。",
+      "嵐山の竹林が風にゆれて鳴る音はとても神秘的で、『残したい日本の音風景100選』に選ばれています。",
+      "京都にはユネスコ世界遺産が17か所もあり、今も芸妓や舞妓が伝統の踊りや作法を学び続けています。"
+    ],
+    "zh": [
+      "京都从公元794年到1868年，做了一千多年的日本首都。",
+      "金阁寺的墙壁贴满真金箔——它曾被大火烧毁，后来又重建成如今这般闪耀的模样。",
+      "伏见稻荷大社有超过一万座朱红色鸟居，都是心愿实现的人们一座座心怀感谢地捐建的。",
+      "二战期间，京都曾在轰炸候选名单上，幸好一位珍惜其美丽的美国官员让它免遭轰炸。",
+      "岚山竹林被风吹动发出的沙沙声十分奇妙，被选入“值得保留的日本100个音景”。",
+      "京都拥有17处联合国教科文组织世界遗产，如今艺妓和舞妓依然在学习传统舞蹈与礼仪。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "천 개가 넘는 새빨간 문이 산길을 따라 끝없이 이어진다면, 그 끝엔 뭐가 있을까?",
+    "en": "If a thousand bright red gates lined up in a row along a mountain path, what do you think is waiting at the end?",
+    "ja": "何千もの真っ赤な門が山道にずっと続いていたら、その先には何があると思う？",
+    "zh": "如果成千上万座朱红色的门沿着山路一直延伸，你猜尽头会是什么呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "후시미이나리 신사", "en": "Fushimi Inari Shrine", "ja": "伏見稲荷大社", "zh": "伏见稻荷大社" },
+      "blurb": {
+        "ko": "수천 개의 새빨간 도리이 문이 산 위까지 터널처럼 이어져 있어요. 하나하나가 소원을 이룬 사람들이 감사의 마음으로 세운 거라, 걸을 때마다 누군가의 행복한 이야기를 지나가는 셈이죠.",
+        "en": "Thousands of bright red torii gates form a tunnel winding all the way up the mountain. Each one was donated by someone whose wish came true, so walking through feels like passing by countless happy stories.",
+        "ja": "何千もの真っ赤な鳥居が山の上までトンネルのように続いています。どれも願いがかなった人が感謝をこめて奉納したもので、歩くたびに誰かの幸せな物語を通り抜けているようです。",
+        "zh": "成千上万座朱红色鸟居像隧道一样一直延伸到山顶。每一座都是心愿实现的人怀着感谢之情捐建的，走过时仿佛穿越了无数个幸福的故事。"
+      },
+      "coords": [34.9671, 135.7727]
+    },
+    {
+      "name": { "ko": "킨카쿠지 (금각사)", "en": "Kinkaku-ji (Golden Pavilion)", "ja": "金閣寺", "zh": "金阁寺" },
+      "blurb": {
+        "ko": "건물 전체가 진짜 금박으로 반짝이는 신기한 절이에요. 맑은 날 연못에 비친 황금빛 모습을 보면, 마치 두 개의 금각사가 있는 것처럼 보인답니다.",
+        "en": "A dazzling temple whose whole building shines with real gold leaf. On a clear day, its reflection in the pond makes it look like there are two golden pavilions.",
+        "ja": "建物全体が本物の金箔で輝く不思議なお寺。晴れた日には池に映る金色の姿が見えて、まるで金閣寺が二つあるように見えます。",
+        "zh": "整座建筑都闪耀着真金箔光泽的神奇寺庙。晴天时，池水中的倒影让人感觉仿佛有两座金阁寺。"
+      },
+      "coords": [35.0394, 135.7292]
+    },
+    {
+      "name": { "ko": "아라시야마 대나무 숲", "en": "Arashiyama Bamboo Grove", "ja": "嵐山竹林", "zh": "岚山竹林" },
+      "blurb": {
+        "ko": "키 큰 대나무가 빽빽하게 자라 하늘을 초록빛으로 가려요. 바람이 불면 대나무 잎이 사각사각 노래하듯 소리를 내는데, 그 소리가 얼마나 특별한지 나라에서 지켜야 할 소리로 뽑았대요.",
+        "en": "Tall bamboo grows so thick it turns the sky green overhead. When the wind blows, the leaves rustle like a song—a sound so special it was chosen as one of Japan's soundscapes to protect.",
+        "ja": "背の高い竹が密に生い茂り、空を緑色にそめます。風がふくと竹の葉が歌うようにさらさらと音を立て、その音があまりに特別なので国が守るべき音として選びました。",
+        "zh": "高高的竹子密密丛丛，把头顶的天空染成绿色。风一吹，竹叶就沙沙作响，像在歌唱，这声音特别到被列为需要保护的日本音景。"
+      },
+      "coords": [35.0094, 135.6667]
+    },
+    {
+      "name": { "ko": "기온 거리", "en": "Gion District", "ja": "祇園", "zh": "祇园街区" },
+      "blurb": {
+        "ko": "오래된 나무 집들이 늘어선 골목이에요. 저녁이 되면 곱게 기모노를 차려입은 게이코와 마이코가 사뿐사뿐 걸어다니는 모습을 볼 수 있는데, 마치 옛날 교토로 시간여행을 떠난 것 같아요.",
+        "en": "A lane lined with old wooden houses. In the evening, you might spot geiko and maiko gliding by in gorgeous kimono—like stepping back in time to old Kyoto.",
+        "ja": "古い木造の家がならぶ路地。夕方になると、美しい着物姿の芸妓や舞妓がしとやかに歩く姿を見られることもあり、まるで昔の京都にタイムトラベルしたようです。",
+        "zh": "一条排满古老木屋的小巷。傍晚时分，你可能会看到身着华丽和服的艺妓和舞妓翩翩走过，仿佛穿越回了古老的京都。"
+      },
+      "coords": [35.0037, 135.7788]
+    }
+  ]
+}

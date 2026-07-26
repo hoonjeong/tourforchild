@@ -1,0 +1,120 @@
+{
+  "id": "toronto",
+  "country": "ca",
+  "coords": [43.6532, -79.3832],
+  "name": { "ko": "토론토", "en": "Toronto", "ja": "トロント", "zh": "多伦多" },
+  "tagline": {
+    "ko": "'물속에 서 있는 나무'라는 뜻의 이름을 가진 호숫가 도시, 하늘 높은 타워와 진짜 성이 있는 곳",
+    "en": "The lakeside city whose name means 'trees standing in water'—now home to a sky-high tower and a real castle",
+    "ja": "『水の中に立つ木』という意味の名を持つ湖畔の街――空高いタワーと本物のお城がある場所",
+    "zh": "名字意为“水中站立的树”的湖畔之城——如今拥有摩天高塔与真正的城堡"
+  },
+  "story": {
+    "ko": [
+      "아주 오래 전, 토론토가 큰 도시가 되기 전에는 휴런-웬다트족, 호데노쇼니족, 미시소가족 같은 원주민들이 지금의 온타리오 땅을 가로지르는 강과 호수를 따라 카누를 저었어요. 어느 한 곳엔 얕은 물속에 나무 말뚝을 여러 개 박아 지나가는 물고기를 잡는 장치가 있었죠. 모호크어로 이곳을 '트카론토'라고 불렀는데, '물속에 나무가 서 있는 곳'이라는 뜻이었어요. 세월이 흘러 이곳에 정착한 사람들은 온타리오 호수 옆에 커지는 새 마을에 이 아름다운 이름을 그대로 붙여 주었답니다.",
+      "그 작은 호숫가 마을은 무럭무럭 자라 지금은 캐나다에서 가장 큰 도시, 토론토가 되었어요. 배와 기차를 타고 세계 곳곳에서 사람들이 몰려왔고, 오늘날 토론토 사람의 절반 이상은 다른 나라에서 태어났답니다. 거리를 걷다 보면 100가지가 넘는 언어를 들을 수 있는데, 토론토는 지구에서 가장 다채롭고 다양한 도시 중 하나예요.",
+      "토론토는 하늘에도 도전했어요. 1976년, 바늘처럼 가느다란 'CN 타워'가 완성되었는데, 무려 32년 동안이나 세상에서 가장 높이 홀로 선 건축물이었답니다! 타워 꼭대기 근처에는 완전히 유리로 된 바닥이 있어서, 용감한 사람들은 그 위에 서서 300미터 아래를 내려다볼 수 있어요. 신발 밑으로 장난감처럼 작아진 자동차들이 보인답니다.",
+      "하지만 토론토가 숨겨 둔 가장 재미있는 비밀은 땅 밑에 있어요. 번화한 도심 아래에는 'PATH'라는 지하 통로가 미로처럼 이어져 있어서, 비를 한 방울도 맞지 않고 쇼핑도 하고 걸어 다닐 수도 있답니다. 그리고 도시가 내려다보이는 언덕 위에는 '카사 로마'라는 진짜 성이 서 있어요. 기사처럼 살고 싶었던 한 남자가 비밀 통로와 숨겨진 계단까지 만들어 지은 성이랍니다. 강가의 낱말 하나에서 시작된 도시가, 지금도 이렇게 놀라움으로 가득하답니다!"
+    ],
+    "en": [
+      "Long before Toronto was a big city, Indigenous peoples—the Huron-Wendat, the Haudenosaunee, and the Mississaugas of the Credit—paddled a trail of rivers and lakes that cut straight through what is now Ontario. At one spot, wooden stakes stuck up out of shallow water, built to trap fish swimming by. In the Mohawk language, that spot was called 'tkaronto'—'where there are trees standing in the water.' Centuries later, settlers borrowed that beautiful name for the busy new town growing beside Lake Ontario.",
+      "That little lakeside town grew and grew until it became Toronto, now Canada's biggest city. Ships and trains brought people from every corner of the globe, and today more than half of everyone living there was born in another country. Walk down one street and you might hear over a hundred different languages—Toronto is one of the most mixed, most colorful cities on Earth.",
+      "Toronto also decided to touch the sky. In 1976, builders finished a needle-thin tower called the CN Tower, and for 32 years it was the tallest free-standing structure anywhere on land in the whole world! Near the top, brave visitors can stand on a floor made of solid glass and look straight down—more than 300 meters, with nothing but see-through glass between their sneakers and the tiny cars below.",
+      "But Toronto keeps its best surprises hidden. Underneath the busy downtown streets winds PATH, a secret underground city of tunnels where thousands of people shop and walk without ever feeling a raindrop. And on a hill above the city sits Casa Loma, a real castle with secret passages and a hidden staircase, built by a man who simply wanted to live like a knight. A whole city, born from one river word—still full of surprises today!"
+    ],
+    "ja": [
+      "はるか昔、トロントが大きな都市になるずっと前、ヒューロン・ウェンダット族やホーデノショーニ族、ミシサガ族といった先住民たちは、今のオンタリオを南北に貫く川と湖の道をカヌーで進んでいました。ある場所では、浅い水の中に木の杭がいくつも立てられ、通りかかる魚をつかまえるしかけになっていました。モホーク語でこの場所は『トカロント』と呼ばれ、『水の中に木が立っている場所』という意味でした。やがてここに移り住んだ人々は、オンタリオ湖のほとりで大きくなっていく新しい町に、この美しい名前をそのままつけたのです。",
+      "その小さな湖畔の町はぐんぐん成長し、今ではカナダ最大の都市トロントになりました。船や汽車に乗って世界中から人々が集まり、今日ではトロントの住民の半分以上が外国生まれです。通りを歩けば100を超える言語が聞こえてくるほどで、トロントは地球でもっともカラフルで多様な都市のひとつなのです。",
+      "トロントは空にも挑戦しました。1976年、針のように細い『CNタワー』が完成し、なんと32年ものあいだ、世界で一番高い『自立式』建造物だったのです！タワーの上のほうにはガラスでできた床があり、勇気を出した人はその上に立って300メートル下をのぞきこむことができます。靴の下には、おもちゃのように小さくなった車が見えますよ。",
+      "でもトロント一番の秘密は地面の下にあります。にぎやかな中心街の地下には『PATH』という地下道が迷路のように広がり、雨に一滴もぬれずに買い物も散歩も楽しめるのです。そして街を見下ろす丘の上には『カーサ・ローマ』という本物のお城が立っています。騎士のように暮らしたかったある男の人が、秘密の通路やかくし階段まで作って建てたお城なのです。川辺の一つの言葉から始まった街は、今も驚きでいっぱいですね！"
+    ],
+    "zh": [
+      "很久很久以前，在多伦多成为大城市之前，休伦-温达特人、豪迪诺索尼人和密西索加人等原住民曾划着独木舟，沿着贯穿今天安大略省的河流和湖泊往来穿梭。在一个地方，浅水里立着一排排木桩，专门用来捕捉游过的鱼。莫霍克语把这里叫做“特卡龙托”，意思是“水中立着树木的地方”。后来定居于此的人们，就把这个美丽的名字，送给了安大略湖畔那座正在长大的新城镇。",
+      "那座湖边的小镇不断长大，如今已成为加拿大最大的城市——多伦多。船只和火车把世界各地的人们带到这里，如今多伦多超过一半的居民都出生在其他国家。走在街上，你可能会听到一百多种不同的语言——多伦多是地球上最多元、最丰富多彩的城市之一。",
+      "多伦多还向天空发起了挑战。1976年，一座细长如针的建筑——加拿大国家电视塔（CN Tower）建成了，在长达32年的时间里，它都是全世界陆地上最高的自立式建筑！在塔的高处，有一块完全由玻璃做成的地板，勇敢的游客可以站在上面，往下俯瞰300多米——脚下的汽车小得像玩具一样。",
+      "不过，多伦多最有趣的秘密藏在地底下。热闹的市中心地下，蜿蜒着一座名叫PATH的地下城，人们可以在里面购物、散步，一滴雨都淋不到。而在俯瞰全城的山丘上，矗立着一座真正的城堡——卡萨罗马。它是一位渴望像骑士一样生活的人建造的，里面还藏着秘密通道和暗梯。一座城市，从河边的一个词开始，直到今天依然充满惊喜！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'토론토'라는 이름은 모호크어(휴런어) 단어 '트카론토'에서 왔어요. 도시에서 멀리 떨어진 좁은 물길에 있던 나무 물고기 덫을 가리키며 '물속에 나무가 서 있는 곳'이라는 뜻이었답니다.",
+      "토론토의 CN 타워는 1975년부터 2007년까지 32년 동안 세상에서 가장 높이 홀로 선 건축물이었어요.",
+      "CN 타워 꼭대기 근처에는 유리로 된 바닥이 있어서, 그 위에 서면 300미터 아래가 훤히 내려다보여요.",
+      "카사 로마는 진짜 성이에요! 도시 한복판에 비밀 통로와 숨겨진 계단, 값비싼 말들을 위한 마구간까지 갖추고 있답니다.",
+      "토론토 시내 지하에는 'PATH'라는 세계에서 가장 큰 지하 보행로가 있어요. 약 30킬로미터나 되는 통로가 상점과 지하철역, 건물들을 연결하고 있답니다.",
+      "토론토 사람의 절반 이상이 다른 나라에서 태어났고, 160가지가 넘는 언어가 쓰인대요. 지구에서 가장 다문화적인 도시 중 하나랍니다."
+    ],
+    "en": [
+      "\"Toronto\" comes from the Mohawk/Huron word \"tkaronto,\" meaning \"where there are trees standing in the water\"—describing wooden fish traps in a narrow channel far north of the city.",
+      "For 32 years (1975–2007) Toronto's CN Tower was the tallest free-standing structure on land anywhere in the world.",
+      "Near the top of the CN Tower you can walk out onto a glass floor and look straight down more than 300 meters.",
+      "Casa Loma is a real, honest-to-goodness castle right in the city, complete with secret tunnels, hidden passages, and stables for prize horses.",
+      "Under downtown Toronto runs PATH, the largest underground walking network in the world—about 30 kilometers of tunnels linking shops, subway stations, and buildings.",
+      "More than half of Toronto's people were born outside Canada, and over 160 languages are spoken there—making it one of the most multicultural cities on the planet."
+    ],
+    "ja": [
+      "「トロント」という名前は、モホーク語（ヒューロン語）の『トカロント』に由来します。ずっと北にある細い水路にあった木の魚捕りしかけを指し、『水の中に木が立っている場所』という意味でした。",
+      "トロントのCNタワーは、1975年から2007年までの32年間、世界で一番高い自立式建造物でした。",
+      "CNタワーの上のほうにはガラスの床があり、その上に立つと300メートル下まではっきり見えます。",
+      "カーサ・ローマは本物のお城です！街のまん中にありながら、秘密の通路やかくし階段、りっぱな馬のための馬小屋まで備えています。",
+      "トロントの地下には『PATH』という世界最大の地下歩行者ネットワークがあります。約30キロメートルの通路が、お店や地下鉄の駅、建物をつないでいるのです。",
+      "トロントの住民の半分以上が外国生まれで、160を超える言語が話されています。地球でもっとも多文化な都市のひとつなのです。"
+    ],
+    "zh": [
+      "“多伦多”这个名字来自莫霍克语（休伦语）单词“特卡龙托”，指的是遥远北方一条狭窄水道里的木制捕鱼装置，意思是“水中立着树木的地方”。",
+      "多伦多的加拿大国家电视塔（CN Tower）在1975年到2007年的32年间，一直是全世界陆地上最高的自立式建筑。",
+      "CN塔高处有一块玻璃地板，站在上面能清楚地看到300米下方的景象。",
+      "卡萨罗马是一座真正的城堡！它就在市中心，里面还有秘密通道、暗梯，甚至有专门给名贵马匹住的马厩。",
+      "多伦多市中心地下有一座名叫PATH的地下步行网络，是世界上最大的地下步行系统，约30公里长的通道连接着商店、地铁站和大楼。",
+      "多伦多超过一半的居民出生在其他国家，那里讲的语言超过160种，是地球上最具多元文化特色的城市之一。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "'물속에 서 있는 나무'라는 뜻의 말이 성까지 있는 커다란 도시의 이름이 됐대. 정말 신기하지 않아?",
+    "en": "A word that means 'trees standing in water' became the name of a giant city with a real castle inside it—how cool is that?",
+    "ja": "『水の中に立つ木』という意味の言葉が、本物のお城まである大都市の名前になったんだって。すごくない？",
+    "zh": "一个意思是“水中站立的树”的词，竟然成了一座里面还有真城堡的大城市的名字——是不是很神奇？"
+  },
+  "places": [
+    {
+      "name": { "ko": "CN 타워", "en": "CN Tower", "ja": "CNタワー", "zh": "CN塔" },
+      "blurb": {
+        "ko": "이 바늘처럼 가느다란 탑은 32년 동안 세상에서 가장 높이 홀로 선 건축물이었어요. 꼭대기 근처의 진짜 유리 바닥에 서면 300미터 아래가 훤히 보인답니다. 용기가 있다면요!",
+        "en": "For 32 years this needle-thin tower was the tallest free-standing structure on Earth. Near the top, you can stand on a real glass floor and look straight down more than 300 meters—if you dare!",
+        "ja": "この針のように細いタワーは、32年間も世界で一番高い自立式建造物でした。てっぺん近くの本物のガラスの床に立てば、300メートル下がまる見え。勇気があるなら試してみて！",
+        "zh": "这座细如钢针的高塔曾在32年间是全世界最高的自立式建筑。站上塔顶附近那块真正的玻璃地板，就能俯瞰300多米之下——如果你敢的话！"
+      },
+      "coords": [43.6426, -79.3871]
+    },
+    {
+      "name": { "ko": "카사 로마", "en": "Casa Loma", "ja": "カーサ・ローマ", "zh": "卡萨罗马城堡" },
+      "blurb": {
+        "ko": "도시 한복판에 있는 진짜 성이에요! 기사처럼 살고 싶었던 한 남자가 지었는데, 비밀 통로와 숨은 계단, 훌륭한 말들을 위한 마구간까지 갖추고 있답니다.",
+        "en": "A real castle right inside the city! It was built by a man who dreamed of living like a knight, complete with secret tunnels, hidden staircases, and stables fit for prize horses.",
+        "ja": "街のまん中にある本物のお城！騎士のように暮らしたいと夢見た男の人が建てたお城で、秘密の通路やかくし階段、りっぱな馬のための馬小屋まであります。",
+        "zh": "一座就坐落在市中心的真正城堡！它是一位渴望像骑士一样生活的人所建，里面还有秘密通道、暗梯，甚至有专供名贵马匹居住的马厩。"
+      },
+      "coords": [43.6780, -79.4094]
+    },
+    {
+      "name": { "ko": "토론토 아일랜드", "en": "Toronto Islands", "ja": "トロント・アイランズ", "zh": "多伦多群岛" },
+      "blurb": {
+        "ko": "다운타운에서 배를 타고 잠깐이면 닿는 자동차 없는 섬들이에요. 해변과 자전거 길이 있고, 물 건너 도시의 스카이라인이 한눈에 보인답니다. 저 거대한 타워를 포함해서 도시 전체를 한 번에 바라보기 딱 좋은 곳이죠.",
+        "en": "A cluster of car-free islands just a quick ferry ride from downtown, with beaches, bike paths, and views of the skyline across the water. It's the perfect place to look back and see the whole city—including that giant tower—at once.",
+        "ja": "ダウンタウンからフェリーですぐ行ける、車のない島々です。ビーチや自転車道があり、水の向こうに街のスカイラインが見えます。あの巨大なタワーもふくめ、街全体をいっぺんに眺めるのにぴったりの場所です。",
+        "zh": "从市中心乘渡轮很快就能到达的一组无车岛屿，有沙滩、自行车道，还能隔着水面眺望城市天际线。这里是把整座城市——包括那座巨塔——尽收眼底的绝佳地点。"
+      },
+      "coords": [43.6205, -79.3790]
+    },
+    {
+      "name": { "ko": "로열 온타리오 박물관", "en": "Royal Ontario Museum", "ja": "ロイヤル・オンタリオ博物館", "zh": "皇家安大略博物馆" },
+      "blurb": {
+        "ko": "이 커다란 박물관에는 진짜 공룡 화석, 오래된 보물들이 가득해요. 그리고 마치 커다란 유리 수정이 오래된 돌 건물에 부딪힌 것처럼 생긴 반짝이는 '크리스탈' 증축 건물도 볼 수 있답니다. 토론토를 이토록 다채롭게 만드는 여러 문화를 만나보기 딱 좋은 곳이에요.",
+        "en": "This giant museum has real dinosaur skeletons, ancient treasures, and a dazzling crystal-shaped addition that looks like giant glass rocks crashed into the old stone building. It's a perfect place to explore the many cultures that make Toronto so colorful.",
+        "ja": "この巨大な博物館には本物の恐竜の化石や、古い時代の宝物がいっぱい。まるで大きなガラスの結晶が古い石造りの建物にぶつかったような、きらめく『クリスタル』の増築部分も見どころです。トロントをこんなにカラフルにしている、さまざまな文化に出会うのにぴったりの場所です。",
+        "zh": "这座巨大的博物馆里陈列着真正的恐龙化石和古老的珍宝。馆舍还有一座闪闪发光的“水晶”扩建部分，看起来就像巨大的玻璃结晶体撞进了老石头建筑里。这里是了解让多伦多如此多彩的各种文化的绝佳去处。"
+      },
+      "coords": [43.6677, -79.3948]
+    }
+  ]
+}

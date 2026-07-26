@@ -1,0 +1,120 @@
+{
+  "id": "phuket",
+  "country": "th",
+  "coords": [7.8804, 98.3923],
+  "name": { "ko": "푸켓", "en": "Phuket", "ja": "プーケット", "zh": "普吉岛" },
+  "tagline": {
+    "ko": "안다만 바다의 진주, 오래된 바다 이야기가 수많은 생명을 구했던 곳",
+    "en": "The pearl of the Andaman Sea, where an old ocean legend once saved thousands of lives",
+    "ja": "アンダマン海の真珠、古い海の伝説が多くの命を救った島",
+    "zh": "安达曼海的明珠，古老海洋传说曾拯救无数生命的地方"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 안다만 바다를 건너던 뱃사람들은 초록빛 정글로 뒤덮인 섬 하나를 알고 있었어요. 바로 '푸켓'이었죠. 산속 땅 밑에는 반짝이는 주석이 잔뜩 묻혀 있었고, 바닷가에는 '모켄'이라 불리는 사람들이 살았어요. 이들은 거의 평생을 배 위에서 지내며 바다를 마치 이야기책처럼 읽을 줄 알았답니다.",
+      "푸켓에 주석이 많다는 소문이 퍼지자, 중국과 포르투갈 등 먼 나라에서 배들이 몰려왔어요. 상인들은 알록달록한 창문과 기둥이 늘어선 멋진 저택을 지었는데, 중국식과 유럽식이 뒤섞인 독특한 건물이었죠. 이 북적이던 거리가 바로 지금의 '푸켓 올드타운'이랍니다. 지금도 파스텔 색으로 곱게 칠해져 있어요.",
+      "그러다 2004년, 정말 큰 일이 벌어졌어요. 갑자기 바닷물이 이제껏 본 적 없을 만큼 저 멀리까지 빠져나가, 바닥이 훤히 드러난 거예요. 많은 관광객들은 신기해하며 걸어 나갔지만, 모켄 마을 어른들은 달랐어요. 대대로 전해 내려온 '라부운'이라는 사람을 삼키는 파도 이야기를 기억하고 있었거든요. 어른들은 \"다들 높은 곳으로 도망쳐요!\"라고 외쳤고, 그 덕분에 거대한 쓰나미가 덮치기 직전 수많은 사람들이 목숨을 구할 수 있었답니다.",
+      "푸켓은 다시 씩씩하게 일어섰고, 지금은 태국에서 가장 큰 섬이 되었어요. 아름다운 해변과 언덕 위에서 섬을 내려다보는 새하얀 대형 불상, 그리고 바다 위로 우뚝 솟은 신비로운 바위섬들로 유명하답니다. 하지만 사람들은 잊지 않았어요. 때로는 가장 오래된 이야기 속에 가장 지혜로운 경고가 숨어 있다는 것을요."
+    ],
+    "en": [
+      "Long, long ago, sailors crossing the Andaman Sea knew a lush green island rising from the water—Phuket. Beneath its jungled hills lay something valuable: shining tin. And along its shores lived families called the Moken, who spent almost their whole lives on boats, reading the ocean like a storybook.",
+      "When word of Phuket's tin got out, ships came from China, Portugal, and beyond. Traders built grand houses with colorful shutters and columned porches—a mix of Chinese and European styles found nowhere else quite like this. Their busy streets grew into what we now call Phuket Old Town, still painted in bright pastel colors today.",
+      "Then in 2004, something enormous happened. The ocean pulled back farther than anyone had ever seen, exposing the sea floor. Most tourists walked out to look, curious. But Moken elders remembered the old story of 'laboon,' the wave that eats people, passed down for generations. They shouted for everyone to run to high ground—and saved countless lives moments before a giant tsunami wave struck.",
+      "Phuket rebuilt, and today it's Thailand's largest island, famous for beautiful beaches, a giant white Buddha watching over it from a hilltop, and nearby bays full of towering limestone rocks rising straight out of the sea. But locals never forgot: sometimes the oldest stories carry the smartest warnings."
+    ],
+    "ja": [
+      "はるか昔、アンダマン海をわたる船乗りたちは、緑の密林におおわれた島を知っていました。それが『プーケット』です。山の地中にはきらきら光るスズがたくさん眠り、海辺には『モーケン』と呼ばれる人々が暮らしていました。彼らはほとんどの時間を船の上で過ごし、まるで絵本を読むように海を読み取ることができたのです。",
+      "プーケットにスズがたくさんあるとうわさが広まると、中国やポルトガルなど遠い国から船がやってきました。商人たちは色とりどりの窓と柱がならぶ立派な家を建てましたが、それは中国とヨーロッパの様式が混ざった独特な建物でした。このにぎやかな通りが、今の『プーケット・オールドタウン』です。今でもパステルカラーに美しく塗られています。",
+      "そして2004年、とても大きな出来事が起こりました。海の水がこれまで見たこともないほど遠くまで引き、海底がむき出しになったのです。多くの観光客は不思議がって歩いて出て行きましたが、モーケンの村の長老たちはちがいました。代々語り継がれてきた『ラブーン』という、人をのみこむ波の話を覚えていたのです。長老たちは「みんな高台へ逃げろ！」と叫び、そのおかげで巨大な津波が押し寄せる直前、たくさんの命が救われました。",
+      "プーケットはたくましく立ち直り、今ではタイ最大の島になりました。美しいビーチや、丘の上から島を見守る真っ白な大仏、そして海にそびえる不思議な岩の島々で知られています。でも人々は忘れませんでした。時には、いちばん古い物語の中に、いちばん賢い警告がかくれているということを。"
+    ],
+    "zh": [
+      "很久很久以前，横渡安达曼海的水手们都知道有一座被绿色丛林覆盖的岛屿——普吉岛。山中的地下埋藏着闪闪发光的锡矿，而海边住着被称为“莫肯人”的一群人。他们几乎一生都生活在船上，能像读故事书一样“读懂”大海。",
+      "普吉盛产锡矿的消息传开后，来自中国、葡萄牙等遥远国度的船只纷纷抵达。商人们建起色彩缤纷、廊柱林立的漂亮房子，中式与欧式风格融合出独特的样貌。这条热闹的街道，就是今天的“普吉老城”，至今仍被涂成柔和好看的粉彩色。",
+      "到了2004年，发生了一件大事。海水突然退到前所未见的远处，海床都露了出来。许多游客好奇地走出去查看，可莫肯村的长辈们不一样——他们记得世代相传的“拉布恩”传说，那是一种会吞噬人的巨浪。长辈们大喊“大家快往高处跑！”，就在巨大海啸扑来之前，救下了无数条生命。",
+      "普吉岛顽强地重新站了起来，如今已成为泰国最大的岛屿。这里以美丽的沙滩、山丘上俯瞰全岛的洁白大佛，以及海面上耸立的神奇岩岛而闻名。但人们从未忘记：有时候，最古老的故事里，藏着最聪明的警示。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "푸켓은 태국에서 가장 큰 섬이에요. 얼마나 큰지 섬 안에 산과 폭포, 심지어 작은 열대우림까지 있답니다.",
+      "'바다 집시' 모켄 사람들은 전통적으로 거의 평생을 배 위에서 살아요. 이 마을 아이들은 물속에서 보통 사람보다 거의 두 배나 또렷하게 볼 수 있대요!",
+      "2004년 쓰나미 때, 모켄 마을인 '반 퉁와'는 단 한 명도 목숨을 잃지 않았어요. 마을 어른들이 옛날부터 전해오던 '라부운' 파도 이야기를 기억하고, 제때 사람들을 높은 곳으로 이끌었거든요.",
+      "푸켓 언덕 위에 있는 대형 불상은 높이가 45미터나 되고, 반짝이는 하얀 미얀마산 대리석으로 덮여 있어요.",
+      "푸켓 올드타운의 알록달록한 건물들은 중국식과 유럽식이 섞인 스타일인데, 세계에서도 거의 찾아보기 힘든 독특한 모습이에요.",
+      "근처에 있는 '제임스 본드 섬'은 마치 금방이라도 넘어질 듯 바다 위에 우뚝 솟은 커다란 바위섬인데, 007 영화에 나오면서 유명해졌답니다."
+    ],
+    "en": [
+      "Phuket is Thailand's largest island—so big it has its own mountains, waterfalls, and even a rainforest inside it.",
+      "The 'sea gypsy' Moken people traditionally live almost their entire lives on boats, and their children can see clearly underwater almost twice as well as most people!",
+      "During the 2004 tsunami, the Moken village of Ban Tung Wa lost no lives at all—elders remembered the old 'laboon' wave legend and led everyone to high ground in time.",
+      "The Big Buddha on Phuket's hilltop stands 45 meters tall and is covered in gleaming white Burmese marble.",
+      "Phuket Old Town's rainbow-colored buildings mix Chinese and European styles into a look found almost nowhere else in the world.",
+      "Nearby James Bond Island is a tall limestone rock that leans out of the sea as if it's about to topple—and it became famous after appearing in a 007 movie."
+    ],
+    "ja": [
+      "プーケットはタイ最大の島です。島の中に山も滝もあり、小さな熱帯雨林まであるほど大きいのです。",
+      "『海のジプシー』モーケンの人々は、伝統的にほとんどの人生を船の上で過ごします。この村の子どもたちは、水中で普通の人のほぼ2倍もはっきり物が見えるそうです！",
+      "2004年の津波のとき、モーケンの村『バーン・トゥンワー』では一人も命を落としませんでした。村の長老たちが昔から伝わる『ラブーン』という波の話を覚えていて、間に合ううちに皆を高台へ導いたのです。",
+      "プーケットの丘の上にある大仏は、高さ45メートルもあり、輝く白いミャンマー産の大理石でおおわれています。",
+      "プーケット・オールドタウンのカラフルな建物は、中国とヨーロッパの様式が混ざったスタイルで、世界でもほとんど例のない独特な姿をしています。",
+      "近くにある『ジェームズ・ボンド島』は、今にも倒れそうなほど海からそびえ立つ大きな岩の島で、007映画に登場して有名になりました。"
+    ],
+    "zh": [
+      "普吉岛是泰国最大的岛屿，岛上不仅有山有瀑布，甚至还有一小片热带雨林呢。",
+      "“海上吉普赛人”莫肯人传统上几乎一生都生活在船上。这个村子里的孩子在水下看东西，几乎比一般人清楚两倍！",
+      "2004年海啸时，莫肯人的村庄“Ban Tung Wa”没有一个人遇难——村里的长辈们记得世代相传的“拉布恩”巨浪传说，及时带着大家跑到了高处。",
+      "普吉山顶上的大佛高达45米，外层包覆着闪闪发光的白色缅甸大理石。",
+      "普吉老城色彩缤纷的建筑融合了中式与欧式风格，这种独特的样貌在世界上几乎找不到第二处。",
+      "附近的“詹姆斯·邦德岛”是一块高高耸立、看起来随时会倒的海上岩石岛，因出现在007电影中而闻名。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "바닷물이 갑자기 저 멀리까지 빠져서 바닥이 다 보인대. 너라면 구경하러 뛰어갈래, 아니면 도망갈래?",
+    "en": "The sea suddenly pulled way back, showing the ocean floor—would you run out to look, or run away?",
+    "ja": "海の水が急に遠くまで引いて、海底が見えたんだって。あなたなら見に行く？それとも逃げる？",
+    "zh": "海水突然退得好远，露出了海底——如果是你，会跑去看呢，还是赶紧逃跑？"
+  },
+  "places": [
+    {
+      "name": { "ko": "푸켓 올드타운", "en": "Phuket Old Town", "ja": "プーケット・オールドタウン", "zh": "普吉老城" },
+      "blurb": {
+        "ko": "옛날 주석 무역으로 부자가 된 가문들이 지은 알록달록한 저택들이 늘어선 거리를 걸어보세요. 문틈으로 살짝 들여다보면 햇빛과 바람이 들어오도록 만든 숨겨진 안뜰을 발견할 수도 있어요. 중국식과 유럽식이 어우러져 완전히 새로운 모습이 된 걸 가장 잘 볼 수 있는 곳이랍니다.",
+        "en": "Stroll down streets lined with rainbow-colored mansions built long ago by tin-trading families. Peek inside and you'll often find a hidden courtyard letting in sunlight and fresh air. It's the best place to see how Chinese and European styles blended into something wonderfully new.",
+        "ja": "昔スズの貿易で栄えた一族が建てた、色とりどりの屋敷がならぶ通りを歩いてみましょう。戸口からのぞくと、光や風を取りこむために作られたかくれた中庭が見つかることもあります。中国とヨーロッパの様式が混ざり合い、まったく新しい姿になったのを一番よく感じられる場所です。",
+        "zh": "走在这条街上，两旁是当年靠锡矿贸易致富的家族建起的彩色豪宅。透过门缝望进去，常能发现引入阳光和空气的隐藏庭院。这里是感受中式与欧式风格融合出全新面貌的最佳地点。"
+      },
+      "coords": [7.8853, 98.3907]
+    },
+    {
+      "name": { "ko": "빅 부다 (대형 불상)", "en": "Big Buddha Phuket", "ja": "ビッグブッダ・プーケット", "zh": "普吉大佛" },
+      "blurb": {
+        "ko": "반짝이는 하얀 대리석으로 만든 이 불상은 언덕 위에 앉아 있는데, 높이가 15층 건물보다도 높아요. 계단을 올라가면 양쪽으로 펼쳐진 바다까지 보이는, 섬에서 손꼽히는 멋진 전망을 만날 수 있어요.",
+        "en": "This gleaming white marble statue sits atop a hill and stands taller than a 15-story building. Climb up and you'll get one of the best views on the whole island, with the sea stretching out on both sides.",
+        "ja": "輝く白い大理石でできたこの仏像は丘の上に座り、高さは15階建てビルよりも高いのです。階段をのぼると、海が両側に広がる、島でも指おりの絶景に出会えます。",
+        "zh": "这尊闪闪发光的白色大理石佛像坐在山顶上，高度超过一栋15层楼的建筑。爬上台阶，你会看到岛上数一数二的美景，大海在两侧铺展开来。"
+      },
+      "coords": [7.8278, 98.3121]
+    },
+    {
+      "name": { "ko": "왓찰롱 사원", "en": "Wat Chalong Temple", "ja": "ワット・チャロン", "zh": "查龙寺" },
+      "blurb": {
+        "ko": "푸켓에서 가장 중요한 사원으로, 부처님의 진신사리 일부를 모신 황금빛 탑으로 유명해요. 지금도 사람들은 이곳에서 행운을 빌며 폭죽을 터뜨리는데, 이는 아주 오래전부터 이어져 온 전통이랍니다.",
+        "en": "Phuket's most important temple, famous for its towering golden stupa holding a fragment of Buddha relics. Locals still light strings of firecrackers here for good luck—a tradition that goes back generations.",
+        "ja": "プーケットで最も大切なお寺で、お釈迦さまの遺骨の一部をまつる金色の仏塔で有名です。今でも人々はここで幸運を願って爆竹を鳴らします。これは何世代も前から続く伝統なんですよ。",
+        "zh": "这是普吉岛最重要的寺庙，以供奉佛陀舍利的金色佛塔闻名。至今人们仍会在这里燃放鞭炮祈求好运，这个传统已经延续了好几代人。"
+      },
+      "coords": [7.8455, 98.3379]
+    },
+    {
+      "name": { "ko": "팡아만 & 제임스 본드 섬", "en": "Phang Nga Bay & James Bond Island", "ja": "パンガー湾とジェームズ・ボンド島", "zh": "攀牙湾与詹姆斯·邦德岛" },
+      "blurb": {
+        "ko": "푸켓에서 배를 타고 잠깐이면 도착하는 이 바다에는 에메랄드빛 물 위로 거대한 석회암 절벽들이 우뚝 솟아 있어요. 그중 금방이라도 넘어질 듯한 바위 하나가 007 영화에 나오면서 세계적으로 유명해져, 지금도 사람들은 이곳을 '제임스 본드 섬'이라 부른답니다.",
+        "en": "A short boat ride from Phuket, this bay is dotted with giant limestone cliffs rising straight out of turquoise water. One tall, leaning rock became world-famous after appearing in a 007 movie, and everyone still calls it 'James Bond Island.'",
+        "ja": "プーケットから船ですぐのこの海には、エメラルド色の水の中から巨大な石灰岩の絶壁がそびえ立っています。中でも今にも倒れそうな一つの岩が007映画に登場して世界的に有名になり、今でも『ジェームズ・ボンド島』と呼ばれています。",
+        "zh": "从普吉岛乘船很快就能到达这片海域，翡翠色的海水中矗立着巨大的石灰岩峭壁。其中一块看起来随时会倒下的岩石，因出现在007电影中而闻名世界，人们至今仍称它为“詹姆斯·邦德岛”。"
+      },
+      "coords": [8.2718, 98.5566]
+    }
+  ]
+}

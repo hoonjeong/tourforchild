@@ -1,0 +1,120 @@
+{
+  "id": "milan",
+  "country": "it",
+  "coords": [45.4642, 9.1900],
+  "name": { "ko": "밀라노", "en": "Milan", "ja": "ミラノ", "zh": "米兰" },
+  "tagline": {
+    "ko": "완성까지 600년 걸린 대성당과, 전쟁에서 살아남은 그림이 있는 도시",
+    "en": "The city with a 600-year cathedral and a painting that survived a war",
+    "ja": "完成に600年かかった大聖堂と、戦争を生き延びた絵がある街",
+    "zh": "有一座耗时600年建成的大教堂，还有一幅画在战火中幸存下来的城市"
+  },
+  "story": {
+    "ko": [
+      "교회 하나를 짓는 데 무려 600년이 걸렸다면 믿을 수 있을까요? 한 사람이 평생 만드는 게 아니라, 증조할아버지의 할아버지 때부터 시작해서 그 자손의 자손이 이어받아 지었다는 뜻이에요. 이탈리아 북부의 활기찬 도시 밀라노 한복판에 우뚝 선 '두오모 대성당' 이야기랍니다. 1386년에 첫 벽돌을 놓은 뒤로도 수백 년 동안 뾰족탑과 조각상이 계속 늘어났대요.",
+      "그런데 밀라노 근처에는 대리석이 나는 산이 없었어요. 그래서 마조레 호수 근처 채석장에서 커다란 대리석을 배로 실어 와야 했죠. 밀라노 사람들은 꾀를 냈어요. '나빌리'라는 운하를 만들어서, 무거운 돌을 실은 배가 도시 한가운데까지 둥둥 떠올 수 있게 한 거예요. 지금 대성당 지붕을 올려다보면 135개의 뾰족탑과 3,400개가 넘는 조각상이 하나하나 손으로 새겨져 있어요.",
+      "성당이 한창 자라나고 있을 때, 호기심 많은 화가 레오나르도 다빈치가 밀라노로 왔어요. 그는 어느 수도원의 조용한 식당 벽에 예수님과 제자들이 저녁을 먹는 그림을 그렸는데, 그게 바로 '최후의 만찬'이랍니다. 레오나르도는 벽에 완전히 새로운 방식으로 물감을 칠했는데, 안타깝게도 얼마 지나지 않아 색이 벗겨지기 시작해서, 그 뒤로 사람들이 조심조심 그림을 지켜왔어요.",
+      "그러다 1943년, 전쟁 중 무서운 밤이 찾아왔어요. 폭탄이 밀라노에 떨어져 그 식당 바로 옆 지붕까지 부서뜨렸죠. 그런데 신기하게도, 마치 마법처럼 '최후의 만찬'이 그려진 벽만은 무너지지 않고 그대로 서 있었대요. 지금도 그 방에 들어가 레오나르도의 그림을 올려다보면, 500년 전 그날로 시간여행을 떠난 기분이 든답니다."
+    ],
+    "en": [
+      "Picture a church so big and so fancy that builders worked on it for almost 600 years — not just one lifetime, but generation after generation, from great-great-great-grandparents all the way down to their great-great-great-grandchildren. That's the Duomo di Milano, the giant marble cathedral standing right in the middle of Milan, a busy city in northern Italy. Workers started carving its walls in 1386, and they kept adding spires and statues for centuries after that.",
+      "Milan didn't have mountains full of marble nearby, so boats had to bring huge blocks of stone all the way from quarries near Lake Maggiore. The clever trick? Milan built canals called the Navigli, and barges floated the heavy marble right into the heart of the city. Look closely at the roof today and you'll spot 135 spires and more than 3,400 statues, each one carved by hand.",
+      "While the cathedral was still growing, a curious painter named Leonardo da Vinci moved to Milan. In a quiet dining hall at a monastery, he painted a picture of Jesus having dinner with his friends — a picture we now call The Last Supper. Leonardo tried a brand-new painting technique on the wall, but it started peeling almost right away, so people have been carefully saving it ever since.",
+      "Then came a scary night in 1943, when bombs fell on Milan during a war and smashed the roof right next to that dining hall. Somehow, almost like magic, the wall holding The Last Supper stayed standing while everything around it crumbled into dust. Today you can still stand in that same room, look up at Leonardo's painting, and feel like you've traveled back more than 500 years."
+    ],
+    "ja": [
+      "教会をひとつ建てるのに、なんと600年もかかったとしたら信じられますか？ひとりの人が一生かけて造ったのではなく、ひいひいおじいさんの時代から始まって、その子孫がずっと受け継いで完成させたということなんです。イタリア北部のにぎやかな街ミラノのまん中にそびえる『ドゥオーモ大聖堂』のお話です。1386年に最初の石を積んでから、その後何百年もの間、とがった塔や彫刻がどんどん増えていきました。",
+      "でも、ミラノの近くには大理石が取れる山がありませんでした。だから、マッジョーレ湖の近くの採石場から、大きな大理石を船で運ばなければならなかったのです。ミラノの人たちは知恵をしぼりました。『ナヴィリ』という運河を作り、重い石を積んだ船が街のまん中まで浮かんで来られるようにしたのです。今、大聖堂の屋根を見上げると、135本のとがった塔と3,400体以上の彫刻が、ひとつひとつ手で彫られているのが分かります。",
+      "大聖堂がまだ育ちつづけていたころ、好奇心いっぱいの画家レオナルド・ダ・ヴィンチがミラノにやってきました。彼はある修道院の静かな食堂の壁に、イエス様と弟子たちが夕食をとる絵を描きました。それが『最後の晩餐』です。レオナルドは壁にまったく新しい塗り方を試したのですが、残念ながらすぐに絵の具がはがれ始め、それ以来人々は大切にこの絵を守り続けています。",
+      "そして1943年、戦争中のおそろしい夜がやってきました。爆弾がミラノに落ち、その食堂のすぐそばの屋根まで壊してしまったのです。でも不思議なことに、まるで魔法のように『最後の晩餐』が描かれた壁だけは崩れずに立ち続けました。今でもその部屋に入ってレオナルドの絵を見上げると、500年以上前のその日にタイムトラベルしたような気持ちになりますよ。"
+    ],
+    "zh": [
+      "你能相信吗？建一座教堂，竟然花了将近600年！这可不是一个人一辈子能完成的，而是从曾曾曾祖父那一代开始动工，一直传到子孙后代才建成的。这就是意大利北部繁华城市米兰正中央矗立的“米兰大教堂”。工匠们从1386年开始雕刻教堂的墙壁，此后好几百年里，尖塔和雕像还在不断增加。",
+      "可米兰附近没有能开采大理石的高山，只能靠船只把巨大的石块从马焦雷湖附近的采石场运来。米兰人想出了一个聪明的办法：他们挖出了一条条叫“纳维利”的运河，让载满沉重石料的驳船能一路漂到城市中心。如今抬头看看教堂屋顶，你会看到135座尖塔和3400多尊雕像，每一尊都是工匠一刀一刀手工雕刻出来的。",
+      "就在大教堂还在慢慢“长大”的时候，一位好奇心十足的画家莱昂纳多·达·芬奇来到了米兰。他在一座修道院安静的餐厅墙壁上，画下了耶稣和门徒共进晚餐的场景——这幅画后来被称为《最后的晚餐》。达·芬奇在墙上尝试了一种全新的画法，可惜没过多久颜料就开始剥落，从那以后，人们一直小心翼翼地守护着这幅画。",
+      "到了1943年，战争中的一个可怕夜晚降临了。炸弹落在米兰，把餐厅旁边的屋顶都炸塌了。可神奇的是，仿佛有魔法保护一样，画着《最后的晚餐》的那面墙居然安然无恙地立在废墟中。直到今天，你依然可以走进那间屋子，抬头看着达·芬奇的画，感觉自己穿越回了500多年前的那一天。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "두오모 대성당은 짓는 데 거의 600년이 걸렸어요. 1386년에 공사를 시작했는데, 마지막 청동문은 1965년에야 완성됐대요!",
+      "대성당의 가장 높은 첨탑 위에는 '라 마돈니나'라는 황금 성모상이 서 있어요. 오랫동안 밀라노에서는 이 상보다 높은 건물을 짓지 않는다는 암묵적인 규칙이 있었대요.",
+      "레오나르도는 '최후의 만찬'을 진짜 프레스코 기법이 아니라 마른 벽에 바로 그렸어요. 그래서 완성한 지 얼마 안 돼 물감이 벗겨지기 시작한 거랍니다.",
+      "제2차 세계대전 때 '최후의 만찬'이 그려진 벽 앞에는 모래주머니가 쌓여 있었어요. 1943년 폭탄이 바로 옆 지붕을 무너뜨렸을 때도 그 벽만은 끄떡없었대요.",
+      "두오모 옆에 있는 거대한 유리 지붕 아케이드 '갈레리아 비토리오 에마누엘레 2세'는 세계에서 가장 오래된 쇼핑몰 중 하나예요. 바닥엔 황소 모자이크가 있는데, 사람들이 발뒤꿈치로 뱅글뱅글 돌면 행운이 온대요.",
+      "레오나르도 다빈치는 밀라노의 운하 '나빌리'에 배가 오르내릴 수 있도록 영리한 수문 장치를 설계하는 걸 도왔어요. 지금도 전 세계 운하에 비슷한 방식의 수문이 쓰이고 있답니다."
+    ],
+    "en": [
+      "Building the Duomo took almost 600 years — construction began in 1386 and the very last bronze door wasn't finished until 1965!",
+      "A golden statue called La Madonnina stands on the cathedral's tallest spire, and for centuries Milan had an unwritten rule that no building could stand taller than her.",
+      "Leonardo painted The Last Supper straight onto a dry wall instead of using real fresco technique, which is exactly why it started flaking almost right after he finished it.",
+      "During World War II, sandbags were piled up in front of the wall with The Last Supper — and when a bomb destroyed the roof next to it in 1943, that one wall stayed standing.",
+      "The Galleria Vittorio Emanuele II, a giant glass-roofed arcade near the Duomo, is considered one of the world's oldest shopping malls — and its floor has a mosaic bull that people spin around on their heel for good luck.",
+      "Leonardo da Vinci helped design clever lock gates for Milan's canals, the Navigli, so boats could move up and down between different water levels — and that same basic design is still used in canals around the world today."
+    ],
+    "ja": [
+      "ドゥオーモ大聖堂は建てるのにおよそ600年もかかりました。1386年に工事が始まり、最後の青銅の扉が完成したのは1965年だったんです！",
+      "大聖堂の一番高い尖塔の上には『ラ・マドンニーナ』という黄金の聖母像が立っています。長い間ミラノには、この像より高い建物を建てないという暗黙のルールがあったそうです。",
+      "レオナルドは『最後の晩餐』を本物のフレスコ画の技法ではなく、乾いた壁に直接描きました。だから完成してすぐに絵の具がはがれ始めてしまったのです。",
+      "第二次世界大戦中、『最後の晩餐』が描かれた壁の前には土のうが積まれていました。1943年に爆弾がすぐ隣の屋根を壊したときも、その壁だけは倒れませんでした。",
+      "ドゥオーモのそばにある巨大なガラス屋根のアーケード『ガッレリア・ヴィットーリオ・エマヌエーレ2世』は、世界最古級のショッピングモールといわれています。床には牛のモザイクがあり、かかとでくるりと回ると幸運が来るそうです。",
+      "レオナルド・ダ・ヴィンチは、ミラノの運河『ナヴィリ』で船が水位の違うところを上り下りできるよう、賢い水門の仕組みを設計する手伝いをしました。今でも世界中の運河で似たしくみの水門が使われています。"
+    ],
+    "zh": [
+      "米兰大教堂足足建了将近600年——工程始于1386年，而最后一扇青铜大门直到1965年才完工！",
+      "大教堂最高的尖塔顶上，立着一尊名叫“小圣母像”的黄金雕像。很长一段时间里，米兰有个不成文的规矩：没有建筑可以比她还高。",
+      "达·芬奇画《最后的晚餐》时，没有用真正的湿壁画技法，而是直接画在干燥的墙面上，所以画作完成没多久颜料就开始剥落了。",
+      "第二次世界大战期间，人们在画着《最后的晚餐》的那面墙前堆起了沙袋。1943年炸弹炸毁了旁边的屋顶，唯独那面墙屹立不倒。",
+      "大教堂旁那座玻璃穹顶的巨大拱廊“埃马努埃莱二世长廊”，被认为是世界上最古老的购物中心之一。地面上有一幅公牛马赛克，据说用脚跟转一圈就能带来好运。",
+      "莱昂纳多·达·芬奇曾帮忙设计米兰运河“纳维利”上巧妙的水闸，让船只能在不同水位间上下通行。如今世界各地的运河仍在使用类似原理的水闸。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "성당 하나 짓는 데 거의 600년이 걸렸대요. 증조할아버지의 할아버지 때 시작한 공사를 우리가 물려받는 거나 마찬가지죠. 왜 이렇게 오래 걸렸을까요?",
+    "en": "A church that took almost 600 years to build — imagine your great-great-great-grandparents starting it! What do you think took so long?",
+    "ja": "教会を建てるのにおよそ600年もかかったんだって。ひいひいおじいさんの時代に始まった工事を受け継ぐようなものだね。どうしてそんなに時間がかかったと思う？",
+    "zh": "建一座教堂居然花了将近600年，就好像曾曾曾祖父那代人开工，我们才接着完成一样。你觉得为什么会花这么久呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "두오모 대성당", "en": "Duomo di Milano", "ja": "ドゥオーモ大聖堂", "zh": "米兰大教堂" },
+      "blurb": {
+        "ko": "이 거대한 대리석 성당은 짓는 데 거의 600년이 걸렸고, 지붕 위에는 135개의 뾰족탑과 수천 개의 조각상이 있어요. 옥상에 올라가면 돌 조각상들 사이를 직접 걸을 수 있는데, 머리 위엔 황금빛 마돈니나상이 반짝이고 발아래엔 밀라노 시내가 펼쳐진답니다.",
+        "en": "This giant marble cathedral took almost 600 years to build and now has 135 spires and thousands of statues on its roof. Climb up top and you can walk right among the stone statues, with the golden Madonnina shining above you and all of Milan spread out below.",
+        "ja": "この巨大な大理石の大聖堂は建てるのにおよそ600年かかり、屋根には135本の尖塔と数千体の彫像があります。屋上に登れば石像の間を実際に歩くことができ、頭上には黄金のマドンニーナ像が輝き、足元にはミラノの街が広がっています。",
+        "zh": "这座巨大的大理石教堂用了将近600年才建成，屋顶上有135座尖塔和数千尊雕像。登上屋顶，你可以走在石像之间，头顶是闪闪发光的“小圣母”金像，脚下则是整片米兰城的景色。"
+      },
+      "coords": [45.4642, 9.1900]
+    },
+    {
+      "name": { "ko": "갈레리아 비토리오 에마누엘레 2세", "en": "Galleria Vittorio Emanuele II", "ja": "ガッレリア・ヴィットーリオ・エマヌエーレ2世", "zh": "埃马努埃莱二世长廊" },
+      "blurb": {
+        "ko": "1860년대에 지어진, 유리와 철로 만든 거대한 돔 지붕을 가진 근사한 쇼핑 아케이드예요. 바닥에 있는 황소 모자이크를 찾아 특정 부위를 발뒤꿈치로 세 바퀴 돌려보세요. 현지 사람들은 그러면 행운이 온다고 믿는대요!",
+        "en": "A grand shopping arcade with a giant glass-and-iron dome, built way back in the 1860s. Find the floor mosaic of a bull and spin around three times on your heel right on a very sensitive spot — locals say it brings good luck!",
+        "ja": "1860年代に建てられた、ガラスと鉄でできた巨大なドーム屋根を持つ豪華なショッピングアーケードです。床にある牛のモザイクを見つけて、その急所をかかとでぐるりと3回まわしてみて。地元の人はそうすると幸運が来ると信じているんです！",
+        "zh": "这是一座建于19世纪60年代的豪华购物拱廊，顶部是巨大的玻璃铁艺穹顶。找到地面上的公牛马赛克，用脚跟在它的“要害”部位转三圈——当地人说这样能带来好运！"
+      },
+      "coords": [45.4656, 9.1896]
+    },
+    {
+      "name": { "ko": "산타 마리아 델레 그라치에 (최후의 만찬)", "en": "Santa Maria delle Grazie (The Last Supper)", "ja": "サンタ・マリア・デッレ・グラツィエ教会（最後の晩餐）", "zh": "圣玛利亚感恩教堂（最后的晚餐）" },
+      "blurb": {
+        "ko": "이 조용한 수도원에는 레오나르도 다빈치가 500년도 더 전에 그린 '최후의 만찬'이 그려진 벽이 있어요. 1943년 바로 옆 건물이 폭탄에 무너졌을 때 모래주머니 덕분에 이 벽만은 살아남았고, 지금도 같은 방에 서서 레오나르도의 걸작을 올려다볼 수 있답니다.",
+        "en": "This quiet monastery has the wall where Leonardo da Vinci painted The Last Supper over 500 years ago. Sandbags saved that very wall when bombs destroyed the building right next to it in 1943, so you can still stand in the same room and look up at Leonardo's masterpiece today.",
+        "ja": "この静かな修道院には、レオナルド・ダ・ヴィンチが500年以上前に描いた『最後の晩餐』の壁があります。1943年にすぐ隣の建物が爆撃で壊れたときも、土のうのおかげでこの壁だけは生き残り、今でも同じ部屋に立ってレオナルドの傑作を見上げることができます。",
+        "zh": "这座安静的修道院里，有一面墙是达·芬奇500多年前绘制《最后的晚餐》的地方。1943年旁边的建筑被炸弹摧毁时，正是沙袋保住了这面墙，如今你依然可以站在同一个房间里，抬头欣赏达·芬奇的杰作。"
+      },
+      "coords": [45.4661, 9.1706]
+    },
+    {
+      "name": { "ko": "나빌리 운하", "en": "The Navigli Canals", "ja": "ナヴィリ運河", "zh": "纳维利运河区" },
+      "blurb": {
+        "ko": "밀라노의 옛 운하 지역으로, 두오모 대성당을 짓기 위한 커다란 대리석을 도시 안으로 실어 나르던 곳이에요. 레오나르도 다빈치가 직접 배가 서로 다른 수위를 오르내릴 수 있도록 영리한 수문을 설계하는 걸 도왔대요. 지금은 물길을 따라 걸으면 예전에 배들이 지나다니던 자리에 카페와 다리들이 늘어서 있는 걸 볼 수 있어요.",
+        "en": "Milan's old canal district, once used to float huge blocks of marble into the city for the Duomo. Leonardo da Vinci himself helped design the clever lock gates that let boats travel between different water levels — walk along the water today and you'll see cafes and bridges where barges used to pass.",
+        "ja": "ミラノの古い運河地区で、かつて大聖堂を建てるための巨大な大理石を街の中まで運ぶのに使われていました。レオナルド・ダ・ヴィンチ自身が、船が水位の違うところを行き来できる賢い水門の設計を手伝ったそうです。今、水辺を歩くと、昔船が通っていた場所にカフェや橋が並んでいるのが見られます。",
+        "zh": "这里是米兰古老的运河区，曾经用来把建造大教堂所需的巨大大理石运进城里。达·芬奇本人还曾帮忙设计过精巧的水闸，让船只能在不同水位间往来通行。如今沿河散步，你会看到从前船只经过的地方如今开满了咖啡馆，架起了一座座桥。"
+      },
+      "coords": [45.4494, 9.1716]
+    }
+  ]
+}

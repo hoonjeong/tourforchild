@@ -1,0 +1,120 @@
+{
+  "id": "pisa",
+  "country": "it",
+  "coords": [43.7228, 10.4017],
+  "name": { "ko": "피사", "en": "Pisa", "ja": "ピサ", "zh": "比萨" },
+  "tagline": {
+    "ko": "기울어진 채로 800년 넘게 서 있는, 세상에서 가장 유명한 '실수'",
+    "en": "The world's most famous 'mistake'—leaning strong for over 800 years",
+    "ja": "800年以上も傾いたまま立ち続ける、世界一有名な『失敗作』",
+    "zh": "歪了八百多年却依然屹立不倒的世界最有名“失误”"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 이탈리아 피사라는 도시 사람들은 아름다운 대성당 옆에 멋진 종탑을 세우기로 했어요. 1173년, 사람들은 하얀 대리석으로 탑을 층층이 쌓아 올리기 시작했답니다. 하지만 아무도 몰랐던 비밀이 하나 있었으니, 바로 탑이 서 있는 땅이 모래와 진흙이 섞인 물렁물렁한 땅이었다는 거예요.",
+      "겨우 3층까지 쌓았을 때, 탑이 스르르 한쪽으로 기울기 시작했어요! 땅이 한쪽만 푹 꺼져버린 거죠. 사람들은 깜짝 놀랐지만, 마침 전쟁이 터지는 바람에 공사를 100년 가까이 멈춰야 했어요. 그런데 이 오랜 멈춤이 오히려 탑을 살렸답니다. 그 사이 물렁한 땅이 서서히 단단해지면서, 탑이 더 빨리 넘어가지 않았거든요.",
+      "전쟁이 끝나자 사람들은 다시 공사를 시작했어요. 이번엔 꾀를 냈죠. 기울어진 반대쪽 층을 살짝 더 높게 쌓아서, 탑이 마치 바나나처럼 살짝 휘어지게 만든 거예요! 그렇게 1372년, 처음 삽을 뜬 지 거의 200년 만에 탑이 드디어 완성되었어요.",
+      "사람들은 이 삐뚤어진 탑을 부수지 않고 그대로 두었어요. 오히려 온 세상에서 가장 사랑받는 건물이 되었답니다. 피사에서 태어난 과학자 갈릴레오가 이 탑 꼭대기에서 공을 떨어뜨려 중력을 연구했다는 이야기도 전해져요. 1990년대에는 기술자들이 탑을 살짝 바로 세워, 앞으로 몇백 년은 끄떡없이 서 있을 수 있게 되었답니다."
+    ],
+    "en": [
+      "Long ago, the people of Pisa, a city in Italy, decided to build a grand bell tower right beside their beautiful cathedral. In 1173, they began stacking white marble, ring by ring, story by story. But there was one secret nobody knew: the ground beneath the tower was soft and squishy, made of sand and clay.",
+      "By the time they'd built just three stories, the tower started to slowly tip to one side! The soft ground on that side had sunk lower than the rest. Everyone was alarmed—but then a war broke out, and builders had to stop for almost 100 years. That long pause actually saved the tower. While work was paused, the soft ground slowly settled, so the tower stopped sinking so fast.",
+      "When the war ended, builders came back with a clever trick: they made the upper floors on the leaning side a little taller, so the tower curved back the other way—like a banana! By 1372, almost 200 years after the very first stone was laid, the tower was finally finished.",
+      "Instead of tearing down their crooked tower, the people of Pisa kept it standing just as it was—and it became one of the most beloved buildings on Earth. Legend says Galileo, a scientist born right there in Pisa, dropped balls from the top to study gravity. In the 1990s, engineers gently straightened the tower just a bit, so it can keep leaning safely for hundreds of years to come."
+    ],
+    "ja": [
+      "はるか昔、イタリアの町ピサの人たちは、美しい大聖堂のとなりに立派な鐘楼を建てることにしました。1173年、白い大理石を階ごとに積み上げていきました。でも、だれも知らない秘密がありました。塔が立つ地面が、砂とねん土でできたやわらかい地面だったのです。",
+      "たった3階まで積んだところで、塔はゆっくりと片方へ傾き始めました！片側の地面だけがしずんでしまったのです。みんな大あわてしましたが、ちょうど戦争が起こって、工事はおよそ100年も止まってしまいました。ところが、この長い中断が塔を救ったのです。工事が止まっている間に、やわらかい地面が少しずつ固まり、塔がそれ以上急にかたむかなくなったのです。",
+      "戦争が終わると、人々は工事を再開しました。今度は知恵をしぼり、かたむいた反対側の階を少し高く積んで、塔がバナナのようにゆるやかに曲がるように作ったのです！こうして1372年、最初の一歩から約200年もかけて、塔はついに完成しました。",
+      "人々はこの曲がった塔をこわさず、そのまま残しました。そしてそれが世界でいちばん愛される建物の一つになったのです。ピサ生まれの科学者ガリレオが、この塔のてっぺんからボールを落として重力を調べたという言い伝えもあります。1990年代には技術者たちが塔をほんの少しまっすぐに直し、これから何百年も安全に立ち続けられるようになりました。"
+    ],
+    "zh": [
+      "很久很久以前，意大利比萨城的人们决定在美丽的大教堂旁边，建一座壮观的钟楼。1173年，人们开始用白色大理石一层一层地往上砌。可是有一个秘密没人知道：塔下面的地面又软又松，是沙土和黏土混成的。",
+      "才砌到第三层，塔就开始慢慢向一边倾斜了！原来那一侧的地面陷下去了。大家都吓了一跳，可正好这时打起了仗，工程被迫停了将近一百年。没想到，这漫长的停工反而救了这座塔——停工期间，松软的地面慢慢变得结实，塔也就没有再继续快速倾斜。",
+      "战争结束后，人们重新开工，这次想出了一个聪明的办法：把倾斜那一侧的楼层砌得稍微高一点，让塔像香蕉一样微微弯回来！就这样，到1372年，从第一铲土算起差不多两百年后，这座塔终于建成了。",
+      "人们没有拆掉这座歪歪的塔，而是就这样把它保留了下来，它反而成了全世界最受喜爱的建筑之一。传说出生在比萨的科学家伽利略，曾在塔顶扔球，研究重力的秘密。到了20世纪90年代，工程师们把塔轻轻扶正了一点点，让它今后几百年都能安全地继续“歪”下去。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "탑을 짓는 데 거의 200년(1173~1372년)이나 걸렸어요. 중간에 전쟁으로 100년 가까이 공사가 멈췄기 때문이죠.",
+      "탑은 물렁한 모래·진흙 땅 위에 세워져서, 겨우 3층을 쌓았을 때부터 기울기 시작했어요.",
+      "탑을 자세히 보면 살짝 바나나처럼 휘어 있어요. 위층을 쌓을 때 기운 반대쪽을 더 높게 만들었거든요.",
+      "탑 꼭대기에는 종이 7개 있는데, 각각 도레미파솔라시 음계와 소리가 같대요.",
+      "피사에서 태어난 과학자 갈릴레오가 이 탑에서 공을 떨어뜨려 중력을 실험했다는 이야기가 전해져요.",
+      "1990년대에 기술자들이 탑 밑의 흙을 조금 파내어 기울기를 살짝 줄였어요. 그래서 앞으로 몇백 년은 더 안전하대요."
+    ],
+    "en": [
+      "The tower took almost 200 years to build (1173–1372) because a war paused construction for nearly 100 years.",
+      "Built on soft sandy, clay-like ground, the tower started leaning after just three stories were finished.",
+      "Look closely and the tower actually curves like a banana—builders made the upper floors taller on the leaning side to compensate.",
+      "There are 7 bells at the top, one for each note of the musical scale, do-re-mi-fa-sol-la-ti.",
+      "Legend says Galileo, born right in Pisa, dropped balls from the tower to study gravity.",
+      "In the 1990s, engineers carefully removed some soil under the tower to reduce the lean—so it should stay safe for hundreds more years."
+    ],
+    "ja": [
+      "塔の完成には約200年（1173〜1372年）もかかりました。途中の戦争で工事が100年近く止まったからです。",
+      "やわらかい砂とねん土の地面に建てたため、たった3階まで積んだ時点で傾き始めました。",
+      "よく見ると塔はバナナのように曲がっています。上の階を積むとき、傾いた反対側を高く作ったからです。",
+      "塔のてっぺんには鐘が7つあり、それぞれドレミファソラシの音階に合わせた音が出るそうです。",
+      "ピサ生まれの科学者ガリレオが、この塔からボールを落として重力を調べたという言い伝えがあります。",
+      "1990年代に技術者たちが塔の下の土をそっと取り除き、傾きを少し減らしました。おかげで今後何百年も安全だそうです。"
+    ],
+    "zh": [
+      "这座塔前后花了将近两百年（1173—1372年）才建成，因为一场战争让工程停了差不多一百年。",
+      "由于建在松软的沙土和黏土地面上，塔才砌到第三层就开始倾斜了。",
+      "仔细看，塔身其实像香蕉一样弯曲——因为工匠把倾斜那一侧的楼层砌得更高来做补偿。",
+      "塔顶有7口钟，据说分别对应“哆来咪发索拉西”七个音符。",
+      "传说出生在比萨的科学家伽利略曾在这座塔上扔球，研究重力的奥秘。",
+      "20世纪90年代，工程师们小心翼翼地挖走塔下的一些泥土，让倾斜略微减小，据说这样能让塔安全地再站好几百年。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "탑이 기울어지기 시작했는데도 사람들은 부수지 않고 계속 쌓아 올렸대. 왜 그랬을까?",
+    "en": "Even after the tower started leaning, people kept building it higher instead of tearing it down. Why do you think they did that?",
+    "ja": "塔がかたむき始めたのに、人々はこわさずにそのまま積み上げ続けたんだって。どうしてだと思う？",
+    "zh": "塔都已经开始倾斜了，人们却没有拆掉它，反而继续往上盖。你觉得这是为什么呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "피사의 사탑", "en": "The Leaning Tower of Pisa", "ja": "ピサの斜塔", "zh": "比萨斜塔" },
+      "blurb": {
+        "ko": "이 이야기의 주인공! 8층 높이의 하얀 대리석 종탑으로, 지금도 약 4도 정도 기울어져 있어요. 안으로 들어가면 나선 계단을 따라 꼭대기까지 올라갈 수 있답니다.",
+        "en": "The star of this story! An 8-story white marble bell tower that still leans about 4 degrees today. Climb the spiral staircase inside all the way to the top.",
+        "ja": "この物語の主人公！8階建ての白い大理石の鐘楼で、今も約4度かたむいています。中のらせん階段を登れば、てっぺんまで行けます。",
+        "zh": "这个故事的主角！这座八层高的白色大理石钟楼，如今仍倾斜约4度。沿着塔内的螺旋楼梯，可以一直爬到塔顶。"
+      },
+      "coords": [43.7230, 10.3966]
+    },
+    {
+      "name": { "ko": "피사 대성당", "en": "Pisa Cathedral (Duomo)", "ja": "ピサ大聖堂（ドゥオーモ）", "zh": "比萨大教堂" },
+      "blurb": {
+        "ko": "탑이 애초에 종탑으로 딸려 있던 그 대성당이에요. 하얀 대리석 줄무늬가 아름답고, 자세히 보면 이 성당도 아주 살짝 기울어져 있답니다.",
+        "en": "The grand cathedral the leaning tower was built to serve as a bell tower for. Its white-and-gray marble stripes are gorgeous—and if you look closely, even the cathedral leans just a little!",
+        "ja": "この斜塔がもともと鐘楼として付属していた大聖堂。白い大理石のしま模様が美しく、よく見るとこの大聖堂もほんの少しかたむいています。",
+        "zh": "斜塔最初就是为它而建的钟楼。白色大理石条纹的外观非常漂亮，仔细看的话，这座大教堂本身也稍微有点倾斜哦。"
+      },
+      "coords": [43.7231, 10.3956]
+    },
+    {
+      "name": { "ko": "산 조반니 세례당", "en": "Baptistery of St. John", "ja": "サン・ジョヴァンニ洗礼堂", "zh": "圣若望洗礼堂" },
+      "blurb": {
+        "ko": "둥근 지붕이 인상적인 커다란 세례당으로, 이탈리아에서 가장 큰 세례당 중 하나예요. 안에서 소리를 내면 신기하게 메아리가 오래도록 울려 퍼진답니다.",
+        "en": "A huge round-domed building, one of the largest baptisteries in Italy. Make a sound inside and the echo rings on and on—it's an amazing acoustic trick!",
+        "ja": "丸いドームが印象的な大きな洗礼堂で、イタリアでも最大級。中で声を出すと、不思議なほど長くこだまが響き渡ります。",
+        "zh": "这座圆顶洗礼堂十分壮观，是意大利最大的洗礼堂之一。在里面发出声音，回声会奇妙地久久回荡。"
+      },
+      "coords": [43.7225, 10.3947]
+    },
+    {
+      "name": { "ko": "캄포산토 기념묘지", "en": "Camposanto Monumentale", "ja": "カンポサント（納骨堂）", "zh": "纪念墓园" },
+      "blurb": {
+        "ko": "'기적의 광장' 한쪽에 자리한 길쭉한 회랑으로, 벽마다 옛 그림과 조각이 가득해요. 성지 예루살렘의 흙을 배에 실어와 뿌렸다는 전설도 전해진답니다.",
+        "en": "A long, quiet cloister at the edge of the Field of Miracles, its walls covered in centuries-old frescoes. Legend says its soil was shipped all the way from the Holy Land in Jerusalem.",
+        "ja": "『奇跡の広場』のはしにある細長い回廊で、壁一面に古い絵や彫刻が並びます。聖地エルサレムの土を船で運んでまいたという伝説も残っています。",
+        "zh": "位于“奇迹广场”一角的狭长回廊，墙壁上布满古老的壁画与雕刻。相传这里的泥土是用船从圣城耶路撒冷运来的。"
+      },
+      "coords": [43.7237, 10.3949]
+    }
+  ]
+}

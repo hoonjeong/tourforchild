@@ -1,0 +1,120 @@
+{
+  "id": "rovaniemi",
+  "country": "fi",
+  "coords": [66.5039, 25.7294],
+  "name": { "ko": "로바니에미", "en": "Rovaniemi", "ja": "ロヴァニエミ", "zh": "罗瓦涅米" },
+  "tagline": {
+    "ko": "산타클로스의 진짜 고향, 북극선 위에 세워진 마을",
+    "en": "Santa's official hometown, built right on the Arctic Circle",
+    "ja": "サンタクロースの本当の故郷、北極線の上に建つ町",
+    "zh": "圣诞老人的官方故乡，坐落在北极圈线上的小镇"
+  },
+  "story": {
+    "ko": [
+      "핀란드 북쪽, 거의 지구 꼭대기에 '로바니에미'라는 도시가 있어요. 이 도시는 눈에 보이지 않는 선인 '북극선' 바로 위에 자리 잡고 있어요. 이 선을 넘으면 백야와 극야가 펼쳐지는 신비로운 땅으로 들어가는 거예요. 눈 덮인 길 위로 순록이 어슬렁거리고, 끝없는 침엽수림이 펼쳐지는 이곳은 마치 동화 속 마을 같지만, 모든 게 진짜랍니다.",
+      "그리고 로바니에미에는 세상에서 가장 큰 비밀이 있어요. 바로 여기가 산타클로스의 '진짜' 고향이라는 거예요! 북극선이 지나가는 자리에 산타의 집이 있는 마을이 있고, 그 뒤편에는 진짜 우체국도 있답니다. 해마다 190개가 넘는 나라의 아이들이 이곳으로 편지를 보내면, 산타의 요정 우체부들이 한 통 한 통 정성껏 답장을 써 준대요.",
+      "로바니에미의 하늘에도 특별한 마법이 숨어 있어요. 캄캄한 겨울밤이면 초록빛과 분홍빛으로 물든 '오로라'가 커다란 커튼처럼 하늘을 넘실거려요. 어떤 해에는 무려 200일 가까이 오로라를 볼 수 있대요! 한겨울에는 몇 주 동안 해가 아예 뜨지 않는 '극야'가 찾아오지만, 여름이 되면 해가 거의 지지 않아서, 한밤중에도 환한 대낮처럼 밖에서 뛰놀 수 있답니다.",
+      "로바니에미에는 '불사조' 같은 이야기도 있어요. 2차 세계대전이 끝나갈 무렵, 도시 전체가 불에 타서 거의 아무것도 남지 않았거든요. 하지만 사람들은 포기하지 않고 로바니에미를 처음부터 다시 세웠어요. 한 유명한 건축가는 하늘에서 내려다보면 순록의 뿔 모양이 되도록 새 도시의 길을 설계했답니다. 오늘날 로바니에미는 산타와 오로라, 눈 위를 달리는 순록 썰매가 있는, 무너져도 다시 눈부시게 일어설 수 있다는 걸 보여주는 도시예요."
+    ],
+    "en": [
+      "Far up in the north of Finland, almost at the top of the world, there's a city called Rovaniemi. It sits exactly on an invisible line called the Arctic Circle — cross it, and you're officially in the land of the midnight sun and polar night. Reindeer wander along snowy roads, and pine forests stretch as far as you can see. It sounds like a made-up fairy-tale town, but every bit of it is real.",
+      "And here's the biggest secret of all: Rovaniemi says it's the official hometown of Santa Claus! Right on the Arctic Circle line, there's a village with Santa's own house, and behind it, a real post office. Every year, children from more than 190 countries send letters here, and Santa's helpful elves write back to every single one.",
+      "The sky over Rovaniemi has its own kind of magic too. On dark winter nights, green and pink lights called the aurora borealis ripple across the sky like a giant curtain — some years it happens on almost 200 nights! Then in deep winter the sun doesn't rise at all for weeks (that's called polar night), but in summer it barely sets, and kids can play outside at midnight in broad daylight.",
+      "Rovaniemi has an amazing 'phoenix' story too. Near the end of World War II, the whole city was burned down and almost nothing was left standing. But people didn't give up — they rebuilt Rovaniemi from scratch, and a famous architect even shaped its new streets to look like reindeer antlers from above. Today, Rovaniemi is proof that a place can burn down and still rise again, brighter than ever — home to Santa, the northern lights, and reindeer sleigh rides through the snow."
+    ],
+    "ja": [
+      "フィンランドの北、地球のてっぺんに近い場所に「ロヴァニエミ」という街があります。この街は目に見えない「北極線」のちょうど真上にあります。この線を越えると、白夜と極夜が広がる不思議な土地に入るのです。雪道をトナカイがのんびり歩き、どこまでも針葉樹の森が続くこの街は、まるでおとぎ話の村みたいですが、全部本当のことなんです。",
+      "そしてロヴァニエミには、世界一大きな秘密があります。ここは、サンタクロースの「本当の」故郷なんです！北極線の上にサンタの家がある村があり、その裏には本物の郵便局まであります。毎年190か国以上の子どもたちがここへ手紙を送り、サンタのお手伝いをする妖精たちが、一通一通ていねいに返事を書いてくれるそうです。",
+      "ロヴァニエミの空にも特別な魔法がひそんでいます。真っ暗な冬の夜には、緑やピンク色に光る「オーロラ」が、大きなカーテンのように空でゆらめきます。年によっては、なんと200日近くもオーロラが見られるそうです！真冬には何週間も太陽が昇らない「極夜」がやってきますが、夏になるとほとんど太陽が沈まず、真夜中でも明るい昼間のように外で遊べるのです。",
+      "ロヴァニエミには「不死鳥」のような物語もあります。第二次世界大戦の終わりごろ、街全体が焼け落ち、ほとんど何も残りませんでした。それでも人々はあきらめず、ロヴァニエミをゼロから建て直しました。ある有名な建築家は、空から見るとトナカイの角の形になるように、新しい街の道を設計したのです。今日のロヴァニエミは、サンタとオーロラ、雪の上を走るトナカイのそりがある、たとえ倒れても再び輝いて立ち上がれることを教えてくれる街なのです。"
+    ],
+    "zh": [
+      "在芬兰北部，几乎是地球顶端的地方，有一座城市叫“罗瓦涅米”。这座城市正好坐落在一条看不见的线——北极圈线上。跨过这条线，就进入了拥有极昼和极夜的神奇土地。驯鹿在雪路上悠闲地走着，针叶林一望无际，这里就像童话里的小镇，但一切都是真的。",
+      "罗瓦涅米还藏着世界上最大的秘密：这里是圣诞老人真正的故乡！北极圈线经过的地方有一座村庄，里面有圣诞老人的家，村子后面还有一座真正的邮局。每年，来自190多个国家的孩子们都会给这里寄信，圣诞老人的精灵邮差们会认真地给每一封信回信。",
+      "罗瓦涅米的天空里也藏着特别的魔法。漆黑的冬夜里，绿色和粉色的“极光”像巨大的窗帘一样在天空中飘荡。有些年份，几乎有200个夜晚都能看到极光！隆冬时节，太阳会一连几周都不升起，这叫“极夜”；而到了夏天，太阳几乎不落下，就算是半夜，孩子们也能像在白天一样在外面玩耍。",
+      "罗瓦涅米还有一个像“凤凰”一样的故事。第二次世界大战快结束时，整座城市几乎被大火烧光，几乎什么都没留下。但人们没有放弃，把罗瓦涅米从零开始重新建了起来。一位著名的建筑师还把新城市的道路设计成了从空中看像驯鹿角的形状。今天的罗瓦涅米，有圣诞老人、有极光、还有雪地上奔跑的驯鹿雪橇，它告诉我们：就算倒下了，也能重新闪闪发光地站起来。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "로바니에미 시내에는 북극선을 표시하는 선이 그어져 있어요. 이 선을 넘으면 진짜로 북극권에 들어가는 거예요!",
+      "이곳의 산타클로스 우체국에는 해마다 190개가 넘는 나라의 아이들이 보낸 편지가 수십만 통씩 도착하는데, 요정들이 한 통 한 통 답장을 써 준대요.",
+      "이 도시에서는 일 년에 거의 200일 가까이 오로라(북극광)를 볼 수 있어요.",
+      "한겨울에는 몇 주 동안 해가 아예 뜨지 않는 '극야'가 찾아오지만, 여름에는 해가 거의 지지 않는대요!",
+      "2차 세계대전이 끝나갈 무렵, 로바니에미는 거의 다 불에 타 버려서 도시를 처음부터 다시 지어야 했어요.",
+      "다시 지어진 도시는 한 유명한 건축가의 설계로, 하늘에서 내려다보면 순록의 뿔처럼 보인대요."
+    ],
+    "en": [
+      "A painted line runs right through Rovaniemi marking the Arctic Circle — step over it and you're officially in the Arctic!",
+      "Santa's official post office here receives hundreds of thousands of letters every year from kids in more than 190 countries, and elves write back to every one.",
+      "The northern lights (aurora borealis) can light up the sky here on nearly 200 nights a year.",
+      "In deep winter the sun doesn't rise for weeks — that's called the polar night — but in summer it barely sets at all!",
+      "Near the end of World War II, Rovaniemi was almost completely burned down, and the whole city had to be rebuilt from scratch.",
+      "The new city was redesigned by a famous architect so that its streets look like reindeer antlers when seen from above."
+    ],
+    "ja": [
+      "ロヴァニエミの街には北極線を示すラインが引かれています。このラインを越えると、本当に北極圏に入ったことになるんです！",
+      "ここにあるサンタクロース郵便局には、毎年190か国以上の子どもたちから何十万通もの手紙が届き、妖精たちが一通一通返事を書いてくれます。",
+      "この街では一年のうちほぼ200日近く、オーロラ（北極光）を見ることができます。",
+      "真冬には何週間も太陽が昇らない『極夜』がやってきますが、夏にはほとんど太陽が沈まないんです！",
+      "第二次世界大戦が終わるころ、ロヴァニエミはほとんど焼け落ちてしまい、街をゼロから建て直すことになりました。",
+      "建て直された街は、有名な建築家の設計によって、空から見るとトナカイの角のように見えるんです。"
+    ],
+    "zh": [
+      "罗瓦涅米市内画着一条标示北极圈的线，跨过这条线，就真正进入北极圈啦！",
+      "这里的圣诞老人邮局每年都会收到来自190多个国家、多达几十万封孩子们寄来的信，精灵们会认真给每一封回信。",
+      "在这座城市，一年里差不多有200个夜晚都能看到极光。",
+      "隆冬时节太阳会一连几周都不升起，这叫“极夜”；可是到了夏天，太阳却几乎不会落下！",
+      "第二次世界大战快结束时，罗瓦涅米几乎被大火烧毁，整座城市不得不从零开始重建。",
+      "重建后的城市由一位著名建筑师设计，从空中俯瞰，道路的形状就像驯鹿的角。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "여름 내내 해가 지지 않는다면, 한밤중에 뭘 하고 싶어?",
+    "en": "If the sun never set all summer long, what would you want to do at midnight?",
+    "ja": "夏じゅう太陽が沈まなかったら、真夜中に何をしてみたい？",
+    "zh": "如果整个夏天太阳都不落下，你想在半夜做什么呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "북극선 (납파피리)", "en": "The Arctic Circle Line", "ja": "北極線（ナパピーリ）", "zh": "北极圈线（纳帕皮里）" },
+      "blurb": {
+        "ko": "땅 위에 그어진 이 선은 북극선이 지구를 가로지르는 정확한 자리를 보여줘요. 한쪽 발은 선 이쪽에, 다른 쪽 발은 저쪽에 놓으면, 해가 매일 뜨고 지는 세상과 그러지 않는 세상을 동시에 밟아보는 셈이죠.",
+        "en": "A painted line on the ground marks exactly where the Arctic Circle crosses the Earth. Stand with one foot on each side, and you're straddling two different worlds — south, where the sun always rises and sets, and north, where it doesn't.",
+        "ja": "地面に描かれたこの線は、北極線が地球を横切るちょうどその場所を示しています。片足ずつ線の両側に置けば、太陽が毎日昇り沈む世界と、そうならない世界を同時に踏んでいることになります。",
+        "zh": "地面上画的这条线，标出了北极圈穿过地球的准确位置。把一只脚放在线的这一边，另一只脚放在那一边，你就同时站在了太阳每天照常升落的世界和不会这样的世界里。"
+      },
+      "coords": [66.5436, 25.8474]
+    },
+    {
+      "name": { "ko": "산타클로스 마을과 우체국", "en": "Santa Claus Village & Post Office", "ja": "サンタクロース村と郵便局", "zh": "圣诞老人村与邮局" },
+      "blurb": {
+        "ko": "북극선 위에 자리 잡은 산타클로스의 진짜 집이에요. 우체국 안에서는 요정 우체부들이 전 세계 아이들이 보낸 진짜 편지를 열어 정성껏 답장을 써 준답니다. 직접 편지를 보내면 특별한 북극선 도장이 찍힌 답장을 받을 수도 있어요.",
+        "en": "This is Santa's official home, right on the Arctic Circle. Inside the post office, mail elves open and answer real letters from children around the whole world — send one yourself, and you might get a reply with a special Arctic Circle stamp.",
+        "ja": "北極線の上に建つ、サンタクロースの本当の家です。郵便局の中では、妖精の郵便配達員たちが世界中の子どもたちから届いた本物の手紙を開けて、心をこめて返事を書いています。自分で手紙を送れば、特別な北極線のスタンプが押された返事をもらえるかもしれません。",
+        "zh": "这里是圣诞老人真正的家，就坐落在北极圈线上。邮局里，精灵邮差们会拆开来自世界各地孩子们寄来的真实信件，认真地回信。你也可以自己寄一封信，说不定会收到盖着特别北极圈邮戳的回信呢。"
+      },
+      "coords": [66.5436, 25.8478]
+    },
+    {
+      "name": { "ko": "아르크티쿰 과학관", "en": "Arktikum Science Centre", "ja": "アルクティクム科学館", "zh": "北极科学中心（阿尔克提库姆）" },
+      "blurb": {
+        "ko": "강 쪽으로 유리 터널이 길게 뻗어 있는 이 박물관은 북극을 연구하려고 특별히 만들어졌어요. 안에서는 오로라가 왜 빛나는지, 사람들과 순록이 극야를 어떻게 견디는지 정확히 배울 수 있답니다.",
+        "en": "A museum with a long glass tunnel that pokes out toward the river, built especially to study the Arctic. Inside, you can learn exactly why the northern lights glow, and how people and reindeer get through the polar night.",
+        "ja": "川に向かって長いガラスのトンネルが伸びるこの博物館は、北極を研究するために特別に作られました。中では、オーロラがなぜ光るのか、人やトナカイが極夜をどう乗り越えるのかを詳しく学べます。",
+        "zh": "这座博物馆有一条伸向河边的长长玻璃隧道，是专门为研究北极而建的。在这里，你可以了解极光为什么会发光，以及人和驯鹿是如何度过极夜的。"
+      },
+      "coords": [66.5008, 25.7265]
+    },
+    {
+      "name": { "ko": "오우나스바라 언덕", "en": "Ounasvaara Hill", "ja": "オウナスヴァーラの丘", "zh": "奥纳斯瓦拉山" },
+      "blurb": {
+        "ko": "시내 강 건너편에 있는 숲이 우거진 언덕으로, 겨울엔 스키를 타고 여름엔 하이킹을 즐기기 좋아요. 맑고 캄캄한 밤에 올라가면, 머리 위로 넘실거리는 오로라를 볼 수 있는 최고의 명당 중 하나랍니다.",
+        "en": "A forested hill just across the river from downtown, perfect for skiing in winter and hiking in summer. Climb up on a clear, dark night, and you have one of the best chances in town to watch the aurora ripple overhead.",
+        "ja": "市街地から川を渡ったところにある森の丘で、冬はスキー、夏はハイキングにぴったりです。晴れた真っ暗な夜に登れば、頭上でゆらめくオーロラを見られる街いちばんのスポットのひとつです。",
+        "zh": "这是市中心隔河相望的一座森林山丘，冬天可以滑雪，夏天适合徒步。在晴朗漆黑的夜晚爬上山顶，是全城观赏头顶极光摇曳的绝佳地点之一。"
+      },
+      "coords": [66.5119, 25.7897]
+    }
+  ]
+}

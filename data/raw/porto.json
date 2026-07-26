@@ -1,0 +1,120 @@
+{
+  "id": "porto",
+  "country": "pt",
+  "coords": [41.1579, -8.6291],
+  "name": { "ko": "포르투", "en": "Porto", "ja": "ポルト", "zh": "波尔图" },
+  "tagline": {
+    "ko": "나라 이름을 만들어 준 강변 도시, 그리고 세상에 '포트 와인'을 선물한 곳",
+    "en": "The riverside city that gave Portugal its name — and the world its port wine",
+    "ja": "国の名前を生み出した川辺の街、そして世界に『ポートワイン』を贈った場所",
+    "zh": "给了葡萄牙国名的河畔城市,也把“波特酒”献给了全世界"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, '도루강'이라는 넓은 강이 내려다보이는 언덕 위에 켈트족과 로마 사람들이 항구 마을을 세웠어요. 그들은 이 마을을 '포르투스 칼레'라고 불렀는데, '칼레의 항구'라는 뜻이었죠. 배들이 쉴 새 없이 드나들며 이곳저곳의 물건을 실어 날랐어요. 시간이 흘러 이 이름은 조금씩 바뀌고 길어져서, 마침내 한 나라 전체의 이름이 되었어요. 바로 '포르투갈'이에요! 작은 항구 마을 하나가 나라 이름을 만든 거죠.",
+      "도시 뒤편에는 도루강을 따라 계단식 포도밭이 가파른 언덕을 뒤덮고 있어요. 수백 년 동안 이곳에서 포도가 자랐답니다. 옛날에는 '바르쿠 하벨루'라는 나무배가 포도주 통을 가득 싣고 강을 따라 내려가, 강 건너 '빌라 노바 드 가이아'라는 동네의 서늘한 동굴 창고까지 옮겼어요. 그곳에서 포도주는 오래 잠들며 더 진하고 달콤해졌죠. 사람들은 이 특별한 포도주를, 그것을 세상에 실어 보낸 도시의 이름을 따서 '포트 와인'이라고 부르기 시작했답니다.",
+      "포르투에는 벽에 숨어 있는 마법 같은 것도 있어요. 상 벤투 기차역에 들어서면, 파랗고 하얀 손그림 타일 수천 장이 벽을 가득 채우고 있어요. '아줄레주'라고 불리는 이 타일들은 마치 도자기로 만든 거대한 만화책처럼 옛이야기를 그림으로 들려준답니다. 강가에는 '동 루이스 1세 다리'라는 커다란 철제 다리가 물 위로 높이 솟아 있는데, 위아래 두 층으로 되어 있어서 기차와 사람들이 배 위 저 높은 곳을 지나갈 수 있어요.",
+      "아늑한 옛 서점 '리브라리아 렐루'에 들어가면, 빨간 나선 계단이 동화 속 그림처럼 방 한가운데를 빙글빙글 감아 오르고 있어요. 오래전, 젊은 작가 조앤 K. 롤링이 포르투에 살면서 이런 서점들을 즐겨 둘러보곤 했는데, 사람들은 렐루 같은 서점이 훗날 그녀가 쓴 해리 포터에 작은 마법을 불어넣었다고 이야기해요. 오늘날 전 세계 사람들이 유명한 포트 와인을 맛보고, 알록달록한 언덕길을 오르며, 그녀처럼 잠시 꿈을 꾸러 포르투를 찾아온답니다."
+    ],
+    "en": [
+      "Long, long ago, on hills overlooking a wide river called the Douro, Celtic and Roman settlers built a busy port town they called Portus Cale — 'the port of Cale.' Ships came and went, loaded with goods from up and down the coast. Centuries later, that old name slowly changed and stretched until it became the name of an entire country: Portugal. That's right — one little port town gave its name to a whole nation!",
+      "Behind the city, terraced vineyards climb the steep hills along the Douro valley, where grapes have grown for hundreds of years. Wooden boats called barcos rabelos used to sail down the river piled high with wine barrels, all the way to cellars across the water. There, in cool caves in a district called Vila Nova de Gaia, the wine aged and grew richer and sweeter. People everywhere began calling this special wine 'port' — after the city that shipped it out to the world.",
+      "Porto has its own kind of magic hiding on the walls. Step into São Bento train station and you'll find yourself surrounded by thousands of hand-painted blue-and-white tiles, called azulejos, telling old stories in pictures — like a giant comic book made of ceramic! And down by the river, a tall iron bridge called Dom Luís I stretches high above the water on two levels, so trains and walkers can cross far above the boats below.",
+      "Inside a cozy old bookshop named Livraria Lello, a curling red staircase twists up through the middle of the room like something from a fairy tale. Long ago, a young writer named J. K. Rowling lived in Porto and loved wandering through shops just like this one — and some say bookshops like Lello sprinkled a little magic into the Harry Potter she later wrote. Today, people from every corner of the world visit Porto to sip its famous wine, climb its colorful hillside streets, and dream a little, just like she once did."
+    ],
+    "ja": [
+      "はるか昔、『ドウロ川』という大きな川を見下ろす丘の上に、ケルト人とローマ人が港町を築きました。人々はこの町を『ポルトゥス・カレ』——『カレの港』と呼びました。船がひっきりなしに行き来し、あちこちの品物を運んでいました。時がたつにつれ、この名前は少しずつ変化し、長くなって、ついには国全体の名前になりました。それが『ポルトガル』です！小さな港町ひとつが、国の名前を生み出したのですね。",
+      "街の後ろには、ドウロ川ぞいに段々畑のブドウ畑が険しい丘をおおっています。何百年もの間、ここでブドウが育てられてきました。昔は『バルコ・ラベロ』という木の船が、ワインの樽をぎっしり積んで川を下り、対岸の『ヴィラ・ノヴァ・デ・ガイア』というすずしい洞窟の貯蔵庫まで運びました。そこでワインはゆっくり眠り、より濃く、より甘くなっていきました。人々はこの特別なワインを、世界へ送り出したこの街の名にちなんで『ポートワイン』と呼ぶようになりました。",
+      "ポルトの壁には、まるで魔法のようなものが隠れています。サン・ベント駅に足をふみ入れると、青と白の手描きタイルが何千枚も壁を埋めつくしています。『アズレージョ』と呼ばれるこのタイルは、まるで陶器でできた巨大な絵本のように、昔の物語を絵で伝えてくれます。川べりには『ドン・ルイス1世橋』という大きな鉄橋が水面高くそびえ、上下二段になっていて、電車も人も船のはるか上を渡ることができます。",
+      "居心地のよい古い書店『リヴラリア・レロ』に入ると、赤いらせん階段がおとぎ話の絵のように部屋の真ん中でくるくると上へのびています。昔、若い作家J・K・ローリングがポルトに住み、こんな書店をよく歩き回っていたそうです。人々は、レロのような書店が、のちに彼女が書いた『ハリー・ポッター』に小さな魔法をふりかけたのではと語ります。今日も世界中の人々が、有名なポートワインを味わい、色とりどりの坂道をのぼり、彼女のようにひとときの夢を見にポルトを訪れます。"
+    ],
+    "zh": [
+      "很久很久以前，在俯瞰“杜罗河”的山丘上，凯尔特人和罗马人建起了一座繁忙的港口小镇，取名叫“波尔图斯·卡莱”，意思是“卡莱的港口”。船只往来不绝，装载着四面八方的货物。几百年过去，这个名字渐渐变化、拉长，最终变成了整个国家的名字——“葡萄牙”！一个小小的港口小镇，竟给一整个国家起了名字。",
+      "城市后方，沿着杜罗河的陡峭山坡上，是层层叠叠的梯田葡萄园，几百年来一直种植着葡萄。从前，一种叫“拉贝洛船”的木船会装满一桶桶葡萄酒，顺流而下，运到河对岸“新加亚”那些凉爽的地窖里。葡萄酒就在那里静静沉睡，变得更加浓郁香甜。人们开始用这座把酒运往世界各地的城市的名字，称呼这种特别的酒——“波特酒”。",
+      "波尔图的墙壁上藏着一种魔法般的东西。走进圣本笃火车站，你会看到成千上万块手绘的蓝白瓷砖铺满四壁。这种叫“阿祖雷茹”的瓷砖，就像一本用陶瓷做成的巨大连环画，把古老的故事用图画讲给你听。河边，一座名叫“路易一世大桥”的高大铁桥高高横跨水面，分成上下两层，火车和行人都能从船只上方很高的地方通过。",
+      "走进一家温馨的老书店“莱罗书店”，一道红色的旋转楼梯像童话插图一样，在房间正中盘旋而上。很久以前，年轻的作家J·K·罗琳曾住在波尔图，喜欢四处逛这样的书店。人们说，像莱罗这样的书店，为她后来写的《哈利·波特》悄悄洒下了一点魔法。如今，来自世界各地的人们来到波尔图，品尝著名的波特酒，登上五彩缤纷的山坡小巷，也像她一样，做一场小小的梦。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "옛 이름 '포르투스 칼레'가 점점 자라나 결국 나라 이름 '포르투갈'이 되었어요!",
+      "'포트 와인'은 포르투라는 도시 이름에서 따온 거예요. 강 건너 빌라 노바 드 가이아의 서늘한 동굴 창고에서 익힌답니다.",
+      "'바르쿠 하벨루'라는 나무배가 포도주 통을 싣고 도루강을 따라 그 창고까지 내려갔어요.",
+      "상 벤투 기차역은 약 2만 장의 손그림 파란 타일로 뒤덮여 있는데, 그 안에 옛이야기가 담겨 있어요.",
+      "높이 솟은 동 루이스 1세 다리는 에펠탑을 만든 사람과 함께 일했던 기술자가 설계했어요. 위아래 두 층으로 되어 있어 자동차와 기차·사람이 따로 지나간답니다.",
+      "작가 조앤 K. 롤링이 포르투에 살았는데, 사람들은 마법 같은 서점 리브라리아 렐루가 해리 포터에 영감을 주었다고 이야기해요."
+    ],
+    "en": [
+      "The city's old name, 'Portus Cale,' slowly grew into the name of an entire country: Portugal!",
+      "Port wine is named after Porto itself — it's aged in cool cellars across the river in Vila Nova de Gaia.",
+      "Wooden boats called barcos rabelos once sailed wine barrels down the Douro River to those cellars.",
+      "Porto's São Bento train station is covered in about 20,000 hand-painted blue tiles telling stories of the past.",
+      "The tall Dom Luís I Bridge was designed by an engineer who trained with Gustave Eiffel — and it has two levels, one for cars and one high above for trains and walkers.",
+      "Author J. K. Rowling lived in Porto, and some say the city's magical Livraria Lello bookshop helped inspire scenes in Harry Potter."
+    ],
+    "ja": [
+      "昔の名前『ポルトゥス・カレ』が少しずつ成長し、ついに国の名前『ポルトガル』になりました！",
+      "『ポートワイン』はポルトという街の名前にちなんでいます。川向こうのヴィラ・ノヴァ・デ・ガイアの涼しい洞窟貯蔵庫で熟成させます。",
+      "『バルコ・ラベロ』という木の船が、ワインの樽を積んでドウロ川をその貯蔵庫まで下っていきました。",
+      "サン・ベント駅は約2万枚の手描きの青いタイルでおおわれていて、昔の物語が描かれています。",
+      "そびえ立つドン・ルイス1世橋は、エッフェルと一緒に働いた技師が設計しました。上下二段になっていて、車と、電車・歩行者が別々に渡ります。",
+      "作家J・K・ローリングはポルトに住んでいて、魔法のような書店リヴラリア・レロがハリー・ポッターのヒントになったと言われています。"
+    ],
+    "zh": [
+      "古老的名字“波尔图斯·卡莱”渐渐演变，最终变成了整个国家的名字——“葡萄牙”！",
+      "“波特酒”这个名字就来自波尔图这座城市，它在河对岸新加亚凉爽的地窖里陈酿而成。",
+      "叫“拉贝洛船”的木船曾装载酒桶，沿杜罗河而下运到那些地窖。",
+      "圣本笃火车站铺满约两万块手绘蓝色瓷砖，上面画着古老的故事。",
+      "高耸的路易一世大桥，是由曾与埃菲尔共事的工程师设计的，桥分上下两层，一层走车，一层专供火车和行人通过。",
+      "作家J·K·罗琳曾住在波尔图，人们说，那家充满魔力的莱罗书店给《哈利·波特》带来了灵感。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "작은 항구 마을 이름이 점점 자라나서 나라 이름이 되었다니, 믿을 수 있어?",
+    "en": "Can you believe one tiny port town's name grew and grew until it became the name of a whole country?",
+    "ja": "小さな港町の名前が少しずつ大きくなって、国の名前になったなんて信じられる？",
+    "zh": "一个小小港口小镇的名字慢慢长大，最后变成了整个国家的名字，你能相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "동 루이스 1세 다리", "en": "Dom Luís I Bridge", "ja": "ドン・ルイス1世橋", "zh": "路易一世大桥" },
+      "blurb": {
+        "ko": "도루강 위로 높이 솟은 이 철제 다리는 두 층으로 되어 있어요. 에펠과 함께 일했던 기술자가 설계했고, 지금은 윗층으로 작은 전철이 강물 위를 지나간답니다.",
+        "en": "This tall iron bridge has two levels stretching high above the Douro River. It was designed by an engineer who once worked with Gustave Eiffel, and today the top deck carries a little train right over the water.",
+        "ja": "ドウロ川の上に高くそびえるこの鉄橋は、上下二段になっています。エッフェルと共に働いた技師が設計し、今は上の階を小さな電車が川の上を走ります。",
+        "zh": "这座高高横跨杜罗河的铁桥分为上下两层。它由曾与埃菲尔共事的工程师设计，如今上层的小火车正好从河面上方驶过。"
+      },
+      "coords": [41.1397, -8.6109]
+    },
+    {
+      "name": { "ko": "상 벤투 기차역", "en": "São Bento Railway Station", "ja": "サン・ベント駅", "zh": "圣本笃火车站" },
+      "blurb": {
+        "ko": "이 기차역에 들어서면 저절로 감탄이 나와요. 벽 가득 약 2만 장의 손그림 파란 타일이 포르투갈의 옛이야기를 그림으로 들려주고 있거든요.",
+        "en": "Walk into this train station and gasp — its walls are covered with about 20,000 hand-painted blue tiles showing scenes from Portugal's history, like a giant picture-story made of ceramic.",
+        "ja": "この駅に入ると思わず息をのみます。壁には約2万枚の手描きの青いタイルがびっしりと貼られ、ポルトガルの歴史の場面を絵物語のように伝えています。",
+        "zh": "走进这座火车站，你会忍不住惊叹——墙上贴满约两万块手绘蓝色瓷砖，描绘着葡萄牙历史的场景，像一幅巨大的陶瓷连环画。"
+      },
+      "coords": [41.1454, -8.6108]
+    },
+    {
+      "name": { "ko": "리브라리아 렐루 서점", "en": "Livraria Lello", "ja": "リヴラリア・レロ", "zh": "莱罗书店" },
+      "blurb": {
+        "ko": "빨간 나선 계단이 한가운데서 빙글빙글 올라가는, 세계에서 가장 아름다운 서점 중 하나예요. 작가 조앤 K. 롤링이 근처에 살았는데, 사람들은 이 서점이 해리 포터에 마법을 불어넣었다고 말한답니다.",
+        "en": "One of the most beautiful bookshops in the world, with a swirling red staircase right in the middle. Author J. K. Rowling lived nearby, and many say this shop sprinkled a little magic into Harry Potter.",
+        "ja": "赤いらせん階段が真ん中をくるくると上る、世界でもっとも美しい書店のひとつ。作家J・K・ローリングは近くに住んでいて、この書店がハリー・ポッターに魔法をふりかけたと言われています。",
+        "zh": "红色旋转楼梯在正中央盘旋而上，是世界上最美的书店之一。作家J·K·罗琳曾住在附近，很多人说这家书店给《哈利·波特》洒下了一点魔法。"
+      },
+      "coords": [41.1467, -8.6146]
+    },
+    {
+      "name": { "ko": "빌라 노바 드 가이아 와인 창고", "en": "Port Wine Cellars, Vila Nova de Gaia", "ja": "ヴィラ・ノヴァ・デ・ガイアのワイン貯蔵庫", "zh": "新加亚波特酒地窖" },
+      "blurb": {
+        "ko": "포르투 강 건너편에는 포트 와인을 숙성시키는 커다란 나무통이 줄지어 있는 창고들이 있어요. 그 앞 강물 위에는 수백 년 전처럼 옛 포도주 배 '바르쿠 하벨루'가 여전히 떠 있답니다.",
+        "en": "Across the river from Porto, rows of cellars hold giant wooden barrels of aging port wine. Old wine boats called barcos rabelos still float on the water outside, just like they did hundreds of years ago.",
+        "ja": "ポルトの対岸には、ポートワインを熟成させる大きな木の樽が並ぶ貯蔵庫が並んでいます。その前の川には、何百年も前と同じように昔ながらのワイン運搬船『バルコ・ラベロ』が今も浮かんでいます。",
+        "zh": "在波尔图河对岸，一排排地窖里存放着熟成波特酒的巨大木桶。地窖前的河面上，古老的运酒船“拉贝洛船”至今仍像几百年前一样漂浮着。"
+      },
+      "coords": [41.1366, -8.6118]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cappadocia",
+  "country": "tr",
+  "coords": [38.6431, 34.8289],
+  "name": { "ko": "카파도키아", "en": "Cappadocia", "ja": "カッパドキア", "zh": "卡帕多西亚" },
+  "tagline": {
+    "ko": "화산이 만든 돌기둥과 사람들이 땅속에 파낸 도시가 있는 동화 같은 계곡",
+    "en": "The fairy-tale valley where volcanoes built stone towers and people carved a city underground",
+    "ja": "火山が石の塔を作り、人々が地下に街をほった、おとぎ話のような谷",
+    "zh": "火山造出石塔、人们在地下凿出城市的童话山谷"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 터키 한가운데서 에르지예스, 하산다으, 귈뤼다으라는 커다란 화산 세 개가 우르릉 잠에서 깨어났어요. 화산은 몇 번이고 폭발하며 부드러운 화산재를 땅 위에 두껍게 쌓았답니다. 수백만 년이 흐르는 동안 그 재는 '응회암'이라는 말랑말랑한 돌로 굳었고, 그 위에는 훨씬 단단한 돌층이 마치 모자처럼 덮였어요.",
+      "그다음엔 바람과 비가 나섰어요. 수백만 년 동안 부드러운 응회암을 조금씩 깎아냈지만, 단단한 돌 모자가 씌워진 곳만은 그 아래 바위를 우산처럼 지켜냈죠. 그렇게 서서히 뾰족뾰족한 돌기둥들이 땅 위로 솟아올랐어요. 사람들은 이 신기한 모양을 보고 '요정 굴뚝'이라 불렀어요. 요정들이 그 안에 살고 있을 거라 상상하면서요.",
+      "그런데 진짜 마법은 따로 있었어요. 이 말랑한 응회암은 마치 커다란 치즈 덩어리처럼 쉽게 파낼 수 있었거든요. 그래서 사람들은 요정 굴뚝 속에 아늑한 집을 파서 만들고, 바위 깊숙한 곳에 그림이 가득한 교회도 새겼어요. 심지어 '데린쿠유'라는 도시 하나를 통째로 땅속에 파내려가, 위험할 때면 수천 명이 몇 달씩 안전하게 숨어 지낼 수 있었답니다.",
+      "오늘날 카파도키아는 훨씬 더 신비로운 것으로 유명해요. 해가 뜨는 순간, 알록달록한 열기구 수백 개가 요정 굴뚝 계곡 위로 소리 없이 두둥실 떠올라 하늘을 꿈처럼 물들이거든요. 그리고 저 아래에서는 지금도 사람들이 이 오래된 동굴 안에서 살고, 잠자고, 심지어 호텔을 운영하기도 해요. 완전히 진짜인 동화 나라랍니다."
+    ],
+    "en": [
+      "Long, long ago, three huge volcanoes rumbled to life in the middle of Turkey — Erciyes, Hasandağ, and Güllüdağ. Again and again they erupted, spreading soft volcanic ash across the land. Over millions of years, that ash hardened into a soft rock called tuff, and layers of harder rock settled on top like a stone cap.",
+      "Then wind and rain got to work. For millions of years they wore away the soft tuff, but wherever a hard cap of rock sat on top, it protected the stone underneath — like an umbrella. Slowly, tall cones and pointy towers rose out of the ground. People were so amazed by these strange shapes that they called them 'fairy chimneys,' imagining fairies must live inside.",
+      "But here's the real magic: that soft tuff rock is easy to carve, almost like carving into a giant block of cheese. So people started digging — carving cozy homes right into the fairy chimneys, painting churches deep inside the rock, and even digging an entire hidden city underground, called Derinkuyu, where thousands of people could hide safely from danger for months at a time.",
+      "Today, Cappadocia is famous for something even more magical: at sunrise, hundreds of colorful hot air balloons rise silently over the fairy chimney valleys, painting the sky like a dream. Down below, people still live, sleep, and even run hotels inside these ancient carved caves — a fairytale land that's completely real."
+    ],
+    "ja": [
+      "はるか昔、トルコの真ん中でエルジエス山、ハサンダー山、ギュルルダー山という三つの大きな火山が目を覚まし、ゴロゴロとうなり始めました。火山は何度も噴火をくり返し、やわらかい火山灰を大地にどっさり積もらせました。何百万年もかけて、その灰は『凝灰岩』というやわらかい石に固まり、その上にはもっとかたい岩の層が帽子のようにかぶさりました。",
+      "次に働き始めたのは風と雨でした。何百万年もかけてやわらかい凝灰岩を少しずつけずっていきましたが、かたい岩の帽子をかぶった場所だけは、その下の岩を傘のように守りました。こうして、とがった石の塔がじわじわと地面から立ち上がっていったのです。人々はこの不思議な形を見て『妖精の煙突』と呼びました。妖精がその中に住んでいると想像したのですね。",
+      "でも、本当の魔法はここからです。このやわらかい凝灰岩は、まるで大きなチーズのかたまりのようにかんたんに彫ることができました。そこで人々は妖精の煙突の中に居心地のよい家をほり、岩の奥深くには絵でいっぱいの教会をきざみました。さらに『デリンクユ』という街をまるごと地下にほり進め、危険なときには何千人もの人が何か月も安全にかくれることができたのです。",
+      "今日、カッパドキアはもっと不思議なことで有名です。日が昇るころ、色とりどりの熱気球が何百個も、妖精の煙突が並ぶ谷の上を音もなく浮かび上がり、空を夢のように染めていきます。そして地上では今でも、人々がこの古い洞窟の中で暮らし、眠り、ホテルを営むこともあるのです。まるごと本物のおとぎの国なのですね。"
+    ],
+    "zh": [
+      "很久很久以前，在土耳其中部，三座巨大的火山——埃尔吉耶斯山、哈桑山和居吕吕山——轰隆隆地苏醒了。它们一次又一次地喷发，把松软的火山灰厚厚地铺满了大地。经过几百万年，这些灰烬凝固成了一种松软的岩石，叫做“凝灰岩”，上面还盖上了一层像帽子一样坚硬的岩石。",
+      "接下来轮到风和雨出场了。几百万年间，它们一点点侵蚀着松软的凝灰岩，可只要顶上盖着坚硬的岩石帽子，下面的岩石就像撑着一把伞一样被保护起来。就这样，尖尖的石塔渐渐从地面升起。人们看到这些奇特的形状，惊叹地称它们为“精灵烟囱”，想象里面一定住着精灵。",
+      "不过，真正的魔法还在后头。这种松软的凝灰岩很容易雕刻，就像挖一大块奶酪一样简单。于是人们开始动手，在精灵烟囱里凿出温馨的房子，在岩石深处凿出画满壁画的教堂，甚至挖出了一整座地下城市——德林库尤。遇到危险时，成千上万的人可以在这里安全躲藏好几个月。",
+      "今天，卡帕多西亚因为一件更神奇的事而闻名：太阳升起时，成百上千个五颜六色的热气球悄无声息地飘过精灵烟囱山谷的上空，把天空染成梦一般的颜色。而在地面上，人们至今仍住在这些古老的岩洞里，睡觉，甚至经营酒店——这是一片完全真实的童话之地。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "요정 굴뚝은 화산재가 굳어 만들어진 말랑한 응회암 위에 단단한 '모자 바위'가 덮여 침식을 막아주면서 수백만 년에 걸쳐 만들어졌어요.",
+      "데린쿠유 지하 도시는 땅속 85미터, 그러니까 18층 건물 높이만큼 깊이 파여 있어서 수천 명의 사람과 가축, 식량까지 숨길 수 있었어요.",
+      "지하 도시에는 커다랗고 둥근 돌문이 있었는데, 마치 거대한 바퀴처럼 안에서 굴려 닫으면 적들이 들어올 수 없었대요.",
+      "카파도키아에는 바위 속에 통째로 새긴 교회가 수백 개나 있고, 천 년 전 그린 그림이 지금도 벽에 남아 있어요.",
+      "지금도 진짜 동굴을 그대로 이용한 호텔들이 있어서, 몇백 년 된 바위를 깎아 만든 방에서 잠을 잘 수 있답니다.",
+      "해 뜰 무렵이면 수백 개의 열기구가 한꺼번에 계곡 위로 떠올라요. 지구에서 가장 많이 사진 찍히는 풍경 중 하나랍니다."
+    ],
+    "en": [
+      "Fairy chimneys took millions of years to form, from volcanic ash hardened into soft tuff rock topped with a harder 'cap' stone that protected it from erosion.",
+      "Derinkuyu underground city goes down about 85 meters — as deep as an 18-story building — and could hide thousands of people plus their animals and food stores.",
+      "The underground city had giant round stone doors, like giant wheels, that could be rolled shut from the inside to keep enemies out.",
+      "Cappadocia has hundreds of churches carved right inside the rock, with 1,000-year-old paintings still on the walls.",
+      "Some hotels today are built right into real caves — you can sleep in a room carved out of stone that's hundreds of years old.",
+      "Every morning near sunrise, hundreds of hot air balloons float over the valley at once — one of the most photographed sights on Earth."
+    ],
+    "ja": [
+      "妖精の煙突は、火山灰が固まってできたやわらかい凝灰岩の上に、かたい『帽子岩』がかぶさって侵食から守られ、何百万年もかけてできあがりました。",
+      "デリンクユ地下都市は地下85メートル、ビルの18階分もの深さがあり、何千人もの人と家畜、食料までかくすことができました。",
+      "地下都市には巨大な丸い石の扉があり、まるで大きな車輪のように内側からころがして閉めると、敵が入れなくなったそうです。",
+      "カッパドキアには岩をまるごとくりぬいて作った教会が数百もあり、千年前に描かれた絵が今も壁に残っています。",
+      "今でも本物の洞窟をそのまま使ったホテルがあり、何百年も前の岩をほった部屋でねむることができます。",
+      "日の出のころには、何百個もの熱気球がいっせいに谷の上に浮かびます。地球で一番写真に撮られる景色のひとつなのです。"
+    ],
+    "zh": [
+      "精灵烟囱是由火山灰凝固成的松软凝灰岩，顶部盖着坚硬的“帽子石”防止被侵蚀，经过几百万年才慢慢形成的。",
+      "德林库尤地下城深达地下85米，相当于18层楼那么深，能藏下成千上万的人，还有他们的牲畜和粮食。",
+      "地下城里有巨大的圆形石门，像大车轮一样，从里面滚动关上就能挡住敌人进入。",
+      "卡帕多西亚有数百座直接在岩石里凿出的教堂，墙上至今还留着一千年前画的壁画。",
+      "现在还有酒店直接利用真正的岩洞，你可以睡在一间凿于几百年前岩石中的房间里。",
+      "日出时分，成百上千个热气球会同时飘在山谷上空——这是地球上被拍照最多的景色之一。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "18층 건물만큼 깊은 땅속에, 완전히 숨겨진 도시가 있다는 걸 상상할 수 있어?",
+    "en": "Can you imagine a whole hidden city carved deep underground — as deep as an 18-story building?",
+    "ja": "ビルの18階分もの深さの地下に、まるごと隠された都市があるなんて想像できる？",
+    "zh": "你能想象在地下18层楼那么深的地方，藏着一整座隐秘的城市吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "괴레메 야외 박물관", "en": "Göreme Open Air Museum", "ja": "ギョレメ野外博物館", "zh": "格雷梅露天博物馆" },
+      "blurb": {
+        "ko": "천 년도 더 된 바위 수도원과 교회들이 모여 있는 골짜기예요. 안에 들어가면 요정 굴뚝 속에서 살던 수도사들이 그린 알록달록한 그림이 지금도 벽에서 반짝여요.",
+        "en": "A whole valley of rock-carved monasteries and churches, some over 1,000 years old. Step inside and you'll find colorful paintings still glowing on the walls, made by monks who lived right inside the fairy chimneys.",
+        "ja": "千年以上前の岩を彫った修道院や教会が集まる谷。中に入ると、妖精の煙突の中で暮らした修道士たちが描いた色あざやかな絵が、今も壁に残っています。",
+        "zh": "一整座山谷里布满了凿于岩石中的修道院和教堂，有些已超过千年历史。走进去，你会看到当年住在精灵烟囱里的修士们所绘的彩色壁画，至今仍在墙上闪耀。"
+      },
+      "coords": [38.6300, 34.8437]
+    },
+    {
+      "name": { "ko": "데린쿠유 지하 도시", "en": "Derinkuyu Underground City", "ja": "デリンクユ地下都市", "zh": "德林库尤地下城" },
+      "blurb": {
+        "ko": "세상에서 가장 깊은 지하 도시 중 하나로, 지하 18층 깊이까지 이어져요. 옛날엔 수천 명이 가축, 부엌, 심지어 와인 저장고까지 갖추고 이곳에 숨어 지냈는데, 거대한 돌문을 굴려 닫으면 안전했대요.",
+        "en": "One of the deepest underground cities in the world, reaching 18 stories below ground. Thousands of people once hid here with their animals, kitchens, and even wine cellars, safe behind giant rolling stone doors.",
+        "ja": "地下18階分もの深さまで続く、世界でも有数の深い地下都市。昔は何千人もの人が家畜や台所、ワイン蔵まで持ち込んでここに隠れ、巨大な石の扉を転がして閉めれば安全でした。",
+        "zh": "世界上最深的地下城市之一，深达地下18层。曾有成千上万的人带着牲畜、厨房甚至酒窖躲藏在这里，只要滚动关上巨大的石门就能安然无恙。"
+      },
+      "coords": [38.3733, 34.7361]
+    },
+    {
+      "name": { "ko": "우치사르 성", "en": "Uçhisar Castle", "ja": "ウチヒサール城", "zh": "于希萨尔城堡" },
+      "blurb": {
+        "ko": "카파도키아에서 가장 높은 요정 굴뚝으로, 방과 통로, 창문이 뚫려 있어서 마치 커다란 치즈 덩어리 같아요. 꼭대기까지 오르면 돌기둥으로 가득한 골짜기가 한눈에 펼쳐진답니다.",
+        "en": "The tallest fairy chimney in Cappadocia, hollowed out with rooms, tunnels, and windows like giant Swiss cheese. Climb to the top and you can see the whole valley of stone towers spread out below.",
+        "ja": "カッパドキアで一番高い妖精の煙突で、部屋やトンネル、窓が空いていて、まるで巨大なチーズのよう。頂上まで登ると、石の塔でいっぱいの谷が一望できます。",
+        "zh": "卡帕多西亚最高的精灵烟囱，里面凿满了房间、通道和窗户，看起来像一大块瑞士奶酪。爬到顶端，就能俯瞰整片布满石塔的山谷。"
+      },
+      "coords": [38.6275, 34.8117]
+    },
+    {
+      "name": { "ko": "파샤바 계곡 (수도사 계곡)", "en": "Pasabag (Monks Valley)", "ja": "パシャバー谷（修道士の谷）", "zh": "帕夏巴谷（修士谷）" },
+      "blurb": {
+        "ko": "버섯 모양 요정 굴뚝으로 유명한 골짜기예요. 돌 모자가 두세 개씩 겹쳐 쌓인 것도 있어요. 옛날 은둔 수도사들은 이 신기한 돌기둥 안에 작은 예배당을 새기고 조용히 살았대요.",
+        "en": "A valley famous for its mushroom-shaped fairy chimneys, some with two or three stone 'caps' stacked on top. Hermit monks once carved tiny chapels right into these strange towers to live in peace.",
+        "ja": "キノコのような形の妖精の煙突で有名な谷。石の帽子が二つ三つと重なっているものもあります。昔、隠者の修道士たちはこの不思議な塔の中に小さな礼拝堂をほり、静かに暮らしていました。",
+        "zh": "以蘑菇形精灵烟囱闻名的山谷，有些石头顶部还叠着两三层“帽子”。曾有隐修的修士在这些奇特的石塔里凿出小教堂，安静地生活。"
+      },
+      "coords": [38.6739, 34.8994]
+    }
+  ]
+}

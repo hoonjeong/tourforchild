@@ -1,0 +1,120 @@
+{
+  "id": "delhi",
+  "country": "in",
+  "coords": [28.6139, 77.2090],
+  "name": { "ko": "델리", "en": "Delhi", "ja": "デリー", "zh": "德里" },
+  "tagline": {
+    "ko": "천 년 동안 계속 새로 지어진 도시, 그리고 녹슬지 않는 신비한 철기둥",
+    "en": "The city rebuilt again and again for 1,000 years — and an iron pillar that refuses to rust",
+    "ja": "千年のあいだ何度も建て直された街、そしてさびない不思議な鉄柱",
+    "zh": "一千年间被一次次重建的城市，还有一根拒绝生锈的神秘铁柱"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 고대 인도 사람들은 지금의 델리 자리에 '인드라프라스타'라는 전설의 도시가 있었다고 믿었어요. 인도의 위대한 서사시 마하바라타에 나오는 다섯 형제 영웅들이 살던 곳이었대요. 그 첫 도시가 진짜였는지는 아무도 확실히 몰라요. 하지만 한 가지는 분명해요. 사람들은 천 년이 넘도록 바로 이 자리에 계속해서 도시를 짓고, 또 지었답니다.",
+      "역사학자들은 델리 땅 위에 적어도 일고여덟 개의 서로 다른 도시가 차례로 세워졌다고 말해요. 한 왕조가 무너지면 다음 왕조가 그 위에 성벽과 탑을 새로 쌓았죠. 술탄들도, 나중에 온 무굴 황제들도 모두 이 같은 땅을 탐냈고, 제국이 바뀔 때마다 새 수도가 바로 이곳에 세워졌어요.",
+      "그중 가장 화려하게 지은 사람은 무굴 황제 샤 자한이었어요. 맞아요, 타지마할을 지은 바로 그 황제랍니다! 그는 붉은 사암으로 거대한 '레드 포트(붉은 요새)'를 세웠는데, 성문이 어찌나 웅장한지 왕의 행렬이 그 아래로 지나갈 정도였고, 수천 명이 한꺼번에 기도할 수 있는 커다란 모스크도 지었어요.",
+      "오늘날 델리는 인도의 수도이면서, 마치 나이테처럼 과거의 모든 시대를 겹겹이 두르고 있어요. 고대의 탑, 무굴 시대의 돔, 그리고 현대적인 정부 건물들이 차를 타고 잠깐만 가면 모두 만날 수 있는 거리에 있죠. 그래서 델리를 걷다 보면 마치 타임머신을 타고 이 시대 저 시대를 넘나드는 기분이 든답니다."
+    ],
+    "en": [
+      "Long ago, ancient Indians believed a legendary city called Indraprastha once stood exactly where Delhi stands today — home to the five hero brothers of India's great epic, the Mahabharata. Nobody knows for sure if that first city was real. But one thing is certain: for over a thousand years, people have kept building cities, again and again, right on this very spot.",
+      "Historians count at least seven or eight different cities that rose up on Delhi's land over time, one civilization stacking its walls and towers right on top of the last. Sultans, and later Mughal emperors, all wanted this same patch of ground, so every time an empire fell, a new one built its capital right here.",
+      "The most dazzling builder of all was Mughal Emperor Shah Jahan — yes, the very same emperor who built the Taj Mahal! He raised a massive red sandstone fortress called the Red Fort, with gates so grand a king's parade could pass beneath them, plus a giant mosque where thousands could pray together at once.",
+      "Today Delhi is India's capital, yet it still wears every layer of its past like rings on a tree. Ancient towers, Mughal domes, and modern government buildings all sit within a short drive of one another. Walking through Delhi feels like riding a time machine, hopping from one era to the next."
+    ],
+    "ja": [
+      "はるか昔、古代インドの人々は、今のデリーがあるこの場所に『インドラプラスタ』という伝説の都があったと信じていました。インドの偉大な叙事詩『マハーバーラタ』に登場する五人の英雄兄弟が暮らした都だったそうです。その最初の街が本当にあったのかは、今も誰にもわかりません。でも一つだけ確かなことがあります。人々は千年以上もの間、まさにこの同じ場所に、街を何度も何度も建て直してきたのです。",
+      "歴史家たちによると、デリーの地には少なくとも七つか八つの異なる街が、次々と積み重なるように建てられたそうです。ある王朝がほろびると、次の王朝がその上に新しい城壁や塔を築きました。スルタンたちも、のちのムガル皇帝たちも、みんなこの同じ土地をほしがり、帝国が変わるたびに新しい都がまさにここに建てられたのです。",
+      "中でも一番きらびやかに街を築いたのが、ムガル皇帝シャー・ジャハーンでした。そう、あのタージ・マハルを建てた皇帝です！彼は赤い砂岩でできた巨大な『レッド・フォート（赤い城）』を築き、王様の行列がくぐれるほど堂々とした門を作りました。さらに、何千人もが一緒にお祈りできる大きなモスクも建てたのです。",
+      "今日のデリーはインドの首都でありながら、まるで木の年輪のように、過去のすべての時代を重ねてまとっています。古代の塔、ムガル時代のドーム、そして現代的な政府の建物が、車でほんの少し行くだけで全部見られるほど近くに並んでいます。だからデリーを歩くと、まるでタイムマシンに乗って時代から時代へ飛びまわっているような気分になるのです。"
+    ],
+    "zh": [
+      "很久很久以前，古印度人相信，就在今天德里所在的这个地方，曾有一座传说中的城市叫“因陀罗普拉斯特”。它是印度伟大史诗《摩诃婆罗多》中五位英雄兄弟居住的都城。没有人能确定第一座城市是否真实存在过，但有一件事是肯定的：一千多年来，人们一次又一次地，在这同一块土地上建起城市。",
+      "历史学家说，德里这片土地上先后至少建起过七八座不同的城市，一个文明的城墙和高塔总是叠建在前一个文明之上。苏丹们，还有后来的莫卧儿皇帝们，都看中了这同一块地方，每当一个帝国衰落，新的帝国就会把都城建在这里。",
+      "建造得最壮丽的，是莫卧儿皇帝沙贾汗——没错，就是那位建造了泰姬陵的皇帝！他用红色砂岩建起了巨大的“红堡”，城门高大得能让国王的仪仗队伍从下方走过，还建了一座能容纳数千人一同礼拜的大清真寺。",
+      "如今，德里是印度的首都，却依然像树的年轮一样，一层层裹着过去每个时代的痕迹。古老的高塔、莫卧儿时期的圆顶，还有现代的政府大楼，开车没多远就能一一看到。走在德里街头，就像坐上了时光机，在一个个时代之间穿梭。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "델리는 천 년이 넘도록 여러 제국의 수도였어요. 역사학자들은 같은 자리에 적어도 일고여덟 개의 도시가 세워졌다고 말해요.",
+      "1200년쯤 짓기 시작한 '쿠트브 미나르'는 세계에서 가장 높은 벽돌 탑이에요. 높이가 약 73미터로, 20층 건물보다도 높답니다.",
+      "쿠트브 미나르 옆에는 1600년도 더 된 '델리의 철기둥'이 서 있어요. 신기하게도 거의 녹슬지 않아서, 과학자들도 옛날 대장장이들이 어떻게 만들었는지 아직도 놀라워한대요.",
+      "레드 포트는 붉은 사암으로 지어졌고, 지금도 매년 인도의 독립기념일에 이곳에서 국기 게양식이 열려요.",
+      "후마윤의 무덤은 무굴 황제를 위해 그의 왕비가 지은 아름다운 정원 무덤이에요. 이 무덤의 디자인이 훗날 타지마할에 영감을 주었답니다.",
+      "전설에 따르면 델리는 인도의 위대한 서사시 마하바라타 속 영웅들이 살던 전설의 도시 '인드라프라스타'가 있던 자리래요."
+    ],
+    "en": [
+      "Delhi has been the capital of empire after empire for over 1,000 years — historians say at least seven or eight different cities were built on the very same spot.",
+      "The Qutub Minar, started around 1200, is the tallest brick minaret in the world. It stands about 73 meters tall — taller than a 20-story building!",
+      "Right beside the Qutub Minar stands the Iron Pillar of Delhi, over 1,600 years old and barely rusted. Scientists still marvel at how ancient blacksmiths pulled that off.",
+      "The Red Fort is built from red sandstone, and every year India's leaders still raise the national flag there on Independence Day.",
+      "Humayun's Tomb is a beautiful garden tomb built for a Mughal emperor by his own empress — and its design later inspired the Taj Mahal.",
+      "Legend says Delhi sits on the very spot where the mythical city of Indraprastha once stood, home to the heroes of India's great epic, the Mahabharata."
+    ],
+    "ja": [
+      "デリーは千年以上ものあいだ、いくつもの帝国の首都でした。歴史家によると、同じ場所に少なくとも七つか八つの街が建てられたそうです。",
+      "1200年ごろに建てられ始めた『クトゥブ・ミナール』は、世界で一番高いレンガ造りの塔です。高さは約73メートルで、20階建てのビルより高いんです。",
+      "クトゥブ・ミナールのそばには、1600年以上前に作られた『デリーの鉄柱』が立っています。ほとんどさびていない不思議な柱で、昔の鍛冶職人がどうやって作ったのか、科学者も今なお驚いているそうです。",
+      "レッド・フォートは赤い砂岩で作られていて、今でも毎年インドの独立記念日にはここで国旗掲揚式が行われます。",
+      "フマーユーン廟は、ムガル皇帝のために王妃が建てた美しい庭園墓です。このデザインが、のちのタージ・マハルにヒントを与えたと言われています。",
+      "伝説によると、デリーはインドの偉大な叙事詩『マハーバーラタ』の英雄たちが暮らした伝説の都『インドラプラスタ』があった場所なのだそうです。"
+    ],
+    "zh": [
+      "德里做了一千多年好几个帝国的都城。历史学家说，同一块地方至少先后建起过七八座城市。",
+      "大约从1200年左右开始建造的“顾特卜塔”，是世界上最高的砖塔。高约73米，比一栋20层的大楼还高。",
+      "顾特卜塔旁边立着一根有1600多年历史的“德里铁柱”。神奇的是它几乎没有生锈，科学家至今都惊叹古代铁匠是怎么做到的。",
+      "红堡是用红色砂岩建成的，直到今天，每年印度独立日都会在这里举行升国旗仪式。",
+      "胡马雍陵是莫卧儿皇帝的王妃为他建造的美丽花园陵墓，它的设计后来还启发了泰姬陵的建造。",
+      "传说德里正是印度伟大史诗《摩诃婆罗多》中英雄们居住过的传说之都“因陀罗普拉斯特”的所在地。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "델리에 있는 어떤 철기둥은 1600년이 넘었는데도 거의 녹슬지 않았대. 옛날 대장장이들은 대체 어떻게 이렇게 오래가는 쇠를 만들었을까?",
+    "en": "A pillar in Delhi is over 1,600 years old and has barely rusted at all — how do you think ancient blacksmiths made metal that lasts THAT long?",
+    "ja": "デリーにある鉄柱は1600年以上たってもほとんどさびていないんだって。昔の鍛冶職人は、いったいどうやってこんなに長持ちする鉄を作ったのかな？",
+    "zh": "德里有根铁柱已经1600多岁了，却几乎没有生锈。你觉得古代铁匠是怎么打造出这么耐用的铁的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "레드 포트 (라알 낄라)", "en": "Red Fort (Lal Qila)", "ja": "レッド・フォート（ラール・キラー）", "zh": "红堡（拉尔堡）" },
+      "blurb": {
+        "ko": "무굴 황제 샤 자한이 붉은 사암으로 지은 거대한 요새예요. 성벽 높이가 무려 33미터나 되고, 매년 인도 독립기념일이면 총리가 이곳 성문 위에서 국기를 게양한답니다.",
+        "en": "A massive fortress Mughal Emperor Shah Jahan built from red sandstone. Its walls tower 33 meters high, and every year India's Prime Minister raises the flag right above its gate on Independence Day.",
+        "ja": "ムガル皇帝シャー・ジャハーンが赤い砂岩で築いた巨大な城塞。城壁の高さはなんと33メートルもあり、毎年インドの独立記念日には、この門の上で首相が国旗を掲げます。",
+        "zh": "莫卧儿皇帝沙贾汗用红色砂岩建造的巨大堡垒。城墙高达33米，每年印度独立日，总理都会在这座城门上方升起国旗。"
+      },
+      "coords": [28.6562, 77.2410]
+    },
+    {
+      "name": { "ko": "쿠트브 미나르와 철기둥", "en": "Qutub Minar & the Iron Pillar", "ja": "クトゥブ・ミナールと鉄柱", "zh": "顾特卜塔与铁柱" },
+      "blurb": {
+        "ko": "800년도 더 된, 세계에서 가장 높은 벽돌 탑이에요. 5층까지 층마다 무늬가 달라서 올려다보기만 해도 감탄이 나온답니다. 바로 옆에는 1600년 넘게 녹슬지 않은 신비한 철기둥도 서 있어요.",
+        "en": "The world's tallest brick minaret, over 800 years old, with five stories each carved in a different pattern — just looking up at it is dazzling. Right beside it stands the mysterious Iron Pillar, which has barely rusted in over 1,600 years.",
+        "ja": "800年以上前に建てられた、世界一高いレンガの塔。5階まで階ごとに模様がちがい、見上げるだけでうっとりします。そのすぐそばには、1600年以上さびない不思議な鉄柱も立っています。",
+        "zh": "一座有800多年历史的世界最高砖塔，五层楼各有不同的花纹，光是抬头看就让人惊叹。旁边还立着那根1600多年都几乎没生锈的神秘铁柱。"
+      },
+      "coords": [28.5245, 77.1855]
+    },
+    {
+      "name": { "ko": "후마윤의 무덤", "en": "Humayun's Tomb", "ja": "フマーユーン廟", "zh": "胡马雍陵" },
+      "blurb": {
+        "ko": "무굴 황제 후마윤을 위해 왕비가 지은 아름다운 정원 무덤이에요. 붉은 사암과 하얀 대리석이 어우러진 이 건물은, 훗날 세계적으로 유명한 타지마할의 디자인에 영감을 주었답니다.",
+        "en": "A beautiful garden tomb Empress Bega Begum built for Emperor Humayun. Its blend of red sandstone and white marble later inspired the design of the world-famous Taj Mahal.",
+        "ja": "皇帝フマーユーンのために王妃が建てた美しい庭園墓。赤い砂岩と白い大理石が調和したこの建物は、のちに世界的に有名なタージ・マハルのデザインのお手本になりました。",
+        "zh": "皇后为胡马雍皇帝建造的美丽花园陵墓。红色砂岩与白色大理石相映成趣的这座建筑，后来启发了举世闻名的泰姬陵的设计。"
+      },
+      "coords": [28.5933, 77.2507]
+    },
+    {
+      "name": { "ko": "인디아 게이트", "en": "India Gate", "ja": "インディア・ゲート", "zh": "印度门" },
+      "blurb": {
+        "ko": "42미터 높이의 커다란 개선문이에요. 나라를 위해 애쓴 병사들을 기억하려고 세워졌는데, 밤이 되면 조명이 켜져서 델리에서 가장 반짝이는 야경 명소가 된답니다.",
+        "en": "A grand 42-meter arch built to remember soldiers who served their country. At night it lights up, becoming one of Delhi's most sparkling spots to visit.",
+        "ja": "高さ42メートルの大きな凱旋門。国のために尽くした兵士たちを記念して建てられ、夜になるとライトアップされてデリーで一番きらめく夜景スポットになります。",
+        "zh": "一座高42米的宏伟凯旋门，为纪念保家卫国的士兵而建。到了夜晚它会亮起灯光，成为德里最闪耀的夜景地标之一。"
+      },
+      "coords": [28.6129, 77.2295]
+    }
+  ]
+}

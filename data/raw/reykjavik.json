@@ -1,0 +1,120 @@
+{
+  "id": "reykjavik",
+  "country": "is",
+  "coords": [64.1466, -21.9426],
+  "name": { "ko": "레이캬비크", "en": "Reykjavik", "ja": "レイキャヴィク", "zh": "雷克雅未克" },
+  "tagline": {
+    "ko": "바이킹이 바다에게 집터를 물어본 '연기 나는 만'",
+    "en": "The Smoky Bay where Vikings let the sea choose their home",
+    "ja": "ヴァイキングが海に家の場所を尋ねた『煙の入り江』",
+    "zh": "维京人把选家权交给大海的“冒烟海湾”"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 1100년도 더 전에 잉골푸르 아르드나르손이라는 바이킹 족장이 가족과 함께 배를 타고 미지의 섬 아이슬란드로 향하고 있었어요. 그의 배에는 '왕좌의 기둥'이라 불리는 특별한 나무 기둥이 실려 있었는데, 족장의 자리를 상징하는 아주 귀한 물건이었죠. 섬 근처에 다다르자 잉골푸르는 그 기둥을 바다에 던지며 이렇게 다짐했어요. \"이 기둥이 파도에 밀려 닿는 곳에, 내 집을 짓겠다!\"",
+      "그 후 무려 3년 동안, 잉골푸르의 부하들은 거친 해안을 샅샅이 뒤지며 기둥을 찾아 헤맸어요. 마침내 어느 조용한 만에서 기둥을 발견했는데, 그곳 땅에서는 마치 연기처럼 김이 모락모락 피어오르고 있었죠. 잉골푸르는 이곳을 '레이캬비크', 즉 '연기 나는 만'이라 이름 붙였어요. 사실 그 '연기'가 땅속 깊은 곳에서 솟아오른 뜨거운 물이라는 건 그때는 몰랐답니다.",
+      "오늘날에도 그 땅속 열기는 레이캬비크의 거의 모든 집을 따뜻하게 데워줘요! 땅속에서 나온 자연 온수가 파이프를 타고 집과 수영장, 심지어 눈을 녹이는 인도 밑까지 흘러간답니다. 그래서 아이슬란드의 수도는 석탄이나 석유를 거의 태우지 않고도 따뜻하게 지낼 수 있어요. 지구가 공짜로 주는 난방인 셈이죠.",
+      "잉골푸르의 작은 농장이던 이곳은 이제 세계에서 가장 북쪽에 있는 수도로 자라났지만, 여전히 자연의 신비와 가깝게 맞닿아 있어요. 여름엔 해가 거의 지지 않아서, 아이들이 한밤중에도 황금빛 햇살 아래서 뛰놀 수 있답니다. 겨울엔 초록빛 오로라가 하늘에서 춤을 추는데, 마치 하늘이 그 옛날 신비로운 '연기 나는 만'을 기억하고 있는 것 같아요."
+    ],
+    "en": [
+      "Long ago, more than 1,100 years ago, a Viking chief named Ingólfur Arnarson sailed toward Iceland with his family and his carved wooden pillars called öndvegissúlur — special posts that marked a chief's seat of honor. As his ship neared the unknown island, he tossed the pillars into the sea and made a promise: wherever the waves carried them ashore, that is where he would build his home.",
+      "For three whole years, Ingólfur's crew searched the wild coastline for the missing pillars. Finally, they found them washed up in a quiet bay, where steam curled up from the ground like smoke. Ingólfur named the spot Reykjavík — 'Smoky Bay' — never guessing that the 'smoke' was actually hot water bubbling up from deep inside the earth.",
+      "Today, that same underground heat still warms almost every home in Reykjavík! Pipes carry naturally hot water from beneath the ground straight into houses, swimming pools, and even sidewalks to melt the snow. That's why Iceland's capital barely needs to burn any coal or oil to stay warm — free heat straight from the planet.",
+      "Reykjavík has grown from Ingólfur's little farm into the world's northernmost capital city, and it still feels close to nature's magic. In summer, the sun barely dips below the horizon, and kids can play at midnight in golden light. In winter, dancing green Northern Lights swirl overhead — as if the sky remembers that first smoky, magical bay."
+    ],
+    "ja": [
+      "はるか昔、1100年以上前のこと。イングロヴル・アルトナルソンというヴァイキングの族長が、家族を連れて、まだ誰も知らない島アイスランドへ船で向かっていました。船には『高座の柱』と呼ばれる特別な木の柱が積まれていて、それは族長の名誉ある席を表す大切な品でした。島が近づくと、イングロヴルはその柱を海へ投げ入れ、こう誓いました。「この柱が波に運ばれて着いた場所に、我が家を建てよう」。",
+      "それから丸3年もの間、イングロヴルの仲間たちは荒々しい海岸をくまなく探し、柱を探し続けました。そしてついに、ある静かな入り江で柱を見つけたのです。その土地からは、まるで煙のように湯気がゆらゆらと立ちのぼっていました。イングロヴルはこの場所を『レイキャヴィク』——『煙の入り江』と名づけました。実はその『煙』が、地面の奥深くからわき出る温かい水だとは、まだ誰も知らなかったのです。",
+      "今でも、その地下の熱がレイキャヴィクのほとんどの家をあたためています！地中からわき出る天然の温水がパイプを通って、家や温水プール、さらには雪をとかす歩道の下にまで流れているのです。だからアイスランドの首都は、石炭や石油をほとんど燃やさなくても暖かく過ごせます。地球がくれる無料の暖房というわけですね。",
+      "イングロヴルの小さな農場だったこの場所は、今では世界でいちばん北にある首都に育ちましたが、今も自然の不思議のすぐそばにあります。夏は太陽がほとんどしずまず、真夜中でも子どもたちが金色の光の中で遊べます。冬には緑色のオーロラが空でおどり、まるで空があの煙の立つ神秘の入り江を覚えているかのようです。"
+    ],
+    "zh": [
+      "很久很久以前，距今1100多年前，一位名叫英格尔夫·阿纳尔松的维京首领带着家人乘船驶向当时还无人知晓的冰岛。他的船上装着被称为“高座柱”的特殊木柱，那是象征首领尊贵座位的宝物。船快靠近岛屿时，英格尔夫把木柱扔进大海，许下誓言：“这些木柱被海浪冲到哪里，我就在哪里安家！”",
+      "接下来整整三年，英格尔夫的伙伴们沿着崎岖的海岸线四处寻找木柱的踪影。终于，他们在一个安静的海湾里找到了木柱，那里的地面竟像冒烟一样，缭绕着阵阵热气。英格尔夫把这个地方命名为“雷克雅未克”——意思是“冒烟的海湾”。可他当时并不知道，那些“烟”其实是从地底深处涌出的热水呢。",
+      "直到今天，那股地下的热量依然温暖着雷克雅未克几乎每一户人家！天然的地热水顺着管道流进家家户户、游泳池，甚至流到人行道下面把积雪融化。正因如此，冰岛首都几乎不需要燃烧煤炭或石油就能保持温暖——这是地球免费送来的暖气。",
+      "曾经英格尔夫的小小农场，如今已成长为世界上最靠北的首都城市，却依然贴近大自然的奇妙魔法。夏天，太阳几乎不落下，孩子们半夜也能在金色阳光下玩耍。冬天，绿色的极光在天空中翩翩起舞，仿佛天空还记得那个当年冒着烟的神秘海湾。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'레이캬비크'는 '연기 나는 만'이라는 뜻이지만, 사실 그 연기는 땅에서 솟아오르는 온천 김이었어요!",
+      "레이캬비크의 거의 모든 집은 땅속에서 뿜어져 나오는 천연 온수로 난방을 해요.",
+      "레이캬비크는 세계에서 가장 북쪽에 있는 나라의 수도예요.",
+      "여름엔 해가 거의 지지 않아서, 아이들이 한밤중에도 황금빛 햇살 속에서 놀 수 있어요.",
+      "잉골푸르 아르드나르손의 부하들이 바다에 던진 나무 기둥을 찾는 데 무려 3년이 걸렸대요.",
+      "아이슬란드는 지구에서 모기가 아예 없는 몇 안 되는 곳 중 하나예요!"
+    ],
+    "en": [
+      "'Reykjavík' means 'Smoky Bay'—but that smoke was actually steam rising from hot springs in the ground!",
+      "Almost every home in Reykjavík is heated by natural hot water pumped straight up from underground.",
+      "Reykjavík is the world's northernmost capital city of a country.",
+      "In summer the sun barely sets, so kids can play outside at midnight in golden light.",
+      "It took three whole years for Ingólfur Arnarson's men to find his floating wooden pillars along the coast.",
+      "Iceland is one of the only places on Earth with no mosquitoes at all!"
+    ],
+    "ja": [
+      "『レイキャヴィク』は『煙の入り江』という意味ですが、その煙は実は地面からわき出る温泉の湯気でした！",
+      "レイキャヴィクのほとんどの家は、地下からわき出る天然の温水で暖められています。",
+      "レイキャヴィクは、世界でいちばん北にある国の首都です。",
+      "夏は太陽がほとんどしずまないので、真夜中でも子どもたちは金色の光の中で遊べます。",
+      "イングロヴル・アルトナルソンの仲間たちが海に投げた木の柱を見つけるのに、まるまる3年もかかったそうです。",
+      "アイスランドは、地球上で蚊がまったくいない数少ない場所のひとつなんです！"
+    ],
+    "zh": [
+      "“雷克雅未克”意思是“冒烟的海湾”，可那“烟”其实是从地里冒出来的温泉热气！",
+      "雷克雅未克几乎家家户户都靠地底涌出的天然热水来取暖。",
+      "雷克雅未克是世界上最靠北的国家首都。",
+      "夏天太阳几乎不落山，孩子们半夜也能在金色阳光下玩耍。",
+      "英格尔夫·阿纳尔松的伙伴们沿海寻找那些木柱，足足找了三年。",
+      "冰岛是地球上少数完全没有蚊子的地方之一！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "바이킹이 나무 기둥을 바다에 던져서 파도가 정해주는 곳에 집을 지었대. 너라면 파도가 골라준 곳에 집을 지을 수 있겠어?",
+    "en": "A Viking threw wooden pillars into the sea and let the waves decide where to build his home — would you trust the sea to pick your house?",
+    "ja": "ヴァイキングが木の柱を海に投げて、波が選んだ場所に家を建てたんだって。あなたなら、波にお家の場所を決めてもらえる？",
+    "zh": "维京人把木柱扔进大海，让海浪来决定家该建在哪里。如果是你，敢让海浪帮你选家的位置吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "할그림스키르캬 교회", "en": "Hallgrímskirkja Church", "ja": "ハットルグリムス教会", "zh": "哈尔格林姆教堂" },
+      "blurb": {
+        "ko": "마치 얼어붙은 용암처럼 생긴 이 교회는, 아이슬란드의 독특한 현무암 기둥 모양에서 영감을 받아 지어졌어요. 엘리베이터를 타고 꼭대기에 올라가면, 알록달록한 지붕들 너머로 바다까지 펼쳐진 레이캬비크 전경을 한눈에 볼 수 있답니다.",
+        "en": "This towering church looks like it's made of frozen lava, its columns inspired by Iceland's dramatic basalt rock formations. Ride the elevator to the top for a sweeping view over Reykjavík's colorful rooftops all the way to the sea.",
+        "ja": "まるで凍った溶岩でできているかのようなこの教会は、アイスランドならではの柱状の玄武岩の形からヒントを得て建てられました。エレベーターで屋上に上がると、色とりどりの屋根の向こうに海まで広がるレイキャヴィクの景色が一望できます。",
+        "zh": "这座高耸的教堂看起来像是用凝固的熔岩建成的，灵感来自冰岛独特的柱状玄武岩地貌。乘电梯登上塔顶，色彩缤纷的屋顶尽收眼底，一直延伸到远处的大海。"
+      },
+      "coords": [64.1417, -21.9266]
+    },
+    {
+      "name": { "ko": "태양의 항해자 (솔파르)", "en": "Sun Voyager (Sólfar)", "ja": "太陽の航海者（ソゥルファル）", "zh": "太阳航海者（索尔法）" },
+      "blurb": {
+        "ko": "바이킹 배처럼 생긴 이 반짝이는 강철 조각상은, 사실 작가가 '꿈의 배'라고 이름 붙였어요. 햇빛과 새로운 곳을 향한 희망을 담은 작품이랍니다. 바닷가에 서 있는데, 노을이 질 때면 황금빛으로 반짝여요.",
+        "en": "This gleaming steel sculpture looks like a Viking ship, but the artist actually called it a 'dreamboat' — a tribute to sunlight and the promise of new places to explore. It sits right on the waterfront, glowing gold at sunset.",
+        "ja": "ヴァイキング船のように見えるこのきらめくスチール彫刻ですが、作者は『夢の船』と名づけました。太陽の光と、新しい場所への希望を表した作品です。海辺に立っていて、夕日が沈むころには金色に輝きます。",
+        "zh": "这座闪亮的钢铁雕塑看起来像维京船，但作者其实把它称为“梦之船”，是献给阳光与探索新天地之希望的作品。它就矗立在海边，日落时会闪耀出金色的光芒。"
+      },
+      "coords": [64.1479, -21.9294]
+    },
+    {
+      "name": { "ko": "페르란 (진주)", "en": "Perlan (The Pearl)", "ja": "パールラン（真珠）", "zh": "珍珠楼（Perlan）" },
+      "blurb": {
+        "ko": "페르란은 레이캬비크 전체를 따뜻하게 데우는 지열 온수를 저장하는 거대한 탱크 위에 지어졌어요. 안에는 진짜 얼음으로 만든 인공 얼음 동굴이 있어서, 아이슬란드의 화산과 빙하가 어떻게 작동하는지 직접 배울 수 있답니다.",
+        "en": "Perlan sits on top of huge tanks that store Reykjavík's geothermal hot water — the very same heat that warms the whole city. Inside, kids can walk through a real man-made ice cave and learn how Iceland's volcanoes and glaciers work.",
+        "ja": "パールランは、レイキャヴィク全体を暖める地熱温水をたくわえる巨大タンクの上に建っています。中には本物の氷でできた人工の氷の洞窟があり、アイスランドの火山や氷河のしくみを体験しながら学べます。",
+        "zh": "珍珠楼建在储存地热热水的巨大水罐之上，正是这些热水温暖着整座雷克雅未克。馆内有一个用真冰打造的人造冰洞，孩子们可以在里面了解冰岛火山和冰川的运作原理。"
+      },
+      "coords": [64.1290, -21.9184]
+    },
+    {
+      "name": { "ko": "정착 전시관 (레이캬비크 871±2)", "en": "The Settlement Exhibition (Reykjavík 871±2)", "ja": "定住の展示館（レイキャヴィク871±2）", "zh": "定居点展览馆（雷克雅未克871±2）" },
+      "blurb": {
+        "ko": "시내 지하 깊은 곳에서 고고학자들이 진짜 바이킹 롱하우스의 흔적을 발견했어요. 아이슬란드에서 가장 오래된 건물 중 하나랍니다. 1100년 된 진짜 벽 바로 옆에 서서, 잉골푸르의 가족이 그곳에 살던 모습을 상상해 볼 수 있어요.",
+        "en": "Deep in a basement downtown, archaeologists found the actual remains of a Viking longhouse — one of the very first buildings in Iceland. You can stand beside the real 1,100-year-old walls and imagine Ingólfur's family living right there.",
+        "ja": "街の中心部の地下深くで、考古学者たちが本物のヴァイキングのロングハウス（長屋）のあとを見つけました。アイスランドで最も古い建物のひとつです。1100年前の本物の壁のすぐそばに立って、イングロヴルの家族がそこで暮らしていた様子を想像してみて。",
+        "zh": "在市中心地下深处，考古学家发现了一座真正的维京长屋遗迹——冰岛最早的建筑之一。你可以站在这堵1100年历史的真实墙壁旁，想象英格尔夫一家当年就住在这里。"
+      },
+      "coords": [64.1477, -21.9397]
+    }
+  ]
+}

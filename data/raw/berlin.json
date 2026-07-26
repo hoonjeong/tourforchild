@@ -1,0 +1,120 @@
+{
+  "id": "berlin",
+  "country": "de",
+  "coords": [52.5200, 13.4050],
+  "name": { "ko": "베를린", "en": "Berlin", "ja": "ベルリン", "zh": "柏林" },
+  "tagline": {
+    "ko": "장벽이 도시를 둘로 갈랐던 곳, 전 세계가 지켜보는 가운데 다시 하나가 되다",
+    "en": "The city a wall once split in two — and the world watched come back together",
+    "ja": "壁が街を二つに分けた場所 ― 世界が見守るなか、また一つになった",
+    "zh": "曾被一堵墙分成两半的城市——在全世界注视下重新团聚"
+  },
+  "story": {
+    "ko": [
+      "독일의 수도 베를린은 슈프레강을 따라 자리 잡은 오래된 도시예요. 유럽 한가운데 있는 이 도시엔 궁전도 있고 박물관도 많지만, 정말 놀라운 이야기는 100년도 채 안 된 최근에 일어났답니다.",
+      "제2차 세계대전이 끝난 뒤, 베를린은 서베를린과 동베를린으로 둘로 나뉘었어요. 그러다 1961년 어느 날 밤, 동독 군인들이 도시 한가운데에 갑자기 담을 쌓기 시작했어요. 다음 날 아침 사람들이 눈을 떠보니, 어제까지 옆집이던 이웃이 하룻밤 사이에 다른 나라 사람이 되어 있었죠.",
+      "그 뒤로 28년 동안 베를린 장벽은 도시를 갈라놓았고, '체크포인트 찰리'라는 단 몇 곳에서만 오갈 수 있었어요. 그래도 사람들은 포기하지 않았어요. 땅 밑에 몰래 굴을 파고, 자동차 트렁크에 숨고, 손수 만든 배를 타고 강을 건너 가족을 만나러 갔답니다. 서쪽 사람들은 벽에 알록달록 그림을 그렸지만, 동쪽 벽은 늘 삼엄하게 지켜졌어요.",
+      "그러다 1989년 11월 9일, 마침내 장벽이 열렸어요! 동과 서 양쪽 사람들이 담 위로 올라가 얼싸안고 춤을 췄고, 망치로 벽을 두드려 조각을 떼어냈어요. 지금 가장 길게 남은 벽에는 세계 각국 화가들이 그린 그림이 가득해서, 세상에서 가장 큰 '야외 미술관'이 되었답니다. 베를린은 벽도 결국 무너지고, 사람들은 다시 하나가 될 수 있다는 걸 보여준 도시예요."
+    ],
+    "en": [
+      "Berlin, the capital of Germany, is an old city built along the Spree River. Right in the heart of Europe, it's full of grand palaces and museums—but its most amazing story happened less than a hundred years ago.",
+      "After World War II ended, Berlin was split in two: West Berlin and East Berlin. Then one night in 1961, East German soldiers suddenly began building a wall straight through the middle of the city. When people woke up the next morning, a neighbor who'd been right next door the day before was now, overnight, a citizen of a different country.",
+      "For the next 28 years, the Berlin Wall cut the city in half, and people could cross at only a few spots, like the famous 'Checkpoint Charlie.' But people never gave up. They dug secret tunnels underground, hid in car trunks, and paddled homemade boats across the river just to reach their families. On the west side, people painted the wall in bright colors—while the east side stayed grim and heavily guarded.",
+      "Then, on November 9, 1989, the wall finally opened! People from both East and West climbed on top together, hugging and dancing, and swung hammers to chip off pieces as souvenirs. Today, the longest surviving stretch is covered edge to edge with paintings by artists from all over the world, making it the biggest open-air art gallery on Earth. Berlin shows us that even a wall can fall—and people can become one again."
+    ],
+    "ja": [
+      "ドイツの首都ベルリンは、シュプレー川のほとりに広がる古い街です。ヨーロッパのまんなかにあるこの街には宮殿や博物館もたくさんありますが、いちばん驚きの物語は、まだ100年もたっていない最近の出来事なんです。",
+      "第二次世界大戦が終わったあと、ベルリンは西ベルリンと東ベルリンに分かれてしまいました。そして1961年のある夜、東ドイツの兵士たちが街のまんなかに突然かべを築きはじめたのです。次の日の朝、人々が目を覚ますと、きのうまでとなり近所だった人が、一晩で別の国の人になっていました。",
+      "それから28年間、『ベルリンの壁』は街を分けたまま。行き来できるのは『チェックポイント・チャーリー』などほんの数か所だけでした。それでも人々はあきらめませんでした。地下にひそかにトンネルを掘ったり、車のトランクにかくれたり、手作りの船で川をわたって、家族に会いに行ったのです。西側の壁には色あざやかな絵がえがかれましたが、東側の壁はいつも厳しく見張られていました。",
+      "そして1989年11月9日、ついに壁が開かれました！東と西、両方の人々が壁の上によじ登り、抱き合って踊り、ハンマーで壁をたたいてかけらを持ち帰りました。今、いちばん長く残る壁には世界中の画家がえがいた絵がずらり。世界最大級の『屋外美術館』になったのです。ベルリンは、どんな壁もいつかくずれ、人はまた一つになれることを教えてくれる街なのですね。"
+    ],
+    "zh": [
+      "德国首都柏林，是一座沿着施普雷河而建的古老城市。它位于欧洲的中心，有宫殿也有博物馆，但最令人惊叹的故事，却发生在不到一百年前。",
+      "第二次世界大战结束后，柏林被分成了西柏林和东柏林两部分。1961年的一个夜晚，东德士兵突然开始在城市中央筑起一道墙。第二天早上，人们一觉醒来才发现，昨天还是邻居的人，一夜之间竟成了“另一个国家”的人。",
+      "此后28年里，“柏林墙”把城市分割开来，只有像“查理检查站”这样的几个地方能够通行。可人们并没有放弃。他们悄悄挖地道，藏进汽车后备箱，甚至划着自己造的小船渡河，只为去见家人。西边的墙被人们画满了五颜六色的图画，东边的墙却始终被严密看守着。",
+      "直到1989年11月9日，柏林墙终于打开了！东西两边的人们爬上墙头，拥抱、跳舞，还挥着锤子敲下墙上的碎块留作纪念。如今保存最长的一段墙上，画满了世界各地艺术家的作品，成了世界上最大的“露天美术馆”。柏林告诉我们：再厚的墙也会倒下，人们终将重新团聚。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1961년 8월 13일, 베를린 장벽은 거의 하룻밤 사이에 세워졌어요. 사람들은 눈뜨자마자 자기가 살던 도시가 두 쪽으로 갈라진 걸 알게 됐죠.",
+      "그 뒤로 사람들은 자유를 찾아 벽 밑에 몰래 굴을 70개 넘게 팠어요.",
+      "지금 가장 길게 남아 있는 벽 '이스트사이드 갤러리'는 세계 각국 화가들의 그림으로 처음부터 끝까지 가득 채워져 있어요.",
+      "동베를린의 귀여운 신호등 캐릭터 '암펠만'은 사람들에게 워낙 사랑받아서, 통일 후에도 사라지지 않고 티셔츠·컵·사탕에까지 등장한답니다.",
+      "베를린 동물원은 세상에서 동물 종류가 가장 다양한 동물원 중 하나예요. 약 1400종, 2만 마리나 되는 동물이 살고 있대요.",
+      "TV타워 꼭대기 은빛 공에 햇빛이 비치면 커다란 십자가 모양이 생겨요. 이걸 싫어했던 동독 정부 때문에 사람들은 이걸 '교황의 복수'라고 불렀대요."
+    ],
+    "en": [
+      "On August 13, 1961, the Berlin Wall went up almost overnight — people woke up and found their own city cut in two.",
+      "Over the years, people dug more than 70 secret tunnels under the wall so families could escape to freedom.",
+      "The longest surviving stretch of the wall, called the East Side Gallery, is covered edge to edge with paintings by artists from all over the world.",
+      "East Berlin's little traffic-light walking man, 'Ampelmann,' was so loved that after reunification he was kept — now he's on t-shirts, mugs, even candy.",
+      "Berlin's zoo is one of the most species-rich zoos on Earth, home to around 20,000 animals from nearly 1,400 different species.",
+      "Sunlight glinting off the TV Tower's silver ball forms a giant cross — East Germany's leaders hated it so much that people nicknamed it 'the Pope's Revenge.'"
+    ],
+    "ja": [
+      "1961年8月13日、ベルリンの壁はほぼ一晩で築かれました。人々は目を覚ますと、自分の街が真っ二つに分かれていたことに気づいたのです。",
+      "その後、自由を求めて壁の下に70本以上のひそかなトンネルが掘られました。",
+      "今いちばん長く残る壁『イーストサイド・ギャラリー』は、世界中の画家がえがいた絵でびっしり埋めつくされています。",
+      "東ベルリンの信号機のキャラクター『アンペルマン』はとても愛されたので、統一後も消えることなく、今もTシャツやマグカップ、キャンディーにまで登場しています。",
+      "ベルリン動物園は世界でもっとも動物の種類が多い動物園のひとつ。約1400種、2万匹もの動物がくらしています。",
+      "テレビ塔てっぺんの銀色の球に日光が当たると、大きな十字のもようが浮かび上がります。それをいやがった東ドイツ政府にちなんで、人々はこれを『法王の逆襲』と呼びました。"
+    ],
+    "zh": [
+      "1961年8月13日，柏林墙几乎在一夜之间建了起来。人们一觉醒来，才发现自己的城市已经被分成了两半。",
+      "此后，人们为了逃向自由，在墙下偷偷挖了70多条地道。",
+      "如今保存最长的一段墙，被称为“东边画廊”，从头到尾画满了世界各地艺术家的作品。",
+      "东柏林可爱的交通灯小人“灯人”太受欢迎，两德统一后也没有被取消，如今还出现在T恤、水杯甚至糖果上。",
+      "柏林动物园是世界上物种最丰富的动物园之一，饲养着约1400个物种、共2万只动物。",
+      "阳光照在电视塔顶端的银色圆球上，会映出一个巨大的十字形状。东德政府很不喜欢这个，人们便把它戏称为“教皇的复仇”。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "어느 날 아침에 눈을 떠보니 우리 동네가 갑자기 다른 나라가 되어 있다면 믿을 수 있겠어?",
+    "en": "Imagine waking up one morning and finding your own street now belongs to a different country. Could you believe it?",
+    "ja": "ある朝目が覚めたら、自分の住む通りが急に別の国になっていたら、信じられるかな？",
+    "zh": "如果有一天早上醒来，发现自己家门口的街道突然变成了另一个国家，你会相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "브란덴부르크 문", "en": "Brandenburg Gate", "ja": "ブランデンブルク門", "zh": "勃兰登堡门" },
+      "blurb": {
+        "ko": "수십 년 동안 이 웅장한 문은 동과 서 사이 '죽음의 띠' 안에 갇혀 아무도 다가갈 수 없었어요. 장벽이 무너지던 날, 사람들은 바로 이곳에 모여 환호했고, 지금은 다시 하나가 된 베를린을 상징하는 자랑스러운 문이 됐답니다.",
+        "en": "For decades, this grand gate stood locked inside the 'death strip' between East and West — so close, yet no one could touch it. When the wall fell, crowds gathered right here to celebrate, and today it stands as the proud symbol of a reunited Berlin.",
+        "ja": "何十年もの間、この壮大な門は東西の間の『デスゾーン』に閉じこめられ、誰も近づけませんでした。壁が崩れた日、人々はまさにここに集まって喜びを分かち合い、今では再統一されたベルリンの誇り高いシンボルになっています。",
+        "zh": "几十年来，这座宏伟的城门被困在东西德之间的“死亡地带”里，谁也无法靠近。柏林墙倒下的那天，人们正是聚集在这里欢庆，如今它已成为统一后柏林最骄傲的象征。"
+      },
+      "coords": [52.5163, 13.3777]
+    },
+    {
+      "name": { "ko": "이스트사이드 갤러리", "en": "East Side Gallery", "ja": "イーストサイド・ギャラリー", "zh": "东边画廊" },
+      "blurb": {
+        "ko": "지금까지 남아 있는 베를린 장벽 중 가장 긴 조각으로, 길이가 1킬로미터가 넘어요. 장벽이 무너지자마자 전 세계 화가들이 이 벽을 처음부터 끝까지 그림으로 채워, 분단의 상징을 세계 최대 야외 미술관으로 바꿔놓았답니다.",
+        "en": "This is the longest piece of the Berlin Wall still standing — over a kilometer long. Right after the wall fell, artists from around the world painted it edge to edge, turning a symbol of division into the world's largest open-air art gallery.",
+        "ja": "現存するベルリンの壁の中でいちばん長い一枚で、長さは1キロメートル以上。壁が崩れた直後、世界中の画家たちがこの壁を端から端まで絵で埋めつくし、分断のシンボルを世界最大の屋外美術館に変えました。",
+        "zh": "这是现存最长的一段柏林墙，长达一公里多。柏林墙倒塌后不久，来自世界各地的艺术家把这面墙从头画到尾，把曾经分裂的象征变成了世界最大的露天美术馆。"
+      },
+      "coords": [52.5050, 13.4399]
+    },
+    {
+      "name": { "ko": "체크포인트 찰리", "en": "Checkpoint Charlie", "ja": "チェックポイント・チャーリー", "zh": "查理检查站" },
+      "blurb": {
+        "ko": "동베를린과 서베를린을 잇던 가장 유명한 검문소로, 양쪽 모두 군인들이 지키고 있었어요. 한때 이곳에서 탱크가 서로 마주 선 적도 있었지만, 지금은 그 팽팽했던 긴장감이 사라지고 사진을 찍으며 즐길 수 있는 곳이 됐답니다.",
+        "en": "This was the most famous crossing point between East and West Berlin, guarded by soldiers on both sides. Tanks once faced off here nose-to-nose, but today you can pose for photos where the tension used to be so thick you could almost touch it.",
+        "ja": "東西ベルリンを結ぶ、いちばん有名な検問所で、両側とも兵士に見張られていました。かつて戦車が鼻をつき合わせるようににらみ合ったこともありましたが、今ではその張りつめた空気も消え、記念写真を撮れる場所になっています。",
+        "zh": "这是连接东西柏林最著名的检查站，两边都有士兵把守。这里曾有坦克对峙、剑拔弩张，如今紧张的气氛早已散去，游客可以在这里拍照留念。"
+      },
+      "coords": [52.5074, 13.3903]
+    },
+    {
+      "name": { "ko": "베를린 TV타워 (페른제투름)", "en": "Fernsehturm (TV Tower)", "ja": "テレビ塔（フェルンゼートゥルム）", "zh": "柏林电视塔" },
+      "blurb": {
+        "ko": "높이가 200미터도 넘는 독일에서 가장 높은 건축물로, 베를린 어디에서든 거의 다 보인대요. 맑은 날엔 꼭대기 은빛 공에 햇빛이 반사돼 커다란 십자가 모양이 나타나는데, 이걸 싫어했던 동독 정부 때문에 사람들은 이 현상을 '교황의 복수'라고 불렀답니다.",
+        "en": "At over 200 meters tall, this is the tallest structure in Germany, and you can see it from almost anywhere in Berlin. On sunny days, light bounces off its silver ball into a giant cross — a twist the atheist East German government never wanted, nicknamed 'the Pope's Revenge.'",
+        "ja": "高さ200メートル以上、ドイツでいちばん高い建物で、ベルリンのほとんどどこからでも見えます。晴れた日には、てっぺんの銀色の球に日光が反射して大きな十字が浮かび上がり、それをいやがった東ドイツ政府にちなんで『法王の逆襲』と呼ばれています。",
+        "zh": "塔高超过200米，是德国最高的建筑，几乎在柏林的任何角落都能看到它。晴天时，塔顶银球会反射出一个巨大的十字形，东德政府当年很讨厌这个现象，人们便戏称它为“教皇的复仇”。"
+      },
+      "coords": [52.5208, 13.4094]
+    }
+  ]
+}

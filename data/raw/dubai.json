@@ -1,0 +1,120 @@
+{
+  "id": "dubai",
+  "country": "ae",
+  "coords": [25.2048, 55.2708],
+  "name": { "ko": "두바이", "en": "Dubai", "ja": "ドバイ", "zh": "迪拜" },
+  "tagline": {
+    "ko": "모래 위 작은 어촌에서, 기록을 깨는 꿈의 도시로 자란 두바이",
+    "en": "The tiny fishing village on the sand that grew into a city of record-breaking dreams",
+    "ja": "砂の上の小さな漁村から、記録破りの夢の街へ育ったドバイ",
+    "zh": "从沙滩上的小渔村，成长为不断打破纪录的梦想之城"
+  },
+  "story": {
+    "ko": [
+      "백 년도 안 된 그리 오래되지 않은 옛날, 두바이는 짠물이 흐르는 작은 만(크리크) 옆의 조그만 모래 마을이었어요. 어부들은 아침마다 배를 타고 나갔고, 용감한 진주 채취 잠수부들은 숨을 참고 바닷속 깊이 들어가 조개 속에 숨은 진주를 찾았답니다. 낙타 행렬은 사막을 가로질러 향신료와 천을 실어 날랐고, 시간은 밀물과 썰물처럼 느리게 흘러갔어요.",
+      "그러던 어느 날, 모든 걸 바꿔놓은 일이 일어났어요. 사막 아래에서 석유가 발견된 거예요! 두바이의 지도자들은 대담한 결정을 내렸어요. 그 보물을 그냥 묻어두는 대신, 도로와 학교, 공항과 분주한 항구를 짓는 데 썼답니다. 졸고 있던 작은 마을이 크레인과 공사 소리로 가득한 도시로 순식간에 변해갔죠.",
+      "두바이는 그냥 커지는 것으로 만족하지 않았어요. 세계 기록을 깨고 싶었죠. 세상에서 가장 높은 건물을 지어서, 어떤 날엔 구름이 창문 옆을 스쳐 지나갈 정도였어요. 심지어 바다를 파서 야자나무 모양의 거대한 인공 섬까지 만들었는데, 새로운 해변이 몇 킬로미터나 늘어났답니다. 전 세계 사람들이 우주에서 찍은 사진을 보고도 믿기 어려워했대요.",
+      "하지만 두바이는 자신이 어디서 왔는지 잊지 않았어요. 반짝이는 초고층 빌딩에서 몇 분만 걸어가면, '아브라'라는 나무배가 백 년 전과 똑같이 크리크를 오가고 있어요. 황금빛 빌딩숲에서 옛 향신료 시장까지 걸어보면, 하루 오후 만에 두 세기를 넘나든 기분이 든답니다."
+    ],
+    "en": [
+      "Not long ago—less than a hundred years back—Dubai was just a small, sandy town beside a saltwater creek. Fishermen sailed out each morning, and brave divers plunged deep underwater holding their breath, searching for pearls hidden inside oyster shells. Camel caravans crossed the desert bringing spices and cloth to trade, and life moved as slowly as the tide.",
+      "Then something changed everything: oil was found beneath the desert, and the rulers of Dubai made a bold decision. Instead of keeping all that treasure buried, they used it to build roads, schools, an airport, and a busy port—turning a sleepy town into a city buzzing with cranes and construction almost overnight.",
+      "Dubai didn't just want to grow—it wanted to break records. It built the tallest building anyone had ever made, so tall that clouds sometimes drift past its windows. It even carved a giant palm-tree-shaped island out of the sea, adding kilometers of brand-new beach to the coastline. People all over the world looked at photos from space and could hardly believe it was real.",
+      "But Dubai never forgot where it came from. Just minutes from the shiny skyscrapers, wooden boats called abras still putter across the same creek, carrying passengers the way they did a hundred years ago. Walk from the golden towers to the old spice market, and you'll feel like you've stepped through two different centuries in one afternoon."
+    ],
+    "ja": [
+      "今から100年もたたない昔、ドバイは塩水の入り江（クリーク）のそばの小さな砂の町でした。漁師たちは毎朝船を出し、勇敢な真珠採りの人たちは息を止めて海の中深くもぐり、貝の中にかくれた真珠をさがしました。ラクダの行列は砂漠を横切って香辛料や布を運び、時間は潮の満ち引きのようにゆっくり流れていました。",
+      "そんなある日、すべてを変えるできごとが起きました。砂漠の下から石油が見つかったのです！ドバイの指導者たちは大胆な決断をしました。その宝をそのまま埋めておく代わりに、道路や学校、空港や忙しい港を作るために使ったのです。眠っていた小さな町は、あっという間にクレーンと工事の音でいっぱいの街に変わっていきました。",
+      "ドバイはただ大きくなるだけでは満足しませんでした。世界記録を破りたかったのです。世界一高いビルを建て、ある日には雲が窓のそばを流れていくほどでした。さらには海をうめ立てて、ヤシの木の形をした巨大な人工島まで作り、新しい海岸線が数キロメートルも増えました。世界中の人々が宇宙から撮った写真を見ても、なかなか信じられなかったそうです。",
+      "でもドバイは、自分がどこから来たのかを忘れませんでした。きらびやかな超高層ビルからほんの数分歩くと、『アブラ』という木の船が100年前とまったく同じようにクリークを行き来しています。金色に輝くビル群から昔の香辛料市場まで歩いてみると、たった一日の午後で二つの時代を旅したような気分になりますよ。"
+    ],
+    "zh": [
+      "就在不到一百年前，迪拜还只是一个咸水湾（河口）旁的小小沙丘小镇。渔民每天清晨出海，勇敢的采珠人屏住一口气潜入深海，在牡蛎壳里寻找珍珠。骆驼商队穿越沙漠，运来香料和布匹，日子像潮水一样缓缓流淌。",
+      "后来发生了一件改变一切的事——人们在沙漠地下发现了石油！迪拜的统治者做出了一个大胆的决定：不是把这份财富埋起来，而是用它修建道路、学校、机场和繁忙的港口。一个昏昏欲睡的小镇几乎一夜之间变成了塔吊林立、机器轰鸣的城市。",
+      "迪拜并不满足于只是长大，它还想打破世界纪录。它建起了世界上最高的建筑，高到有时云朵会飘过它的窗边。它甚至填海造出一座巨大的棕榈树形状人工岛，让海岸线一下子多出了好几公里的全新沙滩。全世界的人看着从太空拍下的照片，都几乎不敢相信这是真的。",
+      "但迪拜从没忘记自己从哪里来。从闪闪发光的摩天大楼走几分钟，就能看到叫“阿布拉”的木船，仍像一百年前那样在河口上来来往往地摆渡乘客。从金色的高楼走到古老的香料市场，你会觉得自己在一个下午里穿越了两个世纪。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "부르즈 할리파는 지구에서 가장 높은 건물이에요. 높이가 828미터나 돼서, 위쪽 층에서는 구름이 아래로 떠다니는 걸 볼 수 있어요.",
+      "팜 주메이라는 야자나무 모양 그대로 만든 인공 섬이에요. 우주에서도 또렷이 보일 만큼 크답니다.",
+      "백 년도 안 된 옛날, 두바이는 산소통도 없이 숨 한 번 크게 참고 바닷속에서 진주를 캐던 작은 마을이었어요.",
+      "스키 두바이에는 뜨거운 사막 한가운데인데도 진짜 눈이 쌓인 실내 슬로프가 있어요.",
+      "'아브라'라는 나무배가 지금도 백 년 전처럼 사람들을 태우고 두바이 크리크를 오가고 있어요.",
+      "부르즈 알 아랍 호텔은 커다란 돛 모양으로 생겼고, 바다 위 자기만의 작은 섬에 자리하고 있어요."
+    ],
+    "en": [
+      "Burj Khalifa is the tallest building on Earth—828 meters high—so tall that clouds sometimes float past its upper floors.",
+      "Palm Jumeirah is a man-made island shaped exactly like a palm tree, big enough to see clearly from space.",
+      "Less than 100 years ago, Dubai was a small village where people dived for pearls without any oxygen tanks—just one big breath!",
+      "Ski Dubai has a real snow slope inside a giant indoor building—even though it's in the middle of the hot desert.",
+      "Wooden boats called abras still ferry passengers across Dubai Creek today, just like they did a century ago.",
+      "The Burj Al Arab hotel is shaped like a giant sail and sits on its own tiny island in the sea."
+    ],
+    "ja": [
+      "ブルジュ・ハリファは地球でいちばん高いビル。高さは828メートルもあり、上の階では雲が下に浮かんで見えることもあります。",
+      "パーム・ジュメイラは、ヤシの木そっくりの形に作られた人工島。宇宙からもはっきり見えるほど大きいんです。",
+      "100年もたたない昔、ドバイは酸素ボンベもなしに、大きく息を止めて海にもぐり真珠をとっていた小さな村でした。",
+      "スキー・ドバイには、暑い砂漠のど真ん中なのに本物の雪がつもる室内スロープがあります。",
+      "『アブラ』という木の船が、今も100年前と同じように人々を乗せてドバイ・クリークを行き来しています。",
+      "ブルジュ・アル・アラブというホテルは大きな帆の形をしていて、海の上の自分専用の小さな島に建っています。"
+    ],
+    "zh": [
+      "哈利法塔是世界上最高的建筑，高达828米，上面楼层有时甚至能看到云朵飘在脚下。",
+      "棕榈岛是一座人工岛屿，形状和棕榈树一模一样，大到从太空都能清楚看见。",
+      "不到一百年前，迪拜还是个小渔村，人们没有氧气瓶，只靠屏住一大口气潜水采珍珠。",
+      "迪拜滑雪场在炎热沙漠正中央，室内却真的铺着积雪的滑雪道。",
+      "名叫“阿布拉”的木船，至今仍像一百年前一样载着乘客穿梭在迪拜河口上。",
+      "帆船酒店造型像一张鼓起的巨大风帆，坐落在海上属于自己的一座小岛上。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "네가 섬을 하나 만들 수 있다면, 어떤 모양으로 만들고 싶어?",
+    "en": "If you could build a whole island shaped like anything you wanted, what shape would you choose?",
+    "ja": "もし自分だけの島を作れるとしたら、どんな形の島にしたい？",
+    "zh": "如果可以造一座属于你自己的岛，你想把它建成什么形状？"
+  },
+  "places": [
+    {
+      "name": { "ko": "부르즈 할리파", "en": "Burj Khalifa", "ja": "ブルジュ・ハリファ", "zh": "哈利法塔" },
+      "blurb": {
+        "ko": "세계에서 가장 높은 건물로, 하늘 위 828미터까지 솟아 있어요. 엘리베이터를 타고 올라가면 구름이 아래로 떠다니는 모습을 볼 수도 있어요. 밤이 되면 화려한 조명 쇼와 불꽃놀이로 반짝인답니다.",
+        "en": "The tallest building in the world, reaching over 828 meters into the sky. Ride the elevator up and you might see clouds floating below you. At night, it lights up with dazzling shows of color and fireworks.",
+        "ja": "世界でいちばん高いビルで、空へ828メートル以上そびえています。エレベーターで上がると、雲が下に浮かんで見えることも。夜になると、色とりどりのライトショーと花火で輝きます。",
+        "zh": "世界上最高的建筑，高耸入云超过828米。乘电梯登上塔顶，你甚至可能看到云朵飘在脚下。到了夜晚，绚丽的灯光秀和烟花会让它闪闪发光。"
+      },
+      "coords": [25.1972, 55.2744]
+    },
+    {
+      "name": { "ko": "팜 주메이라", "en": "Palm Jumeirah", "ja": "パーム・ジュメイラ", "zh": "棕榈岛" },
+      "blurb": {
+        "ko": "바다에 모래를 쌓아 만든, 커다란 야자나무 모양의 섬이에요. '줄기'와 '잎사귀' 자리마다 몇십 년 전엔 없던 집과 호텔, 해변이 들어서 있죠.",
+        "en": "A whole island shaped like a giant palm tree, built by piling sand into the sea. Its \"trunk\" and \"fronds\" hold homes, hotels, and beaches that didn't exist a few decades ago.",
+        "ja": "海に砂を積み上げて作った、巨大なヤシの木の形の島。『幹』や『葉』の部分には、数十年前にはなかった家やホテル、ビーチが並んでいます。",
+        "zh": "靠向大海中堆积沙土建成的巨大棕榈树形状岛屿。“树干”和“树叶”上，如今布满了几十年前根本不存在的住宅、酒店和海滩。"
+      },
+      "coords": [25.1124, 55.1390]
+    },
+    {
+      "name": { "ko": "알 파히디 역사 지구 & 두바이 크리크", "en": "Al Fahidi Historic District & Dubai Creek", "ja": "アル・ファヒディ歴史地区とドバイ・クリーク", "zh": "阿尔法希迪历史街区与迪拜河口" },
+      "blurb": {
+        "ko": "바람탑이 있는 옛 골목을 거닐다가, 나무배 '아브라'를 타고 백 년 전 상인들처럼 크리크를 건너보세요. 초고층 빌딩이 생기기 전 두바이의 이야기를 가장 잘 느낄 수 있는 곳이에요.",
+        "en": "Wander narrow lanes of old wind-tower houses, then hop on a wooden abra boat to cross the creek exactly like traders did a hundred years ago. It's the best place to feel Dubai's story before the skyscrapers.",
+        "ja": "風の塔が立ちならぶ昔ながらの路地を歩いたら、木の船『アブラ』に乗って、100年前の商人たちと同じようにクリークを渡ってみましょう。超高層ビルができる前のドバイの物語を、いちばん感じられる場所です。",
+        "zh": "先漫步在带风塔的老巷子里，再登上木船“阿布拉”，像一百年前的商人一样渡过河口。这里是感受迪拜在摩天大楼出现之前的故事的最佳地点。"
+      },
+      "coords": [25.2637, 55.2972]
+    },
+    {
+      "name": { "ko": "부르즈 알 아랍", "en": "Burj Al Arab", "ja": "ブルジュ・アル・アラブ", "zh": "帆船酒店" },
+      "blurb": {
+        "ko": "바람에 부푼 돛 모양을 한 호텔로, 해변 옆 자신만의 인공 섬 위에 지어졌어요. 한때 세계에서 가장 높은 호텔이었고, 지구에서 가장 많이 사진 찍히는 건물 중 하나랍니다.",
+        "en": "A hotel shaped like a billowing sail, built on its own man-made island just off the beach. It was once the tallest hotel in the world and is one of the most photographed buildings on Earth.",
+        "ja": "風にふくらむ帆のような形をしたホテルで、ビーチのそばの自分だけの人工島に建っています。かつて世界一高いホテルで、地球でもっとも写真に撮られる建物の一つです。",
+        "zh": "一座形似鼓起风帆的酒店，建在海边属于自己的人工岛上。它曾是世界上最高的酒店，也是地球上被拍照最多的建筑之一。"
+      },
+      "coords": [25.1412, 55.1853]
+    }
+  ]
+}

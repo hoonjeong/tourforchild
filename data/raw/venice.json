@@ -1,0 +1,120 @@
+{
+  "id": "venice",
+  "country": "it",
+  "coords": [45.4408, 12.3155],
+  "name": { "ko": "베네치아", "en": "Venice", "ja": "ヴェネツィア", "zh": "威尼斯" },
+  "tagline": {
+    "ko": "물 위에 둥둥 떠 있는 도시, 백만 개의 나무 말뚝이 떠받치고 있어요",
+    "en": "The city that floats on water—built on a million wooden stilts",
+    "ja": "水の上に浮かぶ街、百万本の木の杭が支えている",
+    "zh": "漂浮在水面上的城市——由上百万根木桩撑起"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 1500년도 더 전에 이탈리아 해안가에 살던 사람들은 북쪽에서 쳐들어오는 무서운 침입자들에게 자꾸만 공격을 받았어요. 그래서 사람들은 대담한 결심을 했답니다. 아무도 거들떠보지 않던 늪지 같은 석호(라군)로 도망쳐, 그 물 위에 아예 집을 짓기 시작한 거예요. 그렇게 물 위의 피난처가 자라나 오늘날의 '베네치아'가 되었답니다.",
+      "늪 위에 도시를 세운다니 말도 안 되는 소리 같지만, 베네치아 사람들에게는 기막힌 비법이 있었어요. 수백만 개의 커다란 나무 기둥을 진흙 속 단단한 땅에 닿을 때까지 깊이깊이 박아 넣고, 그 위에 돌 건물을 세운 거예요. 나무가 물속에 잠긴 채 공기를 만나지 않으니 썩지 않고 오히려 돌처럼 단단해져서, 천 년이 넘도록 베네치아를 든든히 떠받치고 있답니다.",
+      "베네치아는 향신료와 비단, 금을 먼 나라들과 사고팔며 어마어마한 부자 도시가 되었고, '도제'라는 지도자가 다스리는 세상에서 가장 힘센 도시 중 하나로 성장했어요. 베네치아 출신인 마르코 폴로는 배와 걸음으로 저 멀리 중국까지 다녀와서는, 전혀 새로운 세상 이야기를 잔뜩 들려주었답니다. 얼마나 신기했던지 처음엔 아무도 믿지 않았대요!",
+      "오늘날에도 베네치아에는 자동차가 다닐 길이 없어요. 온통 운하뿐이라 사람들은 배를 타거나, 수백 개의 작은 다리를 건너 걸어 다닌답니다. 곤돌라 뱃사공은 노를 저으며 오래된 궁전들 사이로 노래를 부르고, 카니발이 열리면 가면을 쓴 사람들이 거리를 빙글빙글 춤추며 누비죠. 그리고 가끔씩 바닷물이 산마르코 광장까지 차오르며, 이 마법 같은 도시가 지금도 물 위에 둥둥 떠 있다는 걸 알려준답니다."
+    ],
+    "en": [
+      "Long ago, more than 1,500 years ago, people living near the coast of Italy were being attacked again and again by fierce invaders from the north. So they did something bold: they ran into a swampy, watery lagoon that nobody else wanted, and started building their homes right on top of the water. That watery hideout grew into Venice.",
+      "Building a city on a swamp sounds impossible, but the Venetians found a clever trick. They pounded millions of wooden tree trunks straight down into the mud until they hit solid ground, then built stone buildings on top of that hidden underwater forest. Because the wood never touched air, it never rotted—it slowly turned rock-hard instead, holding Venice up for over a thousand years.",
+      "Venice grew so rich from trading spices, silk, and gold with faraway lands that it became one of the most powerful city-states in the world, ruled by a leader called the Doge. A Venetian named Marco Polo sailed and walked all the way to China and came home with amazing stories of a whole new world—stories so wild that at first nobody believed him!",
+      "Today Venice still has no roads for cars—only canals, so people get around by boat or on foot across hundreds of little bridges. Gondoliers sing as they row past grand old palaces, masked dancers twirl through the streets every Carnival, and every so often the sea rises right up into St. Mark's Square, reminding everyone that this whole magical city is still floating on water."
+    ],
+    "ja": [
+      "はるか昔、1500年以上前、イタリアの海辺に住んでいた人々は、北からやってくる恐ろしい侵入者に何度も襲われていました。そこで人々は大胆な決断をします。だれも見向きもしなかった、じめじめした潟（ラグーン）へ逃げこみ、その水の上に家を建て始めたのです。その水上の隠れ家が育って、今の『ヴェネツィア』になりました。",
+      "沼の上に街を建てるなんて無理な話に思えますが、ヴェネツィアの人々にはとっておきの工夫がありました。何百万本もの太い木の杭を、どろの下の固い地面に届くまで深く打ちこみ、その上に石の建物を建てたのです。木は水の中で空気にふれないので腐らず、逆に石のように硬くなり、千年以上もヴェネツィアを支え続けています。",
+      "ヴェネツィアは香辛料や絹、金を遠い国々と取り引きして大金持ちの街になり、『ドージェ』と呼ばれる指導者が治める、世界でも屈指の強い都市国家に成長しました。ヴェネツィア出身のマルコ・ポーロは、船と徒歩ではるばる中国まで旅をし、帰ってきて全く新しい世界の話をたくさん聞かせてくれました。あまりに不思議な話だったので、はじめはだれも信じなかったそうです！",
+      "今もヴェネツィアには車が通る道路がありません。あるのは運河ばかりなので、人々は船に乗るか、何百もの小さな橋をわたって歩きます。ゴンドラの船頭は古い宮殿の間を歌いながらこぎ進み、カーニバルの季節には仮面をつけた人々が街をくるくる踊り歩きます。そして時おり海水がサン・マルコ広場までせり上がり、この魔法のような街が今も水の上に浮かんでいることを教えてくれるのです。"
+    ],
+    "zh": [
+      "很久很久以前，一千五百多年前，住在意大利海边的人们一次又一次遭到北方凶猛入侵者的袭击。于是他们做了一个大胆的决定：逃进一片谁都不要的沼泽泻湖里，直接在水面上盖起房子。这个水上的避难所渐渐长大，变成了今天的“威尼斯”。",
+      "在沼泽上建一座城市，听起来根本不可能，但威尼斯人想出了一个聪明的办法。他们把几百万根粗大的木桩深深打进淤泥，一直打到坚硬的地层，再在这片藏在水下的“木头森林”上盖起石头房子。因为木头一直浸在水里、接触不到空气，所以不但没有腐烂，反而变得像石头一样坚硬，撑起威尼斯已经一千多年了。",
+      "威尼斯靠着与遥远国度买卖香料、丝绸和黄金变得富甲一方，成长为世界上最强大的城邦之一，由被称为“总督”的领袖统治。一位名叫马可·波罗的威尼斯人，靠着航海和步行一路来到中国，回来后讲述了许多闻所未闻的新奇故事——故事实在太离奇，一开始根本没人相信他！",
+      "直到今天，威尼斯依然没有汽车能走的道路，到处都是运河，人们只能乘船，或穿过数百座小桥步行往来。贡多拉船夫一边划船，一边穿过古老的宫殿唱起歌来；每逢狂欢节，戴着面具的人们就在街头翩翩起舞。海水偶尔还会涨到圣马可广场上，提醒着大家：这座神奇的城市至今仍然漂浮在水面上。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "베네치아는 100개가 넘는 작은 섬들이 약 400개의 다리로 이어져 만들어진 도시예요.",
+      "도시 전체가 진흙 속에 박은 수백만 개의 나무 말뚝 위에 서 있는데, 물속에 잠겨 있어서 오히려 썩지 않았대요.",
+      "옛 시가지에는 자동차가 다닐 도로가 하나도 없어요. 이동 수단은 오직 배와 두 다리뿐이랍니다.",
+      "역사상 가장 유명한 탐험가 중 한 명인 마르코 폴로는 베네치아에서 태어나 실크로드를 따라 중국까지 여행했어요.",
+      "카니발 때 쓰는 화려한 가면은, 원래 귀족들이 누군지 들키지 않고 몰래 거리를 돌아다니려고 시작된 전통이래요!",
+      "베네치아는 서서히 가라앉고 바닷물은 점점 높아져서, '아쿠아 알타(높은 물)'가 오면 산마르코 광장까지 파도가 밀려오기도 해요."
+    ],
+    "en": [
+      "Venice is built on more than 100 small islands, all tied together by around 400 bridges.",
+      "The whole city stands on millions of wooden piles hammered into the mud—being underwater actually kept the wood from rotting.",
+      "There's not a single road for cars in the historic center—boats and your own two feet are the only way to get around.",
+      "Marco Polo, one of history's most famous explorers, was born in Venice and traveled all the way to China along the Silk Road.",
+      "During Carnival, people wear beautifully decorated masks—a tradition that started so nobles could wander the city without anyone knowing who they were!",
+      "Venice is slowly sinking while the sea rises, so during 'acqua alta' (high water), waves sometimes splash right across St. Mark's Square."
+    ],
+    "ja": [
+      "ヴェネツィアは100以上の小さな島々が、約400の橋でつながってできた街です。",
+      "街全体は泥の中に打ちこまれた何百万本もの木の杭の上に立っていて、水にずっと沈んでいたおかげで腐らずにすんだそうです。",
+      "旧市街には車が通れる道路が一本もありません。移動手段は船と自分の足だけなんです。",
+      "歴史上もっとも有名な探検家の一人マルコ・ポーロは、ヴェネツィア生まれで、シルクロードをたどって中国まで旅をしました。",
+      "カーニバルで使う美しい仮面は、もともと貴族が正体を知られずに街を歩けるように始まった習わしなんです！",
+      "ヴェネツィアは少しずつ沈み、海面は少しずつ上がっているので、『アクア・アルタ（高潮）』のときはサン・マルコ広場にまで波が押しよせることがあります。"
+    ],
+    "zh": [
+      "威尼斯由100多座小岛组成，靠大约400座桥梁连接在一起。",
+      "整座城市站立在数百万根打入淤泥的木桩上，因为一直泡在水里、碰不到空气，木头反而没有腐烂。",
+      "老城区里没有一条汽车能走的路，出行只能靠船和自己的双脚。",
+      "历史上最著名的探险家之一马可·波罗就出生在威尼斯，他沿着丝绸之路一路旅行到了中国。",
+      "狂欢节上华丽的面具，最初是贵族们为了不被认出、能悄悄逛街而兴起的传统！",
+      "威尼斯正在慢慢下沉，海平面却在慢慢上升，所以每逢“高水位”（acqua alta），海浪有时会一直涌上圣马可广场。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도로가 하나도 없고 온통 물뿐인 도시라니! 학교에 가거나 장을 봐 오려면 사람들은 대체 어떻게 다닐까?",
+    "en": "A whole city with no roads for cars—only water everywhere. How do you think people get to school, or bring home groceries?",
+    "ja": "道路が一本もなくて、まわりぜんぶ水の街だって！学校に行ったり、買い物をしたりするとき、みんなどうやって移動すると思う？",
+    "zh": "整座城市没有一条路，到处都是水！你觉得人们要怎么上学、怎么把买的东西带回家呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "산마르코 광장과 대성당", "en": "St. Mark's Square & Basilica", "ja": "サン・マルコ広場と大聖堂", "zh": "圣马可广场与大教堂" },
+      "blurb": {
+        "ko": "카페와 수많은 비둘기로 둘러싸인 베네치아의 커다란 응접실 같은 광장이에요. 대성당 안에 들어가면 황금빛 모자이크가 머리 위에서 반짝반짝 빛나요. '아쿠아 알타'가 오면 바닷물이 가장 먼저 찾아오는 곳이기도 하답니다!",
+        "en": "Venice's grand front room, ringed by cafés and thousands of fluttering pigeons. Inside the basilica, golden mosaics shimmer overhead like a treasure chest turned inside out. During 'acqua alta,' this is the very first place the sea comes to visit!",
+        "ja": "カフェと無数のハトに囲まれた、ヴェネツィアの大きな『応接間』のような広場です。大聖堂の中に入ると、頭上で金色のモザイクがきらきら輝いています。『アクア・アルタ』のとき、海水がまっ先にやってくる場所でもあります！",
+        "zh": "这里是威尼斯的“大客厅”，周围环绕着咖啡馆和成群的鸽子。走进大教堂，头顶金光闪闪的马赛克像打开的宝箱一样耀眼。每逢“高水位”，海水总是最先光顾这里！"
+      },
+      "coords": [45.4341, 12.3388]
+    },
+    {
+      "name": { "ko": "두칼레 궁전(도제의 궁전)", "en": "Doge's Palace", "ja": "ドゥカーレ宮殿（ドージェの宮殿）", "zh": "总督宫" },
+      "blurb": {
+        "ko": "분홍빛과 하얀빛이 어우러진 이 궁전은 천 년 넘게 베네치아를 다스린 강력한 지도자 '도제'가 살던 곳이에요. 옆 감옥과 이어진 유명한 돌다리는, 죄수들이 마지막으로 건너며 한숨을 쉬었다고 해서 '탄식의 다리'라고 불린답니다.",
+        "en": "This pink-and-white palace was home to the Doge, the powerful leader who ruled Venice for over a thousand years. A famous stone bridge connects it to the old prison next door—people called it the 'Bridge of Sighs' because of how prisoners felt crossing it one last time.",
+        "ja": "ピンクと白の美しいこの宮殿は、千年以上ヴェネツィアを治めた強力な指導者『ドージェ』が暮らした場所です。隣の牢獄とつながる有名な石橋は、囚人たちが最後に渡るときにため息をついたことから『ため息の橋』と呼ばれています。",
+        "zh": "这座粉白相间的宫殿，是统治威尼斯超过千年的强大领袖“总督”居住的地方。旁边有座连接古老监狱的著名石桥，因为囚犯们最后一次走过时都会叹息，所以被称为“叹息桥”。"
+      },
+      "coords": [45.4335, 12.3401]
+    },
+    {
+      "name": { "ko": "리알토 다리", "en": "Rialto Bridge", "ja": "リアルト橋", "zh": "里阿尔托桥" },
+      "blurb": {
+        "ko": "대운하를 가로지르는 가장 오래된 다리로, 어찌나 넓은지 다리 위에 길이 세 갈래나 있고 작은 상점들까지 줄지어 있어요. 수백 년 동안 이곳은 향신료와 비단, 금을 흥정하던 베네치아 무역의 심장이었답니다.",
+        "en": "The oldest bridge across the Grand Canal, so wide it has three walkways and rows of little shops right on top of it. For centuries, this was the busy beating heart of Venice's trading world—merchants haggled here over spices, silk, and gold.",
+        "ja": "大運河にかかる最も古い橋で、とても幅が広く、通路が三つもあり、橋の上には小さなお店がずらりと並んでいます。何世紀ものあいだ、ここは香辛料や絹、金を取り引きする、ヴェネツィアの商いのにぎやかな中心地でした。",
+        "zh": "这是横跨大运河最古老的桥，宽到桥上有三条通道，还排着一排排小店铺。几百年来，这里都是威尼斯贸易世界热闹的心脏地带——商人们在这里讨价还价买卖香料、丝绸和黄金。"
+      },
+      "coords": [45.4380, 12.3358]
+    },
+    {
+      "name": { "ko": "무라노 섬", "en": "Murano Island", "ja": "ムラーノ島", "zh": "穆拉诺岛" },
+      "blurb": {
+        "ko": "700년도 넘게 유리 장인들이 녹인 유리를 소용돌이치는 조각상과 반짝이는 구슬로 빚어온 작은 섬이에요. 옛날에는 이 비법을 지키려고 유리 장인들이 섬을 떠나는 것조차 금지되었대요!",
+        "en": "A little island where glassblowers have shaped melted glass into swirling sculptures and sparkling beads for over 700 years. Long ago, Venice was so protective of the secret that glassmakers were forbidden to ever leave the island!",
+        "ja": "700年以上前から、職人たちが溶けたガラスを渦巻く彫刻やきらめくビーズに仕上げてきた小さな島です。昔はこの秘密を守るため、ガラス職人が島から出ることさえ禁じられていたそうです！",
+        "zh": "这座小岛上，工匠们用融化的玻璃塑造出旋转的雕塑和闪亮的珠子，这门手艺已经传承了700多年。很久以前，为了保守这个秘密，玻璃工匠甚至被禁止离开小岛！"
+      },
+      "coords": [45.4585, 12.3505]
+    }
+  ]
+}

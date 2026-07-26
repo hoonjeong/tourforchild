@@ -1,0 +1,120 @@
+{
+  "id": "puntacana",
+  "country": "do",
+  "coords": [18.5601, -68.3725],
+  "name": { "ko": "푼타 카나", "en": "Punta Cana", "ja": "プンタ・カナ", "zh": "蓬塔卡纳" },
+  "tagline": {
+    "ko": "하얀 모래 해변이 끝없이 펼쳐지고, 고대 동굴과 숨은 호수, 돌고래가 함께 사는 해안",
+    "en": "Miles of powder-white beach where ancient caves, hidden lagoons, and dolphins share the coast",
+    "ja": "真っ白な砂浜が延々と続き、古代の洞窟や隠れた湖、イルカたちが暮らす海岸",
+    "zh": "绵延雪白沙滩之上，古老洞穴、隐秘湖泊与海豚共同守护的海岸"
+  },
+  "story": {
+    "ko": [
+      "리조트가 생기기 훨씬 전, 이 해안에는 '타이노'라는 사람들이 살았어요. 이 바다에서 물고기를 잡으며 자신들의 섬을 '키스케야', 즉 '모든 땅의 어머니'라고 불렀죠. 근처 숨겨진 동굴 속 돌벽에는 태양, 얼굴, 신비로운 생명체를 새겨 놓았는데, 수천 년이 지난 지금도 방문객들을 내려다보고 있답니다.",
+      "이 해안은 오랫동안 야생 그대로, 조용했어요. 야자수와 하얀 모래, 몇 킬로미터씩 이어지는 청록빛 바다뿐, 그걸 보는 사람은 거의 없었죠. 약 50년 전이 되어서야 사람들이 이 해안이 얼마나 아름다운지 다시 발견했고, 조금씩 세계에서 가장 유명한 해변 휴양지 중 하나로 자라났답니다.",
+      "하지만 진짜 마법은 안쪽 정글에 숨어 있어요. 그곳에는 나무들 사이로 담수 호수 열두 개가 숨어 있는데, 어찌나 맑고 동그란지 사람들은 이곳을 '오호스 인디헤나스', 즉 '원주민의 눈'이라고 불러요. 하늘에서 내려다보면 정말로 초록빛 사이로 깜빡이는 눈 한 쌍처럼 보이거든요.",
+      "그리고 바로 앞바다에는 또 다른 신비가 숨어 있어요. 야생 돌고래들이 파도 사이로 뛰어오르고, 배를 타고 조금만 가면 '사오나 섬'이 나오는데, 물이 어찌나 얕은지 바다 한가운데 서서 발밑에 쉬고 있는 불가사리를 구경할 수도 있답니다."
+    ],
+    "en": [
+      "Long before any resort stood here, the Taino people lived along this coast, fishing these waters and calling their island 'Quisqueya' — mother of all lands. Deep in hidden caves nearby, they carved pictures into the stone walls: suns, faces, and creatures that still look down on visitors today, thousands of years later.",
+      "For a long time, this stretch of coastline stayed wild and quiet — just coconut trees, white sand, and turquoise water rolling in for miles and miles, with hardly anyone around to see it. It wasn't until about 50 years ago that people rediscovered how beautiful this coast truly was, and little by little, it grew into one of the most famous beach destinations in the world.",
+      "But the real magic hides inland, in the jungle. There, twelve freshwater lagoons sit tucked among the trees, so clear and round that people named them 'Ojos Indigenas' — the Indigenous Eyes — because from above, they really do look like a pair of eyes blinking up through the green.",
+      "And just offshore, the ocean holds its own wonders: pods of wild dolphins leaping through the waves, and a short boat ride away, an island called Saona with a sandbar so shallow you can stand in the sea and watch starfish resting on the sand beneath your feet."
+    ],
+    "ja": [
+      "リゾートができるずっと前、この海岸には『タイノ』と呼ばれる人々が暮らしていました。彼らはこの海で魚をとりながら、自分たちの島を『キスケヤ』、つまり『すべての土地の母』と呼んでいました。近くの隠れた洞窟の石壁には、太陽や顔、不思議な生き物が刻まれていて、何千年たった今でも訪れる人々を見下ろしています。",
+      "この海岸は長い間、野生のまま静かでした。ヤシの木と白い砂、何キロも続くターコイズブルーの海――それを見る人はほとんどいませんでした。約50年前になってようやく、人々はこの海岸がどれほど美しいかを再発見し、少しずつ世界でもっとも有名なビーチリゾートの一つへと育っていったのです。",
+      "でも本当の魔法は、内陸のジャングルに隠れています。そこには木々の間に12の淡水の湖がひっそりとあり、あまりに澄んで丸いので、人々はここを『オホス・インディヘナス』、『先住民の目』と呼びました。上空から見ると、本当に緑の中でまばたきする一対の目のように見えるのです。",
+      "そして沖合いにも、海ならではの驚きがあります。野生のイルカの群れが波の間をジャンプし、少しボートに乗れば『サオナ島』にたどり着きます。そこは海がとても浅いので、海の中に立ったまま、足元で休むヒトデを眺めることもできるのです。"
+    ],
+    "zh": [
+      "在度假村出现之前很久，这片海岸就住着“泰诺人”。他们在这片海里捕鱼，把自己的岛屿称为“基斯克亚”，意思是“万地之母”。附近隐秘的洞穴石壁上，他们刻下了太阳、面孔和奇异生物的图案，几千年过去了，如今依然俯视着来访的游客。",
+      "这片海岸曾长期保持着原始而安静的模样——椰子树、白沙滩，还有绵延数公里的绿松石色海水，几乎没有人来欣赏它。直到大约50年前，人们才重新发现了这片海岸的美丽，渐渐地，它成长为世界上最著名的海滩度假胜地之一。",
+      "但真正的魔法，藏在内陆的丛林深处。那里，十二片淡水湖泊静静地散布在林木之间，清澈得如此浑圆，人们把它们称为“印第安人之眼”——因为从空中俯瞰，它们真的就像一双在绿色丛林中眨动的眼睛。",
+      "而在不远的海面上，还藏着大海自己的奇迹：成群的野生海豚跃出波浪，再乘一小段船，就能抵达一座叫“绍纳岛”的小岛，那里海水浅得可以站在海中央，低头就能看到脚边歇息的海星。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "이곳에 처음 살던 타이노 사람들은 자신들의 섬을 '키스케야', 즉 '모든 땅의 어머니'라고 불렀어요.",
+      "근처 숨겨진 동굴 안에는 수천 년 된 타이노족의 암각화가 남아 있어요. 태양, 얼굴, 동물 그림이 아직도 돌 위에 뚜렷하게 남아 있답니다.",
+      "푼타 카나에는 30킬로미터가 넘는 하얀 모래 해변이 펼쳐져 있어요. 카리브해에서도 손꼽히게 긴 해변이랍니다.",
+      "정글 속에는 '오호스 인디헤나스(원주민의 눈)'라는 동그란 담수 호수 열두 개가 있는데, 하늘에서 보면 정말 눈 한 쌍처럼 보여요.",
+      "앞바다에는 야생 돌고래 무리가 헤엄치는데, 배를 타면 돌고래가 옆에서 뛰어오르는 모습을 볼 때도 있어요.",
+      "사오나 섬 근처 바다는 아주 얕고 잔잔해서, 물속을 걸어 들어가면 모랫바닥에서 쉬고 있는 야생 불가사리를 직접 볼 수 있어요."
+    ],
+    "en": [
+      "The Taino people who first lived here called their island 'Quisqueya,' meaning 'mother of all lands.'",
+      "Hidden caves nearby hold Taino rock carvings thousands of years old — pictures of suns, faces, and animals still visible on the stone.",
+      "Punta Cana has more than 30 kilometers of white-sand beach, among the longest stretches of beach in the Caribbean.",
+      "In the jungle, twelve round freshwater lagoons called 'Ojos Indigenas' (Indigenous Eyes) look just like a pair of eyes when seen from above.",
+      "Wild dolphin pods swim in the waters offshore, and boats sometimes spot them leaping alongside.",
+      "Near Saona Island, the sea is so shallow and calm that you can wade out and see wild starfish resting right on the sandy bottom."
+    ],
+    "ja": [
+      "ここに最初に住んでいたタイノの人々は、自分たちの島を『キスケヤ』、つまり『すべての土地の母』と呼んでいました。",
+      "近くの隠れた洞窟には、何千年も前のタイノ族の岩絵が残っています。太陽や顔、動物の絵が今も石にはっきりと残っているのです。",
+      "プンタ・カナには30キロメートル以上の白い砂浜が広がっています。カリブ海でも指折りの長さのビーチです。",
+      "ジャングルの中には『オホス・インディヘナス（先住民の目）』と呼ばれる丸い淡水の湖が12個あり、上空から見ると本当に一対の目のように見えます。",
+      "沖合いには野生のイルカの群れが泳いでいて、ボートに乗るとイルカが横でジャンプする姿を見られることもあります。",
+      "サオナ島近くの海はとても浅く穏やかで、水の中を歩いていくと、砂の底で休む野生のヒトデを直接見ることができます。"
+    ],
+    "zh": [
+      "最早住在这里的泰诺人，把自己的岛屿称为“基斯克亚”，意思是“万地之母”。",
+      "附近隐秘的洞穴里，留有泰诺人几千年前刻下的岩画——太阳、面孔和动物的图案至今仍清晰可见。",
+      "蓬塔卡纳拥有超过30公里长的白沙海滩，是加勒比海地区最长的海滩之一。",
+      "丛林里有十二片圆形淡水湖泊，叫做“印第安人之眼”，从空中俯瞰，真的像一双眼睛。",
+      "近海处常有野生海豚成群游动，乘船出海时，有时能看到它们在船边跃起。",
+      "绍纳岛附近的海水又浅又平静，走进海里就能看到野生海星安静地趴在沙底上。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "이곳 정글 깊숙한 곳에는 너무 동그랗고 파래서 사람들이 '눈'이라고 부르는 호수가 있대. 왜 그런 이름이 붙었을까?",
+    "en": "Deep in the jungle here, there are lagoons so round and blue people call them \"eyes.\" Can you guess why?",
+    "ja": "このジャングルの奥深くには、あまりに丸くて青いので人々が『目』と呼ぶ湖があるんだって。どうしてそんな名前がついたのかな？",
+    "zh": "这里丛林深处有几片湖，又圆又蓝，人们叫它们“眼睛”。你能猜到为什么吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "오호스 인디헤나스 생태공원", "en": "Ojos Indigenas Ecological Park", "ja": "オホス・インディヘナス・エコロジカルパーク", "zh": "印第安人之眼生态公园" },
+      "blurb": {
+        "ko": "정글을 걷다 보면 담수 호수 열두 개를 만날 수 있어요. 물이 어찌나 맑은지 바닥까지 훤히 보이고, 하늘에서 보면 눈 모양처럼 생겼답니다.",
+        "en": "Hike through the jungle to find these twelve round freshwater lagoons — so clear you can see straight to the bottom, and shaped like eyes when viewed from above.",
+        "ja": "ジャングルを歩いていくと、12個の丸い淡水湖に出会えます。水がとても澄んでいて底まで見え、上空から見ると目の形をしています。",
+        "zh": "徒步穿过丛林，就能找到这十二片圆形淡水湖——湖水清澈见底，从空中俯瞰形似眼睛。"
+      },
+      "coords": [18.5233, -68.4028]
+    },
+    {
+      "name": { "ko": "로스 아이티세스 국립공원", "en": "Los Haitises National Park", "ja": "ロス・アイティセス国立公園", "zh": "海地塞斯国家公园" },
+      "blurb": {
+        "ko": "이곳 맹그로브 숲에 둘러싸인 동굴 깊숙한 곳에는 타이노 사람들이 수천 년 전에 태양과 얼굴, 신비한 생명체를 돌에 새겨 놓았어요. 지금도 배를 타고 가서 그 그림들을 직접 볼 수 있답니다.",
+        "en": "Deep in mangrove-lined caves here, Taino people carved suns, faces, and creatures into the stone thousands of years ago — drawings you can still see today by boat.",
+        "ja": "マングローブに囲まれたこの洞窟の奥深くには、タイノの人々が何千年も前に太陽や顔、不思議な生き物を石に刻みました。今でもボートに乗って、その絵を直接見ることができます。",
+        "zh": "在这片红树林环绕的洞穴深处，泰诺人几千年前就在石壁上刻下了太阳、面孔和奇异生物。如今乘船前往，依然能亲眼看到这些图案。"
+      },
+      "coords": [19.0667, -69.6167]
+    },
+    {
+      "name": { "ko": "사오나 섬", "en": "Saona Island", "ja": "サオナ島", "zh": "绍纳岛" },
+      "blurb": {
+        "ko": "배를 타고 조금만 가면 나오는 이 섬에는 바다가 아주 얕고 잔잔한 모래톱이 있어서, 바다 밑바닥에 쉬고 있는 야생 불가사리 사이를 걸어 다닐 수 있어요.",
+        "en": "A short boat ride away, this island has a sandbar so shallow and calm you can wade out among wild starfish resting on the seabed.",
+        "ja": "ボートで少し行くと着くこの島には、とても浅くて穏やかな砂州があり、海底で休む野生のヒトデの間を歩いて回ることができます。",
+        "zh": "乘船不远就能到达这座小岛，岛边的沙洲海水浅而平静，可以在海床上歇息的野生海星间涉水而行。"
+      },
+      "coords": [18.1667, -68.7000]
+    },
+    {
+      "name": { "ko": "바바로 해변", "en": "Bavaro Beach", "ja": "バヴァロ・ビーチ", "zh": "巴瓦罗海滩" },
+      "blurb": {
+        "ko": "푼타 카나 해안 중에서도 가장 아름다운 구간이에요. 바로 앞바다의 산호초가 파도를 막아줘서 물이 잔잔하고 맑아요. 알록달록한 물고기, 그리고 가끔은 지나가는 야생 돌고래도 구경할 수 있답니다.",
+        "en": "One of the most beautiful stretches of Punta Cana's coast, protected by a coral reef just offshore that keeps the water calm and clear — perfect for spotting colorful fish and, sometimes, wild dolphins passing by.",
+        "ja": "プンタ・カナの海岸の中でも特に美しい区間です。すぐ沖にあるサンゴ礁が波をさえぎってくれるので、水が穏やかで澄んでいます。色とりどりの魚、そして時には通りすぎる野生のイルカも見られます。",
+        "zh": "这里是蓬塔卡纳海岸线中最美的一段。近海的珊瑚礁挡住了风浪，让海水保持平静清澈，非常适合观赏五彩斑斓的鱼群，偶尔还能看到路过的野生海豚。"
+      },
+      "coords": [18.6667, -68.4167]
+    }
+  ]
+}

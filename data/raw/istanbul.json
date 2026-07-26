@@ -1,0 +1,120 @@
+{
+  "id": "istanbul",
+  "country": "tr",
+  "coords": [41.0082, 28.9784],
+  "name": { "ko": "이스탄불", "en": "Istanbul", "ja": "イスタンブール", "zh": "伊斯坦布尔" },
+  "tagline": {
+    "ko": "동시에 두 대륙 위에 서 있는 세계 유일의 도시",
+    "en": "The only city in the world standing on two continents at once",
+    "ja": "同時に二つの大陸にまたがる、世界でただ一つの街",
+    "zh": "同时横跨两大洲的世界唯一城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 두 바다가 만나는 좁은 땅에 그리스 뱃사람들이 작은 도시를 세우고 '비잔티움'이라 불렀어요. 이 도시는 '보스포루스 해협'이라는 좁은 물길을 사이에 두고 한쪽은 유럽, 한쪽은 아시아와 맞닿아 있었죠. 사방에서 오는 배들이 모두 이 해협을 지나야 했기 때문에, 도시는 순식간에 부유하고 중요한 곳이 되었답니다.",
+      "약 1700년 전, 로마 황제 콘스탄티누스는 이곳에 반해 새로운 수도로 삼고 '콘스탄티노폴리스'라는 이름을 붙였어요. 이후 수백 년 동안 거대한 제국의 자랑거리였던 이 도시에서는 '아야소피아'라는 거대한 돔 지붕의 교회가 세워졌는데, 무려 천 년 가까이 지구에서 가장 큰 건물이었대요.",
+      "그러다 1453년, 젊은 오스만 술탄이 배들을 기름 바른 통나무 위로 굴려 육지로 옮겨 항구를 기습했고, 긴 포위 끝에 콘스탄티노폴리스는 무너지고 말았어요. 오스만 사람들은 도시 이름을 '이스탄불'로 바꾸고, 아야소피아에 뾰족한 첨탑 네 개를 세워 모스크로 바꿨으며, 술탄들을 위한 화려한 '톱카프 궁전'을 새로 지었답니다.",
+      "오늘날 이스탄불은 여전히 세계에서 유일하게 두 대륙에 걸쳐 있는 도시예요. 유럽에서 아침을 먹고, 배를 타고 보스포루스 해협을 건너면 아시아에서 저녁을 먹을 수 있답니다! 거리와 시장 곳곳에는 친근한 고양이들이 어슬렁거리고, 미로 같은 '그랜드 바자르'에서는 500년 넘게 상인들이 같은 방식으로 물건을 팔고 있어요."
+    ],
+    "en": [
+      "Long, long ago, on a strip of land where two seas meet, Greek sailors built a small city and named it Byzantium. It sat right where a narrow strait called the Bosphorus divides two continents—Europe on one side, Asia on the other. Ships from every direction had to pass through this strait, so the city grew rich and important almost overnight.",
+      "About 1,700 years ago, a Roman emperor named Constantine fell in love with this spot and made it his new capital, renaming it Constantinople. For centuries it was the crown jewel of a vast empire, and its rulers built an enormous domed church called Hagia Sophia—so huge that for nearly a thousand years, no building on Earth was bigger.",
+      "Then, in 1453, a young Ottoman sultan sailed his ships over land on greased logs to sneak up on the city's harbor, and after a long siege, Constantinople fell. The Ottomans renamed the city Istanbul, turned Hagia Sophia into a mosque by adding four tall minarets, and built a dazzling new home for their sultans called Topkapi Palace.",
+      "Today, Istanbul is still the only city in the world sitting on two continents at once—you can have breakfast in Europe and, after a short ferry ride across the Bosphorus, eat dinner in Asia! Thousands of friendly cats wander its streets and markets, and in the maze-like Grand Bazaar, merchants have been selling treasures the same way for over 500 years."
+    ],
+    "ja": [
+      "はるか昔、二つの海が出会う細長い土地に、ギリシャの船乗りたちが小さな街を築き『ビザンティオン』と呼びました。この街は『ボスポラス海峡』という細い水路をはさんで、片側がヨーロッパ、片側がアジアと接していました。四方から来る船はすべてこの海峡を通らなければならなかったので、街はあっという間に豊かで大切な場所になったのです。",
+      "約1700年前、ローマ皇帝コンスタンティヌスがこの場所を気に入り、新しい都として『コンスタンティノープル』と名づけました。それから数百年、広大な帝国の誇りだったこの街には、『アヤソフィア』という巨大なドーム屋根の教会が建てられ、なんと千年近くもの間、地球でいちばん大きな建物だったそうです。",
+      "そして1453年、若きオスマンのスルタンが船を油を塗った丸太の上で転がして陸から港へ運び、奇襲をしかけました。長い包囲の末、コンスタンティノープルは陥落。オスマン人は街の名を『イスタンブール』に変え、アヤソフィアに四本の細い尖塔を建ててモスクに変え、スルタンたちのために豪華な『トプカプ宮殿』を新しく建てました。",
+      "今日のイスタンブールは、今も世界でただ一つ、二つの大陸にまたがる街です。ヨーロッパで朝ごはんを食べ、船でボスポラス海峡をわたれば、アジアで晩ごはんを食べられるんです！通りや市場には人なつっこい猫たちがのんびり歩き、迷路のような『グランドバザール』では500年以上も同じように商人たちが品物を売っています。"
+    ],
+    "zh": [
+      "很久很久以前，在两片海洋交汇的狭长地带，希腊水手们建起一座小城，取名“拜占庭”。这座城市正好夹在“博斯普鲁斯海峡”这条狭窄水道两侧，一边是欧洲，一边是亚洲。四面八方而来的船只都必须经过这条海峡，城市因此很快就变得富裕又重要。",
+      "大约1700年前，罗马皇帝君士坦丁爱上了这个地方，把它定为新都城，取名“君士坦丁堡”。此后几百年间，这座城市一直是庞大帝国的骄傲，人们还建起了一座巨大的圆顶教堂——“圣索菲亚大教堂”，它竟然做了近千年世界上最大的建筑！",
+      "到了1453年，一位年轻的奥斯曼苏丹让船只沿着涂满油的圆木从陆地滑行，绕道偷袭了港口。经过长时间围攻，君士坦丁堡最终陷落。奥斯曼人把城市改名为“伊斯坦布尔”，在圣索菲亚大教堂加建了四座细尖塔，把它变成清真寺，还为苏丹们建造了一座华丽的新家——“托普卡帕宫”。",
+      "今天，伊斯坦布尔依然是世界上唯一横跨两个大洲的城市。你可以在欧洲吃早餐，坐船跨过博斯普鲁斯海峡后，在亚洲吃晚餐！街道和市场里到处都是友善的猫咪悠闲漫步，在迷宫般的“大巴扎”里，商人们用同样的方式做生意已经超过500年。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "이스탄불은 보스포루스 해협을 사이에 두고 유럽과 아시아, 두 대륙에 걸쳐 있는 세계에서 유일한 도시예요.",
+      "아야소피아는 약 1500년 전, 요즘 같은 기계 하나 없이 지어졌는데도 거의 천 년 동안 지구에서 가장 큰 건물이었어요.",
+      "이 도시는 긴 역사 동안 이름이 세 번이나 바뀌었어요. 비잔티움 → 콘스탄티노폴리스 → 이스탄불 순서로요!",
+      "그랜드 바자르는 세계에서 가장 오래되고 큰 실내 시장 중 하나예요. 500년이 넘었고, 한 지붕 아래 가게가 수천 개나 있답니다.",
+      "이스탄불은 '고양이의 도시'로 유명해요. 수천 마리의 친근한 길고양이들이 살고, 사람들이 함께 돌봐준대요.",
+      "오스만 술탄들은 톱카프 궁전에서 약 400년을 살았고, 보물창고에는 에메랄드로 뒤덮인 단검과 86캐럿짜리 큰 다이아몬드가 있어요."
+    ],
+    "en": [
+      "Istanbul is the only city in the world that sits on two continents—Europe and Asia—split by the Bosphorus Strait.",
+      "Hagia Sophia was the largest building on Earth for almost 1,000 years, built about 1,500 years ago with no modern machines at all.",
+      "This one city has had three different names in its long history: Byzantium, then Constantinople, then Istanbul.",
+      "The Grand Bazaar is one of the world's oldest and biggest covered markets—over 500 years old, with thousands of shops under one roof.",
+      "Istanbul is famous as a 'cat city'—thousands of friendly street cats live there, and locals feed and care for them together.",
+      "Ottoman sultans lived in Topkapi Palace for about 400 years, and its treasury holds a giant emerald-covered dagger and an 86-carat diamond."
+    ],
+    "ja": [
+      "イスタンブールは、ボスポラス海峡をはさんでヨーロッパとアジアの二つの大陸にまたがる、世界でただ一つの街です。",
+      "アヤソフィアは、約1500年前、今のような機械が何もない時代に建てられたのに、ほぼ千年もの間、地球でいちばん大きな建物でした。",
+      "この街は長い歴史の中で名前が三回も変わりました。ビザンティオン → コンスタンティノープル → イスタンブール、の順番です！",
+      "グランドバザールは世界最古・最大級の屋根つき市場のひとつ。500年以上前からあり、ひとつ屋根の下にお店が何千軒もあります。",
+      "イスタンブールは『猫の街』として有名。人なつっこい野良猫が何千匹も暮らし、人々がみんなで面倒を見ています。",
+      "オスマンのスルタンたちはトプカプ宮殿でおよそ400年暮らし、宝物庫にはエメラルドで飾られた短剣や86カラットの大きなダイヤモンドがあります。"
+    ],
+    "zh": [
+      "伊斯坦布尔是世界上唯一横跨欧洲和亚洲两大洲的城市，中间隔着博斯普鲁斯海峡。",
+      "圣索菲亚大教堂大约建于1500年前，当时完全没有现代机械，却做了近千年世界上最大的建筑。",
+      "这座城市在漫长的历史中换过三次名字：拜占庭 → 君士坦丁堡 → 伊斯坦布尔！",
+      "大巴扎是世界上最古老、最大的室内市场之一，已有500多年历史，同一个屋顶下有数千家店铺。",
+      "伊斯坦布尔被称为“猫咪之城”，成千上万只友善的流浪猫生活在这里，居民们一起照顾它们。",
+      "奥斯曼苏丹们在托普卡帕宫住了大约400年，宝库里藏有镶满祖母绿的匕首和一颗86克拉的大钻石。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "유럽에서 아침을 먹고, 같은 날 아시아에서 저녁을 먹을 수 있다면 믿을 수 있겠어?",
+    "en": "Could you eat breakfast in Europe and dinner in Asia—on the very same day?",
+    "ja": "同じ日にヨーロッパで朝ごはん、アジアで晩ごはんを食べられるとしたら、信じられる？",
+    "zh": "如果同一天能在欧洲吃早餐、在亚洲吃晚餐，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "아야소피아", "en": "Hagia Sophia", "ja": "アヤソフィア", "zh": "圣索菲亚大教堂" },
+      "blurb": {
+        "ko": "거대한 돔이 있는 이 건물은 처음엔 교회였다가 모스크가 되었고, 지금은 누구나 찾아올 수 있는 곳이에요. 안으로 들어가 위를 올려다보면, 돔이 마치 아무것도 받치지 않은 듯 둥실 떠 있는 것처럼 보인답니다!",
+        "en": "This enormous domed building was first a church, then a mosque, and now welcomes visitors of every kind. Step inside and look up—the dome seems to float, almost like it has no support at all!",
+        "ja": "この巨大なドームの建物は、最初は教会、それからモスクになり、今では誰でも訪れることができます。中に入って見上げてみて。ドームがまるで何にも支えられていないみたいに、ふわりと浮いて見えますよ！",
+        "zh": "这座巨大的圆顶建筑先是教堂，后来变成清真寺，如今任何人都可以进去参观。走进去抬头看看，圆顶仿佛悬浮在空中，好像什么都没有支撑着它！"
+      },
+      "coords": [41.0086, 28.9802]
+    },
+    {
+      "name": { "ko": "톱카프 궁전", "en": "Topkapi Palace", "ja": "トプカプ宮殿", "zh": "托普卡帕宫" },
+      "blurb": {
+        "ko": "오스만 술탄들이 약 400년간 살았던 궁전이에요. 넓은 마당과 수천 명분의 음식을 만들던 부엌, 보석이 반짝이는 보물창고가 있어요. 커다란 에메랄드 단검과 유명한 86캐럿 다이아몬드를 찾아보는 재미가 쏠쏠하답니다.",
+        "en": "Home to Ottoman sultans for about 400 years, this palace has courtyards, kitchens that once fed thousands, and a treasury sparkling with jewels. Kids especially love spotting the huge emerald dagger and the famous 86-carat diamond.",
+        "ja": "オスマンのスルタンたちがおよそ400年暮らした宮殿。広い中庭や、何千人分もの食事を作った台所、宝石がきらめく宝物庫があります。大きなエメラルドの短剣や、有名な86カラットのダイヤモンドを探すのが子どもたちに大人気です。",
+        "zh": "奥斯曼苏丹们在这里住了大约400年。宫殿里有宽阔的庭院、曾为数千人做饭的大厨房，还有珠光宝气的宝库。孩子们最爱找那把巨大的祖母绿匕首和著名的86克拉大钻石。"
+      },
+      "coords": [41.0115, 28.9834]
+    },
+    {
+      "name": { "ko": "그랜드 바자르", "en": "Grand Bazaar", "ja": "グランドバザール", "zh": "大巴扎" },
+      "blurb": {
+        "ko": "돌 아치 지붕 아래 4000개가 넘는 가게가 빽빽이 모여 있는, 세계에서 가장 오래된 쇼핑몰 중 하나예요. 500년이 넘도록 같은 자리에서 상인들이 램프와 향신료, 카펫을 팔아왔답니다.",
+        "en": "One of the world's oldest shopping malls, with over 4,000 shops packed under covered stone arches. Merchants have been selling lamps, spices, and rugs here in the very same spot for more than 500 years.",
+        "ja": "石のアーチ屋根の下に4000店以上がぎっしり並ぶ、世界最古級のショッピングモール。500年以上も同じ場所で、商人たちがランプや香辛料、じゅうたんを売り続けています。",
+        "zh": "在石拱屋顶下挤满了4000多家店铺，是世界上最古老的购物中心之一。500多年来，商人们一直在同一个地方售卖油灯、香料和地毯。"
+      },
+      "coords": [41.0106, 28.9681]
+    },
+    {
+      "name": { "ko": "갈라타 탑", "en": "Galata Tower", "ja": "ガラタ塔", "zh": "加拉塔塔" },
+      "blurb": {
+        "ko": "이 높은 돌탑에 올라가면 보스포루스 해협을 사이에 두고 유럽과 아시아를 한눈에 볼 수 있어요. 전설에 따르면 옛날 한 남자가 날개를 달고 이 탑 꼭대기에서 해협 건너편까지 날아갔대요!",
+        "en": "Climb this tall stone tower and you can see both continents at once—Europe on one side of the Bosphorus, Asia shimmering on the other. Legend even says a man once strapped on wings and glided from its top all the way across the strait!",
+        "ja": "この高い石の塔にのぼると、ボスポラス海峡をはさんでヨーロッパとアジアの両方が一度に見られます。伝説では、昔ある男の人が翼をつけて塔のてっぺんから海峡の向こう岸まで飛んでいったそうですよ！",
+        "zh": "爬上这座高高的石塔，你能同时看到博斯普鲁斯海峡两岸的欧洲和亚洲。传说曾有一个人装上翅膀，从塔顶一路滑翔飞过了海峡！"
+      },
+      "coords": [41.0256, 28.9744]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "lucerne",
+  "country": "ch",
+  "coords": [47.0502, 8.3093],
+  "name": { "ko": "루체른", "en": "Lucerne", "ja": "ルツェルン", "zh": "卢塞恩" },
+  "tagline": {
+    "ko": "700년 된 나무다리와 산에 새겨진 사자가 있는 스위스 호숫가 마을",
+    "en": "The lakeside Swiss town with a 700-year-old wooden bridge and a lion carved into a mountain",
+    "ja": "700年前の木の橋と、山に彫られたライオンがあるスイスの湖畔の町",
+    "zh": "拥有七百年木桥与山崖狮子雕像的瑞士湖畔小镇"
+  },
+  "story": {
+    "ko": [
+      "새하얀 눈 덮인 산들이 빙 둘러싼 새파란 호수, 그리고 그 호수에서 초록빛 강물이 흘러나오는 자리에 아주 오래된 작은 마을이 있어요. 스위스 한가운데 있는 도시, 루체른이랍니다. 나무로 지은 집들이 강물 위로 살짝 기울어 서 있고, 선착장엔 배들이 둥둥 떠 있어요. 고개를 들면 뾰족한 산봉우리가 하늘에 닿을 듯 서 있죠. 이곳은 수백 년 동안 알프스에서 가장 아름다운 곳 중 하나로 손꼽혀 왔어요.",
+      "강 건너편에는 지붕이 빨간, 기다란 나무다리가 강물 위로 지그재그로 뻗어 있어요. '카펠교(예배당 다리)'라고 불리는 이 다리는 무려 1333년에 만들어졌는데, 유럽에서 지금까지 남아 있는 지붕 덮인 나무다리 중 가장 오래된 다리랍니다! 다리 지붕 안쪽에는 화가들이 백 개가 넘는 나무판에 루체른의 역사와 성인들의 이야기를 그려 넣었어요. 안타깝게도 1993년 어느 밤, 불이 나서 다리와 그림 대부분이 타버렸지만, 마을 사람들이 이 다리를 너무나 사랑한 나머지 널빤지 하나하나를 이어 붙여 거의 순식간에 다시 세웠답니다.",
+      "멀지 않은 곳, 조용한 공원 한쪽에는 더 놀라운 것이 있어요. 진짜 바위 절벽에 그대로 새겨진 커다란 사자예요. 이 사자는 벽돌을 쌓아 만든 게 아니라, 200년도 더 전에 조각가들이 산 자체를 직접 깎아 만든 거랍니다. 이 사자는 머나먼 프랑스에서 왕을 지키다 목숨을 잃은 루체른 출신 용감한 군인들을 기리고 있어요. 부러진 창을 안고 지쳐 누워 있는 사자의 모습이 얼마나 슬퍼 보이는지, 어느 유명한 작가는 이 조각을 '세상에서 가장 마음을 울리는 돌'이라고 불렀답니다.",
+      "그리고 진짜 모험을 즐길 준비가 됐다면, 세상에서 가장 가파른 산악 열차가 필라투스산 꼭대기까지 데려다준답니다. 아주 오래전 사람들은 이 산 정상 근처 동굴에 용이 산다고, 혹은 유령이 산다고 속삭이곤 했대요. 지금은 그냥 기차에 올라타면 돼요. 작은 기차가 천천히, 천천히 가파른 길을 오르다 보면 어느새 호수와 마을, 그리고 눈 덮인 수백 개의 봉우리가 마치 커다란 지도처럼 발아래 펼쳐진답니다."
+    ],
+    "en": [
+      "Picture a sparkling blue lake ringed by snow-capped mountains, and right where a green river spills out of it sits a tiny old town. That's Lucerne, in the very middle of Switzerland. Wooden houses lean over the water, boats bob at the docks, and if you look up, jagged peaks seem to touch the sky. For hundreds of years, this has been one of the most beautiful spots in the Alps.",
+      "Right across the river stands a long wooden bridge with a red roof, zigzagging over the water like a covered hallway. It's called the Chapel Bridge, and people built it way back in 1333 — which makes it the oldest covered wooden bridge still standing anywhere in Europe! Inside the roof, painters once filled more than a hundred wooden panels with pictures telling the story of Lucerne and its saints. Sadly, a fire one night in 1993 burned most of the bridge and its paintings — but the townspeople rebuilt it almost overnight, plank by plank, because they loved it too much to let it go.",
+      "Not far away, tucked in a quiet park, there's something even more surprising: a giant lion, carved straight into the face of a real rock cliff. Nobody built this lion out of blocks — sculptors chiseled it right into the mountain itself, over 200 years ago. It remembers brave soldiers from Lucerne who died protecting a king far away in France. The lion looks so tired and sad, lying there with a broken spear, that a famous writer once called it the most moving piece of stone in the whole world.",
+      "And when you're ready for a real adventure, a train waits to climb the steepest mountain railway track on Earth, straight up craggy Mount Pilatus. Long ago, people whispered that a dragon lived in caves near its peak — or even that a ghost haunted the summit! Nowadays you just climb aboard, and the little train grinds slowly upward until suddenly the whole lake, the town, and a hundred snowy peaks spread out beneath you like a giant map."
+    ],
+    "ja": [
+      "真っ白な雪をかぶった山々にぐるりと囲まれた真っ青な湖、その湖から緑色の川が流れ出すあたりに、とても古い小さな町があります。スイスのちょうど真ん中にある街、ルツェルンです。木造の家々が川の上にちょっと傾いて建ち並び、船着き場にはボートがぷかぷか浮かんでいます。見上げれば、とがった山の頂が空に届きそうにそびえています。ここは何百年もの間、アルプスで一番美しい場所のひとつと言われてきました。",
+      "川の向こう岸には、赤い屋根をのせた長い木の橋が、川の上をジグザグにのびています。『カペル橋(礼拝堂橋)』と呼ばれるこの橋は、なんと1333年に作られました。ヨーロッパに今も残る屋根つきの木の橋の中で、最も古いものなんです!橋の屋根の内側には、画家たちが100枚以上の木の板に、ルツェルンの歴史や聖人たちの物語を描きました。残念ながら1993年のある夜、火事でほとんどの橋と絵が燃えてしまいましたが、町の人たちはこの橋をあまりに愛していたので、板を一枚一枚つなぎ合わせ、あっという間にまた作り上げたのです。",
+      "そう遠くない静かな公園の一角には、もっと驚くものがあります。本物の岩の崖に、そのまま彫り込まれた大きなライオンです。このライオンはレンガを積んで作ったのではなく、200年以上前に彫刻家たちが山そのものを直接彫って作りました。遠いフランスで王様を守るために命を落とした、ルツェルン出身の勇敢な兵士たちを偲んでいるのです。折れた槍を抱えて疲れたように横たわるライオンがあまりに悲しげなので、ある有名な作家はこの彫刻を『世界で最も胸を打つ石』と呼びました。",
+      "そして本気の冒険がしたくなったら、世界一急な登山列車がピラトゥス山の頂上まで連れて行ってくれます。ずっと昔、人々はこの山の頂上近くの洞窟にドラゴンが住んでいる、いや幽霊が住んでいるとささやき合っていました。今はただ列車に乗るだけ。小さな列車がゆっくり、ゆっくりと急な坂をのぼっていくと、いつのまにか湖と町、そして雪をかぶった何百もの山々が、まるで大きな地図のように足元に広がります。"
+    ],
+    "zh": [
+      "想象一片被雪山环绕的碧蓝湖泊，湖水流出、汇成一条绿莹莹的河流，河边坐落着一座古老的小城。这就是瑞士正中央的卢塞恩。木屋斜斜地探向水面，码头边小船轻轻摇晃，抬头望去，尖尖的山峰仿佛要碰到天空。几百年来，这里一直被称为阿尔卑斯山最美的地方之一。",
+      "河对岸有一座红顶长廊般的木桥，弯弯曲曲地横跨在河面上。它叫“教堂桥”，建于1333年，是欧洲现存最古老的有顶木桥！桥顶内侧曾绘有一百多块木板画，讲述着卢塞恩的历史和圣徒的故事。可惜1993年的一个夜晚，一场大火烧毁了大半座桥和画作，但小镇的人们太爱这座桥了，几乎是连夜一块木板一块木板地把它重新建了起来。",
+      "不远处一座安静的公园里，还有更让人惊讶的东西：一只巨大的狮子，就直接雕刻在真正的岩壁上。这只狮子不是用石块砌成的，而是两百多年前雕刻家们直接在山体上凿刻出来的。它纪念的是那些为了保护远在法国的国王而牺牲的卢塞恩勇敢士兵。狮子怀抱断矛、疲惫地卧在那里，神情如此哀伤，一位著名作家曾称它为“世界上最令人动容的一块石头”。",
+      "如果你准备好来一场真正的冒险，一列世界上坡度最陡的登山小火车会带你直上皮拉图斯山顶。很久以前，人们悄悄传说山顶附近的洞穴里住着一条龙，甚至说山顶闹鬼！现在你只需要坐上小火车，它就会慢慢地、一点一点地爬上陡峭的山路，不知不觉间，湖泊、小镇和数百座雪山就像一幅巨大的地图，铺展在你的脚下。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "카펠교는 1333년에 지어져, 유럽에 지금까지 남아 있는 지붕 덮인 나무다리 중 가장 오래됐어요.",
+      "다리에 붙어 있는 팔각형 돌탑 '물의 탑'은 다리보다도 더 오래됐는데, 감옥, 보물 창고, 감시탑으로도 쓰였대요.",
+      "1993년 어느 밤 화재로 다리와 그림 대부분이 타버렸지만, 온 마을 사람들이 힘을 모아 거의 하룻밤 만에 다시 지었어요.",
+      "사자상은 벽돌을 쌓아 만든 게 아니라, 커다란 자연 암벽 하나를 통째로 깎아 만든 거예요.",
+      "작가 마크 트웨인은 이곳을 보고 '세상에서 가장 마음을 울리는 돌'이라고 했대요.",
+      "필라투스산으로 오르는 기차는 세계에서 가장 가파른 산악 열차예요. 얼마나 가파른지 마치 벽을 타고 오르는 기분이래요!"
+    ],
+    "en": [
+      "The Chapel Bridge was built in 1333, making it the oldest wooden covered bridge still standing in Europe.",
+      "Attached to the bridge is an eight-sided stone Water Tower that's actually even older — over the centuries it's been used as a prison, a treasury, and a watchtower.",
+      "A fire one night in 1993 destroyed most of the bridge and its painted panels, but the whole town pitched in and rebuilt it almost overnight.",
+      "The Lion Monument isn't built from blocks at all — it's carved directly into one giant slab of natural rock.",
+      "The writer Mark Twain visited and called it 'the most mournful and moving piece of rock in the world.'",
+      "The train up Mount Pilatus is the steepest cogwheel railway on Earth, climbing slopes so steep it feels like riding up a wall!"
+    ],
+    "ja": [
+      "カペル橋は1333年に建てられ、ヨーロッパに現存する屋根つき木の橋の中で最も古いんです。",
+      "橋にくっついている八角形の石の塔『水の塔』は橋よりもさらに古く、牢屋や宝物庫、見張り塔として使われていたそうです。",
+      "1993年のある夜の火事で橋と絵のほとんどが燃えてしまいましたが、町中の人が力を合わせてほとんど一晩で建て直しました。",
+      "ライオン像はレンガを積んで作ったのではなく、ひとつの大きな天然の岩をまるごと彫って作られています。",
+      "作家マーク・トウェインはここを訪れ、『世界で最も胸を打つ石』と呼びました。",
+      "ピラトゥス山を登る列車は世界一急な登山鉄道。あまりの急さに、まるで壁をのぼっているような気分になるそうです!"
+    ],
+    "zh": [
+      "教堂桥建于1333年，是欧洲现存最古老的有顶木桥。",
+      "桥边连着一座八角形石塔“水塔”，它比桥本身还要古老，曾被用作监狱、金库和瞭望塔。",
+      "1993年的一场夜间大火烧毁了大半座桥和画作，但全镇的人齐心协力，几乎一夜之间就把它重建了起来。",
+      "狮子雕像不是用砖块砌成的，而是直接在一整块天然岩石上雕刻出来的。",
+      "作家马克·吐温参观后，称它为“世界上最令人动容的一块石头”。",
+      "开往皮拉图斯山的小火车是世界上坡度最陡的登山铁路，陡到让人感觉像是在爬一堵墙！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "산 절벽에 그대로 새긴 커다란 사자상, 200년도 더 전에 기계도 없이 사람 손으로 만들었대. 믿어져?",
+    "en": "A giant stone lion carved right into a mountain — can you believe people made that over 200 years ago, with no machines at all?",
+    "ja": "山の崖にそのまま彫られた大きなライオン像、200年以上も前に機械もなしに人の手だけで作ったんだって。信じられる?",
+    "zh": "山崖上直接雕出的巨大石狮子，是两百多年前的人们完全靠双手、没有任何机器雕成的哦。你能相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "카펠교와 물의 탑", "en": "Chapel Bridge & Water Tower", "ja": "カペル橋と水の塔", "zh": "教堂桥与水塔" },
+      "blurb": {
+        "ko": "이야기 속 바로 그 다리예요. 낡은 나무판을 밟으며 걸어가다 고개를 들면 지붕 안쪽 그림들이 보여요. 다리 한쪽 끝엔 700년 넘게 강을 지켜온 통통한 돌탑, '물의 탑'이 서 있답니다.",
+        "en": "This is the very bridge from the story — walk across its worn wooden planks and look up at the painted panels overhead. At one end stands the stubby stone Water Tower, which has guarded the river for over 700 years.",
+        "ja": "物語に出てきたまさにあの橋。すり減った木の板を踏んで歩きながら見上げると、屋根の裏の絵が見えます。橋の片端には、700年以上も川を見守ってきたずんぐりした石の塔『水の塔』が立っています。",
+        "zh": "这正是故事里的那座桥。踩着磨得光滑的木板走过去，抬头就能看到屋顶内侧的画作。桥的一端立着守护这条河七百多年的矮胖石塔——“水塔”。"
+      },
+      "coords": [47.0505, 8.3079]
+    },
+    {
+      "name": { "ko": "빈사의 사자상 (사자 기념비)", "en": "Lion Monument", "ja": "瀕死のライオン像", "zh": "垂死狮子像" },
+      "blurb": {
+        "ko": "조용한 정원 안에 있는 이 잠든 돌사자는 진짜 절벽에 그대로 새겨졌어요. 자세히 보면 아직도 옆구리에 박혀 있는 부러진 창이 보인답니다.",
+        "en": "Tucked in a quiet garden, this sleeping stone lion is carved straight into a real cliff face. Look closely and you'll spot the broken spear still stuck in its side.",
+        "ja": "静かな庭園にある、この眠るような石のライオンは、本物の崖にそのまま彫られています。よく見ると、まだ脇腹に刺さったままの折れた槍が見えますよ。",
+        "zh": "在一座安静的花园里，这只沉睡的石狮子直接雕刻在真正的崖壁上。仔细看，你还能发现它身侧还插着一支折断的长矛。"
+      },
+      "coords": [47.0563, 8.3103]
+    },
+    {
+      "name": { "ko": "필라투스산", "en": "Mount Pilatus", "ja": "ピラトゥス山", "zh": "皮拉图斯山" },
+      "blurb": {
+        "ko": "옛날엔 이 산 꼭대기 근처에 용이나 유령이 산다는 이야기가 전해졌어요. 세계에서 가장 가파른 산악 열차를 타고 오르면, 정상에서 눈 덮인 알프스 봉우리들이 끝없이 펼쳐진 풍경을 볼 수 있어요.",
+        "en": "Ride the world's steepest cogwheel train up this legendary mountain, where people once said a dragon or a ghost lived near the top. At the summit, the view stretches over dozens of snow-capped Alps.",
+        "ja": "昔、この山の頂上近くにはドラゴンや幽霊が住んでいると言われていました。世界一急な登山列車に乗って登ると、頂上からは雪をかぶったアルプスの山々が何十座も広がる景色が見られます。",
+        "zh": "很久以前，人们说这座山顶附近住着一条龙，甚至闹鬼。乘坐世界上坡度最陡的登山小火车登顶后，你会看到数十座雪山连绵展开的壮丽景色。"
+      },
+      "coords": [46.9805, 8.2557]
+    },
+    {
+      "name": { "ko": "무제크 성벽", "en": "Musegg Wall", "ja": "ムーゼック城壁", "zh": "穆塞格城墙" },
+      "blurb": {
+        "ko": "탑 아홉 개가 늘어선 이 긴 돌 성벽은 옛날에 마을 전체를 빙 둘러 지켜주던 곳이에요. 지금도 성벽 일부에 올라가 걸을 수 있는데, 수백 년 전 경비병이 내다보던 그 창문으로 똑같이 밖을 내다볼 수 있답니다.",
+        "en": "This long stone wall with nine towers once wrapped around the whole town to protect it. You can still climb up and walk along parts of it, peeking out through the same windows guards used centuries ago.",
+        "ja": "9つの塔が並ぶこの長い石の城壁は、昔は町全体をぐるりと囲んで守っていました。今でも一部にのぼって歩くことができ、何百年も前に見張り番がのぞいたのと同じ窓から外をのぞくことができます。",
+        "zh": "这道有九座塔楼的长长石墙，曾经环绕整座小镇加以保护。如今你仍可以爬上部分城墙漫步，透过几百年前守卫们瞭望用的同一扇窗户向外张望。"
+      },
+      "coords": [47.0568, 8.3096]
+    }
+  ]
+}

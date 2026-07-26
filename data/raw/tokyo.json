@@ -1,0 +1,120 @@
+{
+  "id": "tokyo",
+  "country": "jp",
+  "coords": [35.6762, 139.6503],
+  "name": { "ko": "도쿄", "en": "Tokyo", "ja": "東京", "zh": "东京" },
+  "tagline": {
+    "ko": "조용한 어촌 마을에서 눈부신 미래 도시로",
+    "en": "From a sleepy fishing village to a dazzling city of the future",
+    "ja": "静かな漁村から、まばゆい未来都市へ",
+    "zh": "从宁静渔村到耀眼的未来之城"
+  },
+  "story": {
+    "ko": [
+      "아주 오래 전, 도쿄가 도쿄라고 불리기도 전에, 이곳은 만 옆에 자리한 작고 조용한 어촌 마을이었어요. 이름은 '에도'였죠. 그러다 1603년, 도쿠가와 이에야스라는 힘센 무사 대장이 에도를 자신의 근거지로 삼고 커다란 성을 지었어요. 병사와 상인, 장인들이 몰려들면서 조용하던 마을은 점점 커지기 시작했답니다.",
+      "100년도 채 안 되어 에도는 지구에서 손꼽히게 큰 도시로 자랐어요. 그 시절 런던이나 파리보다도 컸다니 정말 놀랍죠! 인구가 100만 명이 넘었고, 활기찬 생선 시장과 가부키 극장, 사무라이와 상인, 길거리 음식 수레로 북적이는 거리로 가득했어요.",
+      "1868년, 새로운 천황이 예전 쇼군의 성으로 옮겨 오면서 도시에 새 이름을 붙였어요. 바로 '도쿄', 즉 '동쪽의 수도'라는 뜻이었죠. 하지만 도쿄의 이야기가 늘 순탄했던 건 아니에요. 1923년에는 큰 지진이 도시를 뒤흔들었고, 제2차 세계대전 때도 큰 피해를 입었어요. 그럴 때마다 사람들은 이전보다 더 크고 반짝이게 도시를 다시 일으켜 세웠답니다.",
+      "오늘날 도쿄는 지구에서 가장 놀라운 도시 중 하나예요. 오래된 절과 하늘 높이 솟은 타워, 총알처럼 빠른 기차, 로봇까지 한데 어우러져 있죠. 올림픽도 두 번이나 열었고, 매일 수많은 사람들이 유명한 시부야 사거리를 마치 거대한 파도처럼 건너간답니다. 반짝이는 네온사인 아래 어딘가엔, 옛 에도 마을의 소박한 마음이 여전히 남아 있어요."
+    ],
+    "en": [
+      "Long, long ago, before Tokyo was even called Tokyo, it was just a small, quiet fishing village by a bay named Edo. Then in 1603, a powerful warlord named Tokugawa Ieyasu made Edo his home base and built a giant castle there. Soldiers, merchants, and craftspeople flooded in, and the sleepy village began to grow and grow.",
+      "Within just a hundred years, Edo had grown into one of the biggest cities on Earth—bigger than London or Paris at the time! With over a million people, it had bustling fish markets, kabuki theaters, and streets crowded with samurai, merchants, and street-food carts, all buzzing with life.",
+      "In 1868, a new emperor moved into the old shogun's castle and gave the city a brand-new name: Tokyo, meaning 'Eastern Capital.' But Tokyo's story wasn't always easy—a huge earthquake shook the city in 1923, and it was heavily damaged again during World War II. Each time, the people rebuilt it, bigger and shinier than before.",
+      "Today Tokyo is one of the most amazing cities on the planet, mixing ancient temples with sky-high towers, bullet trains, and robots. It has hosted the Olympics not once but twice, and every day millions of people cross its famous Shibuya intersection like a giant human wave. Somewhere underneath all those neon lights, the humble spirit of old Edo is still there."
+    ],
+    "ja": [
+      "はるか昔、東京がまだ東京と呼ばれるより前、そこは入り江のそばにある小さくて静かな漁村でした。名前は『江戸』。そして1603年、徳川家康という力強い武将が江戸を本拠地に選び、大きなお城を築きました。兵士や商人、職人たちが次々と集まり、静かな村は少しずつ大きくなっていきました。",
+      "それから100年もたたないうちに、江戸は世界でも指折りの大都市に育ちました。当時のロンドンやパリよりも大きかったというから驚きです！人口は100万人を超え、活気ある魚市場や歌舞伎の芝居小屋、侍や商人、屋台の食べ物であふれる通りでにぎわっていました。",
+      "1868年、新しい天皇が昔の将軍のお城に移り住み、街に新しい名前をつけました。それが『東京』——『東の都』という意味です。でも東京の歩みはいつも順調だったわけではありません。1923年には大きな地震が街をゆさぶり、第二次世界大戦でも大きな被害を受けました。そのたびに人々は、前よりも大きくきらびやかに街を立て直したのです。",
+      "今日の東京は、地球でもっともおどろきに満ちた街の一つです。古いお寺と空高くそびえるタワー、弾丸のように速い新幹線、ロボットまでが一つに混ざり合っています。オリンピックも二度開き、毎日たくさんの人が有名な渋谷のスクランブル交差点を、まるで大きな波のように渡っていきます。きらめくネオンの下のどこかに、昔の江戸村のすなおな心が、今も生きているのです。"
+    ],
+    "zh": [
+      "很久很久以前，在东京还不叫“东京”的时候，这里只是海湾边一个安静的小渔村，名叫“江户”。1603年，一位强大的武将德川家康把江户定为自己的根据地，还在这里建起了一座巨大的城堡。士兵、商人和工匠纷纷涌入，宁静的小村庄渐渐热闹起来。",
+      "不到一百年，江户就长成了地球上数一数二的大城市——比当时的伦敦或巴黎还要大，真令人惊讶！人口超过一百万，热闹的鱼市、歌舞伎剧场，还有挤满武士、商人和街头小吃摊的街道，处处充满生气。",
+      "1868年，新天皇搬进了旧将军的城堡，还给这座城市起了个新名字：“东京”，意思是“东方的都城”。不过东京的故事并不总是一帆风顺：1923年一场大地震震撼了整座城市，第二次世界大战中它又遭受重创。可每一次，人们都把城市重建得比以前更大、更闪耀。",
+      "如今的东京是地球上最令人惊叹的城市之一，古老的寺庙与高耸入云的塔楼、飞驰如箭的新干线，还有机器人交融在一起。这里两次举办过奥运会，每天都有成千上万的人像巨大的人潮一样穿过著名的涩谷十字路口。在那些闪烁的霓虹灯下的某个角落，古老江户村朴素的心依然还在跳动。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "도쿄는 원래 '에도'라고 불렸어요. '강어귀'라는 뜻인데, 1868년에 '동쪽의 수도'라는 뜻의 '도쿄'로 이름이 바뀌었답니다.",
+      "시부야 사거리는 초록불이 켜지면 한 번에 최대 3000명이나 되는 사람들이 한꺼번에 길을 건너요. 세계에서 가장 붐비는 건널목 중 하나랍니다.",
+      "아사쿠사에 있는 센소지는 도쿄에서 가장 오래된 절인데, 무려 628년에 세워졌어요. 거의 1400년 전이랍니다!",
+      "1958년에 지어진 도쿄타워는 파리의 에펠탑에서 영감을 받았는데, 에펠탑보다 3미터쯤 더 높아요.",
+      "도쿄의 지하철과 전철은 하루에 약 4000만 명이나 이용해요. 그런데도 기차가 시간에 딱 맞춰 오기로 유명하답니다.",
+      "도쿄는 1964년과 2020년(실제로는 2021년), 두 번이나 여름 올림픽을 개최했어요. 이런 도시는 세계에서도 몇 안 된답니다."
+    ],
+    "en": [
+      "Tokyo was once called Edo, meaning 'estuary,' until it was renamed Tokyo ('Eastern Capital') in 1868.",
+      "At Shibuya Crossing, up to 3,000 people can cross at once when the light turns green—one of the busiest crossings in the world.",
+      "Senso-ji Temple in Asakusa, Tokyo's oldest temple, was founded way back in the year 628—almost 1,400 years ago!",
+      "Tokyo Tower, built in 1958, was inspired by the Eiffel Tower in Paris but stands about 3 meters taller.",
+      "Tokyo's train and subway system carries around 40 million passenger rides a day, and the trains are famous for arriving right on time.",
+      "Tokyo has hosted the Summer Olympics twice, in 1964 and 2020 (postponed to 2021)—one of very few cities to do so."
+    ],
+    "ja": [
+      "東京はもともと『江戸』と呼ばれていました。『入り江の入り口』という意味で、1868年に『東の都』を意味する『東京』という名前に変わりました。",
+      "渋谷のスクランブル交差点では、青信号になると一度に最大3000人もの人が同時に渡ります。世界でもっとも混み合う交差点の一つです。",
+      "浅草にある浅草寺は東京最古のお寺で、なんと628年に建てられました。今からおよそ1400年も前のことです！",
+      "1958年に建てられた東京タワーは、パリのエッフェル塔をお手本にしていますが、エッフェル塔より3メートルほど高いんです。",
+      "東京の電車と地下鉄は、1日に約4000万人もの人が利用しています。それでも電車は時間ぴったりに来ることで有名です。",
+      "東京は1964年と2020年（実際は2021年）の二度、夏のオリンピックを開きました。こんな街は世界でもごくわずかです。"
+    ],
+    "zh": [
+      "东京原本叫“江户”，意思是“河口”，直到1868年才改名为“东京”，意为“东方的都城”。",
+      "涩谷十字路口一到绿灯，最多可以同时有3000人一起过马路，是世界上最繁忙的十字路口之一。",
+      "位于浅草的浅草寺是东京最古老的寺庙，建于公元628年，距今差不多有1400年了！",
+      "建于1958年的东京塔，灵感来自巴黎的埃菲尔铁塔，但比埃菲尔铁塔高出大约3米。",
+      "东京的地铁和电车系统每天运送大约四千万人次乘客，而且列车以准点著称。",
+      "东京曾两次举办夏季奥运会，分别是1964年和2020年（实际延期到2021年）——世界上很少有城市能做到这一点。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도쿄가 원래는 '에도'라는 작고 조용한 어촌 마을이었대. 로봇과 네온사인 가득한 거대 도시로 변할 거라고 상상이나 했을까?",
+    "en": "Tokyo used to be a quiet little fishing village called Edo—can you imagine it growing into a giant city with robots and neon lights?",
+    "ja": "東京はもともと『江戸』という小さな漁村だったんだって。ロボットやネオンできらめく大都市になるなんて、想像できたかな？",
+    "zh": "东京原本只是一个叫“江户”的安静小渔村。你能想象它会变成一座满是机器人和霓虹灯的巨型都市吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "센소지", "en": "Senso-ji Temple", "ja": "浅草寺", "zh": "浅草寺" },
+      "blurb": {
+        "ko": "628년, 두 어부가 강에서 작은 금빛 불상을 건져 올린 뒤 세워진 도쿄에서 가장 오래된 절이에요. 커다란 빨간 초롱이 걸린 '뇌문(가미나리몬)'을 지나 먹거리로 가득한 활기찬 골목을 걸으면 절에 다다른답니다.",
+        "en": "Tokyo's oldest temple, first built in the year 628 after two fishermen found a tiny golden statue in the river. Walk through the giant red lantern of the Thunder Gate and down a lively street full of snacks to reach it.",
+        "ja": "628年、二人の漁師が川で小さな金の仏像を見つけたことから建てられた、東京最古のお寺。大きな赤い提灯がかかる『雷門』をくぐり、食べ歩きでにぎわう仲見世通りを歩くとたどり着きます。",
+        "zh": "公元628年，两位渔夫在河中捞到一尊小小的金佛像，之后人们建起了这座东京最古老的寺庙。穿过挂着巨大红灯笼的“雷门”，走过满是小吃的热闹街道，就能到达寺庙。"
+      },
+      "coords": [35.7148, 139.7967]
+    },
+    {
+      "name": { "ko": "시부야 스크램블 교차로", "en": "Shibuya Crossing", "ja": "渋谷スクランブル交差点", "zh": "涩谷十字路口" },
+      "blurb": {
+        "ko": "지구에서 손꼽히게 붐비는 건널목이에요. 초록불이 켜지면 사방에서 최대 3000명이 한꺼번에 쏟아져 나와 마치 사람들의 파도 같답니다. 머리 위 거대한 전광판들이 이 광경을 내려다보고 있어요.",
+        "en": "One of the busiest crossings on Earth—when the light turns green, up to 3,000 people flood across from every direction at once, like a human wave. Giant video screens tower overhead, watching the whole show.",
+        "ja": "地球でも指折りの混雑ぶりを誇る交差点。青信号になると四方から最大3000人が一気に渡り、まるで人の波のよう。頭上には巨大なスクリーンがそびえ、その様子を見下ろしています。",
+        "zh": "地球上最繁忙的十字路口之一。绿灯一亮，四面八方最多3000人同时涌过马路，像一波人潮。头顶巨大的电子屏幕俯瞰着这一切。"
+      },
+      "coords": [35.6595, 139.7004]
+    },
+    {
+      "name": { "ko": "도쿄타워", "en": "Tokyo Tower", "ja": "東京タワー", "zh": "东京塔" },
+      "blurb": {
+        "ko": "1958년에 지어진 이 밝은 주황색과 흰색 타워는 에펠탑에서 영감을 받았는데, 파리의 사촌보다 약 3미터 더 높답니다. 전망대에 올라가면 도쿄 시내가 거의 다 내려다보여요.",
+        "en": "Built in 1958 and inspired by the Eiffel Tower, this bright orange-and-white tower stands about 3 meters taller than its Paris cousin. Ride up to the observation deck and you can see almost all of Tokyo spread out below.",
+        "ja": "1958年に建てられ、エッフェル塔にインスピレーションを受けたオレンジと白のタワー。パリのいとこよりも約3メートル高いんです。展望台に上れば、東京の街がほとんど見渡せます。",
+        "zh": "建于1958年，灵感来自埃菲尔铁塔的这座橙白相间的高塔，比它的巴黎“表亲”高出约3米。登上展望台，几乎整个东京都能尽收眼底。"
+      },
+      "coords": [35.6586, 139.7454]
+    },
+    {
+      "name": { "ko": "고쿄 (에도 성터, 왕궁)", "en": "Imperial Palace (former Edo Castle)", "ja": "皇居（旧江戸城）", "zh": "皇居（旧江户城遗址）" },
+      "blurb": {
+        "ko": "도시 한복판에 자리한 이 넓은 공원 자리에는 1603년 도쿠가와 이에야스가 세운 성이 있었어요. 넓은 해자와 돌담이 지금도 이곳을 둘러싸고 있고, 오늘날에는 일본 천황이 살고 있답니다.",
+        "en": "This huge park in the middle of the city sits on the very spot where Tokugawa Ieyasu built his castle back in 1603. Wide moats and stone walls still guard the grounds, where Japan's emperor lives today.",
+        "ja": "街の真ん中に広がるこの大きな公園は、1603年に徳川家康が城を築いたまさにその場所です。今も広いお堀と石垣が敷地を守り、現在は日本の天皇が暮らしています。",
+        "zh": "这座位于市中心的巨大公园，正是1603年德川家康建造城堡的地方。宽阔的护城河和石墙至今仍守护着这片土地，如今日本天皇就居住在这里。"
+      },
+      "coords": [35.6852, 139.7528]
+    }
+  ]
+}

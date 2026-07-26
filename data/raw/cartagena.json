@@ -1,0 +1,120 @@
+{
+  "id": "cartagena",
+  "country": "co",
+  "coords": [10.3932, -75.4832],
+  "name": { "ko": "카르타헤나", "en": "Cartagena", "ja": "カルタヘナ", "zh": "卡塔赫纳" },
+  "tagline": {
+    "ko": "해적도 끝내 뚫지 못한 카리브해의 성벽 도시",
+    "en": "The walled Caribbean city that pirates could never crack",
+    "ja": "海賊も最後まで破れなかったカリブ海の城壁都市",
+    "zh": "海盗始终无法攻破的加勒比海城墙之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 콜롬비아 카리브해 해안에 스페인 사람들이 항구 도시를 세웠어요. 바로 카르타헤나예요. 남아메리카 곳곳에서 캐낸 금과 은을 실은 배들이 스페인으로 떠나기 전에 이곳에 모였답니다. 그래서 카르타헤나는 신대륙에서 가장 부유하고, 가장 탐나는 항구가 되었어요.",
+      "보물이 가득하다는 소문은 금세 퍼졌고, 해적들도 몰려왔어요. 사나운 해적선들이 몇 번이고 쳐들어와 금을 노렸죠. 유명한 해적 프랜시스 드레이크는 실제로 도시를 점령한 뒤, 어마어마한 몸값을 받고서야 물러갔답니다!",
+      "카르타헤나 사람들은 결심했어요. '다시는 당하지 않겠어!' 그래서 도시 전체를 둘러싼 거대한 돌 성벽을 쌓고, 언덕 위에는 산펠리페 데 바라하스라는 커다란 요새를 지었어요. 요새 안에는 미로처럼 구불구불한 터널을 만들었는데, 병사들이 숨은 채로도 멀리서 다가오는 적의 발소리를 들을 수 있도록 아주 영리하게 설계했답니다.",
+      "이 작전은 제대로 통했어요! 몇 년 뒤, 영국 제독이 배 180척과 수만 명의 군사를 이끌고 역사상 손꼽히는 대함대로 쳐들어왔지만, 튼튼한 성벽과 요새 앞에서 결국 물러나야 했답니다. 지금도 노을이 질 때 그 성벽 위를 걸을 수 있고, 꽃과 색깔로 가득한 골목길을 거닐며 해적과 보물, 용감한 사람들이 만든 카르타헤나의 전설을 상상해볼 수 있어요."
+    ],
+    "en": [
+      "Long ago, on the Caribbean coast of what is now Colombia, Spanish sailors built a harbor town called Cartagena. Ships loaded with gold and silver from all over South America gathered here before crossing the ocean to Spain. That made Cartagena one of the richest, most tempting ports in the whole New World.",
+      "Word of all that treasure spread fast—and so did pirates. Fierce sea captains sailed in again and again, hoping to snatch the gold for themselves. One famous raider, Francis Drake, even managed to capture the city for a while and only left after collecting a giant ransom!",
+      "So the people of Cartagena decided: never again. They built a colossal stone wall that wrapped around the whole city, and up on a hill they raised an enormous fortress called San Felipe de Barajas, laced with tunnels that zigzagged like a maze. The tunnels were built so cleverly that guards inside could hear enemy footsteps echoing from far away, while staying safely hidden themselves.",
+      "The plan worked. Years later, a British admiral arrived with one of the biggest fleets ever assembled—around 180 ships and tens of thousands of soldiers—determined to take Cartagena. But the walls and the fortress held strong, and the invaders were sent home defeated. Today you can still walk along those same walls at sunset, wander streets bursting with flowers and color, and imagine the pirates, treasure, and brave defenders who made Cartagena a legend."
+    ],
+    "ja": [
+      "はるか昔、今のコロンビア、カリブ海の海岸にスペイン人が港町を築きました。それが『カルタヘナ』です。南米各地で採れた金や銀を積んだ船が、スペインへ渡る前にここへ集まりました。おかげでカルタヘナは新大陸でいちばん豊かで、いちばん狙われる港になったのです。",
+      "宝がいっぱいだといううわさはすぐに広まり、海賊たちも押し寄せました。荒くれ者の海賊船が何度も襲いかかり、金をねらいました。有名な海賊フランシス・ドレークは実際に街を占領し、莫大な身代金を受け取ってようやく立ち去ったそうです！",
+      "カルタヘナの人々は決意しました。『もう二度とやられない！』そこで街全体を囲む巨大な石の城壁を築き、丘の上にはサン・フェリペ・デ・バラハスという大きな要塞を建てました。要塞の中には迷路のように曲がりくねったトンネルが作られ、兵士たちは身をかくしたまま遠くの敵の足音を聞き取れるよう、とても賢く設計されていました。",
+      "この作戦は見事に成功しました！数年後、イギリスの提督が船180隻、数万の兵士という歴史に残るほどの大艦隊を率いて攻めてきましたが、頑丈な城壁と要塞の前に結局引き返すことになったのです。今でも夕暮れどきにその城壁の上を歩くことができ、花と色にあふれた路地を歩きながら、海賊や宝物、勇敢な人々が作り上げたカルタヘナの伝説に思いをはせることができます。"
+    ],
+    "zh": [
+      "很久很久以前，在如今哥伦比亚的加勒比海岸，西班牙人建起了一座港口城市，它就是卡塔赫纳。从南美各地开采出的金银，会先运到这里集中，再装船运往西班牙。于是，卡塔赫纳成了新大陆最富有、也最令人垂涎的港口。",
+      "满是财宝的消息很快传开，海盗们也闻风而至。凶悍的海盗船一次又一次前来袭击，妄图抢走黄金。著名海盗弗朗西斯·德雷克甚至真的占领过这座城市，直到收到一大笔赎金才肯离开！",
+      "卡塔赫纳人下定决心：'绝不能再让这种事发生！'于是他们修建了一圈围绕全城的巨大石头城墙，又在山丘上建起一座名叫圣费利佩·德巴拉哈斯的巨型堡垒。堡垒里挖有迷宫般曲折的地道，设计得非常巧妙——士兵们躲在暗处，也能听到远处敌人的脚步声。",
+      "这个办法真的奏效了！几年后，一位英国将领率领史上数一数二的庞大舰队——约180艘战舰和数万名士兵——前来进攻，但坚固的城墙和堡垒最终还是把他们挡了回去。如今，你仍然可以在夕阳下漫步那道古老的城墙，走过开满鲜花、五彩缤纷的小巷，想象当年海盗、宝藏和勇敢守卫者共同写下的卡塔赫纳传奇。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "카르타헤나 옛 시가지를 둘러싼 돌 성벽은 길이가 약 13킬로미터나 되는데, 이걸 다 쌓는 데 거의 200년이 걸렸대요.",
+      "산펠리페 요새 안의 비밀 터널은, 적이 보이기도 전에 멀리서 나는 발소리부터 들을 수 있도록 설계됐어요.",
+      "1741년, 영국 함대가 배 180척과 병사 2만 명이 넘는 대군을 이끌고 쳐들어왔지만, 훨씬 작은 스페인 수비대가 결국 막아냈답니다.",
+      "해적 선장 프랜시스 드레이크는 한때 이 도시를 점령했다가, 산더미 같은 몸값을 받고 나서야 떠났어요.",
+      "옛 시가지의 발코니마다 산호빛 분홍, 망고색 노랑, 하늘색 파랑 같은 알록달록한 색과 부겐빌레아 꽃이 넘쳐나요.",
+      "콜롬비아를 대표하는 작가 가브리엘 가르시아 마르케스는 카르타헤나를 무척 사랑해서, 자신의 유명한 사랑 이야기의 배경으로 이 거리를 그대로 그려냈어요."
+    ],
+    "en": [
+      "Cartagena's stone walls stretch about 13 kilometers around the old city—building them took nearly 200 years!",
+      "Inside the San Felipe fortress, secret tunnels were built so soldiers could hear an enemy's footsteps echoing from far away before they ever saw them.",
+      "In 1741, a British fleet of about 180 ships and over 20,000 soldiers attacked Cartagena—and the much smaller Spanish defense still won!",
+      "Pirate captain Francis Drake once captured the city and only left after being paid a mountain of ransom money.",
+      "Balconies in the old town spill over with bright bougainvillea flowers, painted in colors like coral pink, mango yellow, and sky blue.",
+      "Colombia's most famous writer, Gabriel García Márquez, loved Cartagena so much he set one of his most famous love stories right in its streets."
+    ],
+    "ja": [
+      "カルタヘナの旧市街を囲む石の城壁は全長約13キロもあり、完成までにおよそ200年かかったそうです。",
+      "サン・フェリペ要塞の中の秘密のトンネルは、敵の姿が見える前に、遠くの足音だけで気づけるように作られていました。",
+      "1741年、イギリス艦隊が船180隻、兵士2万人以上という大軍で攻めてきましたが、ずっと小さなスペイン軍がそれでも守りきりました。",
+      "海賊船長フランシス・ドレークは一度この街を占領し、山のような身代金を受け取ってからようやく去っていきました。",
+      "旧市街のバルコニーには、さんご色のピンクやマンゴー色の黄色、空色の青など、色とりどりのブーゲンビリアの花があふれています。",
+      "コロンビアを代表する作家ガブリエル・ガルシア・マルケスはカルタヘナを深く愛し、自身の有名な恋物語の舞台としてこの街の通りを描きました。"
+    ],
+    "zh": [
+      "环绕卡塔赫纳老城的石头城墙全长约13公里，足足花了将近200年才建成。",
+      "圣费利佩堡垒里的秘密地道设计得很巧妙，敌人还没现身，光靠脚步声传来的方向就能被发现。",
+      "1741年，英国舰队带着约180艘战舰和两万多名士兵前来进攻，但兵力小得多的西班牙守军还是成功挡住了他们。",
+      "海盗船长弗朗西斯·德雷克曾一度占领这座城市，直到收到一大笔赎金后才肯离开。",
+      "老城的阳台上开满了珊瑚粉、芒果黄、天空蓝等五彩缤纷的三角梅花朵。",
+      "哥伦比亚最著名的作家加西亚·马尔克斯十分钟爱卡塔赫纳，把自己最著名的爱情故事就写在了这座城市的街道上。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "깜깜한 터널 속에 숨어 있다면, 소리만 듣고도 적이 다가오는 걸 알아챌 수 있을까?",
+    "en": "If you were a guard hiding in a pitch-dark tunnel, could you tell an enemy was coming just by listening?",
+    "ja": "真っ暗なトンネルの中に隠れていたら、音だけで敵が近づいているのに気づけるかな？",
+    "zh": "如果你躲在漆黑的地道里，只靠听声音，能发现敌人正在靠近吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "산펠리페 데 바라하스 요새", "en": "Castillo San Felipe de Barajas", "ja": "サン・フェリペ・デ・バラハス要塞", "zh": "圣费利佩·德巴拉哈斯堡垒" },
+      "blurb": {
+        "ko": "카르타헤나를 해적과 적의 함대로부터 지키기 위해 지어진 거대한 요새예요. 미로 같은 터널 속을 걸어보면, 병사들이 몸을 숨긴 채로도 멀리서 나는 목소리와 발소리를 들을 수 있도록 설계된 자리를 만날 수 있답니다.",
+        "en": "This massive fortress was built to protect Cartagena from pirates and enemy fleets. Wander through its maze-like tunnels and you'll find spots engineered so defenders could hear voices and footsteps from far outside—without ever being seen.",
+        "ja": "カルタヘナを海賊や敵の艦隊から守るために建てられた巨大な要塞。迷路のようなトンネルを歩くと、兵士たちが身を隠したまま遠くの声や足音を聞き取れるように工夫された場所に出会えます。",
+        "zh": "这座巨型堡垒是为了保护卡塔赫纳免受海盗和敌方舰队侵袭而建。走进迷宫般的地道，你会发现有些地方专门设计成让士兵藏身其中，也能听到远处传来的说话声和脚步声。"
+      },
+      "coords": [10.4213, -75.5389]
+    },
+    {
+      "name": { "ko": "성벽 (라스 무랄라스)", "en": "The City Walls (Las Murallas)", "ja": "城壁（ラス・ムラリャス）", "zh": "城墙（拉斯穆拉利亚斯）" },
+      "blurb": {
+        "ko": "옛 시가지를 둘러싼 이 두꺼운 돌 성벽은 완성되기까지 여러 세대가 걸렸어요. 노을이 질 때 성벽 위를 걸어보면, 옛날 파수병들이 바다 저편에서 오는 배를 살피던 그 자리에 서 볼 수 있답니다.",
+        "en": "These thick stone walls circle the old town and took generations to finish. Walk along the top at sunset, just as Cartagena's guards once did, watching for ships appearing on the horizon.",
+        "ja": "旧市街を取り囲むこの分厚い石の城壁は、完成までに何世代もかかりました。夕暮れに城壁の上を歩くと、昔の見張り番が水平線の船を見張っていたその場所に立つことができます。",
+        "zh": "这道环绕老城的厚重石墙，历经几代人才最终建成。在夕阳下走上城墙，你能站在当年守卫瞭望海平线上船只的同一个地方。"
+      },
+      "coords": [10.4247, -75.5504]
+    },
+    {
+      "name": { "ko": "헤츠세마니", "en": "Getsemaní", "ja": "ヘツセマニ", "zh": "盖茨玛尼" },
+      "blurb": {
+        "ko": "원래는 성벽 밖의 소박한 동네였던 헤츠세마니는 지금은 알록달록한 벽화와 나부끼는 깃발, 흥겨운 거리 음악으로 가득해요. 카르타헤나의 화려한 이야기가 오늘도 계속되고 있다는 증거랍니다.",
+        "en": "Once a humble neighborhood outside the walls, Getsemaní is now covered in rainbow murals, fluttering flags, and lively street music. It's proof Cartagena's colorful story is still being written today.",
+        "ja": "もともとは城壁の外にあるつつましい町だったヘツセマニは、今では色鮮やかな壁画やはためく旗、にぎやかな街角の音楽であふれています。カルタヘナの色彩豊かな物語が今も続いている証です。",
+        "zh": "盖茨玛尼原本只是城墙外一个朴素的社区，如今却布满五彩斑斓的壁画、随风飘扬的旗帜和热闹的街头音乐。它证明卡塔赫纳缤纷的故事至今仍在续写。"
+      },
+      "coords": [10.4204, -75.5482]
+    },
+    {
+      "name": { "ko": "로사리오 제도", "en": "Islas del Rosario (Rosario Islands)", "ja": "ロサリオ諸島", "zh": "罗萨里奥群岛" },
+      "blurb": {
+        "ko": "카르타헤나 앞바다에 흩어진 자그마한 산호섬들이에요. 옛날 보물선들이 지나다니던 그 바다에서, 지금은 알록달록한 물고기가 가득한 산호초 사이를 스노클링하며 헤엄칠 수 있답니다.",
+        "en": "A sprinkle of small coral islands scattered in the turquoise water off Cartagena. Treasure ships once sailed these very seas—today you can snorkel above coral reefs full of colorful fish.",
+        "ja": "カルタヘナ沖に散らばる小さなサンゴ礁の島々。昔、宝物船が通り過ぎたこの海で、今ではカラフルな魚がいっぱいのサンゴ礁の間をシュノーケリングして泳ぐことができます。",
+        "zh": "罗萨里奥群岛是散落在卡塔赫纳近海的一串小小珊瑚岛。当年宝藏船曾经过的这片海域，如今可以浮潜畅游在挤满五彩鱼群的珊瑚礁间。"
+      },
+      "coords": [10.1804, -75.7502]
+    }
+  ]
+}

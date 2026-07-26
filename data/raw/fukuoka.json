@@ -1,0 +1,120 @@
+{
+  "id": "fukuoka",
+  "country": "jp",
+  "coords": [33.5902, 130.4017],
+  "name": { "ko": "후쿠오카", "en": "Fukuoka", "ja": "福岡", "zh": "福冈" },
+  "tagline": {
+    "ko": "일본이 아시아로 향한 문을 처음 연 오래된 항구 도시",
+    "en": "The ancient port where Japan first opened its door to Asia",
+    "ja": "日本が初めてアジアへの扉を開いた、古き港町",
+    "zh": "日本最早向亚洲敞开大门的古老港城"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 도쿄가 작은 마을에 불과했을 때도 일본 서쪽 끝의 항구 마을 '하카타'는 이미 중국과 한국에서 온 배들로 북적였어요. 2000년이 넘는 세월 동안 비단과 책, 새로운 생각을 가득 실은 배들이 이 항구로 들어왔고, 이곳은 일본이 아시아 세계와 만나는 '현관문' 같은 곳이 되었답니다.",
+      "아주 먼 옛날 어느 날, 작은 섬 시카노시마에서 논을 갈던 농부가 흙 속에서 반짝이는 무언가를 발견했어요. 손가락 한 마디만 한 순금 도장이었죠! 도장에는 작은 한자로 중국 황제가 '나'라는 나라의 왕에게 보낸 선물이라고 새겨져 있었는데, 무려 2000년 가까이 바다를 건너온 거였어요!",
+      "그로부터 한참 뒤인 1200년대, 힘센 몽골 전함들이 일본을 공격하려고 바다를 건너왔어요. 하필 그 길목이 바로 하카타였죠. 마을 사람들은 서둘러 해변을 따라 기다란 돌담을 쌓아 적의 말을 막았고, 신기하게도 배가 다가올 때마다 어마어마한 태풍이 몰아쳐 함대를 휩쓸어버렸어요. 사람들은 훗날 이 폭풍을 '카미카제', 즉 신이 보낸 바람이라고 불렀답니다.",
+      "오늘날에도 하카타의 씩씩한 기운과 맛있는 음식 사랑은 밤마다 되살아나요. 거리마다 '야타이'라는 작은 포장마차 수백 개가 문을 열면 김이 모락모락, 웃음소리가 가득해지죠. 진하고 뽀얀 돈코츠 라멘이 태어난 곳도 바로 이 도시예요. 그러니 이곳에서 라멘 한 그릇을 먹는 건, 후쿠오카의 멋진 이야기를 통째로 맛보는 것과 같답니다."
+    ],
+    "en": [
+      "Long before Tokyo was even a small village, a port town on the western tip of Japan called Hakata was already busy welcoming ships from China and Korea. For over two thousand years, boats loaded with silk, books, and new ideas sailed into its harbor, making this corner of Japan the country's front door to the rest of Asia.",
+      "One day long ago, a farmer digging in a rice paddy on tiny Shikanoshima Island found something strange glinting in the dirt: a small solid-gold seal, no bigger than a fingertip. Carved on it were tiny Chinese characters saying it was a gift from a Chinese emperor to the king of a land called 'Na' — sent all the way across the sea nearly 2,000 years ago!",
+      "Centuries later, in the 1200s, powerful Mongol warships crossed the sea to invade Japan — and Hakata was right in their path. The people of the town raced to build a long stone wall along the beach to block the invaders' horses, and twice, just as the ships approached, huge typhoons roared in and swept the fleets away. People later called those storms the 'kamikaze,' or divine wind.",
+      "Today Hakata's old fighting spirit and love of good food live on every single night, when hundreds of little food carts called 'yatai' pop open along the streets, filling the air with steam and laughter. This is also the very city where creamy, rich tonkotsu ramen was born — so a bowl here tastes like a taste of Fukuoka's whole, wonderful story."
+    ],
+    "ja": [
+      "はるか昔、東京がまだ小さな村だったころ、日本の西のはしにある港町「博多」は、すでに中国や朝鮮から来る船でにぎわっていました。2000年以上もの間、絹や本、新しい考えを積んだ船がこの港にやって来て、ここは日本とアジアをつなぐ『げんかん』のような場所になったのです。",
+      "ずっと昔のある日、小さな志賀島で田んぼを耕していた農民が、土の中に光る何かを見つけました。指先ほどの大きさの、純金でできた印鑑（はんこ）でした！そこには小さな漢字で、中国の皇帝が「奴（な）」という国の王に贈ったものだと刻まれていました。なんと2000年近くも前に、海を渡ってやって来たのです！",
+      "それからずっと後の1200年代、強力なモンゴルの軍船が日本を攻めようと海を渡ってきました。その通り道になったのが、まさに博多でした。町の人々は急いで浜辺に長い石の壁を築いて敵の馬を防ぎ、不思議なことに船が近づくたびに大きな台風がおそって船団を吹き飛ばしました。人々はのちにこの嵐を『神風』、神様が送った風と呼んだのです。",
+      "今でも博多の元気な気風とおいしいもの好きは、毎晩よみがえります。通りに「屋台」という小さな屋台が何百軒も並んで開くと、湯気とにぎやかな笑い声でいっぱいになります。こってりまろやかな豚骨ラーメンが生まれたのも、この街なのです。だから、ここで一杯のラーメンを食べることは、福岡のすてきな物語をまるごと味わうことと同じなのですね。"
+    ],
+    "zh": [
+      "很久很久以前，在东京还只是个小村庄的时候，日本西端的港口小镇“博多”就已经因为往来中国和朝鲜的船只而热闹非凡。两千多年间，满载丝绸、书籍和新奇思想的船只不断驶入这座港口，让这里成为日本连接亚洲世界的“大门”。",
+      "很久以前的一天，在小小的志贺岛上耕田的农夫，在泥土里发现了闪闪发光的东西——一枚指尖大小的纯金印章！印章上刻着小小的汉字，写着这是中国皇帝赐给“奴国”国王的礼物，竟然是将近两千年前跨越大海送来的！",
+      "又过了很久，到了公元1200年代，强大的蒙古战船渡海来攻打日本，而博多正好挡在必经之路上。镇上的人们急忙沿着海边修起一道长长的石墙，挡住敌人的战马；更神奇的是，每次战船逼近时，都会突然刮起猛烈的台风，把整支舰队都卷走了。后来人们把这场风暴称为“神风”，意思是神明送来的风。",
+      "直到今天，博多那股勇敢的精神和对美食的热爱，每天夜里都会重新苏醒。街道上数百个叫“屋台”的小吃摊一开张，热气腾腾，笑声不断。浓郁香醇的豚骨拉面，也正是诞生在这座城市。所以，在这里吃上一碗拉面，就像把福冈这段精彩的故事整个尝了一遍。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1784년, 시카노시마에서 농부가 발견한 손가락만 한 순금 도장은 지금 후쿠오카시 박물관에 소중히 모셔진 국보예요.",
+      "1200년대 몽골군이 두 번이나 쳐들어왔는데, 두 번 다 커다란 태풍이 배를 휩쓸어버렸대요. 사람들은 이 바람을 '신이 보낸 바람(카미카제)'이라 불렀어요.",
+      "하카타 사람들은 몽골을 막으려고 해변을 따라 긴 돌담을 반년 만에 뚝딱 쌓았는데, 그 흔적이 지금도 남아 있어요.",
+      "후쿠오카는 비행기로 가면 일본의 수도 도쿄보다 한국 서울이 더 가까워요. 그래서 예로부터 아시아로 통하는 문이라 불렸대요.",
+      "밤이 되면 거리마다 '야타이'라는 작은 포장마차가 수백 개나 문을 열어요. 이렇게 많은 야타이가 모인 도시는 일본에서도 드물답니다.",
+      "진하고 뽀얀 국물의 돈코츠 라멘이 태어난 곳이 바로 후쿠오카(하카타)예요. 지금은 전 세계 사람들이 즐겨 먹는 라멘이 되었죠."
+    ],
+    "en": [
+      "In 1784, a farmer on Shikanoshima Island dug up a tiny solid-gold seal that's now a treasured National Treasure at the Fukuoka City Museum.",
+      "Mongol fleets invaded twice in the 1200s, and both times huge typhoons swept their ships away — people started calling those storms 'kamikaze,' the divine wind.",
+      "To block the Mongols, the people of Hakata built a long stone wall along the beach in just about half a year — and pieces of it still stand today.",
+      "Fukuoka is actually closer by plane to Seoul, South Korea, than to Tokyo — no wonder it's long been called Japan's gateway to Asia.",
+      "When night falls, hundreds of tiny outdoor food carts called 'yatai' pop open across the city — one of the biggest yatai scenes anywhere in Japan.",
+      "Rich, creamy tonkotsu ramen was born right here in Hakata, Fukuoka — now people all over the world slurp it up."
+    ],
+    "ja": [
+      "1784年、志賀島で農民が掘り当てた指先ほどの純金の印は、今では福岡市博物館に大切に展示されている国宝です。",
+      "1200年代、モンゴル軍が二度攻めてきましたが、どちらも大きな台風が船をなぎ倒しました。人々はこの嵐を『神風』と呼ぶようになりました。",
+      "モンゴルを防ぐため、博多の人々は浜辺に長い石垣をわずか半年ほどで築き上げ、その一部は今も残っています。",
+      "福岡は飛行機で行くと、実は東京より韓国のソウルの方が近いんです。だから昔からアジアへの玄関口と呼ばれてきました。",
+      "夜になると、街のあちこちで『屋台』という小さな屋台が何百軒も開きます。これほど屋台が集まる街は日本でも珍しいそうです。",
+      "こってりまろやかな豚骨ラーメンが生まれたのは、ここ博多・福岡です。今では世界中の人がすすっています。"
+    ],
+    "zh": [
+      "1784年，一位农夫在志贺岛挖出了一枚指尖大小的纯金印章，如今被作为国宝珍藏在福冈市博物馆里。",
+      "1200年代蒙古舰队两次入侵，两次都被巨大的台风卷走战船，人们从此把这种风暴称为“神风”。",
+      "为了挡住蒙古军队，博多人只用了大约半年就沿海岸修起一道长长的石墙，如今仍能看到部分遗迹。",
+      "福冈搭飞机去韩国首尔，其实比去东京还要近，难怪自古以来就被称为日本通往亚洲的大门。",
+      "每到夜晚，城里数百个叫“屋台”的露天小吃摊便纷纷开张，这样的屋台聚集规模在日本也十分少见。",
+      "浓郁香醇的豚骨拉面就诞生在博多、福冈这里，如今全世界的人都爱吸溜一碗。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도시를 구해준 태풍에 '신이 보낸 바람'이라는 별명이 붙었대. 정말로 폭풍이 누군가를 도와줄 수 있을까?",
+    "en": "A typhoon that saved a whole city got the nickname 'divine wind' — could a storm really be sent to help?",
+    "ja": "街を救った台風には『神風』というニックネームがついたんだって。嵐が本当にだれかを助けることってあるのかな？",
+    "zh": "拯救了整座城市的台风，居然被叫做“神风”。风暴真的能帮助人吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "구시다 신사", "en": "Kushida Shrine", "ja": "櫛田神社", "zh": "栉田神社" },
+      "blurb": {
+        "ko": "하카타 사람들이 '오쿠시다상'이라 부르며 아끼는 마을의 수호신이에요. 해마다 7월이면 이곳에서 커다란 장식 수레(야마카사)를 어깨에 메고 새벽 거리를 달리는 축제가 열려요. 800년 가까이 이어진 이 축제는 하카타 사람들의 씩씩한 기운을 그대로 보여준답니다.",
+        "en": "Hakata's own guardian shrine, lovingly called 'Okushida-san' by locals. Every July, teams hoist giant decorated floats called yamakasa onto their shoulders and race through the dawn streets right past this shrine. The tradition is nearly 800 years old and shows off Hakata's fearless, festive spirit.",
+        "ja": "博多の人々に『お櫛田さん』と呼ばれ親しまれている、街の守り神です。毎年7月には『山笠』という大きな飾り山を担いだ男たちが、夜明けの街をこの神社の前から駆け抜けるお祭りが行われます。800年近く続くこの祭りは、博多っ子の元気な気風そのものです。",
+        "zh": "这是博多人亲切地称为“御栉田大人”的守护神社。每年七月，人们会扛起名为“山笠”的巨大装饰花车，从这座神社出发，在黎明的街道上飞奔而过。这项延续了近800年的传统，正体现了博多人勇敢又热闹的精神。"
+      },
+      "coords": [33.5931, 130.4106]
+    },
+    {
+      "name": { "ko": "후쿠오카성 터 (마이즈루 공원)", "en": "Fukuoka Castle Ruins (Maizuru Park)", "ja": "福岡城跡（舞鶴公園）", "zh": "福冈城遗址（舞鹤公园）" },
+      "blurb": {
+        "ko": "400여 년 전 이 지역을 다스리던 영주가 지은 커다란 성이 있던 자리예요. 지금은 건물은 사라졌지만, 웅장한 돌담과 성터가 그대로 남아 있어 옛날 규모를 짐작하게 해줘요. 봄이면 벚꽃이 활짝 피어 공원 전체가 분홍빛으로 물든답니다.",
+        "en": "This is where a huge castle once stood, built by the lord who ruled this region over 400 years ago. The buildings are gone now, but the massive stone walls and foundations remain, hinting at just how grand it once was. In spring, cherry blossoms turn the whole park pink.",
+        "ja": "400年以上前、この地を治めた大名が築いた大きなお城があった場所です。建物はなくなりましたが、迫力ある石垣や土台はそのまま残り、当時の壮大さを今に伝えています。春には桜が満開になり、公園全体がピンク色に染まります。",
+        "zh": "这里曾矗立着四百多年前统治此地的藩主所建的宏伟城堡。如今建筑虽已不在，但雄伟的石墙和地基依然保留，让人能想象当年的气势。春天樱花盛开时，整座公园都会染上一片粉色。"
+      },
+      "coords": [33.5847, 130.3791]
+    },
+    {
+      "name": { "ko": "시카노시마 (금인 공원)", "en": "Shikanoshima Island (Kin-in Park)", "ja": "志賀島（金印公園）", "zh": "志贺岛（金印公园）" },
+      "blurb": {
+        "ko": "하카타 만에 떠 있는 작은 섬으로, 다리로 육지와 연결돼 있어요. 바로 이 섬 밭에서 그 유명한 순금 도장이 발견됐답니다. 발견 장소에 만든 '금인 공원'에 서면 2000년 전 바다 건너 온 특별한 선물의 이야기를 느낄 수 있어요.",
+        "en": "A small island floating in Hakata Bay, connected to the mainland by a bridge. It was in a field right here that the famous solid-gold seal was dug up. Stand in Kin-in Park, built at the discovery spot, and imagine that special gift arriving across the sea 2,000 years ago.",
+        "ja": "博多湾に浮かぶ小さな島で、橋で本土とつながっています。あの有名な純金の印が発見されたのは、まさにこの島の畑でした。発見地に作られた『金印公園』に立つと、2000年前に海を渡ってきた特別な贈り物の物語を感じられます。",
+        "zh": "这是漂浮在博多湾中的一座小岛，有桥梁与陆地相连。那枚著名的纯金印章，正是在这座岛上的田地里被发现的。站在为纪念发现地而建的“金印公园”里，仿佛能感受到两千年前那份跨海而来的特别礼物的故事。"
+      },
+      "coords": [33.6613, 130.3653]
+    },
+    {
+      "name": { "ko": "겐코 보루이 (몽골 방어벽 유적)", "en": "Genko Borui (Mongol Invasion Wall)", "ja": "元寇防塁", "zh": "元寇防垒（蒙古防御墙遗迹）" },
+      "blurb": {
+        "ko": "몽골의 침략을 막으려고 하카타 해변을 따라 쌓았던 기다란 돌담의 흔적이에요. 급하게 쌓았다는데도 놀랄 만큼 튼튼해서, 700년이 넘게 지난 지금도 일부가 그대로 남아 있어요. 손으로 만져보면 그날의 다급함이 느껴질 것 같아요.",
+        "en": "The remains of a long stone wall built along Hakata's beach to hold back Mongol invaders. Even though it was built in a hurry, it was so sturdy that pieces of it still stand more than 700 years later. Touch the stones and you can almost feel how urgent that day must have been.",
+        "ja": "モンゴルの侵略を防ぐために、博多の浜辺沿いに築かれた長い石垣の跡です。急いで築いたにもかかわらず驚くほど頑丈で、700年以上たった今もその一部が残っています。石に触れると、あの日の切迫感が伝わってくるようです。",
+        "zh": "这是为了阻挡蒙古军入侵，沿博多海滩修筑的长石墙遗迹。虽然是仓促建成，却异常坚固，七百多年后的今天仍有部分保存至今。用手触摸这些石头，仿佛还能感受到当年的紧迫气氛。"
+      },
+      "coords": [33.5836, 130.3543]
+    }
+  ]
+}

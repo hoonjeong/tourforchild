@@ -1,0 +1,120 @@
+{
+  "id": "zermatt",
+  "country": "ch",
+  "coords": [46.0207, 7.7491],
+  "name": { "ko": "체르마트", "en": "Zermatt", "ja": "ツェルマット", "zh": "采尔马特" },
+  "tagline": {
+    "ko": "자동차 없는 마을 뒤로 솟은, 세상에서 가장 유명한 뾰족 산",
+    "en": "A car-free village beneath the world's most famous pointy mountain",
+    "ja": "車のない村の後ろにそびえる、世界一有名なとがった山",
+    "zh": "无车村庄背后,矗立着世界上最著名的尖山"
+  },
+  "story": {
+    "ko": [
+      "스위스 알프스산맥 깊은 곳에는 '체르마트'라는 작은 마을이 있어요. 마을 뒤에는 어찌나 뾰족한지 커다란 돌 피라미드처럼 보이는 산이 우뚝 솟아 있는데, 바로 '마터호른'이에요. 이 산은 어느 방향에서 봐도 모양이 다 다르게 보일 만큼 날카롭게 생겼답니다. 그런데 체르마트 마을엔 자동차 경적 소리가 전혀 안 들려요. 휘발유 자동차는 아예 다닐 수 없고, 전기택시와 자전거, 눈 위를 미끄러지는 말이 끄는 썰매만 다니거든요.",
+      "수백 년 동안 마터호른은 어떤 등반가도 오르지 못하게 막아섰어요. 바위벽이 너무 가파르고 날카로워서 너무 위험했거든요. 알프스의 다른 큰 봉우리들은 벌써 다 정복됐는데, 마터호른만은 아무도 풀지 못한 퍼즐처럼 홀로 남아 있었죠. 그러다 1865년, 영국 청년 에드워드 윔퍼와 그 일행이 마침내 꼭대기까지 기어올라, 처음으로 얼음 덮인 정상에 발을 디딘 사람들이 되었답니다.",
+      "오늘날 체르마트에는 산에 오르는 훨씬 편한 방법이 생겼어요. 1898년부터 다니기 시작한 빨간색 톱니바퀴 기차 '고르너그라트 열차'는 터널 하나 없이 산등성이를 오르는데, 타고 가는 내내 마터호른이 점점 커지는 모습을 볼 수 있어요. 케이블카는 사람들을 더 높이, '마터호른 글레이셔 파라다이스'까지 데려다주는데요, 해발 3883미터로 유럽에서 가장 높은 케이블카 역이에요. 한여름에도 눈이 쌓여 있어서 스키를 탈 수 있답니다.",
+      "그리고 한 가지 달콤한 이야기가 있어요. 세모난 초콜릿 '토블론'의 모양이 바로 이 마터호른에서 영감을 얻었다는 이야기가 전해진답니다. 그러니 다음에 토블론 초콜릿 포장지를 벗길 때, 지구에서 가장 유명한 산 중 하나를 작고 맛있게 손에 쥐고 있는 셈이죠."
+    ],
+    "en": [
+      "High up in the Swiss Alps sits a tiny village called Zermatt, tucked beneath a mountain so perfectly pointy it looks like a giant stone pyramid. This mountain is the Matterhorn, and it's shaped so sharply that from every direction it looks like a different peak. In Zermatt, you won't hear a single car horn — no gas-powered cars are allowed in the village at all, just electric taxis, bikes, and horse-drawn sleighs gliding through snowy streets.",
+      "For hundreds of years, the Matterhorn scared away every climber who dared try it — its rock walls were too steep, too sharp, too dangerous. While climbers had already reached the top of nearly every other big peak in the Alps, the Matterhorn stood alone, unclimbed, like a puzzle nobody could solve. Then in 1865, a young Englishman named Edward Whymper and his team finally scrambled to the very top — becoming the first people ever to stand on its icy summit.",
+      "Today Zermatt has found gentler ways to reach the mountains. A cheerful red cogwheel train called the Gornergrat Railway has been climbing a nearby ridge since 1898, without a single tunnel, so riders can watch the Matterhorn grow bigger the whole way up. Cable cars carry visitors even higher, all the way to Matterhorn Glacier Paradise — at 3,883 meters, the highest cable car station in all of Europe, where you can find snow for skiing even in the middle of summer.",
+      "And here's something sweet: many people say the triangular shape of Toblerone chocolate was inspired by this very mountain. So the next time you unwrap a Toblerone bar, you might be holding a tiny, tasty copy of one of the most famous mountains on Earth."
+    ],
+    "ja": [
+      "スイスアルプスの奥深くに、『ツェルマット』という小さな村があります。村の後ろには、まるで巨大な石のピラミッドのようにとがった山がそびえていて、それが『マッターホルン』です。この山はどの方向から見ても違う形に見えるほど、鋭くとがっています。でもツェルマットの村では、車のクラクションはまったく聞こえません。ガソリン車は村の中を一切走れず、電気タクシーや自転車、雪の上をすべる馬ぞりだけが行き交っているのです。",
+      "マッターホルンは何百年もの間、どんな登山家も寄せつけませんでした。岩の壁があまりに急で鋭く、危険すぎたからです。アルプスの他の大きな山々はすでに登られていたのに、マッターホルンだけは誰も解けないパズルのように、一人ぼっちで残っていました。そして1865年、イギリスの若者エドワード・ウィンパーとその仲間たちがついに頂上までよじ登り、初めて氷におおわれた山頂に立った人々になったのです。",
+      "今のツェルマットには、もっとやさしく山に登る方法があります。1898年から走り始めた赤い歯車列車『ゴルナーグラート鉄道』は、トンネルが一つもなく尾根を登っていくので、乗っている間ずっとマッターホルンがだんだん大きくなるのを見ることができます。ロープウェイはさらに高く、『マッターホルン・グレイシャー・パラダイス』まで人々を運びます。標高3883メートルで、ヨーロッパで一番高いロープウェイの駅なんです。真夏でも雪が残っていて、スキーができるんですよ。",
+      "そして、もう一つ甘いお話があります。三角形のチョコレート『トブラローネ』の形は、このマッターホルンからヒントを得たと言われているんです。だから今度トブラローネの包みを開けるとき、あなたは地球で一番有名な山の一つを、小さくておいしい形で手にしているのかもしれませんね。"
+    ],
+    "zh": [
+      "在瑞士阿尔卑斯山深处,有一个叫“采尔马特”的小村庄。村子后面耸立着一座尖得像巨大石头金字塔的山,那就是“马特洪峰”。这座山的形状十分锐利,从不同方向看去竟像是完全不同的山峰。可是在采尔马特村里,你几乎听不到一声汽车喇叭——因为村里根本不允许汽油车通行,只有电动出租车、自行车,还有在雪地上滑行的马拉雪橇。",
+      "几百年来,马特洪峰挡住了所有想要征服它的登山者。它的岩壁太陡、太尖锐,实在太危险了。阿尔卑斯山其他的大山峰都已经被人登顶,唯独马特洪峰像一道无人能解的谜题,孤零零地留在那里。直到1865年,一位名叫爱德华·温珀的英国青年和他的队伍终于攀上了顶峰,成为第一批站上那冰雪覆盖山顶的人。",
+      "如今的采尔马特有了更轻松登山的方法。从1898年就开始运行的红色齿轮小火车“戈尔内格拉特铁路”,沿着山脊爬升,全程没有一条隧道,乘客可以一路看着马特洪峰越变越大。缆车则把游客送得更高,一直到“马特洪峰冰川天堂”——海拔3883米,是全欧洲最高的缆车站。就算是盛夏,那里也积着雪,可以滑雪呢。",
+      "还有一个甜蜜的小故事:据说三角形的“瑞士三角巧克力”(Toblerone)的形状,灵感正是来自这座马特洪峰。所以下次你打开一块瑞士三角巧克力的包装纸时,说不定正拿着地球上最有名的山峰之一的迷你可口版本呢。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "마터호른은 높이가 4478미터나 되고, 지구에서 가장 많이 사진 찍히는 산 중 하나예요.",
+      "마터호른은 알프스에서 가장 늦게 정복된 큰 봉우리 중 하나예요. 1865년이 되어서야 처음 정상에 올랐답니다!",
+      "체르마트 마을에는 일반 자동차가 아예 다닐 수 없어요. 다들 전기택시나 자전거, 말이 끄는 썰매로 이동한대요.",
+      "세모난 초콜릿 '토블론'의 모양이 마터호른을 본떠 만들어졌다는 이야기가 전해져요.",
+      "고르너그라트 톱니바퀴 기차는 1898년부터 산을 올랐는데, 터널이 단 하나도 없대요.",
+      "마터호른 글레이셔 파라다이스는 해발 3883미터, 유럽에서 가장 높은 케이블카 역이에요. 한여름에도 눈이 있어 스키를 탈 수 있답니다!"
+    ],
+    "en": [
+      "The Matterhorn stands 4,478 meters tall and is one of the most photographed mountains on Earth.",
+      "It was one of the very last great peaks in the Alps to be climbed — nobody reached the top until 1865!",
+      "Zermatt doesn't allow regular cars at all — everyone gets around by electric taxi, bike, or horse-drawn sleigh.",
+      "Legend says the triangular Toblerone chocolate bar was shaped to look just like the Matterhorn.",
+      "The Gornergrat cogwheel train has been climbing the mountain since 1898 — and it doesn't go through a single tunnel.",
+      "Matterhorn Glacier Paradise sits 3,883 meters up, the highest cable car station in Europe — with snow for skiing even in summer!"
+    ],
+    "ja": [
+      "マッターホルンは標高4478メートルもあり、地球で最も写真に撮られる山の一つです。",
+      "マッターホルンはアルプスで最後まで登られなかった大きな山の一つ。初登頂は1865年でした!",
+      "ツェルマットの村には普通の車が一切走れません。みんな電気タクシーや自転車、馬ぞりで移動するんです。",
+      "三角形のチョコレート『トブラローネ』の形は、マッターホルンをモデルにしたと言われています。",
+      "ゴルナーグラートの歯車列車は1898年から山を登っていて、トンネルが一つもありません。",
+      "マッターホルン・グレイシャー・パラダイスは標高3883メートル、ヨーロッパで一番高いロープウェイの駅。真夏でも雪が残っていて、スキーができます!"
+    ],
+    "zh": [
+      "马特洪峰海拔高达4478米,是地球上被拍照次数最多的山峰之一。",
+      "马特洪峰是阿尔卑斯山最后被征服的大山峰之一,直到1865年才第一次被人登顶!",
+      "采尔马特村里完全不允许普通汽车通行,大家都靠电动出租车、自行车或马拉雪橇出行。",
+      "据说三角形的瑞士三角巧克力,形状就是照着马特洪峰设计的。",
+      "戈尔内格拉特齿轮小火车从1898年起就在山上运行,而且全程没有一条隧道。",
+      "马特洪峰冰川天堂海拔3883米,是欧洲最高的缆车站,就算盛夏也有雪可以滑雪!"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "유명한 초콜릿 모양이 사실은 진짜 산 모양을 따라 만든 거래! 어떤 산일까?",
+    "en": "Did you know a famous chocolate bar might be shaped like a real mountain? Can you guess which one?",
+    "ja": "有名なチョコレートの形が、本物の山の形をまねているって知ってた？どの山かな？",
+    "zh": "你知道吗,有一款有名的巧克力形状可能就是照着一座真山做的哦!你猜是哪座山?"
+  },
+  "places": [
+    {
+      "name": { "ko": "마터호른", "en": "Matterhorn", "ja": "マッターホルン", "zh": "马特洪峰" },
+      "blurb": {
+        "ko": "체르마트 마을 어디서든 올려다보이는 뾰족한 산이에요. 1865년 처음 정상에 오른 뒤로 전 세계 산악인들의 꿈이 되었고, 지금도 그 완벽한 삼각형 모양으로 사람들을 놀라게 한답니다.",
+        "en": "The sharp pyramid peak you can see from almost anywhere in Zermatt. Ever since its first ascent in 1865, it's been a dream mountain for climbers worldwide, and its almost-too-perfect triangle shape still amazes everyone who sees it.",
+        "ja": "ツェルマットのほとんどどこからでも見上げられる、とがったピラミッドのような山。1865年の初登頂以来、世界中の登山家のあこがれとなり、その完璧すぎる三角形の姿は今も人々を驚かせています。",
+        "zh": "从采尔马特几乎任何角落都能仰望到的尖锐金字塔形山峰。自1865年首次登顶以来,它就成了全世界登山者梦寐以求的高峰,那近乎完美的三角形轮廓至今仍令人惊叹。"
+      },
+      "coords": [45.9763, 7.6586]
+    },
+    {
+      "name": { "ko": "고르너그라트 전망대", "en": "Gornergrat", "ja": "ゴルナーグラート展望台", "zh": "戈尔内格拉特观景台" },
+      "blurb": {
+        "ko": "1898년부터 다닌 빨간 톱니바퀴 기차를 타고 올라가는 전망대예요. 정상에 서면 마터호른은 물론 알프스에서 두 번째로 큰 빙하까지 한눈에 펼쳐진답니다.",
+        "en": "A viewpoint you reach on the red cogwheel train that's been climbing since 1898. From the top, you can see the Matterhorn and even the second-largest glacier in the Alps spread out before you.",
+        "ja": "1898年から走る赤い歯車列車で登る展望台。頂上に立てば、マッターホルンはもちろん、アルプスで2番目に大きな氷河まで一望できます。",
+        "zh": "乘坐自1898年起运行的红色齿轮小火车就能到达的观景台。站在山顶,不仅能看到马特洪峰,还能将阿尔卑斯山第二大冰川尽收眼底。"
+      },
+      "coords": [45.9847, 7.7858]
+    },
+    {
+      "name": { "ko": "체르마트 마을 (반호프거리)", "en": "Zermatt Village (Bahnhofstrasse)", "ja": "ツェルマット村（バーンホフ通り）", "zh": "采尔马特村(火车站大街)" },
+      "blurb": {
+        "ko": "자동차 없는 마을답게, 이 중심 거리에는 전기택시와 자전거, 겨울엔 말썰매만 다녀요. 나무로 지은 오래된 곳간들 사이를 걷다 보면 시간이 느려진 듯한 기분이 든답니다.",
+        "en": "In this car-free heart of the village, only electric taxis, bicycles, and (in winter) horse-drawn sleighs go by. Walking past the old wooden storehouses on stilts, you'll feel like time has slowed way down.",
+        "ja": "車のない村の中心らしく、この通りには電気タクシーと自転車、冬には馬ぞりしか通りません。高床式の古い木造倉庫の間を歩くと、時間がゆっくり流れているように感じます。",
+        "zh": "作为无车村庄的中心,这条街上只有电动出租车、自行车,冬天还有马拉雪橇经过。走在那些高脚木仓库之间,仿佛时间都慢了下来。"
+      },
+      "coords": [46.0207, 7.7491]
+    },
+    {
+      "name": { "ko": "마터호른 글레이셔 파라다이스", "en": "Matterhorn Glacier Paradise", "ja": "マッターホルン・グレイシャー・パラダイス", "zh": "马特洪峰冰川天堂" },
+      "blurb": {
+        "ko": "케이블카를 타고 해발 3883미터까지 올라가면 나오는 곳으로, 유럽에서 가장 높은 케이블카 역이에요. 한여름에도 새하얀 눈 위에서 스키를 탈 수 있는 신기한 곳이랍니다.",
+        "en": "A cable car ride takes you up to 3,883 meters here — the highest cable car station in Europe. It's a magical spot where you can ski on bright white snow even in the middle of summer.",
+        "ja": "ロープウェイに乗って標高3883メートルまで登った先にある、ヨーロッパで一番高いロープウェイの駅。真夏でも真っ白な雪の上でスキーができる、不思議な場所です。",
+        "zh": "乘坐缆车一路爬升到海拔3883米,这里是欧洲最高的缆车站。就算是盛夏,也能在洁白的雪地上滑雪,是个神奇的地方。"
+      },
+      "coords": [45.9382, 7.7273]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "tulum",
+  "country": "mx",
+  "coords": [20.2144, -87.4295],
+  "name": { "ko": "툴룸", "en": "Tulum", "ja": "トゥルム", "zh": "图卢姆" },
+  "tagline": {
+    "ko": "청록빛 바다 위 절벽에 세워진 유일한 마야 도시",
+    "en": "The only Maya city built on a cliff over a turquoise sea",
+    "ja": "ターコイズブルーの海を望む崖の上に建つ、唯一のマヤの街",
+    "zh": "唯一一座建在碧蓝加勒比海悬崖之上的玛雅城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 반짝이는 청록빛 바다 위 절벽에 마야 사람들이 도시를 세웠어요. 그들은 이 도시를 '사마'라고 불렀는데, '새벽의 도시'라는 뜻이었죠. 매일 아침 해가 바다 위로 떠오르면 벼랑 끝에 선 돌 신전들이 환하게 빛났어요. 어부들은 카누를 타고 나가고, 상인들은 옥과 카카오를 싣고 찾아와 마을은 파도 위에서 늘 북적였답니다.",
+      "나중에 사람들은 이곳을 '툴룸'이라고 불렀는데, 마야 말로 '담장'이라는 뜻이에요. 두꺼운 돌담이 도시의 세 면을 요새처럼 둘러싸고 있었거든요. 이건 정말 특별한 일이었어요. 대부분의 마야 도시는 정글 깊숙이 숨어 있었지만, 툴룸은 바닷가에 당당히 서서 절벽 아래 북적이는 항구를 지키고 있었죠.",
+      "도시에서 가장 높은 곳에는 '엘 카스티요'라는 피라미드 신전이 서 있는데, 놀랍게도 등대 역할도 했어요. 밤이 되면 사제들이 작은 창문 두 개에 불을 밝혔고, 뱃사람들은 그 두 불빛이 일직선이 되도록 카누를 조종하면, 산호초 사이 좁은 틈을 정확히 통과할 수 있었답니다.",
+      "툴룸은 어찌나 강하고 활기찼던지, 1518년 스페인 배들이 지나갈 때도 여전히 사람들로 북적이는, 마지막까지 살아 있던 마야 도시 중 하나였어요. 오늘도 신전들은 해돋이를 바라보고, 이구아나들은 따뜻한 돌 위에서 낮잠을 자고, 절벽 아래에는 800년 전과 똑같은 청록빛 바다가 여러분을 향해 첨벙 뛰어들라고 손짓한답니다."
+    ],
+    "en": [
+      "Long ago, on a cliff above a brilliant turquoise sea, the Maya built a city so lovely they named it Zama, the City of Dawn. Every morning the sun rose right over the water, lighting up the stone temples perched on the edge of the world. Fishermen paddled out in canoes, traders arrived with jade and cacao, and the whole town buzzed above the waves.",
+      "Later people called it Tulum, meaning 'wall,' because thick stone walls wrapped around three sides of the city like a fortress. That made it almost one of a kind—most Maya cities hid deep in the jungle, but Tulum stood proudly by the sea, guarding a busy trading port below the cliffs.",
+      "At the highest point stands El Castillo, a pyramid-temple that did double duty as a lighthouse. At night, priests lit fires in two small windows, and when sailors lined up the two flickering lights just right, they knew exactly how to steer their canoes through a narrow gap in the coral reef.",
+      "Tulum was so strong and so alive that it was still bustling when Spanish ships sailed past in 1518—one of the last great Maya cities standing. Today the temples still watch the sunrise, iguanas doze on warm stones, and just below the cliff, the very same turquoise water invites you for a swim, exactly like it did 800 years ago."
+    ],
+    "ja": [
+      "はるか昔、輝くターコイズブルーの海を見下ろす崖の上に、マヤの人々が街を築きました。人々はこの街を『サマー』、つまり『夜明けの街』と呼びました。毎朝、太陽が海の上からのぼると、崖のふちに立つ石の神殿がきらきらと輝きました。漁師たちはカヌーで漁に出て、商人たちはヒスイやカカオを運んできて、街はいつも波の上でにぎわっていました。",
+      "のちに人々はここを『トゥルム』と呼ぶようになりました。マヤの言葉で『壁』という意味です。厚い石の壁が、まるで砦のように街の三方をぐるりと囲んでいたからです。これはとても珍しいことでした。ほとんどのマヤの街はジャングルの奥深くに隠れていましたが、トゥルムは海のそばに堂々と立ち、崖の下のにぎやかな港を守っていたのです。",
+      "街でいちばん高い場所には『エル・カスティージョ』という神殿ピラミッドが立っていて、なんと灯台の役目も果たしていました。夜になると神官が二つの小さな窓に火をともし、船乗りたちはその二つの明かりがぴったり一直線に見えるようにカヌーを進めれば、サンゴ礁のあいだの狭いすき間をちゃんと通り抜けられたのです。",
+      "トゥルムはとても強く活気にあふれていたので、1518年にスペインの船が通りかかったときも、まだにぎわっていました。最後まで残っていたマヤの大都市のひとつだったのです。今日でも神殿は夜明けを見つめ、イグアナたちは温かい石の上で昼寝をし、崖の下には800年前と同じターコイズブルーの海が、みんなを泳ぎにおいでと誘っています。"
+    ],
+    "zh": [
+      "很久很久以前，在俯瞰着碧蓝加勒比海的悬崖上，玛雅人建起了一座城市。他们把它叫作“萨玛”，意思是“黎明之城”。每天清晨，太阳从海面升起，照亮悬崖边一座座石头神庙，闪闪发光。渔民划着独木舟出海捕鱼，商人带着玉石和可可豆前来交易，整座城市在波浪之上总是热热闹闹的。",
+      "后来，人们把这里称为“图卢姆”，在玛雅语里是“围墙”的意思，因为厚厚的石墙像城堡一样把城市的三面都围了起来。这可十分特别——大多数玛雅城市都藏在丛林深处，而图卢姆却傲然立于海边，守护着悬崖下繁忙的港口。",
+      "城中最高处矗立着一座名叫“埃尔卡斯蒂略”的金字塔神庙，它竟然还兼职当“灯塔”！到了夜晚，祭司会在两扇小窗里点起火焰，水手们只要把两团火光对成一条直线来驾驶独木舟，就能准确地穿过珊瑚礁间的狭窄缺口，安全靠岸。",
+      "图卢姆是那么强盛、那么有活力，以至于1518年西班牙船只经过时，这里依然人来人往——它是玛雅人坚持到最后的伟大城市之一。今天，神庙依旧望着日出，鬣蜥们趴在温暖的石头上晒太阳，悬崖下同样碧蓝的海水，就像800年前一样，正邀请你跳下去畅游一番。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "툴룸의 옛 마야 이름은 '사마'로, '새벽의 도시'라는 뜻이에요. 바다 위로 해가 뜨는 쪽을 바라보고 지어진 몇 안 되는 마야 도시 중 하나랍니다.",
+      "툴룸은 세 방향이 돌담으로 둘러싸인, 아주 드문 마야 도시예요. 나머지 한쪽은 깎아지른 바다 절벽이 지켜 주었죠.",
+      "1518년 스페인 배가 지나갈 때도 사람들이 여전히 살고 있었대요. 유럽인들이 도착했을 때까지 북적이던 마지막 마야 대도시 중 하나였죠.",
+      "엘 카스티요의 작은 창문 두 개에 불을 밝혀서, 바다 저 멀리 산호초 사이의 좁은 틈과 일직선이 되게 만들었어요. 진짜 '마야식 등대'였던 거죠!",
+      "프레스코 신전 벽화는 '마야 블루'라는 신비한 물감으로 그려졌는데, 무려 800년이 지나도 색이 바래지 않고 남아 있어요.",
+      "근처 세노테(천연 샘)들은 땅속 깊은 곳까지 이어진 지구에서 가장 긴 물에 잠긴 동굴들과 연결돼 있어요. 마야 사람들은 이곳을 저승으로 통하는 문이라고 믿었답니다."
+    ],
+    "en": [
+      "Tulum's old Maya name was Zama, 'City of Dawn'—it's one of the only Maya cities built facing the sunrise over the sea.",
+      "It's one of the very few Maya cities protected by a stone wall on three sides, with the fourth side guarded by ocean cliffs.",
+      "Spanish sailors passing by in 1518 found people still living here—it was one of the last great Maya cities still bustling when Europeans arrived.",
+      "Fires were lit inside two tiny windows on El Castillo, lined up with a gap in the offshore reef, to guide canoes safely to shore at night—a real Maya lighthouse!",
+      "The murals inside the Temple of the Frescoes were painted with mysterious 'Maya Blue' paint, and the color has barely faded in 800 years.",
+      "Nearby cenotes connect to some of the longest flooded cave systems on Earth—the Maya believed these sinkhole pools were doorways to the underworld."
+    ],
+    "ja": [
+      "トゥルムの昔のマヤ名は『サマー』、『夜明けの街』という意味。海から太陽がのぼる方角を向いて建てられた、数少ないマヤの街のひとつです。",
+      "トゥルムは三方を石の壁に守られた、とても珍しいマヤの街。残る一方は切り立った海の崖が守っていました。",
+      "1518年にスペインの船が通りかかったとき、まだ人々が暮らしていました。ヨーロッパ人が来たときも活気があった、最後まで残ったマヤの大都市のひとつです。",
+      "エル・カスティージョの小さな窓二つに火をともし、沖のサンゴ礁のすき間と一直線に見えるようにして、夜のカヌーを安全に導きました。まさに『マヤの灯台』！",
+      "神殿の壁画は『マヤ・ブルー』という不思議な絵の具で描かれていて、800年たってもほとんど色あせていません。",
+      "近くのセノーテ（天然の泉）は、地球でも指折りの長さを誇る水没した洞くつとつながっています。マヤの人々はここを死者の国への入り口だと信じていました。"
+    ],
+    "zh": [
+      "图卢姆古时候的玛雅名字叫“萨玛”，意思是“黎明之城”——它是少数几座正对着海上日出而建的玛雅城市之一。",
+      "图卢姆是极少数三面都有石墙保护的玛雅城市，第四面则由陡峭的海边悬崖守护着。",
+      "1518年西班牙船只经过时，这里依然有人居住——它是欧洲人到来时仍然繁忙的最后几座玛雅大城市之一。",
+      "人们在埃尔卡斯蒂略的两扇小窗里点起火焰，让它们与远处珊瑚礁的缺口对成一条直线，为夜里的独木舟指路——这可是名副其实的“玛雅灯塔”！",
+      "神庙壁画用神秘的“玛雅蓝”颜料绘制而成，即使过了800年，颜色也几乎没有褪去。",
+      "附近的天然井（灰岩坑）连接着地球上最长的水下洞穴系统之一，玛雅人相信这些水潭是通往地下世界的大门。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "이 피라미드가 수백 년 전에 등대 역할을 했대요. 전기도 없이 어떻게 불을 밝혔을지 맞혀볼래?",
+    "en": "This pyramid worked like a lighthouse hundreds of years ago—can you guess how they made it glow without any electricity?",
+    "ja": "このピラミッドは何百年も前、灯台の役目をしていたんだって。電気もないのに、どうやって光らせたと思う？",
+    "zh": "这座金字塔在几百年前竟然当过灯塔——你能猜到没有电他们是怎么让它发光的吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "엘 카스티요 (성채 신전)", "en": "El Castillo", "ja": "エル・カスティージョ", "zh": "埃尔卡斯蒂略" },
+      "blurb": {
+        "ko": "절벽 끝에 우뚝 선 툴룸에서 가장 높은 신전이에요. 옛날엔 밤마다 두 개의 작은 창문에 불을 밝혀, 아래쪽 산호초 틈으로 카누를 안전하게 안내했대요. 마을에서 해돋이가 가장 멋진 등대인 셈이죠.",
+        "en": "The tallest temple in Tulum, perched right on the cliff's edge. Long ago its two small windows were lit with fire at night to guide canoes safely through a gap in the reef below—a Maya lighthouse with the best sunrise view in town.",
+        "ja": "崖のふちに立つ、トゥルムでいちばん高い神殿。昔は夜になると二つの小さな窓に火をともし、下のサンゴ礁のすき間を通ってカヌーを安全に導いていました。街いちばんの朝日が見える灯台です。",
+        "zh": "屹立在悬崖边、图卢姆城内最高的神庙。很久以前，人们每晚在它的两扇小窗里点起火焰，为下方珊瑚礁缺口处的独木舟指路。它是全城看日出最美的一座“灯塔”。"
+      },
+      "coords": [20.2151, -87.4288]
+    },
+    {
+      "name": { "ko": "프레스코 신전", "en": "Temple of the Frescoes", "ja": "フレスコ神殿", "zh": "壁画神庙" },
+      "blurb": {
+        "ko": "안쪽 벽에 마야 신들의 그림이 알록달록하게 그려진 작은 신전이에요. '마야 블루'라는 신비한 파란 물감으로 그렸는데, 800년이 지나도 색이 거의 바래지 않아 과학자들도 아직 그 비법을 연구하고 있대요.",
+        "en": "A smaller temple covered inside with colorful murals of Maya gods, painted in a mysterious blue pigment called Maya Blue. Scientists still study its recipe—the color has barely faded after 800 years!",
+        "ja": "内側の壁にマヤの神々のカラフルな絵が描かれた小さな神殿。『マヤ・ブルー』という不思議な青い絵の具で描かれ、800年たってもほとんど色あせず、今も科学者たちがその作り方を研究しています。",
+        "zh": "一座内壁绘满玛雅诸神彩色壁画的小神庙。壁画所用的“玛雅蓝”颜料十分神秘，历经800年颜色几乎没有褪去，如今科学家仍在研究它的配方。"
+      },
+      "coords": [20.2149, -87.4291]
+    },
+    {
+      "name": { "ko": "그란 세노테", "en": "Gran Cenote", "ja": "グラン・セノーテ", "zh": "大天然井" },
+      "blurb": {
+        "ko": "마을 바로 밖에 있는 반짝이는 세노테(천연 샘)예요. 물이 어찌나 맑은지 물속에서 헤엄치는 거북이와 물고기가 훤히 보인답니다. 마야 사람들은 이런 세노테를 저승으로 이어지는 신성한 문이라고 믿었어요.",
+        "en": "A sparkling sinkhole pool just outside town, so clear you can see turtles and fish swimming below the surface. The Maya believed cenotes like this one were sacred doorways down into the underworld.",
+        "ja": "街のすぐ外にある、きらきら輝くセノーテ（天然の泉）。水がとても澄んでいて、泳ぐカメや魚まで見えるほど。マヤの人々は、こうしたセノーテを死者の国へ続く神聖な入り口だと信じていました。",
+        "zh": "位于小镇外的一处清澈天然井，水清得能看见水里游动的海龟和鱼。玛雅人相信，像这样的天然井是通往地下世界的神圣之门。"
+      },
+      "coords": [20.2229, -87.4649]
+    },
+    {
+      "name": { "ko": "절벽 아래 해변 (산호초)", "en": "The Reef Beach Below the Ruins", "ja": "遺跡下のビーチ（サンゴ礁）", "zh": "遗迹下的珊瑚礁海滩" },
+      "blurb": {
+        "ko": "유적 바로 아래 새하얀 모래사장이에요. 세계에서 두 번째로 큰 산호초인 '메소아메리카 대암초'의 일부랍니다. 옛날 마야 뱃사람들이 카누로 건너다니던 바로 그 청록빛 바다에서 헤엄쳐 볼 수 있어요.",
+        "en": "The powder-white beach right below the ruins, part of the giant Mesoamerican Reef—the second largest coral reef on Earth. Hop in for a swim in the very same turquoise water Maya sailors once paddled across.",
+        "ja": "遺跡のすぐ下に広がる真っ白な砂浜。世界で2番目に大きなサンゴ礁『メソアメリカ・リーフ』の一部です。昔マヤの船乗りたちがカヌーで渡っていた、同じターコイズブルーの海で泳いでみよう。",
+        "zh": "遗迹正下方那片洁白的沙滩，属于世界第二大珊瑚礁——中美洲大堡礁的一部分。跳进水里游泳吧，这正是当年玛雅船夫划着独木舟穿行的那片碧蓝海水。"
+      },
+      "coords": [20.2168, -87.4297]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "wellington",
+  "country": "nz",
+  "coords": [-41.2865, 174.7762],
+  "name": { "ko": "웰링턴", "en": "Wellington", "ja": "ウェリントン", "zh": "惠灵顿" },
+  "tagline": {
+    "ko": "영화 속 마법과 공룡시대 동물이 함께 사는, 세계에서 가장 바람이 센 수도",
+    "en": "The world's windiest capital, where movie magic and dinosaur-age creatures come alive",
+    "ja": "映画の魔法と恐竜時代の生きものが今も息づく、世界一風の強い首都",
+    "zh": "电影魔法与恐龙时代生物共存的、世界上风最大的首都"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 폴리네시아의 위대한 탐험가 쿠페가 넓은 태평양을 건너 새로운 땅 끝자락에서 아름다운 항구를 발견했어요. 그는 이 항구를 '테 왕아누이아타라(타라의 커다란 항구)'라고 이름 지었답니다. 오늘날 그 항구를 감싸 안은 알록달록한 작은 도시가 바로 웰링턴이에요. 뉴질랜드 북섬이 뾰족하게 좁아지는 자리에 자리 잡은, 이 나라의 수도랍니다.",
+      "웰링턴에는 누구도 잊지 못할 별명이 있어요. 바로 '바람 부는 웰리'! 근처 좁은 해협을 지나던 바람이 두 산줄기 사이에 꽉 끼어 도시 쪽으로 세차게 몰아치기 때문이에요. 이곳 집들은 알록달록한 색으로 칠해진 채 가파른 초록 언덕 위에 다닥다닥 자리잡고 있고, 사람들이 힘들게 걸어 올라가지 않도록 작고 빨간 케이블카가 터널을 지나 언덕을 오른답니다.",
+      "웰링턴에는 또 다른 별명도 있어요. 바로 '웰리우드'! 오래전 이곳 영화인들은 용과 요정, 호빗을 만들어내는 놀라운 작업실을 세웠어요. <반지의 제왕> 같은 영화를 위해서였죠. 지금도 웰링턴의 작업실에서는 거대한 모형과 마법 같은 의상들이 먼저 태어난 뒤, 전 세계 영화관 스크린에 등장한답니다.",
+      "무엇보다 멋진 건, 도시 한가운데에 '질랜디아'라는 신비한 계곡이 있다는 거예요. 오래전 다른 나라에서 건너온 배고픈 동물들이 뉴질랜드의 희귀한 새들을 먹어치우자, 사람들은 빈틈 하나 없는 거대한 울타리를 세워 낯선 침입자들을 완전히 막아냈어요. 이제 키위새는 밤에도 안전하게 잠들고, 공룡보다도 오래된 파충류인 투아타라는 수백만 년 전 그대로 햇볕을 쬐고 있답니다."
+    ],
+    "en": [
+      "Long, long ago, a great Polynesian explorer named Kupe sailed across the wide Pacific Ocean and found a beautiful harbour tucked at the tip of a brand-new land. He named it Te Whanganui-a-Tara, 'the great harbour of Tara.' Today, a small, colorful city wraps around that same harbour — Wellington, the capital of New Zealand, perched right where the North Island narrows to a point.",
+      "Wellington has a nickname nobody forgets: 'Windy Welly.' Wind rushing through a narrow strait nearby gets squeezed between two mountain ranges, so it comes roaring straight into the city. Houses here are painted every color and packed onto steep green hillsides, and a little red cable car climbs through a tunnel so people don't have to walk all the way up.",
+      "Wellington has another nickname too: 'Wellywood.' Long ago, filmmakers here built incredible workshops to dream up dragons, elves, and hobbits for movies like The Lord of the Rings. Even now, giant models and magical costumes are born in Wellington's workshops before they ever appear on movie screens around the world.",
+      "Best of all, right in the middle of the city sits a magical valley called Zealandia. Long ago, hungry animals that arrived from other countries gobbled up New Zealand's rare birds, so people built a giant fence with no gaps at all, sealing out every unwanted visitor. Now kiwi birds sleep safely at night, and tuatara — reptiles older than the dinosaurs — bask in the sun just as they did millions of years ago."
+    ],
+    "ja": [
+      "はるか昔、ポリネシアの偉大な探検家クペが広い太平洋を渡り、新しい大地の先端で美しい入り江を見つけました。彼はそこを『テ・ファンガヌイ・ア・タラ（タラの大いなる港）』と名づけました。今日、その港をぐるりと囲む色とりどりの小さな街こそがウェリントンです。ニュージーランド北島がとがって細くなる場所に立つ、この国の首都なのです。",
+      "ウェリントンには誰もが忘れない別名があります。『風の強いウェリー』。近くの狭い海峡を吹き抜ける風が二つの山なみの間に押し込まれ、街へまっすぐ吹きこむからです。ここの家々は色とりどりに塗られて急な緑の丘にびっしり建ち並び、人々が歩いて登らなくてもいいように、小さな赤いケーブルカーがトンネルを抜けて丘をのぼります。",
+      "ウェリントンにはもう一つ別名があります。『ウェリウッド』。昔、ここの映画人たちはドラゴンやエルフ、ホビットを生み出すすごい工房を建てました。『ロード・オブ・ザ・リング』のような映画のためです。今もウェリントンの工房では、巨大な模型や魔法のような衣装がまず生まれ、それから世界中の映画館のスクリーンに登場するのです。",
+      "何より素敵なのは、街の真ん中に『ジーランディア』という不思議な谷があること。昔、他の国からやってきたおなかをすかせた動物たちがニュージーランドの珍しい鳥を食べつくしてしまったので、人々はすき間ひとつない巨大なフェンスを建て、招かれざる侵入者を完全に締め出しました。今ではキーウィが夜も安心して眠り、恐竜より古い爬虫類トゥアタラが何百万年も前と同じように日なたぼっこをしています。"
+    ],
+    "zh": [
+      "很久很久以前，一位伟大的波利尼西亚探险家库佩，穿越辽阔的太平洋，在一片新大陆的尽头，发现了一个美丽的港湾。他把这里命名为“塔法努伊阿塔拉”（意为“塔拉的大港湾”）。如今，环绕着这个港湾的一座色彩缤纷的小城市，正是惠灵顿——新西兰的首都，坐落在北岛渐渐收窄成尖角的地方。",
+      "惠灵顿有一个人人都忘不掉的绰号：“大风惠利”。附近狭窄海峡吹来的风，被两条山脉夹在中间，一路呼啸着灌进城市里。这里的房子被漆成五颜六色，密密地建在陡峭的绿色山坡上；为了让人们不用辛苦爬坡，一辆小小的红色缆车穿过隧道，载着大家上山。",
+      "惠灵顿还有另一个绰号：“惠莱坞”。很久以前，这里的电影人建起了了不起的工作室，专门制作巨龙、精灵和霍比特人，为的是拍摄像《指环王》这样的电影。直到今天，巨大的模型和充满魔力的戏服，都是先在惠灵顿的工作室里诞生的，然后才出现在世界各地的大银幕上。",
+      "更棒的是，就在城市正中央，藏着一处叫“西兰蒂亚”的神奇山谷。很久以前，从别的国家来的饥饿动物，把新西兰珍稀的鸟类吃得所剩无几；于是人们建起了一道没有一丝缝隙的巨大围栏，把不速之客彻底挡在外面。如今，几维鸟能安心地在夜里入睡，而比恐龙还古老的爬行动物大蜥蜴，依然像几百万年前一样悠然晒着太阳。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "웰링턴은 지구에서 손꼽히게 바람이 센 도시예요. 사람들은 '바람 부는 웰리'라고 부르는데, 바람이 너무 세서 몸이 휘청할 때도 있대요!",
+      "웰링턴은 전 세계 나라의 수도 중에서 가장 남쪽에 있는 수도랍니다.",
+      "영화 마법사들이 모인 '웨타 워크숍'에서는 <반지의 제왕>, <호빗>, <킹콩> 속 괴물과 갑옷, 신비한 세계를 모두 웰링턴에서 만들었어요.",
+      "질랜디아는 빈틈 하나 없는 거대한 울타리로 둘러싸인, 세계 최초의 이런 보호구역이에요. 배고픈 침입자들을 막아 토종 새들이 다시 살아날 수 있게 해줬죠.",
+      "질랜디아에 사는 투아타라라는 파충류는 2억 년도 더 전, 공룡과 함께 살았던 동물의 친척이랍니다.",
+      "웰링턴의 작고 빨간 케이블카는 1902년부터 지금까지 언덕을 오르내리고 있어요. 밤이 되면 항구에 아주 작은 파란 펭귄이 뒤뚱뒤뚱 걸어 나오기도 한답니다!"
+    ],
+    "en": [
+      "Wellington is one of the windiest cities on Earth. Locals call it 'Windy Welly,' and sometimes the wind is so strong it can nearly blow you off your feet!",
+      "Wellington is the southernmost capital city of any country in the whole world.",
+      "The movie wizards at Weta Workshop built the monsters, armor, and magical worlds for The Lord of the Rings, The Hobbit, and King Kong — all right here in Wellington.",
+      "Zealandia is wrapped in a giant fence with absolutely no gaps — the first sanctuary like it ever built — keeping hungry pests out so native birds can thrive again.",
+      "Tuatara, reptiles that live at Zealandia, are relatives of animals that lived alongside the dinosaurs more than 200 million years ago.",
+      "Wellington's little red cable car has been climbing the hill since 1902, and sometimes tiny blue penguins waddle ashore in the harbour at night!"
+    ],
+    "ja": [
+      "ウェリントンは地球でも指折りの風の強い街。人々は『風の強いウェリー』と呼び、あまりの強風によろけてしまうこともあるとか！",
+      "ウェリントンは、世界中の国の首都の中でいちばん南にある首都です。",
+      "映画の魔法使いたちが集まる『ウェタ・ワークショップ』では、『ロード・オブ・ザ・リング』『ホビット』『キングコング』の怪物や鎧、不思議な世界がすべてウェリントンで作られました。",
+      "ジーランディアは、すき間ひとつない巨大なフェンスに囲まれた世界初のこうした保護区。おなかをすかせた侵入者をしめ出し、固有の鳥たちが再び暮らせるようにしました。",
+      "ジーランディアにすむ爬虫類トゥアタラは、2億年以上前に恐竜と一緒に暮らしていた生きものの仲間なのです。",
+      "ウェリントンの小さな赤いケーブルカーは、1902年から今もずっと丘をのぼり降りしています。夜になると、港にとても小さな青いペンギンがよちよち歩いて現れることもあるんですよ！"
+    ],
+    "zh": [
+      "惠灵顿是地球上风最大的城市之一。人们叫它“大风惠利”，风大到有时候能把人吹得东倒西歪！",
+      "惠灵顿是全世界所有国家的首都中，位置最靠南的一个首都。",
+      "电影魔法师聚集的“维塔工作室”，把《指环王》《霍比特人》《金刚》里的怪物、盔甲和奇幻世界，全都在惠灵顿制作了出来。",
+      "西兰蒂亚被一道没有一丝缝隙的巨大围栏围住，是世界上第一个这样的保护区，挡住了饥饿的入侵者，让本地鸟类得以重新繁衍。",
+      "住在西兰蒂亚的大蜥蜴，是两亿多年前和恐龙一起生活过的动物的亲戚。",
+      "惠灵顿那辆小小的红色缆车，从1902年起一直爬坡至今。到了夜晚，港湾里有时还会有很小的蓝企鹅摇摇摆摆地上岸呢！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "웰링턴 어느 곳에는 빈틈이 하나도 없는 울타리가 도시를 둘러싸고 있대. 대체 무엇을 막고 있는 걸까?",
+    "en": "Somewhere in Wellington, a giant fence with absolutely no gaps surrounds part of the city — can you guess what it's keeping out?",
+    "ja": "ウェリントンのある場所には、すき間ひとつないフェンスが街を囲んでいるんだって。いったい何を締め出しているのかな？",
+    "zh": "惠灵顿有个地方，围着一道没有一丝缝隙的围栏。你猜,它到底在挡住什么呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "질랜디아 생태보호구역", "en": "Zealandia Ecosanctuary", "ja": "ジーランディア生態保護区", "zh": "西兰蒂亚生态保护区" },
+      "blurb": {
+        "ko": "도시 한가운데 자리한 신비한 자연 보호구역이에요. 빈틈없는 울타리 덕분에 침입자 동물이 얼씬도 못 하고, 멸종 위기의 키위새와 공룡시대부터 살아온 투아타라를 가까이서 만날 수 있답니다.",
+        "en": "A magical nature reserve right in the middle of the city. Thanks to its gapless fence, invading animals can't get in, so you can meet endangered kiwi birds and tuatara that have lived here since the age of dinosaurs, up close.",
+        "ja": "街の真ん中にある不思議な自然保護区。すき間のないフェンスのおかげで侵入者の動物が入り込めず、絶滅の危機にあるキーウィや恐竜時代から生きるトゥアタラをすぐそばで見られます。",
+        "zh": "城市正中央的神奇自然保护区。没有缝隙的围栏挡住了入侵动物，让你能近距离看到濒危的几维鸟，以及从恐龙时代就存在的大蜥蜴。"
+      },
+      "coords": [-41.2973, 174.7351]
+    },
+    {
+      "name": { "ko": "웰링턴 케이블카", "en": "Wellington Cable Car", "ja": "ウェリントン・ケーブルカー", "zh": "惠灵顿缆车" },
+      "blurb": {
+        "ko": "1902년부터 지금까지 언덕을 오르내리는 작고 빨간 열차예요. 터널을 지나 꼭대기에 오르면 웰링턴 항구와 알록달록한 지붕들이 한눈에 펼쳐진답니다.",
+        "en": "A little red train that has been climbing the hill since 1902. Ride through the tunnel to the top and Wellington's harbour and colorful rooftops spread out below you.",
+        "ja": "1902年から今も丘をのぼり降りする小さな赤い電車。トンネルを抜けて頂上に着くと、ウェリントン港と色とりどりの屋根がいっせいに見わたせます。",
+        "zh": "从1902年至今一直爬坡的红色小火车。穿过隧道到达山顶，惠灵顿港湾和五颜六色的屋顶尽收眼底。"
+      },
+      "coords": [-41.2838, 174.7730]
+    },
+    {
+      "name": { "ko": "웨타 워크숍", "en": "Weta Workshop", "ja": "ウェタ・ワークショップ", "zh": "维塔工作室" },
+      "blurb": {
+        "ko": "<반지의 제왕>과 <호빗> 속 마법 같은 세상을 만들어낸 영화 작업실이에요. 거대한 괴물 모형과 갑옷을 직접 구경할 수 있어서 '웰리우드'라는 별명이 생겼죠.",
+        "en": "The movie workshop that created the magical worlds of The Lord of the Rings and The Hobbit. You can see giant monster models and armor up close — that's how Wellington earned the nickname 'Wellywood.'",
+        "ja": "『ロード・オブ・ザ・リング』や『ホビット』の魔法のような世界を生み出した映画工房。巨大な怪物の模型や鎧を実際に見られることから『ウェリウッド』というニックネームがつきました。",
+        "zh": "打造出《指环王》和《霍比特人》魔幻世界的电影工作室。在这里能亲眼见到巨大的怪物模型和盔甲，因此得名“惠莱坞”。"
+      },
+      "coords": [-41.3167, 174.8236]
+    },
+    {
+      "name": { "ko": "테파파 통가레와 박물관", "en": "Te Papa Tongarewa Museum", "ja": "テ・パパ・トンガレワ博物館", "zh": "蒂帕帕国家博物馆" },
+      "blurb": {
+        "ko": "뉴질랜드 전체를 담은 커다란 박물관이에요. 마오리족의 이야기와 문화, 살아있는 화산 모형, 거대한 오징어까지 만날 수 있는 신나는 곳이랍니다.",
+        "en": "A giant museum that packs in all of New Zealand. You can discover Maori stories and culture, a shaking volcano model, and even a giant squid — an exciting place to explore.",
+        "ja": "ニュージーランドまるごとをつめこんだ大きな博物館。マオリの物語や文化、生きているような火山の模型、巨大なイカにも出会えるワクワクする場所です。",
+        "zh": "一座装下整个新西兰的大博物馆。你可以在这里了解毛利人的故事与文化，看到仿佛活着的火山模型，还有巨大的鱿鱼标本，非常有趣。"
+      },
+      "coords": [-41.2903, 174.7821]
+    }
+  ]
+}

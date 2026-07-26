@@ -1,0 +1,120 @@
+{
+  "id": "naples",
+  "country": "it",
+  "coords": [40.8518, 14.2681],
+  "name": { "ko": "나폴리", "en": "Naples", "ja": "ナポリ", "zh": "那不勒斯" },
+  "tagline": {
+    "ko": "피자가 태어난 바닷가 도시, 땅속엔 숨겨진 또 하나의 세상이 잠들어 있어요",
+    "en": "The seaside city where pizza was born—and a whole hidden world sleeps underground",
+    "ja": "ピザが生まれた海辺の街、地面の下には隠れたもう一つの世界が眠っている",
+    "zh": "比萨饼诞生的海边城市，地下还沉睡着另一个隐秘世界"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금으로부터 약 2500년 전, 그리스 뱃사람들이 이탈리아 남쪽의 반짝이는 파란 만으로 배를 저어 와 새로운 마을을 세웠어요. 사람들은 이곳을 '네아폴리스', 그러니까 '새로운 도시'라고 불렀답니다. 마을 뒤에는 베수비오라는 커다랗고 조용한 산이 우뚝 서 있었고, 앞에는 어선들이 떠다니는 넓은 바다가 펼쳐져 있었어요.",
+      "세월이 흐르며 네아폴리스는 '나폴리'라는 크고 활기찬 도시로 자라났어요. 그리스인과 로마인, 그리고 훗날 여러 왕과 왕비까지 이 도시에 자신들의 흔적을 남겼답니다. 좁은 골목마다 빨래가 나부끼고, 교회 종소리가 울리고, 어디선가 늘 맛있는 냄새가 풍겨왔어요. 나폴리는 유럽에서 손꼽히게 크고 시끌벅적한 도시가 되었죠.",
+      "그런데 가장 맛있는 이야기는 따로 있어요. 바로 이곳에서 피자가 태어났다는 거예요! 1889년, 나폴리의 한 빵집 주인이 나라를 방문한 마르게리타 왕비를 위해 빨간 토마토, 하얀 모차렐라, 초록 바질을 올린 피자를 만들었어요. 이탈리아 국기와 똑같은 색이었죠. 사람들은 지금도 그 피자를 왕비의 이름을 따서 '마르게리타 피자'라고 부르며 즐겨 먹는답니다.",
+      "하지만 나폴리는 땅속에도 비밀을 숨기고 있어요. 땅을 파고 내려가면 수천 년 전 사람들이 손으로 파낸 터널과 우물, 채석장으로 이루어진 또 하나의 도시가 나타나거든요. 위에서는 아이들이 햇살 가득한 광장에서 뛰어놀고, 그 아래 어둠 속에서는 숨겨진 세상이 조용히 잠들어 있어요. 그리고 그 모든 걸 베수비오 화산이 여전히 내려다보고 있답니다."
+    ],
+    "en": [
+      "Long, long ago—about 2,500 years back—Greek sailors sailed into a sparkling blue bay in southern Italy and built a brand-new town. They called it Neapolis, which simply means 'new city.' Behind it loomed a tall, quiet mountain named Vesuvius, and in front of it stretched the sea, dotted with fishing boats.",
+      "Over the centuries, Neapolis grew into Naples—a big, buzzing city where Greeks, Romans, and later kings and queens all left their mark. Narrow streets filled with laundry lines, church bells, and the smell of something delicious always cooking. Naples became one of the largest, liveliest cities in all of Europe.",
+      "And here's the tastiest part: pizza was born right here! In 1889, a Naples baker made a pizza with red tomatoes, white mozzarella, and green basil—the same colors as the Italian flag—to honor a visiting queen named Margherita. People still eat that very pizza today, named after her.",
+      "But Naples hides a secret below the streets too. Dig down, and you'll find an entire second city—ancient tunnels, wells, and quarries carved by hand thousands of years ago. Up above, kids play in sunny piazzas; down below, a hidden world waits in the dark, with Vesuvius still watching over it all."
+    ],
+    "ja": [
+      "はるか昔、今から約2500年前、ギリシャの船乗りたちがイタリア南部のきらめく青い湾に船を進め、新しい町を築きました。人々はそこを『ネアポリス』、つまり『新しい街』と呼びました。町の背後には『ヴェスヴィオ』という大きな静かな山がそびえ、前には漁船が浮かぶ広い海が広がっていました。",
+      "長い年月の間に、ネアポリスは『ナポリ』という大きくにぎやかな街へと育ちました。ギリシャ人やローマ人、そして後の時代には王様や王妃たちも、この街にそれぞれの足あとを残しました。細い路地には洗濯物がひらめき、教会の鐘が鳴り、どこからかいつもおいしそうな匂いがただよっていました。ナポリはヨーロッパでも指折りの大きくにぎやかな都市になったのです。",
+      "でも一番おいしい話は別にあります。実はここでピザが生まれたのです！1889年、ナポリのパン職人が、国を訪れたマルゲリータ王妃のために、赤いトマト、白いモッツァレラ、緑のバジルをのせたピザを作りました。イタリア国旗と同じ色でした。人々は今でもそのピザを王妃の名前にちなんで『マルゲリータピザ』と呼び、大好物にしています。",
+      "けれどナポリは地面の下にも秘密をかくしています。地下深くほり進むと、何千年も前に人の手でほられたトンネルや井戸、石切り場からなる、もう一つの街があらわれるのです。地上では子どもたちが日なたの広場で遊び、その下の暗やみでは、かくれた世界がそっと眠っています。そしてそのすべてを、ヴェスヴィオ火山が今も見守っているのです。"
+    ],
+    "zh": [
+      "很久很久以前，大约2500年前，希腊水手们驾船驶入意大利南部一片闪闪发光的蓝色海湾，建起了一座崭新的小镇。人们把它叫做“尼阿波利斯”，意思就是“新城市”。小镇背后耸立着一座高大安静的火山——维苏威，前方则是渔船点点的辽阔大海。",
+      "岁月流转，尼阿波利斯渐渐长成了一座热闹的大城市——那不勒斯。希腊人、罗马人，后来还有一代代国王和王后，都在这里留下了自己的印记。狭窄的小巷里飘着晾晒的衣物，教堂钟声阵阵，空气中总飘着什么美味的香气。那不勒斯成了欧洲数一数二热闹的大城市。",
+      "不过最好吃的故事还在后头——比萨饼就是在这里诞生的！1889年，那不勒斯的一位面包师为了迎接来访的玛格丽特王后，做了一款铺着红番茄、白马苏里拉奶酪和绿罗勒的比萨——恰好是意大利国旗的三种颜色。人们至今仍在吃这款比萨，还用王后的名字给它命名，叫“玛格丽特比萨”。",
+      "但那不勒斯在地底下也藏着一个秘密。往地下挖下去，你会发现另一座城市——数千年前人们用双手凿出的隧道、水井和采石场。地面上，孩子们在阳光洒满的广场里嬉戏；地底下，一个隐秘的世界正静静沉睡。而这一切，至今仍被维苏威火山静静守望着。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "마르게리타 피자는 1889년 바로 이곳 나폴리에서 태어났어요. 빨강·하양·초록 토핑은 이탈리아 국기의 색깔을 그대로 옮겨온 거래요.",
+      "도시 땅속에는 '나폴리 지하 세계'가 숨어 있어요. 옛날 터널과 우물은 2차 세계대전 때 방공호로도 쓰였답니다.",
+      "달걀 성(카스텔 델 오보)에는 전설이 있어요. 로마의 시인이 성벽 안에 마법의 달걀을 숨겨두었는데, 그 달걀이 깨지면 성과 도시에 큰일이 생긴다고 해요!",
+      "나폴리는 약 2500년 전 그리스인들이 세운 '네아폴리스(새로운 도시)'에서 시작됐어요. 그래서 유럽에서 지금까지 사람이 계속 살고 있는 가장 오래된 도시 중 하나랍니다.",
+      "나폴리 대성당에는 산 제나로 성인의 피가 담겼다는 유리병이 있는데, 1년에 몇 번씩 굳었던 피가 액체로 변한다고 믿어져서, 그럴 때마다 온 도시가 축제를 연대요.",
+      "'산 그레고리오 아르메노 거리'에서는 몇백 년째 장인들이 손으로 아기 예수 탄생 장면 인형을 만들고 있어요. 거리 전체에서 나무 깎는 냄새와 물감 냄새가 난답니다."
+    ],
+    "en": [
+      "Pizza Margherita was invented right here in Naples in 1889—its red, white, and green toppings copy the colors of the Italian flag.",
+      "Underneath the city's streets lies 'Naples Underground'—ancient tunnels and wells that were even used as bomb shelters during World War II.",
+      "At Castel dell'Ovo (Egg Castle), legend says a Roman poet hid a magic egg in the walls—if it ever breaks, trouble will come to the castle and the city!",
+      "Naples started out as a Greek town called Neapolis—'new city'—around 2,500 years ago, making it one of the oldest cities in Europe still lived in today.",
+      "Inside Naples' cathedral, a vial said to hold the blood of Saint Gennaro is believed to turn from solid to liquid several times a year—and the whole city celebrates when it does.",
+      "On one single street, Via San Gregorio Armeno, artisans have handmade tiny nativity-scene figures all year round for centuries—it smells like fresh-cut wood and paint."
+    ],
+    "ja": [
+      "マルゲリータピザは1889年、まさにここナポリで生まれました。赤・白・緑のトッピングは、イタリア国旗の色をそのまま表しているそうです。",
+      "街の地下には『ナポリの地下世界』がかくれています。昔のトンネルや井戸は、第二次世界大戦のときには防空ごうとしても使われました。",
+      "卵城（カステル・デッローヴォ）には伝説があります。ローマの詩人が城の壁の中に魔法の卵をかくしたそうで、その卵が割れると城と街に大変なことが起きるといわれています！",
+      "ナポリは約2500年前、ギリシャ人が築いた『ネアポリス（新しい街）』から始まりました。ヨーロッパで今も人が住み続ける、もっとも古い街の一つです。",
+      "ナポリ大聖堂には、聖ジェンナーロの血が入っているという小びんがあり、1年に何度か固まった血が液体に変わると信じられていて、そのたびに街中がお祝いをします。",
+      "『サン・グレゴリオ・アルメーノ通り』では何百年もの間、職人たちが手作りのキリスト降誕の人形を作り続けています。通り全体に木を削る匂いと絵の具の匂いがただよっています。"
+    ],
+    "zh": [
+      "玛格丽特比萨于1889年就在那不勒斯诞生。红、白、绿三色配料，据说正是模仿了意大利国旗的颜色。",
+      "城市地下藏着“那不勒斯地下世界”——古老的隧道和水井，二战期间还被用作防空洞。",
+      "在蛋堡（卡斯特尔·德洛沃城堡）有个传说：一位古罗马诗人把一枚魔法蛋藏进了城墙里，据说这枚蛋一旦破碎，城堡和整座城市就会大祸临头！",
+      "那不勒斯起源于约2500年前希腊人建立的“尼阿波利斯”（新城市），是欧洲至今仍有人居住的最古老城市之一。",
+      "那不勒斯大教堂里有一小瓶据说装着圣杰纳罗鲜血的液体，人们相信它每年会有几次从凝固变回液态，每次“显灵”全城都会庆祝。",
+      "在“圣格雷戈里奥·阿尔梅诺街”，工匠们几百年来一直手工制作耶稣诞生场景小人偶，整条街都飘着削木头和颜料的味道。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "시인이 성벽 속에 마법의 달걀을 숨겨뒀대. 정말 작은 달걀 하나에 성 전체의 운명이 달려 있을 수 있을까?",
+    "en": "A poet supposedly hid a magic egg inside a castle wall—do you think a whole castle could really depend on one tiny egg?",
+    "ja": "詩人が城の壁の中に魔法の卵をかくしたんだって。小さな卵ひとつに、お城全部の運命がかかっていると思う？",
+    "zh": "诗人把一枚魔法蛋藏进了城墙里。你觉得整座城堡的命运，真的能系在一枚小小的鸡蛋上吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "달걀 성 (카스텔 델 오보)", "en": "Castel dell'Ovo (Egg Castle)", "ja": "卵城（カステル・デッローヴォ）", "zh": "蛋堡（卡斯特尔·德洛沃城堡）" },
+      "blurb": {
+        "ko": "만 위 작은 섬에 통째로 지어진 성이에요. 전설에 따르면 로마 시인 베르길리우스가 성벽 안에 마법의 달걀을 숨겨두었는데, 그 달걀이 깨지면 나폴리에 큰 재앙이 닥친다고 해요! 지금도 성벽을 따라 걸으며 바다 건너 베수비오 화산을 바로 마주볼 수 있답니다.",
+        "en": "A castle built right on a tiny island in the bay. Legend says the Roman poet Virgil hid a magic egg inside its walls—if it ever breaks, disaster will strike Naples! Today you can walk along its walls and look straight out at Vesuvius across the water.",
+        "ja": "湾に浮かぶ小さな島の上にまるごと建てられたお城。伝説では、ローマの詩人ウェルギリウスが城壁の中に魔法の卵をかくしたとされ、その卵が割れるとナポリに大きな災いが起こるといわれています！今も城壁沿いを歩きながら、海の向こうのヴェスヴィオ火山をまっすぐながめられます。",
+        "zh": "整座城堡建在海湾中的一座小岛上。传说古罗马诗人维吉尔把一枚魔法蛋藏进了城墙，一旦蛋碎，那不勒斯就会大祸临头！如今你仍可以沿着城墙漫步，隔海直望维苏威火山。"
+      },
+      "coords": [40.8288, 14.2478]
+    },
+    {
+      "name": { "ko": "나폴리 지하도시", "en": "Naples Underground (Napoli Sotterranea)", "ja": "ナポリ地下都市（ナポリ・ソッテッラネア）", "zh": "那不勒斯地下城（那不勒斯地下世界）" },
+      "blurb": {
+        "ko": "북적이는 거리 아래에는 숨겨진 또 하나의 세상이 있어요. 2000년도 더 전에 그리스와 로마 사람들이 손으로 파낸 터널과 우물, 채석장이랍니다. 2차 세계대전 때는 사람들이 촛불과 서늘한 돌 사이에서 이곳에 숨어 지내기도 했대요.",
+        "en": "Beneath the busy streets lies a whole hidden world—ancient Greek and Roman tunnels, wells, and quarries carved by hand over 2,000 years ago. During World War II, families even hid down here to stay safe, surrounded by candlelight and cool stone.",
+        "ja": "にぎやかな通りの下には、まるごとかくれた世界が広がっています。2000年以上前にギリシャ人やローマ人が手でほったトンネルや井戸、石切り場です。第二次世界大戦のときには、ろうそくの明かりとひんやりした石にかこまれて、家族がここにかくれて過ごしたこともあったそうです。",
+        "zh": "热闹街道之下藏着整整一个隐秘世界——两千多年前希腊人和罗马人用双手凿出的隧道、水井和采石场。二战期间，一家家人还曾借着烛光、躲在这清凉的石头之间避难。"
+      },
+      "coords": [40.8508, 14.2582]
+    },
+    {
+      "name": { "ko": "산 그레고리오 아르메노 거리", "en": "Via San Gregorio Armeno", "ja": "サン・グレゴリオ・アルメーノ通り", "zh": "圣格雷戈里奥·阿尔梅诺街" },
+      "blurb": {
+        "ko": "몇백 년째 장인들이 아기 예수 탄생 장면에 쓰이는 작은 인형들을 손으로 만들어온 거리예요. 양치기와 왕뿐 아니라 요리사, 축구 선수, 심지어 유명인 인형까지 있답니다! 일 년 내내 나무 깎는 냄새와 물감 냄새, 그리고 크리스마스 분위기가 살짝 풍겨요.",
+        "en": "A whole street where artisans have handcrafted tiny nativity-scene figures for centuries—not just shepherds and kings, but tiny chefs, soccer players, and even famous people! It smells of fresh-cut wood, paint, and a little bit of Christmas all year round.",
+        "ja": "何百年もの間、職人たちがキリスト降誕の場面に使う小さな人形を手作りしてきた通りです。羊飼いや王様だけでなく、小さなシェフやサッカー選手、有名人の人形まであります！一年中、木を削る匂いと絵の具の匂い、そして少しクリスマスの雰囲気がただよっています。",
+        "zh": "几百年来，工匠们一直在这条街上手工制作耶稣诞生场景所用的小人偶——不只是牧羊人和国王，还有小厨师、足球运动员，甚至名人模样的人偶！整条街常年飘着削木头、颜料，还有一丝圣诞节的气息。"
+      },
+      "coords": [40.8497, 14.2578]
+    },
+    {
+      "name": { "ko": "나폴리 대성당 (산 제나로 대성당)", "en": "Naples Cathedral (Duomo di San Gennaro)", "ja": "ナポリ大聖堂（サン・ジェンナーロ大聖堂）", "zh": "那不勒斯大教堂（圣杰纳罗大教堂）" },
+      "blurb": {
+        "ko": "나폴리의 수호성인 산 제나로의 피가 담겼다고 전해지는 작은 유리병이 있는 웅장한 대성당이에요. 1년에 몇 번씩 굳어 있던 검붉은 피가 다시 액체로 변한다고 해서, 그 순간을 보려고 사람들이 모여들어 환호한대요.",
+        "en": "This grand cathedral is home to a small glass vial believed to hold the blood of Naples' patron saint, Gennaro. Several times a year, crowds gather to watch and cheer as the dark, solid blood is said to turn to liquid again.",
+        "ja": "ナポリの守護聖人サン・ジェンナーロの血が入っているとされる小さなガラスびんがある、堂々とした大聖堂です。1年に何度か、固まっていた黒っぽい血がふたたび液体に変わるといわれ、その瞬間を見ようと人々が集まって歓声をあげます。",
+        "zh": "这座宏伟的大教堂里，收藏着一支据说盛有那不勒斯守护圣人圣杰纳罗鲜血的小玻璃瓶。每年会有几次，凝固发黑的“血液”据说会重新变回液态，人群聚在一起观看并欢呼。"
+      },
+      "coords": [40.8528, 14.2586]
+    }
+  ]
+}

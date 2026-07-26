@@ -1,0 +1,120 @@
+{
+  "id": "paris",
+  "country": "fr",
+  "coords": [48.8566, 2.3522],
+  "name": { "ko": "파리", "en": "Paris", "ja": "パリ", "zh": "巴黎" },
+  "tagline": {
+    "ko": "파리가 하마터면 철거할 뻔한 '흉측한' 철탑, 지금은 세상에서 가장 사랑받는 하늘선",
+    "en": "The 'ugly' iron tower Paris almost tore down — now the most loved skyline on Earth",
+    "ja": "パリが取り壊しかけた『醜い』鉄塔が、今では世界一愛されるスカイラインに",
+    "zh": "巴黎差点拆掉的“丑陋”铁塔，如今成了世界上最受喜爱的天际线"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 파리는 구불구불한 센 강가에 자리 잡은 멋진 도시였어요. 사람들은 돌을 하나하나 쌓아 노트르담이라는 거대한 석조 성당을 짓기 시작했는데, 완성하는 데 무려 200년 가까이 걸렸답니다. 성당 꼭대기에는 용처럼 생긴 조각상 '가고일'이 지금도 도시를 내려다보고 있어요.",
+      "그러다 1889년, 파리는 커다란 세계 박람회를 준비하며 아무도 본 적 없는 것을 만들기로 했어요. 세상에서 가장 높은, 300미터가 넘는 철탑이었죠. 수천 개의 철 조각을 마치 거대한 퍼즐처럼 볼트로 이어 붙여 세운 것이었어요.",
+      "그런데 반전이 있었어요. 처음엔 파리 사람들이 이 탑을 거의 좋아하지 않았답니다! 유명한 작가와 예술가들은 이 탑을 '흉측한 철골 뼈대'라 부르며 항의 편지에 서명했고, 계획대로라면 20년 뒤에 철거될 예정이었어요. 하지만 탑의 높은 안테나가 전 세계로 무선 신호를 보내기에 딱 좋다는 걸 알게 되면서 극적으로 살아남았어요.",
+      "오늘날 그 '흉측한 뼈대'—에펠탑—는 지구에서 가장 사랑받는 탑 중 하나가 되었어요. 밤마다 수천 개의 반짝이는 불빛으로 빛나고, 꼭대기에 올라가면 파리 전체가 황금빛 그림책처럼 발아래 펼쳐진답니다."
+    ],
+    "en": [
+      "Long ago, Paris was already a beautiful city sitting along the curvy Seine River. People began stacking stones one by one to build a giant cathedral called Notre-Dame, and it took nearly 200 years to finish. Even today, dragon-like carvings called gargoyles perch on top, watching over the city.",
+      "Then, in 1889, Paris was getting ready for a huge World's Fair and decided to build something nobody had ever seen: a soaring iron tower over 300 meters tall, taller than anything on Earth. Thousands of iron pieces were bolted together like one enormous puzzle to raise it.",
+      "But here's the twist: hardly anyone in Paris liked it at first! Famous writers and artists signed an angry letter calling it an 'ugly iron skeleton,' and the plan was to tear it down after just 20 years. It was saved only when engineers realized its tall antenna was perfect for sending radio signals around the world.",
+      "Today, that 'ugly skeleton'—the Eiffel Tower—is one of the most loved towers on the planet. Every night it twinkles with thousands of lights, and if you ride to the top, all of Paris spreads out below you like a golden storybook map."
+    ],
+    "ja": [
+      "はるか昔、パリは曲がりくねったセーヌ川のほとりに広がる素敵な街でした。人々は石を一つひとつ積み上げて、ノートルダムという巨大な石造りの大聖堂を建て始め、完成までに200年近くもかかりました。塔の上には竜のような彫刻『ガーゴイル』が今も街を見下ろしています。",
+      "そして1889年、パリは大きな万国博覧会の準備をしながら、誰も見たことのないものを作ることにしました。高さ300メートルをこえる、世界一高い鉄の塔です。何千もの鉄の部品を、まるで巨大なパズルのようにボルトでつなぎ合わせて建てられました。",
+      "ところが意外な展開が。最初、パリの人々はこの塔をほとんど気に入りませんでした！有名な作家や芸術家たちは「醜い鉄骨の骨組み」と呼んで抗議の手紙に署名し、計画では20年後に取り壊される予定でした。でも塔の高いアンテナが世界中に無線信号を送るのにぴったりだと分かり、劇的に生き残ったのです。",
+      "今、その『醜い骨組み』——エッフェル塔——は、地球で最も愛される塔の一つになりました。毎晩何千もの光がきらめき、展望台に登ると、パリの街全体が金色の絵本のように足もとに広がります。"
+    ],
+    "zh": [
+      "很久很久以前，巴黎已经是一座坐落在蜿蜒塞纳河畔的美丽城市。人们一块石头一块石头地垒起来，开始建造一座叫做“巴黎圣母院”的巨大石头教堂，前后花了将近两百年才建成。教堂顶端至今还蹲着一些像龙一样的怪兽石雕，叫做“滴水兽”，俯瞰着整座城市。",
+      "到了1889年，巴黎正准备举办一场盛大的世界博览会，决定造一个谁都没见过的东西：一座超过300米高、比世界上任何建筑都高的铁塔。工人们把成千上万块铁件像拼一个巨大的拼图一样，用螺栓一一连接起来。",
+      "可是接下来发生了意想不到的事：一开始，几乎没有巴黎人喜欢这座铁塔！许多著名的作家和艺术家联名写信抗议，说它是“丑陋的铁架子”，按计划它本该在20年后就被拆掉。但后来人们发现，这座高塔的天线正好非常适合向全世界发送无线电信号，于是它被戏剧性地保留了下来。",
+      "如今，那座“丑陋的铁架子”——埃菲尔铁塔——已经成为地球上最受喜爱的塔之一。每天夜晚它都会闪烁着成千上万盏灯光，登上塔顶，整个巴黎就像一幅金色的童话地图铺展在你脚下。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "에펠탑은 약 1만8000개의 철 조각을 약 250만 개의 리벳으로 이어 붙여 만들었어요.",
+      "1930년까지 41년 동안 세계에서 가장 높은 인공 구조물이었어요.",
+      "여름엔 에펠탑이 살짝 더 커져요! 뜨거운 열로 철이 늘어나 높이가 최대 15cm까지 늘어난대요.",
+      "설계자 귀스타브 에펠은 탑 꼭대기 근처에 아늑한 비밀 아파트를 두고, 발명가 토머스 에디슨 같은 손님들을 초대했대요.",
+      "노트르담 대성당은 짓는 데 거의 200년이 걸렸고, 빗물을 흘려보내는 역할도 하는 괴물 조각 '가고일'이 있어요.",
+      "루브르 박물관의 유명한 유리 피라미드는 소문처럼 666장이 아니라 실제로는 673장의 유리판으로 되어 있어요."
+    ],
+    "en": [
+      "The Eiffel Tower is built from about 18,000 iron pieces held together with roughly 2.5 million rivets.",
+      "It was the tallest man-made structure in the world for 41 years, until 1930.",
+      "The tower grows a little taller in summer! Heat makes the iron expand, adding up to 15 cm to its height.",
+      "Engineer Gustave Eiffel kept a cozy secret apartment near the top, where he hosted guests like inventor Thomas Edison.",
+      "Notre-Dame Cathedral took almost 200 years to build and has monster carvings called gargoyles that double as rain spouts.",
+      "The Louvre Museum's famous glass pyramid isn't made of 666 panes like the old rumor says—it's actually 673."
+    ],
+    "ja": [
+      "エッフェル塔は約1万8000個の鉄の部品を、約250万本のリベットでつなげて作られています。",
+      "1930年まで41年間、世界で一番高い人工の建造物でした。",
+      "夏になるとエッフェル塔は少し大きくなります！熱で鉄が伸び、高さが最大15センチも変わるそうです。",
+      "設計者のギュスターヴ・エッフェルは塔の上のほうに秘密のくつろげる部屋を持ち、発明家トーマス・エジソンなどをもてなしました。",
+      "ノートルダム大聖堂は建てるのにほぼ200年かかり、雨どいの役目も果たす怪物の彫刻『ガーゴイル』があります。",
+      "ルーヴル美術館の有名なガラスのピラミッドは、うわさの666枚ではなく、実際には673枚のガラス板でできています。"
+    ],
+    "zh": [
+      "埃菲尔铁塔由大约1.8万个铁质部件组成，用约250万颗铆钉连接在一起。",
+      "直到1930年，它连续41年都是世界上最高的人造建筑。",
+      "夏天铁塔会悄悄“长高”！高温让铁材膨胀，塔的高度最多能增加15厘米。",
+      "设计者古斯塔夫·埃菲尔在塔的高处留了一间舒适的秘密公寓，还曾在那儿招待发明家托马斯·爱迪生等客人。",
+      "巴黎圣母院建造花了将近两百年，上面的怪兽石雕“滴水兽”还兼职当排水管呢。",
+      "卢浮宫著名的玻璃金字塔并不像传闻中的666块，实际上一共由673块玻璃拼成。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "다들 '흉측한 철골 뼈대'라 부르던 탑이 하마터면 사라질 뻔했대요. 무엇이 이 탑을 구했을까요?",
+    "en": "A tower everyone called an 'ugly iron skeleton' almost got torn down forever — what do you think saved it?",
+    "ja": "みんなが『醜い鉄骨の骨組み』と呼んだ塔が、もう少しで消えるところだったんだって。何がこの塔を救ったと思う？",
+    "zh": "大家都叫它“丑陋的铁架子”，这座塔差点就被拆掉了。你猜是什么救了它？"
+  },
+  "places": [
+    {
+      "name": { "ko": "에펠탑", "en": "Eiffel Tower", "ja": "エッフェル塔", "zh": "埃菲尔铁塔" },
+      "blurb": {
+        "ko": "이야기의 주인공인 바로 그 철탑이에요. 처음엔 미움받았지만 지금은 파리를 상징하는 곳이 되었죠. 꼭대기 전망대에 오르면 도시 전체가 한눈에 보인답니다.",
+        "en": "This is the very tower from the story. It was once hated, but now it's the symbol of Paris. Ride up to the top viewing deck and the whole city unfolds below you.",
+        "ja": "この物語の主役、あの鉄の塔です。最初はきらわれていましたが、今ではパリを象徴する場所になりました。展望台にのぼると街全体が見わたせます。",
+        "zh": "这就是故事主角——那座铁塔。它一开始被人嫌弃，如今却成了巴黎的象征。登上观景台，整座城市尽收眼底。"
+      },
+      "coords": [48.8584, 2.2945]
+    },
+    {
+      "name": { "ko": "노트르담 대성당", "en": "Notre-Dame Cathedral", "ja": "ノートルダム大聖堂", "zh": "巴黎圣母院" },
+      "blurb": {
+        "ko": "돌 하나하나를 쌓아 200년 가까이 걸려 지은 성당이에요. 2019년 큰불이 나 크게 다쳤지만, 사람들이 힘을 모아 다시 아름답게 되살려냈답니다.",
+        "en": "A cathedral built stone by stone over nearly 200 years. A huge fire badly damaged it in 2019, but people worked together to bring it back to its beautiful self.",
+        "ja": "石を一つひとつ積んで、200年近くかけて建てられた大聖堂です。2019年の大きな火事でひどく傷つきましたが、人々が力を合わせて美しくよみがえらせました。",
+        "zh": "这座大教堂由石块一点点垒成，前后花了近两百年建造。2019年一场大火让它严重受损，但人们齐心协力，又把它变得美丽如初。"
+      },
+      "coords": [48.8530, 2.3499]
+    },
+    {
+      "name": { "ko": "루브르 박물관", "en": "The Louvre Museum", "ja": "ルーヴル美術館", "zh": "卢浮宫" },
+      "blurb": {
+        "ko": "세상에서 가장 유명한 미술관 중 하나로, 유리 피라미드가 입구를 지키고 있어요. 아주 작은 그림인 '모나리자'를 보려고 전 세계 사람들이 줄을 선답니다.",
+        "en": "One of the most famous museums on Earth, guarded by a giant glass pyramid at its entrance. People line up from all over the world just to see the tiny painting called the 'Mona Lisa.'",
+        "ja": "世界でもっとも有名な美術館の一つで、入り口にはガラスのピラミッドがそびえています。とても小さな絵『モナ・リザ』を見ようと、世界中の人が並びます。",
+        "zh": "世界上最著名的博物馆之一，玻璃金字塔矗立在入口处。为了看一眼那幅很小的画作《蒙娜丽莎》，世界各地的人都排起长队。"
+      },
+      "coords": [48.8606, 2.3376]
+    },
+    {
+      "name": { "ko": "개선문", "en": "Arc de Triomphe", "ja": "凱旋門", "zh": "凯旋门" },
+      "blurb": {
+        "ko": "나폴레옹이 승리를 기념하려고 세운 거대한 돌문이에요. 화려한 샹젤리제 거리가 이 문에서부터 쭉 뻗어 있어, 파리에서 가장 멋진 산책길로 꼽힌답니다.",
+        "en": "A giant stone arch built by Napoleon to celebrate victory. The grand Champs-Élysées avenue stretches out straight from it, and it's considered Paris's most stylish street to walk.",
+        "ja": "ナポレオンが勝利を記念して建てた巨大な石の門です。華やかなシャンゼリゼ通りがここからまっすぐ延びていて、パリで一番すてきな散歩道といわれています。",
+        "zh": "这是拿破仑为纪念胜利而建造的巨大石门。华丽的香榭丽舍大街正是从这里笔直延伸出去，被认为是巴黎最美的林荫道。"
+      },
+      "coords": [48.8738, 2.2950]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "pamukkale",
+  "country": "tr",
+  "coords": [37.9142, 29.1189],
+  "name": { "ko": "파묵칼레", "en": "Pamukkale", "ja": "パムッカレ", "zh": "帕穆卡莱" },
+  "tagline": {
+    "ko": "따뜻한 물이 새하얗게 굳어버린 눈부신 '목화의 성'",
+    "en": "The blinding-white 'Cotton Castle' where warm water turned to stone",
+    "ja": "温かい水が真っ白に固まった、まぶしい『綿の城』",
+    "zh": "温泉水凝固成雪白“棉花堡”的梦幻胜地"
+  },
+  "story": {
+    "ko": [
+      "터키 남서쪽에는 눈이 소복이 쌓인 것처럼 새하얀 언덕이 있어요. 그런데 이곳은 해가 쨍쨍 내리쬐는 더운 지역이랍니다. 사람들은 이 언덕을 '목화의 성'이라는 뜻의 '파묵칼레'라고 불러요. 둥글둥글한 새하얀 계단이 목화솜을 쌓아 올린 것처럼 보이거든요.",
+      "이 목화의 성은 정말 오랜 시간에 걸쳐 만들어졌어요. 땅속 깊은 곳에서 데워진 물이 위로 올라오면서 '칼슘'이라는 광물을 잔뜩 머금어요. 이 따뜻한 물이 언덕을 타고 흘러내리며 식으면 칼슘이 새하얀 돌로 굳는데, 이걸 '트래버틴'이라고 해요. 물방울 하나하나가 수십만 년 동안 층층이 쌓여, 지금의 계단과 웅덩이를 조각해 낸 거예요.",
+      "2000년도 더 된 옛날, 사람들은 이 물에 몸을 담그면 아픈 곳이 낫는 것 같다는 걸 알아챘어요. 그래서 그리스 사람들, 그다음엔 로마 사람들이 이 언덕 꼭대기에 아예 도시를 세우고 '히에라폴리스', 즉 '신성한 도시'라는 이름을 붙였답니다. 왕도, 여행자도, 평범한 사람들도 이 따뜻한 물에 몸을 담그고 커다란 돌 극장에서 공연을 보러 이곳까지 찾아왔어요.",
+      "지금도 우리는 그 옛날 사람들처럼 맨발로 따뜻하고 매끈한 계단물을 첨벙첨벙 걸을 수 있어요. 맨발로 걸으면 연약한 돌도 지킬 수 있대요. 근처 '클레오파트라 풀'에서는 옛날 지진으로 쓰러진 대리석 기둥 사이에서 수영도 할 수 있고요. 옛 신전 옆에는 한때 '저승으로 가는 문'이라 불렸던 신비한 동굴도 있어서, 파묵칼레는 자연과 역사가 손잡고 만들어낸 놀라운 곳이라는 걸 알려준답니다."
+    ],
+    "en": [
+      "In southwestern Turkey, there's a hillside so white it looks like it's buried in snow — except the sun there is blazing hot. Locals call it Pamukkale, which means 'Cotton Castle,' because the rounded white terraces look like fluffy piles of cotton stacked up a hill. But get closer and you'll find something surprising: the terraces aren't cold at all. They're filled with warm, gently steaming water, like giant bathtubs built by nature.",
+      "Here's how the cotton castle was built — and it took an incredibly long time. Deep underground, water heated by the earth soaks up a mineral called calcium as it rises. When that warm water reaches the surface and spills down the hillside, it cools and the calcium hardens into bright white rock called travertine. Drop by drop, layer by layer, over hundreds of thousands of years, the water sculpted these terraces and pools — nature's own slow-motion artwork.",
+      "More than 2,000 years ago, people noticed something else about this water: it seemed to make sore muscles feel better. So the Greeks, and later the Romans, built a whole city right on top of the terraces and named it Hierapolis, meaning 'Sacred City.' Kings, travelers, and everyday folks journeyed here just to soak in the warm pools and watch plays in a grand stone theater.",
+      "Today you can still walk barefoot across the warm, silky-white terraces, just like ancient visitors once did — bare feet help protect the delicate stone. Nearby, you can swim in Cleopatra's Pool, where ancient marble columns lie tumbled beneath the warm water after an old earthquake. And right next to an old temple, there's a mysterious cave once called a 'gateway to the underworld' — proof that Pamukkale is a place where nature and history teamed up to build something nobody could ever imagine."
+    ],
+    "ja": [
+      "トルコの南西部には、まるで雪がたっぷり積もったように真っ白な丘があります。でも、ここは太陽がぎらぎら照りつける暑い地域なんです。人々はこの丘を『綿の城』という意味の『パムッカレ』と呼びます。丸みをおびた真っ白な段々が綿を積み上げたように見えますが、近づくと段々は冷たくなく、ゆげの立つあたたかい水でいっぱいなことに気づいて驚きます。",
+      "この綿の城は、とても長い時間をかけてつくられました。地下深くであたためられた水は、上がってくるうちに『カルシウム』という鉱物をたっぷり含みます。そのあたたかい水が丘を流れ落ちながら冷えると、カルシウムは真っ白な岩に固まります。これを『石灰華（トラバーチン）』と呼びます。水のしずくが何十万年もかけて何層にも積み重なり、今の段々とプールを彫り上げたのです。",
+      "2000年以上も前、人々はこの水につかると体の痛みが楽になる気がすることに気づきました。そこでギリシャ人が、その後ローマ人が、この丘の上にまるごと街をつくり、『聖なる都市』という意味の『ヒエラポリス』と名づけました。王様も旅人もふつうの人々も、あたたかい水につかり、大きな石の劇場で芝居を見るためにここまでやって来ました。",
+      "今でも私たちは、昔の人々と同じように、はだしであたたかくすべすべした段々を歩くことができます。はだしで歩くことで、こわれやすい岩を守ることにもなるのです。近くの『クレオパトラのプール』では、昔の地震でたおれた大理石の柱の間で泳ぐこともできます。古い神殿のそばには、かつて『冥界への入り口』と呼ばれた不思議なほら穴もあり、パムッカレが自然と歴史が力を合わせてつくり上げた、驚きの場所であることを教えてくれます。"
+    ],
+    "zh": [
+      "在土耳其西南部，有一座洁白得像堆满了雪的山坡。可这里其实是阳光炙热的地方。当地人把这里叫作“帕穆卡莱”，意思是“棉花堡”，因为一层层圆润洁白的台阶看起来就像堆起来的棉花。可是走近一看，你会发现这些台阶一点也不冰冷，里面装满了热气腾腾的温水，就像大自然亲手打造的巨大浴缸。",
+      "这座“棉花堡”可是花了非常非常长的时间才形成的。地底深处被加热的水在往上涌的过程中，会吸收一种叫“钙”的矿物质。这些温水顺着山坡流下、慢慢冷却时，钙就会凝固成洁白的岩石，这种岩石叫作“石灰华”。水珠一层又一层，历经几十万年才慢慢雕刻出了今天的台阶和水池。",
+      "两千多年前，人们发现泡在这种水里，身上的酸痛似乎就会好转。于是希腊人，后来是罗马人，干脆在这座山坡顶上建起了一座城市，取名“希拉波利斯”，意思是“圣城”。国王、旅人和普通百姓都不远千里赶来，只为泡一泡温泉，再去宏伟的石头剧场看一场演出。",
+      "今天，我们依然可以像古人一样，光着脚踩在温暖顺滑的白色台阶上。光脚行走既能感受温水，也能保护这些娇嫩的岩石。附近的“克利奥帕特拉温泉池”里，你还能和地震中倒塌沉入水中的古罗马石柱一起游泳。古神庙旁还有一个曾被称作“冥界之门”的神秘洞穴，让帕穆卡莱成为自然与历史携手创造的奇妙之地。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "파묵칼레는 터키어로 '목화의 성'이라는 뜻이에요. 새하얀 계단이 목화솜을 쌓아 올린 것처럼 보이거든요.",
+      "이 계단은 따뜻한 온천물 속 칼슘이 수십만 년에 걸쳐 하얀 돌(트래버틴)로 굳으면서 만들어졌어요.",
+      "눈처럼 보이지만 사실 물은 목욕물처럼 따뜻해요!",
+      "사람들은 신발을 벗고 맨발로 계단을 걸어요. 따뜻한 물도 느끼고, 연약한 하얀 돌도 지킬 수 있거든요.",
+      "2000년도 더 전, 사람들은 이 언덕 위에 '히에라폴리스'라는 온천 도시를 세우고, 따뜻한 물이 아픈 곳을 낫게 해준다고 믿었어요.",
+      "'클레오파트라 풀'에서는 옛날 지진으로 물속에 쓰러진 로마 시대 기둥 옆에서 수영을 할 수 있어요."
+    ],
+    "en": [
+      "Pamukkale means 'Cotton Castle' in Turkish — the white terraces look like giant piles of soft cotton piled up a hillside.",
+      "The terraces are built from calcium in hot spring water, which hardens into white rock called travertine, drop by drop, over hundreds of thousands of years.",
+      "Even though it looks like snow, the water is warm — about as warm as a bath!",
+      "Visitors take off their shoes and walk barefoot on the terraces, both to feel the warm water and to protect the delicate white stone.",
+      "More than 2,000 years ago, people built an entire spa city called Hierapolis right on top, believing the warm water could heal aches and pains.",
+      "In Cleopatra's Pool, you can swim right next to ancient Roman columns that toppled into the water during an earthquake long ago."
+    ],
+    "ja": [
+      "パムッカレはトルコ語で『綿の城』という意味です。真っ白な段々が綿を積み上げたように見えるからです。",
+      "この段々は、あたたかい温泉水の中のカルシウムが何十万年もかけて白い岩（石灰華）に固まってできました。",
+      "雪のように見えますが、実はお風呂のようにあたたかい水なんです！",
+      "人々は靴をぬいで、はだしで段々を歩きます。あたたかい水を感じながら、こわれやすい白い岩を守るためです。",
+      "2000年以上前、人々はこの丘の上に『ヒエラポリス』という温泉の街をつくり、あたたかい水が体の痛みを治すと信じていました。",
+      "『クレオパトラのプール』では、昔の地震で水の中にたおれたローマ時代の柱のそばで泳ぐことができます。"
+    ],
+    "zh": [
+      "“帕穆卡莱”在土耳其语里是“棉花堡”的意思，因为洁白的台阶看起来就像堆起来的棉花。",
+      "这些台阶是温泉水中的钙经过几十万年慢慢凝固成白色岩石（石灰华）而形成的。",
+      "看起来像雪，其实水温暖得像洗澡水一样！",
+      "游客们会脱掉鞋子光脚走在台阶上，既能感受温水，也能保护这些娇嫩的白色岩石。",
+      "两千多年前，人们在这座山坡上建起了一座叫“希拉波利斯”的温泉城市，相信温水能治愈病痛。",
+      "在“克利奥帕特拉温泉池”里，你可以和地震中倒塌沉入水中的古罗马石柱一起游泳。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "땅이 온통 눈으로 덮인 것처럼 보이는데, 물은 목욕물처럼 따뜻하대. 어떻게 그럴 수 있을까?",
+    "en": "The ground looks like it's covered in snow, but the water is warm enough for a bath — how could that be?",
+    "ja": "地面は雪でおおわれているように見えるのに、水はお風呂みたいにあたたかいんだって。どうしてそんなことがあるのかな？",
+    "zh": "地面看起来像被雪盖住了一样，水却像洗澡水一样温暖，这怎么可能呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "파묵칼레 석회 계단", "en": "Pamukkale Travertine Terraces", "ja": "パムッカレの石灰段丘", "zh": "帕穆卡莱石灰华台阶" },
+      "blurb": {
+        "ko": "파묵칼레라는 이름을 만들어 준 새하얗고 반짝이는 계단 모양 웅덩이들이에요. 지금도 수십만 년 전과 똑같이 따뜻한 광물수가 계단을 타고 흘러내려요. 맨발로 얕은 물속을 걸으며 발가락 사이로 따뜻한 물이 보글보글 지나가는 걸 느껴 보세요.",
+        "en": "These are the dazzling white, step-like pools that give Pamukkale its name. Warm mineral water still trickles down them today, just as it has for hundreds of thousands of years. Walk barefoot through the shallow pools and feel the warm water bubble around your toes.",
+        "ja": "パムッカレという名前の由来になった、真っ白できらきら光る段々のプールです。今でも何十万年前と同じように、あたたかい鉱泉水が段々を流れ落ちています。はだしで浅いプールを歩き、足の指の間をあたたかい水がぷくぷく流れるのを感じてみましょう。",
+        "zh": "这就是让“帕穆卡莱”得名的洁白闪亮的阶梯状水池。如今温暖的矿泉水依然像几十万年前一样，顺着台阶缓缓流下。光脚走进浅浅的水池，感受温水在脚趾间咕嘟咕嘟流过吧。"
+      },
+      "coords": [37.9151, 29.1176]
+    },
+    {
+      "name": { "ko": "클레오파트라 풀", "en": "Cleopatra's Antique Pool", "ja": "クレオパトラのプール", "zh": "克利奥帕特拉温泉池" },
+      "blurb": {
+        "ko": "옛 신전에서 무너져 내린 대리석 기둥이 물속에 잠겨 있는 따뜻한 온천 풀이에요. 전설에 따르면 이집트 여왕 클레오파트라도 이곳에서 목욕을 했대요. 2000년 된 유적 바로 옆에서 수영을 할 수 있는 특별한 곳이랍니다.",
+        "en": "A warm spring-fed pool where broken marble columns from an ancient temple lie scattered underwater after a long-ago earthquake. Legend says Egypt's Queen Cleopatra herself once bathed here. You can swim right alongside 2,000-year-old ruins.",
+        "ja": "こわれた神殿の大理石の柱が水の中に沈んでいる、あたたかい温泉プールです。伝説では、エジプトの女王クレオパトラもここで水浴びをしたと言われています。2000年前の遺跡のすぐそばで泳げる、特別な場所です。",
+        "zh": "一座温暖的温泉池，古神庙倒塌的大理石石柱就沉在水中。传说埃及女王克利奥帕特拉曾在这里沐浴。你可以在两千年前的遗迹旁尽情游泳，感觉非常特别。"
+      },
+      "coords": [37.9219, 29.1224]
+    },
+    {
+      "name": { "ko": "히에라폴리스 원형극장", "en": "Hierapolis Theatre", "ja": "ヒエラポリス劇場", "zh": "希拉波利斯剧场" },
+      "blurb": {
+        "ko": "로마 사람들이 지은 거대한 돌 극장으로, 무려 1만 5천 명이나 앉을 수 있었대요. 아래쪽 온천물에 몸을 담그러 온 사람들이 여기서 배우와 음악가의 공연을 구경했답니다. 맨 꼭대기 자리에 올라가 옛날 관객들의 함성 소리를 상상해 보세요.",
+        "en": "A huge stone theater built by the Romans, with seats for up to 15,000 people. People who'd come to soak in the healing waters below would gather here to watch actors and musicians perform. Climb to the top row and imagine the roar of an ancient audience.",
+        "ja": "ローマ人が建てた巨大な石の劇場で、なんと1万5000人も座れたそうです。下のあたたかい温泉につかりに来た人々が、ここで役者や音楽家の演技を楽しみました。一番上の席にのぼって、昔の観客の歓声を想像してみましょう。",
+        "zh": "这是罗马人建造的巨大石头剧场，据说能容纳多达一万五千名观众。当年泡完温泉的人们，就会来这里观看演员和乐师的表演。爬到最高一排的座位，想象一下古代观众的欢呼声吧。"
+      },
+      "coords": [37.9236, 29.1234]
+    },
+    {
+      "name": { "ko": "플루토니움 (저승의 문)", "en": "The Plutonium (Gate to the Underworld)", "ja": "プルトニウム（冥界の門）", "zh": "普鲁托尼翁（冥界之门）" },
+      "blurb": {
+        "ko": "옛날 사람들이 저승으로 통하는 입구라고 믿었던 작은 동굴이에요. 땅속 깊은 곳에서 눈에 보이지 않는 신비한 기체가 새어 나와 사람들을 놀라게 했대요. 신관들은 이 동굴 앞에서 신비로운 의식을 벌여 찾아온 사람들을 깜짝 놀라게 했답니다.",
+        "en": "A small cave once believed by ancient people to be an entrance to the underworld. Invisible gas seeping up from deep underground made the spot feel mysterious and a little spooky. Priests would perform dramatic ceremonies right at its mouth, amazing every visitor who came to see.",
+        "ja": "昔の人々が冥界への入り口だと信じていた小さなほら穴です。地下深くから目に見えない不思議な気体がふき出し、人々をおどろかせました。神官たちはこのほら穴の前で不思議な儀式をおこない、訪れる人々をびっくりさせたそうです。",
+        "zh": "这是一个古人相信通往冥界入口的小洞穴。地底深处会冒出看不见的神秘气体，让人们感到又惊又怕。祭司们常在洞口举行神秘的仪式，让每一位到访者都大吃一惊。"
+      },
+      "coords": [37.9218, 29.1211]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cairns",
+  "country": "au",
+  "coords": [-16.9203, 145.7710],
+  "name": { "ko": "케언즈", "en": "Cairns", "ja": "ケアンズ", "zh": "凯恩斯" },
+  "tagline": {
+    "ko": "세계 최대 산호초와 가장 오래된 정글이 만나는 곳",
+    "en": "Where the world's biggest reef meets one of its oldest jungles",
+    "ja": "世界最大のサンゴ礁と、最も古いジャングルが出会う場所",
+    "zh": "世界最大珊瑚礁与最古老丛林相遇的地方"
+  },
+  "story": {
+    "ko": [
+      "호주 북쪽 끝, 케언즈라는 도시에 가면 정말 신기한 일이 벌어져요. 한쪽에는 새파란 바다가 반짝이고, 다른 한쪽에는 초록빛 정글이 우거져 있거든요. 게다가 이 둘은 아주 가까이 붙어 있어서, 하루 만에 바다에서 헤엄치고 숲속을 걸을 수 있답니다.",
+      "케언즈 앞바다에는 '그레이트 배리어 리프'라는 세계에서 가장 큰 산호초가 펼쳐져 있어요. 길이가 2300킬로미터도 넘어서, 우주에서도 보일 정도래요! 이 거대한 산호초는 사실 아주 작은 산호 폴립이라는 생물들이 수천 년 동안 조금씩 쌓아 만든 거예요. 그 안에는 바다거북, 상어, 니모 같은 알록달록한 물고기들이 살고 있답니다.",
+      "케언즈 뒤쪽 산에는 '데인트리'라는 열대우림이 펼쳐져 있어요. 무려 1억 8000만 년 전부터 있던 숲이라, 아마존보다도 더 나이가 많대요! 이 오래된 숲에는 하늘색 목을 가진 커다란 새 '캐서워리'가 살고, 5만 년도 넘게 이 땅에서 살아온 원주민들이 숲의 모든 길과 식물을 알고 있어요.",
+      "그래서 케언즈는 세상에 딱 하나뿐인 특별한 곳이에요. 세계에서 가장 큰 산호초와 가장 오래된 열대우림이 서로 손을 맞잡고 있거든요. 아침엔 거북이랑 헤엄치고, 오후엔 공룡시대 나무 밑을 걸을 수 있는 도시, 그게 바로 케언즈랍니다!"
+    ],
+    "en": [
+      "At the very top of Australia sits a town called Cairns, where something amazing happens. On one side, a bright blue ocean sparkles. On the other, a deep green jungle grows thick and wild. And here's the best part—they're so close together that you could swim in the sea in the morning and walk through the rainforest by afternoon.",
+      "Just off the coast of Cairns lies the Great Barrier Reef, the biggest coral reef on Earth. It stretches over 2,300 kilometers—so long you can even spot it from outer space! This giant reef wasn't built in a day. Tiny creatures called coral polyps built it up, piece by piece, over thousands and thousands of years. Now it's home to sea turtles, sharks, and rainbow-colored fish just like Nemo.",
+      "Behind Cairns, mountains rise up covered in a rainforest called the Daintree. It's about 180 million years old—older than the Amazon rainforest! Giant birds called cassowaries, with bright blue necks, stomp through these ancient trees. And Aboriginal peoples have lived here for more than 50,000 years, learning every path, plant, and secret of this forest.",
+      "That's what makes Cairns one of a kind. It's the only place on Earth where the world's biggest reef and one of its oldest rainforests sit right next to each other. Swim with a turtle in the morning, then walk beneath trees that dinosaurs once nibbled on by afternoon—only in Cairns!"
+    ],
+    "ja": [
+      "オーストラリアの北のはしっこに、ケアンズという街があります。ここでは本当に不思議なことが起こります。片側には真っ青な海がキラキラ光り、もう片側には深い緑のジャングルが生いしげっているのです。しかもこの二つはとても近くにあるので、朝は海で泳ぎ、午後には熱帯雨林の中を歩くことだってできます。",
+      "ケアンズの沖には、地球最大のサンゴ礁『グレート・バリア・リーフ』が広がっています。長さはなんと2300キロメートル以上、宇宙からも見えるほどなんです！この巨大なサンゴ礁は、一日でできたものではありません。サンゴポリプというとても小さな生き物が、何千年もかけて少しずつ積み上げてきたのです。今では、ウミガメやサメ、ニモのようなカラフルな魚たちのすみかになっています。",
+      "ケアンズの後ろの山には、『デインツリー』という熱帯雨林が広がっています。なんと1億8000万年前からある森で、アマゾンの熱帯雨林よりも古いんです！この古い森には、青い首をした大きな鳥『ヒクイドリ』が住んでいて、5万年以上前からこの土地で暮らしてきたアボリジニの人々が、森のすべての道や植物を知りつくしています。",
+      "だからこそ、ケアンズは世界にひとつだけの特別な場所なんです。世界最大のサンゴ礁と、最も古い熱帯雨林のひとつが、すぐとなり合わせにあるのですから。朝はウミガメと泳ぎ、午後には恐竜時代からある木の下を歩ける街——それがケアンズです！"
+    ],
+    "zh": [
+      "在澳大利亚最北端，有一座叫凯恩斯的城市，这里会发生一件很神奇的事：一边是波光粼粼的蔚蓝大海，另一边是郁郁葱葱的绿色丛林。而且这两者靠得非常近，早上还能在海里游泳，下午就能走进热带雨林里散步。",
+      "凯恩斯外海是地球上最大的珊瑚礁——大堡礁。它长达2300多公里，据说从太空都能看到！这座巨大的珊瑚礁可不是一天建成的，而是由叫做珊瑚虫的微小生物，花了几千年时间一点点堆积起来的。如今，这里生活着海龟、鲨鱼，还有像尼莫那样色彩斑斓的小鱼。",
+      "凯恩斯背后的山上，是一片名叫“丹翠”的热带雨林。这片森林大约有1.8亿年历史，比亚马逊雨林还要古老！在这片古老的森林里，住着脖子是蓝色的大鸟——食火鸡。而世代生活在这片土地上超过五万年的原住民，早已熟知森林里的每一条小路和每一株植物。",
+      "正因如此，凯恩斯成了世界上独一无二的地方——世界最大的珊瑚礁和最古老的热带雨林之一，就这样紧紧相邻。早上和海龟一起游泳，下午走在恐龙时代就存在的大树下——这就是凯恩斯！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "그레이트 배리어 리프는 지구에서 가장 큰 '살아있는' 구조물이에요. 아주 작은 산호 폴립들이 만든 건데, 우주에서도 보인대요!",
+      "데인트리 열대우림은 무려 1억 8000만 년 전부터 있었어요. 아마존 열대우림보다도 나이가 많답니다.",
+      "하늘색 목을 가진 새 '캐서워리'는 날지 못하지만 엄청 빨리 달려요. 사납다고 소문났지만 사실은 무척 수줍음이 많고, 열매를 먹고 씨앗을 퍼뜨려 숲을 키우는 고마운 새랍니다.",
+      "케언즈 바닷가에는 커다란 무료 수영장 '에스플러네이드 라군'이 있어요. 여름엔 바다에 쏘는 해파리가 있어서, 대신 여기서 안전하게 헤엄친대요.",
+      "쿠란다로 가는 옛날 기차는 100년도 더 전에 사람 손으로 산을 뚫어 만들었어요. 터널 15개와 폭포를 지나가는데, 하늘 위 케이블카 '스카이레일'을 타면 정글 꼭대기를 둥둥 떠서 구경할 수 있어요.",
+      "이 지역 원주민들은 5만 년도 넘게 이 바다와 숲에서 살아왔어요. 지구에서 가장 오래도록 이어진 문화 중 하나랍니다."
+    ],
+    "en": [
+      "The Great Barrier Reef is the largest living structure on Earth—built by tiny coral polyps—and it's so big you can spot it from space!",
+      "The Daintree Rainforest is about 180 million years old, making it older than the Amazon rainforest.",
+      "The cassowary, a big blue-necked bird, can't fly but can run super fast. People call it 'the world's most dangerous bird,' but really it's shy—and it helps grow the forest by eating fruit and spreading the seeds.",
+      "Cairns has a giant free public swimming pool called the Esplanade Lagoon, built because the ocean has stinging jellyfish in summer.",
+      "The old Kuranda train track was carved through the mountains by hand more than 100 years ago, passing 15 tunnels and a waterfall—while the Skyrail cable car floats you right above the rainforest treetops.",
+      "Aboriginal peoples have lived among this reef and rainforest for more than 50,000 years—one of the oldest continuous cultures on Earth."
+    ],
+    "ja": [
+      "グレート・バリア・リーフは地球最大の『生きた』建造物。とても小さなサンゴポリプが作ったのに、宇宙からも見えるほど大きいんです！",
+      "デインツリー熱帯雨林は約1億8000万年前からあり、アマゾンの熱帯雨林よりも古いんです。",
+      "青い首をした大きな鳥『ヒクイドリ』は空を飛べないけれど、ものすごく速く走れます。『世界一危険な鳥』と言われますが、本当はとても恥ずかしがり屋。果実を食べて種をまき散らし、森を育てる手伝いをしているんですよ。",
+      "ケアンズの海辺には『エスプラネード・ラグーン』という大きな無料プールがあります。夏の海には刺すクラゲがいるので、代わりにここで安全に泳げるんです。",
+      "クランダへ向かう昔の鉄道は、100年以上前に人の手で山を掘って作られました。トンネル15個と滝を通り抜けます。空のケーブルカー『スカイレール』に乗れば、ジャングルの頂上をふわふわ見わたせますよ。",
+      "この地域のアボリジニの人々は、5万年以上もこの海と森で暮らしてきました。地球で最も長く続く文化のひとつです。"
+    ],
+    "zh": [
+      "大堡礁是地球上最大的“活”建筑——由微小的珊瑚虫建造而成，大到从太空都能看见！",
+      "丹翠雨林大约有1.8亿年历史，比亚马逊雨林还要古老。",
+      "脖子是蓝色的大鸟“食火鸡”不会飞，但跑得飞快。人们叫它“世界上最危险的鸟”，其实它非常害羞，还会靠吃果实、播撒种子来帮助森林生长呢。",
+      "凯恩斯海边有一个巨大的免费游泳池，叫“埃斯普拉纳德泻湖”。因为夏天海里有蜇人的水母，人们就改在这里安全地游泳。",
+      "通往库兰达的老式火车轨道，是一百多年前人们徒手在山中开凿出来的，沿途穿过15条隧道和一处瀑布；如果乘坐空中缆车“天际缆车”，还能悬在半空俯瞰雨林的树冠呢。",
+      "这片土地上的原住民已经在这片珊瑚礁和雨林之间生活了五万多年——是地球上延续最久的文化之一。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "케언즈에서는 아침엔 바다거북이랑 헤엄치고, 오후엔 공룡 시대부터 있던 숲을 걸을 수 있대! 너라면 어떤 걸 먼저 해보고 싶어?",
+    "en": "In Cairns you could swim with sea turtles in the morning and walk through a forest older than the dinosaurs by afternoon! Which one would you try first?",
+    "ja": "ケアンズでは朝ウミガメと泳いで、午後には恐竜より古い森を歩けるんだって！きみならどっちを先にやってみたい？",
+    "zh": "在凯恩斯，早上可以和海龟一起游泳，下午还能走进比恐龙还古老的森林！你想先试哪一个呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "그린 아일랜드", "en": "Green Island", "ja": "グリーン島", "zh": "绿岛" },
+      "blurb": {
+        "ko": "케언즈에서 배로 40분이면 닿는 작은 산호섬이에요. 섬 전체가 산호초 위에 자라난 열대우림이라, 배에서 내리자마자 바로 스노클링을 하며 알록달록한 물고기와 바다거북을 만날 수 있어요.",
+        "en": "A tiny coral-reef island just a 40-minute boat ride from Cairns. The whole island grew right on top of the reef, so you can snorkel straight off the beach and meet colorful fish and sea turtles.",
+        "ja": "ケアンズからボートで40分で着く小さなサンゴ礁の島。島全体がサンゴ礁の上に育った熱帯雨林で、ビーチからすぐシュノーケリングをして、カラフルな魚やウミガメに会えます。",
+        "zh": "从凯恩斯乘船40分钟即可抵达的小珊瑚礁岛屿。整座岛屿就是长在珊瑚礁上的热带雨林，一下船就能浮潜，遇见五颜六色的鱼儿和海龟。"
+      },
+      "coords": [-16.7592, 145.9721]
+    },
+    {
+      "name": { "ko": "케이프 트리뷸레이션", "en": "Cape Tribulation", "ja": "ケープ・トリビュレーション", "zh": "特里布蕾申角" },
+      "blurb": {
+        "ko": "데인트리 열대우림이 모래사장까지 이어져, 지구상에서 숲과 산호초라는 두 개의 세계유산이 맞닿는 유일한 곳이에요. 정글 속을 걷다 보면 몇 걸음 만에 새하얀 바닷가가 펼쳐진답니다.",
+        "en": "Here the ancient Daintree Rainforest grows right down to the sand—the only place on Earth where two World Heritage wonders, rainforest and reef, touch. Walk through jungle, and in just a few steps you're on a white sandy beach.",
+        "ja": "ここでは古代のデインツリー熱帯雨林が砂浜まで続いていて、世界で唯一、熱帯雨林とサンゴ礁という二つの世界遺産が出会う場所です。ジャングルを歩いていると、数歩で真っ白なビーチにたどり着きます。",
+        "zh": "古老的丹翠雨林在这里一直延伸到沙滩边，是地球上唯一雨林与珊瑚礁两大世界遗产相接的地方。走在丛林里，只需几步就能踏上洁白的沙滩。"
+      },
+      "coords": [-16.0713, 145.4298]
+    },
+    {
+      "name": { "ko": "쿠란다 스카이레일 & 기차", "en": "Kuranda Scenic Railway & Skyrail", "ja": "クランダ・スカイレール＆鉄道", "zh": "库兰达天际缆车与观光火车" },
+      "blurb": {
+        "ko": "100년도 더 전에 사람들이 손으로 산을 뚫어 만든 기차를 타고 폭포와 다리를 건너 정글 마을 쿠란다로 올라가요. 돌아올 땐 케이블카 스카이레일을 타고 열대우림 지붕 위를 둥둥 떠다니듯 내려올 수 있어요.",
+        "en": "Ride a train carved by hand through the mountains more than 100 years ago, crossing waterfalls and bridges up to the jungle village of Kuranda. Come back down floating above the rainforest canopy on the Skyrail cable car.",
+        "ja": "100年以上前に人の手で山を切り開いて作った鉄道に乗り、滝や橋を越えてジャングルの村クランダへ。帰りはスカイレールのケーブルカーに乗って、熱帯雨林の屋根の上をふわふわ漂うように降りてこられます。",
+        "zh": "乘坐一百多年前人们徒手凿山而建的火车，跨越瀑布与桥梁，前往丛林小镇库兰达。回程可以搭乘天际缆车，悬浮在雨林树冠之上缓缓滑下。"
+      },
+      "coords": [-16.8194, 145.6347]
+    },
+    {
+      "name": { "ko": "에스플러네이드 라군", "en": "Cairns Esplanade Lagoon", "ja": "エスプラネード・ラグーン", "zh": "埃斯普拉纳德泻湖" },
+      "blurb": {
+        "ko": "케언즈 바닷가에 있는 커다란 무료 수영장이에요. 여름철 바다에는 쏘는 해파리가 나타나서, 사람들은 대신 이 안전한 라군에서 물놀이를 즐긴답니다. 야자수 아래 잔디밭에서 소풍을 즐기기에도 딱이에요.",
+        "en": "A huge free swimming lagoon right by the sea in Cairns. In summer, stinging jellyfish can show up in the ocean, so everyone swims here instead, safe and cool. The grassy lawns under the palm trees are perfect for a picnic too.",
+        "ja": "ケアンズの海辺にある巨大な無料プール。夏の海には刺すクラゲが現れることがあるので、みんな代わりにここで安全に泳ぎます。ヤシの木の下の芝生はピクニックにもぴったり。",
+        "zh": "位于凯恩斯海边的巨大免费游泳池。夏天海里可能出现蜇人的水母，所以大家都改到这里安全清凉地游泳。棕榈树下的草坪也是野餐的好地方。"
+      },
+      "coords": [-16.9186, 145.7781]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "bali",
+  "country": "id",
+  "coords": [-8.3405, 115.0920],
+  "name": { "ko": "발리", "en": "Bali", "ja": "バリ島", "zh": "巴厘岛" },
+  "tagline": {
+    "ko": "1년에 한 번, 섬 전체가 깜깜하고 고요해지는 '신들의 섬'",
+    "en": "The Island of the Gods, where the whole island goes dark and silent once a year",
+    "ja": "年に一度、島じゅうが真っ暗で静まりかえる『神々の島』",
+    "zh": "一年一次，全岛陷入黑暗与寂静的“神明之岛”"
+  },
+  "story": {
+    "ko": [
+      "발리는 인도네시아라는 나라에 속한 작은 섬이에요. 인도네시아는 무려 1만 7000개가 넘는 섬으로 이루어져 있고, 대부분 이슬람교를 믿는 나라예요. 그런데 발리는 조금 달라요. 이 섬 사람들은 대부분 오래전 인도에서 건너온 힌두교를 믿거든요. 신들과 정령 이야기가 가득하고, 매일매일 작은 의식을 치른답니다. 발리 어느 골목을 걸어도 꽃과 쌀, 향으로 만든 작은 바구니 공양물 '짜낭 사리'를 문 앞이나 길바닥, 심지어 자동차 계기판 위에서도 볼 수 있어요. 하루에도 여러 번 새로 놓인답니다.",
+      "그런데 1년에 딱 한 번, 발리 전체가 완전히 고요해지는 날이 있어요. 바로 '녜피', 침묵의 날이에요. 불도 못 켜고, 일도 못 하고, 밖에 나갈 수도 없어요. 심지어 공항까지 24시간 동안 문을 닫는답니다! 그 전날 밤엔 무섭게 생긴 커다란 괴물 인형 '오고오고'를 앞세우고 북을 치며 거리를 행진해요. 그러고는 그 인형을 불태우는데, 나쁜 기운을 몰아내고 섬을 텅 빈 것처럼 보이게 해서 악령을 속이기 위해서래요.",
+      "발리의 푸른 언덕은 커다란 계단처럼 층층이 깎여 있고, 그 위에 물을 채운 논이 햇빛에 거울처럼 반짝여요. 농부들은 무려 천 년 넘게 산에서 내려오는 물을 사이좋게 나눠 써 왔는데, '수박'이라는 똑똑한 관개 시스템 덕분이에요. 물의 신을 모시는 사원이 어느 논에 먼저 물을 댈지 정해준답니다. 이 방식이 얼마나 오래되고 지혜로운지, 유네스코 세계유산으로 지정되었을 정도예요.",
+      "발리의 사원들은 마치 땅과 바다에서 저절로 솟아난 것처럼 보여요. 어떤 사원은 바다 위 바위에 세워져서 밀물 때는 파도에 둘러싸이고, 또 어떤 사원은 파도가 부서지는 70미터 절벽 위에 자리 잡고 장난꾸러기 원숭이들이 지키고 있어요. 그리고 그 뒤에는 신들이 산다고 믿는 신성한 화산 '아궁 산'이 우뚝 서 있답니다. 그래서 발리에서는 집을 지을 때도 이 산을 향해 공손하게 방향을 잡는대요."
+    ],
+    "en": [
+      "Bali is a small island in Indonesia, a country made up of more than 17,000 islands where most people follow Islam. But Bali is different: almost everyone here follows a Hindu faith that first came from India many centuries ago, filled with gods, spirits, and daily rituals. Walk down any street and you'll step around tiny woven baskets of flowers, rice, and incense—offerings called 'canang sari'—left on doorsteps, sidewalks, and even car dashboards, refreshed several times every single day.",
+      "Once a year, though, Bali goes completely quiet. It's called Nyepi, the Day of Silence, and it's like nothing else on Earth: no lights, no fires, no work, no travel—even the airport shuts down for 24 whole hours. The night before, giant scary monster statues called 'ogoh-ogoh' are paraded through the streets with drums and torches, then burned, to scare away evil spirits before the island goes dark and silent.",
+      "Bali's green hills are carved into giant staircases of rice paddies that shimmer like mirrors in the sun. Farmers have shared the mountain water fairly for over a thousand years using a clever system called 'subak,' guided by water temples that decide whose field gets watered first. It's so old and so wise that the whole system is now protected as a World Heritage treasure.",
+      "Bali's temples seem to grow right out of the land and sea. One sits on a rock offshore, cut off by waves at high tide; another perches on a cliff seventy meters above crashing surf, watched over by cheeky monkeys. Behind it all looms Mount Agung, a sacred volcano the Balinese believe is a home of the gods—so almost everything on the island, even the direction houses face, points respectfully toward it."
+    ],
+    "ja": [
+      "バリ島はインドネシアという国にある小さな島です。インドネシアは1万7000以上もの島からできていて、そのほとんどがイスラム教の国。でもバリ島はちょっと違います。ここに住む人々の多くは、はるか昔インドから伝わったヒンドゥー教を信じていて、神さまや精霊の物語がいっぱい。毎日小さな儀式も欠かしません。バリのどんな道を歩いても、花やお米、お香を編みかごに入れた小さなお供え物『チャナン・サリ』を見かけます。玄関先や道ばた、車のダッシュボードの上にまで、1日に何度も新しく置かれるのです。",
+      "でも1年にたった一度、バリ島全体がすっかり静まりかえる日があります。それが『ニュピ』、静寂の日。明かりもつけず、仕事もせず、外にも出られません。なんと空港まで24時間まるまる閉まってしまうのです！前の夜には、おそろしい顔をした巨大な怪物人形『オゴオゴ』を先頭に、太鼓を鳴らしながら街を練り歩きます。そのあと人形を燃やすのですが、これは悪い霊をだまして『島には誰もいない』と思わせ、追い払うためなのだそうです。",
+      "バリの緑の丘は大きな階段のように何段にも刻まれ、水を張った棚田が太陽の光を受けて鏡のように輝きます。農民たちは千年以上もの間、山から流れる水を仲良く分け合ってきました。それを支えるのが『スバック』というかしこい灌漑の仕組みで、水の神をまつる寺院がどの田んぼに先に水を引くかを決めるのです。あまりに古く知恵にあふれた仕組みなので、世界遺産にも登録されています。",
+      "バリの寺院は、まるで大地や海から自然に生まれ出たように見えます。ある寺院は海に浮かぶ岩の上に建ち、満潮になると波に囲まれてしまいます。またある寺院は波が砕ける70メートルの崖の上にあり、いたずら好きなお猿さんたちが見守っています。そのずっと奥には、神々が住むと信じられている聖なる火山『アグン山』がそびえ立っています。だからバリでは家を建てるときも、この山の方向をうやうやしく意識するのだそうです。"
+    ],
+    "zh": [
+      "巴厘岛是印度尼西亚的一座小岛。印度尼西亚由一万七千多个岛屿组成，全国大多数人信仰伊斯兰教。可巴厘岛却不一样——岛上大多数人信奉的是很久以前从印度传来的印度教，充满了神明与精灵的故事，每天都要举行小小的仪式。走在巴厘岛的任何一条街上，你都能看到用鲜花、米粒和香编成的小篮子供品，叫做“查南萨丽”，摆在门口、路边，甚至汽车仪表盘上，一天要更换好几次呢。",
+      "不过每年有那么一天，整座巴厘岛会彻底安静下来，这一天叫做“宁静日”。这一天不能开灯，不能工作，也不能出门——就连机场也要整整关闭24个小时！前一天晚上，人们会抬着长相凶巴巴的巨型怪物雕像“奥果奥果”，敲着鼓在街上游行，之后再把它烧掉。据说这样做是为了骗过坏灵魂，让它们以为岛上空无一人，从而离开这里。",
+      "巴厘岛的青翠山坡被削成一层层巨大的台阶，灌满水的梯田在阳光下闪闪发亮，像无数面镜子。农民们已经用一种叫“苏巴克”的聪明灌溉系统，公平分享山泉水超过一千年，由供奉水神的寺庙来决定哪块田先得到灌溉。这套系统实在太古老、太智慧了，如今还被列入了世界遗产名录。",
+      "巴厘岛的寺庙看起来就像是从大地和海洋里自然生长出来的一样。有一座寺庙建在海中的礁石上，涨潮时会被海浪团团围住；另一座则立在浪花拍打的七十米高悬崖上，由调皮的猴子们守护着。而在这一切的背后，矗立着被认为是众神居所的圣山——阿贡火山。所以在巴厘岛，人们盖房子时甚至都会恭敬地朝着这座山的方向。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'녜피'라는 침묵의 날엔 섬 전체가 24시간 동안 불도 못 켜고 일도 못 하고, 심지어 공항까지 문을 닫아요.",
+      "녜피 전날 밤엔 무시무시하게 생긴 괴물 인형 '오고오고'를 행진시킨 뒤 불태워서 나쁜 기운을 쫓아낸대요.",
+      "발리 사람들은 꽃과 쌀, 향으로 만든 작은 공양물 '짜낭 사리'를 하루에도 여러 번 문 앞과 길거리에 놓아요.",
+      "발리에는 집보다 사원이 더 많은 마을도 있어서 '천 개의 사원이 있는 섬'이라고도 불려요.",
+      "'수박'이라는 관개 시스템은 천 년도 더 됐는데, 물의 신을 모신 사원이 논에 물 대는 순서를 정해줘요. 유네스코 세계유산이기도 해요.",
+      "바다 위 바위에 세워진 타나롯 사원은 밀물 때 물에 둘러싸여서, 썰물 때만 걸어서 들어갈 수 있어요."
+    ],
+    "en": [
+      "On Nyepi, the Day of Silence, the whole island goes dark for 24 hours—no lights, no work, not even the airport stays open.",
+      "The night before Nyepi, giant scary monster statues called 'ogoh-ogoh' are paraded through the streets and then burned to chase away evil spirits.",
+      "Balinese people place tiny offerings of flowers, rice, and incense called 'canang sari' on doorsteps and sidewalks several times every day.",
+      "Bali has so many temples—more than actual houses in some villages—that it's nicknamed the 'Island of a Thousand Temples.'",
+      "The 1,000-year-old 'subak' irrigation system uses water temples to decide which rice field gets watered first, and it's now a UNESCO World Heritage treasure.",
+      "Tanah Lot temple sits on a rock in the ocean and gets completely surrounded by water at high tide—you can only walk to it when the tide is low."
+    ],
+    "ja": [
+      "『ニュピ』という静寂の日には、島全体が24時間まっくらに。明かりも仕事もなく、空港さえ閉まってしまいます。",
+      "ニュピの前の夜には、おそろしい怪物人形『オゴオゴ』を街で練り歩かせたあと燃やして、悪い霊を追い払います。",
+      "バリの人々は花やお米、お香でできた小さなお供え物『チャナン・サリ』を、玄関先や道ばたに1日に何度も置きます。",
+      "バリには家よりお寺の数のほうが多い村もあり、『千の寺の島』とも呼ばれます。",
+      "千年以上前からある『スバック』という灌漑の仕組みは、水の神をまつる寺院がどの田んぼに先に水をあげるか決めていて、今では世界遺産にもなっています。",
+      "海の岩の上に建つタナロット寺院は、満潮になると水にすっぽり囲まれてしまい、潮が引いたときしか歩いて行けません。"
+    ],
+    "zh": [
+      "在“宁静日”这一天，整座岛屿会连续24小时一片漆黑——不开灯、不工作，就连机场也要关闭。",
+      "宁静日前一晚，人们会抬着长相凶恶的巨型怪物雕像“奥果奥果”游街，然后把它烧掉，用来赶走坏灵魂。",
+      "巴厘岛人每天要好几次把用鲜花、米粒和香做成的小供品“查南萨丽”摆在门口和路边。",
+      "巴厘岛有些村子里寺庙比房子还多，因此被称为“千寺之岛”。",
+      "已有上千年历史的“苏巴克”灌溉系统，由供奉水神的寺庙决定哪块稻田先浇水，如今已被列入世界遗产。",
+      "海中礁石上的塔纳罗特寺庙，涨潮时会被海水完全包围，只有退潮时才能步行前往。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "동네 전체가 하루 동안 불빛도, 소리도, 심지어 비행기도 하나 없이 캄캄하고 조용해진다면 어떨까? 너라면 그렇게 조용한 하루를 견딜 수 있을까?",
+    "en": "Imagine your whole town going completely dark and silent for a full day—no lights, no cars, not even airplanes. Could you handle a whole day with no noise and no glow at all?",
+    "ja": "自分の町が丸一日、明かりも音も、飛行機さえもなく真っ暗で静まりかえったらどうだろう？そんな静かな一日を過ごせるかな？",
+    "zh": "如果你住的整个小镇一整天都变得漆黑又安静，没有灯光、没有声音，连飞机都停飞，你能撑过这样安静的一天吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "타나롯 사원", "en": "Tanah Lot Temple", "ja": "タナロット寺院", "zh": "塔纳罗特寺庙" },
+      "blurb": {
+        "ko": "바다 바로 앞 바위 위에 세워진 작은 힌두 사원이에요. 밀물이 들면 파도에 둘러싸여 작은 섬처럼 변한답니다. 전설에 따르면 바다뱀이 이 사원을 나쁜 기운으로부터 지켜준대요.",
+        "en": "A small Hindu temple perched on a rock just offshore, surrounded by crashing waves. At high tide it becomes its own tiny island, and legends say a sea snake guards it from evil spirits and intruders.",
+        "ja": "海のすぐそばの岩の上に建つ小さなヒンドゥー寺院。満潮になると波に囲まれて、まるで小さな島のように見えます。伝説では海のヘビがこの寺院を悪い気から守っているそうです。",
+        "zh": "建在海边礁石上的一座小型印度教寺庙。涨潮时会被海浪团团围住，仿佛变成一座小岛。传说中有一条海蛇守护着这座寺庙，抵御邪恶之力。"
+      },
+      "coords": [-8.6212, 115.0868]
+    },
+    {
+      "name": { "ko": "울루와뚜 사원", "en": "Uluwatu Temple", "ja": "ウルワツ寺院", "zh": "乌鲁瓦图寺庙" },
+      "blurb": {
+        "ko": "파도가 부딪치는 70미터 절벽 위에 아슬아슬하게 자리 잡은 사원이에요. 선글라스를 낚아채길 좋아하는 장난꾸러기 원숭이들이 지키고 있죠. 매일 저녁 해가 바다로 질 때면 여기서 신비로운 '께짝(불의 춤)' 공연이 펼쳐진답니다.",
+        "en": "This temple balances on a cliff 70 meters above crashing waves, guarded by cheeky monkeys who love to snatch sunglasses. Every evening, dancers perform the hypnotic 'Kecak' fire dance here as the sun sinks into the ocean.",
+        "ja": "波が砕ける70メートルの崖にあやうく立つ寺院。サングラスをかっさらうのが大好きないたずら猿たちが見張っています。毎晩、太陽が海に沈むころ、ここで幻想的な『ケチャ』の炎の踊りが演じられます。",
+        "zh": "这座寺庙悬于浪花拍打的七十米高崖上，由喜欢抢走游客墨镜的调皮猴子守护着。每天傍晚太阳沉入大海时，这里都会上演令人着迷的“凯恰克”火焰舞。"
+      },
+      "coords": [-8.8291, 115.0849]
+    },
+    {
+      "name": { "ko": "뜨갈랄랑 계단식 논", "en": "Tegalalang Rice Terraces", "ja": "テガラランのライステラス", "zh": "德格拉朗梯田" },
+      "blurb": {
+        "ko": "언덕을 따라 거대한 계단처럼 펼쳐진 초록빛 논이에요. 천 년 넘게 이어진 '수박' 관개 시스템으로 물을 대죠. 지금도 농부들이 조상들이 그랬듯 손으로 직접 논을 가꾼답니다.",
+        "en": "Emerald-green rice paddies cascade down the hillside like giant staircases, watered by the ancient 'subak' system. Farmers still tend the fields by hand here, just as their ancestors did over a thousand years ago.",
+        "ja": "丘に沿って大きな階段のように広がるエメラルド色の棚田。千年以上続く『スバック』の灌漑システムで水がまかれています。今も農民たちは、先祖と同じように手で田んぼの世話をしています。",
+        "zh": "沿着山坡层层铺展的翠绿梯田，宛如巨大的台阶，靠古老的“苏巴克”灌溉系统引水。如今农民们依然像千年前的祖先一样，用双手耕种这片土地。"
+      },
+      "coords": [-8.4312, 115.2777]
+    },
+    {
+      "name": { "ko": "바뚜르 화산", "en": "Mount Batur", "ja": "バトゥール山", "zh": "巴杜尔火山" },
+      "blurb": {
+        "ko": "커다란 칼데라 호수 옆에 솟은 활화산이에요. 사람들은 캄캄한 새벽에 산을 올라 연기 나는 정상에서 떠오르는 해를 구경한답니다. 발리 사람들은 이런 산을 신들이 사는 신성한 곳이라 믿어서, 사원을 지을 때도 늘 산을 향하게 짓는대요.",
+        "en": "An active volcano rising beside a big crater lake, where hikers climb in the dark to watch the sunrise from its smoking summit. Balinese believe mountains like this are sacred homes of the gods, which is why temples always face toward them.",
+        "ja": "大きなカルデラ湖のそばにそびえる活火山。人々は真っ暗な夜明け前に山を登り、煙を上げる山頂からのぼる朝日をながめます。バリの人々はこうした山を神々が住む聖なる場所と信じていて、だから寺院はいつも山の方角を向いて建てられるのです。",
+        "zh": "矗立在巨大火山口湖旁的一座活火山。人们会在漆黑的凌晨徒步登顶，在冒着烟的山顶欣赏日出。巴厘岛人相信这样的高山是众神居住的圣地，因此寺庙总是朝向它而建。"
+      },
+      "coords": [-8.2422, 115.3752]
+    }
+  ]
+}

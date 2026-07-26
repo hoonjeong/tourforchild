@@ -1,0 +1,120 @@
+{
+  "id": "hanoi",
+  "country": "vn",
+  "coords": [21.0285, 105.8542],
+  "name": { "ko": "하노이", "en": "Hanoi", "ja": "ハノイ", "zh": "河内" },
+  "tagline": {
+    "ko": "황금 용이 솟아오른 천 년의 수도, 호수 속에 잠든 마법의 검",
+    "en": "The 1,000-year-old 'dragon' capital where a magic sword sleeps in a lake",
+    "ja": "黄金の龍が舞い上がった千年の都、湖に眠る魔法の剣",
+    "zh": "金龙腾空而起的千年古都，湖底沉睡着一把神剑"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 1010년에 '리 타이 또'라는 왕이 새로운 수도를 세울 곳을 찾아 커다란 강을 거슬러 올라가고 있었어요. 배가 강굽이를 돌자, 물속에서 무언가 놀라운 것이 솟아올랐어요. 바로 황금빛 용이 구름 위로 곧장 날아오른 거예요! 왕은 이것을 하늘의 계시라 여기고, 새 도시에 '탕롱(승천하는 용)'이라는 이름을 붙였답니다. 이 도시가 바로 오늘날의 하노이예요.",
+      "하노이는 그 뒤로 천 년 동안 홍강이 휘어 도는 안쪽에서 계속 자라났어요. 사실 '하노이'라는 이름도 '강 안쪽'이라는 뜻이랍니다. 도시 한가운데에는 '올드 쿼터'라는 좁은 골목길들이 미로처럼 이어져 있는데, 옛날엔 골목마다 딱 한 가지 물건만 팔았대요. 비단 골목, 은세공 골목, 종이 등불 골목처럼요. 지금 가봐도 수백 년 전과 똑같은 물건을 파는 골목이 여전히 많답니다!",
+      "하노이에서 가장 신비로운 이야기는 '호안끼엠 호수'에 얽혀 있어요. 전설에 따르면 하늘의 용왕님이 베트남의 영웅 레 러이에게 마법의 검을 빌려주어 침략자들을 몰아내게 했대요. 레 러이는 전쟁에서 승리했고, 몇 년 뒤 바로 이 호수에서 배를 타고 있는데 거대한 황금 거북이 물 위로 솟아올랐어요. 거북이는 레 러이의 허리춤에서 검을 낚아채 물속으로 사라져 용왕님께 돌려드렸다고 해요. 그래서 이 호수를 '검을 돌려준 호수'라는 뜻의 '호안끼엠'이라 부른답니다.",
+      "오늘날 하노이에 가면 옛것과 새것이 여전히 함께 춤추고 있어요. 밤이 되면 올드 쿼터에서는 사람들이 대나무 막 뒤 물속에 가슴까지 잠긴 채 서서, 나무 인형들을 물 위에서 살아있는 것처럼 움직이게 하는 공연을 볼 수 있어요. '수상 인형극'이라는 이 예술은 수백 년 전 물에 잠긴 논에서 태어났답니다. 황금 용이 강에서 솟아오른 지 천 년이 지난 지금도, 하노이는 이런 신비로 가득하답니다."
+    ],
+    "en": [
+      "Long, long ago, in the year 1010, a king named Ly Thai To sailed up a wide river looking for the perfect spot to build a new capital. As his boat rounded a bend, he saw something amazing rising out of the water: a golden dragon, soaring straight up into the clouds! The king took it as a sign from the heavens and named his new city Thang Long, which means 'Ascending Dragon.' That city is the one we now call Hanoi.",
+      "Hanoi kept growing for a thousand years, tucked inside a loop of the Red River — which is actually where its name comes from: 'Ha Noi' means 'inside the rivers.' Right in the heart of the city is the Old Quarter, a maze of narrow streets where merchants once sold just one thing per street: silk on one, silver on another, paper lanterns on a third. Walk there today, and many streets still sell exactly what they did hundreds of years ago!",
+      "Hanoi's most magical legend belongs to a lake called Hoan Kiem. The story goes that heaven's Dragon King once lent a magic sword to a Vietnamese hero named Le Loi, so he could drive invaders out of the land. Le Loi won, and years later, while boating on this very lake, a giant golden turtle rose out of the water. It grabbed the sword right off his belt and dove back down to return it to the Dragon King — which is why the lake is called Hoan Kiem, 'Lake of the Returned Sword.'",
+      "Step into Hanoi today and old and new still dance together. At night in the Old Quarter, you can watch performers stand chest-deep behind a bamboo screen, making wooden puppets glide and splash across the water like something alive — an art called water puppetry, born centuries ago in flooded rice paddies. A thousand years after that golden dragon rose from the river, Hanoi is still full of wonders like these."
+    ],
+    "ja": [
+      "はるか昔、1010年のこと。リー・タイ・トーという王様が、新しい都を建てる場所を探して大きな川をさかのぼっていました。船が川の曲がり角を回ると、水の中から驚くべきものが立ちのぼりました。それは黄金の龍で、まっすぐ雲の上へと舞い上がったのです！王様はこれを天からのお告げだと思い、新しい都を『タンロン（昇り龍）』と名づけました。この街こそ、今のハノイなのです。",
+      "ハノイはそれから千年間、紅河（ホン川）が大きく曲がる内側でずっと育ってきました。実は『ハノイ』という名前も『川の内側』という意味なんです。街の真ん中には『旧市街』という細い路地が迷路のように広がっていて、昔は通りごとにたった一つの品物しか売っていませんでした。絹の通り、銀細工の通り、紙提灯の通りといった具合に。今でも数百年前と同じ品物を売る通りがたくさん残っていますよ！",
+      "ハノイでいちばん不思議な物語は『ホアンキエム湖』にまつわるものです。伝説によると、天の龍王がベトナムの英雄レ・ロイに魔法の剣を貸し、侵略者たちを追い払わせたそうです。レ・ロイは戦いに勝ち、数年後、まさにこの湖で舟に乗っていると、巨大な金色の亀が水面から現れました。亀はレ・ロイの腰から剣をひったくると、水の中へ戻って龍王に剣を返したといいます。だからこの湖は『剣を返した湖』という意味の『ホアンキエム』と呼ばれているのです。",
+      "今日ハノイを訪れると、昔と今がいっしょに踊っているのがわかります。夜になると旧市街では、竹のスクリーンの後ろで胸まで水につかった人たちが、木の人形を水の上でまるで生きているかのように動かす『水上人形劇』を見ることができます。この芸術は何百年も前、水につかった田んぼの中で生まれました。黄金の龍が川から舞い上がってから千年たった今も、ハノイはこんな不思議でいっぱいなのです。"
+    ],
+    "zh": [
+      "很久很久以前，公元1010年，一位叫李太祖的国王沿着大河而上，寻找建立新都城的好地方。船绕过一处河湾时，水中忽然升起了一件令人惊叹的东西——一条金色的龙，直冲云霄！国王认为这是上天的旨意，便把新都城命名为“升龙”，意思就是“腾飞的龙”。这座城市，正是今天的河内。",
+      "此后一千年间，河内一直生长在红河转弯处的怀抱里——它的名字“河内”本身就是“江河之内”的意思。城市正中央是“老街区”，那里的小巷密如迷宫，从前每条街只卖一种东西：这条卖丝绸，那条卖银器，还有一条专卖纸灯笼。今天走进这些街道，很多店铺卖的东西竟和几百年前一模一样！",
+      "河内最神奇的传说，都藏在还剑湖里。相传天上的龙王曾借给越南英雄黎利一把神剑，帮他赶走了入侵者。黎利打了胜仗，几年后正泛舟湖上时，一只巨大的金色乌龟从水中浮起，一口咬走他腰间的神剑，潜入水底，替龙王把剑收了回去。从此这座湖就被称为“还剑湖”——归还宝剑的湖。",
+      "如今走进河内，古老与现代仍在一起翩翩起舞。夜晚的老街区里，你能看到表演者站在竹幕后齐胸深的水中，操纵木偶在水面上滑行、跳跃，像活了一样——这门艺术叫“水上木偶戏”，几百年前诞生于被水淹没的稻田里。金龙从河中腾空而起已经一千年了，河内至今仍充满这样的奇妙故事。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "하노이라는 이름은 '강 안쪽'이라는 뜻이에요. 도시가 홍강이 휘어 도는 곳 안에 폭 감싸여 있거든요.",
+      "하노이의 옛 이름 '탕롱'은 '승천하는 용'이라는 뜻인데, 1010년에 왕이 물에서 솟아오르는 황금 용을 보았다는 전설에서 왔어요.",
+      "호안끼엠 호수는 '검을 돌려준 호수'라는 뜻이에요. 거대한 거북이 나타나 마법의 검을 도로 가져갔다는 전설이 있답니다.",
+      "올드 쿼터에는 36개의 골목이 있는데, 옛날엔 골목마다 딱 한 가지 물건만 팔았어요. 은세공 거리, 종이 거리처럼요.",
+      "문묘는 1070년에 문을 연 베트남 최초의 대학이에요. 마당에는 거북이 등에 올려진 돌 비석들이 지금도 남아 있답니다.",
+      "물 위에서 '춤추는' 인형극인 수상 인형극은 수백 년 전 물에 잠긴 논에서 농부들이 만들어냈대요."
+    ],
+    "en": [
+      "Hanoi's name literally means 'inside the rivers' — the city curls snugly inside a bend of the Red River.",
+      "Hanoi's old name, Thang Long, means 'Ascending Dragon,' after a golden dragon a king supposedly saw rising from the water in the year 1010.",
+      "Hoan Kiem Lake means 'Lake of the Returned Sword' — legend says a giant turtle swam up to take back a magic sword.",
+      "The Old Quarter has 36 streets, and long ago each one sold only one kind of thing — Silver Street, Paper Street, and more.",
+      "The Temple of Literature opened in 1070 as Vietnam's very first university, and its courtyard still has stone tablets resting on the backs of stone turtles.",
+      "Water puppetry — puppets that 'dance' on a pond — was invented by farmers in flooded rice fields hundreds of years ago."
+    ],
+    "ja": [
+      "ハノイという名前は『川の内側』という意味。街は紅河が大きく曲がる場所にすっぽり包まれています。",
+      "ハノイの昔の名前『タンロン』は『昇り龍』という意味。1010年に王様が水から昇る黄金の龍を見たという伝説から来ています。",
+      "ホアンキエム湖は『剣を返した湖』という意味。巨大な亀が現れて魔法の剣を取り返したという伝説があります。",
+      "旧市街には36本の通りがあり、昔は通りごとにたった一つの品物しか売っていませんでした。銀細工通り、紙通りなどです。",
+      "文廟は1070年に開かれたベトナム最初の大学。今でも中庭には亀の背中に乗った石碑が残っています。",
+      "水の上で『踊る』人形劇、水上人形劇は何百年も前、水につかった田んぼで農民たちが生み出しました。"
+    ],
+    "zh": [
+      "“河内”这个名字的意思就是“江河之内”——整座城市正好被红河的一道大弯抱在怀里。",
+      "河内的旧名“升龙”意思是“腾飞的龙”，源自1010年国王据说看见一条金龙从水中升起的传说。",
+      "还剑湖的意思是“归还宝剑的湖”——传说一只巨龟浮出水面，取回了一把神剑。",
+      "老街区共有36条街，从前每条街只卖一种东西，比如银器街、纸品街等等。",
+      "文庙建于1070年，是越南第一所大学，如今庭院里还立着驮在石龟背上的石碑。",
+      "在水面上“跳舞”的水上木偶戏，是几百年前农民们在被水淹没的稻田里发明出来的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "황금 거북이가 호수에서 솟아올라 마법의 검을 도로 가져갔대. 정말 그런 일이 있을 수 있을까?",
+    "en": "A golden turtle supposedly swam up out of a lake to grab back a magic sword — do you think that could really happen?",
+    "ja": "金色の亀が湖から現れて、魔法の剣を取り返したんだって。本当にそんなことが起こると思う？",
+    "zh": "据说一只金色的乌龟从湖里冒出来，取回了一把神剑——你相信真的会发生这种事吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "호안끼엠 호수", "en": "Hoan Kiem Lake", "ja": "ホアンキエム湖", "zh": "还剑湖" },
+      "blurb": {
+        "ko": "거대한 거북이 마법의 검을 도로 가져갔다는 전설이 서린 호수예요. 빨간 '더 훅' 다리를 건너면 호수 한가운데 작은 사원이 있는 섬이 나오는데, 옛날엔 진짜 큰 거북이가 이 호수에 살았다고 해요.",
+        "en": "The legendary lake where a giant turtle is said to have taken back a magic sword. A bright red bridge called The Huc leads to a tiny temple island in the middle, and locals still say a real giant turtle once lived in its waters.",
+        "ja": "巨大な亀が魔法の剣を取り返したという伝説が残る湖です。赤いテフック橋を渡ると湖の真ん中の小さな祠がある島にたどり着けます。昔は本当に大きな亀がこの湖に住んでいたそうです。",
+        "zh": "这座湖流传着巨龟取回神剑的传说。走过红色的“栖旭桥”，就能到达湖心那座供奉小神庙的小岛。当地人说，从前这湖里真的住着一只大乌龟。"
+      },
+      "coords": [21.0287, 105.8524]
+    },
+    {
+      "name": { "ko": "문묘 (반미에우)", "en": "Temple of Literature", "ja": "文廟（バンミエウ）", "zh": "文庙" },
+      "blurb": {
+        "ko": "1070년에 세워진 베트남 최초의 대학이에요. 돌 거북이들이 나라 최고 학자들의 이름이 새겨진 비석을 등에 지고 있는데, 거북이 머리를 만지면 시험 운이 좋아진다는 이야기도 있답니다!",
+        "en": "Vietnam's first university, built in 1070. Rows of stone turtles carry tablets carved with the names of the country's best scholars — touching a turtle's head is even said to bring good luck on exams!",
+        "ja": "1070年に建てられたベトナム最初の大学。石の亀たちが国の最高の学者たちの名前を刻んだ石碑を背負っていて、亀の頭をなでると試験に良い運が来ると言われています！",
+        "zh": "建于1070年的越南第一所大学。一排排石龟驮着刻有全国最优秀学者姓名的石碑，据说摸一摸乌龟的头，考试还能带来好运气！"
+      },
+      "coords": [21.0293, 105.8355]
+    },
+    {
+      "name": { "ko": "올드 쿼터 (36거리)", "en": "Old Quarter (36 Streets)", "ja": "旧市街（36通り）", "zh": "老街区（36行街）" },
+      "blurb": {
+        "ko": "천 년 된 골목길 미로예요. 옛날엔 골목마다 딱 한 가지 물건만 팔았는데, 은세공 거리와 종이 거리를 걷다 보면 지금도 그 물건을 파는 가게를 만날 수 있답니다.",
+        "en": "A thousand-year-old maze of streets, each once named for the single craft sold there. Wander past Silver Street and Paper Street, and you can still find shops selling those very things today.",
+        "ja": "千年の歴史を持つ路地の迷路。昔は通りごとにたった一つの品物しか売っていませんでしたが、銀細工通りや紙通りを歩けば、今でも同じ品物を売るお店に出会えます。",
+        "zh": "一座有千年历史的街巷迷宫，从前每条街只卖一种东西。走过银器街、纸品街，你今天仍能找到卖着同样东西的店铺。"
+      },
+      "coords": [21.0350, 105.8500]
+    },
+    {
+      "name": { "ko": "못 꼿 사원 (한 기둥 절)", "en": "One Pillar Pagoda", "ja": "一柱寺（モッコット寺）", "zh": "一柱寺" },
+      "blurb": {
+        "ko": "돌기둥 하나 위에 세워진 작은 목조 절이에요. 연못에 핀 연꽃처럼 보이도록 지어졌는데, 어느 왕이 연꽃 위에 앉은 여신에게서 아들을 받는 꿈을 꾼 뒤 지었다는 전설이 있답니다.",
+        "en": "A tiny wooden temple balanced on a single stone pillar, built to look like a lotus flower blooming from a pond. Legend says a king built it after dreaming of a goddess who handed him a baby son while sitting on a lotus.",
+        "ja": "一本の石の柱の上に建てられた小さな木造のお寺です。池に咲く蓮の花のように見えるよう造られていて、ある王様が蓮の上に座った女神から男の子を授かる夢を見た後に建てたという伝説があります。",
+        "zh": "一座建在单根石柱上的小小木结构寺庙，造型宛如池塘中盛开的一朵莲花。传说一位国王梦见一位坐在莲花上的女神递给他一个儿子，醒来后便建了这座寺庙。"
+      },
+      "coords": [21.0359, 105.8339]
+    }
+  ]
+}

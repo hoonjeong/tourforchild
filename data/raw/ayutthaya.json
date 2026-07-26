@@ -1,0 +1,120 @@
+{
+  "id": "ayutthaya",
+  "country": "th",
+  "coords": [14.3532, 100.5689],
+  "name": { "ko": "아유타야", "en": "Ayutthaya", "ja": "アユタヤ", "zh": "大城" },
+  "tagline": {
+    "ko": "강물과 코끼리, 그리고 나무가 통째로 품어버린 황금빛 사원의 도시",
+    "en": "The golden city of a hundred temples that rivers, elephants, and a tree once swallowed whole",
+    "ja": "川と象、そして木がまるごと抱きしめた黄金の寺院都市",
+    "zh": "被河流、大象和大树整个拥抱住的黄金寺庙之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 태국 한복판에 세 개의 강이 휘감아 도는 섬 도시 '아유타야'가 있었어요. 포르투갈, 일본, 페르시아, 중국에서 온 배들이 항구까지 들어와 비단과 향신료, 보석을 사고팔았대요. 도시가 온통 물길로 둘러싸여 있어서 사람들은 이곳을 '동양의 베네치아'라고 불렀답니다.",
+      "아유타야는 무려 417년 동안이나 시암 왕국의 반짝이는 수도였어요. 황금빛 사원 첨탑이 하늘을 찌를 듯 솟아 있었고, 왕은 커다란 코끼리를 타고 거리를 다녔죠. 가장 번성했을 때는 런던이나 파리보다도 사람이 많이 살던, 세계에서 손꼽히게 크고 북적이는 도시였답니다.",
+      "그런데 1767년, 적군이 밀려와 도시 전체에 불을 질렀어요. 궁궐이 무너지고 황금 지붕이 녹아내렸으며, 돌로 만든 부처님 조각상들은 머리까지 잃어버렸어요. 그렇게 화려했던 아유타야는 텅 비고 조용해진 채, 정글 덩굴 속으로 서서히 잠겨갔답니다.",
+      "그런데 도시가 잠든 사이, 정말 신기한 일이 벌어졌어요. 어느 오래된 절에서는 커다란 보리수나무가 쓰러진 돌부처 머리를 통째로 감싸며 자라났어요, 마치 선물 포장을 하듯이 말이죠. 오늘날 아유타야의 붉은 벽돌 폐허와 탑들 사이를 걸으면, 나무에 안긴 그 얼굴을 직접 만날 수 있어요 — 잠든 도시도 여전히 자기 이야기를 속삭인다는 증거랍니다."
+    ],
+    "en": [
+      "Long, long ago, in the heart of Thailand, three rivers wrapped around a magnificent island city called Ayutthaya. Ships from Portugal, Japan, Persia, and China sailed right up to its docks to trade silk, spices, and gems. The city was so grand and so watery that visitors called it the 'Venice of the East.'",
+      "For 417 years, Ayutthaya was the glittering capital of the Kingdom of Siam. Golden temple spires poked into the sky, kings rode royal elephants through the streets, and at its richest, more people lived here than in London or Paris. It was one of the biggest, busiest cities on the whole planet.",
+      "But in 1767, an enemy army swept in and set the whole city on fire. Palaces crumbled, golden roofs melted, and many stone Buddha statues even lost their heads. Ayutthaya, once so proud and shining, was left empty and quiet, slowly disappearing under jungle vines.",
+      "Yet something magical happened while the city slept. At one old temple, a giant Bodhi tree grew right around a fallen stone Buddha head, wrapping it snugly in its roots like a gift. Today you can walk through Ayutthaya's red-brick ruins and towers, and meet that tree-hugged face yourself — proof that even a 'sleeping' city can still whisper its story."
+    ],
+    "ja": [
+      "はるか昔、タイの真ん中に三本の川に囲まれた島の街『アユタヤ』がありました。ポルトガルや日本、ペルシャ、中国からやってきた船が港に着き、絹や香辛料、宝石を売り買いしていました。街じゅうが水路に囲まれていたので、人々はここを『東洋のヴェネツィア』と呼びました。",
+      "アユタヤはなんと417年もの間、シャム王国の輝く都でした。黄金の寺院の塔が空高くそびえ、王さまは大きな象に乗って街を歩いたそうです。もっとも栄えたときには、ロンドンやパリよりも人が多く住む、世界でも指おりの大都市でした。",
+      "ところが1767年、敵の軍隊がおしよせ、街じゅうに火をつけました。宮殿は崩れ、黄金の屋根はとけ落ち、石の仏像の多くは頭まで失いました。あれほど華やかだったアユタヤは静かに空っぽになり、ジャングルのつるにゆっくりと飲みこまれていきました。",
+      "でも、街が眠っている間に、とても不思議なことが起きました。ある古いお寺では、大きな菩提樹が倒れた石の仏頭をまるごと包みこむように成長したのです、まるでプレゼントを包むように。今アユタヤの赤れんがの遺跡や塔の間を歩けば、木に抱かれたその顔に自分の目で会うことができます — 眠った街も、なお自分の物語をささやいているという証拠ですね。"
+    ],
+    "zh": [
+      "很久很久以前，在泰国的中心地带，有一座被三条河流环绕的岛屿城市，叫做“大城”（阿瑜陀耶）。来自葡萄牙、日本、波斯和中国的船只驶入港口，买卖丝绸、香料和宝石。整座城市被水道环绕，人们把它称作“东方威尼斯”。",
+      "大城足足做了417年暹罗王国的璀璨都城。金色的寺庙尖塔直插云霄，国王骑着高大的大象走过街道。在最繁荣的时候，这里居住的人口甚至比伦敦或巴黎还多，是当时世界上数一数二的大城市。",
+      "然而到了1767年，敌军攻入，把整座城市付之一炬。宫殿倒塌，金色屋顶熔化，许多石雕佛像连头都被打掉了。曾经那么辉煌的大城，一下子变得空荡荡、静悄悄的，慢慢被丛林藤蔓吞没。",
+      "可就在城市沉睡的这段日子里，一件神奇的事情发生了。在一座古老的寺庙里，一棵巨大的菩提树竟然把一颗倒下的石头佛头整个包裹了起来，就像精心包好的礼物一样。今天，当你走在大城红砖砌成的废墟和佛塔之间，就能亲眼见到那张被大树拥抱的脸——这证明，就算一座城市睡着了，它依然在悄悄诉说自己的故事。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "아유타야는 1350년부터 1767년까지, 무려 417년 동안 시암 왕국의 수도였어요. 요즘 어떤 나라들보다도 더 오래 이어진 거예요!",
+      "가장 번성했을 때는 인구가 100만 명이 넘어서, 당시 런던이나 파리보다도 큰 세계 최대급 도시 중 하나였대요.",
+      "일본, 페르시아, 포르투갈, 네덜란드, 중국에서 온 상인들이 저마다 자기들만의 마을을 이루고 살았던, 그야말로 다문화 도시였어요.",
+      "세 개의 강이 둘러싼 섬 위에 지어져서 '동양의 베네치아'라는 별명이 붙었고, 사람들은 배를 타고 도시를 오갔대요.",
+      "왓 마하탓 절에는 수백 년에 걸쳐 자란 보리수나무 뿌리가 돌부처 머리를 통째로 감싸고 있는 신기한 모습이 남아 있어요.",
+      "아유타야의 많은 불상은 오래전에 머리를 잃었어요. 침략군이 숨겨진 금을 찾으려 부순 것도 있고, 나중에 보물 사냥꾼들이 가져간 것도 있대요. 그래서 지금도 폐허에는 머리 없는 부처님들이 조용히 줄지어 앉아 있답니다."
+    ],
+    "en": [
+      "Ayutthaya was the capital of Siam for 417 years (1350–1767) — longer than many countries have even existed!",
+      "At its peak, over a million people lived here, making it one of the largest cities on Earth — bigger than London or Paris at the time.",
+      "Traders from Japan, Persia, Portugal, the Netherlands, and China all had their own neighborhoods in the city, making it wonderfully multicultural.",
+      "Built on an island hugged by three rivers, Ayutthaya was nicknamed the 'Venice of the East' — people traveled around by boat.",
+      "At Wat Mahathat, a stone Buddha head is completely wrapped in the roots of a Bodhi tree that grew around it over hundreds of years.",
+      "Many Buddha statues in Ayutthaya lost their heads long ago — some knocked off by invaders hunting for hidden gold, some later taken by treasure hunters — so rows of calm, headless Buddhas still sit in the ruins today."
+    ],
+    "ja": [
+      "アユタヤは1350年から1767年まで、417年もの間シャム王国の都でした。今のいくつかの国よりも長く続いたのです！",
+      "もっとも栄えた頃は人口が100万人を超え、当時のロンドンやパリよりも大きい、世界最大級の都市のひとつでした。",
+      "日本、ペルシャ、ポルトガル、オランダ、中国からの商人たちが、それぞれ自分たちの街区を持っていた、とても多文化な都市でした。",
+      "三本の川に囲まれた島の上に建てられたことから『東洋のヴェネツィア』と呼ばれ、人々は舟で街を行き来していました。",
+      "ワット・マハタートでは、何百年もかけて育った菩提樹の根が、石の仏頭をまるごと包みこんだ不思議な姿が今も残っています。",
+      "アユタヤの多くの仏像は昔、頭を失いました。侵略軍が中に隠された金を探して壊したものもあれば、後で盗掘者に持ち去られたものもあるそうです。だから今も遺跡には、頭のない仏さまが静かに並んでいます。"
+    ],
+    "zh": [
+      "大城从1350年到1767年，整整做了417年暹罗王国的都城——比现在有些国家存在的时间还要长！",
+      "全盛时期这里住着超过一百万人，是当时世界上最大的城市之一，人口比伦敦或巴黎还多。",
+      "来自日本、波斯、葡萄牙、荷兰和中国的商人各自都有自己的街区，是个非常多元文化的城市。",
+      "整座城建在被三条河流环抱的岛上，因此被称为“东方威尼斯”，人们平时都靠划船往来。",
+      "在玛哈泰寺，一颗石头佛头被一棵历经数百年生长的菩提树根整个包裹住，样子十分神奇。",
+      "大城的很多佛像早就没了头——有的是侵略军为了找里面藏的黄金而砸掉的，有的后来被寻宝人偷走了。所以直到今天，废墟里还静静排着一排排没有头的佛像。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "나무뿌리 속에서 거대한 돌 얼굴이 빼꼼 나와 있다면, 손으로 만져볼래, 아니면 그냥 신기해서 가만히 쳐다볼래?",
+    "en": "If you found a giant stone face peeking out of a tree's roots, would you reach out and touch it — or just stand there in wonder?",
+    "ja": "木の根っこから大きな石の顔がのぞいていたら、そっと触ってみる？それともじっと見つめて不思議がる？",
+    "zh": "如果你看到树根里探出一张巨大的石头脸，你会伸手摸一摸，还是站在那儿目瞪口呆地盯着看？"
+  },
+  "places": [
+    {
+      "name": { "ko": "왓 마하탓 (마하탓 사원)", "en": "Wat Mahathat", "ja": "ワット・マハタート", "zh": "玛哈泰寺" },
+      "blurb": {
+        "ko": "아유타야에서 가장 유명한 광경이 있는 곳이에요. 돌로 된 부처님 머리를 오래된 보리수나무 뿌리가 통째로 감싸고 있죠. 누가 일부러 만든 게 아니라, 나무가 수백 년에 걸쳐 쓰러진 머리 주변으로 자라나면서 자연스럽게 액자처럼 감싸버린 거랍니다.",
+        "en": "Home to Ayutthaya's most famous sight: a stone Buddha head completely hugged by the roots of an old Bodhi tree. Nobody planted it there on purpose — the tree just grew around the fallen head over centuries, wrapping it like a natural picture frame.",
+        "ja": "アユタヤでいちばん有名な光景があるお寺です。石の仏頭を古い菩提樹の根がまるごと包みこんでいます。誰かがわざと作ったのではなく、木が何百年もかけて倒れた頭のまわりに育ち、まるで額縁のように自然に包みこんでしまったのです。",
+        "zh": "这里有大城最有名的景象：一颗被古老菩提树根整个包裹住的石头佛头。这可不是谁故意摆放的——是大树历经数百年，围着倒下的佛头慢慢长大，像天然的相框一样把它包了起来。"
+      },
+      "coords": [14.3567, 100.5688]
+    },
+    {
+      "name": { "ko": "왓 프라시산펫", "en": "Wat Phra Si Sanphet", "ja": "ワット・プラ・シー・サンペット", "zh": "帕席桑碧寺" },
+      "blurb": {
+        "ko": "옛 왕궁 터에 있는 가장 웅장한 왕실 사원이에요. 종 모양의 커다란 탑(체디) 세 개가 나란히 서 있는데, 각각 옛 시암 왕들의 유해를 모시고 있어요. 한때는 진짜 황금으로 뒤덮인 불상도 있었을 만큼 화려했대요.",
+        "en": "The grandest royal temple in the old palace grounds, with three towering bell-shaped chedis in a row. Each one holds the ashes of an ancient Siamese king, and it was once so lavish it had a Buddha statue covered in real gold.",
+        "ja": "昔の王宮の敷地にある、もっとも壮大な王室寺院です。鐘の形をした大きな塔（チェディ）が三つ並んでおり、それぞれ昔のシャム王の遺骨をおさめています。かつては本物の金でおおわれた仏像もあったほど豪華だったそうです。",
+        "zh": "位于旧王宫遗址上、最壮观的皇家寺庙。三座钟形的高塔（舍利塔）并排而立，每一座都供奉着一位古代暹罗国王的骨灰。据说这里曾经豪华到有一尊佛像被真金整个包裹。"
+      },
+      "coords": [14.3576, 100.5558]
+    },
+    {
+      "name": { "ko": "왓 차이왓타나람", "en": "Wat Chaiwatthanaram", "ja": "ワット・チャイワッタナーラーム", "zh": "柴瓦塔那兰寺" },
+      "blurb": {
+        "ko": "캄보디아의 유명한 앙코르 사원을 본떠 지은, 강가의 아름다운 사원이에요. 노을이 질 때면 가운데 높이 솟은 탑과 그 주변 첨탑들이 강물 위로 황금빛과 주황빛으로 반짝여서, 태국에서 가장 많이 사진 찍히는 풍경 중 하나랍니다.",
+        "en": "A stunning riverside temple built to look like the famous Angkor temples in Cambodia. At sunset, its tall central tower and surrounding spires glow gold and orange over the water — one of the most photographed views in all of Thailand.",
+        "ja": "カンボジアの有名なアンコール遺跡をモデルに建てられた、川辺の美しいお寺です。夕日が沈むころ、中央の高い塔とまわりの尖塔が川面に金色とオレンジ色に輝き、タイでもっとも写真に撮られる景色のひとつになっています。",
+        "zh": "一座临河而建、美得令人惊叹的寺庙，仿照柬埔寨著名的吴哥寺庙建造。日落时分，中央高塔和周围的尖塔在水面上闪耀着金色与橙色的光芒，是泰国最常被拍照的景色之一。"
+      },
+      "coords": [14.3443, 100.5482]
+    },
+    {
+      "name": { "ko": "왓 야이 차이 몽콘", "en": "Wat Yai Chai Mongkol", "ja": "ワット・ヤイ・チャイ・モンコン", "zh": "崖差蒙空寺" },
+      "blurb": {
+        "ko": "꼭대기까지 올라가면 들판이 내려다보이는 커다란 탑과, 주황색 가사를 두른 거대하고 평온한 와불상이 있는 절이에요. 옛 시암 왕이 코끼리를 타고 벌인 유명한 결투에서 승리한 것을 기념하려고 지어졌대요.",
+        "en": "A giant chedi you can climb for a view over the fields, plus a huge, peaceful Reclining Buddha statue draped in orange robes. It was built to celebrate an ancient Siamese king's famous victory in a duel fought riding elephants.",
+        "ja": "頂上まで登ると田園が見わたせる大きな塔と、オレンジ色の衣をまとった大きくておだやかな寝釈迦仏があるお寺です。昔のシャム王が象に乗って行った有名な一騎打ちの勝利を記念して建てられました。",
+        "zh": "这里有一座可以爬到顶端俯瞰田野的高大佛塔，还有一尊披着橙色袈裟、巨大而安详的卧佛。它是为了纪念一位古代暹罗国王骑着大象赢得的著名决斗而建造的。"
+      },
+      "coords": [14.3439, 100.5875]
+    }
+  ]
+}

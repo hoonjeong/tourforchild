@@ -1,0 +1,120 @@
+{
+  "id": "buenosaires",
+  "country": "ar",
+  "coords": [-34.6037, -58.3816],
+  "name": { "ko": "부에노스아이레스", "en": "Buenos Aires", "ja": "ブエノスアイレス", "zh": "布宜诺斯艾利斯" },
+  "tagline": {
+    "ko": "탱고가 태어난 항구 도시, 대통령은 분홍빛 궁전에 살아요",
+    "en": "The port city where tango was born and the president lives in a pink house",
+    "ja": "タンゴが生まれた港町、大統領はピンクの宮殿に住んでいます",
+    "zh": "探戈诞生的港口之城，总统住在粉红色的宫殿里"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날인 1536년, 스페인에서 온 뱃사람들이 남아메리카의 넓고 누런 강을 거슬러 올라가 강가에 첫발을 내디뎠어요. 바람이 어찌나 맑고 상쾌하던지, 사람들은 새로 세운 마을에 '부에노스아이레스', 그러니까 '좋은 공기'라는 이름을 붙였답니다. 그런데 먹을 것이 금세 부족해지면서 사람들은 마을을 통째로 버리고 떠나야 했어요. 부에노스아이레스의 첫 도전은 5년도 채 못 갔답니다!",
+      "40년도 더 지난 1580년, 다른 정착민들이 다시 돌아와 도시를 처음부터 새로 세웠어요. 이번엔 제대로 뿌리를 내렸죠. 스페인과 이탈리아를 비롯한 유럽 곳곳에서 배가 몰려들었고, 새 삶을 꿈꾸는 수십만 명의 이민자들이 이 항구로 쏟아져 들어왔어요. 작은 강가 마을은 무럭무럭 자라나 마침내 남반구에서 손꼽히게 화려한 도시가 되었고, 넓은 대로와 대리석 건물이 얼마나 근사했던지 사람들은 이곳을 '남미의 파리'라고 부르기 시작했어요.",
+      "시끌벅적한 항구 근처, 여러 나라에서 온 뱃사람과 공장 노동자들이 어깨를 맞대고 살던 동네에서 신기한 일이 벌어졌어요. 스페인 기타 소리, 아프리카의 리듬, 이탈리아의 멜로디가 한데 뒤섞이면서 세상에 없던 새로운 춤이 탄생한 거예요. 바로 '탱고'랍니다! 사람들은 '반도네온'이라는 구슬픈 손풍금 소리에 맞춰 서로 꼭 붙어 빙그르르 돌았고, 곧 온 세계가 그 스텝을 따라 배우고 싶어 했어요.",
+      "오늘날 부에노스아이레스는 색깔과 개성이 넘치는 도시예요. 대통령은 딸기우유색 분홍빛 궁전에서 일하고, 탱고 댄서들은 여전히 돌길 모퉁이에서 빙글빙글 돌아요. 시내의 어떤 대로는 어찌나 넓은지 건너려면 초록불이 몇 번이나 바뀌어야 한답니다! 도시를 거닐다 보면 달콤한 둘세데레체를 맛보고 다 같이 돌려 마시는 마테차도 홀짝이며, 사람들이 왜 이 도시를 자랑스레 그냥 'BA'라고 부르는지 느끼게 될 거예요."
+    ],
+    "en": [
+      "Long ago, in 1536, a group of Spanish sailors sailed up a wide, brown river in South America and stepped onto the shore. The wind felt so fresh and pleasant that they named their new town 'Buenos Aires' — Spanish for 'good air.' But things went wrong fast: food ran short, and the settlers had to pack up and leave. Buenos Aires' first try didn't even last five years!",
+      "More than 40 years later, in 1580, another group of settlers came back and built the city all over again — and this time it stuck. Ships from Spain, Italy, and all over Europe began sailing into its busy harbor, bringing hundreds of thousands of immigrants looking for a new life. The little river town grew and grew until it became one of the grandest cities in the whole Southern Hemisphere, with such splendid boulevards and marble buildings that people started calling it 'the Paris of South America.'",
+      "Down by the noisy docks, where sailors and factory workers from many countries lived side by side, something magical started happening. People began mixing their music together — a little Spanish guitar, a little African rhythm, a little Italian melody — and out came a brand-new dance: the tango. Couples swayed close together to the moody sound of a squeezebox instrument called the bandoneón, and soon the whole world wanted to learn the steps.",
+      "Today, Buenos Aires is bursting with color and personality. The president works in a bubblegum-pink palace, tango dancers still spin on cobblestone corners, and one avenue downtown is so wide it takes several green lights just to cross! Wander the city and you'll taste dulce de leche, sip mate tea from a shared gourd, and feel why locals call their hometown simply 'BA' with so much pride."
+    ],
+    "ja": [
+      "はるか昔、1536年のこと。スペインからやってきた船乗りたちが、南アメリカの広く茶色い川をさかのぼり、岸に降り立ちました。風があまりに気持ちよくさわやかだったので、彼らは新しい町に『ブエノスアイレス』、つまり『よい空気』という名前をつけたのです。でも食べ物がすぐに足りなくなり、人々は町を丸ごと捨てて去らなければなりませんでした。ブエノスアイレスの最初の挑戦は、5年も続かなかったのです！",
+      "それから40年以上たった1580年、別の入植者たちがふたたびやってきて、街を一から築き直しました。今度はしっかり根づいたのです。スペインやイタリアをはじめヨーロッパ各地から船が次々とやってきて、新しい人生を夢見る何十万もの移民がこの港に流れこみました。小さな川辺の町はぐんぐん育ち、ついに南半球でも屈指の華やかな都市になりました。広い大通りと大理石の建物があまりに見事だったので、人々はここを『南米のパリ』と呼び始めたのです。",
+      "にぎやかな港のそばで、いろいろな国からきた船乗りや工場労働者が肩を並べて暮らす街で、不思議なことが起こりました。スペインのギター、アフリカのリズム、イタリアのメロディーが混ざり合い、この世になかった新しいダンスが生まれたのです。それが『タンゴ』。人々は『バンドネオン』という切なく響く蛇腹楽器の音に合わせて、ぴたりと寄りそいくるりと回りました。やがて世界中がそのステップを習いたがるようになったのです。",
+      "今日のブエノスアイレスは、色と個性にあふれた街です。大統領はいちごミルク色のピンクの宮殿で働き、タンゴダンサーたちは今も石畳の街角でくるくる回っています。街の中心のある大通りはとても広くて、渡りきるのに青信号が何回も変わるほど！街を歩けば、甘いドゥルセ・デ・レチェを味わい、みんなで回し飲みするマテ茶をすすり、人々がなぜこの街を誇らしげにただ『BA』と呼ぶのか分かるはずです。"
+    ],
+    "zh": [
+      "很久很久以前，1536年，一群从西班牙远航而来的水手，沿着南美洲一条宽阔浑黄的大河逆流而上，踏上了岸边。风吹得那么清新宜人，他们便给这座新建的小镇取名“布宜诺斯艾利斯”，在西班牙语里正是“好空气”的意思。可是没过多久食物就不够了，居民们不得不整个抛下小镇离开。布宜诺斯艾利斯的第一次尝试，连五年都没撑到！",
+      "四十多年后，到了1580年，另一批移民重新回来，把这座城市从头建了起来——这一次，它真正扎下了根。来自西班牙、意大利乃至整个欧洲的船只络绎不绝地驶入这座繁忙的港口，成千上万渴望新生活的移民涌了进来。这座河边的小镇渐渐长大，最终成为南半球数一数二的繁华都市。它的林荫大道和大理石建筑是那样壮丽，人们开始称它为“南美的巴黎”。",
+      "在喧闹的码头附近，来自各国的水手和工人们比邻而居，一件神奇的事情发生了。西班牙的吉他声、非洲的节奏、意大利的旋律交融在一起，诞生出一种前所未有的新舞蹈——探戈。人们随着一种叫“班多钮”的忧郁手风琴声，紧紧相拥、优雅旋转，很快，全世界都想学会这套舞步。",
+      "如今的布宜诺斯艾利斯，色彩斑斓、个性十足。总统在一座草莓奶昔般粉红色的宫殿里办公，探戈舞者依然在鹅卵石街角翩翩起舞。市中心有一条大道宽得惊人，过马路甚至要等好几次绿灯才能走完！漫步城中，你可以尝一尝香甜的焦糖牛奶酱，喝一口大家轮流传饮的马黛茶，感受当地人为什么骄傲地把家乡简称为“BA”。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "부에노스아이레스는 사실 두 번 세워진 도시예요! 1536년의 첫 시도는 실패해 사람들이 떠나야 했고, 1580년에 다시 돌아와 도시를 처음부터 새로 세웠답니다.",
+      "도시 이름 '부에노스아이레스'는 스페인어로 그대로 '좋은 공기'라는 뜻이에요.",
+      "대통령이 일하는 '카사 로사다(장밋빛 집)'는 진한 분홍색이에요. 옛날 건축가들이 벽을 습기로부터 지키려고 흰 칠에 소기름과 피를 섞었다는 이야기가 전해지는데, 그때부터 이 색이 굳어졌다고 해요.",
+      "알록달록한 라보카 동네에서는 항구 노동자들이 배에서 쓰다 남은 페인트를 집에 가져와 아무 색으로나 칠했대요. 그래서 거리가 무지개처럼 보인답니다.",
+      "'7월9일 대로'는 지구에서 손꼽히게 넓은 도로예요. 폭이 무려 140미터나 되어서, 다 건너려면 초록불이 여러 번 바뀌어야 한다니까요.",
+      "탱고는 100년도 더 전에 부에노스아이레스의 항구 동네에서 태어났어요. 지금은 유네스코 인류무형문화유산으로 지정되어, 전 세계 사람들이 이 춤을 춘답니다."
+    ],
+    "en": [
+      "Buenos Aires was actually founded twice — the first try in 1536 failed and was abandoned, and settlers had to come back and build it all over again in 1580!",
+      "The city's name literally means 'good air' or 'fair winds' in Spanish.",
+      "The president's house, Casa Rosada, is bright pink — legend says early builders mixed whitewash with cow fat and blood to protect the walls from damp, and the color stuck!",
+      "In the colorful La Boca neighborhood, families once painted their houses with whatever leftover paint dockworkers brought home from the ships — that's why the street looks like a rainbow.",
+      "Avenida 9 de Julio is one of the widest avenues on Earth — about 140 meters across, with enough lanes that crossing it can take several traffic-light cycles.",
+      "Tango was born in Buenos Aires' port neighborhoods over a century ago, and today it's protected as a UNESCO piece of world heritage, danced by people everywhere."
+    ],
+    "ja": [
+      "ブエノスアイレスは実は二度建てられた街なんです！1536年の最初の挑戦は失敗して人々は去らねばならず、1580年にもう一度戻ってきて街をゼロから建て直しました。",
+      "街の名前『ブエノスアイレス』は、スペイン語でそのまま『よい空気』という意味です。",
+      "大統領が働く『カサ・ロサダ（バラ色の家）』は濃いピンク色。昔の建築家が壁を湿気から守るため、白い塗料に牛の脂と血を混ぜたという言い伝えがあり、そこからこの色が定着したそうです。",
+      "カラフルなラ・ボカ地区では、港で働く人たちが船で余ったペンキを家に持ち帰り、あり合わせの色で家を塗ったのだとか。だから通りが虹色に見えるのです。",
+      "『7月9日大通り』は地球上でも指折りの広い道路。幅はなんと140メートルもあり、渡りきるには青信号が何度も変わる必要があるほどです。",
+      "タンゴは100年以上前、ブエノスアイレスの港町で生まれました。今ではユネスコの無形文化遺産に登録され、世界中の人がこのダンスを踊っています。"
+    ],
+    "zh": [
+      "布宜诺斯艾利斯其实被建立了两次！1536年的第一次尝试失败了，居民们不得不离开，直到1580年人们才回来把城市从头建起。",
+      "这座城市的名字“布宜诺斯艾利斯”在西班牙语里就是“好空气”的意思。",
+      "总统办公的“粉红宫”（卡萨罗萨达）是浓浓的粉红色。传说早期建筑工人为了防潮，在白灰里掺入了牛脂和牛血，这个颜色就这样保留了下来。",
+      "在色彩缤纷的博卡区，码头工人过去把船上剩下的油漆带回家，有什么颜色就刷什么颜色，于是街道看起来像一道彩虹。",
+      "“七九大道”是地球上数一数二宽的大道，宽度将近140米，过马路甚至要等好几次绿灯才能走完。",
+      "探戈诞生于一百多年前布宜诺斯艾利斯的港口社区，如今已被联合国教科文组织列为人类非物质文化遗产，全世界的人都在跳这支舞。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "궁전은 딸기우유색 분홍빛이고, 어떤 길은 너무 넓어서 건너는 데 한참 걸린대. 이게 다 어느 도시 이야기일까?",
+    "en": "A palace painted bubblegum pink, a street so wide it takes forever to cross — can you guess which city this is?",
+    "ja": "宮殿はいちごミルク色のピンクで、ある道はとても広くて渡るのに時間がかかるんだって。これ、どこの街の話かな？",
+    "zh": "总统府是草莓奶昔般的粉红色，还有条路宽得要走好久才能过马路——你猜猜这是哪座城市？"
+  },
+  "places": [
+    {
+      "name": { "ko": "카사 로사다 (분홍빛 대통령궁)", "en": "Casa Rosada (Pink House)", "ja": "カサ・ロサダ（バラ色の大統領官邸）", "zh": "玫瑰宫（粉红总统府）" },
+      "blurb": {
+        "ko": "아르헨티나 대통령이 일하는 유명한 분홍빛 궁전이에요. 광장 쪽 발코니에서는 대통령들과 에바 페론 같은 유명 인물이 환호하는 사람들을 향해 손을 흔들었답니다.",
+        "en": "Argentina's president works inside this famously pink palace on Plaza de Mayo. From its balcony, presidents and stars like Eva Perón have waved to huge cheering crowds below.",
+        "ja": "アルゼンチン大統領が働く、有名なバラ色の宮殿。広場側のバルコニーからは、大統領やエバ・ペロンのような人物が、歓声をあげる人々に手をふりました。",
+        "zh": "阿根廷总统在这座著名的粉红色宫殿里办公。从面向广场的阳台上，总统们和像贝隆夫人这样的名人都曾向欢呼的人群挥手致意。"
+      },
+      "coords": [-34.6084, -58.3701]
+    },
+    {
+      "name": { "ko": "카미니토 골목 (라보카)", "en": "Caminito, La Boca", "ja": "カミニート（ラ・ボカ地区）", "zh": "小径街（博卡区）" },
+      "blurb": {
+        "ko": "상상할 수 있는 온갖 색으로 칠해진 짧고 알록달록한 골목이에요. 가난한 항구 노동자들의 동네로 시작했지만, 지금은 무지개색 벽과 거리 탱고 댄서들 덕분에 도시에서 가장 신나는 곳 중 하나가 되었답니다.",
+        "en": "A short, super-colorful street where houses are painted in every shade imaginable. It began as a poor dockworkers' neighborhood, but its rainbow walls and street tango dancers now make it one of the happiest places in the city.",
+        "ja": "考えられるあらゆる色にぬられた、短くてカラフルな通り。かつては貧しい港湾労働者の町でしたが、今では虹色の壁と路上のタンゴダンサーのおかげで、街でいちばん楽しい場所の一つになっています。",
+        "zh": "一条五颜六色、色彩令人惊叹的短街，房屋被漆成各种想象得到的颜色。这里曾是贫穷码头工人聚居的社区，如今因彩虹般的墙壁和街头探戈舞者，成了城中最欢乐的角落之一。"
+      },
+      "coords": [-34.6345, -58.3631]
+    },
+    {
+      "name": { "ko": "오벨리스코 (오벨리스크 탑)", "en": "The Obelisk", "ja": "オベリスコ（オベリスク塔）", "zh": "方尖碑" },
+      "blurb": {
+        "ko": "지구에서 손꼽히게 넓은 도로인 '7월9일 대로'가 도심을 가로지르는 자리에 서 있는 하얗고 높은 탑이에요. 놀랍게도 1936년에 노동자들이 이 탑을 단 60일 만에 완성했대요!",
+        "en": "This tall white tower stands where Avenida 9 de Julio — one of the widest streets on the planet — cuts through downtown. Amazingly, workers built the whole thing in just 60 days back in 1936!",
+        "ja": "地球でも指折りの広い道路『7月9日大通り』が街の中心を横切る場所に立つ、白くて高い塔。驚くことに、1936年に労働者たちはこの塔をわずか60日で完成させたのだそうです！",
+        "zh": "这座高高的白塔矗立在“七九大道”——地球上最宽的街道之一——穿过市中心的地方。令人惊讶的是，1936年工人们仅用60天就把它建成了！"
+      },
+      "coords": [-34.6037, -58.3816]
+    },
+    {
+      "name": { "ko": "레콜레타 묘지", "en": "Recoleta Cemetery", "ja": "レコレータ墓地", "zh": "雷科莱塔公墓" },
+      "blurb": {
+        "ko": "무섭기는커녕, 작은 대리석 궁전과 조각상이 가득한 야외 박물관 같은 곳이에요. 에바 페론의 무덤도 이곳에 있답니다. 돌길을 거닐다 보면 마치 신비로운 미니어처 도시를 걷는 기분이 든대요.",
+        "en": "This isn't a spooky place — it's practically an open-air museum of tiny marble palaces and statues, home to Eva Perón's tomb. Wandering its stone streets feels like walking through a miniature, magical city.",
+        "ja": "こわい場所ではなく、小さな大理石の宮殿や彫像がぎっしり並ぶ、まるで野外美術館のようなところ。エバ・ペロンのお墓もここにあります。石畳を歩けば、まるで小さな魔法の街を歩いているような気分になります。",
+        "zh": "这里一点也不阴森，反倒像一座露天博物馆，布满了如小型大理石宫殿般的墓室和雕像，贝隆夫人的墓也在此处。漫步在这些石径间，感觉就像走进了一座神奇的微缩之城。"
+      },
+      "coords": [-34.5875, -58.3931]
+    }
+  ]
+}

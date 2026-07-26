@@ -1,0 +1,120 @@
+{
+  "id": "mykonos",
+  "country": "gr",
+  "coords": [37.4467, 25.3289],
+  "name": { "ko": "미코노스", "en": "Mykonos", "ja": "ミコノス", "zh": "米克诺斯" },
+  "tagline": {
+    "ko": "거인이 돌이 되고, 풍차가 바람과 경주하는 새하얀 그리스 섬",
+    "en": "The blindingly white island where giants turned to stone and windmills race the wind",
+    "ja": "巨人が石になり、風車が風と競争する、まっ白なギリシャの島",
+    "zh": "巨人化为石头、风车与风竞速的雪白希腊小岛"
+  },
+  "story": {
+    "ko": [
+      "새하얀 각설탕들을 바닷가에 잔뜩 쌓아 놓은 것 같은 그리스 섬을 상상해 보세요. 바로 미코노스예요. 집집마다 눈부신 하얀 벽에 새파란 문과 창문을 칠했고, 골목길은 미로처럼 구불구불 이어져요. 옛날 사람들이 해적을 헷갈리게 하고 거센 바람을 막으려고 일부러 이렇게 만들었대요. 언덕 위에는 풍차들이 줄지어 서서 하늘을 향해 천천히 돌아가고 있답니다.",
+      "아주 먼 옛날 그리스 신화에서는, 이 섬에서 거인들이 신들과 큰 싸움을 벌였다고 해요. 영웅 헤라클레스가 거인들을 미코노스 곳곳으로 쫓아다니다가, 쓰러진 자리에서 그대로 돌로 만들어 버렸대요. 지금도 섬 여기저기에 커다랗고 이상하게 생긴 바위들이 흩어져 있는데, 사람들은 그게 바로 그 거인들이 굳어버린 모습이라고 이야기한답니다.",
+      "미코노스는 원래부터 사람들이 북적이던 곳은 아니었어요. 오랫동안 조용한 어촌 섬이었고, 풍차들은 배로 실어온 밀을 갈아 밀가루로 만들었죠. 해적을 쫓아내던 그 거센 바람의 힘을 그대로 이용한 거예요. 항구 옆에는 뱃사람과 선장들이 바닷물에 거의 닿을 듯 집을 지었는데, 파도가 발코니까지 찰랑거릴 정도랍니다. 사람들은 이 예쁜 집들이 늘어선 거리를 '리틀 베니스'라고 부른대요.",
+      "배를 타고 잠깐만 나가면 아주 작은 섬 델로스가 있어요. 옛 그리스 사람들은 이곳에서 쌍둥이 신 아폴론과 아르테미스가 태어났다고 믿었죠. 얼마나 신성한 곳이었냐면, 지금도 그 섬에서는 하룻밤도 잘 수 없대요! 미코노스 마을로 돌아오면, 섬의 유명한 마스코트 펠리컨 페트로스를 눈여겨보세요. 마치 자기가 섬 주인인 것처럼 골목을 뒤뚱뒤뚱 걸어 다닌답니다. 미코노스는 작아 보여도, 거인과 신, 그리고 아주 당당한 새 한 마리로 가득 찬 곳이에요."
+    ],
+    "en": [
+      "Picture a Greek island so white it looks like sugar cubes stacked up by the sea. That's Mykonos. Every house is painted snow-white, with doors and windows in bright blue, and narrow lanes twist like a maze between the buildings. People built it that way long ago to confuse pirates and block the wild wind. On a little hill above town, a row of windmills spins slowly against the sky.",
+      "Long, long ago, Greek legends said giants once fought the gods on this very island. The hero Hercules chased the giants across Mykonos and turned them to stone right where they fell. Look around today and you'll still see huge, strange boulders scattered across the island—locals say those rocks are really the giants, frozen forever.",
+      "Mykonos wasn't always full of visitors. For hundreds of years it was a quiet fishing island, and its windmills ground wheat brought by sailing ships, using the same strong winds that once scared off pirates. Down by the harbor, sea captains built houses right at the water's edge—so close that waves splash their balconies. People still call that pretty row of houses 'Little Venice.'",
+      "Just a short boat ride away floats the tiny island of Delos, where the ancient Greeks believed the twin gods Apollo and Artemis were born. Nobody is even allowed to sleep there overnight—it's that sacred! Back in Mykonos town, keep an eye out for Petros, the island's famous pelican, who waddles through the streets like he owns the place. Mykonos may look small, but it's packed with giants, gods, and one very confident bird."
+    ],
+    "ja": [
+      "まるで角砂糖を積み上げたような、真っ白なギリシャの島を思いうかべてみて。それがミコノス島です。どの家も目にまぶしいほど白くぬられ、ドアや窓は鮮やかな青。細い路地は迷路みたいにくねくねと続いています。昔の人が海賊を迷わせ、強い風をさえぎるためにわざとそう作ったのだとか。丘の上には風車が並び、空に向かってゆっくりと羽根を回しています。",
+      "はるか昔、ギリシャ神話ではこの島で巨人と神々が大きな戦いをくり広げたと言われています。英雄ヘラクレスは巨人たちを島じゅう追いかけまわし、倒れた場所でそのまま石に変えてしまったそうです。今でも島のあちこちに、大きくて不思議な形の岩が転がっていて、人々はそれこそが石になった巨人たちの姿だと語り伝えています。",
+      "ミコノスは最初から人でにぎわう島だったわけではありません。長い間、静かな漁師の島で、風車は船で運ばれてきた小麦を粉にひくために使われていました。あの海賊を追い払うほど強い風の力を、そのまま利用したのですね。港のそばでは、船長や商人たちが海のすぐそばに家を建て、嵐の日には波がバルコニーまで届くほど。人々はこの美しい家並みを『リトル・ヴェネツィア』と呼んでいます。",
+      "船に少し乗るだけで行ける、とても小さなデロス島。昔のギリシャ人は、双子の神アポロンとアルテミスがここで生まれたと信じていました。あまりに神聖な場所なので、今もこの島で一晩を過ごすことさえ許されていません！ミコノスの町にもどったら、島の有名なマスコット、ペリカンのペトロスを探してみて。まるで自分が島の主人のように、通りをよちよち歩いています。ミコノスは小さく見えても、巨人と神さま、そしてとても堂々とした一羽の鳥でいっぱいの島なのです。"
+    ],
+    "zh": [
+      "想象一座白得像方糖堆成的希腊小岛，那就是米克诺斯。家家户户的墙壁刷得雪白耀眼，门窗涂成鲜艳的蓝色，狭窄的小巷像迷宫一样弯弯曲曲。据说这是古人特意设计的，为了让海盗迷路，也为了挡住猛烈的海风。小山丘上，一排风车静静矗立，扇叶朝着天空慢慢转动。",
+      "很久很久以前，希腊神话里说，巨人曾在这座岛上和众神展开一场大战。英雄赫拉克勒斯把巨人们追得满岛跑，一旦他们倒下，就地变成了石头。直到今天，岛上到处还散落着一些又大又古怪的巨石，当地人说，那些其实就是变成石头的巨人。",
+      "米克诺斯并不是一开始就热闹非凡。很长一段时间里，它只是一座安静的渔村小岛，风车用来把船只运来的小麦磨成面粉，靠的正是那曾经把海盗都吓跑的强风。港口边，船长和商人们把房子直接盖在海水边上，靠得那么近，暴风雨来时，海浪都能拍打到阳台上。人们把这排漂亮的房子称作“小威尼斯”。",
+      "只要坐一小段船，就能到达一座很小的岛——提洛岛。古希腊人相信，太阳神阿波罗和月亮女神阿尔忒弥斯这对双胞胎神明，就诞生在这里。这座岛有多神圣呢？直到今天，谁都不能在岛上过夜！回到米克诺斯镇上，别忘了留意一下岛上的明星吉祥物——鹈鹕佩特罗斯，它大摇大摆地走在街上，好像整座岛都是它的地盘。米克诺斯看起来小小的，却装满了巨人、神明，还有一只无比神气的鸟。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "미코노스에는 오래된 풍차가 16개나 있어요. 뱃사람들과 농부들은 '멜테미'라고 불리는 거센 바람의 힘으로 풍차를 돌려 밀을 갈았대요.",
+      "집집마다 눈부시게 하얗게 칠한 데는 이유가 있어요. 석회를 바르면 뜨거운 햇빛을 반사해 집 안이 시원해지고, 세균도 없애준대요.",
+      "리틀 베니스에서는 집들이 바다에 정말 가까이 붙어 있어서, 폭풍이 치면 파도가 발코니까지 철썩철썩 부딪힌대요.",
+      "미코노스의 공식 마스코트는 펠리컨 페트로스예요. 1950년대에 한 어부가 다친 펠리컨을 구해준 뒤로, 지금도 그 친구들이 동네 유명인처럼 거리를 활보한대요.",
+      "근처 섬 델로스는 그리스 신화에서 가장 신성한 곳으로 꼽혀요. 신 아폴론과 아르테미스가 태어난 곳이라 믿어져서, 지금도 그 섬에서는 태어나거나 죽는 것조차 허락되지 않는대요.",
+      "미코노스 곳곳에 흩어진 커다란 바위들은 전설 속에서 헤라클레스가 거인들과 싸우다 돌로 만들어 버린 흔적이라고 해요."
+    ],
+    "en": [
+      "Mykonos has 16 old windmills; sailors and farmers used their strong sails to grind wheat, powered by fierce winds called the meltemi.",
+      "Every house is painted blinding white on purpose—the lime wash reflects the hot sun, keeps homes cool, and even helps kill germs.",
+      "In Little Venice, houses sit so close to the sea that during storms, waves crash right up against their balconies.",
+      "Mykonos's official mascot is a pelican named Petros, rescued by a fisherman in the 1950s—today his pelican friends still stroll the streets like local celebrities.",
+      "Nearby Delos is considered one of the most sacred places in Greek mythology, believed to be the birthplace of the gods Apollo and Artemis—no one is allowed to be born or die there even today.",
+      "The giant boulders scattered around Mykonos are said in legend to be petrified giants, turned to stone by Hercules during a battle with the gods."
+    ],
+    "ja": [
+      "ミコノスには古い風車が16基も残っています。船乗りや農家の人たちは『メルテミ』と呼ばれる強い風の力を使って風車を回し、小麦を粉にひいていました。",
+      "どの家も目がくらむほど白くぬられているのには理由があります。石灰をぬると強い日差しを反射して家の中が涼しくなり、さらに菌をおさえる効果もあるのだとか。",
+      "リトル・ヴェネツィアでは家々が海のすぐそばに建っていて、嵐のときには波がバルコニーにバシャバシャと打ちつけるそうです。",
+      "ミコノスの公式マスコットは、ペリカンのペトロス。1950年代に漁師がけがをしたペリカンを助けたのがきっかけで、今でもその仲間たちが町の人気者として通りを歩いています。",
+      "近くのデロス島は、ギリシャ神話の中でも最も神聖な場所のひとつとされています。アポロンとアルテミスが生まれた地と信じられ、今でもこの島で生まれることも亡くなることも許されていないそうです。",
+      "ミコノス島のあちこちに転がる大きな岩は、伝説によるとヘラクレスが巨人と戦って石に変えてしまった跡なのだとか。"
+    ],
+    "zh": [
+      "米克诺斯岛上保留着16座古老的风车。水手和农民们靠一种叫“梅尔特米”的强风驱动风车，把小麦磨成面粉。",
+      "家家户户被刷得雪白耀眼是有原因的：石灰涂层能反射炽热的阳光让屋内凉爽，还能帮助杀菌。",
+      "在小威尼斯，房子紧贴着大海而建，暴风雨来临时，海浪会直接拍打到阳台上。",
+      "米克诺斯的官方吉祥物是鹈鹕佩特罗斯。1950年代一位渔夫救助了一只受伤的鹈鹕，如今它的“后代朋友们”依旧像本地明星一样在街头散步。",
+      "附近的提洛岛被视为希腊神话中最神圣的地方之一，相传阿波罗和阿尔忒弥斯就诞生于此，如今这座岛仍不允许任何人在那里出生或去世。",
+      "米克诺斯岛上散落的巨石，传说是赫拉克勒斯与巨人交战时，把他们变成石头留下的痕迹。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "섬 여기저기에 흩어진 커다란 바위들이 사실은 돌이 된 거인이래. 믿을 수 있어?",
+    "en": "Those big boulders scattered around the island are actually giants turned to stone. Can you believe it?",
+    "ja": "島のあちこちにある大きな岩は、実は石になった巨人なんだって。信じられる？",
+    "zh": "岛上到处散落的大石头，据说其实是变成石头的巨人哦。你相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "카토 밀리 풍차", "en": "The Windmills of Kato Mili", "ja": "カトー・ミリの風車", "zh": "卡托米利风车" },
+      "blurb": {
+        "ko": "마을이 내려다보이는 언덕 위에 수백 년째 서 있는 새하얀 풍차들이에요. 섬의 유명한 바람을 붙잡아 밀을 밀가루로 갈려고 지어졌대요. 지금도 커다란 나무 날개가 돌아가고, 노을이 질 때면 바다 위에서 황금빛으로 반짝인답니다.",
+        "en": "These whitewashed windmills have stood on the hill above town for centuries, built to catch the island's famous wind and grind wheat into flour. Their giant wooden sails still turn today, and at sunset they glow gold above the sea.",
+        "ja": "町を見下ろす丘の上に、何百年も前から立ち並ぶ真っ白な風車たち。島の有名な強い風をとらえて、小麦を粉にひくために建てられました。今も大きな木の羽根が回り、夕日のころには海の上で金色に輝きます。",
+        "zh": "这些雪白的风车矗立在俯瞰小镇的山丘上，已经有几百年历史，专为捕捉岛上著名的强风、磨制小麦而建。如今它们巨大的木质扇叶依然转动，日落时分在海面上闪着金光。"
+      },
+      "coords": [37.4480, 25.3273]
+    },
+    {
+      "name": { "ko": "리틀 베니스 (알레프칸드라)", "en": "Little Venice (Alefkandra)", "ja": "リトル・ヴェネツィア（アレフカンドラ）", "zh": "小威尼斯（阿莱夫坎德拉）" },
+      "blurb": {
+        "ko": "알록달록한 나무 발코니들이 바닷물 위에 그대로 걸쳐 있는 곳이에요. 옛날 선장과 상인들이 지은 집이래요. 밤이 되면 창문 불빛이 물결 위에 비쳐, 섬에서 가장 예쁜 노을 명소로 손꼽힌답니다.",
+        "en": "Colorful wooden balconies hang right over the water here, built long ago by sea captains and merchants. At night the windows light up and reflect on the waves, making it one of the prettiest sunset spots on the island.",
+        "ja": "カラフルな木製のバルコニーが、海の上にそのまま張り出しているエリアです。昔、船長や商人たちが建てた家々だそう。夜になると窓の明かりが波にゆれて映り、島いちばんの夕日スポットとも言われています。",
+        "zh": "五彩缤纷的木质阳台就直接悬在海面上方，据说是从前船长和商人们建造的房子。入夜后窗户的灯光倒映在波浪里，是岛上最美的日落景点之一。"
+      },
+      "coords": [37.4486, 25.3251]
+    },
+    {
+      "name": { "ko": "파나기아 파라포르티아니 성당", "en": "Panagia Paraportiani Church", "ja": "パナギア・パラポルティアニ教会", "zh": "帕拉波尔提亚尼教堂" },
+      "blurb": {
+        "ko": "파도처럼 부드럽게 굽이치는 새하얀 성당이에요. 사실은 서로 다른 시대에 지어진 작은 교회 다섯 개가 하나로 합쳐진 거래요. 어디가 '앞쪽'인지 미코노스에 다녀온 여행자들마다 의견이 다르답니다.",
+        "en": "This snow-white church looks like a sandcastle melted into wavy curves. It's actually five tiny churches built at different times and joined into one—no two Mykonos travelers agree on which side is the 'front'!",
+        "ja": "波のようになめらかにうねる、真っ白な教会です。実は違う時代に建てられた5つの小さな教会が、ひとつにくっついたものなのだとか。どこが『正面』なのか、訪れた旅行者の間でも意見が分かれます。",
+        "zh": "这座雪白的教堂线条像波浪一样柔和起伏。其实它是由不同年代建造的五座小教堂合并而成的。连游客们都说不清哪一面才算是“正面”！"
+      },
+      "coords": [37.4483, 25.3254]
+    },
+    {
+      "name": { "ko": "델로스 섬", "en": "Delos", "ja": "デロス島", "zh": "提洛岛" },
+      "blurb": {
+        "ko": "지금은 아무도 살지 않는 이 작은 섬은 옛 그리스에서 가장 신성한 곳 중 하나였어요. 아폴론과 아르테미스가 태어난 곳이라고 전해지죠. 지금도 2000년 된 신전과 조각상, 대리석 사자상 사이를 고요하게 거닐 수 있답니다.",
+        "en": "This small, uninhabited island just off the coast was one of the most sacred places in the ancient Greek world, said to be where Apollo and Artemis were born. Today you can wander among 2,000-year-old temples, statues, and marble lions, all in silence.",
+        "ja": "今では誰も住んでいないこの小さな島は、古代ギリシャで最も神聖な場所のひとつでした。アポロンとアルテミスが生まれた地と伝えられています。今も2000年前の神殿や彫像、大理石のライオン像の間を、静かに歩いてめぐることができます。",
+        "zh": "如今无人居住的这座小岛，曾是古希腊最神圣的地方之一，相传阿波罗和阿尔忒弥斯就诞生在这里。今天你仍能静静漫步在两千年前的神庙、雕像与大理石狮子之间。"
+      },
+      "coords": [37.3963, 25.2716]
+    }
+  ]
+}

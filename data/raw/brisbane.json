@@ -1,0 +1,120 @@
+{
+  "id": "brisbane",
+  "country": "au",
+  "coords": [-27.4698, 153.0251],
+  "name": { "ko": "브리즈번", "en": "Brisbane", "ja": "ブリスベン", "zh": "布里斯班" },
+  "tagline": {
+    "ko": "페리도 타고, 가짜 해변에서 헤엄치고, 진짜 코알라도 안아볼 수 있는 강의 도시",
+    "en": "The river city where you can ride a ferry, swim at a fake beach, and hug a real koala",
+    "ja": "フェリーに乗って、人工ビーチで泳いで、本物のコアラも抱っこできる川の街",
+    "zh": "既能坐渡轮、又能在人造海滩游泳、还能抱考拉的河畔之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날은 아니지만, 약 200년 전 호주 북동쪽 어딘가에 구불구불한 강이 흐르고 있었어요. 1824년, 사람들이 그 강가에 작은 마을을 세우고 '브리즈번'이라는 이름을 붙였답니다. 그런데 사실 이 마을은 처음엔 그리 좋은 곳이 아니었어요. 시드니에서 말썽을 부린 죄수들을 보내는 '벌 받는 마을'이었거든요!",
+      "말썽꾸러기 죄수들은 이미 오래전에 떠났지만, 구불구불한 강은 여전히 남아서 브리즈번 도시를 리본처럼 휘감고 흘러요. 위에서 내려다보면 도시가 강에 폭 감싸인 것처럼 보인답니다. 요즘은 죄수를 실은 배 대신, '시티캣'이라는 날렵한 쌍동선 페리가 강 위를 씽씽 오가며 사람들을 학교와 회사로 실어 나른답니다.",
+      "1988년, 브리즈번은 '세계 박람회'라는 커다란 잔치를 열었어요. 잔치가 끝나고 사람들이 떠나자, 도시는 기막힌 생각을 해냈어요. 텅 빈 땅에 모래를 잔뜩 부어서 진짜 바다처럼 보이는 인공 해변을 만든 거예요. 그것도 바다랑 전혀 가깝지 않은 도시 한복판에요! '스트리츠 비치'는 지금도 호주에서 하나뿐인 도심 속 해변이라, 매일 수많은 아이들이 첨벙첨벙 물놀이를 즐긴답니다.",
+      "하지만 가장 멋진 깜짝 선물은 시내에서 조금만 나가면 만날 수 있어요. 세상에서 가장 오래된 코알라 보호구역 '론 파인'에서는 나른한 코알라들이 나뭇가지 위에서 꾸벅꾸벅 졸고 있거든요. 브리즈번에 오면 강 위의 페리도 타고, 도심 속 가짜 바다에서 헤엄도 치고, 진짜 코알라도 꼭 안아볼 수 있어요. 이 모든 걸 하루 오후에 다 할 수 있답니다!"
+    ],
+    "en": [
+      "About 200 years ago, in the sunny north-east corner of Australia, there was a wide river that curled and looped like a snake. In 1824, settlers built a small outpost beside it and named it Brisbane, after the river. But this wasn't meant to be a nice place at first — it was built as a punishment town, for convicts who'd caused trouble in Sydney!",
+      "Even though the trouble-making convicts left long ago, the winding river stayed, looping so wildly around Brisbane that from above the city looks wrapped in ribbon. Today, instead of prison ships, sleek catamaran ferries called CityCats zoom up and down the water, ferrying people to work and school.",
+      "Then in 1988, Brisbane threw a giant party called World Expo. After the crowds went home, the city did something brilliant: instead of leaving an empty lot, they poured in sand and built a real beach — right in the middle of the city, nowhere near the ocean! Streets Beach is still the only beach like it in Australia, and thousands of kids splash there every single day.",
+      "But the best surprise waits just a short trip from downtown, where sleepy koalas doze in the treetops at Lone Pine, the oldest koala sanctuary on Earth. Come to Brisbane, and you can ride a river ferry, swim at a fake beach in the city center, and cuddle a real koala — all in one afternoon!"
+    ],
+    "ja": [
+      "今から約200年前、オーストラリアの北東の隅っこに、くねくねと曲がりくねった大きな川が流れていました。1824年、人々はその川のほとりに小さな町を作り、「ブリスベン」と名づけました。でも実はこの町、最初はあまり喜ばしい場所ではありませんでした。シドニーで問題を起こした囚人たちを送りこむ『罰の町』だったのです!",
+      "問題を起こした囚人たちはとっくの昔に去りましたが、くねくねした川は今も残り、ブリスベンの街をリボンのように包みこんで流れています。上から見ると、街がまるまる川に抱かれているように見えるほど。今では囚人を乗せた船の代わりに、「シティキャット」というかっこいい双胴船フェリーが川の上をびゅんびゅん行き来して、学校や会社へ人々を運んでいます。",
+      "1988年、ブリスベンは『世界万博』という大きなお祭りを開きました。お祭りが終わって人々が去ったあと、街はすごいアイデアを思いつきました。がらんとした跡地に砂をどっさり運びこみ、本物そっくりの人工ビーチを作ったのです。しかも海からはまったく遠い、街のど真ん中に!「ストリーツビーチ」は今もオーストラリアで唯一の街なかビーチで、毎日たくさんの子どもたちがバシャバシャ水遊びを楽しんでいます。",
+      "でも一番の楽しみは、街の中心から少し行った先で待っています。世界最古のコアラ保護区『ローンパイン』では、眠たそうなコアラたちが木の上でうとうと居眠り中。ブリスベンに来たら、川のフェリーに乗って、街なかの人工ビーチで泳いで、本物のコアラを抱っこすることだってできます。それが全部、たった一日の午後でできてしまうのです!"
+    ],
+    "zh": [
+      "大约两百年前，在澳大利亚东北角，有一条弯弯曲曲、蜿蜒流淌的大河。1824年，人们在河边建起一座小镇，给它取名叫“布里斯班”。不过，这座小镇一开始可不是什么让人开心的地方——它是专门用来关押在悉尼惹麻烦的囚犯的“惩罚小镇”!",
+      "调皮捣蛋的囚犯早已离开，可这条蜿蜒的河流却留了下来，像丝带一样把布里斯班紧紧缠绕。从空中俯瞰，整座城市几乎都被河水温柔地环抱着。如今，河上不再有押送囚犯的船，取而代之的是一种叫“City Cat”的时髦双体渡轮，载着人们飞快地往返于学校和公司之间。",
+      "1988年，布里斯班举办了一场名叫“世界博览会”的盛大庆典。庆典结束、人群散去之后，这座城市想出了一个绝妙的点子：他们往那片空地上运来大量沙子，造出了一片以假乱真的海滩——而且就建在离海洋很远的市中心!“斯特里茨海滩”至今仍是澳大利亚唯一一座建在市中心的海滩，每天都有成群的孩子在这里扑通扑通地玩水。",
+      "不过，最棒的惊喜要数从市区出发不远处的地方。在世界上历史最悠久的考拉保护区“龙柏”，慵懒的考拉们正窝在树梢上打盹儿呢。来到布里斯班，你可以坐渡轮游河，可以在市中心的人造海滩里畅游，还能抱一抱真正的考拉——这一切，一个下午就能全部体验到!"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "브리즈번은 1824년, 시드니에서 말썽을 피운 죄수들을 보내는 '벌 받는 마을'로 시작됐어요.",
+      "브리즈번 강은 어찌나 구불구불한지, 마을 몇 곳은 거의 섬처럼 강에 둘러싸여 있답니다.",
+      "'시티캣'이라는 날렵한 쌍동선 페리가 매일 강 위를 오가며 사람들을 실어 날라요.",
+      "'스트리츠 비치'는 1988년 세계 박람회가 끝난 자리에 만든 인공 해변으로, 호주에서 유일하게 도심 한복판에 있는 바다예요.",
+      "'론 파인 코알라 보호구역'은 1927년에 문을 연, 세계에서 가장 오래되고 큰 코알라 보호구역 중 하나예요. 코알라가 100마리도 넘게 산답니다.",
+      "'스토리 브리지'는 세계에서 가장 큰 강철 캔틸레버 다리 중 하나인데, 다리 꼭대기까지 직접 올라갈 수도 있어요!"
+    ],
+    "en": [
+      "Brisbane began in 1824 as a punishment outpost — a place to send convicts who'd caused too much trouble in Sydney!",
+      "The Brisbane River loops and curls so wildly that some neighborhoods are almost surrounded by water like islands.",
+      "Sleek catamaran ferries called CityCats zoom commuters up and down the river every single day.",
+      "Streets Beach, built after the 1988 World Expo, is Australia's only man-made beach right in a city center — nowhere near the ocean!",
+      "Lone Pine Koala Sanctuary opened in 1927, making it one of the world's oldest and largest koala sanctuaries, home to more than 100 koalas.",
+      "Story Bridge is one of the largest steel cantilever bridges in the world, and brave visitors can actually climb all the way to the top!"
+    ],
+    "ja": [
+      "ブリスベンは1824年、シドニーで問題を起こした囚人を送りこむ『罰の町』として始まりました。",
+      "ブリスベン川はあまりにくねくねしていて、いくつかの街はほとんど川に囲まれた島のようになっています。",
+      "「シティキャット」というかっこいい双胴船フェリーが毎日川を行き来し、人々を運んでいます。",
+      "「ストリーツビーチ」は1988年の世界万博の跡地に作られた人工ビーチで、オーストラリアで唯一、街のど真ん中にある海です。",
+      "「ローンパイン・コアラ保護区」は1927年に開園した、世界最古かつ最大級のコアラ保護区の一つ。100匹以上のコアラが暮らしています。",
+      "「ストーリー橋」は世界最大級の鋼鉄カンチレバー橋の一つで、なんと橋の上まで実際によじ登ることができます!"
+    ],
+    "zh": [
+      "布里斯班始建于1824年，最初是专门流放悉尼惹是生非的囚犯的“惩罚小镇”。",
+      "布里斯班河蜿蜒曲折，把好几个街区几乎都缠绕成了小岛。",
+      "名叫“City Cat”的时髦双体渡轮每天穿梭在河面上，载着人们上班上学。",
+      "“斯特里茨海滩”建在1988年世界博览会的旧址上，是澳大利亚唯一坐落在市中心的海滩。",
+      "“龙柏考拉保护区”于1927年开园，是世界上历史最悠久、规模最大的考拉保护区之一，住着一百多只考拉。",
+      "“故事桥”是世界最大的钢制悬臂桥之一，游客甚至可以真的攀登到桥顶!"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "바다랑 전혀 가깝지 않은 도시 한복판에 진짜 같은 해변이 있대. 네가 가면 그게 가짜 바다라는 걸 알아챌 수 있을까?",
+    "en": "A whole beach was built in the middle of a city, far from the sea — do you think you could tell it wasn't the real ocean?",
+    "ja": "海からずっと遠い街のど真ん中に、まるで本物みたいなビーチがあるんだって。行ったら、それが本物の海じゃないってわかるかな?",
+    "zh": "在离海很远的市中心，竟然有一片几乎以假乱真的海滩。要是你去了，能看出那不是真正的大海吗?"
+  },
+  "places": [
+    {
+      "name": { "ko": "사우스뱅크 파크랜드 (스트리츠 비치)", "en": "South Bank Parklands (Streets Beach)", "ja": "サウスバンク・パークランド（ストリーツビーチ）", "zh": "南岸公园（斯特里茨海滩）" },
+      "blurb": {
+        "ko": "1988년 세계 박람회가 끝난 자리에 만든, 도심 한복판의 진짜 모래 해변이에요. 야자수와 높은 빌딩에 둘러싸인 얕은 물에서 아이들이 첨벙첨벙 물놀이를 즐긴답니다. 바다가 없어도 괜찮아요!",
+        "en": "A real sandy lagoon beach, built right in the heart of the city after the 1988 World Expo. Kids splash in the shallow water with palm trees and skyscrapers all around — no ocean required!",
+        "ja": "1988年の世界万博跡地に作られた、街の中心にある本物の砂浜ラグーン。ヤシの木と高層ビルに囲まれた浅い水辺で、子どもたちがバシャバシャ水遊びを楽しみます。海がなくても大丈夫!",
+        "zh": "建在1988年世博会旧址上、位于市中心的真实沙滩泻湖。孩子们在棕榈树和高楼环绕的浅水区尽情戏水——完全不需要大海!"
+      },
+      "coords": [-27.4746, 153.0218]
+    },
+    {
+      "name": { "ko": "론 파인 코알라 보호구역", "en": "Lone Pine Koala Sanctuary", "ja": "ローンパイン・コアラ保護区", "zh": "龙柏考拉保护区" },
+      "blurb": {
+        "ko": "1927년 문을 연 세계에서 가장 오래된 코알라 보호구역으로, 나른하고 폭신폭신한 코알라가 100마리 넘게 살고 있어요. 아이들이 코알라를 직접 안아볼 수 있는 몇 안 되는 곳 중 하나랍니다!",
+        "en": "Opened in 1927, this is the world's oldest koala sanctuary — and home to more than a hundred sleepy, cuddly koalas. It's one of the very few places on Earth where kids can actually hold one!",
+        "ja": "1927年開園、世界最古のコアラ保護区。ふわふわで眠たそうなコアラが100匹以上暮らしています。子どもが実際にコアラを抱っこできる、世界でも数少ない場所の一つです!",
+        "zh": "开园于1927年，是世界上最古老的考拉保护区，住着一百多只慵懒又毛茸茸的考拉。这里是世界上少数几个能让孩子亲手抱考拉的地方之一!"
+      },
+      "coords": [-27.5297, 152.9707]
+    },
+    {
+      "name": { "ko": "스토리 브리지", "en": "Story Bridge", "ja": "ストーリー橋", "zh": "故事桥" },
+      "blurb": {
+        "ko": "브리즈번 강을 높이 가로지르는, 세계에서 가장 큰 강철 캔틸레버 다리 중 하나예요. 용감한 사람들은 다리 꼭대기까지 걸어 올라가, 구불구불한 강 전체를 새처럼 내려다볼 수 있답니다.",
+        "en": "One of the largest steel cantilever bridges in the world, stretching high across the Brisbane River. Brave climbers can walk right up to the very top for a bird's-eye view of the whole curling river.",
+        "ja": "ブリスベン川を高くまたぐ、世界最大級の鋼鉄カンチレバー橋。勇気のある人は橋のてっぺんまで登り、くねくねした川全体を鳥のように見下ろすことができます。",
+        "zh": "横跨布里斯班河的巨型钢制悬臂桥，是世界上最大的此类桥梁之一。勇敢的人可以一路攀登到桥顶，像小鸟一样俯瞰整条蜿蜒的河流。"
+      },
+      "coords": [-27.4636, 153.0361]
+    },
+    {
+      "name": { "ko": "마운트 쿠타 전망대", "en": "Mount Coot-tha Lookout", "ja": "マウント・クーサ展望台", "zh": "库塔山瞭望台" },
+      "blurb": {
+        "ko": "숲으로 뒤덮인 이 산에 올라가면 브리즈번 최고의 전망을 만날 수 있어요. 구불구불한 강 전체와 반짝이는 도시 스카이라인이 발아래 펼쳐진답니다. 맑은 밤엔 근처 나무에서 코알라와 주머니쥐를 발견할 수도 있어요.",
+        "en": "Ride up this forest-covered mountain for the best view in Brisbane — the whole looping river and glittering city skyline spread out below you. On clear nights you can even spot koalas and possums in the nearby trees.",
+        "ja": "森におおわれたこの山にのぼると、ブリスベン随一の絶景に出会えます。くねくねした川全体と、きらめく街の高層ビル群が足もとに広がります。晴れた夜には、近くの木でコアラやポッサムを見つけられるかも。",
+        "zh": "登上这座林木葱郁的小山，可以饱览布里斯班最美的景色——蜿蜒的河流和闪烁的城市天际线尽收眼底。晴朗的夜晚，你甚至能在附近的树上发现考拉和袋貂哦。"
+      },
+      "coords": [-27.4772, 152.9433]
+    }
+  ]
+}

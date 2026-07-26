@@ -1,0 +1,120 @@
+{
+  "id": "riodejaneiro",
+  "country": "br",
+  "coords": [-22.9068, -43.1729],
+  "name": { "ko": "리우데자네이루", "en": "Rio de Janeiro", "ja": "リオデジャネイロ", "zh": "里约热内卢" },
+  "tagline": {
+    "ko": "산꼭대기의 예수상이 정글과 해변, 세상에서 가장 큰 축제를 내려다보는 '경이로운 도시'",
+    "en": "The 'Marvelous City' where a mountaintop Christ watches over jungle, beaches, and the world's biggest party",
+    "ja": "山頂のイエス像がジャングルとビーチ、世界一のお祭りを見守る『驚異の街』",
+    "zh": "山顶耶稣像守望着丛林、沙滩与世界最大派对的“奇迹之城”"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날인 1502년, 포르투갈 뱃사람들이 브라질의 반짝이는 커다란 만으로 들어왔어요. 그들은 이곳이 커다란 강의 입구라고 착각해서 '리우데자네이루', 즉 '1월의 강'이라는 이름을 붙였답니다. 사실 강이 아니라, 초록빛 산들이 바다에서 불쑥 솟아오른 아름다운 만이었는데도 말이죠. 하지만 그 이름은 그대로 남았고, 정글로 뒤덮인 봉우리와 황금빛 해변 사이에 커다란 도시가 자라났어요.",
+      "리우는 점점 세계에서 가장 활기찬 도시 중 하나로 성장했고, 1920년대에는 온 세상이 알아볼 만한 무언가를 만들기로 했어요. '코르코바두'라는 산꼭대기에서 사람들은 거의 10년 동안 돌덩이를 기차와 손으로 날라, 두 팔을 활짝 벌린 거대한 예수상을 세웠어요. 마치 도시 전체를 안아주는 것처럼요. 1931년 완성되자, 이 조각상은 세계 새로운 7대 불가사의 중 하나로 뽑혔답니다.",
+      "리우는 해마다 지구에서 가장 큰 축제, '카니발'을 열어요. 화려하고 신나는 닷새 동안, 깃털 옷을 입은 삼바 학교 무용수 수천 명이 '삼보드로무'라는 특별한 무대 위를 행진하며 춤추고 북을 울려서, 도시 전체가 음악으로 들썩인답니다.",
+      "하지만 리우는 콘크리트와 색종이 조각만으로 이루어진 도시가 아니에요. 진짜 정글이 도시를 감싸고 있거든요. 오래전 사람들이 커피를 심으려고 언덕의 숲을 모두 베어버렸는데, 땅이 너무 메말라져서 도시에 물이 부족해지기 시작했어요. 그래서 사람들은 나무 한 그루 한 그루를 손으로 다시 심었답니다. 오늘날 '치주카'라 불리는 이 숲은 무성하게 자라 세계에서 가장 큰 '도시 속 숲'이 되었어요. 폭포와 원숭이, 큰부리새까지 사는 이 숲은 해변에서 겨우 몇 분 거리랍니다."
+    ],
+    "en": [
+      "Long ago, in the year 1502, Portuguese sailors sailed into a huge, sparkling bay in Brazil. They thought it was the mouth of a giant river, so they named it 'Rio de Janeiro'—'River of January.' It wasn't a river at all, just a beautiful bay ringed by green mountains that shoot straight up from the sea. But the name stuck, and a great city grew up around that bay, tucked between jungle-covered peaks and golden beaches.",
+      "Rio grew into one of the liveliest cities on Earth, and in the 1920s, people there decided to build something the whole world would recognize. High on a mountain called Corcovado, workers spent almost ten years hauling stone up by train and by hand to build a giant statue of Christ with his arms stretched wide, as if he were hugging the entire city. When it was finished in 1931, it became one of the New Seven Wonders of the World.",
+      "Every year, Rio throws the biggest party on the planet: Carnival. For five wild, sparkly days, samba schools with thousands of dancers in dazzling feathered costumes parade down a special runway called the Sambódromo, dancing and drumming until the whole city seems to shake with music.",
+      "But Rio isn't just concrete and confetti—it's wrapped in real jungle. Long ago, people cut down the forest on its hills to plant coffee, but the ground dried up so much that the city started running out of water. So people planted the whole forest back again, tree by tree, by hand. Today that forest, called Tijuca, has grown so thick and wild that it's the largest forest inside any city in the world, with waterfalls, monkeys, and toucans, all just minutes from the beach."
+    ],
+    "ja": [
+      "はるか昔、1502年のこと、ポルトガルの船乗りたちがブラジルのきらめく大きな湾にやってきました。彼らはそこを大きな川の河口だと勘ちがいして、『リオデジャネイロ』、つまり『1月の川』と名づけました。実は川ではなく、緑の山々が海からそびえ立つ美しい湾だったのですが、その名前はそのまま残りました。そして、ジャングルに包まれた山々と黄金色のビーチの間に、大きな街が育っていったのです。",
+      "リオはやがて世界でも指折りの活気ある街に成長し、1920年代、人々は世界中が見てわかるものを作ろうと決めました。『コルコバード』という山の頂上で、人々はほぼ10年もかけて石を列車と手で運び上げ、両腕を大きく広げた巨大なイエス像を建てました。まるで街全体を抱きしめているかのように。1931年に完成すると、この像は世界の新・七不思議のひとつに選ばれました。",
+      "リオでは毎年、地球上でいちばん大きなお祭り『カーニバル』が開かれます。きらびやかで胸おどる5日間、羽根の衣装をまとったサンバチームの踊り手が何千人も、『サンボードロモ』という特別な会場を練り歩き、踊り、太鼓をたたいて、街じゅうが音楽でゆれ動くのです。",
+      "でもリオはコンクリートと紙吹雪だけの街ではありません。本物のジャングルが街を包んでいます。昔、人々はコーヒーを植えるために丘の森をすっかり切りたおしましたが、土地がかわきすぎて街の水が足りなくなってしまいました。そこで人々は、木を一本一本、また手で植えなおしたのです。今日『チジュカ』と呼ばれるこの森は生い茂り、世界最大の『街の中の森』になりました。滝もサルもオオハシもすむこの森は、ビーチからほんの数分の場所にあります。"
+    ],
+    "zh": [
+      "很久很久以前，1502年，葡萄牙水手驶入了巴西一处波光粼粼的巨大海湾。他们误以为这里是一条大河的入海口，于是给它取名“里约热内卢”，意思是“一月的河流”。其实那根本不是河，而是一片被绿色高山从海面拔地而起环绕着的美丽海湾。可是这个名字却一直沿用下来，一座大城市就在丛林覆盖的山峰和金色沙滩之间渐渐成长起来。",
+      "里约慢慢长成了地球上最有活力的城市之一。到了20世纪20年代，人们决定建造一样让全世界都认得出的东西。在一座叫“科尔科瓦多”的山顶上，人们花了差不多十年时间，用火车和双手把石块一点点运上山，建起了一尊张开双臂的巨大耶稣像，仿佛在拥抱整座城市。1931年落成后，这座雕像被评为世界新七大奇迹之一。",
+      "里约每年都会举办地球上最盛大的派对——狂欢节。在这五天五夜里，成千上万穿着华丽羽毛服饰的桑巴舞者，在专为游行搭建的“桑巴大道”上跳舞、击鼓，整座城市都跟着音乐震动起来。",
+      "但里约不只是水泥和彩纸屑，一片真正的丛林也把它紧紧包裹着。很久以前，人们为了种咖啡把山上的森林砍得精光，结果土地变得太干，城市渐渐没水可用。于是人们又一棵一棵，用手把树重新种了回去。如今这片名叫“蒂茹卡”的森林已经长得郁郁葱葱，成为世界上城市里面积最大的森林。瀑布、猴子、巨嘴鸟都住在里面，离海滩只有几分钟路程。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "리우라는 이름은 '1월의 강'이라는 뜻이지만, 사실 과나바라 만은 강이 아니에요. 이름을 붙인 뱃사람들이 완전히 착각했던 거죠!",
+      "예수상은 키가 30미터(받침대까지 합치면 약 38미터)이고, 두 팔을 벌린 너비는 28미터나 돼요. 스쿨버스 세 대를 나란히 늘어놓은 길이와 비슷하답니다.",
+      "조각상을 짓는 데 거의 10년이 걸렸고, 일꾼들은 무거운 활석 판을 특별한 기차로 산꼭대기까지 하나씩 날랐어요.",
+      "슈가로프산은 단단한 화강암 덩어리로, 만들어지는 데 약 6억 년이나 걸렸어요. 1912년에 놓인 케이블카는 브라질 최초의 케이블카였답니다.",
+      "치주카 숲은 커피 농장 때문에 다 베어졌다가, 사람들이 손으로 나무를 다시 심어 되살린 숲이에요. 오늘날엔 지구에서 가장 큰 '도시 숲'이 되었답니다.",
+      "코파카바나 해변의 보도블록은 검고 하얀 물결무늬로 유명한데, 그 길이가 해변을 따라 약 4킬로미터나 이어진대요."
+    ],
+    "en": [
+      "Rio's name means 'River of January,' but Guanabara Bay isn't a river at all—the sailors who named it simply got it wrong!",
+      "Christ the Redeemer stands 30 meters tall (about 38 with its pedestal) and its arms stretch 28 meters wide—almost as long as three school buses in a row.",
+      "It took nearly a decade to build the statue, and workers hauled the heavy soapstone panels up the mountain piece by piece on a special train.",
+      "Sugarloaf Mountain is a giant dome of solid granite that took roughly 600 million years to form—and its cable car, built in 1912, was the first ever in Brazil.",
+      "Tijuca Forest was completely replanted by hand after it was cut down for coffee farms—today it's the largest urban forest on Earth.",
+      "Copacabana Beach's sidewalk is famous for its wavy black-and-white stone pattern, stretching for about 4 kilometers along the sand."
+    ],
+    "ja": [
+      "「リオ」という名前は『1月の川』という意味ですが、実はグアナバラ湾は川ではありません。名づけた船乗りたちが、すっかり勘ちがいしていたんですね！",
+      "イエス像の高さは30メートル（台座を含めると約38メートル）で、広げた両腕の幅は28メートルもあります。スクールバス3台を並べたくらいの長さです。",
+      "この像を建てるのにほぼ10年かかり、作業員たちは重い石けん石の板を特別な列車で山の上まで一枚ずつ運びました。",
+      "シュガーローフ山は硬い花こう岩のかたまりで、できあがるのに約6億年もかかりました。1912年にできたロープウェイは、ブラジルで最初のものでした。",
+      "チジュカの森はコーヒー農園のためにすっかり切りたおされましたが、人々が手で木を植えなおしてよみがえらせました。今では地球でいちばん大きな『街の森』になっています。",
+      "コパカバーナビーチの歩道は黒と白の波もようで有名で、その長さは浜辺にそって約4キロも続いています。"
+    ],
+    "zh": [
+      "“里约”这个名字意思是“一月的河流”，可瓜纳巴拉湾其实根本不是河——给它取名的水手们完全弄错了！",
+      "耶稣像高30米（连底座约38米），张开的双臂宽达28米，差不多和三辆校车排成一排一样长。",
+      "建造这座雕像花了将近十年，工人们用一列专门的小火车，把沉重的皂石板一块一块运上山顶。",
+      "糖面包山是一整块坚硬的花岗岩，形成大约花了六亿年。1912年建成的缆车，是巴西第一条缆车。",
+      "蒂茹卡森林曾因种咖啡被砍伐一空，后来人们用手把树一棵棵重新种了回去。如今它已成为地球上面积最大的“城市森林”。",
+      "科帕卡巴纳海滩的人行道以黑白波浪石纹闻名，沿着海岸线一直延伸约4公里长。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "두 팔을 활짝 벌린 거대한 조각상이 산꼭대기에서 도시 전체를 내려다보고 있대. 그 큰 걸 어떻게 산꼭대기까지 옮겼을까?",
+    "en": "A giant statue with arms wide open watches over the whole city from a mountaintop—how do you think they got it all the way up there?",
+    "ja": "両腕を大きく広げた巨大な像が、山の上から街全体を見守っているんだって。あんなに大きなものを、どうやって山の上まで運んだのかな？",
+    "zh": "一尊张开双臂的巨大雕像正从山顶俯瞰着整座城市呢。你猜他们是怎么把它运上山顶的？"
+  },
+  "places": [
+    {
+      "name": { "ko": "코르코바두 예수상", "en": "Christ the Redeemer (Corcovado)", "ja": "コルコバードのキリスト像", "zh": "科尔科瓦多耶稣像" },
+      "blurb": {
+        "ko": "코르코바두 산 꼭대기에서 두 팔을 활짝 벌리고 선 이 거대한 조각상은 1931년부터 리우를 내려다보고 있어요. 아기자기한 기차를 타고 정글을 지나 산 정상까지 올라갈 수 있는데, 맑은 날엔 도시와 만, 해변이 한눈에 펼쳐진답니다.",
+        "en": "Standing atop Corcovado Mountain with arms open wide, this giant statue has watched over Rio since 1931. You can ride a cozy little train straight up through the rainforest to reach it, and on a clear day, you can see the whole city, the bay, and the beaches spread out below.",
+        "ja": "コルコバードの山頂で両腕を大きく広げて立つこの巨大な像は、1931年からリオを見守っています。かわいらしい列車に乗ってジャングルを抜け、山の上まで行くことができ、晴れた日には街と湾、ビーチが一望できます。",
+        "zh": "这尊张开双臂的巨大雕像自1931年起就矗立在科尔科瓦多山顶，守护着里约。你可以乘坐一列可爱的小火车穿过雨林直达山顶，天气晴朗时,整座城市、海湾和沙滩都会尽收眼底。"
+      },
+      "coords": [-22.9519, -43.2105]
+    },
+    {
+      "name": { "ko": "슈가로프산", "en": "Sugarloaf Mountain", "ja": "シュガーローフ山", "zh": "糖面包山" },
+      "blurb": {
+        "ko": "매끈한 화강암 봉우리가 마치 거대한 설탕 덩어리처럼 바다에서 불쑥 솟아 있어요. 이름도 그래서 '설탕빵 산'이랍니다. 1912년부터 유리 케이블카가 두 번에 걸쳐 사람들을 정상까지 실어다 주는데, 꼭대기에 서면 만 건너편에서 손을 흔드는 듯한 예수상도 보인답니다.",
+        "en": "This smooth granite peak rises straight out of the sea like a giant loaf of sugar—which is exactly how it got its name. Since 1912, a glass cable car has carried visitors up in two stages, and from the top you can spot Christ the Redeemer waving back at you from across the bay.",
+        "ja": "なめらかな花こう岩の山が、まるで巨大な砂糖のかたまりのように海からそびえ立っています。名前もそこからきているんですよ。1912年から、ガラス張りのロープウェイが2段階で人々を山頂まで運んでいて、頂上に立つと、湾の向こうから手をふるようなイエス像も見えます。",
+        "zh": "光滑的花岗岩山峰像一块巨大的方糖，直挺挺地从海面拔起——它的名字“糖面包山”也由此而来。自1912年起，玻璃缆车分两段把游客送上山顶,站在顶上,还能看到海湾对岸仿佛在挥手的耶稣像。"
+      },
+      "coords": [-22.9486, -43.1548]
+    },
+    {
+      "name": { "ko": "코파카바나 해변", "en": "Copacabana Beach", "ja": "コパカバーナビーチ", "zh": "科帕卡巴纳海滩" },
+      "blurb": {
+        "ko": "이 유명한 초승달 모양 해변은 약 4킬로미터나 이어지는데, 보도블록엔 검고 흰 물결무늬가 눈이 닿는 끝까지 넘실댄답니다. 현지 사람들은 모래 위에서 '풋발리'(배구 네트로 하는 축구!)를 즐기고, 새해 전야에는 수백만 명이 하얀 옷을 입고 모여 바다 위 불꽃놀이를 구경한대요.",
+        "en": "This famous curved beach stretches for about 4 kilometers, its sidewalk paved in a swirling black-and-white wave pattern that ripples on for as far as you can see. Locals play footvolley (soccer played over a volleyball net!) right in the sand, and on New Year's Eve, millions gather here wearing white for fireworks over the ocean.",
+        "ja": "この有名な三日月形のビーチは約4キロも続き、歩道には黒と白の波もようが見わたす限りうねっています。地元の人たちは砂の上で『フットボレー』（バレーのネットでするサッカー！）を楽しみ、大みそかには何百万人もが白い服を着て集まり、海の上の花火を見物します。",
+        "zh": "这片著名的新月形海滩绵延约4公里,人行道上黑白相间的波浪纹一路铺展到目光尽头。当地人喜欢在沙滩上玩“沙滩排球足球”（隔着排球网踢球！）,除夕夜还会有数百万人穿着白衣聚集在这里,观看海上绽放的烟花。"
+      },
+      "coords": [-22.9711, -43.1822]
+    },
+    {
+      "name": { "ko": "치주카 국립공원", "en": "Tijuca National Forest", "ja": "チジュカ国立公園", "zh": "蒂茹卡国家森林公园" },
+      "blurb": {
+        "ko": "한때 커피 농장 때문에 벌거벗겨졌던 이 언덕 정글은 1800년대에 나무 한 그루 한 그루 다시 심어져 되살아났어요. 오늘날엔 지구의 도시 안에 있는 숲 중 가장 크답니다. 오솔길을 걷다 보면 폭포도, 짖는원숭이도, 머리 위로 휙 날아가는 알록달록한 큰부리새도 만날 수 있어요.",
+        "en": "Once stripped bare for coffee farms, this hillside jungle was replanted tree by tree in the 1800s—and today it's the largest forest inside any city on the planet. Wander its trails and you might spot a waterfall, a howler monkey, or a flash of a rainbow-colored toucan overhead.",
+        "ja": "かつてコーヒー農園のためにすっかりはげ山になったこの丘のジャングルは、1800年代に木を一本一本植えなおしてよみがえりました。今では地球上、街の中にある森としては最大です。小道を歩けば、滝や、ほえザル、頭上をさっと飛ぶカラフルなオオハシに出会えるかもしれません。",
+        "zh": "这片山地丛林曾因种植咖啡而被砍伐殆尽,19世纪时被人们一棵一棵重新种了回来。如今它是地球上城市里面积最大的森林。沿着小径漫步,说不定还能遇见瀑布、吼猴,或是头顶掠过的一抹七彩巨嘴鸟。"
+      },
+      "coords": [-22.9367, -43.2799]
+    }
+  ]
+}

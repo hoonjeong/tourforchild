@@ -1,0 +1,120 @@
+{
+  "id": "niagara",
+  "country": "ca",
+  "coords": [43.0962, -79.0377],
+  "name": { "ko": "나이아가라 폭포", "en": "Niagara Falls", "ja": "ナイアガラの滝", "zh": "尼亚加拉瀑布" },
+  "tagline": {
+    "ko": "1초에 수영장 몇 개 분량의 물이 쏟아지는, 천둥처럼 우렁찬 폭포",
+    "en": "The thundering falls where swimming-pool-loads of water crash down every single second",
+    "ja": "1秒でプール何杯分もの水がとどろき落ちる、雷のような滝",
+    "zh": "每一秒都有好几个游泳池的水轰然而下的雷鸣瀑布"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 캐나다와 미국이 있는 땅은 두꺼운 얼음덩어리, 그러니까 거대한 빙하로 뒤덮여 있었어요. 약 1만 2000년 전 그 얼음이 서서히 녹으면서 어마어마한 양의 물이 흘러내렸고, 그 물길이 '나이아가라강'을 만들었어요. 강물이 흐르다가 땅이 뚝 끊어지는 절벽을 만나자, 물은 그대로 우르릉 쾅쾅 아래로 떨어지기 시작했답니다.",
+      "사실 나이아가라 폭포는 하나가 아니라 세 개예요! 말굽처럼 둥글게 휘어진 가장 큰 '호스슈 폭포'는 캐나다 쪽에 있고, '아메리칸 폭포'와 신부의 면사포처럼 하얗고 얇은 '브라이덜 베일 폭포'는 미국 쪽에 있어요. 이 세 폭포에서 1초마다 올림픽 수영장 몇 개를 가득 채울 만큼 어마어마한 물이 쏟아진답니다.",
+      "옛날 원주민들 사이에는 이런 전설이 전해져요. 천둥의 신을 달래기 위해 카누를 탄 소녀를 폭포 아래로 보냈다는 이야기죠. 그래서 1846년부터 사람들을 태우고 폭포 가까이 다가가는 배에는 '안개 속의 처녀(Maid of the Mist)'라는 이름이 붙었어요. 지금도 그 배를 타면 온몸이 촉촉해질 만큼 가까이서 폭포를 만날 수 있답니다.",
+      "쏟아지는 물은 조금씩 절벽 아래 바위를 갉아먹어서, 폭포는 사실 아주 천천히 뒤로 물러나고 있어요. 그리고 100여 년 전, 발명가 니콜라 테슬라는 이 힘센 물줄기로 전기를 만드는 방법을 알아냈어요. 나이아가라의 물이 도시 전체에 불을 밝히기 시작한 거예요. 자연의 힘이 하룻밤 사이에 미래를 켜버린 셈이죠!"
+    ],
+    "en": [
+      "Long, long ago, the land where Canada and the United States now sit was buried under thick sheets of ice—giant glaciers. About 12,000 years ago, that ice slowly melted, and a huge rush of water carved a new path called the Niagara River. When the river reached a spot where the ground suddenly dropped away, the water had nowhere to go but down, and it began crashing over the edge with a roar.",
+      "Here's a secret: Niagara Falls isn't just one waterfall—it's three! The biggest, curved like a horseshoe, is Horseshoe Falls on the Canadian side. The American Falls and the thin, veil-like Bridal Veil Falls sit on the U.S. side. Together, these three falls dump enough water every single second to fill several Olympic swimming pools.",
+      "Long ago, Indigenous peoples told a legend that a girl was sent over the falls in a canoe to calm the spirit of thunder. That's why, since 1846, the boats that carry visitors right up close to the roaring water have been called the 'Maid of the Mist.' Ride it today, and the spray will still soak you before you even reach the falls!",
+      "All that crashing water slowly wears away the soft rock below, so the falls are actually inching backward, bit by bit, year after year. About a hundred years ago, an inventor named Nikola Tesla figured out how to turn that mighty rush of water into electricity. Niagara's power began lighting up whole cities—nature's own strength switching on the future overnight!"
+    ],
+    "ja": [
+      "はるか昔、今のカナダとアメリカがある土地は、分厚い氷のかたまり——巨大な氷河におおわれていました。今から約1万2000年前、その氷がゆっくりとけて大量の水が流れ出し、その水の道が『ナイアガラ川』になりました。川の水が急に地面が切れ落ちる場所にたどり着くと、行き場を失った水はそのままゴウゴウと音を立てて落ち始めたのです。",
+      "実はナイアガラの滝は一つではなく、三つあるって知っていましたか？馬のひづめのように丸くカーブした一番大きな滝が、カナダ側の『ホースシュー滝』。アメリカ側には『アメリカ滝』と、花嫁のベールのように白く薄い『ブライダルベール滝』があります。この三つの滝から、1秒ごとにオリンピックプール何杯分もの水がとどろき落ちているのです。",
+      "昔、先住民の間にはこんな伝説がありました。雷の神様をなだめるため、カヌーに乗った娘さんが滝の下へ送られたというお話です。だから1846年から、滝のすぐ近くまで人を運ぶ船には『霧の乙女号（メイド・オブ・ザ・ミスト）』という名前がつけられました。今その船に乗ると、滝にたどり着く前から水しぶきでびしょぬれになってしまいます！",
+      "落ちてくる水は少しずつ崖の下の岩をけずるので、滝は実は1年ごとに少しずつ後ろへ下がっているのです。そして今から100年ほど前、発明家ニコラ・テスラが、この力強い水の流れを電気に変える方法を見つけました。ナイアガラの力が街じゅうの明かりをともし始めたのです。自然の力が、たった一晩で未来のスイッチを入れたようなものですね！"
+    ],
+    "zh": [
+      "很久很久以前，如今加拿大和美国所在的这片土地，被厚厚的冰层——巨大的冰川所覆盖。大约一万两千年前，冰川慢慢融化，大量的水冲刷出了一条新的水道，那就是“尼亚加拉河”。当河水流到一处地面突然断裂的地方，水没有别的地方可去，只能轰隆隆地跌落下去。",
+      "告诉你一个小秘密：尼亚加拉瀑布其实不是一条，而是三条！其中最大的一条，形状像马蹄一样弯弯的，叫“马蹄瀑布”，在加拿大一侧；美国一侧则有“美国瀑布”和薄薄的、像新娘头纱一样的“新娘面纱瀑布”。这三条瀑布加起来，每一秒倾泻下来的水，足够装满好几个奥运会游泳池！",
+      "很久以前，当地原住民之间流传着一个传说：为了平息雷神的怒气，人们把一位坐着独木舟的姑娘送到了瀑布下面。所以从1846年起，那艘载着游客靠近轰鸣瀑布的船，就被取名叫“雾中少女号”。今天你要是坐上这艘船，还没到瀑布跟前，水花就已经把你打湿啦！",
+      "不断冲刷的水流，一点点地磨掉悬崖下面的岩石，所以瀑布其实每年都在慢慢向后“退步”。大约一百年前，发明家尼古拉·特斯拉想出了办法，把这股强大的水流变成了电力。尼亚加拉的力量开始点亮整座整座的城市——大自然的力量，一夜之间就打开了未来的开关！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "나이아가라 폭포는 사실 하나가 아니라 세 개예요. 호스슈 폭포(캐나다), 아메리칸 폭포, 브라이덜 베일 폭포(둘 다 미국)랍니다.",
+      "가장 큰 호스슈 폭포에서는 1초마다 올림픽 수영장 여러 개를 채울 만큼의 물이 쏟아져 내려요.",
+      "폭포 이름은 원주민 전설 속 카누 소녀 이야기에서 따온 '안개 속의 처녀(Maid of the Mist)' 배 이름으로도 유명해요. 이 배는 1846년부터 사람들을 태우고 폭포 가까이 다가갔어요.",
+      "1901년, 63세 할머니 애니 에드슨 테일러가 나무통을 타고 폭포 아래로 떨어졌다가 살아남았어요! 이런 도전을 한 첫 사람이었죠.",
+      "쏟아지는 물이 절벽 바위를 조금씩 깎아내서, 폭포는 해마다 아주 조금씩 뒤로 물러나고 있어요.",
+      "100여 년 전 발명가 니콜라 테슬라가 이 폭포의 힘으로 전기를 만드는 발전소를 세워서, 나이아가라의 물이 도시에 불을 밝혔답니다."
+    ],
+    "en": [
+      "Niagara Falls isn't just one waterfall—it's actually three: Horseshoe Falls (Canada), American Falls, and Bridal Veil Falls (both in the U.S.).",
+      "The biggest, Horseshoe Falls, dumps enough water every second to fill several Olympic swimming pools.",
+      "The famous sightseeing boat is named 'Maid of the Mist' after an Indigenous legend about a canoe girl sent over the falls—it's been carrying visitors close to the roar since 1846.",
+      "In 1901, a 63-year-old schoolteacher named Annie Edson Taylor rode over the falls in a wooden barrel—and survived! She was the very first person to try it.",
+      "The crashing water slowly wears away the rock below, so the falls actually creep a little further back every year.",
+      "About a hundred years ago, inventor Nikola Tesla built a power plant that turned the falls' force into electricity, lighting up whole cities with Niagara's power."
+    ],
+    "ja": [
+      "ナイアガラの滝は一つではなく、実は三つあります。カナダ側のホースシュー滝、アメリカ側のアメリカ滝とブライダルベール滝です。",
+      "一番大きなホースシュー滝からは、1秒ごとにオリンピックプール何杯分もの水がとどろき落ちています。",
+      "有名な観光船『メイド・オブ・ザ・ミスト（霧の乙女号）』は、カヌーの娘を滝に送った先住民の伝説にちなんだ名前。1846年から人々を滝の近くまで運んでいます。",
+      "1901年、63歳の女性教師アニー・エドソン・テイラーが木のたるに乗って滝を落ち、生きのびました！これに挑戦した最初の人物です。",
+      "落ちる水が崖の岩を少しずつけずるので、滝は毎年ほんの少しずつ後ろへ下がっています。",
+      "約100年前、発明家ニコラ・テスラが滝の力を電気に変える発電所を建て、ナイアガラの力で街の明かりをともしました。"
+    ],
+    "zh": [
+      "尼亚加拉瀑布其实不是一条，而是三条：加拿大一侧的马蹄瀑布，以及美国一侧的美国瀑布和新娘面纱瀑布。",
+      "最大的马蹄瀑布，每一秒倾泻下来的水，足够装满好几个奥运会游泳池。",
+      "著名的观光船“雾中少女号”，得名于原住民传说中被送去瀑布的独木舟姑娘。自1846年起，它一直载着游客靠近瀑布的轰鸣声。",
+      "1901年，63岁的女教师安妮·埃德森·泰勒坐在一个木桶里冲下瀑布，居然活了下来！她是第一个尝试这么做的人。",
+      "不断冲下的水流慢慢磨蚀着悬崖下的岩石，所以瀑布其实每年都会稍稍向后退一点。",
+      "大约一百年前，发明家尼古拉·特斯拉建起了一座发电站，把瀑布的力量变成电力，尼亚加拉的力量点亮了整座整座的城市。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "63세 할머니가 나무통을 타고 거대한 폭포 아래로 떨어졌는데도 살아남았대. 너라면 그렇게 할 용기가 있을까?",
+    "en": "A 63-year-old grandma once rode a wooden barrel over this giant waterfall—and survived! Would you ever be brave enough to try that?",
+    "ja": "63歳のおばあさんが木のたるに乗って、この大きな滝を落ちても生きのびたんだって。あなたはそんな勇気ある？",
+    "zh": "一位63岁的老奶奶曾经坐着木桶冲下这道巨大的瀑布，居然还活了下来！你有那样的勇气去尝试吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "호스슈 폭포", "en": "Horseshoe Falls", "ja": "ホースシュー滝", "zh": "马蹄瀑布" },
+      "blurb": {
+        "ko": "말굽처럼 둥글게 휘어진, 나이아가라에서 가장 크고 힘센 폭포예요. 물의 90퍼센트 가까이가 이곳으로 쏟아지고, 초록빛 물살이 우렁차게 떨어지는 모습은 보는 순간 입이 떡 벌어진답니다.",
+        "en": "Curved like a horseshoe, this is the biggest and mightiest of the three falls. Nearly 90 percent of all the water rushes over it here, and watching that emerald-green wall of water thunder down will leave you speechless.",
+        "ja": "馬のひづめのように丸くカーブした、ナイアガラで最も大きく力強い滝。水のおよそ9割がここに流れ落ち、エメラルド色の水がとどろき落ちるようすは思わず息をのむほど。",
+        "zh": "形状像马蹄一样弯曲，是尼亚加拉三条瀑布中最大、最强劲的一条。将近九成的水都从这里倾泻而下，翠绿色的水墙轰然坠落，让人看得目瞪口呆。"
+      },
+      "coords": [43.0827, -79.0748]
+    },
+    {
+      "name": { "ko": "메이드 오브 더 미스트 (안개 속의 처녀 유람선)", "en": "Maid of the Mist Boat Tour", "ja": "メイド・オブ・ザ・ミスト（霧の乙女号）", "zh": "雾中少女号观光船" },
+      "blurb": {
+        "ko": "1846년부터 사람들을 태우고 폭포 바로 앞까지 데려다주는 배예요. 파란 우비를 입고 배를 타면, 폭포에서 튀는 물보라를 온몸으로 느낄 수 있답니다. 이름은 원주민 전설 속 소녀 이야기에서 왔어요.",
+        "en": "Since 1846, this boat has been sailing visitors right up to the base of the falls. Everyone gets a blue rain poncho, because you'll feel the spray on your whole body. Its name comes from an Indigenous legend about a canoe girl.",
+        "ja": "1846年から、人々を滝のすぐそばまで運んできた船。青いレインコートを着て乗ると、滝のしぶきを全身で感じられます。名前は先住民の伝説に登場するカヌーの娘から。",
+        "zh": "自1846年起，这艘船就一直载着游客驶到瀑布正前方。乘客都要穿上蓝色雨衣，因为飞溅的水花会打湿你全身。它的名字来自原住民传说中的独木舟姑娘。"
+      },
+      "coords": [43.0855, -79.0713]
+    },
+    {
+      "name": { "ko": "폭포 뒤로 걷기 (저니 비하인드 더 폴스)", "en": "Journey Behind the Falls", "ja": "ジャーニー・ビハインド・ザ・フォールズ（滝の裏側探検）", "zh": "瀑布幕后之旅" },
+      "blurb": {
+        "ko": "엘리베이터를 타고 절벽 속 터널로 내려가면, 쏟아지는 폭포수 바로 뒤에 서게 돼요. 눈앞에서 하얀 물벽이 쿵쿵 떨어지는 소리를 들으면 왜 이 폭포가 천둥 같다고 하는지 알게 된답니다.",
+        "en": "An elevator takes you down into tunnels carved into the cliff, right behind the crashing water. Standing there with a wall of white water pounding just in front of you, you'll finally understand why this place sounds like thunder.",
+        "ja": "エレベーターで崖の中のトンネルへ下りると、落ちる滝のすぐ裏側に立てます。目の前でどんどんと水の壁が落ちる音を聞けば、なぜこの滝が雷のようだと言われるのか分かります。",
+        "zh": "乘电梯下到凿在悬崖里的隧道，你会正好站在飞泻而下的瀑布背后。眼前白色的水墙轰轰作响，你就会明白为什么这里被形容得像打雷一样。"
+      },
+      "coords": [43.0803, -79.0752]
+    },
+    {
+      "name": { "ko": "테이블 록", "en": "Table Rock", "ja": "テーブルロック", "zh": "桌岩观景台" },
+      "blurb": {
+        "ko": "호스슈 폭포 바로 옆, 절벽 끝까지 다가갈 수 있는 전망대예요. 손을 뻗으면 닿을 듯 가까운 거리에서 쏟아지는 물살을 보고 있으면 심장이 두근두근, 무지개가 뜨는 날엔 두 배로 신난답니다.",
+        "en": "A viewing platform right beside Horseshoe Falls, close enough that the falling water feels almost within reach. Your heart will race watching it crash so near—and on sunny days, a rainbow often appears in the mist to double the magic.",
+        "ja": "ホースシュー滝のすぐそば、崖のふちまで近づける展望スポット。手を伸ばせば届きそうな近さで水が落ちるのを見ていると胸がドキドキ。虹がかかる日は嬉しさも二倍に。",
+        "zh": "就在马蹄瀑布旁边，可以一直走到悬崖边缘的观景台。近得仿佛伸手就能碰到飞泻的水流，让人心跳加速；晴天时水雾中常常会出现彩虹，惊喜加倍。"
+      },
+      "coords": [43.0798, -79.0747]
+    }
+  ]
+}

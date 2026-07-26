@@ -1,0 +1,120 @@
+{
+  "id": "krabi",
+  "country": "th",
+  "coords": [8.0863, 98.9063],
+  "name": { "ko": "끄라비", "en": "Krabi", "ja": "クラビ", "zh": "甲米" },
+  "tagline": {
+    "ko": "바다 밑바닥이 통째로 솟아올라 만들어진 거대한 돌기둥의 땅, 끄라비",
+    "en": "Krabi: where the ocean floor turned into giant stone towers",
+    "ja": "海の底がまるごと隆起してできた、巨大な石の塔の国クラビ",
+    "zh": "整片海底隆起而成的巨大石塔之地——甲米"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 사람이 태어나기도 전인 수백만 년 전에는 지금의 끄라비 땅이 온통 바닷속에 잠겨 있었어요. 산호초가 무성하게 자라고, 수많은 작은 바다 생물들이 태어나고 죽으며 바다 밑바닥에 껍데기를 남겼답니다.",
+      "그 껍데기와 산호가 수백만 년 동안 켜켜이 쌓이면서 단단한 석회암 바위가 되었어요. 그러다 땅속 지각이 서서히 밀고 눌러, 그 오래된 바다 밑바닥이 바다 위로 불쑥 솟아올랐죠. 그렇게 만들어진 것이 오늘날 에메랄드빛 바다 위로 삐죽삐죽 솟은 끄라비의 절벽과 돌기둥이에요.",
+      "수백 년 동안 '차오레'라 불리는 바다 유목민들은 나무배를 타고 이 바다를 누비며, 누구보다 파도와 별을 잘 읽었어요. 어부들은 고리 모양 절벽 속에 숨겨진 비밀 호수를 발견했고, 스님들은 정글 산을 올라 절을 지어 지금도 거대한 황금 불상이 이 땅을 내려다보고 있답니다.",
+      "지금도 끄라비의 유명한 라일레이 해변은 오직 배로만 갈 수 있어요. 깎아지른 절벽이 사방을 둘러싸 길이 아예 없거든요. 좁은 바위 틈으로 카약을 타고 들어가면, 비밀의 방처럼 숨겨진 에메랄드빛 호수가 짠! 하고 나타나요. 끄라비는 그냥 해변이 아니라, 바다와 땅이 힘을 합쳐 만든 신기한 마법 같은 곳이랍니다."
+    ],
+    "en": [
+      "Long, long ago—many millions of years before people existed—the land we now call Krabi was hiding under the sea. Coral reefs grew thick and busy, and countless tiny sea creatures lived and died there, leaving their shells behind on the seafloor.",
+      "Over millions and millions of years, those shells and coral piled up and turned into solid limestone rock. Then the earth's crust slowly pushed and squeezed, and that ancient seabed rose right out of the ocean—twisting into the dramatic cliffs and towers that stick straight up from Krabi's turquoise water today.",
+      "For hundreds of years, sea nomads called the Chao Leh sailed these waters in wooden boats, reading the tides and stars better than anyone. Fishermen found secret lagoons hidden inside ring-shaped cliffs, and monks climbed a jungle mountain to build a temple where a giant golden Buddha now watches over the land.",
+      "Today, you can only reach Krabi's famous Railay Beach by boat, because sheer cliffs wall off any road. Kayak through a narrow gap in the rock and a hidden turquoise lagoon opens up like a secret room. Krabi isn't just a beach—it's proof that the sea and the earth can team up to build something wonderfully strange."
+    ],
+    "ja": [
+      "はるか昔、人間がまだ生まれる前、何百万年も前のこと。今のクラビの土地はすっぽり海の中にありました。サンゴ礁が生い茂り、たくさんの小さな海の生き物たちが生まれては死んで、海の底に貝がらを残していったのです。",
+      "その貝がらやサンゴが何百万年もかけて積み重なり、かたい石灰岩になりました。やがて地球の地殻がゆっくりと押し上げ、その古い海底がぐいっと海の上へせり出したのです。そうしてできたのが、今のエメラルド色の海からとがって突き出す、クラビの断崖と石の塔なんですね。",
+      "何百年もの間、『チャオレー』と呼ばれる海の遊牧民たちが木の船でこの海をわたり、誰よりも波と星を読んでいました。漁師たちは輪っか状の崖の中に隠れた秘密の湖を見つけ、お坊さんたちはジャングルの山を登ってお寺を建て、今も巨大な金色の仏さまがこの土地を見守っています。",
+      "今でもクラビの有名なライレイ・ビーチには、船でしか行けません。切り立った崖が四方をふさいでいて、道がまったくないからです。せまい岩のすきまをカヤックでこぎ進むと、秘密の部屋のように隠されたエメラルド色の湖がぱっと現れます。クラビはただのビーチではなく、海と大地が力を合わせて作り上げた、不思議で素敵な魔法の場所なのです。"
+    ],
+    "zh": [
+      "很久很久以前，在人类出现之前的几百万年前，如今甲米这片土地整个都还沉在海底。茂密的珊瑚礁在这里生长，无数微小的海洋生物在这里出生又死去，把贝壳留在了海底。",
+      "这些贝壳和珊瑚经过几百万年层层堆积，变成了坚硬的石灰岩。后来，地壳慢慢挤压、抬升，把这片古老的海底整个顶出了海面——就这样形成了今天从翡翠色海水中拔地而起的甲米峭壁和石塔。",
+      "几百年来，被称为“查奥雷”的海上游牧民族一直乘着木船在这片海域穿行，比谁都懂得读懂潮汐与星辰。渔民们在环形峭壁中发现了隐秘的湖泊，僧侣们则爬上丛林中的山头建起寺庙，如今一尊巨大的金色佛像依然俯瞰着这片土地。",
+      "今天，甲米著名的莱利海滩仍然只能坐船抵达，因为陡峭的悬崖把所有道路都挡在了外面。划着皮划艇穿过狭窄的岩缝，一片藏在其中的翡翠色湖泊会像秘密房间一样忽然出现在眼前。甲米不只是一片海滩，它更像是大海和大地联手创造出的一处奇妙魔法之地。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "끄라비의 뾰족한 돌기둥들은 수천만 년 전 산호와 조개껍데기가 쌓여 만들어진 석회암이 바다 밑에서 솟아오른 거예요.",
+      "라일레이 해변은 사방이 절벽이라 길이 하나도 없어요. 오직 배를 타야만 들어갈 수 있답니다.",
+      "홍 섬에는 고리 모양 절벽 속에 숨겨진 호수가 있어요. 좁은 바위 틈으로 카약을 저어야만 들어갈 수 있죠. '홍'은 태국어로 '방'이라는 뜻이에요.",
+      "에메랄드 풀은 정글 한가운데 숨어 있는 청록색 연못이에요. 따뜻한 광천수가 바닥에서 솟아나 물빛이 반짝반짝 빛난답니다.",
+      "호랑이 동굴 사원(왓 탐 수아)은 1,237개 계단을 올라야 꼭대기의 황금 불상을 만날 수 있어요. 동굴 안엔 호랑이 발자국 모양 바위도 있대요.",
+      "'차오레'라는 바다 유목민들은 여러 세대 동안 배와 수상 마을에서 살아왔어요. 물속에서 숨을 오래 참고 헤엄치는 데 정말 뛰어나답니다."
+    ],
+    "en": [
+      "Krabi's pointy stone towers are limestone made from coral and seashells piled up tens of millions of years ago, then pushed up from the seafloor.",
+      "Railay Beach has cliffs on every side and no road at all—the only way in is by boat.",
+      "Hong Island hides a lagoon inside a ring of cliffs. You can only reach it by kayaking through a narrow rock gap—'Hong' means 'room' in Thai.",
+      "The Emerald Pool is a blue-green pond hidden in the middle of the jungle, kept sparkling by warm mineral spring water bubbling up from below.",
+      "At Tiger Cave Temple (Wat Tham Suea), you must climb 1,237 steps to meet the golden Buddha on top—and the cave below has a rock said to bear a tiger's paw print.",
+      "Sea nomads called the Chao Leh have lived on boats and in stilt villages for generations, and they're amazing at holding their breath and swimming."
+    ],
+    "ja": [
+      "クラビのとがった石の塔は、大昔のサンゴや貝がらが積み重なってできた石灰岩が、海の底からせり上がったものです。",
+      "ライレイ・ビーチは四方が崖で道が一つもありません。船でしか行けないビーチなんです。",
+      "ホン島には、輪っか状の崖の中に隠れた湖があります。せまい岩のすきまをカヤックでこがないと入れません。『ホン』はタイ語で『部屋』という意味です。",
+      "エメラルド・プールはジャングルの真ん中に隠れた青緑色の池です。地面から温かいミネラル水がわき出て、いつもきらきら輝いています。",
+      "タイガーケイブ寺院(ワット・タムスア)は、1,237段の階段をのぼった先に金色の大仏さまが待っています。洞くつの中には虎の足あとの形をした岩もあるそうです。",
+      "『チャオレー』と呼ばれる海の遊牧民は、何世代もの間、船や水上の村で暮らしてきました。息を長く止めて泳ぐのがとても得意なんです。"
+    ],
+    "zh": [
+      "甲米那些尖尖的石塔，是几千万年前珊瑚和贝壳一层层堆积形成的石灰岩，从海底隆起而成的。",
+      "莱利海滩四周都是悬崖，完全没有陆路可通，只能坐船才能到达。",
+      "洪岛里藏着一片被环形悬崖围住的湖泊，要划皮划艇穿过狭窄的岩缝才能进去。‘洪’在泰语里就是‘房间’的意思。",
+      "翡翠池藏在丛林深处，是一潭青绿色的池水，地下涌出的温热矿泉水让水色总是闪闪发亮。",
+      "老虎洞寺（湾他姆苏寺）要爬1237级台阶才能见到山顶的金色大佛，洞里还有一块据说是老虎留下爪印的岩石。",
+      "被称为“查奥雷”的海上游牧民族世世代代生活在船上和水上村落里，潜水和游泳的本领非常了不起。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "라일레이 해변은 절벽이 너무 가팔라서 길이 하나도 없대요. 배를 타야만 갈 수 있는 해변이라니, 상상이 가?",
+    "en": "The cliffs at Railay Beach are so steep there's no road at all—only boats can get you there. Can you imagine a beach like that?",
+    "ja": "ライレイ・ビーチは崖がとても急で、道が一本もないんだって。船でしか行けないビーチなんて、想像できる？",
+    "zh": "莱利海滩四周悬崖太陡，居然一条路都没有，只能坐船才能到——你能想象这样的海滩吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "라일레이 해변", "en": "Railay Beach", "ja": "ライレイ・ビーチ", "zh": "莱利海滩" },
+      "blurb": {
+        "ko": "깎아지른 절벽에 둘러싸여 길이 없는 해변이에요. 세계 곳곳에서 암벽 등반가들이 모여들어 절벽을 타고 오른답니다. 배를 타고 들어가야만 만날 수 있는 곳이죠.",
+        "en": "A beach ringed by sheer limestone cliffs with no road in or out. Rock climbers travel from all over the world to scale these walls. The only way in is by boat.",
+        "ja": "切り立った崖に囲まれ、道が一つもないビーチです。世界中からロッククライマーが集まり、崖をよじ登ります。船でしかたどり着けない場所なんです。",
+        "zh": "四周被陡峭悬崖包围、没有一条道路的海滩。世界各地的攀岩爱好者都会聚集到这里挑战悬崖。只能坐船才能抵达。"
+      },
+      "coords": [8.0114, 98.8372]
+    },
+    {
+      "name": { "ko": "홍 섬", "en": "Hong Island", "ja": "ホン島", "zh": "洪岛" },
+      "blurb": {
+        "ko": "고리 모양 절벽 한가운데 에메랄드빛 호수가 숨어 있어요. 좁은 바위 틈으로 카약을 저어 들어가면 마치 비밀의 방에 들어가는 기분이랍니다.",
+        "en": "A hidden emerald lagoon sits inside a ring of cliffs. Paddle a kayak through a narrow rock gap to reach it, and it feels like slipping into a secret room.",
+        "ja": "輪っか状の崖の真ん中に、エメラルド色の湖が隠れています。せまい岩のすきまをカヤックでこいで入ると、まるで秘密の部屋に入るような気分になりますよ。",
+        "zh": "环形悬崖中央藏着一片翡翠色的湖泊。划皮划艇穿过狭窄的岩缝进去，感觉就像走进了一间秘密的房间。"
+      },
+      "coords": [8.15, 98.7333]
+    },
+    {
+      "name": { "ko": "에메랄드 풀 (사모라꼿)", "en": "Emerald Pool (Sa Morakot)", "ja": "エメラルド・プール（サモラコット）", "zh": "翡翠池（沙莫拉果）" },
+      "blurb": {
+        "ko": "정글 깊숙이 숨어 있는 청록색 연못이에요. 땅속에서 따뜻한 광천수가 솟아올라 늘 반짝반짝 빛나는 물빛을 만들어낸답니다.",
+        "en": "A glowing blue-green pool hidden deep in the jungle. Warm mineral spring water bubbles up from below, keeping the water sparkling all year round.",
+        "ja": "ジャングルの奥深くに隠れた青緑色の池です。地面から温かいミネラル水がわき上がり、いつもきらきら輝く水の色を作り出しています。",
+        "zh": "藏在丛林深处的青绿色池水。地下涌出的温热矿泉水让水色始终闪闪发亮。"
+      },
+      "coords": [8.098, 99.099]
+    },
+    {
+      "name": { "ko": "호랑이 동굴 사원 (왓 탐 수아)", "en": "Tiger Cave Temple (Wat Tham Suea)", "ja": "タイガーケイブ寺院（ワット・タムスア）", "zh": "老虎洞寺（湾他姆苏寺）" },
+      "blurb": {
+        "ko": "1,237개의 계단을 올라야 꼭대기에서 만날 수 있는 거대한 황금 불상이 있어요. 동굴 안에는 옛날 호랑이가 남겼다는 발자국 모양 바위도 있대요.",
+        "en": "Climb 1,237 steps to reach a giant golden Buddha at the top. Inside the cave below, there's a rock said to bear the print of a tiger's paw.",
+        "ja": "1,237段の階段をのぼった先に、巨大な金色の大仏さまが待っています。洞くつの中には、昔トラが残したと言われる足あとの形をした岩もあるそうです。",
+        "zh": "要爬1237级台阶才能见到山顶巨大的金色佛像。洞穴里还有一块据说是老虎留下爪印痕迹的岩石。"
+      },
+      "coords": [8.1258, 98.9515]
+    }
+  ]
+}

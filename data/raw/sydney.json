@@ -1,0 +1,120 @@
+{
+  "id": "sydney",
+  "country": "au",
+  "coords": [-33.8688, 151.2093],
+  "name": { "ko": "시드니", "en": "Sydney", "ja": "シドニー", "zh": "悉尼" },
+  "tagline": {
+    "ko": "조개껍데기 지붕과 거대한 다리가 반짝이는, 세상에서 가장 아름다운 항구 도시",
+    "en": "The shell-roofed, bridge-topped city wrapped around the world's most beautiful harbour",
+    "ja": "貝がらの屋根と大きな橋がきらめく、世界一美しい港町",
+    "zh": "贝壳屋顶与巨桥交相辉映,拥抱着世界最美海港的城市"
+  },
+  "story": {
+    "ko": [
+      "지금으로부터 아주 먼 옛날, 오늘날 시드니가 있는 반짝이는 만(灣) 주변에는 '가디갈(Gadigal)' 사람들이 살고 있었어요. 이들은 무려 6만 5000년이 넘도록 이 바다에서 물고기를 잡고, 노래하고, 이야기를 전하며 살아온, 지구에서 가장 오래된 문화를 가진 사람들 중 하나랍니다.",
+      "그러다 1788년, 저 멀리 영국에서 커다란 배들이 이 항구로 들어왔어요. 사람들은 오늘날 '더 록스'라고 불리는 바닷가에 처음으로 마을을 세웠고, 이 작은 마을이 훗날 거대한 도시 시드니로 자라나게 되었답니다.",
+      "도시는 항구를 빙 둘러싸며 점점 커졌어요. 1932년에는 항구 양쪽을 잇는 커다란 강철 다리가 완성됐는데, 모양이 꼭 옷걸이처럼 생겨서 사람들은 '코트행어(옷걸이)'라는 별명을 붙여줬어요. 그리고 몇십 년 뒤, 덴마크의 건축가가 그린 조개껍데기 모양의 설계도가 전 세계 공모전에서 뽑히면서, 무려 14년에 걸쳐 오페라 하우스가 지어졌답니다.",
+      "오늘날 시드니에서는 페리가 파란 바닷물을 가르며 씽씽 달리고, 오페라 하우스의 하얀 지붕이 햇빛에 반짝여요. 도심에서 조금만 나가면 코알라와 캥거루도 만날 수 있고, 본다이 해변에서는 서퍼들이 파도를 타죠. 자연과 도시가 이렇게 신나게 뒤섞인 곳은 흔치 않답니다."
+    ],
+    "en": [
+      "Long, long before Sydney had a single building, the Gadigal people lived all around this sparkling harbour. They fished, sang, and passed down stories here for more than 65,000 years—making theirs one of the oldest living cultures on Earth.",
+      "Then, in 1788, tall ships arrived from far-away Britain. The newcomers built their first tiny settlement on the shore now called The Rocks, and that little settlement slowly grew into the giant city of Sydney.",
+      "The city spread out around the glittering harbour, and in 1932 a huge steel bridge was finished, joining both shores. Its curved shape reminded people of a coathanger, so that's exactly what they started calling it. Decades later, a Danish architect's sail-shaped design won a worldwide competition, and after 14 long years of building, the Sydney Opera House rose beside the water.",
+      "Today, ferries zip across the blue harbour, and the Opera House's white roof gleams in the sun. Just outside the city you can spot koalas and kangaroos, while surfers ride the waves at Bondi Beach. Not many places mix wild nature and big-city sparkle quite like this."
+    ],
+    "ja": [
+      "シドニーにまだ一つの建物もなかったはるか昔、このきらめく入り江のまわりには『ガディガル』の人々がくらしていました。魚をとり、歌をうたい、物語を語りついで6万5000年以上——地球でもっとも古い文化のひとつです。",
+      "そして1788年、遠いイギリスから大きな帆船がやってきました。人々は今『ザ・ロックス』と呼ばれる海辺に小さな町をつくり、その小さな町が少しずつ大きくなって、今の巨大都市シドニーになったのです。",
+      "街はきらめく港をぐるりと囲むように広がっていきました。1932年には港の両岸をつなぐ大きな鋼鉄の橋が完成し、その形がハンガーに似ていることから『コートハンガー』というニックネームがつきました。それから数十年後、デンマークの建築家がえがいた貝がらのような設計図が世界コンペで選ばれ、14年もの年月をかけてシドニー・オペラハウスが海辺に建てられました。",
+      "今日のシドニーでは、フェリーが青い海をすいすい走り、オペラハウスの白い屋根が太陽にきらめきます。街のすぐ外にはコアラやカンガルーがいて、ボンダイ・ビーチではサーファーが波に乗っています。こんなふうに自然と都会がいっしょくたに楽しめる街は、そう多くありません。"
+    ],
+    "zh": [
+      "很久很久以前,在悉尼还没有一栋建筑的时候,这片波光粼粼的海湾周围就住着“加迪加尔”人。他们在这里捕鱼、歌唱、代代相传故事,已经超过六万五千年——这是地球上最古老的文化之一。",
+      "到了1788年,大帆船从遥远的英国驶来。新来的人们在如今被称为“岩石区”的海边建起了第一个小小的居住点,而这个小村落后来慢慢长成了如今巨大的悉尼城。",
+      "城市围着波光闪闪的海港不断扩大。1932年,一座连接两岸的巨大钢铁大桥落成,因为形状很像一个挂衣架,人们干脆叫它“大衣架”。几十年后,一位丹麦建筑师设计的贝壳形建筑赢得了全球设计比赛,历时14年建成,这就是悉尼歌剧院。",
+      "如今的悉尼,渡轮在蔚蓝的海面上快速穿梭,歌剧院洁白的屋顶在阳光下闪闪发亮。走出市区不远就能遇见考拉和袋鼠,邦迪海滩上冲浪者踏浪飞驰。像这样把野生自然和城市繁华混在一起的地方,可不多见。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "오페라 하우스 지붕은 백만 개가 넘는 세라믹 타일로 덮여 있어서, 햇빛을 받으면 물고기 비늘처럼 반짝여요.",
+      "이 조개껍데기 모양 설계도는 덴마크 건축가 예른 웃손이 전 세계 공모전에 응모해서 뽑힌 작품이랍니다.",
+      "하버 브리지는 옷걸이를 닮았다고 해서 '코트행어'라는 별명이 붙었고, 지금도 다리 꼭대기까지 직접 걸어 올라가 볼 수 있어요!",
+      "가디갈 사람들을 비롯한 원주민들은 6만 5000년이 넘도록 이 항구 곁에서 살아왔어요. 지구에서 가장 오래 이어진 문화 중 하나예요.",
+      "시드니 항구는 세계에서 손꼽히게 큰 자연 항구예요. 그래서 페리가 버스처럼 사람들을 실어 나른답니다.",
+      "본다이 해변이라는 이름은 원주민 말로 '바위에 부딪히는 파도 소리'라는 뜻이에요. 가끔 해변 앞바다로 고래가 헤엄쳐 지나가기도 해요!"
+    ],
+    "en": [
+      "The Opera House roof is covered with over a million ceramic tiles, so it sparkles like fish scales in the sunlight.",
+      "That shell-shaped design was drawn by a Danish architect named Jørn Utzon, who won a worldwide design competition to build it.",
+      "The Harbour Bridge got its nickname 'The Coathanger' because of its curved shape—and you can still climb all the way to the very top of it today!",
+      "The Gadigal people and other Aboriginal groups have lived by this harbour for more than 65,000 years, making it one of the oldest continuous cultures on Earth.",
+      "Sydney Harbour is one of the largest natural harbours in the world, so ferries zip around it like water buses.",
+      "The name Bondi comes from an Aboriginal word meaning 'water breaking over rocks'—and sometimes whales swim right past the beach!"
+    ],
+    "ja": [
+      "オペラハウスの屋根は100万枚以上のセラミックタイルでおおわれていて、太陽の光を受けると魚のうろこのようにきらきら光ります。",
+      "貝がらのようなこのデザインは、デンマークの建築家ヨーン・ウツソンがえがいたもので、世界規模のコンペで選ばれました。",
+      "ハーバーブリッジはその曲がった形からハンガーに見えるので『コートハンガー』と呼ばれ、今でも橋のてっぺんまで実際に歩いて登ることができます!",
+      "ガディガルの人々をはじめとする先住民たちは、6万5000年以上もこの港のそばで暮らしてきました。地球で最も長く続く文化のひとつです。",
+      "シドニー港は世界でも有数の大きな天然の港で、フェリーがまるでバスのように行き来しています。",
+      "『ボンダイ』という名前は先住民の言葉で『岩に打ちつける波』という意味。ときどきビーチのすぐ沖をクジラが泳いでいくこともあるんですよ!"
+    ],
+    "zh": [
+      "歌剧院的屋顶铺着超过一百万片陶瓷瓦片,阳光一照,就像鱼鳞一样闪闪发光。",
+      "这个贝壳造型的设计出自丹麦建筑师约恩·乌松之手,他凭这份设计赢得了全球性的设计大赛。",
+      "海港大桥因为弯曲的形状很像衣架,所以被称为“大衣架”,如今游客还能真的沿着桥爬到最顶端!",
+      "加迪加尔人等原住民族群已经在这片海港边生活了超过六万五千年,是地球上延续时间最长的文化之一。",
+      "悉尼港是世界上最大的天然海港之一,渡轮就像水上巴士一样在港湾里穿梭往来。",
+      "“邦迪”这个名字在原住民语言中意为“撞击岩石的浪花”,有时候鲸鱼还会游过海滩不远处呢!"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "'코트행어'라는 별명이 붙은 거대한 다리 꼭대기까지 직접 걸어 올라갈 수 있대. 너라면 그 높은 곳에 올라가 볼 용기가 있을까?",
+    "en": "You can actually climb all the way to the top of a giant bridge nicknamed 'The Coathanger'—would you be brave enough to go up that high?",
+    "ja": "『コートハンガー』というあだ名のついた巨大な橋のてっぺんまで、実際に歩いて登れるんだって。あなたはそんな高いところまで登る勇気ある?",
+    "zh": "据说人们真的可以爬到那座绰号“大衣架”的巨桥顶端哦——你敢爬上那么高的地方吗?"
+  },
+  "places": [
+    {
+      "name": { "ko": "시드니 오페라 하우스", "en": "Sydney Opera House", "ja": "シドニー・オペラハウス", "zh": "悉尼歌剧院" },
+      "blurb": {
+        "ko": "커다란 조개껍데기, 혹은 배의 하얀 돛처럼 생긴 지붕이 항구 위에 우뚝 서 있어요. 덴마크 건축가가 그린 설계도가 전 세계 공모전에서 뽑혀, 14년에 걸쳐 지어졌답니다.",
+        "en": "Its roof looks like giant seashells, or a ship's white sails, rising right over the harbour. A Danish architect's design won a worldwide contest, and it took 14 years to build.",
+        "ja": "巨大な貝がら、あるいは船の白い帆のような屋根が、港の上にそびえ立っています。デンマークの建築家の設計が世界コンペで選ばれ、完成まで14年もかかりました。",
+        "zh": "它的屋顶像巨大的贝壳,又像船的白帆,矗立在海港之上。一位丹麦建筑师的设计赢得了全球比赛,历时14年才建成。"
+      },
+      "coords": [-33.8568, 151.2153]
+    },
+    {
+      "name": { "ko": "시드니 하버 브리지", "en": "Sydney Harbour Bridge", "ja": "シドニー・ハーバーブリッジ", "zh": "悉尼海港大桥" },
+      "blurb": {
+        "ko": "옷걸이를 닮았다고 해서 '코트행어'라는 별명이 붙은 커다란 강철 다리예요. 1932년에 완성됐고, 지금도 사람들이 직접 걸어서 다리 꼭대기까지 올라갈 수 있답니다.",
+        "en": "A huge steel bridge nicknamed 'The Coathanger' because of its curved shape. It was finished in 1932, and people can still climb all the way up to its very top today.",
+        "ja": "曲がった形がハンガーに似ていることから『コートハンガー』と呼ばれる巨大な鋼鉄の橋。1932年に完成し、今も橋のてっぺんまで歩いて登ることができます。",
+        "zh": "这座巨大的钢铁桥因弯曲的形状像衣架而被称为“大衣架”。它建成于1932年,如今人们仍可以徒步爬到桥的最顶端。"
+      },
+      "coords": [-33.8523, 151.2108]
+    },
+    {
+      "name": { "ko": "본다이 해변", "en": "Bondi Beach", "ja": "ボンダイ・ビーチ", "zh": "邦迪海滩" },
+      "blurb": {
+        "ko": "황금빛 모래와 파란 파도가 도시 바로 곁에 펼쳐진 유명한 해변이에요. 서퍼들이 파도를 타고, 가끔은 저 멀리서 고래가 헤엄쳐 지나가는 모습도 볼 수 있어요.",
+        "en": "A famous stretch of golden sand and blue waves, right at the edge of the city. Surfers ride the swells here, and sometimes you can spot whales swimming by in the distance.",
+        "ja": "金色の砂浜と青い波が街のすぐそばに広がる有名なビーチ。サーファーが波に乗り、遠くにクジラが泳いでいくのが見えることもあります。",
+        "zh": "金色的沙滩与蔚蓝的海浪就在城市边缘绵延展开,是一处名滩。冲浪者在这里踏浪而行,有时还能望见远处鲸鱼游过。"
+      },
+      "coords": [-33.8908, 151.2743]
+    },
+    {
+      "name": { "ko": "더 록스", "en": "The Rocks", "ja": "ザ・ロックス", "zh": "岩石区" },
+      "blurb": {
+        "ko": "1788년, 시드니가 처음 시작된 바로 그 바닷가 동네예요. 지금도 옛날식 돌집과 좁은 골목길이 그대로 남아 있어서, 시드니가 아주 작은 마을이었던 시절을 느낄 수 있어요.",
+        "en": "This harbourside neighbourhood is where Sydney's very first tiny settlement began in 1788. Old stone buildings and narrow lanes still stand here, letting you feel what Sydney was like when it was just a small town.",
+        "ja": "1788年、シドニー最初の小さな入植地がここから始まりました。古い石造りの建物や細い路地が今も残っていて、シドニーがまだ小さな町だった頃を感じられます。",
+        "zh": "1788年,悉尼最早的小小定居点就从这片海边街区开始。这里至今保留着古老的石屋和狭窄的小巷,让人感受到悉尼还是个小村庄时的模样。"
+      },
+      "coords": [-33.8599, 151.2090]
+    }
+  ]
+}

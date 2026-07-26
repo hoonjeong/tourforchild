@@ -1,0 +1,120 @@
+{
+  "id": "beijing",
+  "country": "cn",
+  "coords": [39.9042, 116.4074],
+  "name": { "ko": "베이징", "en": "Beijing", "ja": "北京（ペキン）", "zh": "北京" },
+  "tagline": {
+    "ko": "하늘의 아들이라 불린 황제가 살던 성, 끝없이 이어지는 돌 용 같은 성벽이 지켜주었어요",
+    "en": "The walled city where emperors lived like Sons of Heaven, guarded by a stone dragon of a wall that never ends",
+    "ja": "『天の子』と呼ばれた皇帝が暮らした城を、どこまでも続く石の龍のような城壁が守っていました",
+    "zh": "被称为“天子”的皇帝住在这里，一条望不到头的石龙般的城墙守护着整座都城"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 베이징은 500년 넘게 중국 황제들이 다스리던 수도였어요. 도시 한가운데에는 '자금성'이라는 어마어마하게 큰 궁궐이 있었죠. 담장이 얼마나 높고 문지기가 얼마나 삼엄했는지, 평범한 사람들은 그 안에 발을 들일 수조차 없었대요. '하늘의 아들'이라 불리던 황제와 그 가족, 신하들만이 붉은 담장 안에서 살 수 있었답니다.",
+      "여기 아주 재미있는 전설이 있어요. 자금성에는 정확히 9999칸 반의 방이 있다고 해요. 왜 딱 만 개가 아니냐고요? 옛 중국 사람들은 하늘의 옥황상제님 궁궐만이 완전한 만 칸을 가질 수 있다고 믿었거든요. 그래서 땅 위 황제의 집은 겸손하게 반 칸을 덜어냈다는 거예요. 지붕마다 황금빛 용이 구불구불 감겨 있고, 기와는 오직 황제만 쓸 수 있는 특별한 노란빛으로 반짝였답니다.",
+      "그런데 베이징에는 또 다른 놀라운 볼거리가 숨어 있어요. 도시 북쪽으로 가면, 산등성이를 따라 끝없이 구불구불 이어지는 거대한 돌 성벽이 있거든요. 여러 왕조의 황제들이 2000년 넘게 이 성벽을 쌓고 또 고쳐 쌓으며 외적으로부터 나라를 지켰어요. 어떤 구간은 일꾼들이 찹쌀풀을 반죽에 섞어 더 단단하게 만들었는데, 그 덕분에 지금까지도 튼튼하게 서 있답니다!",
+      "오늘날 자금성은 '고궁박물원'이라는 박물관이 되어, 예전엔 누구도 들어가지 못했던 문을 이제는 전 세계 어린이들도 마음껏 지나다닐 수 있어요. 북쪽으로 조금만 가면 만리장성에 직접 올라가, 마치 잠든 돌 용처럼 산등성이를 타고 넘어가는 성벽을 볼 수 있고요. 그 위에 서면 천 년의 역사가 발밑에서 스멀스멀 피어오르는 걸 느낄 수 있답니다."
+    ],
+    "en": [
+      "Long ago, Beijing was the beating capital of Chinese emperors for more than five hundred years. Right in the very center of the city stood an enormous palace called the Forbidden City. Its walls were so tall and its gates so heavily guarded that ordinary people were never, ever allowed inside. Only the emperor—called the 'Son of Heaven'—and his family and servants could live and walk within those red walls.",
+      "Here's a wonderful legend: the Forbidden City is said to have exactly 9,999 and a half rooms. Why not a nice round 10,000? Because in old Chinese belief, only the Jade Emperor's palace in heaven could have a full 10,000 rooms—so the earthly emperor's home had to be just a little smaller, out of respect. Golden dragons curled along the rooftops, and every roof tile gleamed a special yellow, a color only the emperor was allowed to use.",
+      "But Beijing hides another jaw-dropping wonder just north of the city: a colossal stone wall that snakes over mountain after mountain, farther than the eye can see. Emperors and kings kept building and rebuilding this wall for more than two thousand years to guard their land from invaders. Workers even mixed sticky rice into the mortar to make some sections stronger—and it worked so well those walls are still standing today!",
+      "Today, the Forbidden City has become the Palace Museum, and any kid in the world can walk through gates that once turned everyone away. A short trip north, you can climb the Great Wall yourself, watching it curl over the hilltops like a sleeping stone dragon. Standing there, you can almost feel a thousand years of history rising up around you."
+    ],
+    "ja": [
+      "はるか昔、北京は500年以上にわたって中国の皇帝たちが治めた都でした。街のまん中には『紫禁城』という、とてつもなく大きな宮殿がありました。塀はとても高く、門の見張りもとても厳しかったので、ふつうの人々はその中に足を踏み入れることさえできなかったそうです。『天の子』と呼ばれた皇帝とその家族、家来たちだけが、赤い塀の中で暮らせたのです。",
+      "ここにとても面白い伝説があります。紫禁城には、ちょうど9999部屋半あると言われているのです。どうしてきりのいい1万部屋じゃないのでしょう？昔の中国の人々は、天にいる玉皇大帝の宮殿だけが完全な1万部屋を持てると信じていました。だから地上の皇帝の家は、へりくだって半部屋だけ少なくしたというのです。屋根にはきらめく金色の龍がくねくねと巻きつき、瓦は皇帝だけが使える特別な黄色に輝いていました。",
+      "でも北京には、もう一つ驚くべき見どころが隠れています。街の北に行くと、山の尾根づたいにどこまでも続く、巨大な石の城壁があるのです。いくつもの王朝の皇帝たちが2000年以上もこの壁を築き、直し続け、外から攻めてくる敵から国を守りました。ある区間では、職人がもち米ののりを漆喰に混ぜてより丈夫にしたそうで、そのおかげで今でもしっかりと立っているのです！",
+      "今、紫禁城は『故宮博物院』という博物館になり、昔は誰も入れなかった門を、今では世界中の子どもたちが自由にくぐれます。北へ少し行けば、万里の長城に自分の足で登り、まるで眠れる石の龍のように山の尾根を越えていく城壁を見ることができます。その上に立つと、千年の歴史が足もとからじわりと立ちのぼってくるのを感じられますよ。"
+    ],
+    "zh": [
+      "很久很久以前，北京曾是中国皇帝们统治了五百多年的都城。城市正中央，矗立着一座无比宏伟的宫殿，叫做“紫禁城”。城墙高耸，守卫森严，普通百姓根本无法踏入半步。只有被称为“天子”的皇帝，还有他的家人和臣仆，才能住在这红墙之内。",
+      "这里有一个非常有趣的传说：紫禁城据说正好有九千九百九十九间半房子。为什么不是整整一万间呢？因为古代中国人相信，只有天上玉皇大帝的宫殿才能拥有满满一万间房，于是人间皇帝的家就谦逊地少了半间。屋顶上金色的巨龙盘绕蜿蜒，瓦片闪耀着只有皇帝才能使用的特别黄色。",
+      "不过，北京还藏着另一个令人惊叹的奇观。往城市北边走，可以看到一座巨大的石砌城墙，沿着山脊蜿蜒起伏，一眼望不到尽头。历代皇帝花了两千多年不断修筑、加固这道城墙，用来抵挡外敌入侵。有些地段的工匠甚至把糯米浆拌进灰浆里，让城墙更加坚固——效果好到今天这些墙体依然屹立不倒！",
+      "如今，紫禁城已变成“故宫博物院”，曾经谁都不能踏入的大门，现在全世界的小朋友都可以自由穿行。往北走一小段路，你就能亲自爬上万里长城，看着它像一条沉睡的石龙，翻山越岭，蜿蜒而去。站在城墙上，你几乎能感受到千年的历史正从脚下缓缓升起。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "전설에 따르면 자금성에는 정확히 9999칸 반의 방이 있대요. 하늘의 궁궐인 만 칸보다 딱 반 칸이 모자란 거죠!",
+      "거의 500년 동안 평범한 사람은 자금성 안에 발을 들일 수 없었어요. 그래서 이름도 '금지된 성', 자금성이 되었답니다.",
+      "만리장성 일부 구간은 찹쌀풀을 반죽에 섞어 쌓았는데, 그 덕분에 천 년 넘게 튼튼하게 버티고 있어요.",
+      "곁가지까지 다 이으면 만리장성 길이는 2만 1000킬로미터가 넘어요. 지구를 반 바퀴 감을 수 있는 길이랍니다.",
+      "황금빛 노란 기와는 오직 황제만 쓸 수 있었어요. 태양을 닮은 색이었거든요.",
+      "천단의 기년전은 못을 단 하나도 쓰지 않고, 나무 조각들을 퍼즐처럼 짜 맞춰 지었대요."
+    ],
+    "en": [
+      "Legend says the Forbidden City has exactly 9,999 and a half rooms—just half a room short of heaven's full 10,000!",
+      "For nearly 500 years, ordinary people were forbidden from ever stepping inside the palace—that's exactly how it got the name 'Forbidden City.'",
+      "Workers mixed sticky rice into the mortar of some Great Wall sections, making it strong enough to last over a thousand years.",
+      "Stretched out with all its branches, the Great Wall totals more than 21,000 kilometers—long enough to wrap halfway around the Earth.",
+      "Only the emperor was allowed to use golden-yellow roof tiles—the color of the sun itself.",
+      "The Temple of Heaven's main hall was built without using a single nail—just wood pieces fitted together like a giant puzzle."
+    ],
+    "ja": [
+      "伝説によると、紫禁城にはちょうど9999部屋半あるそうです。天の宮殿の1万部屋に、たった半部屋だけ足りないのです！",
+      "およそ500年間、ふつうの人は紫禁城の中に入ることができませんでした。だから『禁じられた城』、紫禁城という名前になったのです。",
+      "万里の長城の一部の区間では、もち米ののりを漆喰に混ぜて築いたので、千年以上たった今も頑丈に残っています。",
+      "枝分かれした部分まで合わせると、万里の長城は2万1000キロ以上。地球を半周できるほどの長さです。",
+      "きらめく黄色い瓦は皇帝だけが使えました。太陽に似た色だったからです。",
+      "天壇の祈年殿は、くぎを一本も使わず、木の部品をパズルのように組み合わせて建てられたそうです。"
+    ],
+    "zh": [
+      "传说紫禁城正好有九千九百九十九间半房子，只比天宫的一万间少了半间！",
+      "将近五百年里，普通人从未获准踏入紫禁城一步，这也是它名字里“禁”字的由来。",
+      "长城的一些地段用糯米浆拌入灰浆修筑，正因如此，历经千年依然坚固如初。",
+      "算上所有分支，长城总长超过两万一千公里，长得几乎能绕地球半圈。",
+      "闪亮的黄色瓦片只有皇帝才能使用，因为那是太阳的颜色。",
+      "天坛的祈年殿据说建造时没用一根钉子，全靠木构件像拼图一样严丝合缝地拼接而成。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "방이 9999칸 반이나 있다면, 잠자리에 들기 전에 다 세어볼 수 있을까?",
+    "en": "A palace with 9,999 and a half rooms—can you imagine counting them all before bedtime?",
+    "ja": "9999部屋半もあったら、寝る前に全部数えられるかな？",
+    "zh": "如果有九千九百九十九间半房子，你能在睡觉前把它们全部数完吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "자금성", "en": "The Forbidden City", "ja": "紫禁城", "zh": "紫禁城" },
+      "blurb": {
+        "ko": "전설 속 9999칸 반의 방이 있는 바로 그 궁궐로, 500년 가까이 황제들이 살았던 곳이에요. 황금빛 지붕과 드넓은 마당을 거닐며, 붉은 문을 통과할 수 있었던 유일한 아이가 된 기분을 느껴보세요.",
+        "en": "This is the very palace with the legendary 9,999-and-a-half rooms, home to emperors for nearly 500 years. Wander through its golden-roofed halls and giant courtyards, and imagine being the only kid ever allowed past those red gates.",
+        "ja": "伝説の9999部屋半がある、まさにその宮殿。500年近くにわたって皇帝たちが暮らしました。金色の屋根とだだっ広い中庭を歩けば、あの赤い門を通れた唯一の子どもになった気分を味わえます。",
+        "zh": "这正是传说中拥有九千九百九十九间半房子的宫殿，近五百年间一直是皇帝的家。漫步在金顶大殿与开阔庭院之间，想象自己是唯一被允许穿过那道红门的孩子。"
+      },
+      "coords": [39.9163, 116.3972]
+    },
+    {
+      "name": { "ko": "만리장성 (무톈위)", "en": "The Great Wall (Mutianyu)", "ja": "万里の長城（慕田峪）", "zh": "长城（慕田峪）" },
+      "blurb": {
+        "ko": "만리장성 중에서도 가장 잘 보존된 구간 중 하나로, 초록빛 산줄기를 따라 눈이 닿는 곳까지 구불구불 이어져요. 가파른 돌계단을 직접 오르며, 2000년 전 병사들이 적을 살피던 그 자리에 서 볼 수 있답니다.",
+        "en": "This is one of the best-preserved stretches of the Great Wall, snaking over green mountains as far as you can see. You can climb its steep stone steps and stand where soldiers once watched for enemies two thousand years ago.",
+        "ja": "万里の長城の中でも特によく保存された区間で、緑の山々を縫うように見渡す限り続いています。急な石段を自分の足で登り、2000年前に兵士が敵を見張った場所に立つことができます。",
+        "zh": "这是长城保存最完好的地段之一，沿着青翠的山峦蜿蜒伸展，一眼望不到尽头。你可以攀上陡峭的石阶，站在两千年前士兵警戒敌情的地方。"
+      },
+      "coords": [40.4319, 116.5704]
+    },
+    {
+      "name": { "ko": "천단", "en": "Temple of Heaven", "ja": "天壇", "zh": "天坛" },
+      "blurb": {
+        "ko": "황제가 해마다 한 번씩 이곳에 와서 온 백성을 위해 하늘에 풍년을 빌었어요. 둥근 본당은 못 하나 없이 나무 조각들을 퍼즐처럼 짜 맞춰서 지었답니다.",
+        "en": "Emperors came here once a year to pray to the sky for a good harvest for everyone in the land. Its round main hall was built entirely without a single nail—just wood pieces locked together like a giant puzzle.",
+        "ja": "皇帝が年に一度ここを訪れ、国じゅうの人々のために豊作を天に祈りました。丸い本殿はくぎを一本も使わず、木の部品をパズルのように組み合わせて建てられています。",
+        "zh": "皇帝每年都会来这里，为全国百姓向上天祈求丰收。它的圆形正殿没用一根钉子，全靠木构件像拼图一样咬合而成。"
+      },
+      "coords": [39.8822, 116.4066]
+    },
+    {
+      "name": { "ko": "이화원", "en": "Summer Palace", "ja": "頤和園（いわえん）", "zh": "颐和园" },
+      "blurb": {
+        "ko": "황제들이 무더운 여름을 피해 쉬고 산책하던 반짝이는 호수와 언덕 위 궁전이에요. 물가를 따라 길게 이어진 회랑에는 수천 개의 자그마한 이야기 그림이 그려져 있답니다.",
+        "en": "A shimmering lake and a hilltop palace where emperors escaped the summer heat to relax and stroll. A long covered walkway winds along the water, painted with thousands of tiny storybook scenes.",
+        "ja": "皇帝たちが夏の暑さをさけて休み、散歩を楽しんだ、きらめく湖と丘の上の宮殿。水辺に沿って長く続く回廊には、何千もの小さな物語の絵が描かれています。",
+        "zh": "这里有波光粼粼的湖泊和山顶宫殿，是皇帝们躲避酷暑、休憩散步的地方。沿湖蜿蜒的长廊上，绘有成千上万幅精美的小故事画。"
+      },
+      "coords": [39.9999, 116.2755]
+    }
+  ]
+}

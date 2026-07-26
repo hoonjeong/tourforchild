@@ -1,0 +1,120 @@
+{
+  "id": "seoul",
+  "country": "kr",
+  "coords": [37.5665, 126.9780],
+  "name": { "ko": "서울", "en": "Seoul", "ja": "ソウル", "zh": "首尔" },
+  "tagline": {
+    "ko": "600년 된 궁궐과 반짝이는 마천루가 나란히 서 있는 도시",
+    "en": "The city where a 600-year-old palace stands shoulder to shoulder with shining skyscrapers",
+    "ja": "600年前の宮殿とキラキラの高層ビルが肩を並べる街",
+    "zh": "六百年古老宫殿与闪亮摩天大楼并肩而立的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금으로부터 600년도 더 전에, 조선의 왕은 새로운 수도를 지을 자리를 찾고 있었어요. 그러다 산이 병풍처럼 둘러싸고 큰 강이 앞으로 흐르는 이 땅을 발견했죠. 왕은 이곳이 나라를 지켜줄 명당이라 믿고 '한양'이라는 이름을 붙였어요. 그리고 그 한가운데에 '하늘이 내린 큰 복을 받은 궁궐'이라는 뜻의 웅장한 궁궐, 경복궁을 지었답니다.",
+      "하지만 이 도시의 이야기가 늘 순탄했던 건 아니에요. 오래전 다른 나라 군대가 쳐들어와 아름답던 경복궁에 불을 질렀고, 궁궐은 오랫동안 폐허로 남아 있었어요. 그래도 사람들은 포기하지 않았어요. 도시를 지키기 위해 커다란 돌 성벽을 쌓고, 동서남북 네 방향에 커다란 대문을 세워 매일 아침저녁 북과 종소리에 맞춰 열고 닫았답니다.",
+      "시간이 흘러 경복궁은 예전보다 더 화려하게 다시 세워졌어요. 황금빛 왕좌가 놓인 근정전, 연못 위에 둥둥 떠 있는 것처럼 보이는 아름다운 누각까지! 지금도 매일, 빨갛고 파란 옷을 입은 수문장들이 수백 년 전 그대로의 모습으로 북을 치고 나팔을 불며 수문장 교대식을 펼친답니다.",
+      "오늘날 서울은 아주 오래된 것과 아주 새로운 것이 나란히 어울려 사는 도시예요. 기와지붕이 옹기종기 모인 한옥 마을 옆으로 반짝이는 유리 빌딩이 우뚝 솟아 있죠. 높은 곳에 올라가 내려다보면, 넓은 한강을 끼고 펼쳐진 거대한 도시를 옛날 그 산들이 여전히 지켜보고 있는 걸 볼 수 있어요. 한 골목만 지나면 600년 전 궁궐에서 순식간에 미래로 걸어 들어가는 셈이죠."
+    ],
+    "en": [
+      "Long, long ago—more than 600 years back—a Korean king went looking for the perfect spot to build a brand-new capital. He found a valley wrapped in mountains like a folding screen, with a wide river flowing in front. He believed this land would protect the whole kingdom, so he named it Hanyang. Right in the middle, he built a magnificent palace called Gyeongbokgung, 'the palace greatly blessed by heaven.'",
+      "But the city's story wasn't always smooth. Long ago, invading soldiers set fire to the beautiful palace, and it lay in ruins for many, many years. Still, the people never gave up. They built a huge stone wall around the whole city and raised four grand gates facing north, south, east, and west, opening and closing them every morning and evening to the beat of drums and the ring of a giant bell.",
+      "As time passed, Gyeongbokgung rose again, even more dazzling than before—with a golden throne hall and a graceful pavilion that seems to float on a pond. Even today, every single day, guards dressed in bright red and blue drum and blow horns just as they did hundreds of years ago, performing the royal changing-of-the-guard ceremony for everyone to watch.",
+      "Today, Seoul is a place where the very old and the very new live side by side. Rows of curved-tile hanok roofs sit right next to shimmering glass skyscrapers. Climb up high and look down, and you'll see a giant city hugging the wide Han River, still watched over by those same old mountains. Turn down just one street, and you can step straight out of a 600-year-old palace and into the future."
+    ],
+    "ja": [
+      "はるか昔、今から600年以上前、朝鮮の王様が新しい都を築く場所をさがしていました。山々が屏風のように囲み、大きな川が前を流れるこの土地を見つけた王様は、ここが国を守ってくれる特別な場所だと信じ、『漢陽（ハニャン）』と名づけました。そしてその中心に、『天から大きな福を授かった宮殿』という意味を持つ、堂々とした景福宮（キョンボックン）を建てたのです。",
+      "けれど、この街の物語はいつも順調だったわけではありません。昔、他国の軍が攻めこみ、美しかった景福宮に火を放ち、宮殿は長い間廃墟のままになってしまいました。それでも人々はあきらめませんでした。街を守るために大きな石の城壁を築き、東西南北に四つの立派な城門を建てて、毎朝晩、太鼓と鐘の音に合わせて開け閉めしたのです。",
+      "やがて景福宮は、以前よりもさらに華やかに建て直されました。黄金の王座が置かれた勤政殿（クンジョンジョン）、池の上に浮かんでいるように見える美しい楼閣もそのひとつ！今でも毎日、赤と青の衣装を着た守門将たちが、数百年前そのままに太鼓を打ちラッパを鳴らして、守門将交代式を披露しているんですよ。",
+      "今日のソウルは、とても古いものととても新しいものが並んで暮らす街です。瓦屋根が寄り添う韓屋村のすぐそばに、きらめくガラスの高層ビルがそびえています。高い場所から見下ろすと、広い漢江（ハンガン）を抱いた大きな街を、昔と同じ山々が今も見守っているのがわかります。ひとつ路地を曲がれば、600年前の宮殿からあっという間に未来へ足を踏み入れることができるのです。"
+    ],
+    "zh": [
+      "很久很久以前，六百多年前，一位朝鲜国王正在寻找建造新都城的最佳地点。他找到了这样一片土地：群山像屏风一样环绕四周，一条大江在前方流淌。国王相信这里是能护佑整个王朝的风水宝地，于是给它取名“汉阳”。他还在城市正中央建起了一座宏伟的宫殿——景福宫，意思是“承接上天洪福的宫殿”。",
+      "不过，这座城市的故事并非总是一帆风顺。很久以前，外敌入侵，一把火烧毁了美丽的景福宫，它在废墟中沉寂了许多许多年。可人们从未放弃。他们围绕整座城市修起高大的石墙，又在东西南北四个方向建起雄伟的城门，每天清晨和傍晚，都随着鼓声和钟声开启、关闭。",
+      "岁月流转，景福宫又重新建起，比从前更加华丽——金色的王座安放在勤政殿里，还有一座仿佛漂浮在池水上的秀美楼阁。直到今天，每天都有穿着鲜红和靛蓝服饰的守门将士，像几百年前一样击鼓吹号，上演守门将交接仪式，让所有人一饱眼福。",
+      "如今的首尔，是一座古老与崭新并肩而立的城市。鳞次栉比的韩屋瓦顶村落旁边，就矗立着闪闪发亮的玻璃摩天大楼。登高远望，你会看到这座依偎在宽阔汉江旁的巨大都市，依然被那些古老的群山静静守护着。只要拐过一条街，你就能从六百年前的宫殿，一步跨进未来。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "옛날 사람들은 산이 세 방향을 둘러싸고 강이 앞으로 흐르는 땅이 '명당'이라고 믿었어요. 그래서 지금의 서울 자리를 새 수도로 골랐대요.",
+      "'경복궁'이라는 이름은 '하늘이 내린 큰 복을 받은 궁궐'이라는 뜻이에요.",
+      "옛날 서울은 약 18킬로미터나 되는 커다란 돌 성벽으로 빙 둘러싸여 있었고, 지금도 숭례문 같은 큰 성문 일부가 남아 있어요.",
+      "성문은 아무 때나 여닫지 않았어요. 매일 정해진 시간에 북과 종을 울려서 열고 닫았답니다. 지금의 '등하교 시간'처럼 규칙이 있었던 거죠!",
+      "창덕궁 안에는 '비원'이라 불리는 왕의 개인 정원이 있는데, 300년 넘은 나무들이 자라고 있고 몇백 년 동안 일반 사람은 들어갈 수 없었대요.",
+      "서울 지하철은 세계에서 가장 길고 복잡한 노선 중 하나예요. 땅속 깊은 곳에서도 와이파이와 휴대폰이 다 터진답니다!"
+    ],
+    "en": [
+      "Long ago, people believed land with mountains on three sides and a river flowing in front was extra lucky—that's exactly why they chose Seoul's spot for the new capital.",
+      "The name 'Gyeongbokgung' means 'the palace greatly blessed by heaven.'",
+      "Old Seoul was ringed by a huge stone wall about 18 kilometers long, and parts of its grand gates, like Sungnyemun, still stand today.",
+      "The city gates weren't opened whenever people felt like it—drums and a giant bell rang at set times every morning and night to open and close them, kind of like a school bell!",
+      "Inside Changdeokgung Palace is a secret garden called Biwon, filled with trees over 300 years old, that regular people weren't allowed to enter for centuries.",
+      "Seoul's subway is one of the longest and busiest in the world—you can still get wifi and phone signal even deep underground!"
+    ],
+    "ja": [
+      "昔の人々は、山が三方を囲み、前に川が流れる土地は特に運がいいと信じていました。だからこそ、今のソウルの場所が新しい都に選ばれたのです。",
+      "『景福宮（キョンボックン）』という名前は『天から大きな福を授かった宮殿』という意味です。",
+      "昔のソウルは約18キロメートルもの大きな石の城壁でぐるりと囲まれていて、崇礼門（スンネムン）のような立派な城門の一部が今も残っています。",
+      "城門は好きな時間に開け閉めできませんでした。毎朝晩、太鼓と大きな鐘の音を合図に決まった時間に開け閉めしていたのです。まるで学校のチャイムみたいですね！",
+      "昌徳宮（チャンドックン）の中には『秘苑（ピウォン）』と呼ばれる王様専用の庭園があり、樹齢300年を超える木々が茂っていて、何百年もの間ふつうの人は入れませんでした。",
+      "ソウルの地下鉄は世界でも最も長く、利用者の多い路線の一つ。地下深くでもWi-Fiや携帯の電波がちゃんとつながるんですよ！"
+    ],
+    "zh": [
+      "古人相信，三面环山、前有河流的土地格外吉祥——这正是首尔这片地方被选为新都城的原因。",
+      "“景福宫”这个名字的意思是“承接上天洪福的宫殿”。",
+      "古时候的首尔曾被一道约18公里长的巨大石墙团团围住，如今崇礼门等雄伟城门的部分遗迹依然矗立。",
+      "城门可不是随时想开就开的。每天清晨和夜晚，都会敲响鼓声和巨钟，在固定的时间开启和关闭城门，就像学校的上下课铃声一样！",
+      "昌德宫里有一座叫“秘苑”的国王专属花园，园中生长着树龄超过300年的古树，几百年来普通人都不能进入。",
+      "首尔地铁是世界上最长、最繁忙的地铁系统之一——即使在很深的地下，Wi-Fi和手机信号也依然畅通！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "600년 전 왕의 근위병들이 입던 것과 똑같은 옷을 입고, 지금도 매일 궁궐 문 앞에서 교대식을 한대. 너라면 빨간 옷과 파란 옷 중 어떤 걸 입고 서 있고 싶어?",
+    "en": "Guards still dress in the exact same clothes worn 600 years ago and perform a changing-of-the-guard ceremony at the palace gate every single day. Would you rather wear the bright red uniform or the blue one?",
+    "ja": "今でも600年前と全く同じ衣装を着た守門将たちが、毎日宮殿の門の前で交代式をしているんだって。君なら赤い服と青い服、どっちを着て立ってみたい？",
+    "zh": "守卫们至今仍穿着和六百年前一模一样的服饰，每天在宫门前举行交接仪式。如果是你,你想穿鲜红色还是靛蓝色的衣服站岗呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "경복궁", "en": "Gyeongbokgung Palace", "ja": "景福宮", "zh": "景福宫" },
+      "blurb": {
+        "ko": "600년 전 조선을 세운 왕이 지은 가장 크고 아름다운 궁궐이에요. 황금빛 왕좌가 있는 근정전과 연못 위에 뜬 것 같은 경회루를 꼭 보세요. 매일 열리는 수문장 교대식도 놓치지 마세요!",
+        "en": "The grandest, most beautiful palace, built 600 years ago by the king who founded the Joseon dynasty. Don't miss the golden throne hall, Geunjeongjeon, and Gyeonghoeru, a pavilion that seems to float on a pond. And be sure to catch the royal guard-changing ceremony held every day!",
+        "ja": "600年前、朝鮮を建国した王が建てた最も大きく美しい宮殿。黄金の王座がある勤政殿と、池に浮かぶように見える慶会楼はぜひ見てほしいスポット。毎日行われる守門将交代式も見逃せません！",
+        "zh": "六百年前朝鲜开国之王建造的最宏伟、最美丽的宫殿。一定要看看安放金色王座的勤政殿，以及仿佛漂浮在池水上的庆会楼。每天举行的守门将交接仪式也千万别错过！"
+      },
+      "coords": [37.5796, 126.9770]
+    },
+    {
+      "name": { "ko": "북촌 한옥마을", "en": "Bukchon Hanok Village", "ja": "北村韓屋村", "zh": "北村韩屋村" },
+      "blurb": {
+        "ko": "기와지붕을 얹은 옛날식 한국 집, '한옥'이 옹기종기 모여 있는 마을이에요. 골목을 걷다 보면 뒤로 우뚝 솟은 빌딩이 보여서, 옛날과 오늘이 나란히 있다는 게 실감 난답니다.",
+        "en": "A charming neighborhood packed with hanok, traditional Korean houses topped with curved tile roofs. Wander its alleys and you'll spot tall modern buildings peeking up behind them—proof that old and new really do stand side by side here.",
+        "ja": "瓦屋根をのせた韓国の伝統家屋『韓屋（ハノク）』が寄り添う村。路地を歩くと後ろに高いビルが見え、昔と今が本当に隣り合っているのを実感できます。",
+        "zh": "一片挤满传统瓦顶韩式民居“韩屋”的迷人街区。漫步小巷时，你会看到身后高楼林立，真切感受到古老与现代在这里比肩而立。"
+      },
+      "coords": [37.5826, 126.9831]
+    },
+    {
+      "name": { "ko": "남산과 N서울타워", "en": "Namsan Mountain & N Seoul Tower", "ja": "南山・Nソウルタワー", "zh": "南山与N首尔塔" },
+      "blurb": {
+        "ko": "옛날 산봉우리에서 봉화를 피워 나라 곳곳에 소식을 전하던 산이에요. 지금은 그 위에 세운 탑에 올라가면, 옛 궁궐부터 반짝이는 마천루까지 서울 전체가 한눈에 내려다보인답니다.",
+        "en": "Long ago, signal fires were lit on this mountain's peak to send messages across the whole kingdom. Today, climb the tower built on top and you can see all of Seoul at once—from the old palaces to the shining skyscrapers.",
+        "ja": "昔、山の頂で狼煙（のろし）を上げて国じゅうに知らせを送っていた山。今はその上に建つタワーに登れば、昔の宮殿から輝く高層ビルまで、ソウル全体を一望できます。",
+        "zh": "很久以前，人们在这座山顶点燃烽火，将消息传遍全国。如今登上山顶的高塔，从古老宫殿到闪亮摩天大楼,整个首尔尽收眼底。"
+      },
+      "coords": [37.5512, 126.9882]
+    },
+    {
+      "name": { "ko": "창덕궁 후원 (비원)", "en": "Changdeokgung Secret Garden", "ja": "昌徳宮 秘苑", "zh": "昌德宫秘苑" },
+      "blurb": {
+        "ko": "왕과 왕비만 거닐 수 있었던 비밀 정원이에요. 300년 넘은 커다란 나무와 아름다운 연못이 그대로 남아 있어서, 유네스코 세계유산으로도 뽑혔답니다.",
+        "en": "A secret garden once reserved only for the king and queen to stroll through. Huge trees over 300 years old and lovely ponds remain just as they were, which is why it's been named a UNESCO World Heritage site.",
+        "ja": "王様と王妃だけが歩くことを許された秘密の庭園。樹齢300年を超える大木や美しい池がそのまま残っており、ユネスコ世界遺産にも登録されています。",
+        "zh": "一座曾经只允许国王和王后漫步的秘密花园。三百多年的参天古树与秀美池塘至今保存完好，因此被列为联合国教科文组织世界遗产。"
+      },
+      "coords": [37.5794, 126.9910]
+    }
+  ]
+}

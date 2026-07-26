@@ -1,0 +1,120 @@
+{
+  "id": "honolulu",
+  "country": "us",
+  "coords": [21.3069, -157.8583],
+  "name": { "ko": "호놀룰루", "en": "Honolulu", "ja": "ホノルル", "zh": "檀香山" },
+  "tagline": {
+    "ko": "별과 파도만 보고 항해자들이 찾아낸, 화산이 빚어낸 섬의 도시",
+    "en": "The volcano-born islands ancient sailors found using only stars and waves",
+    "ja": "星と波だけを頼りに航海者たちがたどり着いた、火山が生んだ島の街",
+    "zh": "航海者仅凭星辰与海浪就找到的、由火山孕育而生的岛屿之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 태평양 깊은 바닷속에서는 뜨거운 마그마가 같은 자리에서 계속 솟아올랐어요. 그 마그마가 켜켜이 쌓이고 쌓여 마침내 파도 위로 고개를 내밀었고, 그렇게 하와이 섬들이 태어났답니다. 호놀룰루는 그중 오아후라는 섬, 아늑하게 감싸인 항구 바로 옆에서 자라났어요. 사실 '호놀룰루'라는 이름 자체가 '아늑한 항구'라는 뜻이에요!",
+      "하지만 처음엔 아무도 이 섬에 살지 않았어요. 지구에서 가장 넓은 바다 한가운데 외롭게 떠 있었거든요. 그런데 천 년도 더 전에, 용감한 폴리네시아 항해자들이 쌍둥이 카누를 타고 나침반도 지도도 없이 몇천 킬로미터 바다를 건너기로 했어요. 그들은 별과 파도, 새들의 움직임을 마치 살아있는 지도처럼 읽어 내며 이 작은 섬들을 정말로 찾아냈답니다.",
+      "몇백 년이 지난 뒤, 카메하메하 대왕이라는 젊은 지도자가 아무도 해내지 못한 일을 해냈어요. 하와이의 모든 섬을 하나의 왕국으로 통일한 거예요! 그의 후손들은 호놀룰루에 이올라니 궁전이라는 멋진 궁전을 지었는데, 놀랍게도 백악관보다 먼저 전깃불을 켰답니다.",
+      "지금도 다이아몬드 헤드라는 오래된 화산이 호놀룰루를 든든하게 지키고 서 있어요. 옛날 하와이 왕과 족장들이 가장 사랑했던 놀이, 널빤지 위에 서서 파도를 타는 그 놀이는 오늘날 '서핑'이라는 이름으로 전 세계에서 사랑받고 있죠. 와이키키 해변에 서면, 화산이 만들고 최고의 항해자들이 찾아낸 섬 위에 서 있는 셈이랍니다."
+    ],
+    "en": [
+      "Long, long ago, deep under the Pacific Ocean, red-hot melted rock kept bubbling up from the very same spot on the seafloor. Layer after layer piled up until, at last, it poked above the waves — and that's how the Hawaiian Islands were born. Honolulu grew up on one of them, an island called Oahu, right beside a calm, sheltered harbor. In fact, that's exactly what the name 'Honolulu' means!",
+      "But at first, nobody lived there — these tiny islands sat all alone in the middle of the biggest ocean on Earth. Then, over a thousand years ago, brave Polynesian voyagers set sail anyway, paddling and sailing double-hulled canoes for thousands of kilometers with no compass, no map, and no GPS. They read the stars, the ocean swells, and the flight of birds like a living map — and somehow, they really did find these tiny dots of land.",
+      "Centuries later, a young chief named Kamehameha the Great did something nobody had ever done before: he united every single Hawaiian island into one kingdom. His descendants built a grand palace in Honolulu called Iolani Palace — and remarkably, it got electric lights before the White House did!",
+      "Today, an old volcano called Diamond Head still stands guard over Honolulu. And the very game ancient Hawaiian chiefs loved best — standing tall on a wooden board to ride ocean waves — is now called surfing, and people love it the whole world over. Stand on Waikiki Beach, and you're standing on islands literally built by volcanoes and found by some of history's greatest sailors."
+    ],
+    "ja": [
+      "はるか昔、太平洋の深い海の底で、真っ赤に溶けた岩がいつも同じ場所からわき出していました。それが何層にも積み重なって、とうとう波の上に顔を出し、ハワイの島々が生まれたのです。ホノルルは、その中のオアフ島という島で、静かで穏やかな入り江のすぐそばに育ちました。実は『ホノルル』という名前自体が『おだやかな港』という意味なんですよ！",
+      "でも最初は、だれもそこに住んでいませんでした。地球でいちばん広い海のまん中に、島だけがぽつんと浮かんでいたからです。ところが今から千年以上前、勇敢なポリネシアの航海者たちが、コンパスも地図もないまま、双胴のカヌーで何千キロもの海を渡ろうとしました。彼らは星や波、鳥の飛び方をまるで生きた地図のように読み取り、本当にこの小さな島々を見つけ出したのです。",
+      "それから数百年後、カメハメハ大王という若き指導者が、だれも成し遂げたことのない偉業をなしとげました。ハワイのすべての島を一つの王国にまとめあげたのです！その子孫たちはホノルルに『イオラニ宮殿』という立派な宮殿を建てましたが、なんとホワイトハウスよりも先に電気の明かりがともったそうです。",
+      "今でも『ダイヤモンドヘッド』という古い火山が、どっしりとホノルルを見守っています。昔のハワイの王や族長たちがいちばん愛した遊び――木の板の上に立って波に乗る遊び――は、今では『サーフィン』として世界中で愛されています。ワイキキビーチに立てば、火山が作り、最高の航海者たちが見つけ出した島の上に立っているということなのです。"
+    ],
+    "zh": [
+      "很久很久以前，在太平洋深深的海底，滚烫的岩浆总是从同一个地方不断涌出。它一层一层堆积起来，终于探出海面——夏威夷群岛就这样诞生了。檀香山就成长在其中一座叫瓦胡岛的岛屿上，紧挨着一处平静又被环抱保护的海湾。事实上，“檀香山”的夏威夷语原名，意思就是“安宁的港湾”！",
+      "可是一开始，这里根本没有人居住——这些小岛孤零零地漂浮在地球上最辽阔的海洋正中央。直到一千多年前，勇敢的波利尼西亚航海者决定出发，他们划着双体独木舟，没有指南针，也没有地图，就要横渡几千公里的大海。他们把星星、海浪和飞鸟的动向当作一张活生生的地图来解读，竟然真的找到了这些渺小的岛屿。",
+      "又过了几百年，一位名叫卡美哈美哈大帝的年轻酋长做成了一件前所未有的大事：他把夏威夷所有的岛屿统一成了一个王国！他的后代在檀香山建造了一座宏伟的王宫——伊奥拉尼王宫，而令人惊讶的是，这座王宫用上电灯竟然比白宫还早。",
+      "如今，一座名叫钻石山的古老火山依然稳稳地守护着檀香山。而古代夏威夷国王和酋长们最喜爱的游戏——站在木板上乘风破浪——如今被称为“冲浪”，风靡全世界。当你站在威基基海滩上，脚下踩着的正是由火山造就、又被史上最杰出的航海者发现的岛屿。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "하와이 섬들은 지금도 자라고 있어요! 땅속 깊은 곳에서 솟아오르는 뜨거운 마그마가 계속 새 땅을 만들고 있고, 바닷속에서는 완전히 새로운 섬 하나가 지금도 자라는 중이래요.",
+      "옛 폴리네시아 항해자들은 나침반도 지도도 없이 오직 별과 파도, 새들만 보고 몇천 킬로미터의 망망대해를 건넜어요.",
+      "'호놀룰루'는 하와이 말로 '아늑한 항구'라는 뜻이에요. 잔잔하고 포근한 항구에 딱 어울리는 이름이죠.",
+      "다이아몬드 헤드라는 이름은 옛날 뱃사람들이 반짝이는 방해석 돌을 보고 다이아몬드인 줄 착각해서 붙여진 거예요. 사실은 다이아몬드가 아니었답니다!",
+      "서핑은 하와이에서 처음 생겼어요. 옛날 왕과 족장들은 길이가 7미터도 넘는 커다란 나무 널빤지를 타고 파도를 즐겼답니다.",
+      "이올라니 궁전은 미국 땅에 세워진 단 하나뿐인 왕궁이에요. 게다가 백악관보다 먼저 전깃불을 밝혔답니다."
+    ],
+    "en": [
+      "The Hawaiian Islands are still growing! Hot melted rock rising from deep underground keeps building new land, and a brand-new island is even forming right now underwater.",
+      "Ancient Polynesian voyagers crossed thousands of kilometers of open ocean using only the stars, waves, and birds — no compass, no map, no instruments at all.",
+      "'Honolulu' means 'sheltered harbor' in Hawaiian — the perfect name for its calm, protected bay.",
+      "Diamond Head got its sparkly name because old-time sailors spotted shining calcite crystals in the crater and thought they'd found diamonds. They hadn't!",
+      "Surfing began in Hawaii. Ancient kings and chiefs rode giant wooden boards over 7 meters long to enjoy the waves.",
+      "Iolani Palace is the only royal palace ever built on American soil — and it had electric lights before the White House did."
+    ],
+    "ja": [
+      "ハワイの島々は今も成長中！地下の深いところからわき出す熱いマグマが新しい土地を作り続けていて、海の底では今まさに新しい島が育っているそうです。",
+      "昔のポリネシアの航海者は、コンパスも地図も道具も一切使わず、星と波と鳥だけをたよりに何千キロもの大海原を渡りました。",
+      "『ホノルル』はハワイ語で『おだやかな港』という意味。静かで守られた入り江にぴったりの名前です。",
+      "『ダイヤモンドヘッド』という名前がついたのは、昔の船乗りが火口できらきら光る方解石を見て、ダイヤモンドだと勘ちがいしたから。実際はちがったんです！",
+      "サーフィンはハワイで生まれました。昔の王様や族長は、長さ7メートルを超える大きな木の板に乗って波を楽しんでいたそうです。",
+      "イオラニ宮殿はアメリカの土地に建てられた、たった一つの王宮です。しかもホワイトハウスより先に電気の明かりがついていました。"
+    ],
+    "zh": [
+      "夏威夷群岛现在还在长大！从地下深处不断涌出的滚烫岩浆一直在造出新的陆地，据说海底此刻正有一座全新的小岛在悄悄生长呢。",
+      "古代波利尼西亚航海者不靠指南针、不靠地图、不靠任何仪器，只凭星星、海浪和飞鸟，就横渡了几千公里的大洋。",
+      "“檀香山”在夏威夷语里意思是“安宁的港湾”——用来形容这片平静又受保护的海湾，再合适不过。",
+      "钻石山这个闪闪发光的名字，是19世纪的水手们看到火山口里闪亮的方解石晶体，误以为发现了钻石才取的。其实根本不是钻石！",
+      "冲浪起源于夏威夷。古代的国王和酋长们曾乘着超过7米长的巨大木板尽情享受海浪。",
+      "伊奥拉尼王宫是唯一一座建在美国国土上的王宫，而且它用上电灯居然比白宫还要早。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "지도도 나침반도 없이, 옛날 항해자들은 어떻게 이 작은 섬들을 넓디넓은 바다에서 찾아냈을까?",
+    "en": "With no map and no compass, how did ancient sailors ever find these tiny islands in the middle of the huge ocean?",
+    "ja": "地図もコンパスもないのに、昔の航海者たちはどうやって広い海の中からこんな小さな島々を見つけられたのかな？",
+    "zh": "没有地图也没有指南针，古代的航海者到底是怎么在茫茫大海中找到这些小小的岛屿的呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "다이아몬드 헤드", "en": "Diamond Head", "ja": "ダイヤモンドヘッド", "zh": "钻石山" },
+      "blurb": {
+        "ko": "바닷가에 우뚝 솟은 이 화산 분화구는 19세기 뱃사람들이 반짝이는 방해석 돌을 다이아몬드로 착각해서 이런 이름이 붙었어요. 분화구 안쪽 등산로를 오르면 호놀룰루와 옛 항해자들이 건너온 바다가 한눈에 펼쳐지는 전망대가 나온답니다.",
+        "en": "This volcanic crater rising over the coast got its sparkly name when 19th-century sailors spotted shining calcite crystals and mistook them for diamonds. Hike the trail inside the old crater and you'll reach a lookout with sweeping views of Honolulu and the very ocean ancient voyagers once crossed.",
+        "ja": "海のそばにそびえるこの火山口は、19世紀の船乗りが火口できらきら光る方解石を見て、ダイヤモンドだと勘ちがいしたことから名づけられました。火口の中の道を登れば、ホノルルの町と、昔の航海者たちが渡ってきたその海を見わたせる展望台にたどり着きます。",
+        "zh": "这座矗立在海边的火山口，因为19世纪的水手们看到火山口里闪亮的方解石晶体、误以为是钻石而得名。沿着火山口内的小路往上爬，就能到达一处观景台，将檀香山和当年航海者们横渡过的那片大海尽收眼底。"
+      },
+      "coords": [21.2620, -157.8059]
+    },
+    {
+      "name": { "ko": "와이키키 해변", "en": "Waikiki Beach", "ja": "ワイキキビーチ", "zh": "威基基海滩" },
+      "blurb": {
+        "ko": "옛날 하와이 왕과 왕족들이 나무 널빤지 위에 서서 부드러운 파도를 즐기던 바로 그 해변이에요. 지금도 전 세계 사람들이 여기서 옛 섬의 왕들처럼 파도를 타 보려고 몰려든답니다.",
+        "en": "This is the very beach where Hawaiian royalty once surfed for fun, standing tall on wooden boards to ride the gentle waves. Today it's still one of the best places on Earth to try catching a wave, just like the island kings did long ago.",
+        "ja": "昔ハワイの王族が、木の板の上に立ってやさしい波を楽しんだ、まさにそのビーチです。今でも世界中の人がここに集まり、昔の島の王様たちのように波乗りに挑戦しています。",
+        "zh": "这正是当年夏威夷王室成员站在木板上、乘着温柔海浪嬉戏的那片海滩。如今，世界各地的人们依然涌向这里，像古代的岛屿国王一样尝试冲浪。"
+      },
+      "coords": [21.2793, -157.8292]
+    },
+    {
+      "name": { "ko": "이올라니 궁전", "en": "Iolani Palace", "ja": "イオラニ宮殿", "zh": "伊奥拉尼王宫" },
+      "blurb": {
+        "ko": "미국 땅에 세워진 유일한 왕궁으로, 하와이의 왕과 여왕이 살았던 곳이에요. 백악관보다도 먼저 전깃불과 전화기를 설치했다니, 100년도 더 전에 정말 앞서갔던 셈이죠!",
+        "en": "The only royal palace ever built on American soil, this was home to Hawaii's kings and queens. It had electric lights and a telephone installed before the White House did — pretty fancy for over a hundred years ago!",
+        "ja": "アメリカの土地に建てられた唯一の王宮で、ハワイの王と女王が暮らした場所です。ホワイトハウスより先に電気の明かりや電話が引かれていたなんて、100年以上前としてはとても先進的でした！",
+        "zh": "这是唯一一座建在美国国土上的王宫，曾是夏威夷国王和王后居住的地方。它安装电灯和电话竟然比白宫还早——在一百多年前，这可真是相当超前！"
+      },
+      "coords": [21.3059, -157.8583]
+    },
+    {
+      "name": { "ko": "비숍 박물관", "en": "Bishop Museum", "ja": "ビショップ博物館", "zh": "毕夏普博物馆" },
+      "blurb": {
+        "ko": "화려한 깃털 망토와 옛 항해 도구들이 가득한 하와이 최대의 박물관이에요. 진짜 플라네타리움에서 옛 항해자들이 길을 찾을 때 보았던 별들을 그대로 볼 수 있답니다.",
+        "en": "Hawaii's biggest museum is packed with feathered royal capes and ancient voyaging tools, plus a real planetarium show about the very stars ancient navigators used to find these islands. It's the best place to see Hawaiian history and star-science come together.",
+        "ja": "羽根で作られた王族のマントや、昔の航海道具がぎっしりつまったハワイ最大の博物館です。本物のプラネタリウムでは、昔の航海者たちが道を見つけるために見上げた星空をそのまま体験できます。",
+        "zh": "这是夏威夷最大的博物馆，收藏着华丽的羽毛王室披风和古代航海工具，还有真正的天文馆放映，展示古代航海者用来辨认方向的满天星辰。夏威夷的历史与星空科学，在这里完美相遇。"
+      },
+      "coords": [21.3223, -157.8730]
+    }
+  ]
+}

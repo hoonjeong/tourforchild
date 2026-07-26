@@ -1,0 +1,120 @@
+{
+  "id": "lyon",
+  "country": "fr",
+  "coords": [45.7640, 4.8357],
+  "name": { "ko": "리옹", "en": "Lyon", "ja": "リヨン", "zh": "里昂" },
+  "tagline": {
+    "ko": "두 강이 만나고, 비밀 골목이 숨어있고, 영화가 태어난 도시",
+    "en": "The city of two rivers, secret passageways, and the night movies were born",
+    "ja": "二つの川が出会い、秘密の抜け道が隠れ、映画が生まれた街",
+    "zh": "两条河交汇、藏着秘密小巷、电影诞生的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 프랑스 땅에 로마 사람들이 언덕 위로 올라가 도시를 세웠어요. 언덕 아래에서는 빠르고 파란 '론 강'과 느리고 초록빛인 '손 강'이 만나서 물감을 섞듯 소용돌이치며 하나가 되었죠. 사람들은 이 도시를 '루그두눔'이라 불렀는데, 어찌나 중요해졌는지 로마가 정복한 갈리아 땅 전체의 수도가 되었어요. 그 도시가 바로 오늘날의 '리옹'이랍니다.",
+      "몇백 년이 지나, 리옹은 아주 특별한 것으로 유명해졌어요. 바로 비단이었죠. '카뉘'라고 불리던 비단 짜는 사람들은 매일 귀한 비단을 안고 언덕진 옛 시가지를 오갔는데, 비라도 내리면 비단이 순식간에 망가지고 말았어요. 그래서 사람들은 건물과 마당을 가로질러 지나가는 '트라불'이라는 비밀 지름길을 수백 개나 만들었답니다. 오늘날 비외 리옹의 평범해 보이는 문을 열고 들어가면, 전혀 다른 골목으로 쏙 나오게 될지도 몰라요!",
+      "그리고 1895년, '오귀스트'와 '루이' 뤼미에르라는 두 형제가 아무도 해본 적 없는 일을 시도했어요. 리옹의 한 공장에서, 그들은 이상하게 생긴 상자로 움직이는 사람들을 필름에 담았죠. 사람들 앞에서 그 필름을 처음 보여주었을 때, 화면 속 기차가 자기들 쪽으로 달려오는 줄 알고 관객들이 깜짝 놀라 몸을 움츠렸대요. 이것이 세계 최초의 영화였고, 재미있게도 '뤼미에르'는 프랑스어로 '빛'이라는 뜻이에요.",
+      "리옹은 그 반짝이는 순간을 잊지 않았어요. 매년 12월 8일이 되면, 사람들은 집집마다 창가에 작은 촛불을 켜두고, 도시 전체가 '빛의 축제(페트 데 뤼미에르)'로 환하게 빛나요. 이 축제는 오래전 리옹이 끔찍한 전염병에서 벗어난 것을 감사하며 시작되었는데, 지금은 해마다 수백만 명이 찾아와 반짝이는 리옹을 구경한답니다."
+    ],
+    "en": [
+      "More than two thousand years ago, Roman settlers climbed a hill overlooking two rivers in what is now France and built a city called Lugdunum. Below them, the fast blue Rhône River rushed into the slow green Saône, swirling together like paint mixing in water. Lugdunum grew so important that it became the capital of all Roman Gaul, and today we call it Lyon.",
+      "Centuries later, Lyon became famous for something delicate: silk. Weavers called canuts carried bolts of precious silk across the hilly old town every day, but rain could ruin the fabric in seconds. So they built hundreds of secret shortcuts called traboules—hidden passages that cut straight through courtyards and buildings. Step through an ordinary doorway in Vieux Lyon today, and you might pop out on a completely different street!",
+      "Then, in 1895, two brothers named Auguste and Louis Lumière tried something nobody had ever done before. In a factory in Lyon, they pointed a strange box at moving workers and captured them on film. When they showed the film to a room full of people, the audience gasped and some say they even ducked, sure that a train rolling toward the camera was about to burst into the room. It was the world's very first movie, and fittingly, 'Lumière' means 'light' in French.",
+      "Lyon never forgot that magic. Every December 8th, families set tiny candles along every windowsill in the city, and the whole town glows for the Fête des Lumières, the Festival of Lights. It began as a thank-you after Lyon was spared from a terrible plague long ago, and now millions of visitors come each year to watch Lyon shine."
+    ],
+    "ja": [
+      "今から二千年以上前、今のフランスにあたる場所で、ローマ人たちが二つの川を見下ろす丘に街を築きました。丘の下では、青く速い『ローヌ川』と、緑がかった穏やかな『ソーヌ川』が出会い、まるで絵の具が水に溶けるように渦を巻きながら一つになっていました。この街は『ルグドゥヌム』と呼ばれ、とても重要になったため、ローマが治めるガリア地方全体の都になりました。それが、今日の『リヨン』なのです。",
+      "何百年か後、リヨンはとても繊細なもので有名になりました。絹です。『カニュ』と呼ばれる絹織り職人たちは、毎日大切な絹の反物を抱えて丘の多い旧市街を行き来しましたが、雨が降るとあっという間に絹が傷んでしまいました。そこで人々は、建物や中庭をつきぬける秘密の近道『トラブール』を何百も作ったのです。今日、ヴュー・リヨンの何気ない扉をくぐると、まったく別の通りにひょっこり出てしまうかもしれません！",
+      "そして1895年、オーギュストとルイのリュミエール兄弟が、それまで誰もやったことのないことに挑戦しました。リヨンの工場で、彼らは不思議な箱を使って働く人々の動きをフィルムに写し取ったのです。大勢の前でそのフィルムを初めて上映したとき、画面の中の汽車が自分たちに向かって走ってくると思いこみ、観客は驚いて思わず身をすくめたそうです。これが世界最初の映画で、面白いことに『リュミエール』はフランス語で『光』という意味なのです。",
+      "リヨンはそのきらめく瞬間を忘れませんでした。毎年12月8日になると、人々は家々の窓辺に小さなろうそくを灯し、街全体が『光の祭典（フェット・デ・リュミエール）』で輝きます。この祭りは、はるか昔にリヨンが恐ろしい疫病からまぬがれたことへの感謝として始まり、今では毎年何百万人もの人が輝くリヨンを見にやってきます。"
+    ],
+    "zh": [
+      "两千多年前，在如今的法国境内，罗马人爬上一座俯瞰两条河流的山丘，建起了一座城市。山下，湛蓝湍急的罗讷河与碧绿平缓的索恩河在此交汇，像颜料溶入水中一样打着旋儿融为一体。这座城市被称为“卢格杜努姆”，后来变得如此重要，竟成了罗马统治下整个高卢地区的首府。它就是今天的“里昂”。",
+      "几百年后，里昂因一种精致的东西而闻名——丝绸。被称为“卡纽”的织工们每天抱着珍贵的丝绸穿行在满是山坡的老城区，可只要下一场雨，丝绸转眼间就会被毁掉。于是人们建造了成百上千条名叫“特拉布勒”的秘密捷径，直接穿过建筑物和庭院。如今，在里昂老城推开一扇看似普通的门，你可能一转眼就走到了完全不同的街道上！",
+      "到了1895年，奥古斯特和路易·卢米埃尔两兄弟尝试了一件前所未有的事。在里昂的一家工厂里，他们用一个奇怪的箱子把工人们走动的样子拍了下来。当他们第一次把影片放给一屋子观众看时，画面里一列火车正朝镜头开来，观众们竟吓得往后一缩，以为火车真的要冲进屋里。这就是世界上第一部电影，而有趣的是，“卢米埃尔”在法语里正是“光”的意思。",
+      "里昂从未忘记那闪耀的一刻。每年12月8日，家家户户都会在窗台上点起小小的蜡烛，整座城市因“灯光节”（法语称Fête des Lumières）而熠熠生辉。这个节日源于很久以前里昂躲过一场可怕瘟疫后的感恩仪式，如今每年都有数百万游客前来欣赏这座闪耀的城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "리옹은 기원전 43년, '루그두눔'이라는 로마 도시로 시작됐어요. 어찌나 힘이 세졌는지 로마령 갈리아 전체의 수도가 되었죠. 지금도 언덕에 올라가면 그 시절 로마 극장을 직접 볼 수 있답니다.",
+      "리옹은 딱 두 강이 만나는 자리에 있어요. 빠르고 파란 '론 강'과 느리고 초록빛인 '손 강'이죠. 반도 끝에 서면 두 강의 색이 섞이기 전에 소용돌이치는 모습을 눈으로 직접 볼 수 있어요!",
+      "비외 리옹에는 '트라불'이라는 비밀 통로가 500개도 넘게 숨어 있어요. 옛날엔 비단 짜는 사람들이 비단을 젖지 않게 하려고 썼고, 훗날 2차 세계대전 때는 사람들이 위험을 피해 몸을 숨기는 데 쓰였대요.",
+      "1895년, 오귀스트와 루이 뤼미에르 형제는 리옹에서 영화 카메라를 발명해 세계 최초의 영화를 상영했어요. 이들의 성 '뤼미에르'는 프랑스어로 '빛'이라는 뜻이랍니다!",
+      "매년 12월 8일이면 리옹은 '빛의 축제'로 환해져요. 1852년, 사람들이 자기 집 창가에 저절로 촛불을 켜기 시작한 게 시초가 되어, 그 뒤로 해마다 이어지고 있어요.",
+      "유명한 인형극 캐릭터 '기뇰'은 1808년쯤 리옹에서 태어났어요. 이를 뽑던 사람이 겁먹은 환자들이 무서움을 잊도록 재미있는 인형극을 보여준 게 시작이었대요!"
+    ],
+    "en": [
+      "Lyon began as a Roman city called Lugdunum in 43 BC, and it grew so powerful it became the capital of all Roman Gaul—you can still climb up to see its ancient Roman theatre today.",
+      "Lyon sits exactly where two rivers meet: the fast blue Rhône and the slow green Saône. Stand at the tip of the peninsula and you can actually see their two colors swirling together before they blend!",
+      "Vieux Lyon hides more than 500 secret passageways called traboules. Silk workers once used them to keep fabric dry, and decades later, secret fighters used them to hide from danger during World War II.",
+      "In 1895, brothers Auguste and Louis Lumière invented the movie camera in Lyon and showed the world's very first film. Their last name, Lumière, means 'light' in French!",
+      "Every December 8th, Lyon glows for the Fête des Lumières. It began in 1852 when people spontaneously lit candles in their windows, and Lyon has lit up every year since.",
+      "The famous puppet Guignol was born in Lyon around 1808. He was invented by a tooth-puller who used funny puppet shows to help nervous patients forget their fear before treatment!"
+    ],
+    "ja": [
+      "リヨンは紀元前43年、『ルグドゥヌム』というローマの街として始まりました。あまりに重要になったため、ローマ領ガリア全体の都になったのです。今でも丘に登れば、当時のローマ劇場をその目で見ることができます。",
+      "リヨンはちょうど二つの川が出会う場所にあります。青く速い『ローヌ川』と、緑がかって穏やかな『ソーヌ川』です。半島の先端に立つと、二つの川の色が混ざる前に渦を巻く様子を実際に見ることができますよ！",
+      "ヴュー・リヨンには『トラブール』という秘密の抜け道が500以上も隠れています。昔は絹織り職人が絹をぬらさないように使い、のちの第二次世界大戦では、人々が危険から身を隠すために使ったそうです。",
+      "1895年、オーギュストとルイのリュミエール兄弟がリヨンで映画用カメラを発明し、世界最初の映画を上映しました。二人の姓『リュミエール』は、フランス語で『光』という意味なのです！",
+      "毎年12月8日になると、リヨンは『光の祭典』で輝きます。1852年、人々が自分の家の窓辺に自然と灯したろうそくが始まりで、それ以来ずっと毎年続いています。",
+      "有名な人形劇のキャラクター『ギニョール』は、1808年ごろリヨンで生まれました。歯を抜く仕事をしていた人が、こわがる患者さんの気をまぎらわせようと、おもしろい人形劇を見せたのが始まりだそうです！"
+    ],
+    "zh": [
+      "里昂最初是公元前43年建立的罗马城市“卢格杜努姆”。它变得如此强大，竟成了罗马高卢全境的首府。如今爬上山丘，还能亲眼看到当年的罗马剧场。",
+      "里昂正好位于两条河流的交汇处：湍急湛蓝的罗讷河与平缓碧绿的索恩河。站在半岛的尖端，你能亲眼看到两条河的颜色在交融之前打着旋儿的样子！",
+      "里昂老城藏着500多条名叫“特拉布勒”的秘密通道。过去，织绸工人用它们来保护丝绸不被淋湿；后来在第二次世界大战期间，人们又用它们来躲避危险。",
+      "1895年，奥古斯特和路易·卢米埃尔兄弟在里昂发明了电影摄影机，并放映了世界上第一部电影。他们的姓氏“卢米埃尔”在法语中正是“光”的意思！",
+      "每年12月8日，里昂都会因“灯光节”而闪耀。这一传统始于1852年，当时人们自发地在自家窗台点起蜡烛，从此年年延续至今。",
+      "著名的木偶角色“吉尼奥尔”大约在1808年诞生于里昂。他的发明者原本是拔牙师傅，用有趣的木偶戏帮胆怯的病人分散注意力、忘记害怕！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "온 도시의 창문마다 촛불을 켠다면, 밤이 얼마나 환하게 빛날 것 같아?",
+    "en": "If a whole city lit a candle in every single window on the same night, how bright do you think it would glow?",
+    "ja": "街じゅうの窓に同時にろうそくを灯したら、夜はどれくらい明るく輝くと思う？",
+    "zh": "如果整座城市的每一扇窗户都同时点亮蜡烛，你觉得夜晚会变得多亮呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "푸르비에르 언덕", "en": "Fourvière Hill", "ja": "フルヴィエールの丘", "zh": "富维耶山丘" },
+      "blurb": {
+        "ko": "이 언덕에 오르면 루그두눔 시절의 진짜 로마 극장을 만날 수 있어요. 그 옆에는 하얗게 빛나는 대성당이 도시 전체를 내려다보고 있죠. 꼭대기에서는 두 강이 반짝이는 모습이 다 보이는데, 2000년 전 로마인들이 왜 이 자리를 골랐는지 단번에 알 수 있답니다.",
+        "en": "Climb this hill and you'll find a real Roman theatre from Lugdunum's earliest days, plus a sparkling white basilica watching over the whole city. From the top, you can see both rivers glittering below—exactly why the Romans chose this spot 2,000 years ago.",
+        "ja": "この丘に登ると、ルグドゥヌム時代の本物のローマ劇場に出会えます。すぐそばには真っ白に輝く大聖堂が街全体を見下ろしています。頂上からは二つの川がきらめく様子まで見え、2000年前のローマ人がなぜこの場所を選んだのか、一目でわかります。",
+        "zh": "爬上这座山丘，你会看到卢格杜努姆时代真正的罗马剧场。旁边，一座洁白闪耀的大教堂俯瞰着整座城市。站在山顶，两条河流的粼粼波光尽收眼底——你一眼就能明白，两千年前罗马人为什么会选中这里。"
+      },
+      "coords": [45.7623, 4.8226]
+    },
+    {
+      "name": { "ko": "비외 리옹의 트라불", "en": "The Traboules of Vieux Lyon", "ja": "ヴュー・リヨンのトラブール", "zh": "里昂老城的特拉布勒小巷" },
+      "blurb": {
+        "ko": "옛 시가지에서 이름표 없는 문을 슬쩍 열고 들어가면 '트라불'이라는 비밀 통로를 만나게 돼요. 옛날 비단 짜는 사람들이 비를 피해 다니던 길이죠. 어떤 길은 조용한 마당으로 이어지고, 어떤 길은 전혀 다른 골목으로 쏙 나오게 한답니다.",
+        "en": "Duck through an unmarked doorway in the old town and follow a traboule—one of the secret passages silk weavers once used to protect their fabric from rain. Some lead through quiet courtyards, others pop out on a totally different street.",
+        "ja": "旧市街で目印のない扉をそっと開けると、『トラブール』という秘密の通路に出会います。昔、絹織り職人たちが雨を避けるために通った道です。ある道は静かな中庭に続き、またある道はまったく別の通りへとひょっこり出ます。",
+        "zh": "在老城区悄悄推开一扇没有标记的门，你就会踏入名叫“特拉布勒”的秘密通道。这是过去织绸工人为了躲雨而走的路。有的通道通向安静的庭院，有的则直接把你带到完全不同的街道上。"
+      },
+      "coords": [45.7629, 4.8272]
+    },
+    {
+      "name": { "ko": "뤼미에르 박물관", "en": "Institut Lumière", "ja": "リュミエール研究所（博物館）", "zh": "卢米埃尔博物馆" },
+      "blurb": {
+        "ko": "여기가 바로 오귀스트와 루이 뤼미에르 형제가 영화 카메라를 발명하고 1895년 세계 최초의 영화를 찍었던 그 집이자 공장이에요. 안으로 들어가면 그들이 실제로 썼던 장비를 볼 수 있고, 깜빡이던 첫 번째 영상을 상상해볼 수 있답니다.",
+        "en": "This is the very house and factory where Auguste and Louis Lumière invented the movie camera and filmed the world's first film in 1895. Step inside to see their original equipment and imagine that very first flickering picture.",
+        "ja": "ここは、オーギュストとルイのリュミエール兄弟が映画用カメラを発明し、1895年に世界最初の映画を撮影したまさにその家であり工場です。中に入れば彼らが実際に使った機材を見ることができ、あの点滅する最初の映像を想像することができます。",
+        "zh": "这里正是奥古斯特和路易·卢米埃尔兄弟发明电影摄影机、并于1895年拍摄出世界第一部电影的房子和工厂。走进去，你能看到他们当年真正使用过的设备，想象那第一幅闪烁画面诞生的瞬间。"
+      },
+      "coords": [45.7458, 4.8547]
+    },
+    {
+      "name": { "ko": "콩플뤼앙스 (두 강이 만나는 곳)", "en": "La Confluence", "ja": "コンフルーアンス（二つの川の合流点）", "zh": "汇流角（两河交汇处）" },
+      "blurb": {
+        "ko": "리옹 반도의 맨 끝에서 빠르고 파란 론 강이 느리고 초록빛인 손 강과 부딪혀요. 물을 자세히 들여다보면 두 색깔이 소용돌이치며 하나로 섞이는 순간을 딱 만날지도 몰라요.",
+        "en": "Right at the tip of Lyon's peninsula, the fast blue Rhône crashes into the slow green Saône. Look closely at the water and you might just catch the moment the two colors swirl into one.",
+        "ja": "リヨン半島のいちばん先端で、青く速いローヌ川が、緑がかって穏やかなソーヌ川とぶつかります。水面をよく見ると、二つの色が渦を巻きながら一つに混ざる瞬間に出会えるかもしれません。",
+        "zh": "在里昂半岛的最尖端，湍急湛蓝的罗讷河猛地撞上平缓碧绿的索恩河。仔细看水面，你或许正好能看到两种颜色打着旋儿融为一体的那一刻。"
+      },
+      "coords": [45.7331, 4.8189]
+    }
+  ]
+}

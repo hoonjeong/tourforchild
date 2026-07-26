@@ -1,0 +1,120 @@
+{
+  "id": "barcelona",
+  "country": "es",
+  "coords": [41.3851, 2.1734],
+  "name": { "ko": "바르셀로나", "en": "Barcelona", "ja": "バルセロナ", "zh": "巴塞罗那" },
+  "tagline": {
+    "ko": "2000년 된 로마 성벽과, 가우디의 아직 못다 이룬 꿈의 성당이 함께 있는 도시",
+    "en": "Where 2,000-year-old Roman walls meet Gaudí's still-unfinished dream of a church",
+    "ja": "2000年前のローマの城壁と、ガウディのまだ未完成の夢の教会が同居する街",
+    "zh": "两千年罗马城墙，与高迪那座至今未完工的梦想教堂相遇的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 햇살 가득한 스페인 해안에 지중해를 마주한 작은 로마 마을이 하나 생겨났어요. 전설에 따르면 영웅 헤라클레스가 제일 먼저 이곳에 배를 대었고, 훗날 로마인들이 성벽을 쌓아 '바르시노'라는 이름을 붙였대요. 오늘날 이 자리가 바로 바르셀로나인데, 가장 오래된 골목을 걷다 보면 2000년 가까이 된 돌담을 손으로 직접 만져볼 수 있답니다.",
+      "로마인들이 떠나고 한참 뒤, 안토니 가우디라는 놀라운 건축가가 이 도시와 사랑에 빠졌어요. 그는 반듯한 직선과 밋밋한 벽을 좋아하지 않았어요. 자연은 절대 그렇게 지루하게 만들지 않는다고 생각했거든요. 그래서 파도처럼 굽이치는 집, 용의 비늘처럼 물결치는 지붕, 무지개가 쏟아진 것처럼 알록달록한 조각 타일로 뒤덮인 탑을 지었답니다.",
+      "가우디의 가장 큰 꿈은 사그라다 파밀리아라는 거대한 성당이었어요. 1882년에 공사를 시작했지만, 그는 자기 생전에 완성되지 못하리라는 걸 알고 있었죠. \"제 고객님은 서두르지 않으신답니다.\" 가우디는 이렇게 말하곤 했어요. 하느님을 위해 돌 한 장 한 장을 정성껏 쌓고 있었으니까요. 140년도 더 지난 지금까지도 공사는 계속되고 있는데, 드디어 2026년, 가우디가 세상을 떠난 지 정확히 100년 되는 해에 완공될 예정이랍니다.",
+      "오늘날 바르셀로나는 모든 시대를 보물 상자처럼 한데 섞어 놓았어요. 오래된 로마 성벽, 가우디의 꿈같은 탑들, 1992년 올림픽을 위해 만든 황금빛 해변, 9만 9000명의 함성이 울려 퍼지는 축구 경기장까지! 골목 하나만 걸어도 2000년의 시간을 여행할 수 있어요. 그것도 단 하루 오후 만에요!"
+    ],
+    "en": [
+      "Long, long ago, on the sunny coast of Spain, a small Roman town was born by the Mediterranean Sea. Legend says the hero Hercules himself sailed there first, and centuries later the Romans built walls around it and called it Barcino. Today that same spot is Barcelona, and if you wander its oldest streets you can still touch stones that are almost 2,000 years old.",
+      "Long after the Romans left, an amazing builder named Antoni Gaudí fell in love with this city. He didn't like straight lines and flat walls—he thought nature never made anything that boring. So he built houses that curve like waves, roofs that ripple like dragon scales, and towers covered in sparkling broken tiles, as if a rainbow had shattered across the rooftops.",
+      "Gaudí's biggest dream was a giant church called the Sagrada Família. He started building it in 1882, but he knew he'd never see it finished in his lifetime. \"My client is not in a hurry,\" he liked to say, because he was building it for God, one stone at a time. More than 140 years later, builders are STILL working on it—and it's finally set to be completed in 2026, exactly 100 years after Gaudí died.",
+      "Today Barcelona mixes all its ages together like a treasure chest: ancient Roman walls, Gaudí's dreamy towers, a golden beach built for the 1992 Olympics, and a soccer stadium that roars with 99,000 fans. Walk down one street and you time-travel through 2,000 years—all in a single afternoon!"
+    ],
+    "ja": [
+      "はるか昔、太陽まぶしいスペインの海岸に、地中海を望む小さなローマの町ができました。伝説によると、英雄ヘラクレスが最初にこの地に船を着け、のちにローマ人が城壁を築いて『バルシノ』と名づけたそうです。今日その場所こそがバルセロナ。いちばん古い路地を歩けば、2000年近く前の石垣に自分の手でふれることができます。",
+      "ローマ人が去ってからずっと後、アントニ・ガウディという驚くべき建築家がこの街に恋をしました。彼はまっすぐな線や平らな壁が好きではありませんでした。自然は決してそんな退屈なものを作らないと考えたのです。だから波のように曲がりくねった家や、竜のうろこのように波打つ屋根、虹が砕け散ったようなカラフルなタイルにおおわれた塔を作りました。",
+      "ガウディの一番の夢は、サグラダ・ファミリアという巨大な教会でした。1882年に工事を始めましたが、自分が生きている間には完成しないとわかっていました。「私の依頼主は急いでいませんから」とガウディはよく言っていたそうです。神さまのために、石を一つ一つていねいに積んでいたのですね。140年以上たった今もまだ工事は続いていて、ついに2026年——ガウディが亡くなってちょうど100年の年に完成する予定です。",
+      "今のバルセロナは、すべての時代を宝箱のように混ぜ合わせています。古いローマの城壁、ガウディの夢のような塔、1992年のオリンピックのためにつくられた黄金のビーチ、9万9000人の歓声がひびくサッカースタジアム。一本の道を歩くだけで2000年分をタイムトラベルできる、たった一日の午後で！"
+    ],
+    "zh": [
+      "很久很久以前，在阳光灿烂的西班牙海岸边，诞生了一座面朝地中海的罗马小镇。传说英雄赫拉克勒斯最先在这里靠岸，后来罗马人在此筑起城墙，把它叫做“巴尔西诺”。今天，这个地方就是巴塞罗那——走在最古老的小巷里，你还能亲手摸到将近两千年前的石墙呢。",
+      "罗马人离开很久之后，一位了不起的建筑师安东尼·高迪爱上了这座城市。他不喜欢笔直的线条和平淡的墙壁，因为他觉得大自然从来不会造出这么无趣的东西。于是他建起了像海浪一样弯曲的房子、像龙鳞一样起伏的屋顶，还有裹满彩色碎瓷砖的塔楼，仿佛一道彩虹在屋顶上碎裂开来。",
+      "高迪最大的梦想，是建一座名叫圣家堂的巨型教堂。他在1882年动工，却清楚知道自己有生之年绝对看不到它完工。他常说：“我的客户不着急”，因为他是在为上帝一块一块地精心堆砌石头。140多年过去了，工程至今仍在继续——而它终于将在2026年完工，正好是高迪去世一百周年。",
+      "如今的巴塞罗那，把所有的时代都装进了同一个百宝箱里：古老的罗马城墙、高迪梦幻般的塔楼、为1992年奥运会而建的金色沙滩，还有能容纳九万九千名球迷欢呼的足球场。只要走过一条街，你就能穿越两千年的时光——而且只需要一个下午！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "사그라다 파밀리아는 140년 넘게 짓고 있는 성당인데, 드디어 2026년, 가우디가 세상을 떠난 지 100년 되는 해에 완공될 예정이에요.",
+      "사그라다 파밀리아 안에 있는 돌기둥들은 위로 갈수록 나뭇가지처럼 갈라져서, 천장 전체가 마치 돌로 된 숲처럼 보인답니다.",
+      "가우디는 말년에 성당 공사 현장 안에서 살 정도로 몰두했어요. 1926년 전차 사고를 당했을 때 옷차림이 허름해서 사람들은 그가 유명한 건축가인 줄 몰랐대요. 지금 그는 성당 지하 성소에 잠들어 있어요.",
+      "구엘 공원은 원래 집이 60채나 들어설 고급 주택단지로 계획됐지만, 딱 2채만 지어지고 실패했어요. 대신 가우디의 알록달록한 모자이크로 뒤덮인 공원이 되었답니다.",
+      "지금의 고딕 지구 골목 안에는 2000년 전, 바르셀로나가 '바르시노'라는 작은 성곽 마을이던 시절의 진짜 로마 성벽과 탑이 아직도 숨어 있어요.",
+      "FC 바르셀로나의 캄프 누 경기장은 세계에서 손꼽히게 큰 축구장이에요. 약 9만 9000명이 함께 응원할 수 있는데, 작은 마을 인구만큼이나 많은 숫자랍니다!"
+    ],
+    "en": [
+      "Sagrada Família has been under construction for over 140 years and is finally set to be finished in 2026—100 years after Gaudí died.",
+      "Inside Sagrada Família the stone columns branch out toward the top just like tree trunks, so the whole ceiling looks like a stone forest.",
+      "Gaudí was so devoted to his church in his last years that he practically lived on the construction site. When a tram hit him in 1926, people didn't realize the shabby-looking old man was the famous architect. Today he rests in the crypt beneath the church.",
+      "Park Güell was originally planned as a fancy neighborhood with 60 houses, but only 2 got built and the project flopped—so it became a public park covered in Gaudí's colorful mosaic tiles instead.",
+      "Tucked inside today's Gothic Quarter are real Roman walls and towers from 2,000 years ago, back when Barcelona was just a small walled town called Barcino.",
+      "FC Barcelona's Camp Nou is one of the biggest football stadiums on Earth—it holds about 99,000 cheering fans, almost as many people as a whole small town!"
+    ],
+    "ja": [
+      "サグラダ・ファミリアは140年以上も建設中の教会で、ついに2026年、ガウディが亡くなってから100年の年に完成する予定です。",
+      "サグラダ・ファミリアの中の石柱は、上にいくほど木の枝のように分かれていて、天井全体がまるで石の森のように見えます。",
+      "ガウディは晩年、工事現場の中で暮らすほど教会に打ちこんでいました。1926年に路面電車の事故にあったとき、みすぼらしい身なりのせいで、あの有名な建築家だと誰も気づかなかったそうです。今は教会の地下納骨堂に眠っています。",
+      "グエル公園は、もともと60戸ものおしゃれな住宅地になる予定でしたが、実際に建ったのはたった2軒。計画は失敗しましたが、代わりにガウディのカラフルなモザイクでおおわれた公園になりました。",
+      "今のゴシック地区の路地の下には、バルセロナが『バルシノ』という小さな城壁の町だった2000年前の、本物のローマの城壁と塔がまだ隠れています。",
+      "FCバルセロナのカンプ・ノウ・スタジアムは世界有数の大きさのサッカー場。約9万9000人が一緒に応援でき、小さな町の人口ほどにもなる数なんですよ！"
+    ],
+    "zh": [
+      "圣家堂已经建了140多年，终于将在2026年——高迪去世一百周年——正式完工。",
+      "圣家堂里的石柱越往上就越像树枝一样分叉展开，让整个天花板看起来像一片石头森林。",
+      "高迪晚年全身心扑在教堂上，几乎就住在工地里。1926年他被电车撞伤时，因为衣着破旧，没人认出他就是那位著名建筑师。如今他就长眠在教堂地下墓室里。",
+      "奎尔公园原本计划建成有60栋别墅的高级住宅区，结果只建成了2栋，项目宣告失败，最后变成了铺满高迪彩色马赛克的公共公园。",
+      "如今哥特区的小巷底下，依然藏着两千年前的真正罗马城墙和城楼——那时的巴塞罗那还只是一座叫“巴尔西诺”的小小城墙镇。",
+      "巴塞罗那足球俱乐部的诺坎普球场是世界上最大的足球场之一，能容纳约九万九千名球迷一起呐喊助威，几乎相当于一个小镇的人口！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "140년 넘게 짓고 있는 성당이라니, 언제쯤 완공될지 맞혀볼래?",
+    "en": "A church that's been under construction for over 140 years—can you guess what year it might finally be finished?",
+    "ja": "140年以上も工事中の教会だって。いつ完成するか当ててみる？",
+    "zh": "一座盖了140多年还没完工的教堂，你能猜出它哪一年才会终于完工吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "사그라다 파밀리아", "en": "Sagrada Família", "ja": "サグラダ・ファミリア", "zh": "圣家堂" },
+      "blurb": {
+        "ko": "1882년부터 짓기 시작한 가우디의 꿈의 성당이에요. 이제서야, 바로 2026년에 드디어 완공된답니다. 안으로 들어가 위를 올려다보면 기둥들이 돌로 된 숲처럼 가지를 뻗고, 색유리창으로 무지갯빛 햇살이 쏟아져요.",
+        "en": "Gaudí's dream church has been rising since 1882 and is only now, in 2026, finally being finished. Step inside and look up—the columns branch out like a stone forest, and colored light pours through the windows like a rainbow.",
+        "ja": "1882年から建て続けられてきたガウディの夢の教会。ようやく2026年に完成します。中に入って見上げると、柱が石の森のように枝分かれし、色ガラスの窓から虹色の光が降りそそぎます。",
+        "zh": "从1882年开始建造的高迪梦想教堂，如今终于要在2026年完工了。走进去抬头一看，石柱像森林一样向上分叉，彩色玻璃窗洒下五彩斑斓的光。"
+      },
+      "coords": [41.4036, 2.1744]
+    },
+    {
+      "name": { "ko": "구엘 공원", "en": "Park Güell", "ja": "グエル公園", "zh": "奎尔公园" },
+      "blurb": {
+        "ko": "이 언덕 위 공원은 원래 고급 주택단지가 될 예정이었지만, 살고 싶어 하는 사람이 거의 없어서 대신 신기한 놀이터가 되었어요. 알록달록 모자이크 도마뱀, 구불구불한 벤치, 숲처럼 늘어선 돌기둥 사이를 걷다 보면 바르셀로나 전체가 반짝이며 내려다보인답니다.",
+        "en": "This hilltop park was meant to be a fancy neighborhood, but almost nobody wanted to live there—so it became a wonderland instead. Wander past a mosaic dragon, wavy benches, and stone columns shaped like a forest, with all of Barcelona sparkling below.",
+        "ja": "この丘の上の公園は、もともとおしゃれな住宅地になるはずでした。でも住みたい人がほとんどいなくて、代わりに不思議な遊び場になったのです。モザイクのトカゲや波打つベンチ、森のように並ぶ石柱の間を歩けば、バルセロナの街が下にきらきら広がって見えます。",
+        "zh": "这座山丘公园原本要建成高级住宅区，可是几乎没人愿意住进来，于是它变成了一座奇妙乐园。走过马赛克蜥蜴、波浪长椅和像森林一样排列的石柱，整个巴塞罗那都在脚下闪闪发光。"
+      },
+      "coords": [41.4145, 2.1527]
+    },
+    {
+      "name": { "ko": "카사 바트요", "en": "Casa Batlló", "ja": "カサ・バトリョ", "zh": "巴特罗之家" },
+      "blurb": {
+        "ko": "가우디는 이 집 지붕을 용의 비늘 등처럼 만들고, 발코니는 해골 가면 모양으로 꾸며서 평범한 거리를 동화 속 장면으로 바꿔놓았어요. 사람들은 살아 있는 것처럼 생긴 겉모습 때문에 이 집을 '뼈의 집'이라고 불러요.",
+        "en": "Gaudí gave this house a roof like a dragon's scaly back and balconies shaped like skull-masks, turning an ordinary street into a fairy tale. Locals nicknamed it the \"House of Bones\" because its front looks almost alive.",
+        "ja": "ガウディはこの家の屋根を竜のうろこの背中のように、バルコニーを骸骨の仮面のような形にして、ふつうの通りをおとぎ話のワンシーンに変えました。まるで生きているような外観から、人々はこの家を『骨の家』と呼びます。",
+        "zh": "高迪把这栋房子的屋顶做成了龙背鳞片的样子，阳台则像一张张骷髅面具，把普通的街道变成了童话场景。因为外墙看起来仿佛活着一样，当地人给它起了个外号叫“骨头之家”。"
+      },
+      "coords": [41.3917, 2.1649]
+    },
+    {
+      "name": { "ko": "고딕 지구의 로마 성벽", "en": "Roman Walls of Barri Gòtic", "ja": "ゴシック地区のローマ城壁", "zh": "哥特区罗马城墙" },
+      "blurb": {
+        "ko": "상점과 카페 사이에 2000년 가까이 된 진짜 로마 성벽과 감시탑이 숨어 있어요. 그때는 도시 전체가 '바르시노'라는 작은 요새였답니다. 오래된 돌을 만져보면 바르셀로나의 가장 첫 벽돌을 만지는 셈이에요.",
+        "en": "Tucked between shops and cafés are real stone walls and watchtowers the Romans built almost 2,000 years ago, back when this whole city was just a small fort called Barcino. Touch the ancient stone and you're touching Barcelona's very first bricks.",
+        "ja": "お店やカフェの間に、2000年近く前にローマ人が築いた本物の石の城壁と見張り塔が隠れています。当時は街全体が『バルシノ』という小さな砦でした。古い石にふれれば、バルセロナ最初のれんがにふれているのと同じです。",
+        "zh": "在商店和咖啡馆之间，藏着将近两千年前罗马人建造的真正石墙和瞭望塔。那时整座城市还只是一座叫“巴尔西诺”的小城堡。摸一摸这古老的石头，就等于摸到了巴塞罗那最初的砖石。"
+      },
+      "coords": [41.3833, 2.1765]
+    }
+  ]
+}

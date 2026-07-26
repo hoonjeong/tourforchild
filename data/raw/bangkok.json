@@ -1,0 +1,120 @@
+{
+  "id": "bangkok",
+  "country": "th",
+  "coords": [13.7563, 100.5018],
+  "name": { "ko": "방콕", "en": "Bangkok", "ja": "バンコク", "zh": "曼谷" },
+  "tagline": {
+    "ko": "세상에서 가장 긴 이름을 가진 도시, 황금 사원과 반짝이는 운하 위에 세워지다",
+    "en": "The city with the world's longest name, built on golden temples and shimmering canals",
+    "ja": "世界一長い名前を持つ街、黄金の寺院ときらめく運河の上に築かれた",
+    "zh": "拥有世界最长名字的城市，建在金色寺庙与波光运河之上"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 태국에는 '아유타야'라는 크고 아름다운 왕국이 있었어요. 하지만 전쟁으로 아유타야가 무너지자, 태국 사람들은 새로운 수도가 필요했답니다. 1782년, '라마 1세'라는 왕이 짜오프라야강 동쪽 기슭에 반짝이는 새 도시를 세우기 시작했어요. 왕은 이 도시에 좋은 기운을 담아 아주 긴 이름을 지어 주었답니다.",
+      "그런데 그 정식 이름이 어찌나 긴지, 세계 기록을 가지고 있어요! 무려 글자 168개로 이루어져 있어서, 기네스 세계기록에 '세상에서 가장 긴 지명'으로 올라 있답니다. 그래서 태국 사람들도 짧은 별명으로 부르고, 다른 나라 사람들은 그냥 '방콕'이라고 부르지요.",
+      "방콕은 물 위에서 자라난 도시예요. '클롱'이라는 운하마다 배들이 쌀과 과일, 꽃을 싣고 물 위 시장으로 오갔어요. 그래서 사람들은 방콕을 '동양의 베네치아'라고 불렀답니다. 도시 한가운데에는 황금빛 지붕이 반짝이는 궁전이 있는데, 그 안엔 아주 작고 귀한 초록빛 불상이 있어요. 얼마나 귀한지, 일 년에 세 번이나 왕이 직접 옷을 갈아입힌답니다!",
+      "강 건너편에는 '왓 아룬'이라는 절이 해 뜰 때마다 반짝여요. 자세히 보면 알록달록한 도자기 조각 수백만 개로 장식되어 있답니다. 근처에는 몸집이 어마어마하게 커서 절 안에 누워 있어야만 들어가는 황금 불상도 있어요! 지금도 방콕에서는 200년 된 이 신비한 건물들과 하늘을 달리는 전철, 높은 빌딩들이 사이좋게 어우러져 있답니다."
+    ],
+    "en": [
+      "Long, long ago, there was a great Thai kingdom called Ayutthaya, but after it was destroyed in a war, the Thai people needed a brand-new capital. In 1782, King Rama I chose a spot on the east bank of the Chao Phraya River and began building a shining new city. He named it Krung Thep — and gave it a much longer name too, to bless it with good fortune.",
+      "That full name is so long, it holds a world record! It has 168 letters and is the longest place name on Earth, according to the Guinness World Records. Most Thai people just use a short nickname for it — and the rest of the world calls it Bangkok.",
+      "Bangkok grew up along water. Boats zipped down canals called khlongs, carrying rice, fruit, and flowers to floating markets, so people started calling it the 'Venice of the East.' In the middle of it all, the king built a dazzling palace with golden roofs and a tiny green Buddha statue so precious it gets its clothes changed by the king himself, three times a year!",
+      "Right across the river, a temple called Wat Arun sparkles at sunrise, covered in millions of tiny broken pieces of colorful porcelain. Not far away lies a giant gold Buddha, so long he has to lie down just to fit inside his own temple! Even today, Bangkok mixes these 200-year-old wonders with sky trains and skyscrapers, so old and new sit side by side."
+    ],
+    "ja": [
+      "はるか昔、タイには『アユタヤ』という大きくて美しい王国がありました。でも戦争でアユタヤがほろびると、タイの人々は新しい都が必要になりました。1782年、『ラーマ1世』という王様が、チャオプラヤー川の東岸にきらめく新しい都を築きはじめました。王様はこの街に幸運がやどるようにと、とても長い名前をつけたのです。",
+      "その正式な名前は、なんと世界記録を持つほど長いんです！168文字もあり、ギネス世界記録で『世界一長い地名』に選ばれています。だからタイの人たちも短いニックネームで呼び、外国では『バンコク』と呼ばれています。",
+      "バンコクは水の上で育った街です。『クロン』と呼ばれる運河を舟が行き交い、お米や果物、花を水上マーケットへ運びました。そのため人々はバンコクを『東洋のヴェネツィア』と呼びました。街の真ん中には金色の屋根が輝く宮殿があり、その中にはとても小さく貴重な緑色の仏像がまつられています。あまりに大切なので、王様自ら年に3回、衣を着せかえるのです！",
+      "川の向こう岸には『ワット・アルン』というお寺が、朝日を浴びてきらきら輝きます。近づいて見ると、色とりどりの陶器のかけらが何百万個も貼られています。近くには、体があまりに大きくて寝そべった姿でしかお寺に入りきらない金色の仏像もあるんです！今もバンコクでは、200年前のこの不思議な建物と、空を走る電車や高いビルが仲良く並んでいます。"
+    ],
+    "zh": [
+      "很久很久以前，泰国有一个繁华美丽的王国，叫“大城王朝”（阿瑜陀耶）。可是战争让大城被毁，泰国人急需一座新都城。1782年，一位名叫拉玛一世的国王，在昭披耶河东岸开始建造一座崭新的都城。为了给这座城市带来好运，他还给它取了一个非常非常长的名字。",
+      "这个正式名字长到创下了世界纪录！它有168个字母，被吉尼斯世界纪录认定为“世界最长的地名”。所以泰国人平时都用简称来叫它，而世界各地的人则直接叫它“曼谷”。",
+      "曼谷是一座从水上长大的城市。名叫“克隆”的运河里，小船载着大米、水果和鲜花，来来往往开往水上市场，因此人们把曼谷称为“东方威尼斯”。城市中央有一座金顶闪耀的王宫，里面供奉着一尊小巧却无比珍贵的翡翠佛像。它有多珍贵呢？国王每年都要亲自为它换三次“衣服”！",
+      "河对岸有一座叫“郑王庙”（黎明寺）的寺庙，在朝阳下闪闪发光——走近一看，上面镶嵌着数百万片五颜六色的瓷器碎片。附近还有一尊金色的巨大佛像，因为身形实在太大，只能躺着才能装进自己的寺庙！如今的曼谷，两百年历史的这些奇妙建筑，依然和空中列车、摩天大楼和睦相处，古今交融。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "방콕의 정식 이름은 무려 168글자! 기네스 세계기록에 '세상에서 가장 긴 지명'으로 올라 있어요.",
+      "왕궁 안 작은 에메랄드 불상은 초록빛 옥 하나를 통째로 깎아 만들었는데, 왕이 직접 일 년에 세 번 옷을 갈아입힌대요.",
+      "왓 포의 와불상은 길이 46m, 높이 15m! 거대한 발바닥에는 자개로 만든 108개의 상서로운 문양이 새겨져 있어요.",
+      "방콕은 '클롱'이라는 운하를 따라 커졌어요. 배들이 과일과 꽃을 물 위 시장으로 실어 날라서 '동양의 베네치아'라는 별명이 붙었죠.",
+      "왓 아룬(새벽 사원)은 수백만 개의 도자기 조각으로 뒤덮여 있는데, 이건 옛날 배의 무게를 잡아주던 중국산 그릇 조각들이었대요.",
+      "방콕 거리를 누비는 삼륜 택시 '뚝뚝'은 엔진에서 나는 '뚝뚝뚝' 소리 때문에 그런 이름이 붙었답니다."
+    ],
+    "en": [
+      "Bangkok's full ceremonial name has 168 letters and holds the Guinness World Record for the longest place name on Earth.",
+      "The tiny Emerald Buddha in the Grand Palace is carved from a single block of green jade — and the king changes its robes with his own hands three times a year.",
+      "The reclining Buddha at Wat Pho is 46 meters long and 15 meters tall, with 108 lucky symbols inlaid in mother-of-pearl across the soles of its giant feet.",
+      "Bangkok grew up along canals called khlongs, with boats delivering fruit and flowers to floating markets — that's why it was once nicknamed the 'Venice of the East.'",
+      "Wat Arun, the Temple of Dawn, is covered in millions of broken porcelain pieces — leftover Chinese chinaware that once weighed down ships as ballast.",
+      "Bangkok's buzzing three-wheeled taxis are called tuk-tuks, named after the puttering 'tuk-tuk-tuk' sound their engines make."
+    ],
+    "ja": [
+      "バンコクの正式名称はなんと168文字！ギネス世界記録で『世界一長い地名』に認定されています。",
+      "王宮の中の小さなエメラルド仏像は、緑の翡翠をひとかたまりから彫り出したもの。王様自ら年に3回、衣を着せかえるそうです。",
+      "ワット・ポーの寝釈迦仏は長さ46メートル、高さ15メートル！大きな足の裏には、螺鈿で108の縁起のいい模様が描かれています。",
+      "バンコクは『クロン』という運河ぞいに発展しました。舟が果物や花を水上マーケットへ運んだことから『東洋のヴェネツィア』と呼ばれました。",
+      "ワット・アルン（暁の寺）は何百万個もの陶器のかけらでおおわれていますが、これは昔、船の重しに使われていた中国製の器の破片なんです。",
+      "バンコクを走る三輪タクシー『トゥクトゥク』は、エンジンが立てる『トゥクトゥクトゥク』という音からその名がついたそうです。"
+    ],
+    "zh": [
+      "曼谷的正式全名足足有168个字母，被吉尼斯世界纪录认定为“世界最长的地名”！",
+      "王宫里那尊小小的翡翠佛像，是用一整块绿玉雕成的——国王每年都会亲手为它换三次“衣服”。",
+      "卧佛寺的卧佛长46米、高15米！巨大的脚底上镶嵌着108个用螺钿做成的吉祥图案。",
+      "曼谷是沿着名叫“克隆”的运河发展起来的，小船曾载着水果和鲜花驶向水上市场，因此得名“东方威尼斯”。",
+      "黎明寺（郑王庙）上覆盖着数百万片瓷器碎片，这些其实是当年用来压船舱、防止船只晃动的中国瓷器碎片。",
+      "穿梭在曼谷街头的三轮出租车叫“嘟嘟车”，因为它的发动机会发出“嘟嘟嘟”的声音，因此得名。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "이름이 무려 168글자나 된다니, 한 번에 다 말할 수 있을까?",
+    "en": "A city's official name that's 168 letters long — could you even say it all in one breath?",
+    "ja": "名前がなんと168文字もあるなんて、一息で言えるかな？",
+    "zh": "一座城市的正式名字竟然有168个字母，你能一口气念完吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "왕궁 (에메랄드 사원)", "en": "The Grand Palace & Wat Phra Kaew", "ja": "王宮（エメラルド寺院）", "zh": "大皇宫（玉佛寺）" },
+      "blurb": {
+        "ko": "150년 동안 태국 왕들이 살았던, 황금빛 첨탑이 눈부신 궁전이에요. 담장 안에는 아주 작고 귀한 에메랄드 불상이 모셔져 있는데, 계절마다 왕이 직접 다른 옷으로 갈아입힌답니다.",
+        "en": "This dazzling palace of golden spires was home to Thai kings for 150 years. Inside its walls sits the tiny, precious Emerald Buddha, dressed by the king himself in different robes for each season.",
+        "ja": "150年もの間タイの王様たちが暮らした、金色の尖塔がまばゆい宮殿です。塀の中には小さくて貴重なエメラルド仏像が祭られており、季節ごとに王様自らが衣を替えます。",
+        "zh": "这座金顶尖塔耀眼夺目的王宫，曾是泰国国王居住150年的地方。宫墙内供奉着娇小珍贵的翡翠佛像，国王会按季节亲自为它更换衣服。"
+      },
+      "coords": [13.7500, 100.4913]
+    },
+    {
+      "name": { "ko": "왓 아룬 (새벽 사원)", "en": "Wat Arun (Temple of Dawn)", "ja": "ワット・アルン（暁の寺）", "zh": "郑王庙（黎明寺）" },
+      "blurb": {
+        "ko": "강가에 우뚝 선 이 사원은 해가 뜰 때마다 반짝여요. 알록달록한 도자기 조각 수백만 개가 첨탑에 촘촘히 박혀 있거든요. 가파른 계단을 오르면 마치 거대한 예술 작품 속에 들어온 기분이 든답니다.",
+        "en": "Rising beside the river, this temple glitters at sunrise thanks to millions of colorful porcelain pieces pressed into its spires. Climb its steep steps and you'll feel like you're standing inside a giant work of art.",
+        "ja": "川辺にそびえるこの寺院は、朝日を浴びるたびにきらめきます。色とりどりの陶器のかけらが何百万個も尖塔にちりばめられているからです。急な階段をのぼると、まるで巨大な芸術作品の中にいるような気分になります。",
+        "zh": "这座矗立在河边的寺庙，每逢日出便闪闪发光，因为尖塔上镶嵌着数百万片五彩瓷片。爬上陡峭的台阶，你会感觉自己走进了一件巨大的艺术品。"
+      },
+      "coords": [13.7437, 100.4888]
+    },
+    {
+      "name": { "ko": "왓 포 (와불 사원)", "en": "Wat Pho (Temple of the Reclining Buddha)", "ja": "ワット・ポー（涅槃仏寺）", "zh": "卧佛寺（涅槃寺）" },
+      "blurb": {
+        "ko": "거대한 와불상이 있는 절이에요. 부처님이 어찌나 큰지 법당 안에 겨우 들어갈 정도랍니다. 이곳은 또한 태국 전통 마사지가 시작된 곳으로, 수백 년째 마사지 기술을 가르치고 있어요.",
+        "en": "Home to a giant reclining Buddha, so big he barely fits inside his own hall. This temple is also known as the birthplace of traditional Thai massage, taught here for centuries.",
+        "ja": "巨大な寝釈迦仏があるお寺です。仏さまがあまりに大きくて、お堂にぎりぎり収まるほど。ここはタイ式マッサージ発祥の地としても知られ、何百年もマッサージの技を教え続けています。",
+        "zh": "这里供奉着巨大的卧佛，佛像大到几乎塞满整座大殿。这里也被视为泰式按摩的发源地，数百年来一直在传授按摩技艺。"
+      },
+      "coords": [13.7465, 100.4930]
+    },
+    {
+      "name": { "ko": "짜오프라야 강", "en": "Chao Phraya River", "ja": "チャオプラヤー川", "zh": "昭披耶河" },
+      "blurb": {
+        "ko": "넓고 활기찬 이 강은 방콕의 원조 '도로'예요. 롱테일 보트가 물 위 시장과 운하 옆 집들을 스쳐 지나가는 모습을 보면, 옛 방콕이 왜 '동양의 베네치아'라 불렸는지 알 수 있답니다.",
+        "en": "This wide, busy river is Bangkok's original highway. Long-tail boats zoom past floating markets and canal-side houses, showing you why old Bangkok was called the 'Venice of the East.'",
+        "ja": "広くにぎやかなこの川は、バンコクのもともとの『道路』でした。ロングテールボートが水上マーケットや運河沿いの家々のそばを走り抜ける様子を見れば、昔のバンコクがなぜ『東洋のヴェネツィア』と呼ばれたのか分かります。",
+        "zh": "这条宽阔繁忙的河流是曼谷最早的“道路”。长尾船穿梭于水上市场和运河边的房屋之间，让你明白为什么昔日的曼谷被称为“东方威尼斯”。"
+      },
+      "coords": [13.7433, 100.4930]
+    }
+  ]
+}

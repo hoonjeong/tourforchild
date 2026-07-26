@@ -1,0 +1,120 @@
+{
+  "id": "losangeles",
+  "country": "us",
+  "coords": [34.0522, -118.2437],
+  "name": { "ko": "로스앤젤레스", "en": "Los Angeles", "ja": "ロサンゼルス", "zh": "洛杉矶" },
+  "tagline": {
+    "ko": "작은 농사 마을에서 전 세계의 '꿈의 공장'으로, 그 밑엔 매머드가 잠들어 있는 도시",
+    "en": "A tiny farm village that grew into the world's dream factory—with mammoths buried underneath",
+    "ja": "小さな農村から世界の『夢の工場』へ――地下にはマンモスが眠る街",
+    "zh": "从小小农村长成世界“梦工厂”——脚下还沉睡着猛犸象的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 오래 전, 영화배우도 고속도로도 없던 시절, 로스앤젤레스는 작은 농사 마을이었어요. 1781년, 스페인·아프리카·원주민 혈통을 가진 44명의 정착민들이 강가 골짜기로 걸어 들어와 작은 마을을 세웠어요. 그들은 이곳을 '천사들의 여왕'이라는 뜻을 담아 이름 지었는데, '로스앤젤레스'는 스페인어로 그냥 '천사들'이라는 뜻이랍니다. 그때는 흙벽돌 집과 과수원뿐, 지금 우리가 아는 거대한 도시와는 전혀 달랐어요.",
+      "로스앤젤레스는 백 년 넘게 천천히 자랐어요. 그러다 1900년대 초, 동부에서 온 영화 제작자들이 이곳에 몰려들기 시작했죠. 일 년 내내 거의 매일 쨍쨍한 햇살과, 차로 조금만 가면 바다·사막·산·숲까지 다 있는 놀라운 풍경이 그들을 사로잡았거든요. 곧 영화 스튜디오들이 여기저기 생겨났고, 언덕 위엔 새 주택 분양을 광고하려고 'HOLLYWOODLAND'라는 커다란 간판이 세워졌어요.",
+      "그 간판은 나중에 뒤 네 글자를 잃고, 지금 우리가 아는 유명한 'HOLLYWOOD' 사인이 되었어요. 이 사인은 전 세계에 영화와 드라마를 만들어 보내는 도시를 지금도 내려다보고 있죠. 그런데 로스앤젤레스에는 이보다 훨씬 오래된 비밀이 도시 한복판에 숨어 있어요. 수만 년 동안 땅속에서 보글보글 솟아오른 끈적한 검은 타르 웅덩이가, 매머드와 검치호랑이 같은 동물들을 옛날 모습 그대로 가두어 버린 거예요.",
+      "과학자들은 그 끈적한 타르에서 수백만 개의 고대 뼈를 캐냈고, 지금도 도시 한가운데서 타르가 보글보글 올라오는 모습을 직접 볼 수 있답니다. 그러니 로스앤젤레스는 정말 신기한 도시예요. 작은 농사 마을이 전 세계의 '꿈의 공장'으로 자라났는데, 그 밑에는 빙하 시대 타임캡슐이 깔려 있으니까요. 바다, 산, 영화 마법, 그리고 매머드까지—이 도시 하나에 다 있답니다!"
+    ],
+    "en": [
+      "Long before movie stars and freeways, Los Angeles began as a tiny farming village. In 1781, 44 settlers—families of Spanish, African, and Indigenous heritage—walked into a valley by a river and built a small pueblo. They named it after Our Lady, Queen of the Angels—\"Los Angeles\" simply means \"The Angels\" in Spanish. Back then it was just adobe houses and orchards, nothing like the giant city you know today.",
+      "For over a hundred years, Los Angeles grew slowly. Then in the early 1900s, filmmakers making the first movies started arriving from the East Coast. They loved LA's sunshine, which shone almost every single day of the year, and the amazing mix of scenery nearby—ocean, desert, mountains, and forest, all within a short drive. Soon studios popped up, and a giant sign reading \"HOLLYWOODLAND\" was built on a hillside to advertise new houses for sale.",
+      "That sign later lost its last four letters and became the famous HOLLYWOOD sign you can still see today, watching over a city that makes movies and shows for the whole planet. But LA holds an even older secret hidden right in the middle of the city: black pools of sticky tar that have bubbled up from underground for tens of thousands of years, trapping woolly mammoths and saber-toothed cats like a prehistoric snare.",
+      "Scientists have pulled millions of ancient bones out of that sticky tar, and you can still watch it bubble today. So Los Angeles is a strange and wonderful mix: a small farm village that grew into a dream factory for the world, sitting right on top of an ice-age time capsule. Beaches, mountains, movie magic, and mammoths—all in one city!"
+    ],
+    "ja": [
+      "はるか昔、映画スターも高速道路もなかったころ、ロサンゼルスは小さな農業の村でした。1781年、スペイン系・アフリカ系・先住民の血を引く44人の入植者が、川沿いの谷に歩いて入り、小さな村を築きました。彼らはこの地を『天使たちの女王』にちなんで名づけ、『ロサンゼルス』はスペイン語でただ『天使たち』という意味なのです。当時は日干しれんがの家と果樹園があるだけで、今の巨大な都市とはまるで違いました。",
+      "ロサンゼルスは百年以上かけてゆっくり成長しました。そして1900年代の初め、東海岸から映画を作る人々がこの地にやってくるようになります。一年中ほぼ毎日照りつける太陽と、車で少し行くだけで海、砂漠、山、森まで全部そろうすばらしい景色に、彼らは心をうばわれました。すぐに映画スタジオがあちこちにでき、丘の上には新しい家の分譲を宣伝する『HOLLYWOODLAND』という大きな看板が立てられました。",
+      "その看板はのちに後ろの4文字を失い、今よく知られる『HOLLYWOOD』のサインになりました。このサインは今も、世界中に映画やドラマを送り出す街を見下ろしています。でも、ロサンゼルスにはもっと古い秘密が街のど真ん中にかくれています。何万年もの間、地面からぷくぷくとわき出るねばねばした黒いタールの池が、マンモスやサーベルタイガーのような動物たちをそのまま閉じこめてしまったのです。",
+      "科学者たちはそのねばねばのタールから何百万個もの古代の骨を掘り出しました。そして今でも、街の真ん中でタールがぷくぷくとわき出るようすを実際に見ることができます。だからロサンゼルスは、とても不思議な街なのです。小さな農業の村が世界の『夢の工場』に育ちましたが、その足もとには氷河時代のタイムカプセルがねむっているのですから。海、山、映画の魔法、そしてマンモスまで――この一つの街に、全部そろっているんですよ！"
+    ],
+    "zh": [
+      "很久很久以前，还没有电影明星，也没有高速公路的时候，洛杉矶只是一个小小的农业村庄。1781年，44名拥有西班牙、非洲和原住民血统的移民，走进一条河边的山谷，建起了一个小村落。他们用“天使女王”的名字为这里命名——“洛杉矶”在西班牙语里的意思就是“天使们”。那时候这里只有土坯房和果园，和今天我们熟悉的这座大城市完全不一样。",
+      "洛杉矶花了一百多年慢慢成长。到了1900年代初，从东海岸赶来的电影人开始聚集到这里。几乎一年到头天天灿烂的阳光，还有开车不远就能到达的大海、沙漠、高山和森林，让他们着了迷。很快，一间间电影制片厂冒了出来，山坡上还立起了一块写着“HOLLYWOODLAND”的巨大广告牌，用来推销新建的房子。",
+      "后来，那块牌子丢掉了最后四个字母，变成了今天大名鼎鼎的“HOLLYWOOD”（好莱坞）标牌。它至今仍俯瞰着这座向全世界输送电影和剧集的城市。不过，洛杉矶市中心还藏着一个更古老的秘密：数万年来，黏糊糊的黑色沥青一直从地下咕嘟咕嘟地冒出来，把猛犸象、剑齿虎这样的古代动物原样困住，直到今天。",
+      "科学家们从这黏黏的沥青里挖出了数百万块古代骨头，而你今天仍然能在市中心亲眼看到沥青咕嘟冒泡的样子。所以洛杉矶是一座既奇妙又特别的城市：一个小小的农业村庄长成了面向全世界的“梦工厂”，脚下却埋着一整座冰河时代的时间胶囊。大海、高山、电影魔法，还有猛犸象——全都汇聚在这一座城市里！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "도시 한복판에 있는 라브레아 타르 웅덩이는 지금도 보글보글 끓어오르는데, 매머드와 검치호랑이 같은 빙하 시대 동물 화석이 350만 개 넘게 나왔어요.",
+      "유명한 'HOLLYWOOD' 사인은 원래 'HOLLYWOODLAND'였는데, 1923년 새 주택 단지를 광고하려고 세운 간판이었어요.",
+      "로스앤젤레스는 1781년, 정착민 44명이 세운 작은 농사 마을에서 시작됐어요. 처음 지어진 정식 이름은 글자 수가 40개가 넘을 만큼 길었대요!",
+      "'로스앤젤레스'는 스페인어로 그냥 '천사들'이라는 뜻이에요. 그래서 이 도시의 별명이 '천사의 도시'랍니다.",
+      "로스앤젤레스에는 200개가 넘는 언어를 쓰는 사람들이 모여 살아요. 아마 지구에서 언어가 가장 다양한 도시 중 하나일 거예요.",
+      "이 지역은 땅이 움직이는 '샌안드레아스 단층' 위에 있어서 가끔 땅이 살짝 흔들려요. 그래서 과학자들이 특별한 장비로 늘 지켜보고 있답니다."
+    ],
+    "en": [
+      "The La Brea Tar Pits in the middle of the city still bubble today, and have given up more than 3.5 million fossils of ice-age animals like mammoths and saber-toothed cats.",
+      "The famous HOLLYWOOD sign originally read HOLLYWOODLAND and was just an advertisement for a new housing development built in 1923.",
+      "LA started in 1781 as a tiny farming pueblo of 44 settlers—its full original name was more than 40 letters long!",
+      "\"Los Angeles\" simply means \"The Angels\" in Spanish—that's why it's nicknamed \"The City of Angels.\"",
+      "LA's metro area is home to people who speak over 200 languages—probably the most linguistically diverse city on Earth.",
+      "The region sits on a moving crack in the ground called the San Andreas Fault, so the earth sometimes trembles gently, and scientists keep a close watch with special instruments."
+    ],
+    "ja": [
+      "街のど真ん中にあるラ・ブレア・タールピットは今もぷくぷくとわき出ていて、マンモスやサーベルタイガーなど氷河時代の動物の化石が350万個以上も見つかっています。",
+      "有名な『HOLLYWOOD』のサインは、もとは『HOLLYWOODLAND』でした。1923年に新しい住宅地を宣伝するために建てられた看板だったのです。",
+      "ロサンゼルスは1781年、44人の入植者が築いた小さな農業の村から始まりました。最初につけられた正式な名前は40文字以上もある長いものでした！",
+      "『ロサンゼルス』はスペイン語でただ『天使たち』という意味。だからこの街のニックネームは『天使の都』なんです。",
+      "ロサンゼルスには200以上の言語を話す人々が暮らしています。地球上でもっとも言語が多様な都市の一つかもしれません。",
+      "この地域は動く『サンアンドレアス断層』の上にあるので、時どき地面が少しゆれます。だから科学者たちが特別な機器でいつも見守っているんですよ。"
+    ],
+    "zh": [
+      "市中心的拉布雷亚沥青坑至今仍咕嘟冒泡，已经出土了350多万件猛犸象、剑齿虎等冰河时代动物的化石。",
+      "著名的“HOLLYWOOD”标牌最初写的是“HOLLYWOODLAND”，是1923年为推销新建住宅区而立的广告牌。",
+      "洛杉矶始于1781年，由44名移民建立的一个小小农业村庄。它最初的正式名字长达40多个字母！",
+      "“洛杉矶”在西班牙语中的意思就是“天使们”，所以这座城市的别称是“天使之城”。",
+      "洛杉矶居住着讲200多种语言的人们，可能是地球上语言最多样的城市之一。",
+      "这个地区正好位于会移动的“圣安德烈亚斯断层”上，所以地面偶尔会轻轻晃动，科学家们一直用特殊仪器密切监测着。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "영화배우들이 사는 도시 밑에 진짜 매머드가 갇혀 있다니, 정말 믿을 수 있을까?",
+    "en": "A movie-star city with real mammoths trapped underground—could that possibly be true?",
+    "ja": "映画スターの街の地下に、本物のマンモスが閉じこめられているなんて、信じられる？",
+    "zh": "电影明星的城市地下，竟然困着真正的猛犸象，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "라브레아 타르 웅덩이", "en": "La Brea Tar Pits", "ja": "ラ・ブレア・タールピット", "zh": "拉布雷亚沥青坑" },
+      "blurb": {
+        "ko": "도시 한복판에서 검은 타르가 수만 년 전처럼 지금도 보글보글 솟아올라요. 과학자들은 이 끈적한 함정에서 검치호랑이 뼈대까지 350만 개가 넘는 빙하 시대 화석을 캐냈답니다. 타르가 진짜로 보글거리는 모습을 보고, 바로 옆 박물관에서 옛날 동물들도 만나보세요.",
+        "en": "Right in the middle of the city, black tar still bubbles up from the ground just like it has for tens of thousands of years. Scientists have pulled more than 3.5 million ice-age bones from this sticky trap, including whole saber-toothed cat skeletons. Watch the tar bubble for real, then meet the ancient animals inside the museum next door.",
+        "ja": "街のど真ん中で、何万年も前から変わらず黒いタールが今もぷくぷくとわき出ています。科学者たちはこのねばねばした罠から、サーベルタイガーの全身骨格をふくむ350万個以上の氷河時代の化石を掘り出しました。実際にわき出るタールを見て、隣の博物館で昔の動物たちにも会ってみてね。",
+        "zh": "在市中心，黑色沥青至今仍像数万年前一样咕嘟咕嘟地往外冒。科学家们从这个黏糊糊的陷阱里挖出了350多万件冰河时代化石，其中还有完整的剑齿虎骨架。来这里亲眼看看沥青冒泡的样子，再到旁边的博物馆见见这些古代动物吧。"
+      },
+      "coords": [34.0620, -118.3565]
+    },
+    {
+      "name": { "ko": "그리피스 천문대와 할리우드 사인", "en": "Griffith Observatory & the Hollywood Sign", "ja": "グリフィス天文台とハリウッドサイン", "zh": "格里菲斯天文台与好莱坞标牌" },
+      "blurb": {
+        "ko": "이 언덕 위 천문대에서는 원래 집을 팔려고 세웠던 그 유명한 'HOLLYWOOD' 사인을 가장 멋지게 볼 수 있어요. 안으로 들어가면 진짜 망원경으로 별을 보고, 커다란 돔 안에서 별자리 쇼도 즐길 수 있답니다. 맑은 밤엔 반짝이는 도시 전체가 발아래 펼쳐져요.",
+        "en": "From this hilltop observatory you get the best view of the famous HOLLYWOOD sign, which once just advertised houses for sale. Step inside and you can look through real telescopes and see a show under a giant dome of stars. On a clear night, the whole twinkling city stretches out below you.",
+        "ja": "この丘の上の天文台からは、もともと住宅の広告だった有名な『HOLLYWOOD』サインを最高のアングルで見られます。中に入れば本物の望遠鏡で星をのぞき、大きなドームの下で星空のショーも楽しめます。晴れた夜には、きらめく街全体が足もとに広がりますよ。",
+        "zh": "在这座山顶天文台，你能看到最美的“HOLLYWOOD”标牌全景——它原本只是一块卖房子的广告牌。走进去还能用真正的天文望远镜看星星，在巨大的圆顶下欣赏星空表演。晴朗的夜晚，整座闪烁的城市就在你脚下展开。"
+      },
+      "coords": [34.1184, -118.3004]
+    },
+    {
+      "name": { "ko": "엘 푸에블로 데 로스앤젤레스 (올베라 거리)", "en": "El Pueblo de Los Angeles (Olvera Street)", "ja": "エル・プエブロ・デ・ロサンゼルス（オルベラ・ストリート）", "zh": "洛杉矶古镇（奥维拉街）" },
+      "blurb": {
+        "ko": "1781년, 정착민 44명이 로스앤젤레스 최초의 마을을 세운 바로 그 자리예요. 지금은 '올베라 거리'라는 활기찬 역사 시장이 되어, 알록달록한 가판대와 음악, 맛있는 음식으로 가득하답니다. 이곳을 걷는 건 마치 도시의 첫 생일잔치 속으로 들어가는 것 같아요.",
+        "en": "This is the exact spot where 44 settlers built the very first Los Angeles back in 1781. Today it's a lively historic marketplace called Olvera Street, filled with colorful stalls, music, and delicious food. Walking here feels like stepping into the city's very first birthday party.",
+        "ja": "1781年、44人の入植者が最初のロサンゼルスの村を築いた、まさにその場所です。今では『オルベラ・ストリート』というにぎやかな史跡マーケットになっていて、カラフルな屋台や音楽、おいしい食べ物であふれています。ここを歩くと、まるで街の一番最初の誕生日パーティーに迷いこんだような気分になります。",
+        "zh": "这里正是1781年44名移民建立第一个洛杉矶村落的地方。如今这里变成了热闹的历史市集“奥维拉街”，摆满了色彩缤纷的摊位、音乐和美味小吃。走在这里，就像走进了这座城市最初的生日派对。"
+      },
+      "coords": [34.0559, -118.2382]
+    },
+    {
+      "name": { "ko": "TCL 차이니즈 시어터와 할리우드 명예의 거리", "en": "TCL Chinese Theatre & Hollywood Walk of Fame", "ja": "TCLチャイニーズシアターとハリウッド・ウォーク・オブ・フェイム", "zh": "TCL中国大剧院与好莱坞星光大道" },
+      "blurb": {
+        "ko": "이 유명한 영화관 앞에는 수백 명의 스타들이 손과 발, 심지어 강아지 발자국까지 촉촉한 시멘트에 꾹 눌러 놓았어요. 바로 앞 인도에는 2,700개가 넘는 분홍색 별이 박혀 있는데, 영화나 음악, TV쇼를 만든 사람들을 기념하는 거랍니다. 여러분이 좋아하는 스타의 별을 찾아보세요!",
+        "en": "Outside this famous movie theater, hundreds of stars have pressed their hands, feet—even paw prints!—into wet cement. Right outside on the sidewalk, more than 2,700 pink stars are set into the ground, each one honoring someone who made movies, music, or TV shows. See if you can find your favorite!",
+        "ja": "この有名な映画館の前では、何百人ものスターたちが手形や足形、なんと犬の肉球まで、ぬれたセメントに押しつけました。すぐ前の歩道には2,700個以上のピンクの星がうめこまれていて、映画や音楽、テレビ番組を作った人たちをたたえています。お気に入りのスターの星を見つけてみてね！",
+        "zh": "在这座著名影院门前，数百位明星把自己的手印、脚印，甚至爪印都按进了湿水泥里！门口的人行道上镶嵌着2700多颗粉色星星，每一颗都用来纪念一位在电影、音乐或电视领域做出贡献的人。来找找你最喜欢的那颗星星吧！"
+      },
+      "coords": [34.1022, -118.3410]
+    }
+  ]
+}

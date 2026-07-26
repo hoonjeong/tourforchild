@@ -1,0 +1,120 @@
+{
+  "id": "auckland",
+  "country": "nz",
+  "coords": [-36.8485, 174.7633],
+  "name": { "ko": "오클랜드", "en": "Auckland", "ja": "オークランド", "zh": "奥克兰" },
+  "tagline": {
+    "ko": "잠든 화산 53개 위에 세워진, 반짝이는 두 항구 사이의 도시",
+    "en": "The city built on 53 sleeping volcanoes, between two sparkling harbours",
+    "ja": "眠る火山53個の上に建つ、きらめく二つの港にはさまれた街",
+    "zh": "建在53座沉睡火山之上、坐落于两个波光粼粼海港之间的城市"
+  },
+  "story": {
+    "ko": [
+      "무려 화산 50개쯤 위에 세워진 도시가 있다면 믿어지나요? 바로 뉴질랜드에서 가장 큰 도시, 오클랜드예요. 반짝이는 두 개의 항구 사이에 자리 잡고 있죠. 마오리족은 이곳을 '타마키 마카우라우'라고 불렀는데, '많은 사람이 탐내는 곳'이라는 뜻이에요. 땅이 기름지고 물고기도 풍부해서 다들 여기 살고 싶어 했거든요.",
+      "그런데 화산 중 하나는 아주 어려서, 사람들이 태어나는 순간을 직접 봤대요! 약 600년 전, 오클랜드 앞바다가 갑자기 부글부글 끓어오르더니 불과 돌을 뿜으며 새 섬 '랑기토토'가 바다에서 쑥 솟아올랐어요. 근처에 살던 마오리 가족들은 놀라서 도망쳤고, 그 증거로 옆 섬의 화산재 속에서 그때 찍힌 발자국이 그대로 발견됐답니다!",
+      "오늘날 오클랜드는 '돛단배의 도시'로 유명해요. 세계 어디보다 배를 가진 사람이 많거든요. 화창한 주말이면 항구는 하얀 돛단배로 가득 차고, 시내에는 커다란 스카이타워가 구름 위로 우뚝 솟아 있어요. 그 화산들과 똑같이 들썩이던 땅 위에 세워진 거랍니다.",
+      "제일 멋진 건, 오클랜드의 화산들이 이제는 하나도 무섭지 않다는 거예요. 몇 분만 걸으면 오를 수 있는 초록빛 언덕이 되었거든요! 꼭대기에 서면 도시 전체와 하버 브리지, 그리고 바다에 둥둥 떠 있는 작은 랑기토토 섬까지 보여요. 그 섬이 불을 뿜으며 태어나던 밤을 상상해 보세요."
+    ],
+    "en": [
+      "Picture a city built on top of not one, not two, but around fifty sleeping volcanoes! That's Auckland, the biggest city in New Zealand, sitting right between two sparkling harbours. Māori called this place Tāmaki Makaurau, which means 'the place desired by many,' because the land was so rich and the fishing so good that everyone wanted to live there.",
+      "One of those volcanoes is so young that people actually watched it being born! About 600 years ago, the sea near Auckland suddenly started to boil and hiss, and a brand-new island called Rangitoto rose right out of the water, spitting fire and rock. Māori families who lived nearby ran for their lives—and we know this because their footprints were found perfectly preserved in the ash on the island right next door!",
+      "Today Auckland is famous as the 'City of Sails,' because more people here own a boat than almost anywhere else on Earth. On a sunny weekend, the harbour fills up with hundreds of white sails gliding along, while downtown, the giant Sky Tower pokes up into the clouds—built right on the same restless ground as all those ancient volcanoes.",
+      "The best part? Auckland's volcanoes aren't scary at all anymore—they're grassy green hills you can climb in minutes! Stand on top of one, and you can see the whole city, the harbour bridge, and little Rangitoto floating on the sea, and imagine the fiery night it was born."
+    ],
+    "ja": [
+      "なんと火山およそ50個の上に建てられた街があるって信じられますか？それがニュージーランド最大の都市、オークランドです。きらめく二つの港にはさまれて広がっています。マオリの人々はこの地を『タマキ・マカウラウ』と呼びました。『多くの人が欲しがる場所』という意味で、土地が豊かで魚もたくさんとれたので、みんながここに住みたがったからです。",
+      "でも火山の一つはとても若く、人々が生まれる瞬間を実際に見たそうです！約600年前、オークランド沖の海が突然ぐつぐつと泡立ち、火と岩を吹き上げながら新しい島『ランギトト』が海からせり上がりました。近くに住んでいたマオリの家族はあわてて逃げ、そのしょうこに、となりの島の火山灰の中からその時の足あとがそのまま見つかったのです！",
+      "今日のオークランドは『帆の街』として有名です。世界のどこよりも船を持つ人が多いから。よく晴れた週末には、港が白い帆でいっぱいになり、街なかでは大きなスカイタワーが雲の上までそびえます。それも、あの火山たちと同じ、ゆれ動く大地の上に建てられているのです。",
+      "いちばんすてきなのは、オークランドの火山がもう全然こわくないこと。数分登れば頂上に着く、緑の丘になっているんです！てっぺんに立てば、街全体とハーバーブリッジ、そして海にぽっかり浮かぶ小さなランギトト島まで見えます。あの島が火を吹きながら生まれた夜を想像してみてください。"
+    ],
+    "zh": [
+      "你敢相信一座城市竟然建在大约50座火山之上吗？这就是新西兰最大的城市——奥克兰,它坐落在两个波光粼粼的海港之间。毛利人把这里称作“塔玛基马考劳”，意思是“人人向往的地方”，因为这里土地肥沃、鱼获丰富，谁都想住在这儿。",
+      "其中有一座火山非常年轻，年轻到人们真的亲眼看着它诞生！大约600年前，奥克兰附近的海面突然咕嘟咕嘟冒泡，喷着火焰和岩石，一座全新的岛屿——朗吉托托岛——从海里猛地冒了出来。附近居住的毛利家庭吓得拔腿就跑，而证据就藏在旁边小岛的火山灰里：他们当时留下的脚印竟被完好地保存了下来！",
+      "如今，奥克兰以“风帆之城”闻名，因为这里拥有游艇的人比世界上几乎任何地方都多。晴朗的周末，海港上会挤满上百张白色风帆，而市中心，巨大的天空塔直插云霄——它就建在和那些古老火山一样，脚下并不安分的土地上。",
+      "最棒的是，奥克兰的火山如今一点也不可怕，反而变成了几分钟就能爬上去的绿色小山！站在山顶，你能看到整座城市、海港大桥，还有漂浮在海面上的小小朗吉托托岛，想象一下它当年喷着火诞生的那个夜晚吧。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "오클랜드는 화산 약 53개가 모여 있는 거대한 화산 지대 위에 세워졌어요. 대부분 지금은 초록빛 언덕이라, 옛날에 불을 뿜었다는 걸 모르고 오르는 사람도 많아요!",
+      "마오리족은 이 도시를 '타마키 마카우라우', 즉 '많은 사람이 탐내는 곳'이라 불렀어요. 땅이 기름지고 물고기가 풍부해서 여러 부족이 서로 차지하고 싶어 했거든요.",
+      "랑기토토 섬은 겨우 600년 전에 바다에서 솟아났어요. 도망치던 사람들의 발자국이 옆 섬의 화산재 속에 고스란히 남아 발견됐답니다!",
+      "오클랜드는 '돛단배의 도시'라 불려요. 한 사람당 배를 가진 비율이 세계 어디보다 높거든요.",
+      "도시가 두 항구 사이의 좁은 땅 위에 있어서, 가장 좁은 곳은 폭이 겨우 1.3킬로미터예요. 옛날 마오리족은 카누를 통째로 끌고 이 땅을 건넜대요!",
+      "스카이타워는 지어질 당시 남반구에서 가장 높은 탑이었어요. 용감한 사람들은 꼭대기에서 밧줄을 타고 뛰어내리기도 한답니다!"
+    ],
+    "en": [
+      "Auckland is built on a huge volcanic field with about 53 volcanoes—most are grassy hills now, and you might climb one without even noticing it used to erupt!",
+      "Māori named the city Tāmaki Makaurau, 'the place desired by many,' because so many tribes wanted its rich land and fishing grounds.",
+      "Rangitoto Island burst out of the sea only about 600 years ago—and footprints left in the ash by people running away were found perfectly preserved on the island right next door!",
+      "Auckland is called the 'City of Sails' because it has more boats per person than almost anywhere else on the planet.",
+      "The city sits on such a skinny strip of land between two harbours that at one point it's only about 1.3 kilometers wide—Māori used to drag their canoes right across it!",
+      "The Sky Tower was the tallest tower in the whole Southern Hemisphere when it was built, and brave visitors can even jump off the top on a special wire!"
+    ],
+    "ja": [
+      "オークランドは約53個もの火山が集まる巨大な火山地帯の上に建っています。今ではほとんどが緑の丘になっていて、昔ふん火したことに気づかず登る人も多いんです！",
+      "マオリの人々はこの街を『タマキ・マカウラウ』、つまり『多くの人が欲しがる場所』と呼びました。土地が豊かで魚もたくさんとれたので、いろんな部族が奪い合うほどだったのです。",
+      "ランギトト島はたった600年前に海からせり上がりました。逃げまどう人たちの足あとが、となりの島の火山灰の中からそのまま見つかったんです！",
+      "オークランドは『帆の街』と呼ばれています。一人あたりの船の所有率が世界のどこよりも高いからです。",
+      "街は二つの港にはさまれた細い土地の上にあり、いちばん狭いところは幅わずか1.3キロメートル。昔マオリの人々はカヌーをまるごと引きずってこの土地をわたったそうです！",
+      "スカイタワーは建てられた当時、南半球でいちばん高い塔でした。勇気ある人は、てっぺんからワイヤーで飛びおりることもできるんですよ！"
+    ],
+    "zh": [
+      "奥克兰建在一个由约53座火山组成的巨大火山群之上。如今大多数火山都变成了绿油油的小山，很多人爬上去时根本没意识到它曾经喷发过！",
+      "毛利人把这座城市称为“塔玛基马考劳”，意思是“人人向往的地方”，因为这里土地肥沃、鱼获丰富，好几个部落都想争夺它。",
+      "朗吉托托岛仅仅在600年前才从海里冒出来。当时人们逃跑时留下的脚印，被完好地保存在旁边小岛的火山灰里，后来被发现了！",
+      "奥克兰被称为“风帆之城”，因为这里人均拥有的船只数量比世界上几乎任何地方都多。",
+      "这座城市坐落在两个海港之间狭窄的陆地上，最窄处宽度只有大约1.3公里——从前毛利人曾把独木舟整艘拖着穿过这片土地！",
+      "天空塔建成时是整个南半球最高的塔。勇敢的游客甚至可以从塔顶用钢索一跃而下！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "겨우 600년 전에 바다에서 섬 하나가 통째로 솟아났대요. 그 모습을 직접 봤다면 어땠을까요?",
+    "en": "A whole island popped up out of the sea just 600 years ago—can you imagine watching that happen?",
+    "ja": "たった600年前に、海からまるごと島が一つせり上がったんだって。その様子を実際に見たら、どんな気持ちだったと思う？",
+    "zh": "仅仅600年前，一整座岛屿就从海里冒了出来——如果你亲眼看到,会是什么感觉呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "스카이타워", "en": "Sky Tower", "ja": "スカイタワー", "zh": "天空塔" },
+      "blurb": {
+        "ko": "높이 328미터의 이 탑은 오클랜드 도심에서 거대한 바늘처럼 솟아 있어요. 문을 열었을 당시 남반구에서 가장 높은 탑이었죠. 용감한 사람들은 꼭대기 근처 유리 바닥 위를 걷거나, 밧줄을 타고 뛰어내리기도 한답니다!",
+        "en": "This 328-meter tower shoots up from downtown Auckland like a giant needle, and it was the tallest tower in the whole Southern Hemisphere when it opened. Brave visitors can even walk on a glass floor near the top—or jump off on a wire attached to a cable!",
+        "ja": "高さ328メートルのこの塔は、オークランドの街なかから巨大な針のようにそびえています。開業当時は南半球でいちばん高い塔でした。勇気のある人は、てっぺん近くのガラスの床を歩いたり、ワイヤーで飛びおりたりもできるんですよ！",
+        "zh": "这座328米高的塔像一根巨针一样矗立在奥克兰市中心，开业时曾是整个南半球最高的塔。勇敢的游客甚至可以站在塔顶附近的玻璃地板上，或者用钢索一跃而下！"
+      },
+      "coords": [-36.8485, 174.7633]
+    },
+    {
+      "name": { "ko": "랑기토토 섬", "en": "Rangitoto Island", "ja": "ランギトト島", "zh": "朗吉托托岛" },
+      "blurb": {
+        "ko": "동그란 모양의 이 섬은 약 600년 전 바다에서 곧장 솟아났고, 오클랜드 화산 지대에서 가장 젊고 가장 큰 화산이에요. 한 시간도 안 걸려 분화구까지 걸어 올라가, 예전에 불을 뿜던 바로 그 자리를 내려다볼 수 있답니다.",
+        "en": "This perfectly round island rose straight out of the sea about 600 years ago, and it's still the youngest and largest volcano in the whole Auckland field. You can hike up to its crater in under an hour and look right down into the very spot that once spat fire.",
+        "ja": "きれいな丸い形をしたこの島は、約600年前に海からまっすぐせり上がりました。オークランドの火山地帯の中でいちばん若く、いちばん大きな火山です。1時間もかからずに火口まで登れて、かつて火を噴いたその場所を見下ろすことができます。",
+        "zh": "这座外形浑圆的岛屿大约600年前直接从海中升起，是整个奥克兰火山群里最年轻也最大的一座火山。不到一小时就能徒步登上火山口，俯瞰它当年喷火的那个地方。"
+      },
+      "coords": [-36.7864, 174.8608]
+    },
+    {
+      "name": { "ko": "마운트 이든 (마웅가화우)", "en": "Mount Eden (Maungawhau)", "ja": "マウント・イーデン（マウンガファウ）", "zh": "伊甸山（芒加法乌）" },
+      "blurb": {
+        "ko": "오클랜드 화산 언덕 중 가장 높은 곳으로, 걸어서 내려갈 수 있는 커다란 초록빛 분화구가 있어요. 아주 오래전 마오리족은 이곳에 '파'라는 요새 마을을 세웠고, 지금도 비탈에 깎아 만든 둥근 계단식 흔적을 볼 수 있어요.",
+        "en": "The tallest of Auckland's volcanic hills, with a huge grassy crater you can walk right down into. Long ago, Māori built a fortified village called a pā here, and you can still see the ring-shaped terraces carved into its slopes.",
+        "ja": "オークランドの火山の丘の中でいちばん高く、歩いて下りられる大きな緑の火口があります。ずっと昔、マオリの人々はここに『パー』という砦の村を築き、今も斜面に彫られた輪のような段々の跡が残っています。",
+        "zh": "这是奥克兰火山丘陵中最高的一座，有一个可以徒步走下去的巨大绿色火山口。很久以前，毛利人曾在这里建造过一座名叫“帕”的防御村落，如今山坡上依然能看到当年雕刻出的环形梯田痕迹。"
+      },
+      "coords": [-36.8786, 174.7645]
+    },
+    {
+      "name": { "ko": "원 트리 힐 (마웅가키에키에)", "en": "One Tree Hill (Maungakiekie)", "ja": "ワン・ツリー・ヒル（マウンガキエキエ）", "zh": "独树山（芒加基基）" },
+      "blurb": {
+        "ko": "마오리족이 세운 파 유적 중 가장 크고 중요한 곳 중 하나로, 지금도 비탈을 따라 계단식 지형이 물결치듯 남아 있어요. 꼭대기에 오르면 도시 전체와 오클랜드의 두 항구를 한눈에 볼 수 있답니다.",
+        "en": "One of the largest and most important pā sites Māori ever built, with terraces still rippling down its sides. Climb to the top for a view over the whole city and both of Auckland's harbours at once.",
+        "ja": "マオリが築いたパーの遺跡の中でも最大級かつ重要な場所で、今も斜面に段々畑のような跡が波打つように残っています。頂上まで登れば、街全体とオークランドの二つの港を一度に見わたせます。",
+        "zh": "这是毛利人建造过的规模最大、最重要的“帕”遗址之一，山坡上至今仍留有层层叠叠的梯田痕迹。登上山顶，可以一览整座城市，以及奥克兰的两个海港。"
+      },
+      "coords": [-36.8998, 174.7813]
+    }
+  ]
+}

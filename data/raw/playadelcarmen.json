@@ -1,0 +1,120 @@
+{
+  "id": "playadelcarmen",
+  "country": "mx",
+  "coords": [20.6296, -87.0739],
+  "name": { "ko": "플라야 델 카르멘", "en": "Playa del Carmen", "ja": "プラヤ・デル・カルメン", "zh": "普拉亚德尔卡曼" },
+  "tagline": {
+    "ko": "마야인이 여신을 만나러 카누를 저어 건너던 카리브해, 땅속엔 지금도 비밀의 강이 흘러요",
+    "en": "The Caribbean coast ancient Maya paddled across to meet a goddess — secret rivers still flow underground",
+    "ja": "マヤの人々が女神に会うためカヌーをこいだカリブ海、地面の下には今も秘密の川が流れている",
+    "zh": "玛雅人曾划着独木舟去见女神的加勒比海岸，地下至今还流淌着神秘的河流"
+  },
+  "story": {
+    "ko": [
+      "플라야 델 카르멘이 해변 휴양지가 되기 훨씬 전, 이곳은 멕시코 카리브해의 작고 조용한 어촌 마을이었어요. 하지만 여기 살던 마야 사람들에게는 훨씬 특별한 곳이었죠. 바로 바다로 향하는 문이었거든요. 천 년 전, 마야 사람들은 바로 이 모래사장에서 나무 카누를 띄워 반짝이는 바다를 건너 코수멜 섬으로 향했어요. 놀러 가는 게 아니라, 달과 치유와 아이를 지켜주는 여신 '익첼'을 만나러 순례를 떠난 거랍니다.",
+      "그런데 이 해안의 진짜 신비는 바다뿐만이 아니라 발밑에 숨어 있어요. 아주 먼 옛날, 이 땅은 온통 바닷속에 잠겨 있었는데, 물이 빠져나가면서 동굴과 굴이 숭숭 뚫린 부드러운 석회암 땅을 남겨두었어요. 시간이 흐르며 몇몇 동굴의 천장이 무너져 내렸고, 그 자리에 놀랍도록 맑고 시원한 민물이 가득 찬 거대한 싱크홀이 생겼답니다. 마야 사람들은 이걸 '세노테'라 부르며, 저승으로 통하는 신성한 입구라고 믿었어요.",
+      "바다 저편에는 또 다른 경이로움이 수백 킬로미터나 펼쳐져 있어요. 바로 세계에서 두 번째로 큰 산호초, '메소아메리카 산호초'예요. 파도 밑에는 무지갯빛 물고기와 온순한 바다거북, 수천 년에 걸쳐 자란 산호가 살고 있고, 밤이 되면 커다란 바다거북들이 바로 이 모래사장으로 기어올라와 알을 낳는답니다. 수백만 년 전부터 계속돼 온 일이에요.",
+      "오늘날 플라야 델 카르멘은 활기찬 도시로 자랐어요. 옛날 모래길이었던 곳은 이제 '킨타 아베니다'라는, 음악과 색깔로 가득한 거리가 되었죠. 하지만 지금도 사람들은 수백 년 전과 똑같은 일을 할 수 있어요. 반짝이는 세노테로 다이빙하고, 산호초에서 스노클링하고, 배를 타고 코수멜로 건너가는 거예요. 옛날 마야 사람들이 여신을 만나러 저었던 바로 그 에메랄드빛 길을 따라서 말이죠."
+    ],
+    "en": [
+      "Long before Playa del Carmen was a beach town, it was a quiet fishing village on Mexico's Caribbean coast, and to the Maya people who lived here it was something even more special: a doorway to the sea. Standing on this same sand a thousand years ago, Maya paddlers pushed off in wooden canoes and crossed the sparkling water to the island of Cozumel. They weren't going on vacation — they were making a pilgrimage to visit Ixchel, the goddess of the moon, healing, and childbirth.",
+      "But the real magic of this coast isn't only in the sea — it's hidden right under your feet. Millions of years ago, this whole stretch of Mexico was covered by ocean, and when the water pulled back it left behind soft limestone rock, riddled with caves and tunnels. Over time, the roofs of some of those underground caves collapsed, opening giant sinkholes filled with impossibly clear, cool freshwater. The Maya called them cenotes, and believed each one was a sacred entrance to the underworld.",
+      "Offshore, another wonder stretches for hundreds of kilometers: the Mesoamerican Reef, the second-largest coral reef system on Earth. Beneath the waves live rainbow-colored fish, gentle sea turtles, and coral that took thousands of years to grow, and at night, giant sea turtles crawl up these very beaches to lay their eggs in the sand, just as they have for millions of years.",
+      "Today, Playa del Carmen has grown into a lively town, its old sandy footpath turned into Quinta Avenida, a street humming with music and color. But you can still do exactly what people have done here for centuries: dive into a glowing cenote, snorkel the reef, or hop on a boat to Cozumel — following the same turquoise path the ancient Maya once paddled toward their goddess."
+    ],
+    "ja": [
+      "プラヤ・デル・カルメンがビーチリゾートになるずっと前、ここはメキシコのカリブ海沿いにある小さな静かな漁村でした。でも、ここに暮らしていたマヤの人々にとっては、もっと特別な場所だったのです。海へと続く『扉』だったから。今から千年前、マヤの人々はまさにこの砂浜から木のカヌーを浮かべ、きらめく海を渡ってコスメル島へと向かいました。遊びに行くのではなく、月と癒やしと出産を見守る女神『イシュチェル』に会うための巡礼の旅だったのです。",
+      "でも、この海岸の本当の不思議は海だけではありません。実は足もとにも隠れているのです。大昔、この一帯はすっぽりと海の底に沈んでいました。海水が引いたあと、洞窟やトンネルだらけの柔らかい石灰岩の大地が残されました。長い年月がたつうちに、いくつかの洞窟の天井がくずれ落ち、その場所に、おどろくほど澄んだ冷たい真水がたまった巨大な陥没穴ができたのです。マヤの人々はこれを『セノーテ』と呼び、それぞれが冥界へ通じる神聖な入り口だと信じていました。",
+      "沖にはもう一つの驚異が数百キロメートルにわたって広がっています。世界で2番目に大きなサンゴ礁『メソアメリカ礁』です。波の下には虹色の魚たちや、おだやかなウミガメ、何千年もかけて育ったサンゴが暮らしています。そして夜になると、大きなウミガメたちがこの同じ砂浜にはい上がってきて卵を産みます。何百万年も前から続いてきた営みです。",
+      "今日、プラヤ・デル・カルメンはにぎやかな街へと成長しました。昔の砂の小道は『キンタ・アベニーダ』という、音楽と色にあふれる通りになっています。それでも、人々は何百年も前と同じことができるのです。光るセノーテに飛びこみ、サンゴ礁でシュノーケリングをし、船に乗ってコスメル島へ渡る——昔マヤの人々が女神に会うためこいだのと同じ、あのエメラルド色の道をたどりながら。"
+    ],
+    "zh": [
+      "在普拉亚德尔卡曼变成海滨度假胜地之前很久很久，这里只是墨西哥加勒比海边一个安静的小渔村。可对住在这里的玛雅人来说，它却是一个更特别的地方——一扇通往大海的门。一千年前，玛雅人就是从这片沙滩推出木制独木舟，划过波光粼粼的海面，前往科苏梅尔岛。他们不是去度假，而是去朝拜掌管月亮、医治与生育的女神——伊克斯切尔。",
+      "但这片海岸真正的神奇之处，不只在海里，还藏在脚下。很久很久以前，这一整片土地都被海水淹没，后来海水退去，留下了布满洞穴和地道的松软石灰岩大地。随着时间流逝，一些地下洞穴的顶部塌陷下来，形成了灌满清澈冰凉淡水的巨大天坑。玛雅人把它们叫做“天然井”（cenote），相信每一个都是通往冥界的神圣入口。",
+      "在海的另一边，还有一个绵延数百公里的奇迹——中美洲堡礁，世界第二大珊瑚礁体系。海浪之下生活着五彩斑斓的鱼群、温驯的海龟，还有生长了几千年的珊瑚。到了夜晚，巨大的海龟会爬上这同一片沙滩产卵，这样的场景已经延续了数百万年。",
+      "如今，普拉亚德尔卡曼已经长成一座热闹的城市，曾经的沙土小路变成了“第五大道”，充满音乐与色彩。但人们依然可以做几百年前人们做过的事：跳进闪闪发光的天然井，在珊瑚礁边浮潜，或搭船前往科苏梅尔岛——沿着古代玛雅人曾划船前往女神那里的那条翡翠色水路。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "메소아메리카 산호초는 세계에서 두 번째로 큰 산호초예요. 무려 4개 나라 해안을 따라 1000km 넘게 이어진답니다.",
+      "유카탄 반도에는 6000개가 넘는 세노테가 있어요. 몇몇은 땅속에서 서로 이어져, 지금까지 탐사된 것 중 가장 긴 수중 동굴 시스템을 이룬대요.",
+      "옛날 마야 사람들은 통나무 카누를 타고 플라야 델 카르멘에서 코수멜 섬까지 건너가, 달의 여신 익첼을 모신 신전을 찾아갔어요.",
+      "작은 자동차만큼 무거운 커다란 바다거북들이 밤마다 리비에라 마야 해변으로 올라와 한 번에 수십 개씩 알을 낳는답니다.",
+      "세노테 물이 유리처럼 맑은 이유는, 몇 년 동안 석회암 땅을 천천히 통과하며 걸러졌기 때문이에요.",
+      "플라야 델 카르멘의 유명한 거리 '킨타 아베니다'는 몇십 년 전만 해도 그냥 모랫길이었어요. 지금은 수 킬로미터에 걸쳐 상점과 음악으로 북적인답니다."
+    ],
+    "en": [
+      "The Mesoamerican Reef is the second-largest coral reef system in the world, stretching over 1,000 km along four countries' coastlines.",
+      "There are more than 6,000 cenotes in the Yucatán Peninsula, and some connect underground into the longest flooded cave systems ever explored.",
+      "Ancient Maya paddled dugout canoes from Playa del Carmen to Cozumel Island to visit a temple of Ixchel, goddess of the moon.",
+      "Giant sea turtles — some as heavy as a small car — crawl ashore on Riviera Maya beaches at night to lay dozens of eggs at once.",
+      "Cenote water is often crystal-clear because it's slowly filtered through limestone rock for years before reaching the surface.",
+      "Quinta Avenida, Playa del Carmen's famous walking street, was just a sandy path a few decades ago — now it stretches for miles packed with shops and music."
+    ],
+    "ja": [
+      "メソアメリカ礁は世界で2番目に大きなサンゴ礁システム。4つの国の海岸線に沿って1000km以上も続いています。",
+      "ユカタン半島には6000か所以上のセノーテがあります。中には地下でつながり合い、これまで探検された中で最も長い水中洞窟システムを作っているものも。",
+      "昔のマヤの人々は丸木のカヌーでプラヤ・デル・カルメンからコスメル島へ渡り、月の女神イシュチェルをまつる神殿を訪れました。",
+      "小型自動車ほどの重さがある大きなウミガメが、夜になるとリビエラ・マヤの浜辺に上陸し、一度に何十個もの卵を産みます。",
+      "セノーテの水がガラスのように澄んでいるのは、何年もかけて石灰岩の大地をゆっくりとろ過されてきたからです。",
+      "プラヤ・デル・カルメンの有名な通り『キンタ・アベニーダ』は、数十年前まではただの砂道でした。今では数キロにわたってお店や音楽でにぎわっています。"
+    ],
+    "zh": [
+      "中美洲堡礁是世界第二大珊瑚礁体系，沿着四个国家的海岸线绵延1000多公里。",
+      "尤卡坦半岛有6000多个天然井（cenote），有些在地下相连，组成了迄今探索过的最长水下洞穴系统。",
+      "古代玛雅人曾划着独木舟，从普拉亚德尔卡曼前往科苏梅尔岛，去朝拜月亮女神伊克斯切尔的神庙。",
+      "体重堪比一辆小汽车的巨型海龟，会在夜里爬上里维埃拉玛雅的海滩，一次产下几十枚卵。",
+      "天然井里的水之所以清澈如玻璃，是因为经过石灰岩大地多年的层层过滤。",
+      "普拉亚德尔卡曼著名的第五大道，几十年前还只是一条沙土小路，如今绵延数公里，满是商店和音乐。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "고대 마야 사람들이 저승으로 통하는 문이라고 믿었던, 유리처럼 맑은 싱크홀에 풍덩 뛰어들 용기가 있어?",
+    "en": "Would you dare dive into a sinkhole so clear it looks like glass — the same kind the ancient Maya believed was a doorway to another world?",
+    "ja": "古代マヤの人々が冥界への扉だと信じていた、ガラスのように澄んだ陥没穴に、勇気を出して飛びこめるかな？",
+    "zh": "古代玛雅人相信那清澈如玻璃的天坑是通往冥界的大门，你敢不敢跳进去看看？"
+  },
+  "places": [
+    {
+      "name": { "ko": "킨타 아베니다 (5번가)", "en": "Quinta Avenida (Fifth Avenue)", "ja": "キンタ・アベニーダ（第5通り）", "zh": "第五大道" },
+      "blurb": {
+        "ko": "1.6km나 이어지는 이 보행자 거리는 오늘날 플라야 델 카르멘의 심장이에요. 몇십 년 전만 해도 조용한 모랫길이었지만, 지금은 음악과 알록달록한 가게, 길거리 음식 냄새로 가득하답니다.",
+        "en": "This mile-long pedestrian street is the beating heart of Playa del Carmen today. A few decades ago it was just a quiet sandy path — now it's filled with music, colorful shops, and the smell of street food.",
+        "ja": "1.6kmも続くこの歩行者天国は、今のプラヤ・デル・カルメンの中心地。数十年前までは静かな砂道でしたが、今では音楽やカラフルなお店、屋台の香りでいっぱいです。",
+        "zh": "这条长达1.6公里的步行街，是今天普拉亚德尔卡曼的心脏地带。几十年前它还只是一条安静的沙土小路，如今充满音乐、色彩缤纷的小店和街头美食的香气。"
+      },
+      "coords": [20.6285, -87.0730]
+    },
+    {
+      "name": { "ko": "차크툰 세노테", "en": "Cenote Chaak Tun", "ja": "チャクトゥン・セノーテ", "zh": "查克顿天然井" },
+      "blurb": {
+        "ko": "동굴을 걸어 들어가야 만날 수 있는 숨겨진 세노테로, 천장 틈으로 햇빛이 쏟아져 들어와요. 마야 사람들은 이런 세노테를 저승으로 통하는 신성한 문이라 믿었고, 물은 유리처럼 맑고 투명하답니다.",
+        "en": "A hidden cenote you reach by walking through a cave, lit by shafts of sunlight through the ceiling. The Maya believed cenotes like this were sacred doorways into the underworld — and the water is so clear it looks like glass.",
+        "ja": "洞窟を歩いて進むとたどり着く、隠れたセノーテ。天井のすき間から光が差しこみます。マヤの人々はこうしたセノーテを冥界への神聖な扉だと信じていました。水はガラスのように透きとおっています。",
+        "zh": "需要穿过洞穴才能到达的隐秘天然井，阳光从洞顶的缝隙洒落而下。玛雅人相信这样的天然井是通往冥界的神圣之门，井水清澈得如同玻璃。"
+      },
+      "coords": [20.6270, -87.0900]
+    },
+    {
+      "name": { "ko": "코수멜 섬 (익첼 신전)", "en": "Cozumel Island (Temple of Ixchel)", "ja": "コスメル島（イシュチェル神殿）", "zh": "科苏梅尔岛（伊克斯切尔神庙）" },
+      "blurb": {
+        "ko": "에메랄드빛 바다를 잠깐 배 타고 건너면 코수멜 섬에 닿아요. 이곳엔 옛날 마야 여인들이 달의 여신 익첼을 기리러 순례를 왔던 신전이 있었는데, 지금도 나무들 사이로 오래된 돌 유적이 남아 있답니다.",
+        "en": "A short ferry ride across turquoise water leads to Cozumel, once home to a temple where Maya women made pilgrimages to honor Ixchel, the goddess of the moon. Ancient stone ruins still stand among the trees today.",
+        "ja": "エメラルド色の海をフェリーで少し渡ると、コスメル島に着きます。ここには昔マヤの女性たちが月の女神イシュチェルを敬うために巡礼した神殿があり、今も木々の間に古い石の遺跡が残っています。",
+        "zh": "乘船穿过翡翠色的海面，很快就能到达科苏梅尔岛。这里曾有一座神庙，古代玛雅女性会前来朝拜月亮女神伊克斯切尔，如今树林间仍留有古老的石头遗迹。"
+      },
+      "coords": [20.3947, -86.9313]
+    },
+    {
+      "name": { "ko": "익스카렛 공원", "en": "Xcaret Park", "ja": "シカレ公園", "zh": "希卡雷公园" },
+      "blurb": {
+        "ko": "이 공원에는 둥둥 떠서 흘러갈 수 있는 지하 강이 있고, 진짜 마야 유적과 알을 낳으러 오는 바다거북도 만날 수 있어요. 이 해안이 얼마나 놀랍고 자연 그대로인지 보여주는 살아있는 증거랍니다.",
+        "en": "This park protects an underground river you can float through, along with real Mayan ruins and nesting sea turtles. It's a living reminder of just how wild and wonderful this coast still is.",
+        "ja": "この公園には浮きながら進める地下の川があり、本物のマヤ遺跡や卵を産みにやってくるウミガメにも出会えます。この海岸がどれほど自然豊かですばらしいかを伝えてくれる、生きた証しです。",
+        "zh": "这座公园里有一条可以漂流而过的地下河，还有真正的玛雅遗迹，以及前来产卵的海龟。它生动地展现出这片海岸有多么神奇、多么原始自然。"
+      },
+      "coords": [20.5804, -87.1197]
+    }
+  ]
+}

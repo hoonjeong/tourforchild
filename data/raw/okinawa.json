@@ -1,0 +1,120 @@
+{
+  "id": "okinawa",
+  "country": "jp",
+  "coords": [26.2124, 127.6809],
+  "name": { "ko": "오키나와", "en": "Okinawa", "ja": "沖縄", "zh": "冲绳" },
+  "tagline": {
+    "ko": "새빨간 성과 옥빛 바다, 그리고 세상에서 가장 오래 사는 사람들의 섬나라",
+    "en": "The island kingdom of red castles, turquoise seas, and the longest-living people on Earth",
+    "ja": "真っ赤なお城とエメラルドの海、そして世界一長生きの人々が暮らす島国",
+    "zh": "拥有鲜红古堡、碧蓝大海，以及世界最长寿居民的岛屿王国"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 오키나와가 아직 일본의 일부가 아니었을 때, 이곳은 '류큐'라는 독립된 왕국이었어요. 자기만의 언어와 임금님이 있었고, 용궁처럼 새빨갛게 칠한 아름다운 성도 있었죠. 그 성이 바로 지금도 남아 있는 '슈리성'이에요.",
+      "류큐 왕국은 작은 나라였지만 아주 큰 역할을 했어요. 바로 바다 위의 '연결다리'였답니다. 비단과 향신료, 온갖 보물을 실은 배들이 중국과 한국, 일본, 그리고 저 멀리 동남아시아까지 오가며 류큐와 무역을 했고, 이 덕분에 류큐는 무려 400년 넘게 풍요롭고 지혜로운 나라로 번성했어요.",
+      "오키나와 어느 바닷가에 서도 눈부신 옥빛 바다가 펼쳐지는데, 그 아래엔 세계에서 손꼽히게 큰 산호초가 숨어 있어요. 세상에서 가장 큰 물고기인 고래상어가 이 바다를 유유히 헤엄치고, 추라우미 수족관의 거대한 수조 속에서는 마치 진짜 바다에 풍덩 빠진 것 같은 기분을 느낄 수 있답니다.",
+      "그래서일까요? 오키나와는 또 다른 놀라운 것으로도 유명해요. 바로 이곳 사람들이 세계에서 손꼽히게 오래, 건강하게 산다는 거예요. 할머니 할아버지들이 여름 축제에서 '에이사' 북춤을 추고, 지붕마다 사자 모양 수호신 '시사'가 웃고 있어요. 섬 전체가 햇살과 바다, 그리고 오래된 이야기로 가득하답니다."
+    ],
+    "en": [
+      "Long ago, before Okinawa was part of Japan, it was its own kingdom called Ryukyu, with its own king, its own language, and a beautiful castle painted the color of a dragon-king's palace. That castle, Shuri, still stands today, glowing bright vermillion against the sky.",
+      "The Ryukyu Kingdom was a tiny nation with a giant job: it was the ocean's great go-between. Ships loaded with silk, spices, and treasures sailed back and forth between China, Korea, Japan, and lands across Southeast Asia, and Ryukyu traded with them all, growing rich and wise from four hundred years of friendship on the waves.",
+      "Step onto any beach here and the sea turns an impossible turquoise blue, hiding one of the largest coral reefs on Earth. Gentle giant whale sharks—the biggest fish in the world—glide through these waters, and some even swim inside a tank so huge at the Churaumi Aquarium that it feels like diving into the ocean itself.",
+      "Maybe that's why Okinawa is famous for something else amazing: its people live longer, healthier lives than almost anywhere else on the planet. Grandparents dance the Eisa drum dance at summer festivals, lion-dog Shisa statues grin from every rooftop, and the whole island seems to hum with sunshine, ocean, and old, old stories."
+    ],
+    "ja": [
+      "むかしむかし、沖縄がまだ日本の一部になる前、ここは『琉球』という独立した王国でした。独自の言葉と王様がいて、竜宮城のように真っ赤に塗られた美しいお城もありました。それが今も残る首里城です。",
+      "琉球はとても小さな国でしたが、大きな役目を持っていました。海の上の『架け橋』だったのです。絹や香辛料、たくさんの宝物を積んだ船が中国や朝鮮、日本、遠く東南アジアまで行き来し、琉球と貿易をしました。そのおかげで琉球はなんと400年以上も豊かで知恵にあふれた国として栄えました。",
+      "沖縄のどの浜辺に立っても、まぶしいエメラルドグリーンの海が広がり、その下には世界でも指折りの大きなサンゴ礁がかくれています。世界一大きな魚、ジンベエザメがこの海をゆったり泳ぎ、美ら海水族館の巨大な水槽では、まるで本物の海に飛びこんだような気分を味わえます。",
+      "だからでしょうか。沖縄はもう一つのおどろくべきことでも有名です。ここに住む人たちは、世界でもとりわけ長く、元気に生きているのです。おじいちゃんおばあちゃんが夏祭りで『エイサー』の太鼓おどりをおどり、屋根の上では守り神シーサーがにっこり笑っています。島全体が、太陽と海と、古くて温かい物語でいっぱいなのです。"
+    ],
+    "zh": [
+      "很久很久以前，冲绳还不是日本的一部分，而是一个独立的王国，叫“琉球”。这里有自己的语言和国王，还有一座漆得像龙宫一样鲜红的美丽城堡——那就是至今依然矗立的首里城。",
+      "琉球虽是个小国，却担负着重要的角色：它是大海上的“桥梁”。满载丝绸、香料和各种珍宝的商船往来于中国、朝鲜、日本，甚至远达东南亚，都会在这里停靠贸易。就这样，琉球靠着四百多年的海上友谊，变得富足又充满智慧。",
+      "站在冲绳的任何一片海滩上，眼前都是耀眼的碧蓝大海，海底藏着世界数一数二的大片珊瑚礁。世界上最大的鱼——鲸鲨——在这片海里悠然游动，而在美丽海水族馆的巨大水槽里，你甚至能感受到仿佛真的一头扎进大海的奇妙感觉。",
+      "也许正因如此，冲绳还以另一件了不起的事闻名于世：这里的人比世界上大多数地方的人活得更长寿、更健康。夏日祭典上，爷爷奶奶会跳起“艾萨”太鼓舞；家家户户的屋顶上，狮子模样的守护神“西萨”笑眯眯地望着大家。整座岛屿仿佛都浸润在阳光、海洋，还有古老故事之中。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "시사는 사자 모양의 수호신 조각상이에요. 보통 짝을 지어 세우는데, 입을 벌린 시사는 행운을 불러들이고 입을 다문 시사는 나쁜 기운을 막아준대요.",
+      "세상에서 가장 큰 물고기인 고래상어가 추라우미 수족관의 '구로시오의 바다' 수조에서 헤엄쳐요. 이 수조는 세계에서 손꼽히게 큰 수족관 수조랍니다.",
+      "류큐 왕국은 약 450년 동안 이어졌어요. 자기만의 깃발과 언어를 갖고 중국부터 동남아시아까지 이어지는 무역길을 누비다가, 훗날 일본의 일부가 되었답니다.",
+      "오키나와는 세계적으로 유명한 '블루존' 중 하나예요. 이곳 사람들은 유난히 오래, 건강하게 산답니다.",
+      "'만자모'라는 절벽은 파도가 깎아 만든 코끼리 코 모양의 바위예요. 이름도 '만 명이 앉을 수 있는 들판'이라는 뜻이랍니다.",
+      "슈리성은 새빨간 색으로 칠해져 있고 중국과 일본의 건축 양식이 섞여 있어요. 불이 나서 여러 번 무너졌지만, 2019년 화재 이후에도 오키나와 사람들은 사랑을 담아 다시 짓고 있답니다."
+    ],
+    "en": [
+      "Shisa are lion-shaped guardian statues. They usually stand in pairs — one with its mouth open to welcome good luck in, and one with its mouth shut to keep bad luck out.",
+      "The world's biggest fish, whale sharks, swim in the Churaumi Aquarium's 'Kuroshio Sea' tank — one of the largest aquarium tanks anywhere on Earth.",
+      "The Ryukyu Kingdom lasted about 450 years, with its own flag and language, trading all the way from China to Southeast Asia — before it later became part of Japan.",
+      "Okinawa is one of the world's famous 'Blue Zones,' places where people live unusually long and healthy lives.",
+      "A cliff called Cape Manzamo was carved by waves into the shape of an elephant's trunk. Its name even means 'a meadow big enough for ten thousand people to sit.'",
+      "Shuri Castle is painted bright vermillion red and blends Chinese and Japanese building styles. It has burned down and been rebuilt many times — even after a fire in 2019, Okinawans are lovingly rebuilding it again."
+    ],
+    "ja": [
+      "シーサーは獅子の姿をした守り神。ふつう二体一組で置かれ、口を開けたシーサーは幸運を呼びこみ、口を閉じたシーサーは悪いものを追いはらうと言われます。",
+      "世界一大きな魚、ジンベエザメが美ら海水族館の『黒潮の海』水槽を泳いでいます。この水槽は世界でも指折りの大きさなんです。",
+      "琉球王国は約450年も続きました。独自の旗と言葉を持ち、中国から東南アジアまで広がる貿易の道を行き来したのち、のちに日本の一部となりました。",
+      "沖縄は世界的に有名な『ブルーゾーン』の一つ。ここに住む人たちはとりわけ長く、元気に生きています。",
+      "『万座毛』という崖は、波が削ってできた象の鼻そっくりの岩。名前も『一万人が座れる野原』という意味なんです。",
+      "首里城は真っ赤に塗られ、中国と日本の建築様式が混じり合っています。火事で何度もこわれましたが、2019年の火災のあとも、沖縄の人たちは思いをこめて建て直しています。"
+    ],
+    "zh": [
+      "西萨是狮子模样的守护神石像，通常成对摆放：张嘴的西萨用来迎接好运，闭嘴的西萨用来挡住坏运气。",
+      "世界上最大的鱼——鲸鲨——就生活在美丽海水族馆的“黑潮之海”水槽里。这个水槽是世界上数一数二大的水族馆水槽。",
+      "琉球王国延续了大约450年，拥有自己的旗帜和语言，商船往来于中国与东南亚之间，后来才成为日本的一部分。",
+      "冲绳是世界闻名的“蓝色宝地”之一，这里的居民格外长寿、健康。",
+      "“万座毛”悬崖是被海浪雕刻成大象鼻子形状的岩石，它的名字意思是“可以坐下一万人的草地”。",
+      "首里城被漆成鲜艳的红色，融合了中国和日本的建筑风格。它曾多次因火灾损毁，2019年那场大火之后，冲绳人也满怀爱意地重新修建它。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "이 작은 왕국은 400년 동안 아시아 여러 나라와 무역을 했대요. 배에 어떤 보물을 싣고 왔을지 상상해 볼까?",
+    "en": "This tiny kingdom traded with countries all across Asia for 400 years — what treasures do you think its ships carried home?",
+    "ja": "この小さな王国は400年もの間、アジアの国々と貿易をしていたんだって。船にはどんな宝物が積まれていたと思う？",
+    "zh": "这个小小的王国和亚洲各国做了四百年的生意呢——你猜船上会载着什么样的宝物回来？"
+  },
+  "places": [
+    {
+      "name": { "ko": "슈리성", "en": "Shuri Castle", "ja": "首里城", "zh": "首里城" },
+      "blurb": {
+        "ko": "류큐 왕들이 살던 새빨간 궁궐로, 중국과 일본의 양식이 섞여 있으면서도 완전히 독특한 모습이에요. 여러 번 불이 나서 무너졌는데, 2019년에도 그랬대요. 하지만 그때마다 오키나와 사람들은 사랑을 담아 다시 지어 올린답니다.",
+        "en": "The vivid red palace of the Ryukyu kings, blending Chinese and Japanese style into something all its own. Fire has burned it down more than once — even in 2019 — but each time, the people of Okinawa lovingly rebuild it, brick by painted brick.",
+        "ja": "琉球の王様たちが暮らした真っ赤な宮殿で、中国と日本の様式が混じり合いながらも独自の姿をしています。何度も火事でこわれ、2019年にも焼けてしまいましたが、そのたびに沖縄の人々は心をこめて建て直しています。",
+        "zh": "这是琉球国王们居住的鲜红宫殿，融合了中国与日本的风格，却自成一派。它曾多次毁于火灾，2019年也不例外，但每一次，冲绳人都满怀爱意地重新修建它。"
+      },
+      "coords": [26.2170, 127.7195]
+    },
+    {
+      "name": { "ko": "추라우미 수족관", "en": "Churaumi Aquarium", "ja": "美ら海水族館", "zh": "美丽海水族馆" },
+      "blurb": {
+        "ko": "고래상어와 만타가오리가 유리창 바로 앞을 유유히 지나가는 거대한 '구로시오의 바다' 수조가 있는 곳이에요. 이 앞에 서면 정말로 깊은 바닷속에 풍덩 들어온 기분이 든답니다.",
+        "en": "Home to the giant Kuroshio Sea tank, so huge that whale sharks and manta rays glide right past the glass. Stand in front of it and you'll feel like you've stepped straight into the deep blue ocean.",
+        "ja": "ジンベエザメやマンタが目の前を悠々と泳ぐ、巨大な『黒潮の海』水槽があります。この前に立つと、まるで本当に深い青い海の中に入りこんだような気分になります。",
+        "zh": "馆内有巨大的“黑潮之海”水槽，鲸鲨和蝠鲼就在玻璃前悠然游过。站在水槽前，你会感觉自己仿佛真的一头扎进了深邃的蓝色海洋。"
+      },
+      "coords": [26.6941, 127.8779]
+    },
+    {
+      "name": { "ko": "만자모", "en": "Cape Manzamo", "ja": "万座毛", "zh": "万座毛" },
+      "blurb": {
+        "ko": "파도가 바위를 깎아 코끼리 코가 바다에 닿은 듯한 모양을 만들어 낸 절벽이에요. 이름도 '만 명이 앉을 수 있는 들판'이라는 뜻인데, 정말 그럴 만큼 멋진 풍경이 펼쳐진답니다.",
+        "en": "A dramatic cliff where waves have carved the rock into the shape of an elephant's trunk dipping into the sea. Its name means 'a meadow big enough for ten thousand people to sit' — and the view is easily that grand.",
+        "ja": "波が岩を削り、象の鼻が海に垂れているような形をつくり出した崖です。名前も『一万人が座れる野原』という意味で、それにふさわしいほど雄大な景色が広がります。",
+        "zh": "海浪把岩石雕刻成大象鼻子垂入海中的模样，形成了这处壮观的悬崖。它的名字意思是“能坐下一万人的草地”，眼前的景色也确实如此壮阔。"
+      },
+      "coords": [26.5011, 127.8483]
+    },
+    {
+      "name": { "ko": "카비라만", "en": "Kabira Bay", "ja": "川平湾", "zh": "川平湾" },
+      "blurb": {
+        "ko": "일본에서 손꼽히게 아름다운 만으로, 산호초 위로 바닷물이 여러 가지 파란색과 초록색으로 반짝여요. 유리 바닥 배를 타면 옷 한 방울 젖지 않고도 산호초를 내려다볼 수 있답니다.",
+        "en": "One of the most beautiful bays in Japan, where the water shifts between a dozen shades of blue and green over the coral below. Glass-bottom boats let you peer down at the reef without even getting wet.",
+        "ja": "日本でも指折りに美しい湾で、サンゴ礁の上で海の色が青や緑にいくつも変化します。グラスボートに乗れば、ぬれずにサンゴ礁をのぞきこむことができます。",
+        "zh": "这是日本最美的海湾之一，海水在珊瑚礁上呈现出十几种蓝绿色调。乘坐玻璃底船，不用弄湿身子就能俯瞰珊瑚礁。"
+      },
+      "coords": [24.4526, 124.1548]
+    }
+  ]
+}

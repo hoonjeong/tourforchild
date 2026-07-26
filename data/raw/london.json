@@ -1,0 +1,120 @@
+{
+  "id": "london",
+  "country": "gb",
+  "coords": [51.5074, -0.1278],
+  "name": { "ko": "런던", "en": "London", "ja": "ロンドン", "zh": "伦敦" },
+  "tagline": {
+    "ko": "불에 타 무너졌다가 다시 일어난, 까마귀가 지키는 2000년 된 강가 도시",
+    "en": "The 2,000-year-old river town that burned down—and rose again, ravens and all",
+    "ja": "燃え落ちても立ち上がった、カラスが守る2000年の川辺の街",
+    "zh": "被大火焚毁又重新崛起、由渡鸦守护的两千年河畔之城"
+  },
+  "story": {
+    "ko": [
+      "약 2000년 전, 로마 병사들이 영국 남쪽의 넓은 강을 건너와 '론디니움'이라는 작은 무역 마을을 세웠어요. 바다에서 배가 곧장 들어올 수 있는 자리라서, 로마 제국 곳곳의 물건과 음식, 사람들이 이곳으로 몰려들었죠. 강가의 작은 마을은 점점 커지고 커져서, 오늘날 우리가 아는 '런던'이 되었답니다.",
+      "그 후로도 런던은 수백 년 동안 계속 커졌고, 좁은 골목마다 나무로 지은 집들이 다닥다닥 붙어 있었어요. 그러다 1666년 9월 어느 밤, 푸딩 레인의 한 빵집에서 튄 작은 불씨가 무시무시한 괴물로 변했어요. 바로 '런던 대화재'였죠. 불길은 나흘 내내 도시를 집어삼켰지만, 놀랍게도 거의 모든 사람이 무사히 피했고 목숨을 잃은 사람은 아주 적었대요.",
+      "잿더미 속에서 런던 사람들은 예전보다 더 크고 멋지게 도시를 다시 세웠어요. 크리스토퍼 렌이라는 뛰어난 건축가가 거대한 돔을 가진 웅장한 새 성당을 설계했는데, 그 돔은 지금도 런던 하늘을 지키고 있답니다. 나무 대신 벽돌과 돌로 집을 지어서, 다시는 불이 그렇게 번지지 않도록 했어요.",
+      "오늘날 런던 곳곳에는 아주 오래된 것과 최신의 것이 나란히 있어요. 천 년 된 요새는 왕실 보석을 지키고, 거대한 종은 국회의사당 위에서 시간을 알리고, 이층버스는 나라보다도 오래된 건물들 옆을 씽씽 달리죠. 어느 골목을 걸어도, 2000년치 이야기 속을 한꺼번에 걷는 셈이랍니다."
+    ],
+    "en": [
+      "Around 2,000 years ago, Roman soldiers crossed a wide river in southern Britain and built a small trading town they called Londinium. It sat right where ships could sail in from the sea, so goods, food, and people poured in from all over the Roman world. That little riverside town grew and grew—today we call it London.",
+      "For hundreds of years London kept growing, its narrow streets packed with wooden houses built right up against each other. Then one night in September 1666, a spark in a bakery on Pudding Lane grew into a monster: the Great Fire of London. It roared through the city for four whole days, gobbling up thousands of homes—yet almost everyone escaped, and only a handful of people were lost.",
+      "Out of the ashes, Londoners rebuilt bigger and grander than before. A brilliant architect named Christopher Wren designed a magnificent new cathedral with a dome so huge it still rules the skyline today. Brick and stone replaced wood, so the next fire could never spread the same way again.",
+      "Now ancient and modern stand side by side all over London. A thousand-year-old fortress guards royal jewels, a giant bell booms the hour over Parliament, and double-decker buses zoom past buildings older than most countries. Walk down any street, and you're really walking through 2,000 years of stories all at once."
+    ],
+    "ja": [
+      "今から約2000年前、ローマの兵士たちがイギリス南部の大きな川を渡り、『ロンディニウム』という小さな交易の町を築きました。海から船がまっすぐ入ってこられる場所だったので、ローマ帝国じゅうの品物や食べ物、人々がこの町に集まってきました。その川辺の小さな町はどんどん大きくなり、今の『ロンドン』になったのです。",
+      "その後も何百年もロンドンは大きくなり続け、せまい通りには木造の家がびっしり建ちならんでいました。ところが1666年9月のある夜、プディング・レーンのパン屋から出た小さな火花が、恐ろしい怪物に変わりました。『ロンドン大火』です。炎は4日間も街を焼きつくしましたが、驚くことにほとんどの人が無事に逃げ、命を落とした人はごくわずかだったそうです。",
+      "灰の中から、ロンドンの人々は前よりも大きく立派な街を建て直しました。クリストファー・レンという天才建築家が、巨大なドームを持つ壮大な新しい大聖堂を設計し、そのドームは今もロンドンの空を見守っています。木の代わりにレンガと石で家を建てるようになり、二度と火が同じように燃え広がらないようにしたのです。",
+      "今のロンドンでは、とても古いものと最新のものが街のあちこちで並んでいます。千年前のとりでは王室の宝石を守り、大きな鐘は国会議事堂の上で時を告げ、二階建てバスは国よりも古い建物のそばを走りぬけます。どの通りを歩いても、2000年分の物語をいっぺんに歩いているようなものですね。"
+    ],
+    "zh": [
+      "大约两千年前，罗马士兵渡过英国南部一条宽阔的河流，建立了一个叫“伦蒂尼恩”的小小贸易城镇。因为这里能让船只直接从海上驶入，来自罗马帝国各地的货物、食物和人们纷纷涌入。这座河边小镇越长越大，最终变成了今天的“伦敦”。",
+      "此后几百年里，伦敦不断扩大，狭窄的街道两旁挤满了木头搭建的房屋。可是在1666年9月的一个夜晚，布丁巷一家面包店里溅出的小火星，变成了一头可怕的怪兽——“伦敦大火”。大火整整烧了四天四夜，吞噬了成千上万座房屋，可让人惊讶的是，几乎所有人都安全逃了出来，丧生的人非常少。",
+      "从灰烬中，伦敦人把城市重建得比从前更大更壮观。一位名叫克里斯托弗·雷恩的天才建筑师设计了一座宏伟的新大教堂，教堂那座巨大的圆顶至今仍守护着伦敦的天际线。人们不再用木头盖房子，改用砖块和石头，这样大火就再也不能像以前那样蔓延了。",
+      "如今的伦敦，古老与现代随处并肩而立。一座千年古堡守护着王室珠宝，一口大钟在国会大厦上空报时，双层巴士呼啸驶过比许多国家历史还悠久的建筑。走在任何一条街上，都像是同时走进了两千年的故事里。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "런던 지하철 '튜브'는 1863년에 문을 열었어요. 세계에서 가장 오래된 지하철이랍니다!",
+      "런던탑에는 까마귀 여섯 마리가 살아요. 까마귀가 떠나면 왕국이 무너진다는 전설 때문에, '레이븐마스터'라는 관리인이 매일 돌본대요.",
+      "런던 대화재는 나흘 동안 타올라 집 1만 3천 채 넘게 태웠지만, 목숨을 잃은 사람은 놀랍게도 손에 꼽을 정도였어요.",
+      "'빅벤'은 사실 시계탑 이름이 아니라, 매시간 '뎅뎅' 울리는 커다란 종의 이름이에요!",
+      "버킹엄 궁전에는 방이 무려 775개, 화장실만 78개예요. 그 안에서 화장실 찾다가 길 잃을지도 몰라요!",
+      "거의 2000년 전 로마 시대에 쌓은 진짜 성벽 조각이 지금도 런던탑 근처에 남아 있어요."
+    ],
+    "en": [
+      "London's Underground—'the Tube'—opened in 1863. It's the oldest underground railway in the whole world!",
+      "Six ravens live at the Tower of London, and legend says if they ever fly away, the kingdom will fall—so a keeper called the Ravenmaster looks after them every day.",
+      "The Great Fire of London burned for four days and destroyed over 13,000 houses—but somehow, only a handful of deaths were ever recorded.",
+      "'Big Ben' isn't actually the clock tower's name—it's the giant bell inside that booms every hour!",
+      "Buckingham Palace has 775 rooms, including 78 bathrooms. Imagine trying to find the toilet in there!",
+      "Chunks of an actual Roman wall—built almost 2,000 years ago—still stand near the Tower of London today."
+    ],
+    "ja": [
+      "ロンドンの地下鉄『チューブ』は1863年に開業しました。世界で最も古い地下鉄なんです!",
+      "ロンドン塔には6羽のワタリガラスが住んでいます。カラスが逃げると王国がほろびるという伝説があるので、『レイヴンマスター』という係の人が毎日世話をしているそうです。",
+      "ロンドン大火は4日間燃え続け、1万3000軒以上の家を焼きましたが、亡くなった人はおどろくほど少なかったそうです。",
+      "『ビッグベン』は実は時計塔の名前ではなく、毎時間ゴーンと鳴る巨大な鐘の名前なんです!",
+      "バッキンガム宮殿には部屋が775もあり、トイレだけでも78個。中でトイレをさがして迷子になっちゃうかも!",
+      "ほぼ2000年前のローマ時代に積まれた本物の城壁のかけらが、今もロンドン塔の近くに残っています。"
+    ],
+    "zh": [
+      "伦敦地铁“管子”（the Tube）1863年就开通了，是全世界最古老的地铁!",
+      "伦敦塔里住着六只渡鸦。传说渡鸦一旦飞走，王国就会灭亡，所以有位专门的“渡鸦守护人”每天悉心照料它们。",
+      "伦敦大火整整烧了四天，摧毁了一万三千多座房屋，但令人惊讶的是，记录在案的死亡人数却少得屈指可数。",
+      "“大本钟”其实不是钟楼的名字，而是钟楼里那口每小时敲响一次的巨大钟的名字!",
+      "白金汉宫有整整775个房间，光洗手间就有78间。在里面找厕所说不定都会迷路!",
+      "将近两千年前罗马时代砌成的真正城墙残片，如今依然矗立在伦敦塔附近。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "런던탑을 지키는 까마귀 여섯 마리가 떠나면 왕국이 무너진대! 너라면 그 까마귀들을 돌보는 일을 맡아볼래?",
+    "en": "Six ravens guard London's royal tower—legend says if they ever fly away, the whole kingdom falls. Would you dare be their keeper?",
+    "ja": "ロンドン塔を守る6羽のカラスが逃げたら王国がほろびるんだって！きみならそのカラスたちの世話係、やってみる？",
+    "zh": "守卫伦敦塔的六只渡鸦要是飞走了，王国就会灭亡哦！你敢当它们的守护人吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "런던탑", "en": "Tower of London", "ja": "ロンドン塔", "zh": "伦敦塔" },
+      "blurb": {
+        "ko": "천 년 된 이 요새는 왕궁이자 감옥이었다가, 지금은 눈부신 왕실 보석을 지키고 있어요. 마당을 활보하는 유명한 까마귀 여섯 마리와, 새빨간 제복을 입은 '비프이터' 경비병도 꼭 찾아보세요.",
+        "en": "This thousand-year-old fortress has been a royal palace, a prison, and now guards the dazzling Crown Jewels. Look for the six famous ravens strutting the grounds—and the Beefeater guards in their bright red uniforms.",
+        "ja": "千年前のこの要塞は王宮であり牢屋でもあり、今はまばゆい王室の宝石を守っています。敷地を歩き回る有名な6羽のカラスや、真っ赤な制服を着た『ビーフィーター』の衛兵もぜひ探してみて。",
+        "zh": "这座千年古堡曾是王宫，也曾是监狱，如今守护着璀璨夺目的王室珠宝。别忘了找找在庭院里踱步的六只名渡鸦，还有身穿鲜红制服的“食牛肉卫士”。"
+      },
+      "coords": [51.5081, -0.0759]
+    },
+    {
+      "name": { "ko": "엘리자베스 타워 (빅벤)", "en": "Elizabeth Tower (Big Ben)", "ja": "エリザベス・タワー（ビッグベン）", "zh": "伊丽莎白塔（大本钟）" },
+      "blurb": {
+        "ko": "영국 법이 만들어지는 국회의사당 옆에 서 있는 시계탑이에요. '빅벤'이라 불리는 거대한 종이 1859년부터 매 시간을 울려왔는데, 도시 전체에서 그 소리를 들을 수 있대요.",
+        "en": "This clock tower stands beside the Houses of Parliament, where England's laws are made. Its giant bell, nicknamed Big Ben, has been booming out the hour since 1859—you can hear it ring across the whole city.",
+        "ja": "イギリスの法律が作られる国会議事堂のそばに立つ時計塔です。『ビッグベン』と呼ばれる巨大な鐘は1859年から毎時ゴーンと鳴り続けていて、街じゅうにその音が響きます。",
+        "zh": "这座钟楼矗立在制定英国法律的国会大厦旁。昵称“大本钟”的巨大钟自1859年起每小时报时一次，整座城市都能听到它的钟声。"
+      },
+      "coords": [51.5007, -0.1246]
+    },
+    {
+      "name": { "ko": "세인트 폴 대성당", "en": "St Paul's Cathedral", "ja": "セント・ポール大聖堂", "zh": "圣保罗大教堂" },
+      "blurb": {
+        "ko": "런던 대화재 이후 다시 지어진 이 대성당의 거대한 돔은 한때 런던에서 가장 높은 지점이었어요. '속삭임의 회랑' 벽에 대고 속삭이면, 돔 반대편에 있는 사람도 또렷하게 들을 수 있대요!",
+        "en": "Rebuilt after the Great Fire, this cathedral's giant dome was once the tallest point in London. Whisper into the wall of its Whispering Gallery, and someone far across the dome can hear you perfectly!",
+        "ja": "ロンドン大火のあとに建て直されたこの大聖堂の巨大なドームは、かつてロンドンで一番高い場所でした。『ささやきの回廊』の壁にささやくと、ドームの反対側にいる人にもはっきり聞こえるそうです!",
+        "zh": "这座大教堂在伦敦大火后重建，巨大的圆顶曾是伦敦的最高点。对着“低语回廊”的墙壁悄悄说话，圆顶另一边的人也能听得清清楚楚!"
+      },
+      "coords": [51.5138, -0.0984]
+    },
+    {
+      "name": { "ko": "버킹엄 궁전", "en": "Buckingham Palace", "ja": "バッキンガム宮殿", "zh": "白金汉宫" },
+      "blurb": {
+        "ko": "지금 국왕이 살고 일하는 궁전이에요. 궁전 앞에서 열리는 근위병 교대식을 구경해 보세요. 왕실 깃발이 걸려 있으면 국왕이 궁전에 있다는 뜻이래요!",
+        "en": "This is where the King lives and works today. Watch the Changing of the Guard out front, and if the royal flag is flying, it means the King is home!",
+        "ja": "現在の国王が暮らし、働いている宮殿です。宮殿の前で行われる衛兵交代式をぜひ見てみて。王室の旗がかかげられていたら、国王が宮殿にいるしるしなんです!",
+        "zh": "这里是现任国王居住和办公的地方。去宫殿前看看“卫兵换岗仪式”吧，要是王室旗帜正在飘扬，就说明国王在家哦!"
+      },
+      "coords": [51.5014, -0.1419]
+    }
+  ]
+}

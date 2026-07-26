@@ -1,0 +1,120 @@
+{
+  "id": "aswan",
+  "country": "eg",
+  "coords": [24.0889, 32.8998],
+  "name": { "ko": "아스완", "en": "Aswan", "ja": "アスワン", "zh": "阿斯旺" },
+  "tagline": {
+    "ko": "거대한 미완성 오벨리스크가 아직도 바위 속에 잠들어 있는, 이집트의 알록달록한 남쪽 관문",
+    "en": "Egypt's colorful southern gateway, where a giant unfinished obelisk still sleeps in stone",
+    "ja": "巨大な未完成のオベリスクが今も岩の中で眠る、色あざやかなエジプトの南の玄関口",
+    "zh": "巨大的未完成方尖碑仍沉睡在岩石中的埃及缤纷南方门户"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 아스완은 이집트의 남쪽 관문이었어요. 나일강이 바위섬들 사이로 좁아지는 곳에 자리 잡고 있었죠. 고대 이집트 사람들은 여기서 반짝이는 분홍빛 화강암을 캐냈는데, 이 단단한 돌로 이집트 곳곳에 거대한 조각상과 오벨리스크(뾰족한 돌기둥)를 만들었답니다.",
+      "어느 날, 일꾼들은 역사상 가장 큰 오벨리스크를 만들려고 바위산을 통째로 깎기 시작했어요. 다 만들어지면 10층 건물보다도 높았을 거래요! 그런데 작업 중간에 돌에 커다란 금이 가버려서, 일꾼들은 어쩔 수 없이 멈춰야 했어요. 그 거대한 '미완성 오벨리스크'는 지금도 땅에 반쯤 박힌 채로 남아 있답니다.",
+      "아스완에는 여신 이시스를 모시는 신전도 있어요. '필레'라는 작은 섬 위에 지어졌죠. 그런데 근처에 커다란 아스완 하이 댐을 짓게 되면서, 불어난 강물이 신전을 통째로 삼켜버릴 위기에 처했어요. 그러자 전 세계 사람들이 힘을 모아, 신전을 수천 개의 돌덩어리로 조심스럽게 잘라낸 뒤, 더 높은 섬으로 옮겨 돌 하나하나를 다시 쌓아 올렸답니다.",
+      "오늘날 아스완은 알록달록 색이 넘치는 도시예요. 나일강을 따라 파랗고 노란 색으로 칠한 누비아 마을들이 늘어서 있고, '펠루카'라는 전통 돛단배가 황금빛 모래언덕 옆을 스르르 지나가요. 이집트에서 가장 아름답고 여유로운 도시 중 하나랍니다."
+    ],
+    "en": [
+      "Long, long ago, Aswan sat at Egypt's southern gate, where the Nile squeezes between rocky islands. Ancient Egyptians came here to quarry pink granite, the strong, sparkly stone kings used to build giant statues and towering obelisks all over Egypt.",
+      "One day, workers began carving the biggest obelisk ever attempted, right out of the bedrock. It would have stood taller than a ten-story building! But partway through, a crack split the stone, and the workers had to stop. That giant unfinished obelisk still lies there today, half-carved into the ground.",
+      "Aswan also holds a temple to the goddess Isis, built on a little island called Philae. When engineers built the huge Aswan High Dam nearby, they worried the rising water would swallow the temple whole. So people from all over the world teamed up, cut the entire temple into thousands of numbered blocks, and rebuilt it—stone by stone—on a higher island, safe and dry.",
+      "Today Aswan is full of color: Nubian villages painted in bright blues and yellows line the Nile, feluccas (traditional sailboats) glide past golden dunes, and camels rest near ancient temples. It's one of Egypt's most beautiful, laid-back cities."
+    ],
+    "ja": [
+      "はるか昔、アスワンはエジプトの南の玄関口でした。ナイル川が岩の島々の間で細くなる場所にあります。古代エジプトの人々はここできらめくピンク色の花こう岩を切り出し、この硬い石でエジプト中に巨大な像やオベリスク（とがった石柱）を作りました。",
+      "ある日、職人たちは史上最大のオベリスクを作ろうと、岩山をまるごと削り始めました。完成すれば10階建てのビルより高くなるはずでした！ところが作業の途中で石に大きなひびが入ってしまい、職人たちはあきらめるしかありませんでした。その巨大な『未完成のオベリスク』は、今も地面に半分埋まったまま残っています。",
+      "アスワンには女神イシスをまつる神殿もあります。『フィラエ』という小さな島に建てられました。でも近くに大きなアスワン・ハイ・ダムが作られることになり、増えた水が神殿をまるごとのみこんでしまう心配が出てきました。そこで世界中の人々が力を合わせ、神殿を数千個の石のブロックに丁寧に切り分け、もっと高い島へ運んで、石を一つひとつ積み直したのです。",
+      "今日のアスワンは色にあふれた街です。ナイル川ぞいには青や黄色にぬられたヌビア人の村がならび、『フェルーカ』という伝統的な帆船が金色の砂丘のそばをすべるように進みます。エジプトの中でも特に美しく、のんびりできる街の一つです。"
+    ],
+    "zh": [
+      "很久很久以前，阿斯旺是埃及南方的门户，坐落在尼罗河穿过岩石小岛而变窄的地方。古埃及人在这里开采闪闪发亮的粉色花岗岩，用这种坚硬的石头在埃及各地建造巨大的雕像和方尖碑。",
+      "有一天，工匠们开始从整块岩床上雕凿史上最大的一座方尖碑。如果完工的话，它会比十层楼还要高！可是雕刻到一半时，石头上突然裂开一道大缝，工匠们不得不停工。这座巨大的“未完成方尖碑”，如今仍有一半嵌在地里。",
+      "阿斯旺还有一座供奉女神伊西斯的神庙，建在一个叫“菲莱”的小岛上。后来附近要修建巨大的阿斯旺高坝，上涨的河水眼看就要把整座神庙淹没。于是世界各地的人们齐心协力，把神庙小心地切成数千块石块，搬到更高的小岛上，一块一块重新拼装了起来。",
+      "如今的阿斯旺色彩缤纷：尼罗河沿岸排列着漆成蓝色和黄色的努比亚村庄，传统帆船“费鲁卡”缓缓驶过金色的沙丘。这里是埃及最美丽、最悠闲的城市之一。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "미완성 오벨리스크가 다 만들어졌다면 역사상 가장 큰 오벨리스크가 됐을 거예요. 길이가 42미터에, 무게는 코끼리 200마리와 맞먹는대요!",
+      "옛날 사람들에게는 화강암을 자를 만큼 단단한 금속 도구가 없었어요. 그래서 '돌레라이트'라는 단단하고 둥근 돌로 몇 달 동안 두드려서 깎았답니다.",
+      "필레 신전이 물에 잠기지 않도록, 사람들은 신전을 4만 개가 넘는 돌덩어리로 잘라내어 더 높은 섬에 하나하나 다시 쌓았어요.",
+      "아스완 하이 댐이 만들어지면서 '나세르 호수'가 생겼는데, 이건 세상에서 가장 큰 인공 호수 중 하나예요.",
+      "옛날 에라토스테네스라는 학자는 아스완의 우물 속으로 해가 똑바로 비치는 걸 보고, 한 발짝도 움직이지 않고 지구 전체의 크기를 계산해냈대요!",
+      "아스완 근처 누비아 마을 사람들은 집을 파랗고 분홍빛, 노란색으로 알록달록 칠해요. 어떤 집은 행운을 빈다며 악어를 키우기도 한대요!"
+    ],
+    "en": [
+      "If finished, the Unfinished Obelisk would have been the largest obelisk ever carved—about 42 meters long, and as heavy as 200 elephants!",
+      "Ancient workers had no metal tools strong enough to cut granite, so they pounded it for months using hard, round stones called dolerite.",
+      "To save Philae Temple from flooding, workers cut it into more than 40,000 blocks and rebuilt it piece by piece on a higher island.",
+      "The Aswan High Dam created Lake Nasser, one of the largest man-made lakes on Earth.",
+      "Long ago, a scientist named Eratosthenes used the sunlight shining straight down a well in Aswan to figure out the size of the entire Earth—without ever leaving the ground!",
+      "Nubian villages near Aswan paint their houses in bright blues, pinks, and yellows—some families even keep a pet crocodile out front for good luck!"
+    ],
+    "ja": [
+      "もし完成していたら、未完成のオベリスクは史上最大のオベリスクになっていました。長さ42メートル、重さはゾウ200頭分もあったそうです！",
+      "昔の人には花こう岩を切れるほど硬い金属の道具がありませんでした。そこで『ドレライト』という硬くて丸い石で、何か月もかけてたたいて削ったのです。",
+      "フィラエ神殿が水に沈まないように、人々は神殿を4万個以上の石ブロックに切り分け、もっと高い島で一つひとつ積み直しました。",
+      "アスワン・ハイ・ダムができたことで『ナセル湖』が生まれました。これは世界最大級の人工湖の一つです。",
+      "昔、エラトステネスという学者は、アスワンの井戸に太陽の光がまっすぐ差しこむようすから、一歩も動かずに地球全体の大きさを計算してしまいました！",
+      "アスワン近くのヌビア人の村では、家を青やピンク、黄色にあざやかにぬります。中には幸運をねがってワニを飼っている家もあるそうです！"
+    ],
+    "zh": [
+      "如果雕刻完成，这座未完成方尖碑将是史上最大的方尖碑：长约42米，重量相当于200头大象！",
+      "古时候没有足够坚硬的金属工具能切割花岗岩，工匠们只能用一种叫“闪长岩石锤”的坚硬圆石，敲打好几个月才能雕刻出形状。",
+      "为了不让菲莱神庙被河水淹没，人们把整座神庙切割成四万多块石块，再搬到更高的小岛上一块块重新拼好。",
+      "阿斯旺高坝建成后形成了“纳赛尔湖”，这是世界上最大的人工湖之一。",
+      "很久以前，一位叫埃拉托色尼的学者，通过阿斯旺一口井里阳光笔直照下的现象，坐在原地就算出了整个地球的大小！",
+      "阿斯旺附近的努比亚村庄，人们把房子刷成蓝色、粉色和黄色，五颜六色。据说有些人家还会养一只鳄鱼来带来好运呢！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "거대한 돌기둥이 바위에 박힌 채로 그만 쩍 갈라져 버렸대요. 그렇게 커다란 돌을 손으로 깎는다는 게 상상이 가나요?",
+    "en": "A giant stone needle cracked while it was still stuck in the rock—can you imagine carving something that huge by hand?",
+    "ja": "巨大な石の柱が、岩にくっついたままパキッと割れてしまったんだって。あんなに大きな石を手でけずるなんて、想像できるかな？",
+    "zh": "一根巨大的石柱还嵌在岩石里的时候就裂开了。你能想象用手雕刻这么庞大的石头是什么感觉吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "미완성 오벨리스크", "en": "The Unfinished Obelisk", "ja": "未完成のオベリスク", "zh": "未完成方尖碑" },
+      "blurb": {
+        "ko": "거대한 오벨리스크가 완성되지 못한 채 바위 속에 반쯤 박혀 있어요. 다 만들어졌다면 이집트 역사상 가장 큰 오벨리스크가 되었을 거예요. 바로 옆에서 옛날 도구 자국까지 만져볼 수 있답니다!",
+        "en": "A massive obelisk still lies half-carved into the bedrock, cracked before workers could finish it. If completed, it would have been the tallest obelisk Egypt ever made. You can walk right up and touch the ancient tool marks!",
+        "ja": "巨大なオベリスクが完成しないまま、岩の中に半分埋まっています。もし完成していたら、エジプト史上最大のオベリスクになっていたはずです。すぐそばで昔の道具のあとにさわることもできますよ！",
+        "zh": "一座巨大的方尖碑仍未完工，一半嵌在岩床里。如果完成，它本会是埃及有史以来最大的方尖碑。你还可以走近触摸古代工具留下的痕迹！"
+      },
+      "coords": [24.0871, 32.8822]
+    },
+    {
+      "name": { "ko": "필레 신전", "en": "Philae Temple", "ja": "フィラエ神殿", "zh": "菲莱神庙" },
+      "blurb": {
+        "ko": "여신 이시스를 위해 지어진 아름다운 신전이에요. 불어나는 강물을 피해 돌 하나하나를 옮겨 더 높은 섬에 다시 세웠답니다. 작은 배를 타고 이곳으로 가는 길은 마치 동화 속으로 들어가는 기분이에요.",
+        "en": "A beautiful temple built for the goddess Isis, rescued piece by piece and rebuilt on a higher island to escape the rising water. Sailing there by small boat feels like floating into a storybook.",
+        "ja": "女神イシスのために建てられた美しい神殿。増える川の水からのがれるため、石を一つずつ運んでもっと高い島に建て直されました。小さな船で向かうと、まるで物語の中に入っていくような気分になります。",
+        "zh": "这是为女神伊西斯建造的美丽神庙，为了躲避上涨的河水，人们把它一块块搬到更高的小岛上重建。乘小船前往那里，仿佛驶进了一个童话故事。"
+      },
+      "coords": [24.0258, 32.8845]
+    },
+    {
+      "name": { "ko": "아스완 하이 댐", "en": "Aswan High Dam", "ja": "アスワン・ハイ・ダム", "zh": "阿斯旺高坝" },
+      "blurb": {
+        "ko": "나일강을 가로지르는 거대한 벽으로, 강의 범람을 막고 사람이 만든 것 중 가장 큰 호수인 나세르 호수를 만들어냈어요. 댐 위에 서면 잔잔한 파란 호수가 지평선까지 펼쳐진 모습을 볼 수 있답니다.",
+        "en": "A giant wall across the Nile that tamed the river's floods and created Lake Nasser, one of the biggest lakes people ever built. Standing on top, you can see the calm blue lake stretching toward the horizon.",
+        "ja": "ナイル川を横切る巨大な壁で、川のはんらんをおさえ、人が造った中でも最大級の湖『ナセル湖』を生み出しました。ダムの上に立つと、おだやかな青い湖が地平線まで広がるのが見えます。",
+        "zh": "一道横跨尼罗河的巨大堤坝，驯服了河流的洪水，也造就了纳赛尔湖——人类建造的最大湖泊之一。站在坝顶，可以看到平静的蓝色湖水一直延伸到地平线。"
+      },
+      "coords": [23.9707, 32.8776]
+    },
+    {
+      "name": { "ko": "누비아 마을", "en": "Nubian Village", "ja": "ヌビア人の村", "zh": "努比亚村庄" },
+      "blurb": {
+        "ko": "엘레판티네 섬 근처 나일강 강변에는 파랑, 분홍, 노랑으로 알록달록 칠한 누비아 마을이 늘어서 있어요. 낙타나 돛단배를 타고 찾아가서, 낙타가 그늘에서 쉬는 동안 달콤한 히비스커스 차를 마셔볼 수 있답니다.",
+        "en": "Colorful Nubian houses painted blue, pink, and yellow line the Nile's banks near Elephantine Island. Visitors ride camels or sailboats to reach them, then sip sweet hibiscus tea while camels nap in the shade.",
+        "ja": "エレファンティネ島の近く、ナイル川岸には青やピンク、黄色に彩られたヌビア人の村がならびます。ラクダや帆船で訪れて、ラクダが日かげで休むあいだ、あまいハイビスカスティーを味わうことができますよ。",
+        "zh": "在象岛附近的尼罗河岸边，排列着漆成蓝色、粉色和黄色的努比亚村庄。游客可以骑骆驼或乘帆船前往，一边看骆驼在树荫下打盹，一边品尝香甜的洛神花茶。"
+      },
+      "coords": [24.0917, 32.8797]
+    }
+  ]
+}

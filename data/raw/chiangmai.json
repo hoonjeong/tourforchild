@@ -1,0 +1,120 @@
+{
+  "id": "chiangmai",
+  "country": "th",
+  "coords": [18.7883, 98.9853],
+  "name": { "ko": "치앙마이", "en": "Chiang Mai", "ja": "チェンマイ", "zh": "清迈" },
+  "tagline": {
+    "ko": "하얀 코끼리가 절 자리를 골라준 700년 된 산속의 수도",
+    "en": "The 700-year-old mountain capital where a white elephant chose the temple's spot",
+    "ja": "白い象がお寺の場所を選んだ、700年続く山あいの都",
+    "zh": "由白象选定寺庙所在地的七百年山中古都"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날인 1296년, '멩라이'라는 왕이 새 수도를 세울 완벽한 땅을 찾아 나섰어요. 풀밭을 뛰어다니는 하얀 사슴과 새끼를 데리고 강가를 지나는 하얀 쥐들을 보고는, 이곳이 행운의 땅이라 믿었죠. 왕은 이 도시에 '새로운 도시'라는 뜻의 '치앙마이'라는 이름을 붙이고, '백만 개의 논'이라는 뜻을 가진 란나 왕국의 수도로 삼았답니다.",
+      "새 도시를 지키려고 왕은 성 둘레에 네모난 해자와 두꺼운 벽돌 성벽을 쌓았어요. 그 흔적은 지금도 치앙마이 한복판에 고스란히 남아 있어요. 하지만 도시를 진짜로 지켜줄 무언가가 하나 더 필요했으니, 바로 신성한 성물이었죠.",
+      "전해지는 이야기에 따르면, 한 스님이 반짝반짝 빛나는 부처님의 사리 조각을 가지고 있었대요. 그걸 어디에 모셔야 할지 알아보려고, 사람들은 그 사리를 하얀 코끼리 등에 싣고 코끼리가 가고 싶은 대로 걷게 두었어요. 코끼리는 곧장 가파른 산을 올라가더니, 세 번 크게 울고는 제자리를 빙그르르 돌다가 그 자리에 털썩 누워버렸답니다. 바로 그 자리에 지어진 것이 지금도 도시 위에서 황금빛으로 반짝이는 절, '왓 프라탓 도이수텝'이에요.",
+      "매년 11월이면 치앙마이는 훨씬 더 신비로운 빛으로 물들어요. '이 펭' 축제에서는 수천 개의 종이 등불이 한꺼번에 밤하늘로 떠올라, 마치 별들의 강처럼 흘러가죠. 강물 위로 흐르는 '러이 끄라통' 등불과 함께 온 골짜기가 환하게 빛나요. 700년 전 왕의 마음을 사로잡았던 그 신비로움을, 치앙마이는 지금도 그대로 간직하고 있답니다."
+    ],
+    "en": [
+      "Long ago, in 1296, a king named Mengrai went looking for the perfect place to build his new capital. He saw good signs everywhere — white deer bounding through the grass, white mice with babies scurrying by the river — so he decided this spot was lucky. He named his city Chiang Mai, which means 'New City,' and made it the capital of a kingdom called Lanna, the 'Land of a Million Rice Fields.'",
+      "To protect his new city, the king built a square moat and thick brick walls around it, and remnants of both still stand today, right in the middle of modern Chiang Mai. But the city needed something even more special watching over it — a holy relic to bless it.",
+      "The story goes that a monk had a piece of the Buddha's bone, so shiny it seemed to glow. To find where it belonged, they strapped it onto a white elephant and let the animal wander wherever it wished. The elephant climbed straight up a steep mountain, trumpeted three times, turned in a circle, and lay down. That very spot became Wat Phra That Doi Suthep, a golden temple that still gleams above the city today.",
+      "Every November, Chiang Mai lights up in an even more magical way. Thousands of paper lanterns are released together into the night sky for the Yi Peng festival, drifting up like a river of stars. Combined with the floating lights of Loi Krathong on the river below, the whole valley glows — a 700-year-old city still celebrating the same wonder that made a king choose it long ago."
+    ],
+    "ja": [
+      "遠い昔、1296年のこと。メンライ王という王様が、新しい都を建てるのにぴったりの場所をさがしていました。草原を駆ける白い鹿や、赤ちゃんを連れて川辺を走る白いネズミを見て、王はここが幸運の土地だと確信します。王は『新しい街』という意味の『チェンマイ』という名をつけ、『百万の田んぼ』を意味するランナー王国の都としました。",
+      "新しい街を守るため、王は四角い堀と分厚いレンガの城壁を街のまわりに築きました。その名残は今もチェンマイの町の真ん中にそのまま残っています。でも街には、それだけでは足りない、もっと特別な守り神が必要でした――聖なる仏舎利です。",
+      "言い伝えによると、あるお坊さんが、きらきら光る仏さまの骨のかけらを持っていました。それをどこに納めるべきか調べるため、人々はそれを白い象の背にのせ、象が行きたい所へ自由に歩かせました。象はまっすぐ険しい山を登っていき、三回大きく鳴くと、くるりと回って、そこにどさりと座りこんでしまったのです。まさにその場所に建てられたのが、今も街を見下ろして金色に輝くお寺『ワット・プラタート・ドイステープ』です。",
+      "毎年11月になると、チェンマイはもっと不思議な光につつまれます。『イーペン祭り』では、何千もの紙の灯籠がいっせいに夜空へ放たれ、まるで星の川のように流れていきます。川面をただよう『ロイクラトン』の灯りとあわさって、谷全体がきらめくのです。700年前に王の心をつかんだあの不思議さを、チェンマイは今もそのまま受けついでいます。"
+    ],
+    "zh": [
+      "很久很久以前的1296年，一位名叫孟莱的国王四处寻找建立新都城的完美之地。他看见白鹿在草地上奔跑，还有带着幼崽的白鼠沿河边跑过，便认定这里是块福地。国王给这座城市取名“清迈”，意思是“新城”，并让它成为兰纳王国——“百万稻田之国”——的都城。",
+      "为了守护这座新城，国王在城市四周挖了一圈方形护城河，还筑起了厚厚的砖墙。如今，护城河与城墙的遗迹依然完好地留在清迈市中心。可是这座城市还需要一样更特别的东西来守护它——一件神圣的圣物。",
+      "相传，一位僧人拥有一小块闪闪发光的佛骨舍利。为了找到供奉它的地方，人们把舍利绑在一头白象的背上，任由大象随意行走。大象径直爬上一座陡峭的山，大声吼叫了三声，转了个圈，便在那里卧了下来。就在那个地方，人们建起了如今依旧在城市上方闪耀金光的寺庙——素贴山双龙寺。",
+      "每年11月，清迈会被更加奇幻的光芒点亮。在“伊平灯节”上，成千上万盏纸灯笼一同升上夜空，像一条星星组成的河流缓缓流动。再加上河面上漂浮的“水灯节”灯火，整个山谷都被照得闪闪发光。700年前打动了国王的那份奇妙，清迈至今依然完整地保留着。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "치앙마이는 1296년 멩라이 왕이 세운 도시로, 태국 옛 란나 왕국의 심장부였던 700년이 넘은 도시예요.",
+      "옛 시가지는 완벽한 네모 모양으로, 지금도 걸어서 둘러볼 수 있는 해자와 벽돌 성벽이 감싸고 있어요.",
+      "전설에 따르면 성스러운 사리를 실은 하얀 코끼리가 산을 올라 세 번 울고 자리에 누웠는데, 바로 그 자리에 왓 프라탓 도이수텝이 세워졌대요.",
+      "왓 체디루앙은 한때 지금 방콕에 있는 유명한 에메랄드 불상을 모셨을 만큼 높았지만, 1545년 큰 지진으로 꼭대기가 무너졌어요.",
+      "매년 11월 '이펭' 축제에서는 수천 개의 등불이 한꺼번에 밤하늘로 날아올라 마치 별들의 강처럼 보여요.",
+      "치앙마이는 시원한 산 공기 덕분에 '북방의 장미'라는 별명을 갖고 있고, 오늘날 정글 보호구역에서는 구조된 코끼리들이 일하지 않고 자유롭게 돌아다녀요."
+    ],
+    "en": [
+      "Chiang Mai was founded in 1296 by King Mengrai and is still the historic heart of Thailand's old Lanna Kingdom — over 700 years old!",
+      "The old city is shaped like a perfect square, ringed by a moat and brick walls you can still walk beside today.",
+      "Legend says a white elephant carrying a holy relic climbed a mountain, trumpeted three times, and lay down — marking the exact spot where Wat Phra That Doi Suthep was built.",
+      "Wat Chedi Luang once stood so tall it held the famous Emerald Buddha (now in Bangkok) — until a huge earthquake in 1545 knocked off its top.",
+      "Every November, thousands of glowing lanterns are released into the sky together during the Yi Peng festival — like a river of stars.",
+      "Chiang Mai is nicknamed the 'Rose of the North' for its cool mountain air, and today its jungle sanctuaries let rescued elephants roam free instead of working."
+    ],
+    "ja": [
+      "チェンマイは1296年にメンライ王が建てた街で、タイの古いランナー王国の中心地だった700年以上の歴史をもつ都です。",
+      "旧市街はきれいな四角形をしていて、今も歩いて回れる堀とレンガの城壁に囲まれています。",
+      "伝説では、聖なる仏舎利をのせた白い象が山を登り、三回鳴いてその場に座りこんだ場所に、ワット・プラタート・ドイステープが建てられたそうです。",
+      "ワット・チェディルアンはかつて、今はバンコクにある有名なエメラルド仏を安置していたほど高い塔でしたが、1545年の大地震で頂上がくずれてしまいました。",
+      "毎年11月の『イーペン祭り』では、何千もの灯籠がいっせいに夜空へ放たれ、まるで星の川のように見えます。",
+      "チェンマイは涼しい山の空気から『北方のバラ』と呼ばれ、今ではジャングルの保護区で、救われた象たちが働かずに自由に暮らしています。"
+    ],
+    "zh": [
+      "清迈由孟莱王于1296年建立，曾是泰国古代兰纳王国的中心，如今已有700多年历史。",
+      "古城呈完美的正方形，至今仍被护城河和砖墙环绕，游客可以沿着它散步。",
+      "传说一头驮着圣物舍利的白象爬上山，吼叫三声后卧地不起，人们就在那个地方建起了素贴山双龙寺。",
+      "契迪龙寺曾经高到足以供奉如今收藏在曼谷的著名翡翠佛像，直到1545年一场大地震震塌了塔顶。",
+      "每年11月的“伊平灯节”上，成千上万盏灯笼一同升空，宛如一条星河。",
+      "清迈因凉爽的山间空气被称为“北方玫瑰”，如今丛林保护区让获救的大象自由漫步，不再需要劳作。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "왕이 절을 지을 자리를 하얀 코끼리가 마음대로 걸어 다니며 고르게 했대. 너라면 코끼리한테 자리를 맡기고 싶어?",
+    "en": "A king let a white elephant wander wherever it wanted to choose where a temple should go — would you trust an elephant to pick a spot?",
+    "ja": "王様は、お寺を建てる場所を白い象に自由に歩かせて決めさせたんだって。あなたなら象に場所選びをまかせたい？",
+    "zh": "国王让一头白象自由行走来选定建庙的地点——如果是你，会放心让大象来做决定吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "왓 프라탓 도이수텝", "en": "Wat Phra That Doi Suthep", "ja": "ワット・プラタート・ドイステープ", "zh": "素贴山双龙寺" },
+      "blurb": {
+        "ko": "이 황금빛 절은 전설의 하얀 코끼리가 누웠던 바로 그 자리, 도시 전체가 내려다보이는 산 위에 있어요. 나가(용) 조각이 늘어선 300개가 넘는 계단을 오르거나 케이블카를 타고 올라가면 반짝이는 황금 탑을 만날 수 있어요.",
+        "en": "This golden temple sits high on a mountain overlooking the whole city — exactly where the legendary white elephant lay down. Climb (or ride the cable car up) 300-plus naga-flanked steps to reach the glittering chedi at the top.",
+        "ja": "この黄金の寺は、伝説の白い象が座りこんだまさにその場所、街全体を見下ろす山の上に建っています。ナーガ（蛇の神）が並ぶ300段以上の階段を登るか、ケーブルカーで上がると、きらめく黄金の仏塔に出会えます。",
+        "zh": "这座金色寺庙坐落在俯瞰全城的山顶上，正是传说中白象卧下的地方。沿着两旁装饰着纳迦神兽雕像的300多级台阶往上爬，或乘缆车上山，就能看到山顶那座闪闪发光的金色佛塔。"
+      },
+      "coords": [18.8048, 98.9217]
+    },
+    {
+      "name": { "ko": "왓 체디루앙", "en": "Wat Chedi Luang", "ja": "ワット・チェディルアン", "zh": "契迪龙寺" },
+      "blurb": {
+        "ko": "옛 시가지 한가운데에 커다란 벽돌 탑이 우뚝 솟아 있는데, 일부가 무너져 있어요. 한때 에메랄드 불상을 모셨지만 1545년 지진으로 꼭대기가 무너졌대요. 무너졌어도 태국 북부에서 가장 크고 웅장한 건축물 중 하나예요.",
+        "en": "A massive, part-crumbled brick chedi towers over the old city — it once held the Emerald Buddha until an earthquake shook its top off in 1545. Even broken, it's one of the tallest, most awe-inspiring structures in northern Thailand.",
+        "ja": "旧市街の真ん中に、巨大なレンガの仏塔がそびえていますが、一部は崩れています。かつてエメラルド仏を安置していましたが、1545年の地震で頂上が崩れ落ちました。崩れてもなお、タイ北部で最も大きく、圧倒される建造物の一つです。",
+        "zh": "古城中央矗立着一座巨大的砖砌佛塔，塔身有一部分已经坍塌。它曾供奉翡翠佛像，直到1545年地震震塌了塔顶。即便残缺，它依然是泰国北部最高大、最令人惊叹的建筑之一。"
+      },
+      "coords": [18.7877, 98.9867]
+    },
+    {
+      "name": { "ko": "왓 프라싱", "en": "Wat Phra Singh", "ja": "ワット・プラシン", "zh": "帕辛寺" },
+      "blurb": {
+        "ko": "치앙마이에서 가장 아름답고 사랑받는 절 중 하나로, '프라싱'이라 불리는 존귀한 황금 불상을 모시고 있어요. 건물 곳곳이 금박과 알록달록한 유리 모자이크, 조각된 나무 지붕 장식으로 반짝여요.",
+        "en": "One of Chiang Mai's most beautiful and beloved temples, home to a revered golden Buddha statue called Phra Singh. Its buildings glitter with gold leaf, colorful glass mosaics, and carved wooden gables.",
+        "ja": "チェンマイでもっとも美しく愛されているお寺の一つで、『プラシン』と呼ばれる尊い金の仏像がまつられています。建物は金箔やカラフルなガラスのモザイク、彫刻された木の破風できらきらと輝いています。",
+        "zh": "这是清迈最美丽、最受人喜爱的寺庙之一，供奉着一尊备受尊崇的金色佛像“帕辛佛”。寺庙建筑上贴满金箔，饰有五彩玻璃马赛克和精雕细刻的木质山墙，十分华丽。"
+      },
+      "coords": [18.7906, 98.9832]
+    },
+    {
+      "name": { "ko": "타패 게이트", "en": "Tha Phae Gate", "ja": "ターペー門", "zh": "塔佩门" },
+      "blurb": {
+        "ko": "옛 성벽의 벽돌 성문을 복원한 곳으로, 예전에는 상인과 코끼리, 순례자들이 치앙마이로 들어오던 주요 입구였어요. 지금은 사람들이 모이는 활기찬 광장이 되어, 일요일 저녁이면 워킹 스트리트 시장이 열려 길 가득 음식과 음악, 등불로 북적인답니다.",
+        "en": "A rebuilt brick gate in the old city walls, once a main entrance for traders, elephants, and pilgrims arriving in Chiang Mai. Today it's a lively meeting spot where the Sunday Walking Street market fills the road with food, music, and lanterns.",
+        "ja": "旧城壁のレンガの門を復元したもので、かつては商人や象、巡礼者たちがチェンマイに入る主要な入口でした。今では人々が集う活気ある広場となり、日曜の夜には歩行者天国の市場が開かれ、道いっぱいに屋台やライブ音楽、灯りがあふれます。",
+        "zh": "这是古城墙上一座重建的砖砌城门，曾是商人、大象和朝圣者进入清迈的主要入口。如今这里成了热闹的聚会地点，每逢周日夜晚会举办步行街市集，整条路上摆满美食摊、音乐表演和灯饰。"
+      },
+      "coords": [18.7877, 98.9928]
+    }
+  ]
+}

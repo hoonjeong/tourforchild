@@ -1,0 +1,120 @@
+{
+  "id": "chefchaouen",
+  "country": "ma",
+  "coords": [35.1688, -5.2636],
+  "name": { "ko": "셰프샤우엔", "en": "Chefchaouen", "ja": "シャウエン", "zh": "舍夫沙万" },
+  "tagline": {
+    "ko": "마을 전체가 새파랗게 물든, 모로코의 '파란 진주'",
+    "en": "Morocco's 'Blue Pearl', where an entire town is painted the color of the sky",
+    "ja": "町まるごと真っ青に染まった、モロッコの『青い真珠』",
+    "zh": "整座小镇都被涂成天空色的摩洛哥“蓝色明珠”"
+  },
+  "story": {
+    "ko": [
+      "모로코 북쪽, 험준한 리프 산맥 자락에 아주 특별한 마을이 하나 있어요. 이름은 '셰프샤우엔'. 1471년, 한 지도자가 바다 건너 침입자들을 막으려고 이 산속에 요새를 세운 게 마을의 시작이었어요. 산봉우리 두 개가 마치 '뿔(샤우엔)'처럼 보인다고 해서 이런 이름이 붙었답니다.",
+      "그로부터 얼마 뒤, 스페인에서 쫓겨난 사람들이 이 산속 마을로 숨어들었어요. 그 뒤로 셰프샤우엔은 수백 년 동안 다른 종교를 믿는 외부인은 아예 들어올 수 없는 '비밀의 마을'이 되었답니다. 유럽 사람이 처음으로 이 마을에 발을 들인 건 겨우 140년쯤 전, 그것도 변장을 하고서였대요!",
+      "그런데 왜 이렇게 온 마을이 새파랄까요? 마을에 숨어든 사람들이 하늘과 신을 떠올리게 하는 파란 물감으로 집을 칠하기 시작했다는 이야기가 전해져요. 게다가 파란색을 칠하면 여름에 집이 시원해지고, 성가신 모기도 덜 꼬인다고 해요. 그렇게 한 집 두 집 파랗게 칠하다 보니, 온 마을이 마법처럼 새파래진 거예요.",
+      "지금 셰프샤우엔의 좁은 골목을 걸으면 벽도, 계단도, 문틀도 온통 파란색 물결이에요. 그 사이로 고양이들이 느긋하게 낮잠을 자고, 골목 끝 샘터에서는 산에서 내려온 맑은 물이 졸졸 흘러요. 마치 하늘 조각 속을 걸어 다니는 것 같은, 세상에 하나뿐인 마을이랍니다."
+    ],
+    "en": [
+      "Tucked into Morocco's rugged Rif Mountains sits a truly one-of-a-kind town called Chefchaouen. It began in 1471, when a local leader built a mountain fortress to guard against invaders arriving from across the sea. Two nearby peaks look like a pair of horns, which is exactly what the name Chefchaouen means!",
+      "Not long after, people fleeing Spain found safety in this hidden mountain town. For centuries afterward, Chefchaouen became a secretive place—outsiders of other faiths simply weren't allowed inside. In fact, the very first European to enter did so only about 140 years ago, and even then, in disguise!",
+      "So why is the whole town painted blue? One story says the refugees who settled here began painting their homes a blue that reminded them of the sky and the heavens above. People also noticed that blue paint kept houses cooler in summer and seemed to keep pesky mosquitoes away. House by house, the color spread until, like magic, the entire town turned blue.",
+      "Walk Chefchaouen's narrow lanes today and you'll find walls, staircases, and doorframes all rippling in shades of blue. Sleepy cats nap in the cool alleys, and clear mountain water still trickles from a spring at the edge of town. It feels like wandering through a piece of the sky—there's truly no other place like it."
+    ],
+    "ja": [
+      "モロッコ北部、けわしいリフ山脈のふもとに、とても特別な町があります。その名は『シャウエン』。1471年、ある指導者が海の向こうから来る侵略者を防ぐため、この山の中に砦（とりで）を築いたのが始まりでした。近くの二つの峰が『角（シャウエン）』のように見えることから、この名前がつけられたそうです。",
+      "その後まもなく、スペインを追われた人々がこの山あいの町に逃げこんできました。それから何百年もの間、シャウエンは他の宗教を信じる外の人が中に入れない『秘密の町』になったのです。ヨーロッパ人が初めてこの町に足を踏み入れたのは、わずか140年ほど前。しかも変装してのことだったそうです！",
+      "では、どうして町じゅうが真っ青なのでしょう？この町に逃げこんだ人々が、空や神さまを思わせる青色で家をぬり始めたという言い伝えがあります。さらに青くぬると夏に家が涼しくなり、うるさい蚊も減るのだとか。一軒また一軒と青くぬっていくうちに、町全体がまるで魔法のように真っ青になったのです。",
+      "今シャウエンの細い路地を歩くと、壁も階段も戸口も、青色の波のようです。その間ではネコたちがのんびり昼寝をし、路地のはずれの泉からは山から流れてくる澄んだ水がさらさら流れています。まるで空のかけらの中を歩いているような、世界にひとつだけの町なのです。"
+    ],
+    "zh": [
+      "在摩洛哥北部险峻的里夫山脉深处，藏着一座与众不同的小镇——舍夫沙万。故事要从1471年说起，一位当地首领为抵御从海对岸来袭的侵略者，在这片山中修建了一座要塞。附近两座山峰形似一对犄角，“舍夫沙万”这个名字正是由此而来。",
+      "不久之后，一批从西班牙被迫逃离的人们来到这座藏在山里的小镇寻求庇护。此后数百年间，舍夫沙万成了一座“秘密小镇”——信奉其他宗教的外人根本不许进入。事实上，第一位踏入这里的欧洲人，直到大约140年前才出现，而且还是乔装打扮才得以进来的！",
+      "那为什么整座小镇都被涂成了蓝色呢？有一种说法是，当年逃难到这里的人们，开始用一种让人联想到天空与神明的蓝色粉刷自己的房屋。人们还发现，蓝色能让房子在夏天更凉快，也似乎能少招蚊子。一家接一家地刷下去，整座小镇就像被施了魔法一样，渐渐变成了一片蓝色的海洋。",
+      "如今走在舍夫沙万狭窄的小巷里，墙壁、台阶、门框全都荡漾着深深浅浅的蓝色。慵懒的猫咪在阴凉的巷弄里打盹，巷子尽头的泉眼里，清澈的山泉水仍潺潺流淌。走在其中，仿佛置身于天空的碎片之中——这真是世界上独一无二的地方。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'셰프샤우엔'이라는 이름은 마을을 둘러싼 두 산봉우리가 '뿔' 처럼 보인다고 해서 붙여졌어요.",
+      "1471년, 침입자를 막으려고 산속에 세운 요새 마을이 셰프샤우엔의 시작이었어요.",
+      "수백 년 동안 다른 종교를 믿는 외부인은 마을에 들어올 수 없었고, 첫 유럽인 방문자는 약 140년 전 변장을 하고 들어왔대요.",
+      "마을 전체가 파랗게 칠해진 건 스페인에서 넘어온 사람들이 하늘과 신을 떠올리며 파란색으로 집을 칠하기 시작했기 때문이라는 이야기가 전해져요.",
+      "파란 페인트는 여름에 집을 시원하게 해주고, 모기도 덜 꼬이게 해준다고 해요.",
+      "골목마다 고양이들이 자유롭게 돌아다니는데, 주민들은 고양이를 행운을 가져다주는 친구로 여겨 먹이를 챙겨준대요."
+    ],
+    "en": [
+      "The name 'Chefchaouen' comes from two nearby mountain peaks that look like a pair of horns.",
+      "The town began in 1471 as a mountain fortress built to guard against invaders from across the sea.",
+      "For centuries, outsiders of other faiths couldn't enter the town at all—the first European visitor snuck in disguised, only about 140 years ago.",
+      "One story says the whole town turned blue because refugees from Spain began painting their homes blue to remind them of the sky and the heavens.",
+      "Blue paint is said to keep houses cooler in summer and helps keep mosquitoes away.",
+      "Cats wander freely through every alley, and locals feed them, believing they bring good luck."
+    ],
+    "ja": [
+      "『シャウエン』という名前は、町を囲む二つの山の峰が『角』のように見えることに由来します。",
+      "1471年、海の向こうからの侵略者を防ぐために築かれた山の砦が、シャウエンの始まりでした。",
+      "何百年もの間、他の宗教を信じる外部の人は町に入れず、最初のヨーロッパ人観光客が変装して入ったのは約140年前のことでした。",
+      "町全体が青くなったのは、スペインから逃れてきた人々が空や神さまを思い出せるようにと家を青くぬり始めたからだという言い伝えがあります。",
+      "青い塗料は夏に家を涼しく保ち、蚊を寄せつけにくくすると言われています。",
+      "路地にはネコが自由に歩き回っていて、地元の人たちは幸運を運ぶ存在として餌をあげています。"
+    ],
+    "zh": [
+      "“舍夫沙万”这个名字，来自小镇周围两座形似犄角的山峰。",
+      "1471年，为了抵御海对岸而来的侵略者，人们在山中修建了一座要塞，这就是舍夫沙万的起点。",
+      "数百年间，信奉其他宗教的外人根本无法进入小镇，第一位欧洲游客是在约140年前乔装混入的。",
+      "有一种说法认为，整座小镇变蓝，是因为从西班牙逃来的人们开始把房屋涂成蓝色，以此想念天空与神明。",
+      "据说蓝色涂料能让房子在夏天更凉快，还能减少蚊虫叮扰。",
+      "猫咪在每条小巷里自由自在地闲逛，当地人相信猫咪能带来好运，常常给它们喂食。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "마을 사람들이 벽을 온통 파랗게 칠한 이유가 하늘을 떠올리기 위해서였대. 너라면 우리 집을 무슨 색으로 칠하고 싶어?",
+    "en": "The villagers painted every wall blue to remind them of the sky. If you could paint your whole house one color, what would you choose?",
+    "ja": "村の人たちは空を思い出すために壁をぜんぶ青くぬったんだって。きみなら自分の家を何色にぬりたい？",
+    "zh": "村民们把所有墙壁都涂成蓝色，是为了想念天空。如果让你把自己家涂成一种颜色，你会选什么颜色呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "메디나 (파란 옛 마을)", "en": "The Medina (Blue Old Town)", "ja": "メディナ（青い旧市街）", "zh": "麦地那（蓝色老城）" },
+      "blurb": {
+        "ko": "구불구불한 좁은 골목마다 벽, 계단, 문틀까지 온통 파랗게 칠해진 곳이에요. 걷다 보면 파란 물감 속을 헤엄치는 기분이 든답니다.",
+        "en": "A maze of narrow, winding lanes where the walls, stairs, and doorframes are painted every shade of blue. Wandering through feels like swimming inside a painting.",
+        "ja": "曲がりくねった細い路地の壁も階段も戸口も、あらゆる青色にぬられた迷路のような場所。歩いていると、まるで絵の中を泳いでいるような気分になります。",
+        "zh": "在这片蜿蜒狭窄的迷宫般巷道里，墙壁、台阶、门框都被涂上了各种深浅的蓝色。走在其中，仿佛置身于一幅画中畅游。"
+      },
+      "coords": [35.1690, -5.2632]
+    },
+    {
+      "name": { "ko": "우타 엘 하맘 광장과 카스바", "en": "Plaza Uta el-Hammam & the Kasbah", "ja": "ウタ・エル・ハンマム広場とカスバ", "zh": "乌塔埃尔哈马姆广场与卡斯巴堡垒" },
+      "blurb": {
+        "ko": "1471년에 지어진 마을 최초의 요새 '카스바'가 있는 중심 광장이에요. 지금은 정원과 작은 박물관이 있어, 옛 성벽 사이를 거닐며 마을의 시작을 느낄 수 있어요.",
+        "en": "The town's main square, home to the Kasbah fortress built way back in 1471. Today it holds a garden and a small museum, so you can wander its old walls and feel where the whole town began.",
+        "ja": "1471年に築かれた最初の砦『カスバ』がある中心広場。今は庭園と小さな博物館があり、古い城壁の間を歩きながら町の始まりを感じられます。",
+        "zh": "小镇的中心广场，坐落着远在1471年就建成的卡斯巴堡垒。如今这里有花园和一座小型博物馆，漫步在古老城墙间，能感受到这座小镇最初的样子。"
+      },
+      "coords": [35.1685, -5.2637]
+    },
+    {
+      "name": { "ko": "라스 엘 마 샘", "en": "Ras el-Maa Spring", "ja": "ラス・エル・マーの泉", "zh": "拉斯埃尔马泉" },
+      "blurb": {
+        "ko": "메디나 끝자락, 산에서 내려온 맑은 물이 폭포처럼 흘러내리는 샘이에요. 옛날부터 마을 사람들이 빨래를 하고 물을 긷던 곳으로, 지금도 시원한 물소리를 들을 수 있어요.",
+        "en": "At the edge of the medina, clear mountain water tumbles down like a little waterfall. For generations, villagers came here to wash clothes and fetch water—you can still hear the cool splash today.",
+        "ja": "メディナのはずれで、山から流れる澄んだ水が小さな滝のように流れ落ちる泉。昔から村人たちが洗濯をしたり水をくんだりしてきた場所で、今も涼しい水音が聞こえます。",
+        "zh": "在麦地那的边缘，清澈的山泉水如小瀑布般潺潺流下。世世代代，村民都在这里洗衣、取水，如今仍能听到清凉的水声。"
+      },
+      "coords": [35.1720, -5.2610]
+    },
+    {
+      "name": { "ko": "스페인 모스크 전망대", "en": "The Spanish Mosque Viewpoint", "ja": "スペイン・モスク展望台", "zh": "西班牙清真寺观景台" },
+      "blurb": {
+        "ko": "언덕 위에 자리한 옛 모스크로, 여기서 내려다보면 파란 마을 전체가 한눈에 펼쳐져요. 해 질 무렵이면 마을이 분홍빛과 파란빛으로 물들어 마치 그림 같답니다.",
+        "en": "An old hilltop mosque with a sweeping view over the whole blue town below. At sunset, the town glows pink and blue together, looking just like a painting.",
+        "ja": "丘の上にある古いモスクで、下に広がる青い町全体が見わたせます。夕暮れどきには町全体がピンクと青に染まり、まるで一枚の絵のようです。",
+        "zh": "这座坐落在山丘上的古老清真寺，能俯瞰整座蓝色小镇的全景。夕阳西下时，小镇被染成粉与蓝交融的颜色，宛如一幅画。"
+      },
+      "coords": [35.1735, -5.2650]
+    }
+  ]
+}

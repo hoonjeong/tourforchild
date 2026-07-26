@@ -1,0 +1,120 @@
+{
+  "id": "halong",
+  "country": "vn",
+  "coords": [20.9101, 107.1839],
+  "name": { "ko": "하롱베이", "en": "Ha Long Bay", "ja": "ハロン湾", "zh": "下龙湾" },
+  "tagline": {
+    "ko": "천 마리 용이 빚어낸 섬들이 바다 위로 솟아난 신비의 바다",
+    "en": "The mysterious bay where a thousand dragon-carved islands rise from the sea",
+    "ja": "千頭の竜が生み出した島々が海に浮かぶ、なぞの海",
+    "zh": "千条巨龙雕琢出岛屿、浮出海面的神秘海湾"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 베트남 바닷가에 무서운 적들이 배를 타고 쳐들어왔대요. 하늘의 옥황상제님이 이를 보고, 엄마 용과 아기 용들을 내려보내 도와주라고 했어요. 용들은 바다 위를 낮게 날며 입에서 보석과 옥구슬을 뿜어냈답니다.",
+      "그런데 신기하게도 그 보석들이 바다에 떨어지자마자 커다란 바위섬으로 변했어요! 순식간에 섬들이 성벽처럼 솟아올라 적의 배들을 막아섰고, 배들은 부딪혀 물러갈 수밖에 없었죠. 용들은 자기들이 만든 이 아름다운 바다가 너무 마음에 들어서 영영 여기 살기로 했어요. 그래서 물속으로 스르륵 내려가 잠들었답니다. 그때부터 사람들은 이곳을 '하롱(下龍)', 즉 '용이 내려온 바다'라고 불렀어요.",
+      "과학자들은 조금 다르지만 똑같이 놀라운 이야기를 들려줘요. 약 5억 년이라는 어마어마하게 긴 시간 동안 비와 바람과 파도가 부드러운 석회암을 조금씩 깎아내려서, 무려 1,600개에 가까운 섬을 만들어냈대요. 그리고 가장 높은 섬들 속에는 몰래 동굴도 생겨서, 그 안에는 수천 년 걸려 자란 종유석이 고드름처럼 매달려 있답니다.",
+      "오늘날 알록달록한 나무배들이 우뚝 솟은 섬들 사이를 미끄러지듯 지나다니고, 어떤 가족들은 물 위에 둥둥 뜬 작은 집에서 살아가요. 아이들은 카약을 타고 숨은 동굴을 지나며, 절벽을 폴짝폴짝 뛰어다니는 원숭이도 구경하고, 아직 잠들지 않은 천 마리 용들 뒤로 지는 노을을 바라본답니다."
+    ],
+    "en": [
+      "Long, long ago, fearsome enemies are said to have sailed in to attack Vietnam's coast. The Jade Emperor looked down from the sky and sent a mother dragon and her children flying to help. As the dragons swooped low over the water, they breathed out streams of jewels and jade.",
+      "The gems didn't sink—the moment they touched the sea, they turned into giant rocky islands! In no time, the islands rose up like a wall right across the enemies' path, and their ships crashed and turned back. Vietnam was saved. The dragons loved the beautiful bay they had made so much that they decided to stay forever, sliding down beneath the waves to sleep. That's why people still call this place Ha Long—\"the bay where the dragon comes down.\"",
+      "Scientists tell a different story, but it's just as amazing. Over about 500 million years, rain, wind, and waves slowly wore away the soft limestone rock, carving out nearly 1,600 islands and islets. Deep inside the tallest ones, secret caves formed too, hung with stone icicles called stalactites that took thousands of years to grow.",
+      "Today, colorful wooden boats glide between the towering islands, and some families live afloat in little houses that bob on the water. Kids paddle kayaks past hidden caves, spot monkeys leaping along the cliffs, and watch the sun set behind a thousand stone dragons that never quite finished falling asleep."
+    ],
+    "ja": [
+      "はるか昔、ベトナムの海岸に恐ろしい敵の船が攻めてきたそうです。それを見た天の玉皇大帝は、母竜と子竜たちを地上へ送り、助けるように命じました。竜たちは海の上を低く飛びながら、口から宝石やヒスイの玉を吹き出しました。",
+      "すると不思議なことに、その宝石が海に落ちたしゅんかん、大きな岩の島に変わったのです！あっという間に島々が城壁のようにそびえ立ち、敵の船をはばみました。船はぶつかって引き返すしかなく、ベトナムは救われたのです。竜たちは自分たちが作ったこの美しい海がすっかり気に入り、ずっとここに住むことにしました。そして海の中へすーっと沈んで眠りについたのです。それ以来、人々はこの海を『ハロン（下龍）』――『竜が降りてきた海』と呼ぶようになりました。",
+      "科学者たちは少しちがうけれど、同じくらいおどろく話をしてくれます。約5億年という気の遠くなるような長い時間をかけて、雨や風や波がやわらかい石灰岩を少しずつけずり、なんと1600近くもの島を作り上げたのです。そして一番高い島の中には、こっそりと洞くつもでき、その中には何千年もかけて育った鍾乳石がつららのように垂れ下がっています。",
+      "今日、色とりどりの木の船がそびえ立つ島々の間をすべるように行き交い、ある家族は水の上にぷかぷか浮かぶ小さな家で暮らしています。子どもたちはカヤックに乗って隠れた洞くつをくぐり、崖をぴょんぴょん跳ぶサルを見つけ、まだ眠りきらない千頭の竜たちの向こうに沈む夕日をながめるのです。"
+    ],
+    "zh": [
+      "很久很久以前，据说凶恶的敌人乘船攻打越南的海岸。玉皇大帝在天上看到了，就派龙妈妈和龙宝宝们下凡去帮忙。龙群贴着海面低飞，从嘴里喷出一串串珠宝和翡翠。",
+      "神奇的是，那些珠宝一落进海里，立刻变成了一座座巨大的岩石岛屿！转眼间，岛屿像城墙一样耸立起来，挡住了敌人的去路，敌船撞上去只能掉头逃走，越南就这样得救了。龙群太喜欢自己创造的这片美丽海湾了，决定永远留下来，于是缓缓沉入水中睡着了。从那以后，人们就把这片海叫作“下龙”——“龙降下来的海湾”。",
+      "科学家讲的是另一个故事，但同样令人惊叹。在大约5亿年这样漫长的岁月里，雨水、海风和海浪一点一点地侵蚀着松软的石灰岩，硬是雕琢出了将近1600座岛屿。而在最高的那些岛屿深处，还悄悄形成了洞穴，里面挂着花了几千年才长成的钟乳石，像一根根石头冰柱。",
+      "如今，五颜六色的木船在耸立的岛屿间穿梭滑行，有些人家就住在水面上漂来漂去的小房子里。孩子们划着皮划艇穿过隐秘的山洞，看猴子在悬崖上蹦来跳去，望着夕阳落到那千条还没睡熟的石龙身后。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "하롱베이에는 거의 1,600개의 섬과 바위섬이 있어요. 어떤 섬은 이름조차 없을 정도래요!",
+      "'하롱(下龍)'은 '내려온 용'이라는 뜻이에요. 전설 속 용들이 이 바다로 내려와 영원히 눌러앉았대요.",
+      "유네스코는 이곳을 세계유산으로 두 번이나 뽑았어요. 처음엔 아름다운 경치로, 그다음엔 신비한 지질로요!",
+      "이 섬들이 만들어지는 데 약 5억 년이나 걸렸어요. 비와 바람과 파도가 아주아주 천천히 바위를 깎아냈거든요.",
+      "티톱 섬은 1962년 이곳에서 헤엄쳤던 소련 우주비행사의 이름을 땄어요. 베트남 지도자 호찌민이 직접 그를 데려왔대요!",
+      "어떤 가족들은 평생을 물 위 떠다니는 마을에서 살아요. 아이들은 자전거보다 노 젓는 법을 먼저 배운답니다!"
+    ],
+    "en": [
+      "Ha Long Bay has nearly 1,600 islands and islets—so many that some have never even been named.",
+      "\"Ha Long\" means \"descending dragon\"—legend says dragons dove into this bay and never left.",
+      "UNESCO named it a World Heritage Site not once but twice: first for its beauty, then for its ancient rocks.",
+      "The limestone islands took about 500 million years to form, slowly shaped by rain, wind, and waves.",
+      "Titop Island is named after a Soviet cosmonaut who swam there in 1962—Vietnam's leader Ho Chi Minh brought him along!",
+      "Some families live their whole lives on floating villages, and their kids learn to paddle a boat before they learn to ride a bike."
+    ],
+    "ja": [
+      "ハロン湾には約1600もの島や岩島があります。名前すらついていない島もあるんですって！",
+      "『ハロン（下龍）』は『降りてきた竜』という意味。伝説の竜たちがこの海に降りて、ずっと住みついたそうです。",
+      "ユネスコはここを世界遺産に二度も選びました。最初は美しい景色で、次はふしぎな地質で！",
+      "この島々ができるのに、なんと約5億年もかかりました。雨や風や波がとてもゆっくり岩をけずったからです。",
+      "ティトップ島は、1962年にここで泳いだソ連の宇宙飛行士の名前がついています。ベトナムの指導者ホー・チ・ミンが自ら連れてきたそうですよ！",
+      "ある家族は一生を水の上の村で過ごします。子どもたちは自転車より先に船をこぐ方法を覚えるんです！"
+    ],
+    "zh": [
+      "下龙湾里有将近1600座岛屿和礁石，有些甚至连名字都没有！",
+      "“下龙”意思是“降下来的龙”——传说中龙群降落在这片海湾后就再也没有离开。",
+      "联合国教科文组织把这里评为世界遗产两次，先是因为风景美丽，后来又因为地质奇特！",
+      "这些岛屿花了大约5亿年才形成，全靠雨水、海风和海浪一点点地慢慢雕刻。",
+      "蒂托岛的名字来自1962年在这里游泳的一位苏联宇航员——越南领导人胡志明还亲自带他来的呢！",
+      "有些人家一辈子都住在水上的村庄里，孩子们学会划船比学会骑自行车还要早！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "전설에서는 용들이 바다로 내려와 돌로 변했대. 잠든 용처럼 생긴 섬을 찾아볼 수 있을까?",
+    "en": "Legend says dragons dove into the sea and turned to stone—can you spot which island looks like a sleepy dragon?",
+    "ja": "伝説では竜たちが海に降りて石に変わったんだって。眠っている竜みたいな島を見つけられるかな？",
+    "zh": "传说龙群降落到海里变成了石头，你能找出哪座岛屿看起来像一条睡着的龙吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "승솟 동굴 (놀람의 동굴)", "en": "Sung Sot Cave (Surprise Cave)", "ja": "スンソット洞くつ（びっくり洞くつ）", "zh": "惊讶洞（Sung Sot洞）" },
+      "blurb": {
+        "ko": "하롱베이에서 가장 큰 동굴 중 하나로, 우뚝 솟은 섬 속에 숨어 있어요. 좁은 돌문을 지나면 갑자기—짜잔!—축구장만큼 커다란 동굴이 나타나는데, 성탑처럼 반짝이는 거대한 종유석이 가득하답니다.",
+        "en": "One of the biggest caves in the bay, hidden inside a tall island. Squeeze through a narrow stone doorway and—surprise!—a cavern big enough to hold a stadium opens up, filled with giant stalactites that glow like castle towers.",
+        "ja": "ハロン湾でも最大級の洞くつで、そびえ立つ島の中に隠れています。せまい石の入り口を抜けると、突然――サプライズ！――サッカー場ほど広い空間が現れ、城の塔のように光る巨大な鍾乳石でいっぱいです。",
+        "zh": "下龙湾最大的洞穴之一，藏在一座高耸的岛屿里面。穿过狭窄的石门——哇，惊喜！——眼前突然出现一个足球场那么大的洞厅，里面布满了像城堡塔楼一样闪闪发光的巨大钟乳石。"
+      },
+      "coords": [20.8567, 107.0742]
+    },
+    {
+      "name": { "ko": "티톱 섬", "en": "Titop Island", "ja": "ティトップ島", "zh": "蒂托岛" },
+      "blurb": {
+        "ko": "하얀 모래가 굽이진 작은 섬으로, 꼭대기까지 가파른 계단이 이어져요. 올라가면 하롱베이 전체가 한눈에 펼쳐지는데, 이 섬은 여기서 헤엄쳤던 소련 우주비행사의 이름을 딴 거랍니다.",
+        "en": "A small island with a curving white-sand beach and a steep staircase to the top. Climb it and almost the whole bay spreads out below you—the island is named after a Soviet cosmonaut who once swam here.",
+        "ja": "白い砂浜が弧を描く小さな島で、頂上まで急な階段が続きます。登りきるとハロン湾のほぼ全体が見わたせ、この島はここで泳いだソ連の宇宙飛行士にちなんで名づけられました。",
+        "zh": "一座拥有弯弯白沙滩的小岛，通往山顶的是一段陡峭的台阶。爬上去就能把整个下龙湾尽收眼底，这座岛的名字来自曾在这里游泳的一位苏联宇航员。"
+      },
+      "coords": [20.8886, 107.0847]
+    },
+    {
+      "name": { "ko": "티엔꿍 동굴 (천상의 궁전 동굴)", "en": "Thien Cung Cave (Heaven's Palace Cave)", "ja": "ティエンクン洞くつ（天上の宮殿の洞くつ）", "zh": "天宫洞" },
+      "blurb": {
+        "ko": "이름 그대로 '하늘의 궁전'이라는 뜻인데, 안에 들어가 보면 왜 그런 이름이 붙었는지 알 수 있어요. 천장 가득 용과 요정 정원을 닮은 돌 모양들이 반짝인답니다.",
+        "en": "Its name means \"heavenly palace,\" and once you step inside you'll see why. The ceiling glitters with stone shapes that people say look like dragons and fairy gardens.",
+        "ja": "名前のとおり『天の宮殿』という意味で、中に入るとその理由がわかります。天井いっぱいに、竜や妖精の庭のように見える石の形がきらめいているのです。",
+        "zh": "名字的意思就是“天上的宫殿”，一走进去你就会明白为什么。洞顶挂满了形状各异、像龙和仙境花园的石头，闪闪发亮。"
+      },
+      "coords": [20.9033, 107.0906]
+    },
+    {
+      "name": { "ko": "꾸어반 수상마을", "en": "Cua Van Floating Village", "ja": "クアヴァン水上村", "zh": "古湾水上渔村" },
+      "blurb": {
+        "ko": "물 위에 둥둥 떠 있는 작은 집들이 옹기종기 모여 있는 곳으로, 대대로 어부 가족들이 살아왔어요. 이곳 아이들은 자전거보다 배 젓는 법을 먼저 배운대요!",
+        "en": "A cluster of little houses that float right on the water, home to fishing families for generations. Kids here learn to paddle a boat before they learn to ride a bike!",
+        "ja": "水の上にぷかぷか浮かぶ小さな家々が集まる場所で、代々漁師の家族が暮らしてきました。ここの子どもたちは自転車より先に船をこぐ方法を覚えるそうです！",
+        "zh": "一群漂浮在水面上的小房子聚在一起，世世代代都是渔民之家。这里的孩子学会划船，比学会骑自行车还要早！"
+      },
+      "coords": [20.7692, 107.0511]
+    }
+  ]
+}

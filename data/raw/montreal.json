@@ -1,0 +1,120 @@
+{
+  "id": "montreal",
+  "country": "ca",
+  "coords": [45.5017, -73.5673],
+  "name": { "ko": "몬트리올", "en": "Montreal", "ja": "モントリオール", "zh": "蒙特利尔" },
+  "tagline": {
+    "ko": "지하에 또 다른 도시를 숨겨둔 섬 도시",
+    "en": "The island city with a whole other city hiding underground",
+    "ja": "地下にもう一つの街を隠す島の都市",
+    "zh": "地下藏着另一座城市的岛屿之城"
+  },
+  "story": {
+    "ko": [
+      "아주 오래 전, 거리도 건물도 없던 시절, 이 강 위의 초록빛 섬에는 모호크족을 비롯한 원주민들이 살고 있었어요. 1535년, 프랑스 탐험가 자크 카르티에가 섬 한가운데 있는 커다란 언덕에 올라 끝없이 펼쳐진 숲을 내려다보았죠. 그는 너무나 감탄한 나머지 그 언덕에 '몽 루아얄(왕의 산)'이라는 이름을 붙였고, 훗날 도시 전체가 이 산의 이름을 따 '몬트리올'이 되었답니다.",
+      "그로부터 약 100년 뒤인 1642년, 프랑스 이주민들이 강물이 섬을 휘감아 도는 자리에 작은 마을을 세우고 '빌마리'라고 불렀어요. 이 섬은 마침 두 개의 강이 만나는 자리에 있어서, 모피를 잔뜩 실은 카누와 상인, 모험가들이 끊임없이 오갔죠. 작디작던 마을은 점점 자라나 북아메리카에서 가장 바쁘고 중요한 도시 중 하나가 되었답니다.",
+      "몬트리올의 겨울은 살을 에듯 춥고 눈이 펑펑 쏟아져요. 그래서 오래전 사람들은 놀라운 생각을 해냈어요. 도시 아래에 또 다른 도시를 만들자는 거였죠! 오늘날 30킬로미터가 넘는 지하 통로가 지하철역, 상점, 영화관, 심지어 대학교까지 연결해서, 사람들은 외투 없이도 도심 곳곳을 걸어 다닐 수 있어요. 이걸 '레조(RESO)'라고 부르는데, 세계에서 가장 큰 지하 도시랍니다.",
+      "지상에서는 지금도 프랑스어와 영어, 두 언어가 거리마다 나란히 울려 퍼져요. 여름이면 밤하늘에 불꽃이 터지고, 축제 기간엔 열린 창문마다 재즈 선율이 흘러나오죠. 구시가지의 돌길 위로는 성당의 종소리가 울려 퍼지고요. 강가를 따라 자전거를 타든, 몽 루아얄 꼭대기에 올라 도시 전체를 내려다보든, 몬트리올은 언제나 너를 위한 파티를 여는 것처럼 느껴진답니다."
+    ],
+    "en": [
+      "Long before any street or building stood here, the Mohawk and other Indigenous peoples lived on this leafy island in a great river. In 1535, a French explorer named Jacques Cartier climbed the big hill in the middle of the island and looked out at the endless forest below. He was so amazed that he named the hill 'Mont Royal'—Royal Mountain—and centuries later, the whole city took its name from that mountain: Montreal.",
+      "About a hundred years later, in 1642, a small group of French settlers built a tiny village right where the river curled around the island, calling it Ville-Marie. The island sat exactly where two rivers met, so canoes loaded with furs, traders, and adventurers passed through constantly. That tiny village grew and grew until it became one of the busiest, most important cities in all of North America.",
+      "Montreal's winters can be freezing and snowy, so long ago people came up with an amazing idea: build a whole city UNDER the city! Today, more than 30 kilometers of tunnels link subway stations, shops, movie theaters, and even universities underground, so people can walk everywhere across downtown without ever putting on a coat. It's called RESO, and it's the largest underground city on the planet.",
+      "Above ground, Montreal still hums with two languages, French and English, spoken side by side on every street corner. Fireworks light up the summer sky, jazz spills out of every open window during the festival, and church bells ring over cobblestone streets in the old part of town. Whether you're riding a bike along the river or climbing to the top of Mont Royal for a view of the whole city, Montreal always feels like it's throwing a party just for you."
+    ],
+    "ja": [
+      "はるか昔、まだ道も建物もなかったころ、川に浮かぶこの緑の島には、モホーク族をはじめとする先住民の人々が暮らしていました。1535年、フランスの探検家ジャック・カルティエが島の真ん中にある大きな丘に登り、どこまでも広がる森を見下ろしました。あまりの美しさに感動した彼は、その丘に『モン・ロワイヤル（王の山）』という名前をつけ、のちに街全体がこの山の名前から『モントリオール』と呼ばれるようになったのです。",
+      "それから約100年後の1642年、フランスからの入植者たちが、川が島を取り巻くその場所に小さな村を築き、『ヴィル・マリー』と名づけました。この島はちょうど二つの川が出会う場所にあったため、毛皮を積んだカヌーや商人、冒険家たちがひっきりなしに行き交いました。ちいさな村はどんどん大きくなり、北米でも屈指のにぎやかで重要な都市へと成長していったのです。",
+      "モントリオールの冬は身を切るように寒く、雪もどっさり降ります。そこで昔の人々は、すごいアイデアを思いつきました。街の下にもう一つの街を作ろう、というのです！今日、30キロメートル以上ものトンネルが地下鉄の駅やお店、映画館、さらには大学までつなげていて、人々はコートを着なくても街の中を歩き回れます。これは『レゾ（RESO）』と呼ばれ、世界最大の地下都市なんですよ。",
+      "地上では今も、フランス語と英語という二つの言葉が、どの通りにも並んで響いています。夏には夜空に花火が打ち上がり、フェスティバルの間は開いた窓という窓からジャズの音色があふれ出します。旧市街の石畳の上には教会の鐘の音が響きわたります。川沿いを自転車で走っても、モン・ロワイヤルのてっぺんから街全体をながめても、モントリオールはいつも君のためだけにパーティーを開いているように感じられるはずです。"
+    ],
+    "zh": [
+      "很久很久以前，这里还没有街道，也没有房屋，河中这座绿意盎然的岛上住着莫霍克族等原住民。1535年，法国探险家雅克·卡蒂埃爬上岛屿中央的一座大山丘，俯瞰着脚下无边无际的森林。他惊叹不已，给这座山丘取名“皇家山”（Mont Royal），几百年后，整座城市也因此得名——蒙特利尔。",
+      "大约一百年后的1642年，一小群法国移民在河流环绕小岛的地方建起了一座小村庄，取名“玛丽城”（Ville-Marie）。这座岛恰好位于两条河流交汇之处，满载毛皮的独木舟、商人和冒险家络绎不绝地经过。这个小小的村庄渐渐壮大，最终成为北美洲最繁忙、最重要的城市之一。",
+      "蒙特利尔的冬天冷得刺骨，大雪纷飞。于是很久以前，人们想出了一个绝妙的点子：在城市地下再建一座城市！如今，超过30公里长的地下通道连接着地铁站、商店、电影院，甚至大学，人们不用穿外套就能走遍市中心。这个地下网络叫做“RESO”，是全世界最大的地下城市。",
+      "在地面上，法语和英语这两种语言至今仍在每条街道上并肩回响。夏夜里烟花绽放天际，音乐节期间，爵士乐从每一扇打开的窗户飘出来。老城区的石板路上，教堂的钟声悠悠回荡。无论是沿着河边骑车，还是爬上皇家山俯瞰整座城市，蒙特利尔总让人觉得，这座城市正在为你举办一场专属派对。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "도시 한가운데 있는 커다란 언덕 몽 루아얄은 오랫동안 오래된 화산이라고 여겨졌지만, 과학자들은 이 산이 사실 한 번도 폭발한 적이 없다는 걸 알아냈어요!",
+      "거리 아래에는 '레조(RESO)'라 불리는 32킬로미터가 넘는 지하 통로가 지하철역, 상점, 영화관을 연결해요. 지구에서 가장 큰 지하 도시랍니다.",
+      "몬트리올은 도시 전체가 하나의 섬 위에 세워져 있고, 거대한 세인트로렌스강이 그 주위를 감싸고 있어요.",
+      "파리에 이어 세계에서 두 번째로 큰 프랑스어권 도시예요. 표지판과 노래 속에 프랑스어와 영어가 함께 섞여 있답니다.",
+      "강가에 있는 특이한 콘크리트 상자 건물 '아비타 67'은 대학생이 겨우 23살에 졸업 과제로 설계한 거래요!",
+      "'비오스페어'라는 거대한 돔은 원래 투명한 플라스틱으로 덮여 있었는데, 1976년 화재로 다 타버려서 지금은 뼈대만 남은 금속 돔을 볼 수 있어요."
+    ],
+    "en": [
+      "Mont Royal, the big hill at the heart of the city, was long thought to be an old volcano—but scientists later discovered it never actually erupted at all!",
+      "Beneath the streets, 32+ km of tunnels called 'RESO' link metro stations, shops, and movie theaters—the largest underground city on Earth.",
+      "Montreal is built entirely on an island, surrounded by the mighty St. Lawrence River.",
+      "It's the second-largest French-speaking city in the world after Paris—many street signs and songs mix French and English.",
+      "Habitat 67, the strange stack of concrete boxes by the river, was designed by a 23-year-old university student as his final school project!",
+      "The giant dome called the Biosphère used to be covered in clear plastic, but a fire burned it away in 1976—now it stands as a bare metal skeleton you can visit."
+    ],
+    "ja": [
+      "街の中心にある大きな丘、モン・ロワイヤルは長い間『昔の火山』だと思われていましたが、科学者たちは実はこの山が一度も噴火したことがないと突きとめました！",
+      "通りの下には『レゾ（RESO）』と呼ばれる32キロメートル以上のトンネルがあり、地下鉄の駅やお店、映画館をつないでいます。地球最大の地下都市なんです。",
+      "モントリオールは街全体が一つの島の上にあり、大きなセントローレンス川がぐるりと取り囲んでいます。",
+      "パリに次いで世界で二番目に大きいフランス語圏の都市。標識や歌の中でフランス語と英語が一緒に使われています。",
+      "川べりにある不思議なコンクリートの箱の建物『アビタ67』は、なんと23歳の大学生が卒業制作として設計したものなんです！",
+      "『バイオスフィア』と呼ばれる巨大なドームは、もともと透明なプラスチックで覆われていましたが、1976年の火事で焼け落ち、今では骨組みだけの金属ドームとして見学できます。"
+    ],
+    "zh": [
+      "城市中心那座大山丘“皇家山”曾长期被认为是一座古老的火山，但科学家后来发现，它其实从未真正喷发过！",
+      "街道地下有一条长达32多公里、名叫“RESO”的隧道网络，连接着地铁站、商店和电影院——是地球上最大的地下城市。",
+      "蒙特利尔整座城市建在一座岛屿上，周围环绕着壮阔的圣劳伦斯河。",
+      "它是继巴黎之后全世界第二大法语城市，路牌和歌曲里常常法语和英语混在一起。",
+      "河边那座造型奇特的混凝土方块建筑“67号住宅”，竟然是一名23岁的大学生把它当作毕业设计而建造出来的！",
+      "名叫“生物圈馆”的巨大穹顶，原本包着透明塑料外壳，1976年一场大火把外壳烧毁，如今只剩金属骨架供人参观。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "몬트리올 거리 아래에 또 다른 도시가 숨어 있대. 눈 오는 날 하루 종일 바깥에 안 나가고 그 지하 도시에서만 지낼 수 있을까?",
+    "en": "There's an entire city hiding UNDER Montreal's streets—would you want to spend a whole snowy day down there without ever going outside?",
+    "ja": "モントリオールの道の下に、もうひとつの街が隠れているんだって。雪の日、外に一歩も出ないで、その地下の街だけで一日過ごせるかな？",
+    "zh": "蒙特利尔的街道下面竟然藏着另一座城市。要是下雪天，你能一整天都待在地下城里，不出去外面吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "몽 루아얄 공원", "en": "Mont Royal Park", "ja": "モン・ロワイヤル公園", "zh": "皇家山公园" },
+      "blurb": {
+        "ko": "1535년 자크 카르티에가 올라가 '왕의 산'이라 이름 붙인 바로 그 언덕이에요. 꼭대기까지 오르면 도시 전체가 내려다보이는 커다란 전망대가 있고, 밤이면 환하게 빛나는 거대한 십자가도 찾아볼 수 있어요.",
+        "en": "The very hill Jacques Cartier climbed in 1535 and named 'Royal Mountain.' Hike to the top for a giant lookout over the whole city, then find the huge lit-up cross that glows at night.",
+        "ja": "1535年にジャック・カルティエが登り、『王の山』と名づけたまさにその丘。頂上まで登ると街全体を見わたせる大きな展望台があり、夜には光り輝く巨大な十字架も見つかります。",
+        "zh": "这正是1535年雅克·卡蒂埃爬上并命名为“皇家山”的那座山丘。登上山顶，就能看到俯瞰全城的巨大观景台，夜晚还能找到那座闪闪发光的巨型十字架。"
+      },
+      "coords": [45.5048, -73.5878]
+    },
+    {
+      "name": { "ko": "노트르담 대성당", "en": "Notre-Dame Basilica", "ja": "ノートルダム大聖堂", "zh": "圣母大教堂" },
+      "blurb": {
+        "ko": "구시가지에서 가장 유명한 이 성당 안으로 들어가 위를 올려다보세요. 천장이 짙은 파란색과 금빛으로 반짝이고, 자잘한 별들이 수천 개나 새겨져 있어요. 마치 밤하늘 속으로 들어간 것 같답니다.",
+        "en": "Step inside Old Montreal's most famous church and look up—the ceiling glows deep blue and gold, covered in thousands of tiny stars. It looks almost like stepping inside the night sky.",
+        "ja": "旧市街で最も有名なこの教会に入って、上を見上げてみて。天井は深い青と金色に輝き、無数の小さな星がちりばめられています。まるで夜空の中に入り込んだようですよ。",
+        "zh": "走进老蒙特利尔最有名的这座教堂，抬头看看——天花板闪耀着深蓝与金色，点缀着成千上万颗小星星，仿佛置身于夜空之中。"
+      },
+      "coords": [45.5045, -73.5566]
+    },
+    {
+      "name": { "ko": "아비타 67", "en": "Habitat 67", "ja": "アビタ67", "zh": "67号住宅" },
+      "blurb": {
+        "ko": "강가에 콘크리트 상자들을 거대한 블록처럼 잔뜩 쌓아 올린 독특한 건물이에요. 23살 건축학과 학생이 1967년 세계 박람회를 위해 설계했는데, 지금도 사람들이 그 안에서 살고 있답니다!",
+        "en": "A wild stack of concrete boxes piled up like giant building blocks along the river. A 23-year-old architecture student designed it for the 1967 World's Fair, and people still live inside it today!",
+        "ja": "川沿いに、コンクリートの箱を巨大な積み木のように積み上げた不思議な建物。23歳の建築学科の学生が1967年の万国博覧会のために設計したもので、今でも人々がその中で暮らしています！",
+        "zh": "沿河矗立着一堆混凝土方块，像巨型积木一样层层堆叠。这是一名23岁的建筑系学生为1967年世界博览会设计的建筑，如今仍有人住在里面！"
+      },
+      "coords": [45.5044, -73.5397]
+    },
+    {
+      "name": { "ko": "비오스페어", "en": "Biosphère", "ja": "バイオスフィア", "zh": "生物圈馆" },
+      "blurb": {
+        "ko": "강 위의 섬에 떠 있는 듯한 거대한 은빛 돔이에요. 아비타 67과 같은 세계 박람회를 위해 지어졌죠. 원래는 투명한 플라스틱 막으로 덮여 있었지만, 화재로 다 타버려서 지금은 뼈대만 남은 아름다운 모습을 볼 수 있어요.",
+        "en": "A giant silver dome floating on an island in the river, built for the same World's Fair as Habitat 67. It once wore a clear plastic skin—until a fire burned it off, leaving the bare, beautiful skeleton you see today.",
+        "ja": "川に浮かぶ島の上にたたずむ、巨大な銀色のドーム。アビタ67と同じ万国博覧会のために建てられました。もとは透明なプラスチックの膜で覆われていましたが、火事で焼け落ち、今では骨組みだけの美しい姿を見ることができます。",
+        "zh": "一座巨大的银色穹顶，矗立在河中小岛上，与67号住宅同为那届世博会而建。它原本包裹着透明塑料外壳，后来被大火烧毁，如今只剩下骨架，依然十分美丽。"
+      },
+      "coords": [45.5059, -73.5325]
+    }
+  ]
+}

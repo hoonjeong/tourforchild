@@ -1,0 +1,120 @@
+{
+  "id": "athens",
+  "country": "gr",
+  "coords": [37.9838, 23.7275],
+  "name": { "ko": "아테네", "en": "Athens", "ja": "アテネ", "zh": "雅典" },
+  "tagline": {
+    "ko": "지혜의 여신을 위한 신전이 우뚝 선, 민주주의가 태어난 도시",
+    "en": "The birthplace of democracy, crowned by a temple to a wise goddess",
+    "ja": "知恵の女神の神殿がそびえる、民主主義が生まれた街",
+    "zh": "民主诞生之地，山巅矗立着智慧女神的神庙"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 그리스의 아름다운 새 도시를 놓고 힘센 신 두 명이 다투었어요. 바다의 신 포세이돈은 바위를 내리쳐 샘물을 솟아나게 했어요. 지혜의 여신 아테나는 대신 올리브나무 한 그루를 심었지요. 사람들은 아테나의 선물을 훨씬 더 좋아해서, 도시 이름을 그녀의 이름을 따 '아테네'라고 지었답니다.",
+      "아테네는 바닷가의 활기차고 눈부신 도시로 성장했어요. 약 2500년 전, 이곳 사람들은 세상 어디에서도 해본 적 없는 일을 시도했어요. 평범한 시민들이 직접 나라의 일을 투표로 정하게 한 거예요. 여기서 태어난 이 대담한 생각을 '민주주의'라고 부르는데, 이 생각은 훗날 온 세상을 바꿔놓았답니다.",
+      "도시가 내려다보이는 바위 언덕 꼭대기에, 아테네 사람들은 아테나 여신을 위해 눈부신 대리석 신전 '파르테논'을 지었어요. 건축가들은 어찌나 영리했던지, 기둥을 아주 살짝 구부러지게 만들어서 사람 눈에는 완벽하게 곧게 보이도록 했지요. 파르테논은 2000년이 넘도록 아크로폴리스 꼭대기에서 도시를 지켜보고 있답니다.",
+      "아테네가 세상에 준 선물은 신전과 투표함만이 아니에요. 소크라테스 같은 철학자들이 거리를 거닐며 커다란 질문들을 던졌고, 바로 근처에서 최초의 올림픽 경기가 시작되었죠. 오늘날에도 아테나가 가장 아꼈던 새, 지혜로운 부엉이가 그리스 동전에 살포시 앉아 있어요. 나무 한 그루로 도시를 얻어낸 여신을 떠올리게 하는 작은 흔적이랍니다."
+    ],
+    "en": [
+      "Long, long ago, two powerful gods argued over who should be the guardian of a beautiful new city in Greece. Poseidon, god of the sea, struck a rock and made a spring burst out. Athena, goddess of wisdom, planted an olive tree instead. The people loved her gift so much they named their city after her: Athens.",
+      "Athens grew into a busy, brilliant city on the edge of the sea. About 2,500 years ago, its people did something no one else in the world had tried before — they let ordinary citizens vote on how their city should be run. That bold idea, born right here, is called democracy, and it changed the whole world.",
+      "High on a rocky hill above the city, the Athenians built a stunning marble temple for Athena called the Parthenon. Its builders were so clever that they curved the columns just slightly — so slightly you can't even notice — to make them look perfectly straight to the human eye. For over 2,000 years, it has watched over the city from the top of the Acropolis.",
+      "Athens gave the world more than temples and voting booths. Thinkers like Socrates wandered its streets asking big questions, and the very first Olympic Games began nearby. Even today, wise old owls — Athena's favorite bird — still perch on Greek coins, a tiny reminder of the goddess who won a city with a tree."
+    ],
+    "ja": [
+      "はるか昔、ギリシャの美しい新しい街をめぐって、力強い二人の神さまが言い争いをしました。海の神ポセイドンは岩を打って泉をわき出させました。知恵の女神アテナは、代わりにオリーブの木を一本植えました。人々はアテナの贈り物のほうがずっと気に入り、その名にちなんで街を『アテネ』と呼ぶことにしたのです。",
+      "アテネは海のそばで活気あふれる、まぶしい都市に育っていきました。今から約2500年前、この街の人々は世界のどこもまだ試したことのないことに挑戦しました。ふつうの市民が自分たちで投票して、街の決め事をするようにしたのです。ここで生まれたこの大胆な考えは『民主主義』と呼ばれ、のちに世界じゅうを変えることになりました。",
+      "街を見下ろす岩山のてっぺんに、アテネの人々はアテナ女神のために輝く大理石の神殿『パルテノン』を建てました。建築家たちはとても賢く、柱をほんのわずかに曲げて作ることで、人の目には完全にまっすぐに見えるよう工夫したのです。パルテノンは2000年以上、アクロポリスの頂からずっと街を見守り続けています。",
+      "アテネが世界に残したのは、神殿や投票箱だけではありません。ソクラテスのような哲学者たちが通りを歩きながら大きな問いを投げかけ、すぐ近くでは最初のオリンピック競技が始まりました。今日でも、アテナがいちばん大切にした鳥、知恵深いふくろうがギリシャのコインにちょこんととまっています。木を一本植えて街を手に入れた女神を思い出させる、小さなしるしですね。"
+    ],
+    "zh": [
+      "很久很久以前，两位强大的神明为了希腊一座美丽的新城市争论不休。海神波塞冬用三叉戟敲击岩石，涌出一泓泉水。智慧女神雅典娜则种下了一棵橄榄树。人们更喜欢雅典娜的礼物，于是就用她的名字给这座城市命名——雅典。",
+      "雅典渐渐长成了一座临海而立、生机勃勃、光彩夺目的城市。大约两千五百年前，这里的人做了一件世界上从未有人尝试过的事——让普通市民自己投票决定城邦大小事务。这个诞生于此的大胆想法，就叫做“民主”，后来改变了整个世界。",
+      "在俯瞰全城的岩石山顶上，雅典人为雅典娜女神建造了一座光彩夺目的大理石神庙——帕特农神庙。建筑师们十分聪明，把石柱造得微微弯曲，弯得几乎察觉不到，让人眼看上去却觉得笔直无比。两千多年来，帕特农神庙一直矗立在卫城之巅，守望着这座城市。",
+      "雅典留给世界的，不只是神庙和投票箱。苏格拉底这样的哲学家曾漫步街头，抛出一个个大问题；而最早的奥林匹克运动会，也在附近拉开序幕。直到今天，雅典娜最钟爱的鸟儿——聪慧的猫头鹰，依然栖息在希腊的硬币上，小小地提醒着人们：曾有一位女神，用一棵树赢得了一座城。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "아테네라는 이름은 여신 아테나에게서 왔어요. 아테나는 바다의 신 포세이돈과의 대결에서 도시에 올리브나무를 선물해 승리했거든요.",
+      "약 2500년 전, 아테네는 '민주주의'를 발명했어요. 이 단어 자체가 그리스어로 '시민'과 '힘'을 뜻하는 말에서 나왔답니다.",
+      "파르테논 신전의 기둥에는 눈에 보이지 않을 만큼 아주 살짝 휘어진 비밀이 숨어 있어요. 이 착시 효과 덕분에 기둥이 완벽하게 곧아 보이는 거예요.",
+      "최초의 근대 올림픽은 1896년 아테네에서 열렸는데, 경기장 전체가 새하얀 대리석으로 지어졌답니다.",
+      "아테나가 가장 아꼈던 새인 부엉이는 옛날 아테네 동전에도 새겨져 있었고, 오늘날 그리스의 유로 동전에도 그대로 남아 있어요.",
+      "사람들은 약 5000년 전부터 아테네에 살아왔어요. 그래서 아테네는 지구에서 가장 오래도록 사람이 계속 살아온 도시 중 하나랍니다."
+    ],
+    "en": [
+      "Athens is named after the goddess Athena, who won a contest against the sea god Poseidon by gifting the city an olive tree.",
+      "About 2,500 years ago, Athens invented democracy — the word itself comes from Greek words meaning \"the people\" and \"power.\"",
+      "The Parthenon's columns are built with a secret curve so tiny you can't see it, an optical trick that makes them look perfectly straight.",
+      "The first modern Olympic Games were held in Athens in 1896, in a stadium built entirely from gleaming white marble.",
+      "Athena's favorite bird, the owl, appeared on ancient Athenian coins and still sits on Greek euro coins today.",
+      "People have lived in Athens for about 5,000 years, making it one of the oldest continuously inhabited cities on Earth."
+    ],
+    "ja": [
+      "アテネという名前は、女神アテナから来ています。アテナは海の神ポセイドンとの勝負に、街へオリーブの木を贈って勝ったのです。",
+      "約2500年前、アテネは『民主主義』を生み出しました。この言葉自体、ギリシャ語で『人々』と『力』を意味する言葉からできています。",
+      "パルテノン神殿の柱には、目に見えないほどわずかに曲げられた秘密があります。この目の錯覚のおかげで、柱が完全にまっすぐに見えるのです。",
+      "最初の近代オリンピックは1896年にアテネで開かれ、スタジアム全体が真っ白な大理石で造られていました。",
+      "アテナが一番大切にした鳥・ふくろうは、昔のアテネのコインにも刻まれていて、今のギリシャのユーロ硬貨にもそのまま描かれています。",
+      "人々は約5000年前からアテネに住み続けてきました。そのためアテネは、地球上でもっとも長く人が住み続けている街の一つなのです。"
+    ],
+    "zh": [
+      "雅典这个名字来自女神雅典娜。她在与海神波塞冬的较量中，靠赠送一棵橄榄树赢得了这座城市。",
+      "大约两千五百年前，雅典发明了“民主”。这个词本身就来自希腊语中意为“人民”和“权力”的词语。",
+      "帕特农神庙的石柱藏着一个秘密——它们被造得微微弯曲，弯到几乎看不出来，这种视觉错觉让石柱看起来完美笔直。",
+      "首届现代奥运会于1896年在雅典举行，体育场完全用洁白的大理石建成。",
+      "雅典娜最喜爱的鸟儿——猫头鹰，曾出现在古代雅典的钱币上，如今依然印在希腊的欧元硬币上。",
+      "人们在雅典生活了大约五千年，这使它成为地球上持续有人居住时间最长的城市之一。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "여신은 나무 한 그루를 심어서 도시 하나를 통째로 얻었대. 너라면 어떤 선물을 줬을 것 같아?",
+    "en": "A goddess won an entire city just by planting one tree — what gift would you have given instead?",
+    "ja": "女神は木を一本植えただけで街をまるごと手に入れたんだって。きみなら、どんな贈り物をしたと思う？",
+    "zh": "女神只种了一棵树，就赢得了一整座城市——如果是你，你会送什么礼物呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "아크로폴리스와 파르테논 신전", "en": "The Acropolis & Parthenon", "ja": "アクロポリスとパルテノン神殿", "zh": "卫城与帕特农神庙" },
+      "blurb": {
+        "ko": "도시 전체를 내려다보는 바위 언덕 위에, 새하얗게 빛나는 파르테논 신전이 우뚝 서 있어요. 이 언덕에 오르면 2000년도 더 전에 아테네 사람들이 아테나 여신을 기리러 왔던 바로 그 자리에 서게 되는 거예요. 맑은 날엔 아테네 시내가 거의 다 내려다보인답니다.",
+        "en": "This rocky hill towers over the whole city, crowned by the dazzling white Parthenon temple. Climb up and you'll be standing exactly where Athenians came to honor Athena more than 2,000 years ago. On a clear day, you can see almost all of Athens spread out below.",
+        "ja": "街全体を見下ろす岩山の上に、真っ白に輝くパルテノン神殿がそびえています。この丘に登れば、2000年以上前にアテネの人々がアテナ女神をたたえに来た、まさにその場所に立つことになります。晴れた日には、アテネの街がほとんど見渡せますよ。",
+        "zh": "这座俯瞰全城的岩石山顶上，矗立着洁白耀眼的帕特农神庙。登上这座山丘，你就站在两千多年前雅典人前来祭拜雅典娜女神的同一个地方。天气晴朗时，几乎能俯瞰整个雅典城。"
+      },
+      "coords": [37.9715, 23.7257]
+    },
+    {
+      "name": { "ko": "고대 아고라 (아테네 시장터)", "en": "Ancient Agora of Athens", "ja": "古代アゴラ（アテネの市場跡）", "zh": "古代阿哥拉（雅典集市遗址）" },
+      "blurb": {
+        "ko": "이 넓은 광장은 고대 아테네의 심장이었어요. 사람들이 물건을 사고팔고, 수다를 떨고, 투표도 하던 시끌벅적한 시장이었죠. 소크라테스 같은 철학자들은 지나가는 사람을 붙잡고 어려운 질문 던지기를 좋아했대요. 오늘날 이곳을 걷는다는 건, 민주주의가 태어난 바로 그 자리를 거니는 셈이에요.",
+        "en": "This open square was the beating heart of ancient Athens — a noisy marketplace where people shopped, gossiped, and voted. Philosophers like Socrates loved to stop passersby here and ask them tricky questions. Walking through it today, you're literally strolling through the birthplace of democracy.",
+        "ja": "この広い広場は古代アテネの心臓部でした。人々が買い物をし、うわさ話をし、投票もした、にぎやかな市場だったのです。ソクラテスのような哲学者たちは、通りすがりの人をつかまえて難しい質問を投げかけるのが大好きでした。今日この場所を歩くことは、まさに民主主義が生まれた場所を散歩することなのです。",
+        "zh": "这片开阔的广场曾是古雅典的心脏——一个热闹的集市，人们在这里买卖、闲聊，也在这里投票。苏格拉底这样的哲学家最爱拦住路人，抛出刁钻的问题。如今走在这里，你其实就是在民主诞生的地方漫步。"
+      },
+      "coords": [37.9755, 23.7222]
+    },
+    {
+      "name": { "ko": "파나티나이코 스타디움 (칼리마르마로)", "en": "Panathenaic Stadium (Kallimarmaro)", "ja": "パナシナイコ・スタジアム（カリマルマロ）", "zh": "泛雅典娜体育场（卡利马尔马罗）" },
+      "blurb": {
+        "ko": "새하얀 대리석으로 통째로 지어진 이 말굽 모양 경기장은 1896년 최초의 근대 올림픽이 열린 곳이에요. 그보다 훨씬 오래전, 고대 아테네 사람들도 여기서 달리기와 경기를 했답니다. 대리석 관중석에 앉아, 오늘날처럼 달리는 선수들을 응원하며 함성을 지르던 그때 사람들을 상상해보세요.",
+        "en": "Built entirely of gleaming white marble, this U-shaped stadium hosted the very first modern Olympic Games in 1896. Long before that, ancient Athenians held races and games here too. Sit on its marble seats and imagine the roar of the crowd cheering on runners just like you might today.",
+        "ja": "真っ白な大理石だけで造られたこの馬蹄形のスタジアムは、1896年に初めての近代オリンピックが開かれた場所です。それよりずっと昔、古代アテネの人々もここで競走や競技をしていました。大理石の観客席に座って、今のように選手を応援する歓声がわきあがった当時を想像してみてください。",
+        "zh": "这座完全用洁白大理石建成的马蹄形体育场，是1896年首届现代奥运会的举办地。早在那之前很久，古代雅典人也曾在这里举行赛跑和竞技。坐在大理石看台上，想象一下当年观众为选手呐喊助威的欢呼声吧，就像今天一样。"
+      },
+      "coords": [37.9683, 23.7411]
+    },
+    {
+      "name": { "ko": "올림피에이온 (제우스 신전)", "en": "Temple of Olympian Zeus", "ja": "オリンピエイオン（ゼウス神殿）", "zh": "奥林匹亚宙斯神庙" },
+      "blurb": {
+        "ko": "한때 그리스에서 가장 큰 신전이었던 이곳은 신들의 왕 제우스를 기리기 위해 지어졌어요. 놀랍게도 완공까지 무려 600년이 걸렸답니다! 오늘날엔 하늘 높이 솟은 대리석 기둥 몇 개만 남아 있지만, 그 옆에 서면 기둥이 얼마나 거대한지 실감 나서 스스로가 아주 작게 느껴질 거예요.",
+        "en": "Once the largest temple in all of Greece, this was built to honor Zeus, king of the gods. It took an astonishing 600 years to finish! Today, only a handful of its towering marble columns still stand — but each one is so huge you'll feel tiny standing beside it.",
+        "ja": "かつてギリシャで最大の神殿だったここは、神々の王ゼウスをたたえるために建てられました。完成までなんと600年もかかったそうです！今では空高くそびえる大理石の柱がわずかに残るだけですが、その横に立つと、柱の大きさに自分がとても小さく感じられますよ。",
+        "zh": "这里曾是全希腊最大的神庙，为诸神之王宙斯而建，竟然花了整整六百年才建成！如今只剩下几根高耸入云的大理石柱，但站在柱子旁边，你会感到自己十分渺小。"
+      },
+      "coords": [37.9694, 23.7331]
+    }
+  ]
+}

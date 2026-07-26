@@ -1,0 +1,120 @@
+{
+  "id": "chongqing",
+  "country": "cn",
+  "coords": [29.5630, 106.5516],
+  "name": { "ko": "충칭", "en": "Chongqing", "ja": "重慶（チョンチン）", "zh": "重庆" },
+  "tagline": {
+    "ko": "두 강이 만나는 절벽 위, 하늘로 치솟은 '산의 도시'",
+    "en": "The cliffside 'Mountain City' where two rivers collide",
+    "ja": "二つの川がぶつかる崖の上、天までそびえる『山の街』",
+    "zh": "两江交汇的悬崖之上，直冲云霄的“山城”"
+  },
+  "story": {
+    "ko": [
+      "어느 도시에는 평평한 땅이 하나도 없어요. 중국 남서쪽, '양쯔강'과 '자링강'이라는 큰 강 두 개가 세차게 만나는 곳에 '충칭'이라는 도시가 있거든요. 도시 둘레는 온통 가파른 언덕과 절벽뿐이라, 마을은 옆이 아니라 위로 위로 자라났어요. 그래서 사람들은 충칭을 '산의 도시'라고 부른답니다.",
+      "땅이 기울고 솟아 있으니 보통 길만으로는 부족했어요. 충칭에는 사람들을 절벽 위로 실어 나르는 커다란 야외 에스컬레이터와 엘리베이터가 있고, 도로는 케이크처럼 층층이 쌓여 있어요. 어떤 건물은 앞문으로 들어가면 1층인데, 같은 건물 뒷문으로 나가면 무려 8층이 된답니다!",
+      "그런데 가장 놀라운 마법은 '리쯔바'라는 역에서 벌어져요. 이곳은 땅이 너무 가파르다 보니, 사람들은 모노레일을 아파트 옆으로 돌아가게 만들지 않고, 아예 건물 한가운데를 뚫어 지나가게 만들었어요! 19층짜리 건물 안에는 진짜 사람들이 살고 있고, 몇 분마다 한 번씩 모노레일 열차가 건물 중간의 구멍을 '슝!' 하고 지나간답니다.",
+      "밤이 되면 충칭은 가장 멋진 마법을 보여줘요. 강가에는 '훙야둥'이라는 나무 다락집들이 절벽을 따라 11층 높이로 쌓여 있는데, 창문 하나하나가 온통 황금빛으로 빛나요. 그 아래 거리에서는 사람들이 모락모락 김이 나는 매운 훠궈를 둘러앉아 먹으며 안개 낀 밤을 따뜻하게 보내죠. 강물에 비친 황금빛을 올려다보면, 마치 애니메이션 영화 속으로 걸어 들어온 것 같은 기분이 든답니다."
+    ],
+    "en": [
+      "Picture a city with no flat ground at all. Chongqing sits where two mighty rivers, the Yangtze and the Jialing, crash together in southwest China. The land around them is nothing but steep hills and cliffs, so the whole city had to grow straight up instead of out. That's why everyone calls it the 'Mountain City.'",
+      "Because everything tilts and climbs, ordinary streets just weren't enough. Chongqing built giant outdoor escalators and elevators to carry people up the cliffs, and roads stack on top of each other like layers of a cake. Walk in the front door of some buildings and you're on the ground floor. Walk out the back door of the very same building, and you're eight floors up!",
+      "But the wildest trick of all happens at a train station called Liziba. There, the whole city dips so steeply that engineers didn't build the monorail around an apartment building — they built it straight through one! Real people live in the rooms above and below, and every few minutes a monorail train zooms right through a hole in the middle of the 19-story tower.",
+      "When night falls, Chongqing saves its best magic for last. Along the riverbank, a tower of wooden stilt houses called Hongya Cave climbs eleven stories up the cliff, and every single window glows gold. Down in the streets below, families gather around bubbling, spicy hot pot to warm up in the misty air. Look up at those golden lights reflected in the river, and you'll swear you've wandered straight into an animated movie."
+    ],
+    "ja": [
+      "平らな土地がまったくない街があります。中国の南西部、『長江』と『嘉陵江』という二つの大きな川が勢いよくぶつかる場所に、『重慶（チョンチン）』という街があるのです。あたりは急な丘と崖ばかりだったので、街は横にではなく、上へ上へと育っていきました。だから人々は重慶を『山の街』と呼びます。",
+      "土地が傾いてそびえているので、ふつうの道だけでは足りませんでした。重慶には人を崖の上まで運ぶ大きな屋外エスカレーターやエレベーターがあり、道路はケーキのように何層にも重なっています。ある建物では正面玄関から入ると1階なのに、同じ建物の裏口から出ると、なんと8階になっていることもあるんです！",
+      "でも一番すごい仕掛けは『李子壩（リーズーバー）』という駅にあります。ここは土地がとても急なので、人々はモノレールをマンションの横に回り道させるのではなく、建物のまんなかに穴を開けて通してしまったのです！19階建てのビルには本当に人が住んでいて、数分おきにモノレールがビルの真ん中の穴を『シュン！』と通り抜けていきます。",
+      "夜になると、重慶はいちばんの魔法を見せてくれます。川べりには『洪崖洞（ホンヤードン）』という木造の高床の家々が、崖にそって11階分も積み重なっていて、窓という窓が金色に輝きます。その下の通りでは、人々が湯気の立つ辛い火鍋（ホーコー）を囲んで、霧の夜をあたたかく過ごします。川に映る金色の光を見上げると、まるでアニメ映画の中に迷いこんだような気持ちになりますよ。"
+    ],
+    "zh": [
+      "有一座城市，几乎找不到一块平地。在中国西南部，长江和嘉陵江两条大江猛烈交汇的地方，就是“重庆”。周围全是陡峭的山坡和悬崖，城市没法往两边扩展，只能拼命往上生长。所以人们都叫它“山城”。",
+      "地面又斜又陡，普通的马路根本不够用。重庆修建了巨大的户外扶梯和电梯，把人们送上悬崖，道路也像蛋糕一样一层层叠在一起。有些楼房从正门进去是一楼，可从同一栋楼的后门出来，居然已经到了第八层！",
+      "而最神奇的一幕发生在“李子坝”站。这里的地势实在太陡了，人们没有把轻轨绕着居民楼修，而是直接在楼的正中间挖了个洞让轻轨穿过去！这栋19层的大楼里真的住着人，每隔几分钟，就有一列轻轨“嗖”地一下从楼中间的洞里穿过。",
+      "夜幕降临，重庆会展示它最美的魔法。江边有一座叫“洪崖洞”的吊脚楼群，沿着悬崖足足叠了十一层，每一扇窗户都亮起金色的灯光。楼下的街道上，人们围坐在冒着热气的麻辣火锅旁，在雾气弥漫的夜晚暖暖地吃上一顿。抬头看江水里倒映的点点金光，你会觉得自己好像走进了一部动画电影。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "충칭은 양쯔강과 자링강이 만나는 곳, 가파른 언덕과 절벽 위에 세워져서 '산의 도시'라는 별명을 얻었어요.",
+      "언덕이 너무 심해서, 어떤 건물은 한쪽 문으로 들어가면 1층인데 반대쪽 문으로 나가면 완전히 다른 층이 되기도 해요!",
+      "리쯔바 역에서는 모노레일 열차가 19층짜리 건물 한가운데 뚫린 구멍을 그대로 통과해요. 그 건물 위아래에는 진짜 사람들이 살고 있답니다.",
+      "훙야둥은 절벽을 따라 11층 높이로 쌓인 나무 다락집인데, 밤이 되면 통째로 황금빛 조명을 켠답니다.",
+      "충칭은 안개가 자주 껴서 '안개의 도시'라고도 불리고, 매콤한 훠궈가 처음 태어난 곳으로도 유명해요.",
+      "다리가 많지 않던 옛날에는, 케이블카를 타고 하늘을 가로질러 강을 건넜어요. 지금도 타면 도시 전체가 한눈에 내려다보인답니다."
+    ],
+    "en": [
+      "Chongqing is built on steep hills and cliffs right where the Yangtze and Jialing rivers meet — that's why it's nicknamed the 'Mountain City.'",
+      "The hills are so steep that some buildings have their ground-floor door on one side, but walk out the door on the other side and you're on a completely different floor!",
+      "At Liziba Station, a monorail train drives straight through a hole in the middle of a 19-story building — and real people live above and below the tracks.",
+      "Hongya Cave is a stack of wooden stilt houses climbing eleven stories up a cliff, and at night the whole thing glows gold.",
+      "Chongqing is often called a foggy city because of its misty river valley, and it's also famous as the birthplace of super-spicy hot pot.",
+      "Before there were many bridges, cable cars carried people across the rivers through the sky — and riding one still gives you a sweeping view of the whole city."
+    ],
+    "ja": [
+      "重慶は長江と嘉陵江が出会う場所の、急な丘と崖の上に建てられていて、だから『山の街』というあだ名がついています。",
+      "丘があまりに急なので、ある建物は片方のドアから入ると1階なのに、反対側のドアから出るとまったく違う階になってしまうことも！",
+      "李子壩駅では、モノレールが19階建ての建物のまんなかに開いた穴をそのまま通り抜けます。そのビルの上にも下にも、本当に人が住んでいるんです。",
+      "洪崖洞は崖にそって11階分も積み重なった木造の高床の家々で、夜になると全体が金色に輝きます。",
+      "重慶は川の谷に霧がかかりやすく『霧の街』とも呼ばれ、とても辛い火鍋（ホーコー）が生まれた場所としても有名です。",
+      "橋がまだ少なかった昔は、ケーブルカーで空を渡って川をこえていました。今も乗れば街全体を見わたせますよ。"
+    ],
+    "zh": [
+      "重庆建在长江和嘉陵江交汇处的陡峭山坡与悬崖上，因此得名“山城”。",
+      "山坡实在太陡了，有些楼房从一侧的门进去是一楼，从另一侧的门出去却完全变成了另一层！",
+      "在李子坝站，轻轨列车会直接穿过一栋19层大楼正中间的洞口，楼上楼下真的都住着居民。",
+      "洪崖洞是沿着悬崖叠起十一层的吊脚楼群，一到夜晚就整体亮起金色的灯光。",
+      "重庆因江边山谷多雾，被称为“雾都”，也因是麻辣火锅的发源地而闻名。",
+      "在桥梁还不多的年代，人们乘坐缆车飞跃天空过江。如今坐一次，依然能俯瞰整座城市的壮丽景色。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "몇 분마다 열차가 '슝!' 하고 지나가는 아파트에서 살 수 있겠어?",
+    "en": "Could you handle living in an apartment where a train zooms through every few minutes?",
+    "ja": "数分おきに電車が『シュン！』と通り抜けるマンションに住めるかな？",
+    "zh": "要是公寓里每隔几分钟就有一列火车“嗖”地穿过，你敢住吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "리쯔바 모노레일역", "en": "Liziba Monorail Station", "ja": "李子壩（リーズーバー）モノレール駅", "zh": "李子坝轻轨站" },
+      "blurb": {
+        "ko": "이곳이 바로 그 유명한 '건물을 뚫고 지나가는 기차'가 있는 역이에요. 모노레일이 19층 아파트 한가운데 뚫린 구멍을 그대로 통과하는데, 그 안에 사는 사람들은 이제 아무렇지도 않대요! 전망대에는 기차가 건물 속으로 사라지는 모습을 보려는 사람들이 줄지어 서 있답니다.",
+        "en": "This is where the famous 'train through a building' happens. A monorail dives straight through a hole in the middle of a 19-story apartment tower, and the people who live there barely notice anymore! Crowds line up at a viewing platform just to watch a train vanish into someone's home.",
+        "ja": "ここは、あの有名な『建物を貫く電車』がある駅です。モノレールが19階建てのマンションのまんなかに開いた穴をそのまま通り抜けていくのですが、そこに住む人たちはもう慣れっこなんだとか！展望台には、電車が建物の中に消えていく様子を見ようと人々が並んでいます。",
+        "zh": "这里就是著名的“火车穿楼”所在地。轻轨直接穿过一栋19层公寓楼正中间的洞口，而住在里面的居民早已习以为常！观景台上总排着长队，大家都想亲眼看火车“消失”进楼里的样子。"
+      },
+      "coords": [29.5567, 106.5495]
+    },
+    {
+      "name": { "ko": "훙야둥", "en": "Hongya Cave", "ja": "洪崖洞（ホンヤードン）", "zh": "洪崖洞" },
+      "blurb": {
+        "ko": "절벽을 따라 나무 다락집이 11층 높이로 쌓여 있는 곳이에요. 나무로 만든 통로를 걷다 보면 절벽 속에 숨은 작은 간식 가게들도 만날 수 있어요. 많은 사람들이 여기가 애니메이션 영화 속 마을 같다고 말한답니다.",
+        "en": "A cliffside village of wooden stilt houses stacked eleven stories high. Wander its wooden walkways and you'll find snack shops tucked right into the cliff. Many visitors say it looks exactly like a town from an animated fantasy film.",
+        "ja": "崖にそって木造の高床の家が11階分も積み重なった村です。木の通路を歩くと、崖の中に隠れた小さなおやつ屋さんにも出会えます。多くの人が、アニメ映画に出てくる村みたいだと言います。",
+        "zh": "沿着悬崖叠起十一层的吊脚楼群。走在木质栈道上，还能找到嵌进悬崖里的小吃店。很多游客都说，这里就像动画电影里的小镇一样。"
+      },
+      "coords": [29.5628, 106.5776]
+    },
+    {
+      "name": { "ko": "양쯔강 케이블카", "en": "Yangtze River Cableway", "ja": "長江ロープウェイ", "zh": "长江索道" },
+      "blurb": {
+        "ko": "커다란 다리가 많지 않던 시절, 사람들은 케이블카를 타고 하늘을 가로질러 강을 건넜어요. 작은 케이블카 안에서 내려다보면, 안개 낀 '산의 도시' 전체가 발아래 펼쳐진답니다. 지금도 충칭이 강물 위로 어떻게 우뚝 솟았는지 가장 잘 느낄 수 있는 방법이에요.",
+        "en": "Before big bridges crossed the rivers, people rode cable cars through the sky instead. From inside a little cabin, the whole misty 'Mountain City' spreads out below you. It's still one of the best ways to feel how Chongqing rises straight up out of the water.",
+        "ja": "大きな橋がまだ少なかったころ、人々はケーブルカーで空を渡って川を越えていました。小さなケーブルカーの中から見下ろすと、霧につつまれた『山の街』全体が足もとに広がります。今も、重慶が川からどれほど高くそびえているかを一番感じられる方法です。",
+        "zh": "在大桥还不多的年代，人们乘坐缆车凌空飞渡过江。坐在小小的车厢里俯瞰，云雾缭绕的“山城”就在脚下展开。直到今天，这仍是感受重庆如何从江面拔地而起的最佳方式。"
+      },
+      "coords": [29.5563, 106.5824]
+    },
+    {
+      "name": { "ko": "차오톈먼", "en": "Chaotianmen", "ja": "朝天門（チャオティエンメン）", "zh": "朝天门" },
+      "blurb": {
+        "ko": "누런 양쯔강과 초록빛이 도는 자링강이 세차게 부딪히는 바로 그 지점이에요. 오래전부터 배들이 이곳으로 모여들었고, 사실 충칭이라는 도시 자체가 이 두 강 덕분에 생겨났답니다. 물을 가만히 들여다보면, 두 강의 서로 다른 색깔이 소용돌이치며 섞이는 걸 볼 수 있어요.",
+        "en": "This is the exact spot where the muddy Yangtze and the greener Jialing River crash together. Ships have gathered here for centuries, and honestly, this river meeting is the whole reason Chongqing exists. Look closely at the water and you can watch the two rivers' different colors swirl together.",
+        "ja": "黄色く濁った長江と、緑がかった嘉陵江が勢いよくぶつかる、まさにその場所です。昔から船がここに集まってきました。実はこの二つの川の出会いこそ、重慶という街が生まれた理由なのです。水面をよく見ると、二つの川の違う色が渦を巻いて混ざり合うのが見えますよ。",
+        "zh": "这里正是浑黄的长江与偏绿的嘉陵江猛烈交汇的地方。千百年来船只都汇聚于此，其实正是这两江的相遇，才造就了重庆这座城市。仔细看江水，还能看到两条江不同的颜色在此打着旋儿交融在一起。"
+      },
+      "coords": [29.5651, 106.5892]
+    }
+  ]
+}

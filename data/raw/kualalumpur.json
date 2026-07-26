@@ -1,0 +1,120 @@
+{
+  "id": "kualalumpur",
+  "country": "my",
+  "coords": [3.1390, 101.6869],
+  "name": { "ko": "쿠알라룸푸르", "en": "Kuala Lumpur", "ja": "クアラルンプール", "zh": "吉隆坡" },
+  "tagline": {
+    "ko": "공룡보다 오래된 동굴 옆에 하늘을 찌르는 탑이 솟은 도시",
+    "en": "The city where sky-high towers rise beside caves older than dinosaurs",
+    "ja": "恐竜より古い洞窟のそばに空を突く塔がそびえる街",
+    "zh": "比恐龙还古老的山洞旁，耸立着直插云霄高塔的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 말레이시아에는 클랑 강과 곰박 강이 만나는 곳이 있었어요. 두 강물이 만나 흙탕물처럼 뿌옇게 흐르는 곳이었죠. 1850년대에 주석을 캐러 온 광부들이 바로 이 진흙탕 강어귀에 작은 마을을 세웠어요. 사람들은 이곳을 '쿠알라룸푸르', 말레이어로 '진흙탕 강어귀'라는 뜻의 이름으로 불렀답니다.",
+      "작은 광산 마을은 눈 깜짝할 사이에 커졌어요. 중국, 인도, 말레이 반도 곳곳에서 온 상인들이 저마다의 음식과 축제, 언어를 가지고 모여들었죠. 홍수와 화재로 몇 번이나 무너질 뻔했지만, 사람들은 그때마다 마을을 더 크고 튼튼하게 다시 세웠어요. 그렇게 진흙탕 마을은 조금씩 말레이시아의 자랑스러운 수도로 자라났답니다.",
+      "오늘날 쿠알라룸푸르 한복판에는 페트로나스 트윈 타워가 우뚝 서 있어요. 구름 위 다리로 연결된 쌍둥이 빌딩이죠. 한동안 이 타워는 전 세계에서 가장 높은 건물이었답니다! 전 세계 사람들이 이 반짝이는 탑을 올려다보러 모여든대요.",
+      "그런데 도시 바로 옆에는 훨씬 더 오래된 신비가 숨어 있어요. 바로 '바투 동굴'이에요. 이 석회암 동굴은 공룡보다도 오래됐다고 해요. 장난꾸러기 원숭이들이 지키는 272개의 무지개색 계단을 오르면, 커다란 황금빛 조각상과 수백만 년 동안 언덕을 지켜온 동굴 사원이 기다리고 있어요. 반짝이는 최신 타워와 태곳적 동굴이 한 도시 안에 함께 있는 거죠!"
+    ],
+    "en": [
+      "Long ago in Malaysia, there was a spot where two rivers, the Klang and the Gombak, flowed together into one muddy, cloudy stream. In the 1850s, miners came digging for tin and built a small trading post right at that muddy river-meeting point. They called it 'Kuala Lumpur'—Malay for 'muddy river mouth.'",
+      "That little mining town grew fast. Traders came from China, India, and all across the Malay peninsula, bringing their own foods, festivals, and languages with them. Floods and fires knocked it down more than once, but each time people rebuilt it bigger and stronger. Bit by bit, the muddy village grew into Malaysia's proud capital city.",
+      "Today, right in the heart of Kuala Lumpur stand the Petronas Twin Towers, two towers linked by a bridge high up in the clouds. For years, they were the tallest buildings on the entire planet! People travel from all over the world just to look up at those gleaming towers.",
+      "But hiding just outside the city is an even older wonder: Batu Caves. These limestone caves are older than the dinosaurs. Climb 272 rainbow-colored steps guarded by cheeky monkeys, and inside you'll find a giant golden statue and a cave temple that's watched over the hill for millions of years. Shiny new towers and ancient caves, all in one city!"
+    ],
+    "ja": [
+      "はるか昔、マレーシアにはクラン川とゴンバック川が出会う場所がありました。二つの川が混じり合い、水はどろりと濁っていました。1850年代、すずを掘りに来た鉱夫たちが、その泥だらけの川の合流点に小さな町を作りました。人々はそこを『クアラルンプール』、マレー語で『泥の川の河口』という意味の名前で呼びました。",
+      "小さな鉱山町はあっという間に大きくなりました。中国やインド、マレー半島の各地から商人たちがやって来て、それぞれの食べ物やお祭り、言葉を持ち寄りました。洪水や火事で何度もくずれそうになりましたが、そのたびに人々はもっと大きく、たくましく町を建て直しました。こうして泥の村は少しずつ、マレーシアの誇る首都へと育っていったのです。",
+      "今、クアラルンプールの中心には、ペトロナスツインタワーがそびえています。雲の上の橋でつながった双子のビルです。しばらくの間、このタワーは世界でいちばん高い建物でした！世界中の人々が、この輝くタワーを見上げにやって来ます。",
+      "でも、街のすぐそばにはもっと古い不思議がかくれています。それが『バトゥ洞窟』です。この石灰岩の洞窟は、恐竜よりも古いといわれています。いたずら好きなお猿さんが見守る272段の虹色の階段を登ると、中には大きな金色の像と、何百万年もこの丘を見守ってきた洞窟の寺院が待っています。ぴかぴかの新しいタワーと、太古の洞窟が、一つの街に共存しているのですね！"
+    ],
+    "zh": [
+      "很久很久以前，马来西亚有个地方，巴生河和鹅麦河在那里交汇，河水混浊得像泥浆一样。19世纪50年代，为了开采锡矿，矿工们来到这片泥泞的河口，建起了一个小小的聚落。人们把这里叫做“吉隆坡”，在马来语中的意思就是“泥泞的河口”。",
+      "这个小小的矿业小镇很快发展起来。来自中国、印度和马来半岛各地的商人纷纷聚集于此，带来了各自的食物、节庆和语言。洪水和大火曾好几次几乎把它摧毁，但每一次人们都把它重建得更大、更坚固。就这样，泥泞的小村庄一点点长成了马来西亚引以为傲的首都。",
+      "如今，吉隆坡的市中心矗立着双峰塔（石油双子塔），两座高塔在云端由一座天桥相连。曾有很多年，它是全世界最高的建筑！世界各地的人们纷纷前来，只为抬头仰望这座闪闪发光的高塔。",
+      "可就在城市不远处，还藏着一个更古老的奇迹——黑风洞。这些石灰岩洞穴据说比恐龙还要古老。爬上272级由调皮猴子“看守”的彩虹阶梯，洞穴里等着你的，是一尊巨大的金色雕像，以及一座守护这座山丘长达数百万年的洞穴神庙。闪亮的现代高塔和远古的洞穴，就这样同在一座城市里！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "쿠알라룸푸르라는 이름은 '진흙탕 강어귀'라는 뜻이에요. 1857년, 진흙탕 강이 만나는 곳에 주석 광부들이 세운 작은 교역소에서 시작됐답니다.",
+      "페트로나스 트윈 타워는 1998년부터 2004년까지 전 세계에서 가장 높은 건물이었어요. 지금도 세계에서 가장 높은 '쌍둥이' 빌딩이랍니다.",
+      "두 타워를 잇는 하늘다리는 41층과 42층 높이에 있는데, 사실 어느 타워에도 딱 붙어있지 않은 독립된 구조물이래요!",
+      "바투 동굴을 이루는 석회암은 약 4억 년 전에 만들어졌다고 해요. 최초의 공룡보다도 훨씬 오래됐죠.",
+      "동굴 사원까지 이어지는 계단은 272개인데, 2018년에 무지개색으로 알록달록 칠했어요. 장난꾸러기 원숭이들이 그 계단을 정말 좋아한대요!",
+      "바투 동굴 입구를 지키는 황금빛 조각상은 힌두교 신 조각상 중에서도 세계에서 손꼽히게 큰 조각상이에요. 키가 무려 43미터나 된답니다."
+    ],
+    "en": [
+      "Kuala Lumpur's name literally means 'muddy river mouth'—it started in 1857 as a tiny trading post where tin miners settled at a muddy river confluence.",
+      "The Petronas Twin Towers were the tallest buildings in the whole world from 1998 to 2004, and they're still the tallest twin towers on Earth.",
+      "A skybridge connects the two towers way up on the 41st and 42nd floors—it's actually a whole separate structure, not attached rigidly to either tower!",
+      "The limestone that forms Batu Caves is thought to be around 400 million years old—way older than the very first dinosaurs.",
+      "There are 272 steps up to the main cave temple, painted in rainbow colors in 2018—and cheeky monkeys love hanging around them!",
+      "The golden statue guarding Batu Caves is one of the tallest statues of a Hindu deity anywhere in the world, standing about 43 meters tall."
+    ],
+    "ja": [
+      "クアラルンプールという名前は『泥の川の河口』という意味です。1857年、泥だらけの川が合流する場所にすず鉱夫たちが作った小さな交易所から始まりました。",
+      "ペトロナスツインタワーは1998年から2004年まで、世界でいちばん高い建物でした。今でも世界でいちばん高い『双子』ビルです。",
+      "二つのタワーをつなぐ空中の橋は41階と42階の高さにあり、実はどちらのタワーにもがっちり固定されていない、独立した構造物なんです！",
+      "バトゥ洞窟をつくる石灰岩は、およそ4億年前にできたと考えられています。最初の恐竜よりもずっと古いのですね。",
+      "洞窟の寺院まで続く階段は272段。2018年に虹色にぬり直されました。いたずら好きなお猿さんたちがこの階段が大好きだそうです！",
+      "バトゥ洞窟の入り口を守る金色の像は、ヒンドゥー教の神様の像としては世界でも屈指の大きさ。高さはなんと約43メートルもあります。"
+    ],
+    "zh": [
+      "吉隆坡这个名字的意思就是“泥泞的河口”。1857年，锡矿工人在两条浑浊河流交汇之处建立了一个小小的贸易站，这就是吉隆坡的起点。",
+      "双峰塔在1998年到2004年间曾是全世界最高的建筑，如今依然是世界上最高的“双子”大楼。",
+      "连接两座塔楼的天桥高悬在41楼和42楼之间，其实它是一个独立的结构，并没有牢牢固定在任何一座塔楼上！",
+      "构成黑风洞的石灰岩据推测已有约四亿年历史，比最早的恐龙还要古老得多。",
+      "通往洞穴神庙的台阶共有272级，2018年被漆成了彩虹般的颜色。调皮的猴子们最喜欢在这些台阶上玩耍！",
+      "守护黑风洞入口的金色雕像，是世界上最高的印度教神像之一，高度约达43米。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "구름 위 반짝이는 유리 타워 꼭대기로 올라갈래, 아니면 공룡보다 오래된 동굴로 무지개 계단 272개를 오를래?",
+    "en": "Would you rather ride to the top of a sky-high glass tower, or climb 272 rainbow steps into a cave older than dinosaurs?",
+    "ja": "雲の上の光る塔のてっぺんに登る？それとも恐竜より古い洞窟へ、虹色の階段を272段のぼる？",
+    "zh": "你想坐电梯登上云端闪亮的玻璃高塔，还是想爬272级彩虹阶梯，走进比恐龙还古老的山洞？"
+  },
+  "places": [
+    {
+      "name": { "ko": "페트로나스 트윈 타워", "en": "Petronas Twin Towers", "ja": "ペトロナスツインタワー", "zh": "双峰塔" },
+      "blurb": {
+        "ko": "88층짜리 이 쌍둥이 빌딩은 한때 지구에서 가장 높은 건물이었고, 지금도 세계에서 가장 높은 쌍둥이 빌딩 기록을 갖고 있어요. 엘리베이터를 타고 하늘다리까지 올라가서, 진흙탕 강어귀에서 시작된 도시를 내려다보세요.",
+        "en": "These 88-floor twin towers were once the tallest buildings on Earth, and they still hold the record for tallest twin towers. Ride the elevator up to the skybridge and look down at the city that grew from a muddy river-mouth.",
+        "ja": "88階建てのこのツインタワーは、かつて地球上でいちばん高い建物でした。今でも世界最高の双子ビルという記録を持っています。エレベーターで空中の橋まで上って、泥の河口から育った街を見下ろしてみて。",
+        "zh": "这座88层的双子塔曾是地球上最高的建筑，如今仍保持着世界最高双子楼的纪录。乘电梯登上天桥，俯瞰这座从泥泞河口成长起来的城市吧。"
+      },
+      "coords": [3.1579, 101.7116]
+    },
+    {
+      "name": { "ko": "바투 동굴", "en": "Batu Caves", "ja": "バトゥ洞窟", "zh": "黑风洞" },
+      "blurb": {
+        "ko": "황금빛 무루간 신 조각상이 이 오래된 석회암 동굴 입구를 지키고 있고, 그 안에는 알록달록한 힌두교 사원이 있어요. 272개의 무지개 계단을 올라가 보세요. 다정하지만 배고픈 원숭이들을 조심하고요!",
+        "en": "A giant golden statue of Murugan guards the entrance to these ancient limestone caves, home to a colorful Hindu temple. Climb the 272 rainbow steps—just watch out for the friendly (and hungry!) monkeys.",
+        "ja": "巨大な金色のムルガン神の像が、この古い石灰岩の洞窟の入り口を守っています。中にはカラフルなヒンドゥー教の寺院があります。272段の虹色の階段を登ってみて。人なつっこい（でもお腹をすかせた！）お猿さんには気をつけてね。",
+        "zh": "一尊巨大的金色穆鲁干神像守护着这座古老石灰岩洞穴的入口，洞内是一座色彩缤纷的印度教神庙。爬上272级彩虹阶梯吧——只是要当心那些友好又“饥饿”的猴子！"
+      },
+      "coords": [3.2379, 101.6840]
+    },
+    {
+      "name": { "ko": "메르데카 광장", "en": "Merdeka Square", "ja": "ムルデカ広場", "zh": "独立广场" },
+      "blurb": {
+        "ko": "이 잔디 광장은 1957년 자정, 말레이시아가 독립하며 처음으로 국기를 올린 곳이에요. 이곳의 국기 게양대는 세계에서 가장 높은 편에 속해요. 그날 밤 환호하던 사람들을 상상하며 올려다보세요.",
+        "en": "This grassy square is where Malaysia's flag was first raised at midnight in 1957, marking independence. Its flagpole is one of the tallest in the world—look up and imagine the cheering crowd that night.",
+        "ja": "この芝生の広場は、1957年の真夜中にマレーシアの国旗が初めて掲げられ、独立を祝った場所です。ここの旗ざおは世界でも屈指の高さ。あの夜、歓声を上げた人々を思いうかべながら見上げてみて。",
+        "zh": "这片草坪广场是1957年午夜马来西亚首次升起国旗、庆祝独立的地方。这里的旗杆是世界上最高的旗杆之一——抬头仰望，想象一下那晚欢呼的人群吧。"
+      },
+      "coords": [3.1478, 101.6939]
+    },
+    {
+      "name": { "ko": "센트럴 마켓 (파사르 스니)", "en": "Central Market (Pasar Seni)", "ja": "セントラル・マーケット（パサール・スニ）", "zh": "中央市场（艺术市场）" },
+      "blurb": {
+        "ko": "예전에는 진흙탕 강가의 재래시장이었던 이 아르데코 건물은 지금은 공예품 가게와 길거리 음식으로 가득해요. 얼마나 다양한 문화가 모여 쿠알라룸푸르를 만들었는지 맛볼 수 있는 멋진 곳이랍니다.",
+        "en": "Once a wet market by the muddy river, this art-deco building is now full of craft stalls and street food. It's a great place to taste how many cultures came together to build Kuala Lumpur.",
+        "ja": "かつては泥だらけの川のほとりの市場だったこのアールデコ建築は、今では工芸品の店や屋台グルメでいっぱいです。どれだけ多くの文化が集まってクアラルンプールを作ったのかを味わえる、すてきな場所です。",
+        "zh": "这座装饰艺术风格的建筑曾是泥泞河边的传统市场，如今满是手工艺摊位和街头美食。在这里，你能尝到多种文化如何共同造就了吉隆坡。"
+      },
+      "coords": [3.1439, 101.6959]
+    }
+  ]
+}

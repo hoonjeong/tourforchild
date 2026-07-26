@@ -1,0 +1,120 @@
+{
+  "id": "crete",
+  "country": "gr",
+  "coords": [35.3387, 25.1442],
+  "name": { "ko": "크레타", "en": "Crete", "ja": "クレタ島", "zh": "克里特岛" },
+  "tagline": {
+    "ko": "신들이 태어나고 미로 속에 괴물이 숨어 있던 그리스 섬",
+    "en": "The Greek island where gods were born and a maze hid a monster",
+    "ja": "神々が生まれ、迷宮に怪物が隠れていたギリシャの島",
+    "zh": "众神诞生、迷宫藏着怪兽的希腊岛屿"
+  },
+  "story": {
+    "ko": [
+      "아주아주 먼 옛날, 지금으로부터 4000년도 더 전에, 그리스의 크레타 섬에는 유럽 최초의 위대한 문명 중 하나인 '미노아 문명'이 꽃피고 있었어요. 이 섬을 다스리던 미노스 왕은 크노소스에 화려한 궁전을 짓고 살았는데, 방이 1300개가 넘고 복도가 이리저리 꼬여 있어서 한번 들어가면 길을 잃기 딱 좋았대요.",
+      "전설에 따르면 이 궁전 깊은 곳에는 무서운 괴물이 살고 있었어요. 몸은 사람, 머리는 황소인 '미노타우로스'가 '미궁(라비린토스)'이라는 미로에 갇혀 있었대요. 천재 발명가 다이달로스가 어찌나 복잡하게 미로를 만들었는지, 안에 들어간 사람은 아무도 나올 수 없었죠. 딱 한 사람, 영웅 테세우스만은 공주 아리아드네가 준 실타래를 따라가서 무사히 빠져나왔답니다.",
+      "여기서부터는 진짜 역사예요. 약 3600년 전, 크레타 근처의 섬에서 어마어마한 화산이 폭발해 땅이 흔들리고 커다란 파도가 크레타 해안을 덮쳤어요. 과학자들은 이 재난이 강력했던 미노아 문명을 크게 약하게 만들었고, 몇백 년 뒤에는 커다란 지진이 결국 크노소스의 화려한 궁전을 무너뜨렸을 거라고 생각해요.",
+      "무너진 궁전은 수천 년 동안 땅속에 묻혀 잊혀 있다가, 약 백 년 전 한 고고학자가 땅을 파서 되찾아냈어요. 벽에는 헤엄치는 돌고래와 황소 뿔을 뛰어넘는 곡예사들의 그림이 그대로 남아 있었죠. 지금도 그 옛날 복도를 그대로 걸으며, 미노타우로스 이야기가 시작된 그 순간을 상상해 볼 수 있답니다."
+    ],
+    "en": [
+      "Long, long ago—more than 4,000 years ago—the island of Crete was home to one of Europe's very first great civilizations: the Minoans. Their king, Minos, ruled from a dazzling palace at Knossos with more than 1,300 rooms and hallways that twisted every which way. It was so enormous and confusing that visitors swore you could get lost in it forever.",
+      "Legend says something scary lived deep beneath that palace—a monster called the Minotaur, half man and half bull, locked away in a maze called the Labyrinth. The brilliant inventor Daedalus built that maze so cleverly that nobody who entered could ever find the way out—except the hero Theseus, who followed a ball of string given to him by princess Ariadne and made it home safely.",
+      "Here's the real, true part of the story: around 3,600 years ago, a gigantic volcano erupted on a nearby island, shaking the ground and sending huge waves crashing onto Crete's shores. Scientists believe this disaster helped weaken the mighty Minoans, and a few centuries later a great earthquake finally toppled their glittering palace at Knossos.",
+      "The palace lay buried and forgotten for thousands of years until an archaeologist dug it up about a hundred years ago and uncovered walls painted with leaping dolphins and athletes vaulting over the horns of charging bulls. Today you can walk those same ancient hallways and imagine the palace exactly as it was when the story of the Minotaur first began."
+    ],
+    "ja": [
+      "はるかむかし、今から4000年以上も前、ギリシャのクレタ島にはヨーロッパ最古の偉大な文明のひとつ『ミノア文明』が栄えていました。この島を治めたミノス王はクノッソスに豪華な宮殿を建てて暮らし、部屋の数は1300以上、廊下は複雑に曲がりくねっていて、一度入ったら迷子になってしまいそうなほどでした。",
+      "伝説によると、この宮殿の奥深くにはおそろしい怪物がすんでいたそうです。体は人間、頭は牛の『ミノタウロス』が、『迷宮(ラビリンス)』という迷路にとじこめられていました。天才発明家ダイダロスがあまりに複雑に迷路を作ったので、入った者はだれも出られませんでした。ただひとり、英雄テセウスだけは、王女アリアドネからもらった糸玉をたどって、無事に脱出できたのです。",
+      "ここからは本当にあった話です。今から約3600年前、クレタ島の近くの島で巨大な火山が噴火し、大地がゆれ、大きな波がクレタの海岸におし寄せました。この災害が強大だったミノア文明を大きく弱らせ、数百年後には大きな地震がついにクノッソスの豪華な宮殿をくずしてしまったと、科学者たちは考えています。",
+      "くずれた宮殿は何千年ものあいだ地中にうもれて忘れられていましたが、約100年前、ある考古学者が地面をほって見つけ出しました。壁には泳ぐイルカや、牛の角を飛びこえる曲芸師たちの絵がそのまま残っていたのです。今でも当時と同じ廊下を歩き、ミノタウロスの物語が始まったその瞬間を想像することができます。"
+    ],
+    "zh": [
+      "很久很久以前，距今4000多年前，希腊的克里特岛上曾繁荣着欧洲最早的伟大文明之一——米诺斯文明。统治这座岛屿的米诺斯王在克诺索斯建造了一座华丽的宫殿，房间超过1300间，走廊七拐八绕，一旦走进去就很容易迷路。",
+      "传说这座宫殿深处住着一头可怕的怪物：身体是人、头是公牛的“弥诺陶洛斯”，被关在一座叫“迷宫（拉比林斯）”的地方。天才发明家代达罗斯把迷宫设计得极其复杂，谁进去都出不来——只有一个人例外，英雄忒修斯靠着公主阿里阿德涅给他的一团线，才平安走了出来。",
+      "接下来是真实发生过的历史。大约3600年前，克里特岛附近的一座岛屿上发生了一场巨大的火山喷发，大地震动，巨浪冲上了克里特的海岸。科学家们认为，这场灾难大大削弱了强盛的米诺斯文明，几百年后一场大地震终于让克诺索斯那座华丽的宫殿轰然倒塌。",
+      "倒塌的宫殿在地下沉睡了数千年，直到大约一百年前，一位考古学家把它重新挖掘出来。墙壁上还留着海豚畅游、杂技演员飞跃公牛之角的壁画。如今，你依然可以走在当年同样的走廊里，想象弥诺陶洛斯的故事开始的那一刻。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "크노소스 궁전은 방이 1300개가 넘었어요. 이 진짜 미로 같은 궁전이 미노타우로스 전설을 만들어냈을지도 몰라요.",
+      "4000년 전 미노아 사람들은 이미 물이 흐르는 점토 수도관과 물 내려가는 변기까지 갖추고 있었대요.",
+      "'미궁(라비린토스)'이라는 이름은 궁전 벽 곳곳에 새겨진 양날 도끼 문양 '라브리스'에서 나온 말이래요.",
+      "그리스 신화에서는 아기 신 제우스가 크레타의 동굴 속에 몰래 숨겨져 자랐다고 해요.",
+      "미노아 사람들이 그린 벽화에는 달려오는 황소의 뿔을 훌쩍 뛰어넘는 용감한 곡예사들이 있어요.",
+      "유럽에서 가장 긴 협곡 중 하나인 사마리아 협곡은 크레타의 산속을 약 16킬로미터나 가로지른답니다."
+    ],
+    "en": [
+      "Knossos Palace had more than 1,300 rooms—a real-life maze that likely inspired the Minotaur legend.",
+      "About 4,000 years ago, the Minoans already had flushing toilets and clay pipes carrying running water.",
+      "The word 'labyrinth' comes from 'labrys,' a double-headed axe symbol carved all over the palace walls.",
+      "Greek myth says baby Zeus, king of the gods, was secretly hidden and raised in a cave on Crete.",
+      "Minoan wall paintings show daring athletes leaping straight over the horns of a charging bull.",
+      "Samaria Gorge, one of the longest canyons in Europe, cuts about 16 kilometers through Crete's mountains."
+    ],
+    "ja": [
+      "クノッソス宮殿には1300以上もの部屋があり、この本物の迷路がミノタウロス伝説を生んだのかもしれません。",
+      "4000年前、ミノア人はすでに水が流れる粘土の水道管と水洗トイレまで持っていたそうです。",
+      "『迷宮(ラビリンス)』という言葉は、宮殿の壁のあちこちに刻まれた両刃の斧の模様『ラブリュス』からきているそうです。",
+      "ギリシャ神話では、赤ちゃんのゼウス神がクレタ島の洞窟にひそかにかくまわれて育ったと言われています。",
+      "ミノア人の壁画には、突進してくる牛の角を飛びこえる勇敢な曲芸師たちがえがかれています。",
+      "ヨーロッパ最長級の峡谷サマリア渓谷は、クレタの山の中を約16キロメートルも切りぬいています。"
+    ],
+    "zh": [
+      "克诺索斯宫殿有1300多个房间，这座真实的“迷宫”很可能就是弥诺陶洛斯传说的灵感来源。",
+      "早在4000年前，米诺斯人就已经用上了会流水的陶土水管，甚至还有冲水马桶。",
+      "“迷宫（拉比林斯）”这个词，据说来自宫殿墙壁上到处雕刻的双刃斧图案“拉布里斯”。",
+      "希腊神话说，婴儿时期的宙斯曾被偷偷藏在克里特岛的一个洞穴里抚养长大。",
+      "米诺斯人的壁画上画着勇敢的杂技演员，直接跃过冲来的公牛的犄角。",
+      "萨马利亚峡谷是欧洲最长的峡谷之一，在克里特的群山间蜿蜒约16公里。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "4000년 전 미노아 사람들처럼, 달려오는 황소의 뿔을 훌쩍 뛰어넘을 용기가 너라면 있을까?",
+    "en": "Would you dare leap right over the horns of a charging bull, like Minoan athletes did 4,000 years ago?",
+    "ja": "4000年前のミノア人みたいに、突進してくる牛の角を飛びこえる勇気、きみにはあるかな？",
+    "zh": "像4000年前的米诺斯人一样，跃过冲过来的公牛犄角，你敢吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "크노소스 궁전", "en": "Knossos Palace", "ja": "クノッソス宮殿", "zh": "克诺索斯宫殿" },
+      "blurb": {
+        "ko": "미노스 왕과 그의 미로가 있었다는 전설의 궁전이에요. 복원된 붉은 기둥과 알록달록한 벽화 사이를 걷다 보면, 바로 이곳이 미노타우로스 이야기가 태어난 곳이라는 게 실감 난답니다.",
+        "en": "The legendary home of King Minos and his maze. Wander its rebuilt red columns and colorful frescoes, and you're standing exactly where the Minotaur story was born.",
+        "ja": "ミノス王とその迷路があったとされる伝説の宮殿。復元された赤い柱やカラフルな壁画の間を歩けば、まさにここがミノタウロスの物語が生まれた場所だと実感できます。",
+        "zh": "传说中米诺斯王与他迷宫所在的宫殿。走在重建的红色立柱和色彩斑斓的壁画之间，你会真切感受到——弥诺陶洛斯的故事正是从这里开始的。"
+      },
+      "coords": [35.2977, 25.1633]
+    },
+    {
+      "name": { "ko": "딕테온 동굴 (제우스의 탄생 동굴)", "en": "Dikteon Cave", "ja": "ディクテ洞窟", "zh": "狄克特洞穴" },
+      "blurb": {
+        "ko": "라시티 산속 높은 곳에 있는 이 동굴은 반짝이는 종유석으로 가득해요. 아기 제우스가 아버지를 피해 숨겨졌던 곳이라고 전해지는데, 서늘하고 신비롭게 빛나는 동굴 안에 들어가 보면 왜 사람들이 신이 여기서 태어났다고 믿었는지 알 수 있어요.",
+        "en": "High in the Lasithi mountains, this dripping cave with glittering stalactites is said to be where baby Zeus was hidden from his father. Climb down into its cool, glowing chambers and see why people believed a god could be born here.",
+        "ja": "ラシティの山の高いところにあるこの洞窟は、きらめく鍾乳石でいっぱい。赤ちゃんゼウスが父親から隠されていた場所と伝えられ、ひんやりと神秘的に光る洞窟に入れば、なぜ人々がここで神が生まれたと信じたのかがわかります。",
+        "zh": "这座洞穴位于拉西锡山区高处，布满闪闪发光的钟乳石。传说婴儿宙斯就是被藏在这里，躲避他父亲的追杀。走进这凉爽而神秘发光的洞穴，你就会明白为什么人们相信神明诞生于此。"
+      },
+      "coords": [35.1791, 25.4694]
+    },
+    {
+      "name": { "ko": "사마리아 협곡", "en": "Samaria Gorge", "ja": "サマリア渓谷", "zh": "萨马利亚峡谷" },
+      "blurb": {
+        "ko": "유럽에서 가장 긴 협곡 중 하나로, 하얀 산맥을 뚫고 바다까지 16킬로미터나 이어지는 깊은 골짜기예요. 걷다 보면 절벽 사이가 겨우 몇 미터밖에 안 되는 '철문(시데로스포르타)'이라는 유명한 좁은 길도 지나가게 돼요.",
+        "en": "One of the longest gorges in Europe, this deep canyon cuts 16 kilometers through the White Mountains down to the sea. Hikers pass through the famous 'Iron Gates,' where the cliff walls squeeze to just a few meters apart.",
+        "ja": "ヨーロッパ最長級の峡谷のひとつで、白い山脈を切りぬき海まで16キロメートルも続く深い谷。歩いていくと、崖と崖の間がわずか数メートルしかない有名な『鉄の門』も通ります。",
+        "zh": "这是欧洲最长的峡谷之一，穿过白山山脉一直延伸16公里直达大海。徒步途中会经过著名的“铁门”，那里两侧峭壁之间仅有几米宽。"
+      },
+      "coords": [35.317, 23.933]
+    },
+    {
+      "name": { "ko": "엘라포니시 해변", "en": "Elafonisi Beach", "ja": "エラフォニシビーチ", "zh": "埃拉福尼西海滩" },
+      "blurb": {
+        "ko": "모래가 분홍빛으로 보이는 꿈같은 해변이에요. 하얀 모래 사이에 아주 작은 조개껍데기 조각들이 섞여 있어서 그런 색이 난대요. 얕고 따뜻한 청록색 바다는 아주 잔잔해서 아이들도 저 멀리까지 첨벙첨벙 걸어 들어갈 수 있어요.",
+        "en": "A dreamy lagoon where the sand looks pink! Millions of tiny crushed shells mix into the white sand, and the shallow turquoise water is so warm and calm that kids can wade far out from shore.",
+        "ja": "砂がピンク色に見える夢のようなビーチ。白い砂に小さな貝がらのかけらがまじってこの色になるそうです。浅くて温かいターコイズブルーの海はとてもおだやかで、子どもたちも遠くまでじゃぶじゃぶ歩いていけます。",
+        "zh": "这片梦幻般的泻湖，沙滩看起来是粉红色的！那是因为白沙中混入了无数细小的贝壳碎片。浅浅的绿松石色海水温暖又平静，孩子们可以一直趟到很远的地方。"
+      },
+      "coords": [35.2683, 23.5386]
+    }
+  ]
+}

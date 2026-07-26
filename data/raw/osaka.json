@@ -1,0 +1,120 @@
+{
+  "id": "osaka",
+  "country": "jp",
+  "coords": [34.6937, 135.5023],
+  "name": { "ko": "오사카", "en": "Osaka", "ja": "大阪（おおさか）", "zh": "大阪" },
+  "tagline": {
+    "ko": "황금 지붕 성과 웃음이 넘치는 '천하의 부엌' 도시",
+    "en": "The gold-roofed castle city that became Japan's laughter-loving kitchen",
+    "ja": "金の屋根のお城と笑いがあふれる『天下の台所』",
+    "zh": "金顶城堡与笑声交织的“天下厨房”"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 오사카는 강을 따라 발달한 상인들의 도시였어요. 일본 곳곳에서 쌀과 물건을 실은 배들이 강으로 몰려들었죠. 배가 어찌나 많던지 사람들은 오사카를 '천하의 부엌'이라고 불렀어요. 일본 어디선가 쌀이나 생선, 옷감이 필요하면 일단 오사카를 거쳐 갔거든요.",
+      "이 활기찬 도시 한복판에 400년도 더 전, 도요토미 히데요시라는 힘센 영주가 어마어마하게 큰 성을 지었어요. 일본에서 가장 크고 화려한 성을 짓고 싶었던 그는 지붕 일부를 황금으로 뒤덮고 성 안을 온갖 보물로 채웠답니다. 한동안 오사카 성은 일본에서 가장 눈부신 요새였어요.",
+      "하지만 성의 운명은 순탄치 않았어요. 오사카 성은 큰 전투로 불타버렸고, 번개까지 맞아 다시 불에 타는 등 수백 년 동안 몇 번이나 무너졌어요! 그래도 사람들은 그때마다 성을 다시 지었어요. 오사카는 자랑스러운 상징이 사라지는 걸 그냥 두고 볼 수 없었거든요.",
+      "지금의 성은 1931년에 다시 지어졌는데, 안에는 아주 현대적인 비밀이 숨어 있어요. 엘리베이터를 타면 순식간에 성의 꼭대기까지 올라갈 수 있답니다! 성 주변 도시는 예나 지금이나 활기가 넘쳐요. 지글지글 익어가는 길거리 음식, 커다랗게 빛나는 간판들, 그리고 서로 웃기려고 애쓰는 사람들로 늘 시끌벅적하답니다."
+    ],
+    "en": [
+      "Long ago, Osaka grew rich as a merchant city built along wide rivers. So many boats crowded in from all over Japan, carrying rice and goods, that people started calling Osaka \"the nation's kitchen\" — if Japan needed rice or fish or fabric, chances were it passed through Osaka first.",
+      "In the middle of this bustling city, a powerful lord named Toyotomi Hideyoshi built an enormous castle more than 400 years ago. He wanted the biggest, boldest castle in Japan, so he covered parts of the roof in gold and filled it with treasure. For a while, Osaka Castle was the most dazzling fortress the country had ever seen.",
+      "But castles have tough lives. Osaka Castle burned down in a great battle, got struck by lightning, and burned again — not just once, but several times over the centuries! Each time, though, people rebuilt it, because Osaka refused to let its proud symbol disappear.",
+      "Today's castle was rebuilt in 1931, and it hides a very modern secret: an elevator zips visitors straight up to the top floor! All around it, the city still buzzes like it always has — sizzling street food, giant glowing signs, and people who love nothing more than making each other laugh."
+    ],
+    "ja": [
+      "昔むかし、大阪は広い川ぞいに栄えた商人の町でした。日本じゅうから米や品物を積んだ船がどんどん集まり、川はいつも大にぎわい。あまりの活気に、人々は大阪を『天下の台所』と呼びました。日本のどこかで米や魚、布が必要になれば、まず大阪を通ったのです。",
+      "このにぎやかな町のまん中に、400年以上前、豊臣秀吉という力のある大名が、とてつもなく大きなお城を建てました。日本一大きくて豪華なお城にしたかった秀吉は、屋根の一部を金でおおい、城の中を宝物でいっぱいにしました。しばらくの間、大阪城は日本一まぶしいお城だったのです。",
+      "けれど、お城の運命はかんたんではありませんでした。大阪城は大きな戦いで焼け落ち、雷が落ちてまた焼け——何百年もの間に何度もくずれてしまったのです！それでも人々はそのたびにお城を建て直しました。大阪の誇りであるお城を、消えたままにはしておけなかったのですね。",
+      "今のお城は1931年に建て直されたもので、中にはとても現代的な秘密がかくれています。エレベーターに乗れば、あっという間に天守閣のてっぺんまで行けるのです！お城のまわりの町は、昔も今も変わらずにぎやか。じゅうじゅう焼ける屋台グルメ、大きく光る看板、そしてみんなを笑わせようとする人たちで、いつもにぎやかなのです。"
+    ],
+    "zh": [
+      "很久很久以前，大阪是一座沿着宽阔河流发展起来的商人之城。日本各地满载大米和货物的船只顺流而来，河道热闹非凡。人们因此把大阪称作“天下厨房”——日本哪里需要大米、鱼货或布料，几乎都要先经过大阪。",
+      "四百多年前，在这座热闹的城市正中央，一位名叫丰臣秀吉的强大领主建起了一座巨大无比的城堡。他想要日本最大、最气派的城堡，于是把部分屋顶包上金箔，城内堆满了珍宝。有那么一阵子，大阪城是全日本最耀眼的城池。",
+      "可是城堡的命运并不平坦。大阪城曾在一场大战中被烧毁，又被雷电击中再度起火——几百年间竟垮塌重建了好几次！尽管如此，人们每次都把它重新建起来，因为大阪绝不愿意让这座骄傲的象征就此消失。",
+      "如今的城堡是1931年重建的，里面还藏着一个很现代的小秘密：一部电梯能带游客咻地一下直达顶楼！城堡四周的城市依旧和从前一样热闹——街头小吃滋滋作响，巨大的霓虹招牌闪闪发光，还有一群总想着逗你笑的大阪人。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "오사카 성 지붕에는 '샤치호코'라는 황금빛 호랑이 물고기 장식이 반짝였어요. 불을 막아준다는 뜻으로 올려놨는데, 성은 결국 여러 번 불에 타고 말았죠!",
+      "지금 보이는 성은 1931년에 다시 지어진 거예요. 그런데 안에는 최신 엘리베이터가 있어서, 타면 순식간에 꼭대기 층까지 올라갈 수 있답니다.",
+      "에도 시대에는 오사카의 쌀 시장에서 정한 가격을 온 나라가 따랐대요. 그래서 사람들은 오사카를 '천하의 부엌'이라고 불렀답니다.",
+      "도톤보리 강가의 커다란 '글리코 러닝맨' 간판은 1935년부터 빛나고 있는데, 그동안 몇 번이나 더 크고 화려하게 새로 만들어졌어요.",
+      "오사카는 일본의 '개그 수도'로 불려요. '만자이'라는 개그 스타일이 여기서 시작됐고, 오사카 사람들은 낯선 사람도 웃게 만드는 걸로 유명하답니다.",
+      "일본 전역에서 사랑받는 동글동글한 문어빵, 다코야키가 바로 이곳 오사카에서 처음 만들어졌어요."
+    ],
+    "en": [
+      "Osaka Castle's roof once glittered with golden tiger-fish ornaments called shachihoko, meant to protect the castle from fire — even though it burned down anyway!",
+      "The castle you see today was rebuilt in 1931, and it has a secret modern elevator that carries visitors all the way to the top floor.",
+      "During the Edo period, prices set at Osaka's rice market were followed by the whole country, which is why people called it \"the nation's kitchen.\"",
+      "The giant glowing Glico Running Man sign has lit up the Dotonbori canal since 1935 and has been redesigned many times, always bigger and brighter.",
+      "Osaka is considered Japan's comedy capital — a joking style called manzai started here, and locals are famous for making strangers laugh.",
+      "Takoyaki, the round grilled octopus balls loved all over Japan, were invented right here in Osaka."
+    ],
+    "ja": [
+      "大阪城の屋根には『鯱（しゃちほこ）』という金色のトラ顔の魚の飾りが光っていました。火事よけの願いをこめて飾られたのに、お城は結局何度も焼けてしまったのです！",
+      "今見えるお城は1931年に建て直されたもの。中には最新式のエレベーターがあり、乗ればあっという間に最上階まで行けます。",
+      "江戸時代、大阪の米市場で決まった値段は、日本じゅうで基準にされていました。だから人々は大阪を『天下の台所』と呼んだのです。",
+      "道頓堀にある大きな『グリコの看板（ランニングマン）』は1935年から光り続けていて、これまで何度も、より大きく、より派手に作り直されてきました。",
+      "大阪は日本の『お笑いの都』と呼ばれています。『漫才』というお笑いのスタイルはここから始まり、大阪の人は初対面の人まで笑わせることで有名です。",
+      "日本じゅうで愛されている丸くて熱々のたこ焼きは、ここ大阪で生まれました。"
+    ],
+    "zh": [
+      "大阪城的屋顶上曾闪耀着名为“鯱”（虎头鱼）的金色装饰，据说能保佑城堡不遭火灾——可惜城堡后来还是好几次被烧毁了！",
+      "你现在看到的城堡是1931年重建的，里面藏着一部很现代的电梯，一按按钮就能咻地直达顶层。",
+      "江户时代，大阪的大米市场定的价格全日本都要参考，因此人们把大阪称作“天下厨房”。",
+      "道顿堀运河边那块巨大发光的“固力果跑步人”招牌，从1935年起就一直亮着，期间被重新设计过好几次，一次比一次更大更炫。",
+      "大阪被称为日本的“搞笑之都”。名为“漫才”的日式相声表演风格就诞生在这里，大阪人以能把陌生人逗笑而闻名。",
+      "深受日本全国喜爱的圆滚滚章鱼烧，正是在大阪发明的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "황금으로 뒤덮인 성 안에 숨겨진 엘리베이터가 있대. 너라면 꼭대기까지 타고 올라가 볼래?",
+    "en": "A castle covered in gold with a secret elevator inside — would you ride it all the way to the top?",
+    "ja": "金でおおわれたお城の中に、秘密のエレベーターがあるんだって。きみなら乗って、てっぺんまで行ってみる？",
+    "zh": "城堡包着金子，里面还藏着一部电梯——你敢不敢坐着它一路冲到最顶层？"
+  },
+  "places": [
+    {
+      "name": { "ko": "오사카 성", "en": "Osaka Castle", "ja": "大阪城", "zh": "大阪城" },
+      "blurb": {
+        "ko": "이야기 속 바로 그 성이에요. 금빛 지붕과 비밀 엘리베이터를 품은 채 다시 세워졌죠. 꼭대기 층에 오르면 도시 전체가 한눈에 내려다보여요. 수백 년 전 이곳을 다스리던 영주들이 보던 풍경처럼요.",
+        "en": "The very castle from the story, rebuilt with gold-topped roofs and a hidden elevator inside. Climb to the top floor and the whole city spreads out below, just like the view the lords who ruled here once saw.",
+        "ja": "物語にでてきたまさにそのお城。金色の屋根とかくれたエレベーターを持って建て直されました。最上階に上ると町全体が見わたせます。何百年も前にここを治めていた大名たちが見ていた景色と同じですね。",
+        "zh": "这正是故事里那座城堡——重建后依旧顶着金色屋顶，还藏着一部电梯。登上最高层，整座城市尽收眼底，就像几百年前统治这里的领主们看到的景色一样。"
+      },
+      "coords": [34.6873, 135.5262]
+    },
+    {
+      "name": { "ko": "도톤보리", "en": "Dotonbori", "ja": "道頓堀", "zh": "道顿堀" },
+      "blurb": {
+        "ko": "커다랗게 빛나는 간판들이 늘어선 강변 거리예요. 그 유명한 '글리코 러닝맨' 간판도 여기 있죠. 지글지글 구워지는 다코야키 냄새를 맡으며, 오사카 특유의 먹는 걸 좋아하고 잘 웃는 분위기를 느껴볼 수 있어요.",
+        "en": "A canal-side street packed with giant glowing signs, including the famous Glico Running Man. It's the best place to sniff out sizzling takoyaki and feel Osaka's food-loving, laughter-loving spirit in action.",
+        "ja": "大きく光る看板がならぶ川ぞいの通り。あの有名な『グリコの看板』もここにあります。じゅうじゅう焼けるたこ焼きの匂いをかぎながら、食いしん坊で笑い好きな大阪らしさを体で感じられる場所です。",
+        "zh": "运河边一整条街挂满巨大发光的招牌，那块著名的“固力果跑步人”招牌就在这里。闻着滋滋作响的章鱼烧香气，你能亲身感受大阪人爱吃又爱笑的性格。"
+      },
+      "coords": [34.6687, 135.5013]
+    },
+    {
+      "name": { "ko": "시텐노지", "en": "Shitennoji Temple", "ja": "四天王寺", "zh": "四天王寺" },
+      "blurb": {
+        "ko": "593년, 쇼토쿠 태자가 세운 일본 최초의 공식 불교 사찰 중 하나예요. 오래된 문을 지나 걸으면 오사카 성보다도 더 먼 옛날로 시간여행을 떠나는 기분이 든답니다.",
+        "en": "One of Japan's very first official Buddhist temples, built way back in 593 by Prince Shotoku. Walking through its ancient gates feels like stepping even further back in time than the castle does.",
+        "ja": "593年に聖徳太子が建てた、日本で最初の正式なお寺の一つ。古い門をくぐると、大阪城よりもさらに昔へタイムトリップした気分になります。",
+        "zh": "这是593年由圣德太子建造的日本最早的正式佛教寺庙之一。走过古老的山门，仿佛比大阪城还要往前穿越了一段时光。"
+      },
+      "coords": [34.6532, 135.5163]
+    },
+    {
+      "name": { "ko": "구로몬 시장", "en": "Kuromon Ichiba Market", "ja": "黒門市場", "zh": "黑门市场" },
+      "blurb": {
+        "ko": "'오사카의 부엌'이라는 별명을 가진 활기찬 시장이에요. 신선한 해산물과 과일, 길거리 간식을 파는 가게들이 가득하죠. 오사카가 왜 '먹는 도시'로 유명한지 직접 맛보며 알 수 있는 곳이에요.",
+        "en": "A lively covered market nicknamed \"Osaka's Kitchen,\" packed with stalls selling fresh seafood, fruit, and street snacks. It's the perfect spot to taste why Osaka earned its foodie reputation.",
+        "ja": "『大阪の台所』というあだ名を持つにぎやかな市場。新鮮な魚介や果物、屋台グルメのお店がずらり。大阪が『食いだおれの町』と呼ばれる理由を、実際に味わって知ることができます。",
+        "zh": "有“大阪厨房”之称的热闹市场，摆满了新鲜海鲜、水果和街头小吃摊。来这里亲口尝一尝，就能明白大阪为什么被称为“美食之城”。"
+      },
+      "coords": [34.6656, 135.5060]
+    }
+  ]
+}

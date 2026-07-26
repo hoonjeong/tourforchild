@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Local tooling / editor
+.claude/
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Logs / temp
+*.log

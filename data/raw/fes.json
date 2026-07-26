@@ -1,0 +1,120 @@
+{
+  "id": "fes",
+  "country": "ma",
+  "coords": [34.0400, -5.0003],
+  "name": { "ko": "페스", "en": "Fes", "ja": "フェズ", "zh": "非斯" },
+  "tagline": {
+    "ko": "당나귀가 택배를 나르고, 세계에서 가장 오래된 대학교가 여전히 수업 중인 고대 도시",
+    "en": "The ancient city where donkeys deliver the mail and the world's oldest university still holds class",
+    "ja": "ロバが荷物を届け、世界最古の大学が今も授業を続けるいにしえの都市",
+    "zh": "驴子送快递、世界最古老的大学仍在上课的古城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 모로코의 푸른 골짜기에서 강을 사이에 두고 작은 마을 두 개가 자라났어요. 두 마을은 하나로 합쳐져 커다란 도시 '페스'가 되었답니다. 금과 소금, 향신료를 잔뜩 실은 낙타 행렬이 끊임없이 드나들어서, 페스는 세상에서 가장 붐비는 교차로 중 하나가 되었어요. 하지만 페스를 진짜 유명하게 만든 건 금이 아니라 '책'이었답니다.",
+      "1100년도 더 된 옛날, '파티마 알피흐리'라는 똑똑한 젊은 여성이 아버지가 남긴 돈으로 모스크 하나를 짓고, 그 옆에 학교를 함께 세웠어요. 이름은 '알카라윈'. 가까운 곳은 물론 먼 나라에서도 학생들이 몰려와 공부했고, 그 후로 단 한 해도 거르지 않고 계속 새로운 학생을 받아들였어요. 그래서 오늘날 알카라윈은 '한 번도 멈추지 않고 이어진 세계에서 가장 오래된 대학교'라는 기록을 갖고 있답니다.",
+      "이 오래된 학교 둘레에는 성벽으로 둘러싸인 옛 시가지 '페스 엘발리'가 자라났어요. 얼마나 복잡한지 골목만 9000개가 넘는 거대한 미로랍니다. 골목이 너무 좁아서 자동차는 한 번도 들어간 적이 없어요. 그래서 지금도 당나귀와 노새가 가스통부터 갓 구운 빵까지 잔뜩 싣고 골목을 오가는, 털복숭이 배달 트럭 노릇을 하고 있답니다.",
+      "그 미로 깊은 곳에서는 지금도 사람들이 손으로 직접 가죽을 물들여요. 둥근 돌 웅덩이들이 다닥다닥 모여 있는 모습이 마치 커다란 물감 팔레트 같답니다. 사람들은 옥상 테라스에 올라가 이 모습을 구경하는데, 도착하자마자 누군가 코에 대고 맡으라며 박하 잎을 건네준대요. 오늘, 페스의 파란 대문을 지나 들어가면 1300년 역사 속으로 성큼 걸어 들어가는 셈이에요. 그 역사는 지금도 두 눈을 반짝 뜨고 살아 있답니다."
+    ],
+    "en": [
+      "Long, long ago, in a green valley in Morocco, two little towns grew up on either side of a river and grew until they became one great city: Fes. Camel caravans loaded with gold, salt, and spices came rumbling through, making Fes one of the busiest crossroads in the world. But the thing that made Fes truly famous wasn't gold — it was books.",
+      "More than 1,100 years ago, a clever young woman named Fatima al-Fihri used the money her father left her to build a mosque with a school attached. She named it Al-Qarawiyyin. Students came from near and far to study there, and it kept teaching new students every single year after that — so many years, in fact, that today it holds the record for the oldest university in the world that has never stopped running.",
+      "Around that ancient school grew the walled old town called Fes el Bali, a maze so tangled it has more than 9,000 narrow lanes. They're so skinny that cars have never been able to squeeze through — so donkeys and mules still trot down them every day, piled high with everything from gas canisters to fresh-baked bread, like little furry delivery trucks.",
+      "Deep inside that maze, potters and leather-workers still dye hides by hand in round stone pits packed together like a giant paint palette. People climb rooftop terraces to watch — and the moment they arrive, someone hands them a sprig of mint to hold under their nose. Step through Fes's blue gate today, and you're walking straight into thirteen centuries of history, still wide awake."
+    ],
+    "ja": [
+      "はるか昔、モロッコの緑の谷に、川をはさんで小さな町が二つ育ちました。二つの町はやがて一つに合わさり、大きな都市『フェズ』になりました。金や塩、香辛料をたっぷり積んだラクダの隊商がひっきりなしに行き交い、フェズは世界でも指折りの交差点になりました。でも、フェズを本当に有名にしたのは金ではなく『本』だったのです。",
+      "1100年以上前、『ファーティマ・アル＝フィフリー』という賢い若い女性が、父親が残したお金でモスクを建て、そのとなりに学校を開きました。名前は『カラウィーイーン』。近くからも遠くからも学生が集まって学び、それから一度も途切れることなく毎年新しい学生を迎え続けました。そのおかげで今日、カラウィーイーンは『一度も途絶えることなく続く世界最古の大学』という記録を持っているのです。",
+      "この古い学校のまわりには、城壁に囲まれた旧市街『フェズ・エル＝バリ』が育ちました。あまりに入り組んでいて、路地の数は9000本以上という巨大な迷路です。路地が狭すぎて、車は一度も入ったことがありません。だから今でもロバやラバがガスボンベから焼きたてのパンまで山積みにして路地を行き来する、もふもふの配達トラック役をつとめています。",
+      "その迷路の奥深くでは、今も人々が手作業で革を染めています。丸い石の水たまりがぎっしり並ぶ様子は、まるで巨大な絵の具パレットのよう。人々は屋上テラスに上ってこの様子をながめますが、着いたとたん誰かがミントの葉を渡してくれて、鼻に当てるようすすめてくれるんです。今日、フェズの青い門をくぐれば、1300年の歴史のまっただ中へ一歩踏み出すことになります。その歴史は今も、ぱっちり目を開けたまま生きているのです。"
+    ],
+    "zh": [
+      "很久很久以前，在摩洛哥一处翠绿的山谷里，一条河的两岸各长出了一座小镇，后来两镇合而为一，长成了一座大城市——非斯。满载黄金、盐和香料的骆驼商队络绎不绝地穿城而过，让非斯成了世界上最繁忙的十字路口之一。可真正让非斯出名的，不是黄金，而是“书”。",
+      "一千一百多年前，一位聪明的年轻女子法蒂玛·菲赫里，用父亲留给她的钱建了一座清真寺，还在旁边办了一所学校，取名“卡拉维因”。学生们从近处和远方赶来求学，从那以后，学校年年招收新生，从未间断过一年。正因如此，卡拉维因如今保持着“世界上从未中断办学的最古老大学”这一纪录。",
+      "围绕着这所古老的学府，一座城墙环绕的老城——“非斯古城”渐渐成形。它错综复杂到极点，光是小巷就有九千多条，简直是一座巨大的迷宫。巷子太窄了，汽车从来都开不进去，所以直到今天，驴子和骡子仍然驮着煤气罐、刚出炉的面包，穿梭在小巷里，扮演着毛茸茸的“送货卡车”。",
+      "在这座迷宫深处，至今仍有人用双手给皮革染色。一个个圆形石头染缸紧紧挨在一起，看上去就像一块巨大的调色盘。人们爬上屋顶露台观看这一切，而刚一到，就会有人递上一枝薄荷叶，让你举到鼻子前闻。今天，只要走过非斯的蓝色城门，你就一步跨进了1300年的历史——而这段历史，至今仍睁着眼睛，活生生地醒着。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "알카라윈 대학교는 서기 859년, '파티마 알피흐리'라는 젊은 여성이 세웠어요. 기네스 세계기록은 이곳을 '한 번도 멈추지 않고 이어진 세계에서 가장 오래된 대학교'로 인정하고 있답니다.",
+      "옛 시가지 '페스 엘발리'에는 좁은 골목이 9000개도 넘게 있는데, 자동차는 한 번도 그 골목에 들어간 적이 없어요. 그래서 지금도 당나귀와 노새가 도시의 털복숭이 '배달 트럭' 노릇을 하고 있답니다.",
+      "'슈아라 무두질터'에서는 사람들이 지금도 손으로 직접 가죽을 물들이는데, 둥근 돌 웅덩이가 다닥다닥 모인 모습이 마치 거대한 물감 팔레트 같아요. 천 년 전과 거의 똑같은 방식이랍니다.",
+      "무두질터를 옥상에서 구경하러 온 사람들에게는 마스크 대신 코에 대고 맡을 박하 잎 한 가지를 건네준대요!",
+      "'파란 대문(밥 부즐루드)'은 도시 바깥쪽 면엔 파란 타일이, 안쪽 면엔 초록 타일이 붙어 있어요. 파란색은 페스를, 초록색은 이슬람을 뜻한대요.",
+      "'부 이나니아 학교' 근처엔 700년 된 물시계가 걸려 있어요. 작은 창문과 종이 열세 개나 달려 있는데, 지금도 어떻게 작동했는지 완전히 밝혀내지 못했답니다."
+    ],
+    "en": [
+      "Al-Qarawiyyin University was founded in 859 AD by a young woman named Fatima al-Fihri — Guinness World Records lists it as the oldest continually operating university on Earth.",
+      "The old town of Fes el Bali has more than 9,000 narrow alleys, and cars have never fit through them — so donkeys and mules still deliver everything, working as the city's furry 'trucks.'",
+      "At the Chouara Tannery, workers dye leather by hand in round stone pits packed together like a giant paint palette, almost exactly the way people did a thousand years ago.",
+      "Visitors peeking at the tannery from a rooftop are handed a sprig of fresh mint to hold under their nose instead of a face mask!",
+      "The Blue Gate, Bab Boujeloud, is tiled blue on the side facing out of the city and green on the side facing in — blue for Fes, green for Islam.",
+      "Near the Bou Inania school hangs a 700-year-old water clock with thirteen little windows and bells — and to this day, nobody is completely sure how it worked."
+    ],
+    "ja": [
+      "カラウィーイーン大学は西暦859年、『ファーティマ・アル＝フィフリー』という若い女性が創立しました。ギネス世界記録は、この大学を『一度も途絶えることなく続く世界最古の大学』として認定しています。",
+      "旧市街『フェズ・エル＝バリ』には狭い路地が9000本以上もありますが、車は一度も路地に入ったことがありません。だから今でもロバやラバが、街のもふもふな『配達トラック』として活躍しています。",
+      "『シュアラのなめし革工房』では、今も人々が手作業で革を染めています。丸い石の水たまりがぎっしり並ぶ様子は巨大な絵の具パレットそっくり。千年前とほとんど同じやり方なんです。",
+      "工房を屋上から見学する人には、マスクの代わりに鼻に当てるミントの葉が一枝手渡されるんです！",
+      "『青い門（バーブ・ブージュルード）』は、街の外側を向く面が青いタイル、内側を向く面が緑のタイルになっています。青はフェズを、緑はイスラームを表すそうです。",
+      "『ブー・イナニア学院』の近くには700年前の水時計が掛かっています。小さな窓と鐘が13個もついていますが、どうやって動いていたのか、今も完全には解明されていません。"
+    ],
+    "zh": [
+      "卡拉维因大学建于公元859年，由一位名叫法蒂玛·菲赫里的年轻女子创办。吉尼斯世界纪录认定它是“从未中断办学的世界最古老大学”。",
+      "非斯古城里有九千多条狭窄小巷，汽车从来没能开进去过，所以直到今天，驴子和骡子依然是这座城市毛茸茸的“送货卡车”。",
+      "在“舒瓦拉皮革染坊”，工匠们至今仍用双手给皮革染色，一个个圆形石缸挤在一起，像极了一块巨大的调色盘——做法几乎和一千年前一模一样。",
+      "上屋顶露台参观染坊的游客，会得到一枝薄荷叶举到鼻子前闻，而不是戴口罩！",
+      "“蓝色城门”（布日卢门）朝向城外的一面贴着蓝色瓷砖，朝向城内的一面则是绿色瓷砖——蓝色代表非斯，绿色代表伊斯兰教。",
+      "布伊纳尼亚学校附近挂着一座700年历史的水钟，上面有十三扇小窗和铃铛，可直到今天，也没人完全弄清楚它当年是怎么运作的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "자동차가 못 들어가서 지금도 당나귀가 도시 전체의 택배 트럭 노릇을 한대. 우리 동네 배달을 전부 당나귀가 한다면 어떨 것 같아?",
+    "en": "Donkeys are still the delivery trucks of an entire ancient city, because cars can't fit down the alleys — can you imagine your whole neighborhood getting groceries that way?",
+    "ja": "車が入れないから、今でもロバが街じゅうの配達トラックの役目をしているんだって。もし自分の町の配達が全部ロバだったら、どうなるか想像できる？",
+    "zh": "因为汽车进不去，现在还是靠驴子给整座古城送货呢。要是你家附近所有的快递都靠驴子来送，你能想象吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "밥 부즐루드 (파란 대문)", "en": "Bab Boujeloud (the Blue Gate)", "ja": "バーブ・ブージュルード（青い門）", "zh": "布日卢门（蓝色城门）" },
+      "blurb": {
+        "ko": "이 커다란 대문은 성벽으로 둘러싸인 옛 시가지로 들어가는 정문이에요. 자세히 보면 바깥쪽엔 파란 타일이, 안쪽엔 초록 타일이 붙어 있는데, 전혀 다른 세상으로 들어선다는 걸 알려주는 색깔 신호랍니다.",
+        "en": "This grand gate is the main doorway into the old walled city. Look closely and you'll see blue tiles facing out toward new Fes, and green tiles facing in — a colorful hint that you're about to step into a very different world.",
+        "ja": "この大きな門は、城壁に囲まれた旧市街への正面玄関です。よく見ると外側には青いタイル、内側には緑のタイルが。これから全く違う世界に入るよ、と教えてくれる色のサインなんです。",
+        "zh": "这座宏伟的城门是通往城墙环绕的老城的正门。仔细看，朝外的一面贴着蓝色瓷砖，朝内的一面是绿色瓷砖，像是在提醒你——即将踏入一个截然不同的世界。"
+      },
+      "coords": [34.0592, -4.9775]
+    },
+    {
+      "name": { "ko": "알카라윈 대학교", "en": "University of Al Qaraouiyine", "ja": "カラウィーイーン大学", "zh": "卡拉维因大学" },
+      "blurb": {
+        "ko": "859년 파티마 알피흐리가 세운 이곳은 한 번도 멈추지 않고 이어진 세계에서 가장 오래된 대학교로 인정받고 있어요. 1100년이 넘도록 그래왔듯, 지금도 학생들이 이곳에서 공부하고 있답니다.",
+        "en": "Founded in 859 by Fatima al-Fihri, this is recognized as the oldest university in the world that has never stopped teaching. Students still study here today, just as they have for over 1,100 years.",
+        "ja": "859年にファーティマ・アル＝フィフリーが創立したこの場所は、一度も途絶えることなく続く世界最古の大学として認められています。1100年以上そうしてきたように、今も学生たちがここで学んでいます。",
+        "zh": "这里由法蒂玛·菲赫里创建于859年，被公认为世界上从未中断办学的最古老大学。一千一百多年来，学生们始终在这里求学，直到今天依然如此。"
+      },
+      "coords": [34.0633, -4.9734]
+    },
+    {
+      "name": { "ko": "슈아라 무두질터", "en": "Chouara Tannery", "ja": "シュアラのなめし革工房", "zh": "舒瓦拉皮革染坊" },
+      "blurb": {
+        "ko": "알록달록한 물감이 담긴 둥근 돌 웅덩이들이 아래로 쭉 펼쳐져 있어, 마치 거대한 무지개 팔레트 같아요. 옥상 테라스에 올라 손에 박하 잎을 든 채, 천 년 전과 거의 똑같은 방식으로 가죽을 부드럽게 만드는 사람들을 구경해 보세요.",
+        "en": "Round stone pits full of colorful dye spread out below like a giant rainbow palette. Climb to a rooftop terrace, mint sprig in hand, and watch workers turn animal hides into soft leather almost exactly as it was done a thousand years ago.",
+        "ja": "色とりどりの染料が入った丸い石の水たまりが、下に一面広がっていて、まるで巨大な虹色パレットのよう。屋上テラスに上ってミントの葉を手に、千年前とほぼ同じやり方で動物の皮を柔らかい革に変える職人たちを見てみましょう。",
+        "zh": "五颜六色的染料装在一个个圆形石缸里，在下方铺展开来，像一块巨大的彩虹调色盘。爬上屋顶露台，手里拿着薄荷叶，看工匠们几乎用一千年前一样的方法，把兽皮变成柔软的皮革。"
+      },
+      "coords": [34.0670, -4.9728]
+    },
+    {
+      "name": { "ko": "부 이나니아 학교", "en": "Bou Inania Madrasa", "ja": "ブー・イナニア学院", "zh": "布伊纳尼亚学院" },
+      "blurb": {
+        "ko": "700년 된 이 학교의 벽마다 조각된 삼나무와 알록달록한 타일, 레이스처럼 섬세한 석고 장식이 가득해요. 길 건너편에는 창문과 종이 열세 개나 달린 신비한 물시계가 걸려 있는데, 역사학자들도 아직 완전히 설명하지 못한대요.",
+        "en": "Carved cedar wood, colorful tiles, and lacy plaster cover every wall of this 700-year-old school. Right across the street hangs a mysterious water clock — with thirteen windows and bells — that even historians can't fully explain.",
+        "ja": "700年前のこの学校は、彫刻を施した杉材、色とりどりのタイル、レースのように繊細な漆喰装飾で壁じゅうが埋めつくされています。道の向かいには、窓と鐘が13個もついた不思議な水時計があり、歴史学者でさえまだ完全には解明できていません。",
+        "zh": "这所有着700年历史的学校，墙壁上满是雕刻精美的雪松木、色彩斑斓的瓷砖和如蕾丝般精细的石膏装饰。街对面挂着一座神秘的水钟，上面有十三扇窗和铃铛，连历史学家至今都没能完全解释清楚它的原理。"
+      },
+      "coords": [34.0601, -4.9772]
+    }
+  ]
+}

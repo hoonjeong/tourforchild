@@ -1,0 +1,120 @@
+{
+  "id": "gyeongju",
+  "country": "kr",
+  "coords": [35.8562, 129.2247],
+  "name": { "ko": "경주", "en": "Gyeongju", "ja": "慶州（キョンジュ）", "zh": "庆州" },
+  "tagline": {
+    "ko": "한반도를 처음 통일한 신라 '천년의 수도', 도시 전체가 박물관",
+    "en": "Silla's 'thousand-year capital'—the first to unite Korea, a whole city that's a museum",
+    "ja": "朝鮮半島を初めて統一した新羅『千年の都』、街全体が博物館",
+    "zh": "首次统一朝鲜半岛的新罗“千年古都”，整座城市就是一座博物馆"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 한반도에는 여러 나라가 서로 힘을 겨루고 있었어요. 그중 '신라'라는 나라의 수도가 바로 경주였죠. 신라는 작게 시작했지만 조금씩 힘을 키워, 마침내 한반도를 처음으로 하나로 통일한 나라가 되었답니다.",
+      "정말 놀라운 건, 신라가 거의 1000년 동안이나 이어졌다는 거예요! 기원전 57년부터 서기 935년까지, 세계에서도 이렇게 오래 이어진 나라는 손에 꼽을 정도랍니다. 그 오랜 세월 동안 경주는 화려한 궁궐과 절, 북적이는 시장으로 가득한 큰 도시였어요.",
+      "경주가 특별한 이유는 또 있어요. 도시 곳곳에 언덕처럼 커다란 무덤이 봉긋봉긋 솟아 있는데, 사실은 신라 왕과 왕비의 무덤이랍니다. 그 안에서 반짝이는 황금 왕관이 여러 개나 나와서, 신라는 '황금의 나라'라고 불렸어요.",
+      "지금도 경주에는 별을 관측하던 첨성대, 천 년이 넘은 절 불국사와 석굴암이 그대로 남아 있어요. 그래서 사람들은 경주를 '지붕 없는 박물관'이라고 부른답니다. 도시 전체가 살아 있는 역사책인 셈이죠!"
+    ],
+    "en": [
+      "Long ago, several kingdoms on the Korean peninsula were competing with one another. The capital of one of them, called Silla, was Gyeongju. Silla started small but slowly grew stronger, and finally became the first kingdom ever to unite the Korean peninsula into one.",
+      "Here's the amazing part: Silla lasted almost 1,000 years! From 57 BC to 935 AD—very few kingdoms in the whole world lasted that long. All through those centuries, Gyeongju was a great city full of grand palaces, temples, and busy markets.",
+      "Gyeongju is special for another reason too. All over the city there are big hills poking up from the ground—but they're actually the tombs of Silla's kings and queens. Several sparkling golden crowns were found inside them, which is why Silla was called 'the kingdom of gold.'",
+      "Even today, Gyeongju still has Cheomseongdae, a tower for watching the stars, and Bulguksa Temple and Seokguram Grotto, both over a thousand years old. That's why people call Gyeongju a 'museum without a roof.' The whole city is like a living history book!"
+    ],
+    "ja": [
+      "はるか昔、朝鮮半島ではいくつもの国が力をきそっていました。その中の『新羅』という国の都が、この慶州です。新羅は小さく始まりましたが、少しずつ力をつけ、ついに朝鮮半島を初めて一つに統一した国になりました。",
+      "おどろくのは、新羅が約1000年も続いたこと！紀元前57年から西暦935年まで、これほど長く続いた国は世界でもほんのわずかです。その長い間、慶州はきらびやかな宮殿やお寺、にぎわう市場でいっぱいの大きな都でした。",
+      "慶州が特別な理由はもう一つ。街のあちこちに丘のような大きなふくらみがありますが、実は新羅の王や王妃のお墓なのです。その中からきらきら光る金の冠がいくつも見つかり、新羅は『黄金の国』と呼ばれました。",
+      "今でも慶州には、星を観測した瞻星台や、千年以上前のお寺・仏国寺と石窟庵が残っています。だから人々は慶州を『屋根のない博物館』と呼ぶのです。街全体が生きた歴史の本なのですね！"
+    ],
+    "zh": [
+      "很久以前，朝鲜半岛上有好几个国家在互相较量。其中一个叫“新罗”的国家，都城就是庆州。新罗起初很小，却一点点强大起来，最终成为第一个把朝鲜半岛统一为一体的国家。",
+      "最令人惊叹的是，新罗延续了将近1000年！从公元前57年到公元935年——全世界能延续这么久的国家寥寥无几。在这漫长的岁月里，庆州一直是一座满是华丽宫殿、寺庙和热闹集市的大城市。",
+      "庆州特别的地方还有一个：城市里到处是像小山一样鼓起的土丘，其实那都是新罗国王和王后的陵墓。人们在里面发现了好几顶闪闪发光的金冠，因此新罗被称为“黄金之国”。",
+      "直到今天，庆州仍保留着观星的瞻星台，以及一千多年前的佛国寺和石窟庵。所以人们把庆州称作“没有屋顶的博物馆”。整座城市就像一本活着的历史书！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "신라는 거의 1000년(기원전 57~서기 935) 이어졌어요. 이렇게 오래간 나라는 세계적으로도 드물어요.",
+      "첨성대는 동아시아에서 가장 오래된 별 관측대 중 하나 — 1400년 전에 별을 보던 탑이에요.",
+      "도시 한가운데 언덕처럼 솟은 커다란 무덤들이 사실은 신라 왕들의 무덤이랍니다.",
+      "무덤 속에서 반짝이는 황금 왕관이 여러 개 나왔어요. 그래서 신라는 '황금의 나라'로 불렸대요.",
+      "불국사와 석굴암은 유네스코 세계유산으로, 천 년 넘은 돌 건축의 걸작이에요.",
+      "석굴암의 커다란 돌부처는 해 뜨는 동해 바다를 정확히 바라보도록 만들어졌대요."
+    ],
+    "en": [
+      "Silla lasted almost 1,000 years (57 BC–935 AD). Very few kingdoms in the world lasted that long.",
+      "Cheomseongdae is one of the oldest star-watching towers in East Asia—people gazed at stars from it 1,400 years ago.",
+      "Those big hills rising in the middle of the city are actually the tombs of Silla kings.",
+      "Several sparkling golden crowns were found inside the tombs—so Silla was called 'the kingdom of gold.'",
+      "Bulguksa Temple and Seokguram Grotto are UNESCO World Heritage sites—masterpieces of stonework over a thousand years old.",
+      "The great stone Buddha in Seokguram was built to face exactly toward the sunrise over the East Sea."
+    ],
+    "ja": [
+      "新羅は約1000年（紀元前57年〜西暦935年）続きました。これほど長く続いた国は世界でもまれです。",
+      "瞻星台は東アジアで最も古い星の観測台の一つ。1400年前に星を見た塔です。",
+      "街の真ん中に丘のようにそびえる大きなお墓は、実は新羅の王たちのお墓です。",
+      "お墓の中からきらきら光る金の冠がいくつも出てきました。だから新羅は『黄金の国』と呼ばれました。",
+      "仏国寺と石窟庵はユネスコ世界遺産で、千年以上前の石造建築の傑作です。",
+      "石窟庵の大きな石の仏さまは、朝日ののぼる東の海をぴったり向くように造られたそうです。"
+    ],
+    "zh": [
+      "新罗延续了将近1000年（公元前57年—公元935年）。在全世界，能延续这么久的国家都很少见。",
+      "瞻星台是东亚最古老的观星台之一——1400年前人们就在这座塔上观察星星。",
+      "城市中央那些像小山一样隆起的大土丘，其实是新罗国王的陵墓。",
+      "陵墓中出土了好几顶闪闪发光的金冠——所以新罗被称为“黄金之国”。",
+      "佛国寺和石窟庵是联合国教科文组织世界遗产，是一千多年前石造建筑的杰作。",
+      "石窟庵里巨大的石佛，被建造成正好朝向东海日出的方向。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "도시 한가운데 있는 커다란 언덕이 사실은 옛날 왕의 무덤이래. 믿을 수 있어?",
+    "en": "That big grassy hill in the middle of the city is actually an ancient king's tomb. Can you believe it?",
+    "ja": "街の真ん中にある大きな丘が、実は昔の王様のお墓なんだって。信じられる？",
+    "zh": "城市中央那座大草丘，其实是古代国王的陵墓哦。你能相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "첨성대", "en": "Cheomseongdae Observatory", "ja": "瞻星台", "zh": "瞻星台" },
+      "blurb": {
+        "ko": "1400년 전 별을 관측하던 탑이에요. 돌 하나하나의 개수에도 1년의 날수 같은 뜻이 담겼다고 해요. 세계에서 가장 오래된 천문대 중 하나랍니다.",
+        "en": "A 1,400-year-old tower for watching the stars. Even the number of stones is said to stand for things like the days of a year. It's one of the oldest observatories in the world.",
+        "ja": "1400年前に星を観測した塔。石の数にも1年の日数などの意味があると言われます。世界最古級の天文台の一つです。",
+        "zh": "1400年前用来观星的塔。据说连石头的数量都象征着一年的天数等含义。它是世界上最古老的天文台之一。"
+      },
+      "coords": [35.8347, 129.2190]
+    },
+    {
+      "name": { "ko": "대릉원 (천마총)", "en": "Daereungwon Tomb Complex", "ja": "大陵苑（天馬塚）", "zh": "大陵苑（天马冢）" },
+      "blurb": {
+        "ko": "왕들의 무덤이 언덕처럼 모여 있는 곳이에요. 천마총 안에는 직접 들어가 볼 수 있는데, 하늘을 나는 말 그림과 황금 유물이 기다리고 있답니다.",
+        "en": "A field of hill-like royal tombs. You can step right inside Cheonmachong tomb, where a painting of a flying horse and golden treasures await.",
+        "ja": "王たちのお墓が丘のように集まる場所。天馬塚の中に入ると、空を飛ぶ馬の絵や金の宝物が待っています。",
+        "zh": "国王们的陵墓像小山一样聚在一起。你可以走进天马冢，里面有一幅飞马图和金色文物在等着你。"
+      },
+      "coords": [35.8391, 129.2100]
+    },
+    {
+      "name": { "ko": "불국사", "en": "Bulguksa Temple", "ja": "仏国寺", "zh": "佛国寺" },
+      "blurb": {
+        "ko": "천 년도 더 된 아름다운 절이에요. 돌로 쌓은 계단 다리와, 생김새가 서로 다른 두 개의 유명한 탑(다보탑·석가탑)을 꼭 찾아보세요.",
+        "en": "A beautiful temple over a thousand years old. Look for its stone stairway-bridges and two famous but very different pagodas (Dabotap and Seokgatap).",
+        "ja": "千年以上前の美しいお寺。石の階段橋と、形がまったくちがう二つの有名な塔（多宝塔・釈迦塔）をぜひ探してみて。",
+        "zh": "一座有一千多年历史的美丽寺庙。一定要找找它的石阶桥，以及两座外形迥异的著名石塔（多宝塔和释迦塔）。"
+      },
+      "coords": [35.7900, 129.3320]
+    },
+    {
+      "name": { "ko": "석굴암", "en": "Seokguram Grotto", "ja": "石窟庵", "zh": "石窟庵" },
+      "blurb": {
+        "ko": "산속 동굴 안에 커다란 돌부처가 앉아 있어요. 해가 떠오르는 동해 바다를 바라보도록 만들어졌는데, 1200년 전 기술이라고는 믿기 어려울 만큼 정교하답니다.",
+        "en": "A great stone Buddha sits inside a mountain grotto, made to gaze at the sunrise over the East Sea. It's so finely made it's hard to believe it's 1,200 years old.",
+        "ja": "山の中の石窟に大きな石の仏さまが座り、朝日ののぼる東の海を見つめています。1200年前の技術とは思えないほど精巧です。",
+        "zh": "山中的石窟里坐着一尊巨大的石佛，被造成凝望东海的日出。它做工之精细，很难相信已有1200年历史。"
+      },
+      "coords": [35.7947, 129.3490]
+    }
+  ]
+}

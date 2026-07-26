@@ -1,0 +1,120 @@
+{
+  "id": "mexicocity",
+  "country": "mx",
+  "coords": [19.4326, -99.1332],
+  "name": { "ko": "멕시코시티", "en": "Mexico City", "ja": "メキシコシティ", "zh": "墨西哥城" },
+  "tagline": {
+    "ko": "호수 위에 세운 아스텍의 도시가 지금도 발밑에 잠들어 있는 곳",
+    "en": "A floating Aztec capital still sleeping right beneath a modern megacity",
+    "ja": "湖の上に築かれたアステカの都が、今も足元に眠る街",
+    "zh": "建在湖上的阿兹特克古都，至今仍沉睡在脚下"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, '아스텍'이라는 사람들이 새로운 도시를 세울 곳을 찾아 떠돌고 있었어요. 신들은 이렇게 말했대요. \"선인장 위에 독수리가 앉아 뱀을 잡아먹는 곳에 도시를 세워라.\" 어느 날, 호수 한가운데 있는 작은 늪지 섬에서 마침내 그 모습을 발견했어요! 그렇게 물 한가운데에서 '테노치티틀란'이라는 도시가 시작됐답니다.",
+      "물 위에 도시를 짓는 건 쉽지 않았지만, 아스텍 사람들은 오히려 기발한 방법을 생각해냈어요. 갈대를 엮은 뗏목에 진흙과 풀을 쌓아 '치남파'라는 떠다니는 밭을 만들어 농사를 지었죠. 도시 곳곳엔 운하가 물길처럼 뻗어 있어서 수레 대신 배가 오갔어요. 1500년대에는 테노치티틀란이 파리나 런던보다 더 큰 도시가 되어, 우뚝 솟은 신전과 북적이는 시장이 이곳을 찾은 사람들을 깜짝 놀라게 했답니다.",
+      "그러다 큰 변화가 찾아왔고, 호수의 물은 점점 빠지고 그 위에 새로운 도시가 돌 하나하나 다시 세워졌어요. 수백 년 동안 사람들은 거대한 아스텍 신전이 정확히 어디에 있었는지 까맣게 잊고 지냈어요. 그런데 1978년, 중심 광장 근처에서 전기 공사를 하던 인부들이 땅을 파다가 커다란 무언가에 부딪혔어요. 바로 땅속에 묻혀 있던 '템플로 마요르' 대신전의 거대한 조각 원반이었죠!",
+      "오늘날 멕시코시티는 옛 테노치티틀란 도시 바로 위에 세워져 있어요. 중심 광장을 걷다 보면 웅장한 대성당 바로 옆에서 발굴된 아스텍 유적을 내려다볼 수 있답니다. 그리고 소치밀코 운하에서 알록달록한 배를 타면, 아스텍의 놀라운 물의 도시가 남긴 마지막 조각 위를 둥둥 떠다니는 셈이에요."
+    ],
+    "en": [
+      "Long, long ago, wandering people called the Aztecs were searching for a sign. Their gods had told them: build your city where you see an eagle perched on a cactus, eating a snake. One day, on a swampy little island in the middle of a lake, they finally saw it! So right there, in the middle of the water, they began building a city called Tenochtitlan.",
+      "Building on water didn't stop them—it made them clever. They wove reed rafts, piled them with mud and plants, and grew crops on floating gardens called chinampas. Canals crisscrossed the city like watery streets, and boats glided everywhere instead of carts. By the 1500s, Tenochtitlan was bigger than Paris or London, with towering temples and a bustling market that amazed everyone who saw it.",
+      "Then came big changes, and eventually the lake was drained and a new city was built right on top of the old one, stone by stone. For hundreds of years, people forgot exactly where the great Aztec temple once stood—until 1978, when electrical workers digging near the main square hit something huge: a giant carved stone disc, part of the buried Templo Mayor.",
+      "Today, Mexico City sits directly on top of ancient Tenochtitlan. Walk through the main square and you can peek down into excavated Aztec ruins right next to a towering cathedral. And if you ride a colorful boat through the canals of Xochimilco, you're floating on one of the last pieces of the Aztecs' amazing water city."
+    ],
+    "ja": [
+      "はるか昔、『アステカ』と呼ばれる人々が、新しい都を建てる場所を探して旅をしていました。神々はこう告げたそうです。「サボテンの上でワシがヘビを食べている場所に都を築きなさい」と。ある日、湖のまん中にある小さな湿地の島で、ついにその光景を見つけました！そうして水のまん中に、『テノチティトラン』という都が誕生したのです。",
+      "水の上に都を築くのは簡単ではありませんでしたが、アステカの人々はかえって知恵をしぼりました。葦を編んだいかだに泥や草を積み、『チナンパ』という浮かぶ畑を作って作物を育てたのです。街のあちこちには運河が水路のように広がり、荷車の代わりに舟が行き交いました。1500年代には、テノチティトランはパリやロンドンよりも大きな都市になり、そびえ立つ神殿とにぎわう市場が、訪れる人々をおどろかせました。",
+      "やがて大きな変化がおとずれ、湖の水はしだいに抜かれ、その上に新しい都が石一つ一つ積み上げて建てられました。何百年もの間、人々は巨大なアステカの神殿がどこにあったのか、すっかり忘れていました。ところが1978年、中央広場の近くで電気工事をしていた作業員が、地面を掘っていると大きな何かにぶつかりました。それは地中に眠っていた『テンプロ・マヨール（大神殿）』の、巨大な彫刻入りの円盤だったのです！",
+      "今日、メキシコシティは昔のテノチティトランのすぐ上に建っています。中央広場を歩けば、そびえ立つ大聖堂のとなりで発掘されたアステカの遺跡をのぞき込むことができます。そしてソチミルコの運河でカラフルな舟に乗れば、アステカが作り上げたすばらしい水の都の、最後のかけらの上をぷかぷかと漂うことになるのです。"
+    ],
+    "zh": [
+      "很久很久以前，被称为“阿兹特克人”的一群人四处寻找建都的地方。传说他们的神明告诉他们：“在看到雄鹰站在仙人掌上吞食蛇的地方，建立你们的城市。”终于有一天，他们在湖泊中央一座沼泽小岛上看到了这一幕！于是，在水的正中央，一座名叫“特诺奇蒂特兰”的城市诞生了。",
+      "在水上建城可不容易，但阿兹特克人反而想出了聪明的办法。他们用芦苇编成木筏，铺上泥土和植物，造出了叫做“奇南帕”的浮动菜园来种庄稼。城市里运河纵横交错，像水路街道一样，人们乘船代替坐车穿梭往来。到了1500年代，特诺奇蒂特兰已经比巴黎或伦敦还要大，高耸的神庙和热闹的市场，让每一个来访者都惊叹不已。",
+      "后来发生了巨大的变化，湖水渐渐被排干，人们在原地重新建起了一座新城市，一块石头接一块石头。几百年来，人们几乎忘记了那座宏伟的阿兹特克神庙究竟在哪里——直到1978年，一些在中心广场附近进行电力施工的工人挖地时，碰到了一个巨大的东西：那正是深埋地下的“大神庙”（Templo Mayor）的一块巨大石雕圆盘！",
+      "今天，墨西哥城就建在古老的特诺奇蒂特兰之上。走在中心广场，你可以在高耸的大教堂旁边，俯瞰发掘出来的阿兹特克遗迹。如果你在霍奇米尔科运河上乘坐五彩缤纷的小船，那么你正漂浮在阿兹特克人建造的神奇水上之城最后的一片遗迹之上呢。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "선인장 위 독수리가 뱀을 잡아먹는 전설은 그냥 이야기가 아니라, 지금도 멕시코 국기에 그대로 그려져 있어요!",
+      "테노치티틀란은 섬으로 된 도시였는데, 육지와는 들어올릴 수 있는 다리로 연결돼 있어서 적이 오면 다리를 걷어 올려 막았대요.",
+      "아스텍의 떠다니는 밭 '치남파'는 지금도 소치밀코에 남아 있어서, 알록달록한 배를 타고 그 위를 지나갈 수 있어요!",
+      "1500년쯤, 테노치티틀란은 파리나 런던보다 사람이 더 많이 사는 세계 최대급 도시였어요.",
+      "1978년, 중심 광장 근처에서 전기 공사를 하던 인부들이 우연히 거대한 달의 여신 조각 원반을 발견하면서 땅속 신전이 통째로 드러났어요!",
+      "옛 호수 바닥의 무른 땅 위에 세워져서, 멕시코시티는 지금도 해마다 조금씩 가라앉고 있어요."
+    ],
+    "en": [
+      "The eagle eating a snake on a cactus wasn't just a legend—it's still on Mexico's flag today!",
+      "Tenochtitlan was an island city linked to land by removable bridges the Aztecs could pull up to keep enemies out.",
+      "The Aztecs' floating gardens, called chinampas, still exist in Xochimilco—you can ride a colorful boat right over them!",
+      "Around 1500, Tenochtitlan had more people than Paris or London—one of the biggest cities on Earth.",
+      "In 1978, electrical workers digging near the main square accidentally found a giant stone disc of a moon goddess—leading to the whole buried temple!",
+      "Because it's built on old, soft lake-bed ground, Mexico City still sinks a little more every single year."
+    ],
+    "ja": [
+      "サボテンの上でワシがヘビを食べるという伝説は、ただのお話ではなく、今もメキシコの国旗にちゃんと描かれています！",
+      "テノチティトランは島の都で、陸地とは持ち上げられる橋でつながっていました。敵が来ると橋を引き上げて守ったそうです。",
+      "アステカの浮かぶ畑『チナンパ』は今もソチミルコに残っていて、カラフルな舟に乗ってその上を通ることができます！",
+      "1500年ごろ、テノチティトランはパリやロンドンよりも人口の多い、世界有数の大都市でした。",
+      "1978年、中央広場の近くで電気工事をしていた作業員たちが、偶然、月の女神の巨大な彫刻円盤を発見し、地中の神殿まるごとが明らかになりました！",
+      "昔の湖底のやわらかい土の上に建っているため、メキシコシティは今も毎年少しずつ沈み続けています。"
+    ],
+    "zh": [
+      "雄鹰站在仙人掌上吃蛇的传说可不只是故事——它至今还画在墨西哥国旗上呢！",
+      "特诺奇蒂特兰是一座岛城，靠可以吊起的桥梁与陆地相连，敌人来袭时就把桥拉起来防守。",
+      "阿兹特克人的浮动菜园“奇南帕”至今仍保留在霍奇米尔科，你可以乘坐五彩小船从上面经过！",
+      "大约1500年时，特诺奇蒂特兰的人口比巴黎或伦敦还多，是当时世界上数一数二的大城市。",
+      "1978年，在中心广场附近施工的电力工人偶然挖到一块巨大的月亮女神石雕圆盘，这才让整座埋藏的神庙重见天日！",
+      "由于建在从前湖底的松软土地上，墨西哥城至今每年都还在缓慢下沉。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "선인장 위 독수리가 뱀을 잡아먹는 모습을 보고 사람들이 그 자리에 도시를 세웠대. 새 한 마리가 수백만 명이 살 도시 자리를 정해줬다는 게 믿어져?",
+    "en": "An eagle eating a snake on top of a cactus told people exactly where to build their city—do you think a bird could really help pick a home for millions of people?",
+    "ja": "サボテンの上でワシがヘビを食べる姿を見て、人々はその場所に都を建てたんだって。1羽の鳥が何百万人も暮らす街の場所を決めたなんて、信じられる？",
+    "zh": "人们看到雄鹰站在仙人掌上吃蛇，就在那里建起了城市。你能相信，一只鸟竟然帮忙选定了几百万人居住的城市地点吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "소칼로 광장", "en": "The Zócalo", "ja": "ソカロ広場", "zh": "索卡洛广场" },
+      "blurb": {
+        "ko": "세계에서 손꼽히게 넓은 광장으로, 아스텍 시대부터 지금까지 도시의 심장 역할을 해왔어요. 옛날엔 이 자리에 아스텍 신전이 있었고, 지금은 그 신성한 자리에 커다란 멕시코 국기가 펄럭이고 있답니다.",
+        "en": "One of the largest public squares in the world, and the very heart of the city since Aztec times. Aztec temples once stood here, and today a giant Mexican flag flies where their sacred center used to be.",
+        "ja": "世界でも屈指の広さを誇る広場で、アステカ時代からずっと街の中心でした。かつてここにはアステカの神殿があり、今はその神聖な場所に大きなメキシコ国旗がひるがえっています。",
+        "zh": "这是世界上数一数二宽阔的广场，从阿兹特克时代起就一直是城市的心脏地带。曾经这里矗立着阿兹特克神庙，如今在这片神圣的土地上，飘扬着一面巨大的墨西哥国旗。"
+      },
+      "coords": [19.4326, -99.1332]
+    },
+    {
+      "name": { "ko": "템플로 마요르 (대신전 유적)", "en": "Templo Mayor", "ja": "テンプロ・マヨール（大神殿遺跡）", "zh": "大神庙遗址（Templo Mayor）" },
+      "blurb": {
+        "ko": "수백 년 동안 도시 아래 묻혀 있다가 1978년 우연히 발견된 아스텍 최고의 신전 유적이에요. 신전 꼭대기엔 두 개의 사당이 있었고, 지금은 그 시절 만들어진 돌 뱀 조각들 사이를 직접 걸어볼 수 있답니다.",
+        "en": "The excavated ruins of the Aztecs' greatest temple, hidden under the city for centuries until workers found it by accident in 1978. Twin shrines once topped it, and today you can walk right past stone serpent carvings from that lost world.",
+        "ja": "何百年も街の下に埋もれ、1978年に偶然発見されたアステカ最大の神殿の発掘遺跡。かつて頂上には二つの神殿がありました。今ではその時代の石のヘビの彫刻の間を実際に歩くことができます。",
+        "zh": "这是阿兹特克人最大神庙的发掘遗址，在城市地下埋藏了几百年，直到1978年才被工人偶然发现。神庙顶部曾有两座神殿，如今你可以亲自走过那个失落时代留下的石蛇雕刻。"
+      },
+      "coords": [19.4348, -99.1323]
+    },
+    {
+      "name": { "ko": "소치밀코 운하", "en": "Xochimilco Canals", "ja": "ソチミルコ運河", "zh": "霍奇米尔科运河" },
+      "blurb": {
+        "ko": "아스텍의 떠다니는 정원이 지금도 살아 숨쉬는 마지막 장소예요. 사람이 만든 작은 섬에서 농부들이 여전히 꽃과 채소를 기르고 있죠. 알록달록한 트라히네라 배를 타고 운하를 따라가면, 수백 년 전 가족들이 그랬던 것처럼 물길을 즐길 수 있어요.",
+        "en": "The last living piece of the Aztecs' floating gardens, where farmers still grow flowers and vegetables on man-made islands. Ride a brightly painted trajinera boat down the canals, just as families did hundreds of years ago.",
+        "ja": "アステカの浮かぶ庭園が今も生き続ける最後の場所。人の手で作られた小さな島で、農家の人々が今も花や野菜を育てています。色あざやかなトラヒネラ舟に乗って運河を進めば、何百年も前の家族たちと同じように水路を楽しめます。",
+        "zh": "这里是阿兹特克浮动花园至今仍在“存活”的最后一角，农民们依然在人工小岛上种植鲜花和蔬菜。乘坐色彩鲜艳的特拉希内拉小船沿运河而行，就像几百年前的家庭一样，感受水上的乐趣。"
+      },
+      "coords": [19.2647, -99.1031]
+    },
+    {
+      "name": { "ko": "차풀테펙 성", "en": "Chapultepec Castle", "ja": "チャプルテペック城", "zh": "查普尔特佩克城堡" },
+      "blurb": {
+        "ko": "옛날 아스텍 왕들이 사용하던 언덕 위에, 나중에 웅장한 성이 세워졌어요. 북아메리카에 남은 유일한 왕궁 성이랍니다. 언덕에 올라가면 테노치티틀란이 떠 있던 골짜기 전체가 시원하게 내려다보여요.",
+        "en": "A hilltop that Aztec rulers once used, later crowned with a grand castle—the only royal castle in North America. Climb up for sweeping views over the whole valley where Tenochtitlan once floated.",
+        "ja": "かつてアステカの王たちが使っていた丘の上に、のちに壮大な城が築かれました。北アメリカに残る唯一の王城です。丘に登れば、かつてテノチティトランが浮かんでいた谷全体を見わたせます。",
+        "zh": "这里曾是阿兹特克统治者使用的山丘，后来山顶上建起了一座宏伟的城堡——北美洲唯一的皇家城堡。登上山顶，可以俯瞰整个曾经漂浮着特诺奇蒂特兰的山谷。"
+      },
+      "coords": [19.4204, -99.1817]
+    }
+  ]
+}

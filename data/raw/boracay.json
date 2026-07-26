@@ -1,0 +1,120 @@
+{
+  "id": "boracay",
+  "country": "ph",
+  "coords": [11.9674, 121.9248],
+  "name": { "ko": "보라카이", "en": "Boracay", "ja": "ボラカイ", "zh": "长滩岛" },
+  "tagline": {
+    "ko": "세상에서 가장 부드러운 모래와 잊지 못할 노을을 가진 작은 섬",
+    "en": "The tiny island with the world's softest sand and unforgettable sunsets",
+    "ja": "世界一やわらかな砂と忘れられない夕日を持つ小さな島",
+    "zh": "拥有世界最柔软沙滩与难忘日落的小岛"
+  },
+  "story": {
+    "ko": [
+      "저 멀리 필리핀에는 개뼈다귀처럼 길쭉한 아주 작은 섬이 하나 있어요. 허리 부분이 어찌나 좁은지 걸어서 10분이면 건널 수 있을 정도랍니다. 이 섬의 이름은 보라카이, 세상에서 가장 부드럽고 하얀 모래로 유명해요. 어떤 사람들은 이 모래를 밟으면 설탕이나 밀가루 위를 걷는 것 같다고 말한답니다!",
+      "그런데 이 설탕처럼 고운 모래는 사실 모래가 아니에요. 산호와 조개껍데기 조각들이 파도에 수천 년 동안 부딪히고 부서지면서 아주 곱게 갈린 거랍니다. 얼마나 깨끗하고 고운지 맨발로 걸으면 눈 오는 날처럼 뽀드득뽀드득 소리가 난대요.",
+      "관광객들이 오기 훨씬 전부터, '아티'라는 원주민들이 이 섬에 살면서 맑고 푸른 바다에서 물고기를 잡았어요. 그리고 이 섬에 '하얀 솜'이라는 뜻의 이름을 붙여주었는데, 정말 그 폭신폭신한 모래를 딱 어울리게 표현한 이름이었죠. 이 아름다운 섬 이야기는 조금씩 퍼져나가, 전 세계 여행자들이 직접 보러 오기 시작했어요.",
+      "그런데 2018년, 너무 많은 사람이 몰려오면서 섬의 맑던 바닷물이 아프기 시작했어요. 그래서 정부는 아주 과감한 결정을 내렸답니다. 섬 전체를 6개월 동안 문 닫고, 마치 푹 재워서 낫게 하듯 쉬게 한 거예요. 사람들은 낡은 수도관을 고치고, 새 나무를 심고, 해변 구석구석을 깨끗이 청소했어요. 다시 문을 연 보라카이는 모래와 바다가 그 어느 때보다 반짝반짝 빛났답니다. 섬 전체도 새롭게 다시 시작할 수 있다는 걸 보여준 거죠."
+    ],
+    "en": [
+      "Far away in the Philippines, there's a tiny island shaped like a dog bone, so narrow in the middle that you could walk across it in about ten minutes. It's called Boracay, and it's famous for one incredible thing: the softest, whitest sand in the world. Some people say it feels like walking through sugar or flour!",
+      "That sugar-soft sand isn't really sand at all — it's tiny broken pieces of coral and seashells, ground down for thousands of years by the waves until they turned powdery-smooth. It's so fine and clean that it actually squeaks under your bare feet, like snow on a very cold day.",
+      "Long before tourists arrived, the Ati people lived on this island, fishing its clear blue waters and giving it a name that meant something like 'white cotton' — a perfect way to describe that soft, fluffy sand. Word of the beautiful island slowly spread, and travelers from all over the world began sailing in to see it for themselves.",
+      "But by 2018, so many visitors had come that the island's clean water started to get sick. So the government did something bold — it closed the whole island for six months, like sending it to bed to rest and heal. Workers fixed the pipes, planted new plants, and cleaned every inch of the beach. When Boracay reopened, its sand and sea sparkled brighter than ever — proof that even a whole island can get a fresh start."
+    ],
+    "ja": [
+      "フィリピンのはるか遠くに、犬の骨のような形をしたとても小さな島があります。真ん中がとても細く、歩いてわずか10分で渡れるほど。この島の名前はボラカイ、世界一やわらかくて白い砂で有名です。人によっては、まるで砂糖や小麦粉の上を歩いているみたいだと言うんですよ！",
+      "その砂糖のようになめらかな砂、実は本物の砂ではありません。サンゴや貝がらのかけらが、何千年も波にもまれて、粉のように細かくすり減ったものなんです。あまりにきれいで細かいので、はだしで歩くと、まるで冬の雪みたいにキュッキュッと音がするそうですよ。",
+      "観光客が訪れるずっと前から、この島には『アティ』という先住民が暮らし、澄んだ青い海で魚をとっていました。そして彼らはこの島に『白い綿』という意味の名前をつけました。ふわふわの砂にぴったりの名前ですね。この美しい島のうわさは少しずつ広まり、世界中から旅行者が見にやって来るようになりました。",
+      "けれど2018年、あまりにたくさんの人が訪れたせいで、島のきれいな海水が汚れはじめてしまいました。そこで政府は思い切った決断をします。島全体を半年間閉鎖し、まるでぐっすり眠らせて元気にするように休ませたのです。人々は古い水道管を直し、新しい木を植え、浜辺のすみずみまできれいに掃除しました。再びオープンしたボラカイは、砂も海もこれまで以上にきらきら輝いていました。島全体だって、新しく生まれ変われるということを教えてくれたのです。"
+    ],
+    "zh": [
+      "在遥远的菲律宾，有一座形状像狗骨头一样的小岛，中间窄得只要走十分钟就能穿过去。这座岛叫长滩岛，以世界上最柔软、最洁白的沙滩闻名。有人说，走在上面就像走在糖粉或面粉上一样！",
+      "这种如糖粉般细腻的沙子，其实根本不是普通的沙子——它是珊瑚和贝壳的碎片，经过几千年海浪的反复打磨，变得又细又软。沙子干净细腻到光脚踩上去，竟然会发出“吱吱”的声音，就像走在雪地里一样。",
+      "早在游客到来之前，阿蒂人（Ati）就已经生活在这座岛上，在清澈碧蓝的海水中捕鱼为生。他们给这座岛取了一个意思是“白棉花”的名字，恰好形容了那松软的沙滩。这座美丽小岛的名声渐渐传开，世界各地的旅行者纷纷乘船前来一睹真容。",
+      "但到了2018年，蜂拥而至的游客太多，岛上清澈的海水开始变得不健康。于是政府做出了一个大胆的决定——把整座岛关闭了六个月，就像让它好好睡一觉、休养生息一样。工人们修好了老旧的水管，种下了新的植物，把海滩的每一个角落都打扫得干干净净。长滩岛重新开放后，沙滩和海水变得比以往更加闪闪发亮——证明就连一整座岛屿，也能够重新开始、焕然一新。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "보라카이 모래는 마치 슈가파우더처럼 보이고 만져지는데, 사실은 산호와 조개껍데기가 수천 년 동안 파도에 곱게 갈린 거예요.",
+      "맨발로 걸으면 뽀드득뽀드득 소리가 나요, 꼭 갓 내린 눈을 밟는 것처럼요!",
+      "섬은 개뼈다귀 모양인데, 허리 부분이 아주 좁아서 이쪽 바다에서 저쪽 바다까지 걸어서 10분이면 건널 수 있어요.",
+      "섬 이름은 '하얀 솜'을 뜻하는 옛말에서 왔다고 전해지는데, 폭신한 모래와 정말 잘 어울리는 이름이죠.",
+      "2018년에는 섬 전체가 6개월 동안 문을 닫고 대청소를 했어요. 마치 섬에게 스파 휴가를 준 것처럼요.",
+      "보라카이의 노을은 세계적으로 유명한데, '파라오'라는 전통 돛단배가 주황빛 하늘을 가로지르는 모습이 특히 아름다워요."
+    ],
+    "en": [
+      "Boracay's sand looks and feels like powdered sugar — it's actually tiny bits of coral and shell, worn smooth by waves over thousands of years.",
+      "Walk barefoot on it and it squeaks, just like fresh snow!",
+      "The island is shaped like a dog bone and so narrow at its waist that you can walk from one coast to the other in about 10 minutes.",
+      "Many people believe the island's name comes from an old word meaning 'white cotton' — a perfect match for its fluffy sand.",
+      "In 2018, the whole island closed for six months so workers could clean it up and let nature heal — like giving an island a spa day.",
+      "Boracay's sunsets are famous around the world, especially with traditional sailboats called 'paraw' gliding across the orange sky."
+    ],
+    "ja": [
+      "ボラカイの砂は粉砂糖のように見えて手ざわりもそっくりですが、正体はサンゴと貝がらが何千年も波にもまれて細かくなったものです。",
+      "はだしで歩くとキュッキュッと音がします。まるで降ったばかりの雪を踏むみたいに！",
+      "島は犬の骨のような形をしていて、真ん中がとても細いので、こちらの海からあちらの海まで歩いて10分ほどで渡れます。",
+      "島の名前は『白い綿』を意味する古い言葉に由来すると言われていて、ふわふわの砂にぴったりです。",
+      "2018年には島全体が半年間閉鎖され、大そうじが行われました。まるで島に温泉旅行を贈ったみたいですね。",
+      "ボラカイの夕日は世界的に有名で、『パラウ』と呼ばれる伝統的な帆船がオレンジ色の空を横切る姿がとくに美しいんです。"
+    ],
+    "zh": [
+      "长滩岛的沙子看起来、摸起来都像糖粉，其实是珊瑚和贝壳经过几千年海浪打磨后变得细腻的碎片。",
+      "光脚走在上面会发出“吱吱”声，就像踩在刚下的雪上一样！",
+      "小岛形似狗骨头，中间腰身特别窄，从这边海岸走到那边海岸大约只要十分钟。",
+      "据说岛名源自一个意为“白棉花”的古老词语，和这松软的沙滩正好相配。",
+      "2018年，整座岛关闭了六个月进行大扫除，就像给小岛放了一次“水疗假期”。",
+      "长滩岛的日落举世闻名，尤其是名叫“帕拉乌（paraw）”的传统帆船划过橙色天空时，景色格外迷人。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "설탕처럼 부드럽고 눈처럼 뽀드득 소리 나는 모래라니, 믿을 수 있겠어?",
+    "en": "Sand that squeaks like snow and feels like powdered sugar — could you believe your feet?",
+    "ja": "粉砂糖みたいにやわらかくて、雪みたいにキュッキュッと鳴る砂だなんて、信じられる？",
+    "zh": "沙子软得像糖粉，踩上去还会像雪一样吱吱作响，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "화이트 비치", "en": "White Beach", "ja": "ホワイトビーチ", "zh": "白沙滩" },
+      "blurb": {
+        "ko": "4킬로미터나 이어지는 이 새하얀 모래사장이 보라카이의 심장이에요. 야자수와 잔잔한 청록빛 바다가 어우러진, 보라카이를 세계에 알린 바로 그 해변이랍니다.",
+        "en": "This four-kilometer stretch of powder-soft sand is the heart of Boracay, lined with palm trees and gentle turquoise water. It's the very beach that made the island famous around the world.",
+        "ja": "4キロも続くこのまっ白な砂浜が、ボラカイの心臓部です。ヤシの木と穏やかなターコイズブルーの海に囲まれた、まさにこの島を世界に知らしめたビーチなんです。",
+        "zh": "这片长达四公里的洁白沙滩，是长滩岛的心脏地带，椰树成排、海水碧绿平静。正是这片沙滩，让长滩岛闻名世界。"
+      },
+      "coords": [11.9686, 121.9219]
+    },
+    {
+      "name": { "ko": "윌리스 록", "en": "Willy's Rock", "ja": "ウィリーズ・ロック", "zh": "威利岩" },
+      "blurb": {
+        "ko": "화이트 비치 바로 앞바다에 떠 있는 작은 바위섬으로, 꼭대기엔 작은 성모 마리아상이 있어요. 썰물 때는 걸어서 갈 수도 있는데, 보라카이에서 사진을 가장 많이 찍는 명소랍니다.",
+        "en": "A small rocky island just off White Beach, topped with a tiny shrine to the Virgin Mary. At low tide you can wade right out to it — it's become the most photographed spot on the whole island.",
+        "ja": "ホワイトビーチのすぐ沖に浮かぶ小さな岩の島で、てっぺんには小さな聖母マリア像があります。潮が引くと歩いて渡ることもでき、島いちばんの記念撮影スポットになっています。",
+        "zh": "这块小岩石岛就矗立在白沙滩前方海面，顶端有一座小小的圣母像。退潮时可以蹚水走过去，是全岛拍照人气最高的地方。"
+      },
+      "coords": [11.9775, 121.9204]
+    },
+    {
+      "name": { "ko": "푸카 쉘 비치", "en": "Puka Shell Beach", "ja": "プカシェル・ビーチ", "zh": "布卡贝壳海滩" },
+      "blurb": {
+        "ko": "섬 북쪽 끝에 있는 한적한 해변으로, 옛날엔 하얀 '푸카 조개'가 수천 개씩 밀려왔다고 해서 이런 이름이 붙었어요. 지금도 주민들이 이 조개로 목걸이와 팔찌를 만든답니다.",
+        "en": "A quieter beach at the island's northern tip, named for the little white puka shells that used to wash up here by the thousands. Locals still string them into necklaces and bracelets.",
+        "ja": "島の北の端にある静かなビーチで、その昔ここに真っ白な『プカ貝』が何千個も打ち上げられたことから名づけられました。今でも地元の人がこの貝でネックレスやブレスレットを作っています。",
+        "zh": "位于小岛北端的一处宁静海滩，因过去这里常有成千上万枚洁白的“布卡贝壳”被冲上岸而得名。当地人至今仍用这种贝壳串成项链和手链。"
+      },
+      "coords": [12.0090, 121.9265]
+    },
+    {
+      "name": { "ko": "불라복 비치", "en": "Bulabog Beach", "ja": "ブラボッグ・ビーチ", "zh": "布拉伯海滩" },
+      "blurb": {
+        "ko": "섬 반대편에 있는 이 해변은 바람이 세게 불어서 카이트보드와 윈드서핑을 즐기는 사람들의 놀이터가 돼요. 알록달록한 돛들이 바다 위를 씽씽 가로지르는 모습을 볼 수 있어요.",
+        "en": "On the opposite side of the island, strong winds turn this beach into a playground for kiteboarders and windsurfers who zip across the water with colorful sails.",
+        "ja": "島の反対側にあるこのビーチは強い風が吹き、カイトボードやウィンドサーフィンを楽しむ人たちの遊び場になっています。カラフルな帆が海の上をびゅんびゅん行き交う様子が見られます。",
+        "zh": "位于小岛另一侧，这里风力强劲，是风筝冲浪和帆板爱好者的乐园，五颜六色的帆在海面上飞驰而过。"
+      },
+      "coords": [11.9719, 121.9282]
+    }
+  ]
+}

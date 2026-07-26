@@ -1,0 +1,120 @@
+{
+  "id": "oxford",
+  "country": "gb",
+  "coords": [51.7520, -1.2577],
+  "name": { "ko": "옥스퍼드", "en": "Oxford", "ja": "オックスフォード", "zh": "牛津" },
+  "tagline": {
+    "ko": "마법사와 호빗, 이상한 나라의 앨리스가 모두 태어난 '꿈꾸는 첨탑'의 도시",
+    "en": "The dreaming-spire town where wizards, hobbits, and Alice in Wonderland were all born",
+    "ja": "魔法使いもホビットも『不思議の国のアリス』も、みんなここで生まれた『夢見る尖塔』の街",
+    "zh": "巫师、霍比特人和爱丽丝梦游仙境，全都诞生于此的“梦想尖塔”之城"
+  },
+  "story": {
+    "ko": [
+      "영국의 작은 마을인데, 골목마다 성처럼 생긴 건물이 서 있는 곳을 상상해보세요. 바로 옥스퍼드예요. 이 도시는 통째로 하나의 거대하고 오래된 대학교를 중심으로 만들어졌답니다. 황금빛 돌탑과 첨탑들이 하늘 위로 뾰족뾰족 솟아 있어서 사람들은 옥스퍼드를 '꿈꾸는 첨탑의 도시'라고 부르죠. 이곳에서는 900년 넘게 학생들이 공부해 왔어요.",
+      "옥스퍼드 대학교가 정확히 언제 시작됐는지는 아무도 몰라요. 하지만 1096년에는 이미 이곳에서 수업이 이루어지고 있었대요. 영국의 유명한 왕 리처드 사자심왕이 태어나기도 전이었죠! 시간이 흐르며 대학교는 39개의 서로 다른 '칼리지'로 커졌는데, 각 칼리지마다 자기만의 식당, 예배당, 정원이 있는 작은 성 같아요. 옥스퍼드를 걷다 보면 도시 하나 안에 숨겨진 여러 왕국을 돌아다니는 기분이 든답니다.",
+      "옥스퍼드는 수백 년 동안 이야기 속에 마법을 살짝 뿌려왔어요. 어느 화창한 오후, '찰스'라는 수학 교수님이 어린 소녀 앨리스와 함께 강에서 배를 타다가, 심심해하지 말라고 즉석에서 이야기를 지어냈어요. 그 이야기가 바로 '이상한 나라의 앨리스'가 되었답니다! 몇십 년 뒤에는 교수 친구 두 명이 아늑한 술집에 거의 매주 모여 서로에게 호빗과 말하는 사자 이야기를 읽어주었는데, 그렇게 해서 '반지의 제왕'과 '나니아 연대기'가 탄생했어요.",
+      "오늘날에도 우리는 영화 '해리 포터'의 호그와트 식당에 영감을 준 진짜 식당 안으로 들어갈 수 있고, 웬만한 나라보다도 오래된 도서관의 나선형 계단을 오를 수 있어요. 그리고 '펀트'라는 납작한 나무배를 타고 강을 따라 앨리스처럼 느긋하게 떠내려갈 수도 있답니다. 옥스퍼드는 그냥 대학교가 있는 마을이 아니에요. 상상 속 세상들이 실제로 태어난 곳이랍니다."
+    ],
+    "en": [
+      "Picture a small English town where every street seems to have its own castle. That's Oxford — a city built almost entirely around one giant, ancient university. Its golden stone towers and spires poke into the sky so beautifully that people call it the 'city of dreaming spires.' Students have been studying here for over 900 years.",
+      "Nobody knows the exact day Oxford's university began, but people were already teaching here by the year 1096 — before England even had its famous King Richard the Lionheart! Over time, the university grew into 39 separate colleges, each one like its own tiny castle with its own dining hall, chapel, and garden. Walking through Oxford feels like wandering through dozens of hidden kingdoms tucked inside one city.",
+      "Oxford has sprinkled magic into stories for hundreds of years. One sunny afternoon, a math professor named Charles took a little girl named Alice rowing down the river and made up a story to keep her entertained — that story became 'Alice in Wonderland'! Decades later, two professor friends met almost every week in a cozy pub to read each other tales about hobbits and talking lions — and that's how 'The Lord of the Rings' and 'Narnia' came to life.",
+      "Today you can still walk into the very dining hall that helped inspire Hogwarts in the Harry Potter movies, climb the spiral stairs of a library older than most countries, and hop in a flat wooden boat called a punt to float lazily down the river — just like Alice did. Oxford isn't just a university town. It's a real place where imaginary worlds began."
+    ],
+    "ja": [
+      "路地のあちこちにお城のような建物が立つ、イギリスの小さな町を想像してみてください。それがオックスフォードです。この街はまるごと、一つの巨大で古い大学を中心につくられています。金色の石でできた塔や尖塔が空にすっと伸びていて、人々はオックスフォードを『夢見る尖塔の街』と呼びます。ここでは900年以上も前から学生たちが学んできました。",
+      "オックスフォード大学がいつ始まったのか、正確な日はだれも知りません。でも1096年にはすでにここで授業が行われていたそうです。イギリスの有名な王、リチャード獅子心王が生まれるよりも前のことです！やがて大学は39の『カレッジ』に分かれて大きくなりました。どのカレッジも、自分専用の食堂や礼拝堂、庭園を持つ小さなお城のようです。オックスフォードを歩くと、一つの街の中にいくつもの隠れた王国をめぐっているような気分になります。",
+      "オックスフォードは何百年もの間、物語にそっと魔法をふりかけてきました。ある晴れた午後、チャールズという数学の教授が、幼い女の子アリスと一緒に川でボートに乗りながら、退屈しないようにその場でお話をつくってあげました。それが『不思議の国のアリス』になったのです！数十年後には、教授仲間の二人がこぢんまりとしたパブにほぼ毎週集まり、ホビットや話す獅子の物語をおたがいに読み聞かせました。そうして『指輪物語』と『ナルニア国物語』が生まれたのです。",
+      "今日でも、映画『ハリー・ポッター』のホグワーツの大食堂のヒントになった本物の食堂に入ることができますし、多くの国よりも古い図書館のらせん階段をのぼることもできます。そして『パント』という平たい木のボートに乗って、アリスのように川をのんびり流れることもできるのです。オックスフォードはただの大学町ではありません。空想の世界が本当に生まれた場所なのです。"
+    ],
+    "zh": [
+      "想象一个英国小镇，几乎每条街上都立着一座座像城堡一样的建筑——这就是牛津。整座城市几乎都是围绕着一所庞大又古老的大学建起来的。金色的石塔和尖顶美丽地刺向天空，人们因此把牛津称作“梦想尖塔之城”。这里的学生已经学习了超过九百年。",
+      "没有人知道牛津大学到底是从哪一天开始的，但早在1096年，这里就已经有人在教书了——那时英国那位大名鼎鼎的“狮心王”理查德甚至还没出生呢！随着时间推移，大学发展成了39个各自独立的“学院”，每个学院都像一座自己的小城堡，有自己的食堂、礼拜堂和花园。走在牛津的街道上，就像在一座城市里穿梭于好几个藏起来的小王国。",
+      "几百年来，牛津一直悄悄地为故事施展魔法。一个阳光明媚的下午，一位名叫查尔斯的数学教授带着小女孩爱丽丝在河上划船，为了让她不无聊，即兴编了一个故事——这个故事后来变成了《爱丽丝梦游仙境》！几十年后，两位教授朋友几乎每周都在一家温馨的小酒馆碰面，互相朗读关于霍比特人和会说话的狮子的故事——就这样，《指环王》和《纳尼亚传奇》诞生了。",
+      "如今，你仍然可以走进那间启发了电影《哈利·波特》里霍格沃茨大礼堂的真实食堂，也能爬上一座比许多国家历史还悠久的图书馆的旋转楼梯。你还可以像爱丽丝一样，坐上一种叫“平底船”的扁平木船，悠悠地顺流而下。牛津可不只是一座大学城，它是那些奇幻世界真正诞生的地方。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "옥스퍼드에서는 적어도 1096년부터 학생들이 공부했어요. 이는 아즈텍 제국보다도 오래됐고, 콜럼버스가 항해를 떠나기 수백 년 전이랍니다!",
+      "옥스퍼드는 하나의 커다란 캠퍼스가 아니에요. 사실은 39개의 서로 다른 칼리지로 이루어져 있는데, 각각 자기만의 식당, 예배당, 정원을 가진 작은 성 같답니다.",
+      "보들리언 도서관은 영국에서 나오는 책 거의 전부를 한 권씩 무료로 받아요. 지금은 1300만 권이 넘는 책을 소장하고 있고, 도서관들은 몇 킬로미터나 되는 비밀 지하 통로로 연결돼 있어요.",
+      "크라이스트처치 칼리지의 실제 식당은 영화 '해리 포터'에 나오는 호그와트 대식당에 영감을 줬어요.",
+      "'이상한 나라의 앨리스'는 강에서 배를 타던 중 즉석에서 만들어진 이야기예요. 이야기를 지어낸 사람은 수학 교수였고, 진짜 앨리스는 그 배에 함께 타고 있던 어린 소녀였답니다.",
+      "작가 친구 사이였던 톨킨과 C.S. 루이스는 아늑한 술집에 거의 매주 모여 서로에게 새로 쓴 이야기를 읽어줬어요. 그렇게 '반지의 제왕'과 '나니아 연대기'가 자라났답니다."
+    ],
+    "en": [
+      "Oxford has had teachers and students since at least 1096 — that's older than the Aztec Empire, and centuries before Columbus ever sailed!",
+      "Oxford isn't one big campus — it's actually 39 separate colleges, each with its own dining hall, chapel, and garden, like little castles tucked into one city.",
+      "The Bodleian Library gets a free copy of almost every book published in the UK. It now holds over 13 million books, connected by miles of secret underground tunnels.",
+      "The real dining hall at Christ Church College helped inspire Hogwarts' Great Hall in the Harry Potter movies.",
+      "Alice in Wonderland was invented on the spot during a rowboat trip down the river — the storyteller was a math professor, and the real Alice was a little girl in the boat with him.",
+      "Two writer friends, J.R.R. Tolkien and C.S. Lewis, met almost every week at a cozy pub to read each other their new chapters — that's how The Lord of the Rings and Narnia grew."
+    ],
+    "ja": [
+      "オックスフォードでは少なくとも1096年から学生が学んでいました。これはアステカ帝国よりも古く、コロンブスが航海に出る何百年も前のことです！",
+      "オックスフォードは一つの大きなキャンパスではありません。実は39の異なる『カレッジ』からできていて、それぞれが自分専用の食堂、礼拝堂、庭園を持つ小さなお城のようです。",
+      "ボドリアン図書館は、イギリスで出版されるほぼすべての本を無料で1冊受け取ります。今では1300万冊以上を所蔵していて、図書館同士は何キロにもおよぶ秘密の地下通路でつながっています。",
+      "クライスト・チャーチ・カレッジの本物の食堂が、映画『ハリー・ポッター』のホグワーツ大食堂のヒントになりました。",
+      "『不思議の国のアリス』は、川でボートに乗っている最中にその場で生まれたお話です。お話をつくったのは数学の教授で、本物のアリスはそのボートに一緒に乗っていた小さな女の子でした。",
+      "作家仲間だったトールキンとC.S.ルイスは、こぢんまりとしたパブにほぼ毎週集まり、おたがいに新しく書いた物語を読み聞かせました。そうやって『指輪物語』と『ナルニア国物語』が育っていったのです。"
+    ],
+    "zh": [
+      "牛津至少从1096年起就有学生在学习——这比阿兹特克帝国还要古老，也比哥伦布航海早了好几百年！",
+      "牛津并不是一个大校园，而是由39个独立的“学院”组成，每个学院都有自己的食堂、礼拜堂和花园，就像藏在一座城市里的一座座小城堡。",
+      "博德利图书馆几乎能免费获得英国出版的每一本书。如今它收藏了超过1300万册图书，各座图书馆之间还有长达数公里的秘密地下通道相连。",
+      "基督堂学院真实的食堂，启发了电影《哈利·波特》里霍格沃茨大礼堂的样子。",
+      "《爱丽丝梦游仙境》是在一次划船途中即兴编出来的故事。讲故事的人是一位数学教授，而真正的爱丽丝，就是坐在船上的一个小女孩。",
+      "作家好友托尔金和C.S.刘易斯几乎每周都会在一家温馨的小酒馆碰面，互相朗读自己新写的故事。就这样，《指环王》和《纳尼亚传奇》渐渐成形。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "어떤 수학 교수님은 뱃놀이를 하다가 앨리스라는 소녀 이야기를 즉석에서 지어냈대. 너라면 배 위에서 어떤 이야기를 지어낼래?",
+    "en": "A math professor once made up a story about a girl named Alice during a boat ride — what story would you make up on a boat?",
+    "ja": "ある数学の先生は、ボートに乗っているときにアリスという女の子のお話をその場でつくったんだって。きみならボートの上でどんなお話をつくる？",
+    "zh": "有位数学教授曾在划船时，即兴编出了一个叫爱丽丝的女孩的故事。如果是你，会在船上编出什么故事呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "보들리언 도서관", "en": "Bodleian Library", "ja": "ボドリアン図書館", "zh": "博德利图书馆" },
+      "blurb": {
+        "ko": "유럽에서 가장 오래된 도서관 중 하나로, 법에 따라 영국에서 나온 책을 거의 다 한 권씩 무료로 받아요. 오래된 열람실을 거닐다 보면 400년 넘게 이곳을 지켜온 수백만 권의 책 사이에 서 있는 셈이랍니다.",
+        "en": "One of the oldest libraries in Europe, and by law it gets a free copy of nearly every book published in the UK. Wander its ancient reading rooms and you're standing among millions of books, some guarded here for over 400 years.",
+        "ja": "ヨーロッパ最古級の図書館の一つで、法律により英国で出版されるほぼすべての本を無料で受け取ります。古い閲覧室を歩けば、400年以上ここで守られてきた何百万冊もの本の中に立っていることになります。",
+        "zh": "欧洲最古老的图书馆之一，依法几乎能免费获得英国出版的每一本书。漫步在古老的阅览室里，你就置身于数百万册图书之间，其中一些已在此守护了四百多年。"
+      },
+      "coords": [51.7538, -1.2540]
+    },
+    {
+      "name": { "ko": "래드클리프 카메라", "en": "Radcliffe Camera", "ja": "ラドクリフ・カメラ", "zh": "拉德克利夫图书馆" },
+      "blurb": {
+        "ko": "둥글고 황금빛 돔이 있는 이 건물은 옥스퍼드에서 가장 유명한 풍경이에요. 사실은 보들리언 도서관의 열람실인데, 아름다운 둥근 모습 덕분에 영화 속 마법 도서관으로도 자주 등장했답니다.",
+        "en": "This round, golden-domed building is Oxford's most famous postcard view. It's actually a reading room for the Bodleian Library, and its beautiful curved shape has appeared in movies as a stand-in for magical libraries.",
+        "ja": "丸くて金色のドームを持つこの建物は、オックスフォードで最も有名な景色です。実はボドリアン図書館の閲覧室で、その美しい丸い形から映画では魔法の図書館役としても登場しました。",
+        "zh": "这座圆形金顶建筑，是牛津最著名的明信片风景。它其实是博德利图书馆的一间阅览室，美丽的圆弧造型还曾在电影里扮演过“魔法图书馆”。"
+      },
+      "coords": [51.7534, -1.2549]
+    },
+    {
+      "name": { "ko": "크라이스트처치 칼리지", "en": "Christ Church College", "ja": "クライスト・チャーチ・カレッジ", "zh": "基督堂学院" },
+      "blurb": {
+        "ko": "그림이 줄지어 걸리고 긴 나무 테이블이 놓인 웅장한 식당은 영화 '해리 포터'의 호그와트 대식당에 영감을 줬어요. 이곳은 또한 아버지가 이 칼리지의 학장이었던 앨리스 리델, 즉 '이상한 나라의 앨리스'의 실제 모델이 자란 곳이기도 하답니다.",
+        "en": "Its grand dining hall, lined with paintings and long wooden tables, helped inspire Hogwarts' Great Hall in the Harry Potter films. It's also where Alice Liddell — the real girl behind Alice in Wonderland — grew up, since her father ran the college.",
+        "ja": "絵画が並び、長い木のテーブルが置かれた壮大な食堂は、映画『ハリー・ポッター』のホグワーツ大食堂のヒントになりました。ここは、父親がこのカレッジの学寮長だった、『不思議の国のアリス』のモデル、アリス・リデルが育った場所でもあります。",
+        "zh": "这间挂满画作、摆着长木桌的宏伟食堂，启发了电影《哈利·波特》里霍格沃茨大礼堂的设计。这里也是爱丽丝·利德尔——《爱丽丝梦游仙境》的原型女孩——长大的地方，因为她的父亲正是这所学院的院长。"
+      },
+      "coords": [51.7505, -1.2557]
+    },
+    {
+      "name": { "ko": "이글 앤드 차일드", "en": "The Eagle and Child", "ja": "イーグル・アンド・チャイルド", "zh": "鹰与孩子酒馆" },
+      "blurb": {
+        "ko": "작가 친구인 톨킨과 C.S. 루이스가 거의 매주 모여 새로 쓴 이야기를 서로 읽어주던 아늑한 작은 술집이에요. 그들이 즐겨 앉던 안쪽 방에 앉아 있으면, 호빗과 말하는 사자가 처음으로 살아 움직이던 순간을 상상해볼 수 있답니다.",
+        "en": "A cozy little pub where writer friends J.R.R. Tolkien and C.S. Lewis met almost every week to read aloud their new stories. Sitting in their favorite back room, you can imagine hobbits and talking lions coming to life for the very first time.",
+        "ja": "作家仲間のトールキンとC.S.ルイスが、ほぼ毎週集まって新しい物語を読み合った、こぢんまりとした小さなパブです。二人お気に入りの奥の部屋に座れば、ホビットや話す獅子が初めて命を吹き込まれた瞬間を想像できます。",
+        "zh": "这是一间温馨的小酒馆，作家好友托尔金和C.S.刘易斯几乎每周都在这里碰面，互相朗读自己新写的故事。坐在他们最爱的那间里屋，你可以想象霍比特人和会说话的狮子第一次“活”过来的样子。"
+      },
+      "coords": [51.7551, -1.2591]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "amsterdam",
+  "country": "nl",
+  "coords": [52.3676, 4.9041],
+  "name": { "ko": "암스테르담", "en": "Amsterdam", "ja": "アムステルダム", "zh": "阿姆斯特丹" },
+  "tagline": {
+    "ko": "나무 말뚝 위에 지어진 운하 도시, 집은 일부러 기울고 자전거가 사람보다 많아요",
+    "en": "The canal city built on wooden poles, where houses lean on purpose and bikes outnumber people",
+    "ja": "木の杭の上に建てられた運河の街。家はわざと傾き、自転車が人より多いんです",
+    "zh": "建在木桩上的运河之城，房子故意倾斜，自行车比人还多"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 암스텔 강이 커다란 만으로 흘러드는 곳에 어부 몇 가족이 모여 살았어요. 물이 집을 덮치지 못하게 강을 가로질러 둑을 쌓았죠. 사람들은 이 마을을 '암스텔레담메', 즉 '암스텔 강의 둑'이라고 부르기 시작했고, 그 이름이 세월이 흐르며 '암스테르담'이 되었답니다.",
+      "1600년대에 이르러 암스테르담은 세계에서 손꼽히게 부유한 도시로 자라났어요. 배들은 머나먼 나라로 떠나 향신료와 비단, 온갖 보물을 가득 싣고 돌아왔고, 상인들은 어찌나 큰돈을 벌었는지 세계 최초의 증권거래소까지 세웠답니다. 이렇게 쏟아진 황금 덕분에, 도시는 중심을 무지개처럼 둥글게 감싸는 세 개의 커다란 운하를 팠어요.",
+      "그런데 문제가 하나 있었어요. 암스테르담 땅 밑은 단단한 바위가 아니라 물렁물렁한 늪이었거든요. 그래서 사람들은 벽돌 한 장 놓기 전에, 기다란 나무 말뚝 수천 개를 진흙 속 깊이 박아 넣었답니다. 게다가 집 폭에 따라 세금을 매겼기 때문에, 사람들은 집을 좁고 길쭉하게 짓고 계단은 가파르고 비좁게 만들었어요. 대신 지붕 꼭대기에 갈고리를 달아, 가구는 계단이 아니라 창문으로 끌어올렸답니다.",
+      "오늘날에도 그 운하들은 여전히 햇빛에 반짝이고, 물 위에는 하우스보트들이 둥둥 떠다니며, 거리마다 사람보다 자전거가 더 많아요. 암스테르담은 작은 둑 하나에서 시작해, 지금도 물 위에 떠 있는 듯한 신기하고 멋진 도시랍니다."
+    ],
+    "en": [
+      "Long ago, a small group of fishermen lived where the Amstel River flows into a big bay. To keep the water from flooding their homes, they built a dam right across the river. People started calling the village 'Amstelredamme'—dam on the Amstel—and over time that name became Amsterdam.",
+      "By the 1600s, Amsterdam had grown into one of the richest cities on Earth. Ships sailed out to faraway lands and came back loaded with spices, silk, and treasures, and merchants grew so wealthy that they started the world's very first stock exchange. With all that gold pouring in, the city dug three grand curved canals that wrap around its center like a rainbow.",
+      "But there was a problem: the ground under Amsterdam is soft, squishy swamp, not solid rock. So builders drove thousands of long wooden poles deep into the mud before laying a single brick. Houses were even taxed by how wide they were, so people built them tall and narrow with steep, twisty stairs—and put a hook at the top of the roof to hoist furniture up through the window instead.",
+      "Today, those same canals still sparkle in the sunshine, houseboats bob gently along the water, and bicycles outnumber people on every street. Amsterdam is still the watery, wonky, wonderful city that grew out of one small dam."
+    ],
+    "ja": [
+      "はるか昔、アムステル川が大きな入り江に流れこむ場所に、漁師たちの小さな集落がありました。水が家をのみこまないように、人々は川をせき止める堤防（ダム）を築きました。この村は『アムステルレダンメ』——『アムステル川のダム』——と呼ばれるようになり、その名がやがて『アムステルダム』になったのです。",
+      "1600年代になると、アムステルダムは世界でも指折りの豊かな都市に成長しました。船は遠い国々へ出かけては、香辛料や絹、たくさんの宝物を積んで戻ってきて、商人たちはあまりに稼いだので、世界初の証券取引所まで作ってしまいました。そうして流れこんだ富で、街は中心をぐるりと虹のように取りかこむ三本の大きな運河を掘ったのです。",
+      "けれど一つ問題がありました。アムステルダムの地面は固い岩ではなく、やわらかい湿地だったのです。そこで人々はレンガを一つ積む前に、何千本もの長い木の杭を泥の中深くに打ちこみました。しかも家の幅に税金がかけられたので、家は細長く高く建てられ、階段は急で狭くなりました。その代わり屋根の上にフックを付け、家具は階段ではなく窓から吊り上げて運んだのです。",
+      "今日でも、その運河は日差しにきらきら輝き、水の上にはハウスボートがゆらゆら浮かび、通りには人よりも自転車の数のほうが多いほど。アムステルダムは、たった一つの小さなダムから生まれた、水に浮かぶような不思議で素敵な街のままなのです。"
+    ],
+    "zh": [
+      "很久很久以前，阿姆斯特尔河流入一片大海湾的地方，住着几户以打渔为生的人家。为了不让河水淹没家园，他们在河上筑起了一道堤坝。人们开始把这个小村子叫作“阿姆斯特尔丹默”——意思是“阿姆斯特尔河上的堤坝”——这个名字渐渐演变成了如今的“阿姆斯特丹”。",
+      "到了17世纪，阿姆斯特丹已经成长为世界上最富有的城市之一。船只驶向遥远的国度，满载着香料、丝绸和各种珍宝归来，商人们赚得盆满钵满，甚至创办了世界上第一家证券交易所。靠着这滚滚而来的财富，城市挖出了三条像彩虹一样环抱市中心的宽阔运河。",
+      "不过有一个大问题：阿姆斯特丹地下不是坚硬的岩石，而是松软的沼泽地。于是人们在砌下第一块砖之前，先把成千上万根长长的木桩深深打入泥地里。而且房屋要按宽度缴税，人们便把房子建得又窄又高，楼梯又陡又窄；作为补救办法，屋顶顶端装了一个吊钩，家具就从窗户吊上去，而不用挤过楼梯。",
+      "如今，那些运河依旧在阳光下闪闪发光，水面上的船屋轻轻摇晃，街道上自行车的数量比人还多。阿姆斯特丹依然是那座从一道小小堤坝生长出来的、漂浮在水面上般奇妙又美好的城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'암스테르담'이라는 이름은 '암스텔 강의 둑(dam)'이라는 뜻에서 생겨났어요.",
+      "담 광장의 왕궁은 늪지 깊숙이 박은 나무 말뚝 13,659개 위에 서 있대요.",
+      "옛날엔 집 폭에 따라 세금을 매겨서, 사람들은 집을 좁고 높게 지었어요. 어떤 집들은 가구가 벽에 안 긁히게 일부러 앞으로 살짝 기울어져 있답니다!",
+      "계단이 너무 가파르고 좁아서, 많은 집 지붕 꼭대기에는 창문으로 가구를 끌어올리는 갈고리가 달려 있어요.",
+      "암스테르담에는 사람 수만큼이나 자전거가 많아요. 어떤 거리에서는 자동차나 사람보다 자전거가 훨씬 더 많이 지나간대요.",
+      "암스테르담의 운하는 총 길이 100킬로미터가 넘고, 다리는 1,500개가 넘어요 — 베네치아보다 다리가 더 많다니까요!"
+    ],
+    "en": [
+      "Amsterdam's name literally comes from 'Amstel + dam'—a dam built across the Amstel River.",
+      "The Royal Palace on Dam Square stands on 13,659 wooden poles hammered deep into the swampy ground.",
+      "Houses were once taxed by width, so people built them tall and narrow—some lean forward on purpose so furniture wouldn't scrape the front!",
+      "Many houses have a hook at the top of the roof, used to hoist furniture up through the window because the staircases are too steep and narrow.",
+      "Amsterdam has roughly as many bicycles as people—on some streets you'll see more bikes zoom by than cars or pedestrians.",
+      "The city's canal ring has over 100 kilometers of canals and more than 1,500 bridges—that's more bridges than Venice!"
+    ],
+    "ja": [
+      "「アムステルダム」という名前は、「アムステル川のダム（堤防）」からきているんですよ。",
+      "ダム広場の王宮は、湿地の奥深くに打ちこまれた13,659本もの木の杭の上に建っています。",
+      "昔は家の幅に税金がかけられたので、家は細長く高く建てられました。中には、家具が壁にこすれないようにわざと少し前に傾いている家もあるんです！",
+      "階段があまりに急で狭いため、多くの家の屋根の上には、窓から家具を吊り上げるためのフックが付いています。",
+      "アムステルダムには人の数とほぼ同じくらい自転車があります。通りによっては、車や人よりも自転車のほうがたくさん行き交うほどなんです。",
+      "アムステルダムの運河は全長100キロメートル以上、橋の数は1,500以上——なんとヴェネツィアより橋が多いんですよ！"
+    ],
+    "zh": [
+      "“阿姆斯特丹”这个名字，就是从“阿姆斯特尔河上的堤坝（dam）”而来的哦。",
+      "水坝广场上的王宫，立在13,659根打入沼泽深处的木桩上面。",
+      "从前房屋要按宽度缴税，所以人们把房子盖得又窄又高。有些房子甚至故意向前微微倾斜，好让搬运的家具不会刮到墙壁！",
+      "因为楼梯又陡又窄，许多房子的屋顶顶端都装着一个吊钩，专门用来把家具从窗户吊上去。",
+      "阿姆斯特丹的自行车数量差不多和人口一样多，有些街道上飞驰而过的自行车甚至比汽车和行人还多。",
+      "阿姆斯特丹的运河总长超过100公里，桥梁超过1500座——比威尼斯的桥还多呢！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "암스테르담의 어떤 집들은 일부러 앞으로 기울어져 있대. 왜 그런지 맞혀볼래?",
+    "en": "Some houses in Amsterdam lean forward on purpose—can you guess why?",
+    "ja": "アムステルダムには、わざと前に傾いている家があるんだって。どうしてか当てられるかな？",
+    "zh": "阿姆斯特丹有些房子是故意向前倾斜的哦，你能猜出为什么吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "담 광장과 왕궁", "en": "Dam Square & the Royal Palace", "ja": "ダム広場と王宮", "zh": "水坝广场与王宫" },
+      "blurb": {
+        "ko": "바로 이곳이 암스텔 강에 처음 둑을 쌓았던 자리예요. 도시가 태어난 곳이죠. 지금 서 있는 웅장한 왕궁은 진흙 속에 박힌 나무 말뚝 13,659개 위에 떠 있듯 서 있답니다.",
+        "en": "This is the very spot where the first dam was built on the Amstel River—the birthplace of the whole city. The grand palace standing here today floats on 13,659 wooden poles buried in the mud beneath it.",
+        "ja": "ここは、アムステル川に最初のダムが築かれた場所——街が生まれたところです。今立っている壮大な王宮は、泥の中に埋められた13,659本の木の杭の上に浮かぶように建っています。",
+        "zh": "这里正是阿姆斯特尔河上第一道堤坝所在之处——整座城市诞生的地方。如今矗立在此的宏伟王宫，就立在埋入泥中的13,659根木桩之上。"
+      },
+      "coords": [52.3731, 4.8926]
+    },
+    {
+      "name": { "ko": "안네 프랑크의 집", "en": "Anne Frank House", "ja": "アンネ・フランクの家", "zh": "安妮之家" },
+      "blurb": {
+        "ko": "이 운하 옆 집의 숨겨진 책장 뒤에서, 안네 프랑크라는 소녀와 가족들은 2차 세계대전 동안 몸을 숨기며 몰래 일기를 썼어요. 그 일기는 훗날 전 세계 사람들의 마음을 울렸답니다.",
+        "en": "Behind a hidden bookcase in this canal house, a girl named Anne Frank and her family hid from danger during World War II and kept a secret diary. Her words later touched readers all around the world.",
+        "ja": "この運河沿いの家で、隠された本棚の奥に、アンネ・フランクという少女とその家族は第二次世界大戦中に身をひそめ、こっそり日記を書いていました。その日記は後に世界中の人々の心を動かしました。",
+        "zh": "在这栋运河边房子里一个隐藏的书架后面，一个名叫安妮·弗兰克的女孩和家人在第二次世界大战期间躲藏起来，还悄悄写下了日记。她的文字后来打动了全世界的读者。"
+      },
+      "coords": [52.3752, 4.8840]
+    },
+    {
+      "name": { "ko": "헤렌흐라흐트 운하 (황금의 만곡)", "en": "Herengracht — the \"Golden Bend\"", "ja": "ヘーレン運河（黄金の曲がり角）", "zh": "绅士运河（黄金弯）" },
+      "blurb": {
+        "ko": "암스테르담에서 가장 웅장한 운하가 둥글게 휘어지는 이 구간에는, 황금시대에 부유한 상인들이 지은 크고 화려한 집들이 줄지어 서 있어요. 지붕 꼭대기를 올려다보면 옛날 가구를 끌어올리던 갈고리도 여전히 볼 수 있답니다.",
+        "en": "This curving stretch of Amsterdam's grandest canal is lined with the tallest, fanciest houses in the whole city, built by wealthy merchants during the Golden Age. Look up at the rooftops and you can still spot the old furniture-hoisting hooks!",
+        "ja": "アムステルダムでもっとも壮大な運河がゆるやかに曲がるこの一帯には、黄金時代に裕福な商人たちが建てた大きくきらびやかな家々が並んでいます。屋根の上を見上げれば、昔家具を吊り上げていたフックが今も見つかりますよ！",
+        "zh": "在阿姆斯特丹最壮观的这条运河转弯处，两旁排满了黄金时代富商们建造的高大华丽宅邸。抬头看看屋顶，你还能发现当年用来吊家具的老吊钩呢！"
+      },
+      "coords": [52.3654, 4.8886]
+    },
+    {
+      "name": { "ko": "하우스보트 박물관", "en": "Houseboat Museum", "ja": "ハウスボート博物館", "zh": "船屋博物馆" },
+      "blurb": {
+        "ko": "운하 위에 진짜로 떠 있는 하우스보트 안으로 들어가, 한 가족이 물 위에서 어떻게 자고 요리하며 살아가는지 직접 볼 수 있어요. 오늘날 암스테르담 운하에는 수천 척의 하우스보트가 둥둥 떠 있답니다!",
+        "en": "Step inside a real houseboat floating on the canal and see how a whole family can live, sleep, and cook right on the water. Amsterdam has thousands of houseboats bobbing along its canals today!",
+        "ja": "運河に実際に浮かぶハウスボートの中に入って、家族まるごと水の上でどうやって眠り、料理し、暮らしているのかをのぞいてみましょう。今日のアムステルダムの運河には、何千艘ものハウスボートが浮かんでいるんですよ！",
+        "zh": "走进一艘真正漂浮在运河上的船屋，看看一整家人是如何在水上睡觉、做饭、生活的。如今阿姆斯特丹的运河上，漂着数千艘这样的船屋呢！"
+      },
+      "coords": [52.3661, 4.8843]
+    }
+  ]
+}

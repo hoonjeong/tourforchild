@@ -1,0 +1,120 @@
+{
+  "id": "busan",
+  "country": "kr",
+  "coords": [35.1796, 129.0756],
+  "name": { "ko": "부산", "en": "Busan", "ja": "釜山（プサン）", "zh": "釜山" },
+  "tagline": {
+    "ko": "모든 걸 잃은 사람들이 희망으로 지어낸, 무지개빛 항구 도시",
+    "en": "Korea's rainbow port city, built with hope by people who'd lost everything",
+    "ja": "すべてを失った人々が希望で築いた、虹色の港町",
+    "zh": "由失去一切却怀抱希望的人们建成的,彩虹港口城市"
+  },
+  "story": {
+    "ko": [
+      "부산은 한국에서 가장 큰 항구 도시예요. 높은 산이 그대로 파란 바다로 굴러떨어지듯 이어지고, 세계 곳곳에서 온 배들이 매일 항구를 드나들어요. 골목마다 짭조름한 바다 냄새가 감돌고, 부산은 언제나 먼 곳에서 온 사람들을 반갑게 맞아주는 도시였답니다.",
+      "아주 오래전은 아니지만, 1950년대에 한반도에 무서운 전쟁이 일어나 나라 전체가 위험에 빠졌어요. 그런데 한반도 맨 아래쪽 끝에 자리한 부산만은 무사했답니다. 그래서 잠깐 동안 부산은 대한민국의 임시 수도가 되었고, 수많은 사람들이 안전을 찾아 이곳으로 몰려들어 도시가 발 디딜 틈 없이 북적였어요.",
+      "살 곳이 없던 사람들은 가파른 언덕에 작은 집들을 다닥다닥 짓고, 가진 물감으로 알록달록 예쁘게 칠했어요. 세월이 흐르며 그 언덕은 '감천문화마을'이 되었답니다. 계단과 골목마다 무지개색 집들과 그림이 가득한, 마치 레고 블록을 쌓아놓은 듯한 마을이에요.",
+      "오늘날 부산은 다시 활기로 넘쳐요. 자갈치 시장에서는 상인들이 싱싱한 생선을 큰 소리로 팔고, 해운대 해수욕장에서는 아이들이 모래성을 쌓고, 아시아 최대 영화제의 레드카펫에는 영화배우들이 걸어요. 포기하지 않은 사람들이 만든 도시가 오늘도 반짝반짝 빛나고 있답니다."
+    ],
+    "en": [
+      "Busan is Korea's biggest port city, where tall mountains tumble right down into a sparkling blue sea. Ships from all over the world sail in and out of its harbor every day, and the smell of the sea drifts through every street. It's a city that has always looked outward, welcoming people from faraway places.",
+      "Long ago—well, not so very long ago—in the 1950s, a terrible war broke out across Korea, and almost the whole country was in danger. But Busan, tucked safely at the very southeastern tip of the peninsula, stayed out of harm's way. So for a while, Busan became Korea's temporary capital, and millions of people fled here to be safe, packing the city to bursting.",
+      "Many of those families had nowhere to live, so they built tiny houses up a steep hillside, painting them in every color they could find. Over the years that hillside turned into Gamcheon Culture Village—a rainbow-colored maze of houses, alleyways, and murals that looks like a village stacked out of Lego blocks.",
+      "Today Busan is bursting with life again—fishmongers shout out fresh catch at Jagalchi Market, families build sandcastles on Haeundae Beach, and movie stars walk the red carpet at one of Asia's biggest film festivals. A city built by people who never gave up now sparkles brighter than ever."
+    ],
+    "ja": [
+      "釜山は韓国最大の港町です。高い山がそのまま青い海へ転がり落ちるように続き、世界中から船が毎日港を出入りします。路地には潮の香りがただよい、釜山はいつも遠くから来た人々を温かく迎えてきた街なのです。",
+      "そんなに昔ではありませんが、1950年代に朝鮮半島でおそろしい戦争が起こり、国じゅうが危険にさらされました。けれど半島のいちばん南東の端にある釜山だけは無事でした。そこでしばらくの間、釜山は韓国の臨時首都になり、たくさんの人々が安全を求めてこの街に押し寄せ、あふれるほどにぎわいました。",
+      "住む場所のなかった人々は、急な丘に小さな家をぎゅっと建て、手に入る絵の具でカラフルに塗りました。時が流れ、その丘は『甘川文化村』になりました。階段や路地に虹色の家と絵がいっぱいの、まるでレゴブロックを積み上げたような村です。",
+      "今日、釜山はふたたび活気にあふれています。チャガルチ市場では商人たちが新鮮な魚を大きな声で売り、海雲台の浜辺では子どもたちが砂のお城を作り、アジア最大級の映画祭のレッドカーペットを俳優たちが歩きます。あきらめなかった人々がつくった街は、今日もきらきら輝いています。"
+    ],
+    "zh": [
+      "釜山是韩国最大的港口城市。高高的山峦仿佛直接滚落进湛蓝的大海，世界各地的船只每天都在港口进进出出。大街小巷弥漫着咸咸的海风味道，釜山一直是一座热情迎接远方来客的城市。",
+      "并不算太久以前，20世纪50年代，朝鲜半岛爆发了一场可怕的战争，整个国家都陷入了危险之中。可是位于半岛最东南端的釜山却安然无恙。于是有一段时间，釜山成了韩国的临时首都，无数人为了寻求安全涌向这里，把城市挤得水泄不通。",
+      "那些无家可归的人们，在陡峭的山坡上一间挨一间地盖起了小房子，用手头能找到的颜料把房子涂得五颜六色。岁月流转，那片山坡变成了如今的“甘川文化村”——阶梯和小巷间满是彩虹色的房屋和壁画，就像用乐高积木搭起来的村庄。",
+      "今天的釜山又重新充满了活力。札嘎其市场里，商贩们大声吆喝着新鲜的海货；海云台海水浴场上，孩子们堆着沙堡；亚洲最大的电影节红毯上，明星们款款走过。这座由从不放弃的人们建起来的城市，如今依然闪闪发光。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "자갈치 시장은 한국에서 가장 큰 수산시장이에요. 팔딱거리는 생선을 직접 고르면, 몇 분 뒤에 바로 그 자리에서 요리되어 나온답니다.",
+      "감천문화마을은 '한국의 마추픽추'라고도 불려요. 알록달록한 집들이 계단처럼 가지런히 언덕을 채운 모습이 옛 마추픽추 유적과 닮았거든요.",
+      "한국전쟁 때 부산은 거의 3년 동안 대한민국의 임시 수도였고, 갈 곳 없는 수백만 명의 사람들을 품어주었어요.",
+      "부산에는 세계에서 하나뿐인 유엔기념공원이 있어요. 한국을 도우러 온 21개국 군인들이 이곳에 함께 잠들어 있답니다.",
+      "매년 여름 해운대 해수욕장에서는 모래 축제가 열려요. 예술가들이 집보다 커다란 조각상을 오직 모래로만 만든답니다!",
+      "남포동에서는 영화배우들이 시멘트 판에 손도장을 찍어요. 할리우드의 '명예의 거리'를 닮은 부산만의 거리랍니다."
+    ],
+    "en": [
+      "Jagalchi Market is Korea's biggest fish market—you can pick a wriggling live fish and eat it minutes later, freshly cooked right at the stall.",
+      "Gamcheon Culture Village is nicknamed 'Korea's Machu Picchu' because its rainbow houses climb the hillside in neat, stacked rows, just like the ancient ruins.",
+      "During the Korean War, Busan became the country's temporary capital for nearly three years, sheltering millions of people who had nowhere else to go.",
+      "Busan is home to the only United Nations cemetery in the world, where soldiers from 21 different countries who helped Korea are remembered together.",
+      "Every summer, Haeundae Beach hosts a sand festival where artists build giant sculptures taller than a house—all out of sand!",
+      "In Nampo-dong, movie stars press their hands into cement plaques on the sidewalk—it's Busan's own version of Hollywood's Walk of Fame."
+    ],
+    "ja": [
+      "チャガルチ市場は韓国最大の水産市場。ぴちぴち跳ねる魚を選ぶと、数分後にはその場で調理されて出てきます。",
+      "甘川文化村は『韓国のマチュピチュ』とも呼ばれます。カラフルな家々が階段のように丘にきれいに並ぶ姿が、古代遺跡マチュピチュに似ているからです。",
+      "朝鮮戦争のとき、釜山は約3年間、韓国の臨時首都となり、行き場のない数百万人の人々を受け入れました。",
+      "釜山には世界で唯一の国連記念公園があります。韓国を助けに来た21か国の兵士たちがここに一緒に眠っています。",
+      "毎年夏、海雲台の浜辺では砂の祭りが開かれます。アーティストたちが家より大きな彫刻を、砂だけで作り上げるんです！",
+      "南浦洞では映画スターたちがセメント板に手形を残します。ハリウッドの『殿堂の道』に似た、釜山だけの通りです。"
+    ],
+    "zh": [
+      "札嘎其市场是韩国最大的海鲜市场。挑一条活蹦乱跳的鱼，几分钟后就能在摊位现场吃到刚做好的料理。",
+      "甘川文化村又被称为“韩国的马丘比丘”，因为五颜六色的房屋像台阶一样整整齐齐地铺满山坡，和古代马丘比丘遗迹十分相似。",
+      "朝鲜战争期间，釜山曾担任韩国临时首都近三年，收留了数百万无处可去的人们。",
+      "釜山拥有全世界独一无二的联合国纪念公园，21个国家曾来援助韩国的军人共同长眠于此。",
+      "每年夏天，海云台海水浴场都会举办沙雕节，艺术家们只用沙子就能堆出比房子还高的雕塑！",
+      "在南浦洞，电影明星们会在水泥板上按下手印，这是釜山版的“好莱坞星光大道”。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "전쟁을 피해 온 사람들이 언덕에 무지개색 집을 지었대. 왜 그렇게 알록달록하게 칠했을지 상상이 가?",
+    "en": "People fleeing war built rainbow-colored houses on a steep hill. Can you guess why they painted them so many colors?",
+    "ja": "戦争を逃れてきた人たちが、急な丘に虹色の家を建てたんだって。どうしてそんなにカラフルに塗ったと思う？",
+    "zh": "为了躲避战争而来的人们，在陡峭的山坡上盖起了彩虹色的房子。你能猜到他们为什么把房子涂得这么五颜六色吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "감천문화마을", "en": "Gamcheon Culture Village", "ja": "甘川文化村", "zh": "甘川文化村" },
+      "blurb": {
+        "ko": "전쟁을 피해 온 사람들이 가파른 언덕에 다닥다닥 지은 마을이에요. 지금은 온 마을이 무지개색으로 칠해져, 계단마다 그림과 조각이 가득한 예술 마을이 되었답니다.",
+        "en": "A village war refugees built shoulder-to-shoulder on a steep hillside. Today every house is painted a different color, and the stairways are filled with art and sculptures.",
+        "ja": "戦争を逃れてきた人々が急な丘にぎゅっと建てた村。今では家々が虹色に塗られ、階段には絵や彫刻がいっぱいのアート村になりました。",
+        "zh": "这是躲避战争的人们在陡峭山坡上紧挨着盖起的村庄。如今整座村子都被涂成了彩虹色，阶梯间满是绘画与雕塑，成了一座艺术村。"
+      },
+      "coords": [35.0975, 129.0106]
+    },
+    {
+      "name": { "ko": "자갈치시장", "en": "Jagalchi Market", "ja": "チャガルチ市場", "zh": "札嘎其市场" },
+      "blurb": {
+        "ko": "부산에서 가장 크고 오래된 수산시장이에요. 상인들의 우렁찬 목소리와 팔딱이는 생선들 사이를 걷다 보면, 살아 숨 쉬는 부산의 진짜 모습을 만날 수 있어요.",
+        "en": "Busan's biggest, oldest fish market. Weaving through the shouting merchants and wriggling fish, you get a taste of the real, living Busan.",
+        "ja": "釜山最大かつ最古の水産市場。威勢のいい商人の声とぴちぴち跳ねる魚の間を歩けば、生きている釜山そのものに出会えます。",
+        "zh": "釜山最大、历史最悠久的海鲜市场。穿行在商贩的吆喝声与活蹦乱跳的鱼群之间，能感受到最真实、鲜活的釜山。"
+      },
+      "coords": [35.0968, 129.0305]
+    },
+    {
+      "name": { "ko": "해운대 해수욕장", "en": "Haeundae Beach", "ja": "海雲台（ヘウンデ）海水浴場", "zh": "海云台海水浴场" },
+      "blurb": {
+        "ko": "부산을 대표하는 넓고 아름다운 해변이에요. 여름이면 사람들과 거대한 모래 조각으로 가득 차, 도시가 다시 살아났다는 걸 온몸으로 느낄 수 있어요.",
+        "en": "Busan's wide, beautiful signature beach. In summer it fills with people and giant sand sculptures—proof the city is bursting with life once again.",
+        "ja": "釜山を代表する広く美しいビーチ。夏には人々と巨大な砂の彫刻でいっぱいになり、街がふたたび生き生きとしていることを肌で感じられます。",
+        "zh": "釜山最具代表性的宽阔美丽海滩。夏天这里挤满了人群和巨大的沙雕，让人真切感受到这座城市重新焕发的生机。"
+      },
+      "coords": [35.1587, 129.1604]
+    },
+    {
+      "name": { "ko": "유엔기념공원", "en": "UN Memorial Cemetery", "ja": "国連記念公園", "zh": "联合国纪念公园" },
+      "blurb": {
+        "ko": "전쟁으로 힘들었던 부산의 또 다른 모습을 보여주는 곳이에요. 한국을 도우러 먼 나라에서 온 군인들이 이곳에 잠들어 있고, 세계에서 하나뿐인 유엔군 묘지랍니다.",
+        "en": "A quieter side of Busan's wartime story. Soldiers who came from faraway countries to help Korea rest here, in the only UN cemetery of its kind in the world.",
+        "ja": "釜山の戦争にまつわるもう一つの姿を伝える場所。韓国を助けに遠い国からやって来た兵士たちがここに眠る、世界で唯一の国連軍墓地です。",
+        "zh": "这里呈现了釜山战争历史中安静的一面。从遥远国度前来援助韩国的军人们长眠于此，是世界上独一无二的联合国军人墓地。"
+      },
+      "coords": [35.1319, 129.0847]
+    }
+  ]
+}

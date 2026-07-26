@@ -1,0 +1,120 @@
+{
+  "id": "harbin",
+  "country": "cn",
+  "coords": [45.8038, 126.5349],
+  "name": { "ko": "하얼빈", "en": "Harbin", "ja": "ハルビン", "zh": "哈尔滨" },
+  "tagline": {
+    "ko": "얼음으로 지은 성이 밤마다 무지개빛으로 빛나는 얼음 도시",
+    "en": "The Ice City where whole castles of ice glow rainbow bright at night",
+    "ja": "氷でできたお城が夜ごと虹色に輝く氷の街",
+    "zh": "整座冰做的城堡夜夜闪耀彩虹光芒的冰雪之城"
+  },
+  "story": {
+    "ko": [
+      "중국의 저 멀리 북쪽 끝에는 '하얼빈'이라는 도시가 있어요. 겨울이 되면 온도가 영하 20도 아래로 뚝 떨어질 만큼 몹시 추운 곳이죠. 얼마나 추운지, 도시를 가로지르는 넓은 쑹화강도 꽁꽁 얼어붙어서 사람들이 강 위를 걸어 다닐 수 있을 정도랍니다.",
+      "그런데 하얼빈 사람들은 이 매서운 추위를 근사한 놀이로 바꿔버렸어요. 겨울마다 사람들은 꽁꽁 언 쑹화강에서 커다란 얼음덩어리를 통째로 잘라내요. 그리고 그 얼음을 차곡차곡 쌓아 올려 성, 궁전, 미끄럼틀까지 깎아 만든답니다. 1985년부터 시작된 이 '하얼빈 국제 빙설제'는 지금까지도 세계에서 가장 큰 얼음 축제로 손꼽혀요.",
+      "밤이 되면 진짜 마법이 펼쳐져요. 얼음 성 안쪽에 알록달록한 조명이 켜지면서, 도시 전체가 반짝이는 무지갯빛 나라로 변신하거든요. 아이들은 얼음으로만 만든 미끄럼틀을 타고 신나게 내려올 수도 있어요.",
+      "하얼빈에는 또 다른 비밀도 숨어 있어요. 100년도 더 전에 러시아 사람들이 만든 기찻길이 이 도시를 지나가면서, 양파 모양 지붕을 가진 성소피아 성당과 유럽풍 건물이 늘어선 중앙대가가 생겼답니다. 매서운 추위와 이국적인 멋이 함께 어우러진 하얼빈은, 한 번 보면 절대 잊을 수 없는 겨울 도시예요."
+    ],
+    "en": [
+      "Far in the northeast corner of China sits a city called Harbin. Winters here are so cold that the temperature can drop below -20°C, and the wide Songhua River that runs through town freezes rock solid—solid enough that people can walk right across it.",
+      "But the people of Harbin turned that bone-chilling cold into something wonderful. Every winter, workers cut huge blocks of ice straight out of the frozen river. Then they stack the blocks and carve them into castles, palaces, and even slides. Running since 1985, the Harbin International Ice and Snow Festival is still one of the biggest ice festivals on Earth.",
+      "When night falls, real magic happens. Colorful lights glow from inside the ice buildings, and the whole city turns into a sparkling, rainbow-colored wonderland. Kids can even zoom down slides carved entirely out of ice.",
+      "Harbin holds another secret too. Over a hundred years ago, a railway built by Russians passed through the city, leaving behind an onion-domed Saint Sophia Cathedral and Central Street, lined with European-style buildings. Between the fierce cold and this faraway charm, Harbin is a winter city you'll never forget once you've seen it."
+    ],
+    "ja": [
+      "中国のはるか北東の果てに、『ハルビン』という街があります。冬になると気温がマイナス20度より下まで下がることもあるほど寒く、街を流れる広い松花江もカチカチに凍って、その上を歩いて渡れるほどになるのです。",
+      "でも、ハルビンの人たちはこの厳しい寒さを、すてきな遊びに変えてしまいました。冬になるたび、人々は凍った松花江から大きな氷のかたまりをまるごと切り出します。そしてその氷を積み重ね、お城や宮殿、すべり台まで彫って作るのです。1985年から続くこの『ハルビン国際氷雪祭』は、今でも世界最大級の氷祭りとして知られています。",
+      "夜になると、本物の魔法が広がります。氷のお城の中に色とりどりの明かりがともり、街全体がきらめく虹色の国に変身するのです。子どもたちは氷だけでできたすべり台をすべり降りて遊ぶこともできます。",
+      "ハルビンにはもう一つの秘密が隠れています。100年以上前、ロシアの人々が作った鉄道がこの街を通り、たまねぎ型の屋根を持つ聖ソフィア大聖堂と、ヨーロッパ風の建物が並ぶ中央大街が生まれました。厳しい寒さと異国情緒が溶け合うハルビンは、一度見たら忘れられない冬の街です。"
+    ],
+    "zh": [
+      "在中国遥远的东北角,有一座叫“哈尔滨”的城市。这里的冬天冷到气温能降到零下20度以下,穿城而过的宽阔松花江也会冻得结结实实,人们甚至可以直接走在江面上。",
+      "可是哈尔滨人把这刺骨的严寒,变成了一件超酷的事。每年冬天,人们从冻住的松花江里整块整块地切出巨大的冰块,再把冰块层层叠起,雕刻成城堡、宫殿,甚至冰滑梯。从1985年延续至今的“哈尔滨国际冰雪节”,至今仍是世界上规模最大的冰雪节之一。",
+      "一到夜晚,真正的魔法就开始了。冰做的建筑里亮起五颜六色的灯光,整座城市瞬间变成一个闪闪发光的彩虹王国。孩子们甚至可以从完全用冰雕成的滑梯上飞快滑下来。",
+      "哈尔滨还藏着另一个小秘密。一百多年前,俄罗斯人修建的铁路经过这座城市,留下了洋葱顶的圣索菲亚大教堂,以及两旁满是欧式建筑的中央大街。凛冽的严寒与异国的风情交织在一起,让哈尔滨成为一座让人一见难忘的冬日之城。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "하얼빈의 겨울은 영하 20도 아래로 떨어질 만큼 추워서, 넓은 쑹화강도 꽁꽁 얼어 그 위를 걸어 다닐 수 있어요.",
+      "1985년부터 열린 '하얼빈 국제 빙설제'는 세계에서 가장 큰 얼음·눈 축제 중 하나예요.",
+      "얼음 조각가들은 얼어붙은 쑹화강에서 직접 잘라낸 얼음덩어리로 성과 궁전을 통째로 지어요.",
+      "밤이 되면 얼음 건물 안에 색색의 조명이 켜져서, 공원 전체가 반짝이는 무지갯빛으로 물들어요.",
+      "하얼빈에는 러시아 사람들이 지은 양파 지붕 성소피아 성당이 지금도 남아 있어요.",
+      "너무 추운 하얼빈에서는 뜨거운 물을 공중에 휙 뿌리면, 땅에 닿기도 전에 하얀 얼음 안개로 변해 버린답니다!"
+    ],
+    "en": [
+      "Harbin winters can drop below -20°C (-4°F)—cold enough that the wide Songhua River freezes solid enough to walk on.",
+      "The Harbin International Ice and Snow Festival has run since 1985 and is one of the biggest ice and snow festivals in the world.",
+      "Ice sculptors build entire castles and palaces out of huge blocks cut straight from the frozen Songhua River.",
+      "At night, colorful lights glow inside the ice buildings, turning the whole park into a sparkling rainbow city.",
+      "Harbin still has an onion-domed Saint Sophia Cathedral, built by Russians long ago.",
+      "It's so cold in Harbin that if you toss a cup of boiling water into the air, it turns into a puff of ice fog before it even hits the ground!"
+    ],
+    "ja": [
+      "ハルビンの冬はマイナス20度より下まで下がることもあり、広い松花江も歩いて渡れるほどカチカチに凍ります。",
+      "1985年から続く『ハルビン国際氷雪祭』は、世界最大級の氷と雪の祭りです。",
+      "氷の彫刻家たちは、凍った松花江から切り出した大きな氷のかたまりでお城や宮殿をまるごと作り上げます。",
+      "夜になると氷の建物の中に色とりどりの明かりがともり、公園全体がきらめく虹色の街に変わります。",
+      "ハルビンには、昔ロシアの人々が建てたたまねぎ屋根の聖ソフィア大聖堂が今も残っています。",
+      "ハルビンはとても寒いので、お湯を空中にパッとまくと、地面に着く前に真っ白な氷のもやになってしまうんです!"
+    ],
+    "zh": [
+      "哈尔滨的冬天能冷到零下20度以下——冷得连宽阔的松花江都能冻得结结实实,人可以直接走在上面。",
+      "从1985年延续至今的“哈尔滨国际冰雪节”,是世界上规模最大的冰雪节之一。",
+      "冰雕师傅们用从冻住的松花江里切出的巨大冰块,整块整块地建造出城堡和宫殿。",
+      "一到夜晚,冰做的建筑里就会亮起五颜六色的灯光,让整个园区变成一座闪闪发光的彩虹之城。",
+      "哈尔滨至今还保留着一座由俄罗斯人很久以前建造的洋葱顶圣索菲亚大教堂。",
+      "哈尔滨实在太冷了,把一杯热水往空中一泼,还没落地就变成了一团白色的冰雾!"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "얼음으로 진짜 성이랑 미끄럼틀을 만들 수 있다니, 상상이 가?",
+    "en": "Can you imagine building a real castle—and a slide—out of nothing but ice?",
+    "ja": "氷だけで本物のお城やすべり台が作れるなんて、想像できるかな?",
+    "zh": "用冰就能盖出真正的城堡和滑梯,你能想象吗?"
+  },
+  "places": [
+    {
+      "name": { "ko": "하얼빈 빙설대세계", "en": "Harbin Ice and Snow World", "ja": "ハルビン氷雪大世界", "zh": "哈尔滨冰雪大世界" },
+      "blurb": {
+        "ko": "쑹화강에서 잘라낸 얼음으로 지은 거대한 겨울 테마파크예요. 성도, 미끄럼틀도, 탑도 전부 얼음으로 통째로 조각했답니다. 밤이 되면 색색의 조명이 켜지면서 온 세상이 반짝이는 얼음 왕국으로 변해요.",
+        "en": "A giant winter theme park built entirely from ice cut out of the Songhua River. Castles, slides, and towers are all carved from solid ice. When night falls, colorful lights turn the whole place into a glowing ice kingdom.",
+        "ja": "松花江から切り出した氷だけで作られた、巨大な冬のテーマパークです。お城もすべり台も塔も、全部氷を彫って作られています。夜になると色とりどりの明かりがともり、あたり一面が輝く氷の王国に変わります。",
+        "zh": "一座完全用从松花江切割出的冰块建成的巨大冬季主题公园。城堡、滑梯、高塔全都是用整块冰雕刻而成。夜幕降临,五彩灯光亮起,整个园区变成一座闪闪发光的冰雪王国。"
+      },
+      "coords": [45.7671, 126.6467]
+    },
+    {
+      "name": { "ko": "성소피아 성당", "en": "Saint Sophia Cathedral", "ja": "聖ソフィア大聖堂", "zh": "圣索菲亚大教堂" },
+      "blurb": {
+        "ko": "100년도 더 전 러시아 사람들이 지은 양파 모양 지붕의 교회예요. 지금은 예배 대신 사진작가와 여행객이 모이는 하얼빈의 상징이 되었답니다. 붉은 벽돌 건물이 눈 내리는 하늘 아래 유난히 아름다워요.",
+        "en": "An onion-domed church built by Russians over a century ago. It's no longer used for services—now it's Harbin's beloved landmark where photographers and travelers gather. The red-brick building looks especially beautiful under a snowy sky.",
+        "ja": "100年以上前にロシアの人々が建てた、たまねぎ型の屋根を持つ教会です。今では礼拝の場ではなく、写真家や旅行者が集まるハルビンのシンボルになっています。赤れんがの建物は、雪の降る空の下でひときわ美しく見えます。",
+        "zh": "一座一百多年前由俄罗斯人建造的洋葱顶教堂。如今这里不再做礼拜,而是成了摄影师和游客聚集的哈尔滨地标。红砖建筑在飘雪的天空下显得格外美丽。"
+      },
+      "coords": [45.7629, 126.6350]
+    },
+    {
+      "name": { "ko": "중앙대가", "en": "Central Street (Zhongyang Dajie)", "ja": "中央大街", "zh": "中央大街" },
+      "blurb": {
+        "ko": "유럽식 건물이 줄지어 늘어선 100년도 더 된 거리예요. 돌을 촘촘히 박아 만든 바닥 위를 걸으면 마치 유럽 어느 도시에 온 것 같답니다. 길가 빵집에서는 러시아식 빵과 아이스크림을 팔아요, 영하의 날씨에도요!",
+        "en": "A century-old street lined with European-style buildings. Walking on its bumpy stone-block pavement feels like stepping into a European town. Bakeries along the street sell Russian-style bread and ice cream—even in freezing weather!",
+        "ja": "ヨーロッパ風の建物が立ち並ぶ100年以上前からの通りです。石畳を歩くと、まるでヨーロッパの街にいるような気分になります。通り沿いのパン屋では、氷点下でもロシア風のパンやアイスクリームが売られています!",
+        "zh": "一条有百年历史、两旁排满欧式建筑的街道。走在铺满石块的路面上,仿佛置身欧洲小镇。街边的面包店卖着俄式面包和冰淇淋——就算天寒地冻也照卖不误!"
+      },
+      "coords": [45.7735, 126.6212]
+    },
+    {
+      "name": { "ko": "시베리아 호랑이 공원", "en": "Siberian Tiger Park", "ja": "シベリアトラ公園", "zh": "东北虎林园" },
+      "blurb": {
+        "ko": "멸종 위기에 처한 시베리아호랑이를 보호하고 기르는 세계 최대 규모의 보호 공원이에요. 눈 덮인 넓은 공간을 성큼성큼 걸어 다니는 커다란 줄무늬 호랑이를 가까이에서 볼 수 있답니다.",
+        "en": "One of the world's largest breeding centers for endangered Siberian tigers. Here you can watch these huge striped cats prowl through wide, snow-covered enclosures up close.",
+        "ja": "絶滅の危機にあるシベリアトラを保護・繁殖させる、世界最大級の施設です。雪に覆われた広い敷地を歩き回る、大きなしま模様のトラを間近で見ることができます。",
+        "zh": "世界上最大的东北虎(西伯利亚虎)保护繁育中心之一。在这里可以近距离看到这些身形巨大的条纹猛虎,在白雪覆盖的宽阔园区里悠然踱步。"
+      },
+      "coords": [45.7454, 126.6825]
+    }
+  ]
+}

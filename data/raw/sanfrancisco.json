@@ -1,0 +1,120 @@
+{
+  "id": "sanfrancisco",
+  "country": "us",
+  "coords": [37.7749, -122.4194],
+  "name": { "ko": "샌프란시스코", "en": "San Francisco", "ja": "サンフランシスコ", "zh": "旧金山" },
+  "tagline": {
+    "ko": "황금을 찾다 하룻밤에 커진 도시, 안개 속에 다리가 우뚝 선 곳",
+    "en": "The city gold rush built overnight, where a bridge stands tall in the fog",
+    "ja": "金を求めて一夜で大きくなった街、霧の中に橋がそびえる場所",
+    "zh": "因淘金一夜暴涨的城市，大桥在雾中巍然矗立"
+  },
+  "story": {
+    "ko": [
+      "170년도 더 전, 샌프란시스코는 배 몇 척만 드나드는 조용한 바닷가 마을이었어요. 그런데 1848년, 근처 강에서 반짝이는 '금'이 발견됐다는 소문이 퍼지자 모든 게 달라졌어요. 전 세계에서 사람들이 배를 타고 몰려들었고, 마을은 순식간에 사람으로 북적이는 도시가 되었답니다. 얼마나 급했던지, 선원들이 배를 통째로 버려두고 금을 찾으러 뛰어갔을 정도였대요!",
+      "그렇게 커진 도시에 1906년, 커다란 지진이 덮쳤어요. 땅이 흔들리고 이어서 큰불까지 나서, 도시의 많은 건물이 무너지고 타버렸죠. 하지만 사람들은 포기하지 않았어요. 폐허 위에 다시 벽돌을 쌓고, 길을 닦아, 샌프란시스코를 처음보다 더 멋진 도시로 다시 일으켜 세웠답니다.",
+      "그리고 1930년대, 사람들은 아무도 못 할 거라던 일에 도전했어요. 바닷바람이 세고 안개까지 자욱한 '골든게이트' 해협에 커다란 다리를 놓기로 한 거예요. 배와 비행기 조종사들 눈에 잘 띄도록 다리를 온통 주황빛으로 칠했는데, 그 색은 지금도 안개 속에서 반짝반짝 빛난답니다.",
+      "오늘날 샌프란시스코에 가면, 가파른 언덕을 케이블카가 '땡땡' 종을 울리며 오르내리고, 부둣가에는 물개들이 볕을 쬐며 시끄럽게 짖어대요. 안개는 마치 살아있는 친구처럼 도시를 감쌌다 걷혔다 하죠. 금을 찾아 시작된 이 도시는, 지금은 세상에서 가장 독특하고 사랑스러운 도시 중 하나가 되었어요."
+    ],
+    "en": [
+      "Over 170 years ago, San Francisco was just a quiet little town by the bay with a few ships coming and going. Then in 1848, word spread that shiny gold had been found in a nearby river, and everything changed overnight. People rushed in by ship from all over the world, and the sleepy town exploded into a bustling city. Sailors were in such a hurry to go find gold that some abandoned their ships right there in the harbor!",
+      "In 1906, a huge earthquake shook that growing city. The ground trembled, and then a massive fire broke out, tearing through building after building. But the people didn't give up. They cleared the rubble, laid new bricks, and rebuilt San Francisco even grander than before.",
+      "Then, in the 1930s, people decided to try something everyone said was impossible: building a giant bridge across the windy, foggy strait called the Golden Gate. They painted it a bold orange color so ships and pilots could spot it through the mist, and that same color still glows through the fog today.",
+      "Visit San Francisco now, and you'll hear cable cars clanging their bells up and down the steep hills, and sea lions barking away as they sunbathe on the docks. The fog rolls in and out of the city like a mischievous friend. A city that began with a hunt for gold has become one of the most one-of-a-kind, lovable places on Earth."
+    ],
+    "ja": [
+      "170年以上前、サンフランシスコは船が数隻行き来するだけの静かな港町でした。ところが1848年、近くの川で光る『金』が見つかったという噂が広まると、すべてが変わりました。世界中から人々が船で押し寄せ、静かな町はあっという間ににぎやかな都市になったのです。あまりに急いでいたのか、船員たちは船をそのまま放り出して金を探しに走ったといいます！",
+      "そんな大きくなった街を1906年、大きな地震がおそいました。地面がゆれ、続いて大きな火事も起こり、街の建物の多くがくずれ、焼けてしまいました。それでも人々はあきらめませんでした。がれきをかたづけ、新しいれんがを積み、サンフランシスコを前よりも立派な街として立て直したのです。",
+      "そして1930年代、人々は誰もが無理だと言ったことに挑戦しました。風が強く霧も深い『ゴールデンゲート』海峡に、大きな橋をかけることにしたのです。船や飛行機の操縦士から見えやすいよう、橋をまるごとあざやかなオレンジ色にぬりました。その色は今も霧の中できらきら輝いています。",
+      "今、サンフランシスコに行くと、急な坂道をケーブルカーがベルを鳴らしながら上り下りし、埠頭ではアシカたちが日なたぼっこしながらにぎやかに鳴いています。霧はまるで生きた友だちのように、街を包んだり晴らしたりします。金を求めて始まったこの街は、今では世界でいちばんユニークで愛される街のひとつになりました。"
+    ],
+    "zh": [
+      "170多年前，旧金山还只是海湾边一个安静的小镇，只有几艘船进进出出。可是到了1848年，附近的河里发现了闪闪发光的“黄金”，消息一传开，一切都变了样。世界各地的人们乘船蜂拥而至，这座沉睡的小镇一下子变成了热闹的城市。有些水手急着去找金子，甚至把船直接丢在港口就跑了！",
+      "1906年，一场大地震袭击了这座已经壮大起来的城市。大地摇晃，紧接着又发生了一场大火，把许多建筑物震塌、烧毁。但人们没有放弃。他们清理废墟，重新砌砖铺路，把旧金山重建得比以前更加壮丽。",
+      "到了20世纪30年代，人们决定挑战一件所有人都说不可能的事：在风大雾浓的“金门”海峡上架起一座巨桥。为了让船只和飞行员在浓雾中也能看清，他们把整座桥漆成醒目的橙色，这抹颜色至今仍在雾中闪闪发亮。",
+      "如今来到旧金山，你会听到缆车叮叮当当地爬上陡峭的山坡，码头上的海狮一边晒太阳一边大声吼叫。雾气像一个调皮的朋友，时而笼罩城市，时而悄悄散去。这座因寻找黄金而诞生的城市，如今已成为世界上最独特、最惹人喜爱的城市之一。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "1848년 금이 발견되자 1년도 안 돼 인구가 약 1000명에서 2만 5000명으로 폭발적으로 늘었어요.",
+      "1906년 지진과 큰불로 도시 건물의 상당수가 무너지고 탔지만, 사람들은 도시를 다시 멋지게 일으켜 세웠어요.",
+      "골든게이트 다리는 안개 속에서 잘 보이라고 '인터내셔널 오렌지'라는 특별한 주황색으로 칠했어요.",
+      "샌프란시스코 케이블카는 지금도 달리는 몇 안 되는 '움직이는 국가유산'이에요. 땅속 케이블을 붙잡고 언덕을 오르내리죠.",
+      "1989년 어느 날, 바다사자들이 갑자기 39번 부두에 몰려와 눌러앉았어요. 지금도 그 자리를 지키며 살고 있답니다.",
+      "롬바드 스트리트는 짧은 구간에 급커브가 8번이나 있어 '세상에서 가장 구불구불한 길'로 불려요."
+    ],
+    "en": [
+      "After gold was found in 1848, the population exploded from about 1,000 to 25,000 in less than a year.",
+      "The 1906 earthquake and fire destroyed a huge number of the city's buildings, but people rebuilt it to be even grander.",
+      "The Golden Gate Bridge is painted a special color called 'International Orange' so it's easy to spot through the fog.",
+      "San Francisco's cable cars are one of the few 'moving' National Historic Landmarks—they grip an underground cable to climb the hills.",
+      "One day in 1989, a group of sea lions suddenly showed up at Pier 39 and decided to stay. They still live there today!",
+      "Lombard Street has 8 sharp hairpin turns packed into one short block, earning it the nickname 'the crookedest street in the world.'"
+    ],
+    "ja": [
+      "1848年に金が見つかると、1年もたたずに人口が約1000人から2万5000人に急増しました。",
+      "1906年の地震と大火で街の建物の多くが崩れ、焼けましたが、人々はもっと立派な街として作り直しました。",
+      "ゴールデンゲート・ブリッジは霧の中でも見つけやすいよう、『インターナショナル・オレンジ』という特別な色にぬられています。",
+      "サンフランシスコのケーブルカーは、今も走る数少ない『動く国定歴史建造物』。地下のケーブルをつかんで坂を上り下りします。",
+      "1989年のある日、アシカの群れが突然39番埠頭にやってきて、そのまま住みつきました。今もそこで暮らしています！",
+      "ロンバード・ストリートは短い区間に急カーブが8つもあり、『世界一曲がりくねった道』と呼ばれています。"
+    ],
+    "zh": [
+      "1848年发现黄金后，人口在不到一年内从约1000人暴增到2.5万人。",
+      "1906年的地震和大火摧毁了城市里的大量建筑，但人们把它重建得更加壮丽。",
+      "金门大桥被漆成一种叫“国际橘”的特别颜色，好让人在浓雾中也能一眼看清它。",
+      "旧金山的缆车是如今仍在运行的少数“会动的国家历史地标”之一，靠抓住地下缆绳爬坡下坡。",
+      "1989年的某一天，一群海狮突然跑到39号码头，就此赖着不走了，如今它们依然住在那里！",
+      "伦巴德街在很短的一段路里有8个急转弯，因此被称为“世界上最弯曲的街道”。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "다리를 안개 속에서도 잘 보이라고 주황색으로 칠했대. 너라면 무슨 색으로 칠했을 것 같아?",
+    "en": "They painted the bridge orange so it could be seen through the fog. What color would you have picked?",
+    "ja": "霧の中でもよく見えるように橋をオレンジ色にぬったんだって。きみなら何色にぬる？",
+    "zh": "他们把大桥漆成橙色，好让它在雾中也能看得清楚。如果是你，会选什么颜色呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "골든게이트 다리", "en": "Golden Gate Bridge", "ja": "ゴールデンゲート・ブリッジ", "zh": "金门大桥" },
+      "blurb": {
+        "ko": "안개 낀 해협 위에 놓인, 한때 '불가능하다'던 다리예요. 온몸이 주황빛인데, 그 색 덕분에 안개 속에서도 배와 비행기가 다리를 잘 알아볼 수 있답니다.",
+        "en": "Once called 'impossible,' this bridge spans a foggy strait. It's painted bold orange so ships and planes can spot it even through the mist.",
+        "ja": "かつて『不可能』と言われた、霧の海峡にかかる橋。あざやかなオレンジ色のおかげで、霧の中でも船や飛行機からよく見えます。",
+        "zh": "这座曾被认为“不可能建成”的大桥横跨雾气弥漫的海峡。它被漆成醒目的橙色，好让船只和飞机在雾中也能一眼看清。"
+      },
+      "coords": [37.8199, -122.4783]
+    },
+    {
+      "name": { "ko": "알카트라즈 섬", "en": "Alcatraz Island", "ja": "アルカトラズ島", "zh": "恶魔岛" },
+      "blurb": {
+        "ko": "차갑고 거센 물살에 둘러싸인 작은 섬 감옥이었어요. 너무 튼튼해서 탈출은 거의 불가능했다고 하는데, 지금은 새들이 둥지를 트는 조용한 공원이 되었답니다.",
+        "en": "A tiny island prison surrounded by cold, swirling currents. It was said to be nearly impossible to escape from, and today it's a quiet park where seabirds nest.",
+        "ja": "冷たく渦巻く流れに囲まれた小さな島の刑務所。脱出はほぼ不可能と言われましたが、今では海鳥が巣を作る静かな公園になっています。",
+        "zh": "这座小岛监狱四周环绕着又冷又急的水流，据说几乎不可能逃脱。如今它已变成一座安静的公园，成为海鸟筑巢的地方。"
+      },
+      "coords": [37.8267, -122.4230]
+    },
+    {
+      "name": { "ko": "롬바드 스트리트", "en": "Lombard Street", "ja": "ロンバード・ストリート", "zh": "伦巴德街" },
+      "blurb": {
+        "ko": "언덕이 너무 가팔라서 차가 다니기 편하도록 급커브 8개를 만든 길이에요. 알록달록한 꽃밭 사이로 지그재그 내려가는 차들을 보면 절로 웃음이 난답니다.",
+        "en": "The hill was so steep that engineers added 8 zigzag turns to make it easier for cars to drive down. Watching cars wiggle through the flower beds always brings a smile.",
+        "ja": "坂があまりに急なので、車が走りやすいように8つの急カーブが作られた道。花壇の間をジグザグに下る車を見ると、思わず笑ってしまいます。",
+        "zh": "由于坡度太陡，工程师们修建了8个之字形急转弯，方便汽车行驶。看着汽车在花丛间蜿蜒而下，总会让人忍不住微笑。"
+      },
+      "coords": [37.8021, -122.4187]
+    },
+    {
+      "name": { "ko": "39번 부두 (바다사자)", "en": "Pier 39 (Sea Lions)", "ja": "39番埠頭（アシカ）", "zh": "39号码头（海狮）" },
+      "blurb": {
+        "ko": "1989년부터 바다사자 떼가 몰려와 자리를 잡은 부둣가예요. 나무 판자 위에서 서로 자리다툼을 하며 시끄럽게 짖는 모습이 언제 봐도 재미있답니다.",
+        "en": "A dock where sea lions have been crowding in and barking since 1989. Watching them squabble over sunny spots on the wooden platforms never gets old.",
+        "ja": "1989年からアシカの群れが集まってきた埠頭。木の台の上で場所を取り合い、にぎやかに鳴く姿はいつ見ても楽しいです。",
+        "zh": "自1989年起，海狮们就聚集在这个码头上安家。看它们在木板上争抢地盘、大声吼叫，怎么看都觉得有趣。"
+      },
+      "coords": [37.8087, -122.4098]
+    }
+  ]
+}

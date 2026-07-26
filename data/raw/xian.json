@@ -1,0 +1,120 @@
+{
+  "id": "xian",
+  "country": "cn",
+  "coords": [34.2658, 108.9541],
+  "name": { "ko": "시안", "en": "Xi'an", "ja": "西安（シーアン）", "zh": "西安" },
+  "tagline": {
+    "ko": "2000년 동안 땅속에서 황제를 지켜온 8000명의 흙 병사, 그 비밀의 도시",
+    "en": "The ancient capital where a secret army of 8,000 clay soldiers has stood guard for 2,000 years",
+    "ja": "2000年間、地下で皇帝を守り続けた8000人の土の兵士たちの秘密の都",
+    "zh": "两千年来一直在地下守护皇帝的八千陶俑，藏着秘密的古都"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 '시안'은 '장안'이라는 이름으로 불렸어요. 장안은 실크로드가 시작되는 곳이었죠. 비단과 차, 향신료를 잔뜩 실은 낙타 행렬이 여기서 출발해 수천 킬로미터 떨어진 로마까지 걸어갔답니다. 열 개가 넘는 왕조가 이곳을 수도로 삼았고, 장안은 세상에서 가장 크고 북적이는 도시 중 하나였어요.",
+      "그보다 더 오래전, 중국을 처음으로 하나로 합친 소년 황제가 있었어요. 바로 '진시황'이에요. 그런데 진시황은 죽는 게 너무 무서웠어요. 그래서 정말 놀라운 명령을 내렸답니다. 자신의 무덤을 영원히 지켜줄, 흙으로 만든 군대를 만들라고요! 실제 사람 크기의 병사와 말, 전차 수천 개를 얼굴도 머리 모양도 갑옷도 하나하나 다르게 빚었어요.",
+      "이 흙 병사들은 2000년이 넘도록 아무도 모르게 땅속에 숨어 있었어요. 그러다 1974년, 시안 근처 마른 밭에서 농부들이 우물을 파다가 삽에 딱딱한 게 걸렸어요. 깨진 도자기 조각이었죠. 농부들은 자기도 모르게 숨겨진 군대를 발견한 거예요! 고고학자들이 조심스럽게 파보니, 2000년 전 그대로의 자리에 병사들이 줄지어 서 있었답니다.",
+      "오늘날 그 자리에 가면, 표정이 다 다른 흙 병사 수천 명이 어깨를 나란히 하고 서서 여전히 황제를 지키는 모습을 볼 수 있어요. 그리고 시안을 둘러싼 거대한 옛 성벽도 지금까지 그대로 남아 있어서, 자전거를 빌려 성벽 위를 한 바퀴 빙 돌 수도 있답니다!"
+    ],
+    "en": [
+      "Long, long ago, the city we now call Xi'an was known as Chang'an, and it was the starting point of the Silk Road. Camel caravans loaded with silk, tea, and spices set off from here on a journey of thousands of kilometers, all the way to distant Rome. More than a dozen dynasties made this city their capital, and Chang'an became one of the biggest, busiest cities on Earth.",
+      "Even earlier than that, there was a boy emperor who united China into one country for the very first time: Qin Shi Huang. But Qin Shi Huang was terrified of dying, so he gave an incredible order. He commanded that an entire army made of clay be built to guard his tomb forever! Thousands of life-sized soldiers, horses, and chariots were shaped, each one with its own face, hairstyle, and armor.",
+      "This clay army lay hidden underground, completely unknown, for more than 2,000 years. Then, in 1974, some farmers were digging a well in a dry field near Xi'an when their shovels struck something hard—broken pieces of pottery. Without meaning to, they had discovered the buried army! Archaeologists dug carefully and found row after row of soldiers, still standing exactly where they'd been placed 2,000 years before.",
+      "Today, if you go there, you can see thousands of these clay soldiers, every face different, standing shoulder to shoulder—still guarding an emperor who has been gone for over two thousand years. And the massive ancient wall that once circled the whole city still stands today, too. You can even rent a bike and ride all the way around the top of it!"
+    ],
+    "ja": [
+      "はるか昔、今の『西安（シーアン）』は『長安』と呼ばれていました。長安はシルクロードが始まる場所でした。絹やお茶、香辛料をたっぷり積んだラクダの行列がここから出発し、何千キロも離れたローマまで歩いていったのです。十以上の王朝がここを都とし、長安は世界でも指折りの大きくにぎやかな都市でした。",
+      "それよりもっと昔、中国を初めて一つにまとめた少年皇帝がいました。『秦の始皇帝』です。でも始皇帝は死ぬのがとてもこわかったので、驚くべき命令を出しました。自分のお墓を永遠に守らせるため、土でできた軍隊を作れというのです！実物大の兵士や馬、戦車を何千体も、顔も髪型もよろいも一つひとつ違うように作らせました。",
+      "この土の兵士たちは2000年以上、だれにも知られず地下に眠っていました。ところが1974年、西安の近くの乾いた畑で、農民たちが井戸をほっていると、シャベルにかたいものが当たりました。割れた陶器のかけらでした。農民たちは知らないうちに、かくされた軍隊を見つけていたのです！考古学者たちが慎重にほり進めると、2000年前そのままの場所に、兵士たちがずらりと並んでいました。",
+      "今その場所に行くと、表情の違う土の兵士たちが何千体も肩を並べて立ち、今も皇帝を守り続けている姿を見ることができます。そして西安を取り囲む巨大な古い城壁も今なお残っていて、自転車を借りて城壁の上をぐるりと一周することもできるんですよ！"
+    ],
+    "zh": [
+      "很久很久以前，今天的西安曾叫“长安”。长安是丝绸之路的起点——满载丝绸、茶叶和香料的骆驼商队从这里出发，走上几千公里的路程，一直走到遥远的罗马。十几个朝代都曾在这里建都，长安曾是世界上最大、最热闹的城市之一。",
+      "更早以前，有一位少年皇帝第一次把中国统一成了一个国家，他就是秦始皇。可是秦始皇非常害怕死亡，于是下达了一道惊人的命令：造一支用泥土做成的军队，永远守护他的陵墓！工匠们做出了成千上万个真人大小的士兵、战马和战车，每一个的脸庞、发型、盔甲都各不相同。",
+      "这支泥土军队就这样默默沉睡了两千多年，没有人知道它的存在。直到1974年，几位农民在西安附近的一片旱地里打井，铁锹忽然碰到了硬东西——原来是几片破碎的陶片。他们无意间发现了这支埋藏的军队！考古学家小心翼翼地挖掘，发现士兵们仍然按照两千年前的样子，整整齐齐地站在原地。",
+      "今天，你走进那片遗址，就能看到成千上万个表情各异的陶俑肩并肩站立，仿佛仍在守护那位早已离世两千多年的皇帝。而环绕西安的巨大古城墙，至今依然完整地矗立在城市四周——你甚至可以租一辆自行车，沿着城墙顶部骑上整整一圈！"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "병마용(흙 병사 군대)은 8000명이 넘는데, 얼굴이 똑같은 병사가 단 한 명도 없대요.",
+      "1974년, 농부들이 우물을 파다가 우연히 발견했어요. 완전히 우연한 발견이었죠!",
+      "원래는 화려한 색으로 칠해져 있었는데, 2000년 만에 땅 밖 공기를 만나자 몇 분 만에 색이 대부분 바래버렸대요.",
+      "시안 성벽은 세계에서 가장 크고 잘 보존된 옛 성벽 중 하나예요. 둘레가 약 14킬로미터나 되고, 위쪽 폭이 넓어서 자동차도 지나갈 수 있어요.",
+      "시안은 유명한 실크로드가 시작되는 곳이었어요. 낙타 행렬이 여기서 출발해 6000킬로미터가 넘는 길을 걸어 유럽까지 갔답니다.",
+      "대안탑은 승려 현장이 17년 동안 인도를 다녀오며 가져온 불경을 보관하려고 지은 탑이에요. 이 실제 여행이 훗날 유명한 이야기 '서유기'의 바탕이 되었대요."
+    ],
+    "en": [
+      "The Terracotta Army has more than 8,000 soldiers, and no two faces are exactly alike.",
+      "It was found completely by accident in 1974, when farmers digging a well hit ancient pottery.",
+      "The soldiers were originally painted in bright colors, but most of the paint faded away within minutes of meeting fresh air after 2,000 years underground.",
+      "Xi'an's city wall is one of the largest and best-preserved ancient walls in the world—about 14 kilometers around, and wide enough on top to drive a car.",
+      "Xi'an was the starting point of the famous Silk Road, where camel caravans set off on journeys of over 6,000 kilometers to reach Europe.",
+      "The Big Wild Goose Pagoda was built to store scriptures a monk named Xuanzang carried home from a 17-year journey to India—the same trip that inspired the famous tale 'Journey to the West.'"
+    ],
+    "ja": [
+      "兵馬俑（土の兵士の軍隊）は8000体以上あり、同じ顔の兵士は一人もいないそうです。",
+      "1974年、農民たちが井戸をほっていて偶然発見しました。まったくの偶然の発見だったんです！",
+      "もともとは色あざやかに塗られていましたが、2000年ぶりに外の空気にふれると、数分で色のほとんどが消えてしまったそうです。",
+      "西安の城壁は世界でも最大級・最も保存状態のよい古い城壁の一つ。周囲は約14キロメートルもあり、上の道は車も走れるほど広いんです。",
+      "西安は有名なシルクロードが始まる場所でした。ラクダの行列がここから出発し、6000キロメートル以上の道のりを歩いてヨーロッパまで行ったそうです。",
+      "大雁塔は、僧侶の玄奘（げんじょう）が17年かけてインドから持ち帰ったお経を保管するために建てられました。この実際の旅が、後に有名な物語『西遊記』のもとになったそうです。"
+    ],
+    "zh": [
+      "兵马俑一共有八千多个，据说没有两张脸是完全一样的。",
+      "1974年，几位农民打井时无意中挖到了它们——完全是一次意外的发现！",
+      "兵马俑原本被涂成鲜艳的颜色，但埋藏两千年后一接触到外面的空气，颜色在几分钟内就大部分褪去了。",
+      "西安城墙是世界上规模最大、保存最完整的古城墙之一，周长约14公里，墙顶宽得连汽车都能开上去。",
+      "西安是著名丝绸之路的起点，骆驼商队从这里出发，要走六千多公里才能到达欧洲。",
+      "大雁塔是为存放高僧玄奘历时17年从印度取回的佛经而建的，他的真实旅程后来成了中国著名故事《西游记》的原型。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "흙으로 빚은 병사 8000명이 2000년 동안 땅속에서 황제를 지켰대. 그런데 얼굴이 다 다르다니, 어떤 병사가 대장이었을까?",
+    "en": "8,000 clay soldiers guarded an emperor underground for 2,000 years, and every single one has a different face. Which one do you think was the general?",
+    "ja": "土でできた8000人の兵士が、2000年間も地下で皇帝を守っていたんだって。しかも顔がみんな違うなんて、どの兵士が大将だったのかな？",
+    "zh": "八千个泥土做的士兵，在地下守护皇帝长达两千年——而且每张脸都不一样，你猜哪一个是将军呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "병마용 박물관", "en": "Terracotta Army Museum", "ja": "兵馬俑博物館", "zh": "秦始皇兵马俑博物馆" },
+      "blurb": {
+        "ko": "흙 병사 군대가 처음 발견된 곳이에요. 커다란 발굴 구덩이 안에 들어서면, 2000년 전 그대로 대열을 맞춰 서 있는 수천 명의 병사를 볼 수 있답니다.",
+        "en": "This is where the buried army was first found. Step inside the giant excavation pits and you'll see thousands of soldiers still lined up in formation, exactly as they were 2,000 years ago.",
+        "ja": "土の兵士の軍隊が最初に発見された場所です。大きな発掘こう（穴）の中に入ると、2000年前そのままの隊列で並ぶ何千体もの兵士を見ることができます。",
+        "zh": "这里是兵马俑最早被发现的地方。走进巨大的发掘坑，你能看到成千上万名士兵仍按两千年前的队形整齐排列。"
+      },
+      "coords": [34.3841, 109.2785]
+    },
+    {
+      "name": { "ko": "시안 성벽", "en": "Xi'an City Wall", "ja": "西安城壁", "zh": "西安城墙" },
+      "blurb": {
+        "ko": "600년도 더 된, 중국에서 가장 오래되고 온전하게 남은 성벽 중 하나예요. 자전거를 빌려서 성벽 꼭대기를 따라 한 바퀴 쭉 달려볼 수 있어요.",
+        "en": "Built over 600 years ago, this is one of China's oldest and most complete city walls. You can rent a bike and pedal all the way around the top of it.",
+        "ja": "600年以上前に造られた、中国で最も古く、最も完全な形で残る城壁の一つです。自転車を借りて、城壁の上をぐるっと一周走ることができます。",
+        "zh": "这是一段建于600多年前、中国现存最古老、最完整的古城墙之一。你可以租一辆自行车，沿着墙顶骑行一整圈。"
+      },
+      "coords": [34.2531, 108.9426]
+    },
+    {
+      "name": { "ko": "대안탑", "en": "Big Wild Goose Pagoda", "ja": "大雁塔", "zh": "大雁塔" },
+      "blurb": {
+        "ko": "승려 현장이 인도에서 가져온 불경을 보관하려고 지은 높은 벽돌탑이에요. 그의 진짜 여행 이야기가 훗날 중국의 유명한 모험 이야기의 바탕이 되었답니다.",
+        "en": "A tall brick pagoda built to hold Buddhist scriptures a monk named Xuanzang brought back from India. His real journey later inspired one of China's most famous adventure tales.",
+        "ja": "僧侶の玄奘がインドから持ち帰ったお経を保管するために建てられた高いレンガの塔です。彼の本当の旅が、後に中国の有名な冒険物語のもとになりました。",
+        "zh": "这座高高的砖塔，是为存放高僧玄奘从印度带回的佛经而建的。他真实的取经之旅，后来成了中国著名冒险故事的灵感来源。"
+      },
+      "coords": [34.2183, 108.9642]
+    },
+    {
+      "name": { "ko": "종루", "en": "Bell Tower", "ja": "鐘楼", "zh": "钟楼" },
+      "blurb": {
+        "ko": "시안의 한가운데 서 있는 아름다운 탑이에요. 예전엔 이 탑의 커다란 종이 매일 아침 시간을 알렸대요. 위에 올라가면 성벽이 빙 둘러싼 도시 전체가 한눈에 보인답니다.",
+        "en": "A beautiful tower standing right at the center of Xi'an. Its huge bell once rang out the time every morning. Climb to the top and you can see the whole city, ringed by its ancient wall.",
+        "ja": "西安のまん中に立つ美しい塔です。昔はこの塔の大きな鐘が毎朝時刻を知らせていました。上に登ると、城壁に囲まれた街全体を見わたせます。",
+        "zh": "这座美丽的塔楼矗立在西安正中心。从前，塔上的大钟每天清晨都会敲响报时。爬上塔顶，就能看到被古城墙环绕的整座城市。"
+      },
+      "coords": [34.2658, 108.9541]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "rome",
+  "country": "it",
+  "coords": [41.9028, 12.4964],
+  "name": { "ko": "로마", "en": "Rome", "ja": "ローマ", "zh": "罗马" },
+  "tagline": {
+    "ko": "늑대가 키운 쌍둥이가 세운 '영원한 도시', 2000년이 지나도 여전히 살아있어요",
+    "en": "The Eternal City a legendary wolf-raised twin built—still buzzing 2,000 years later",
+    "ja": "オオカミが育てた双子が築いた『永遠の都』、2000年たっても元気いっぱい",
+    "zh": "由狼养大的双胞胎建立的“永恒之城”，两千年过去依然生机勃勃"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 전설에 따르면 강가에 버려진 쌍둥이 아기 로물루스와 레무스를 늑대 엄마가 발견해 자기 새끼처럼 키웠대요! 쌍둥이가 자라자 로물루스는 강가의 일곱 언덕 중 하나에 도시를 세우기로 했어요. 그리고 자기 이름을 따서 '로마'라고 불렀답니다. 지금으로부터 약 2700년 전 일이에요.",
+      "로마는 점점 커지더니, 마침내 세 대륙에 걸친 거대한 제국을 다스리게 됐어요. 춥디추운 영국부터 뜨거운 이집트까지 뻗어 나갔죠. 로마 사람들은 아주 넓고 튼튼한 길을 만들어서, 지금도 '모든 길은 로마로 통한다'는 말이 남아 있어요. 심지어 화산재를 섞어 만든 초강력 콘크리트로 거대한 돔과 다리를 세워, 수천 년이 지나도 끄떡없게 만들었답니다.",
+      "도시 한가운데에는 콜로세움이라는 거대한 돌 경기장이 있었어요. 최대 5만 명이 모여 검투사 경기와 전차 경주를 응원했고, 심지어 경기장에 진짜 물을 채워 미니 배로 모의 해전을 벌이기도 했대요! 경기장 바닥 아래에는 통로와 승강기가 미로처럼 숨어 있어서, 배우와 동물들이 관중 앞에 짠! 하고 나타나곤 했답니다.",
+      "제국은 흥하고 망하기 마련이지만, 로마는 완전히 사라진 적이 없어요. 오늘날에도 젤라또를 사러 가는 길에 2000년 된 유적을 지나칠 수 있고, 트레비 분수에 동전을 던지며 소원을 빌 수도 있죠. 그래서 사람들은 로마를 '영원한 도시'라고 부른답니다. 층층이 쌓인 역사가 지금도 계속 살아 숨 쉬고 있으니까요."
+    ],
+    "en": [
+      "Long, long ago, legend says two baby twins, Romulus and Remus, were left all alone by a river. A mother wolf found them and raised them like her own cubs! When the twins grew up, Romulus decided to build a city on one of seven hills by the river. He named it after himself—Rome—and that was around 2,700 years ago.",
+      "Rome grew and grew, until it ruled an enormous empire stretching across three continents—from chilly Britain all the way to sunny Egypt. Roman engineers built roads so wide and sturdy that people still say, 'All roads lead to Rome.' They even invented a super-strong concrete, mixed with volcanic ash, that could hold up giant domes and bridges for thousands of years.",
+      "In the middle of the city stood the Colosseum, a colossal stone stadium where up to 50,000 people cheered for gladiators, chariot races, and even pretend sea battles—yes, they flooded the arena with real water and sailed in tiny ships! Beneath the arena floor, a maze of tunnels and elevators hid actors and animals, popping them up right in front of the roaring crowd.",
+      "Empires rise and empires fall, but Rome never really disappeared. Today you can stroll past 2,000-year-old ruins on your way to buy gelato, then toss a coin into the splashing Trevi Fountain and make a wish. That's why people call Rome 'the Eternal City'—it just keeps living on, layer after layer, story after story."
+    ],
+    "ja": [
+      "はるか昔、伝説によると、川辺に置き去りにされた双子の赤ちゃん、ロムルスとレムスを母オオカミが見つけ、自分の子どものように育てたそうです！双子が大きくなると、ロムルスは川沿いの七つの丘のひとつに街を築くことにしました。そして自分の名前にちなんで『ローマ』と名づけたのです。今からおよそ2700年前のことでした。",
+      "ローマはどんどん大きくなり、ついには三つの大陸にまたがる巨大な帝国を治めるまでになりました。寒いブリテン島から暑いエジプトまで広がっていたのです。ローマ人は広くて丈夫な道をたくさん作ったので、今でも『すべての道はローマに通ず』ということわざが残っています。火山灰を混ぜた超がんばりやのコンクリートまで発明し、巨大なドームや橋を何千年も持たせる技術も持っていました。",
+      "街の真ん中には、コロッセオという巨大な石の競技場がありました。最大5万人もの観客が集まり、剣闘士の戦いや戦車競走に熱狂し、なんと競技場に本物の水を入れてミニチュアの船で模擬海戦まで行ったそうです！床の下には迷路のような通路や昇降機が隠されていて、俳優や動物たちが観客の目の前にぱっと現れる仕掛けになっていました。",
+      "帝国は栄えたり滅んだりするものですが、ローマは完全に消えたことは一度もありません。今日でも、ジェラートを買いに行く途中で2000年前の遺跡の横を通り過ぎたり、トレビの泉にコインを投げて願い事をしたりできます。だからこそ、人々はローマを『永遠の都』と呼ぶのです。何層にも重なった歴史が、今もずっと生き続けているのですね。"
+    ],
+    "zh": [
+      "很久很久以前，传说有一对双胞胎婴儿罗慕路斯和雷穆斯被遗弃在河边，一只母狼发现了他们，把他们当成自己的孩子一样养大！双胞胎长大后，罗慕路斯决定在河边七座山丘的其中一座上建立一座城市。他用自己的名字给这座城市命名，叫作“罗马”。这大约是2700年前的事了。",
+      "罗马越来越强大，最终统治了横跨三大洲的庞大帝国——从寒冷的不列颠一直延伸到炎热的埃及。罗马人修建了又宽又结实的道路，直到今天人们还说“条条大路通罗马”。他们甚至发明了一种掺入火山灰的超强混凝土，用来建造能撑上几千年的巨大穹顶和桥梁。",
+      "城市中央矗立着一座巨大的石头竞技场——罗马斗兽场。最多五万名观众曾聚在这里，为角斗士的搏斗和战车比赛欢呼呐喊，他们甚至往竞技场里灌满真水，用小船上演模拟海战！竞技场地板下藏着迷宫般的通道和升降装置，演员和动物能像变魔术一样，突然出现在观众眼前。",
+      "帝国有兴有衰，但罗马从未真正消失。今天，你可以在去买意式冰淇淋的路上，路过两千年前的古迹，还能在特雷维喷泉投一枚硬币许愿。这就是为什么人们把罗马称为“永恒之城”——一层又一层的历史，至今仍在这里生生不息地延续着。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "전설에 따르면 로마를 세운 로물루스는 강가에 버려진 아기였을 때 늑대 엄마가 키워줬대요. 로마와 늑대는 아주 오래된 인연이죠!",
+      "콜로세움은 최대 5만 명이 앉을 수 있었어요. 요즘 축구 경기장보다도 컸고, 사자와 검투사가 마법처럼 튀어나오게 하는 비밀 통로와 승강기도 있었대요.",
+      "로마 사람들이 화산재로 만든 콘크리트는 정말 튼튼해서, 약 1900년 전에 지은 판테온의 돔이 지금도 세계에서 가장 큰 무철근 콘크리트 돔이랍니다.",
+      "고대 로마는 도로를 40만 킬로미터 넘게 건설했어요. 지구를 열 바퀴나 돌 수 있는 길이예요!",
+      "사람들은 매년 트레비 분수에 거의 100만 유로어치 동전을 던져요. 그 돈은 어려운 사람들을 돕는 데 쓰인답니다.",
+      "로마는 역사가 겹겹이 쌓여 있어서, 요즘도 지하철 공사를 하다가 땅속에서 고대 유적을 발견하는 일이 자주 있대요. 그래서 '영원한 도시'라 불려요!"
+    ],
+    "en": [
+      "Legend says Rome's founder, Romulus, was raised by a mother wolf after being left by a river as a baby—wolves and Rome go way back!",
+      "The Colosseum could seat up to 50,000 people—more than most football stadiums today—and had trapdoors and elevators to make lions and gladiators pop up like magic.",
+      "Romans invented a volcanic-ash concrete so strong that the Pantheon's dome, built about 1,900 years ago, is still the largest unreinforced concrete dome on Earth.",
+      "Ancient Rome built over 400,000 kilometers of roads—that's like circling the entire planet ten times!",
+      "People toss almost a million euros worth of coins into the Trevi Fountain every year, and the money is donated to help people in need.",
+      "Rome is called 'the Eternal City' partly because it's built on so many layers of history that workers building new subway lines keep bumping into ancient ruins underground!"
+    ],
+    "ja": [
+      "伝説によると、ローマを築いたロムルスは川辺に置き去りにされた赤ちゃんの頃、母オオカミに育てられたそうです。ローマとオオカミは昔からの深い縁があるんですね！",
+      "コロッセオには最大5万人が座れました。今のサッカースタジアムより大きく、ライオンや剣闘士が魔法のように現れる秘密の通路や昇降機まであったそうです。",
+      "ローマ人が作った火山灰入りのコンクリートはとても丈夫で、約1900年前に建てられたパンテオンのドームは、今でも世界最大の無筋コンクリートドームなんです。",
+      "古代ローマは40万キロメートル以上も道路を作りました。地球を10周できるほどの長さです！",
+      "毎年、トレビの泉にはほぼ100万ユーロ分ものコインが投げ入れられ、そのお金は困っている人たちのために寄付されます。",
+      "ローマは歴史が何層にも積み重なっているので、今も地下鉄を新しく作ろうとすると、地面の下から古代の遺跡が見つかることがよくあります。だから『永遠の都』と呼ばれるのです！"
+    ],
+    "zh": [
+      "传说罗马的建立者罗慕路斯小时候被遗弃在河边，是母狼把他养大的。罗马和狼的缘分由来已久！",
+      "罗马斗兽场最多能容纳五万名观众，比现在很多足球场还大，地板下还有能让狮子和角斗士像变魔术一样冒出来的秘密通道和升降装置。",
+      "罗马人发明的火山灰混凝土非常坚固，大约1900年前建成的万神殿穹顶，至今仍是世界上最大的无钢筋混凝土穹顶。",
+      "古罗马修建的道路总长超过40万公里，相当于绕地球十圈！",
+      "人们每年往特雷维喷泉投入的硬币价值将近一百万欧元，这些钱会被捐给需要帮助的人。",
+      "罗马的历史一层叠着一层，直到今天，工人在修建新的地铁线路时还常常会挖到古代遗迹呢，这也是它被称为“永恒之城”的原因之一！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "전설에 따르면 늑대가 로마를 세운 아기들을 키웠대요. 늑대가 베이비시터가 되어 준다면 어떨 것 같아?",
+    "en": "Legend says a wolf raised the babies who founded Rome. Do you think a wolf would make a good babysitter?",
+    "ja": "伝説では、オオカミがローマを築いた赤ちゃんたちを育てたんだって。オオカミがベビーシッターだったら、どう思う？",
+    "zh": "传说中，母狼养大了后来建立罗马的孩子。你觉得狼能当一个好保姆吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "콜로세움 (원형 경기장)", "en": "The Colosseum", "ja": "コロッセオ（円形闘技場）", "zh": "罗马斗兽场" },
+      "blurb": {
+        "ko": "이 거대한 돌 경기장에는 한때 5만 명 가까운 관중이 모여 검투사 경기와 전차 경주를 열광적으로 응원했어요. 바닥 아래 숨겨진 통로와 승강기 덕분에 사자와 검투사가 마술처럼 튀어나올 수 있었죠. 지금도 그 자리에 서서 2000년 전 함성을 상상해 볼 수 있어요.",
+        "en": "This giant stone stadium once held up to 50,000 roaring fans watching gladiators and chariot races. Hidden tunnels and elevators beneath the floor could make lions and fighters pop up like a magic trick. Today you can walk right where ancient Romans once cheered.",
+        "ja": "この巨大な石の競技場には、かつて最大5万人もの観客が集まり、剣闘士の戦いや戦車競走に熱狂しました。床の下に隠された通路や昇降機のおかげで、ライオンや剣闘士が魔法のように現れたそうです。今でも同じ場所に立って、2000年前の歓声を想像できます。",
+        "zh": "这座巨大的石头竞技场曾容纳近五万名观众，为角斗士的搏斗和战车比赛热烈欢呼。地板下隐藏的通道和升降装置，能让狮子和角斗士像变魔术一样突然出现。今天你依然可以站在这里，想象两千年前的欢呼声。"
+      },
+      "coords": [41.8902, 12.4922]
+    },
+    {
+      "name": { "ko": "포로 로마노 (고대 로마 광장)", "en": "The Roman Forum", "ja": "フォロ・ロマーノ（古代ローマ広場）", "zh": "古罗马广场" },
+      "blurb": {
+        "ko": "고대 로마의 번화한 중심가였어요. 시장이자 법정이자 광장 역할을 모두 했죠. 황제들이 이곳에서 연설했고, 상인들은 향신료부터 비단까지 온갖 물건을 팔았어요. 지금은 아름다운 유적으로 남아, 그때의 북적임을 상상하게 해준답니다.",
+        "en": "This was ancient Rome's busy downtown—part market, part courthouse, part town square. Emperors gave speeches here, and merchants sold everything from spices to silk. Now it's a beautiful field of ruins where you can imagine the crowds bustling by.",
+        "ja": "古代ローマのにぎやかな中心地でした。市場であり、裁判所であり、街の広場でもありました。皇帝たちはここで演説し、商人たちは香辛料から絹まであらゆる物を売っていました。今は美しい遺跡が広がり、当時のにぎわいを想像させてくれます。",
+        "zh": "这里曾是古罗马繁忙的市中心，既是市场，也是法庭，还是城市广场。皇帝们在这里发表演说，商人们售卖从香料到丝绸的各种商品。如今这里是一片美丽的遗迹，让人想象当年的热闹景象。"
+      },
+      "coords": [41.8925, 12.4853]
+    },
+    {
+      "name": { "ko": "판테온", "en": "The Pantheon", "ja": "パンテオン", "zh": "万神殿" },
+      "blurb": {
+        "ko": "약 1900년 전에 지어진 이 신전에는 세계에서 가장 큰 무철근 콘크리트 돔이 있어요. 천장 한가운데 뚫린 둥근 구멍 '오쿨루스'로 햇빛과 빗물이 그대로 들어온답니다! 로마 사람들의 뛰어난 건축 기술 덕분에 지금도 튼튼하게 서 있어요.",
+        "en": "Built almost 1,900 years ago, this temple has the largest dome made of unreinforced concrete in the world. A round hole at the top, called the oculus, lets in sunlight and rain! Ancient Romans built it so well that it's still standing strong today.",
+        "ja": "約1900年前に建てられたこの神殿には、世界最大の無筋コンクリートドームがあります。天井の真ん中にあいた丸い穴『オクルス』からは、日光も雨もそのまま入ってきます！ローマ人の優れた建築技術のおかげで、今もどっしりと立っています。",
+        "zh": "这座建于约1900年前的神庙，拥有世界上最大的无钢筋混凝土穹顶。穹顶正中央有一个圆形的洞——“眼洞”，阳光和雨水都能直接落进来！正因为罗马人高超的建筑技艺，它至今依然坚固地矗立着。"
+      },
+      "coords": [41.8986, 12.4769]
+    },
+    {
+      "name": { "ko": "트레비 분수", "en": "Trevi Fountain", "ja": "トレビの泉", "zh": "特雷维喷泉" },
+      "blurb": {
+        "ko": "이 반짝이는 분수는 재미있는 전통으로 유명해요. 등 뒤로 동전을 던지면 언젠가 로마에 다시 돌아온다는 전설이 있거든요. 매년 거의 100만 유로에 달하는 동전이 모여 자선단체에 기부된답니다.",
+        "en": "This sparkling fountain is famous for one fun tradition: toss a coin over your shoulder into the water, and legend says you'll return to Rome one day. Every year, almost a million euros of coins are collected and given to charity.",
+        "ja": "このきらめく噴水は、楽しい言い伝えで有名です。肩越しにコインを投げ入れると、いつかまたローマに戻ってこられるという伝説があるのです。毎年ほぼ100万ユーロ分ものコインが集められ、慈善団体に寄付されています。",
+        "zh": "这座闪闪发光的喷泉因一个有趣的传统而闻名：背对喷泉把硬币扔进水里，传说你有一天会重返罗马。每年这里都会收集到将近一百万欧元的硬币，这些钱会被捐给慈善机构。"
+      },
+      "coords": [41.9009, 12.4833]
+    }
+  ]
+}

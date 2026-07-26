@@ -1,0 +1,120 @@
+{
+  "id": "orlando",
+  "country": "us",
+  "coords": [28.5383, -81.3792],
+  "name": { "ko": "올랜도", "en": "Orlando", "ja": "オーランド", "zh": "奥兰多" },
+  "tagline": {
+    "ko": "온통 늪이었던 땅이 세상에서 테마파크가 가장 많은 마법의 도시가 됐어요",
+    "en": "The swampy land that grew into the theme-park capital of the world",
+    "ja": "ワニが暮らす沼地が、世界一テーマパークの多い魔法の街になった",
+    "zh": "曾经全是沼泽和鳄鱼的地方，如今是世界主题乐园最多的“魔法之城”"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 미국 플로리다 한가운데에 반짝이는 호수와 늪지로 둘러싸인 조용한 마을이 있었어요. 사람들은 이곳을 지키던 군인 '올랜도 리브스'의 이름을 따서 마을 이름을 지었다는 이야기를 전해요. 정말인지는 아무도 확실히 모르지만, 다들 좋아하는 전설이 되었죠. 백 년 가까이 이 마을은 오렌지 농장과 호수로만 알려진 조용한 곳이었어요.",
+      "그러던 1960년대, 영화를 만들던 '월트 디즈니'라는 사람에게 커다란 비밀이 생겼어요. 지금까지 없던 거대한 마법의 놀이공원을 짓고 싶었거든요. 그는 사람들을 몰래 보내 올랜도 주변의 늪지를 조금씩, 아주 많이 사들이게 했어요. 디즈니가 땅을 산다는 걸 알면 값이 확 오를까 봐, 진짜 회사 이름 대신 가짜 회사 이름을 썼답니다!",
+      "그런데 문제가 하나 있었어요. 이 땅은 대부분 축축한 늪이라 성을 지을 자리가 아니었거든요. 그래서 디즈니의 기술자들은 땅 밑에 몰래 운하와 펌프로 이루어진 배수 시스템을 만들어서, 플로리다에 아무리 비가 쏟아져도 놀이공원이 물에 잠기지 않게 했어요. 신데렐라 성은 위로 갈수록 벽돌을 점점 작게 만드는 '눈속임 기법'을 써서, 실제보다 훨씬 더 높아 보이게 지었답니다!",
+      "1971년 놀이공원이 문을 연 뒤로, 올랜도는 지구에서 테마파크가 가장 많은 도시로 자라났어요. 롤러코스터, 말하는 로봇, 호숫가에서 일광욕하는 진짜 악어들, 그리고 땅 밑으로 이어진 비밀 통로까지! 이 모든 게 호수와 늪, 그리고 한 사람의 아주 크고 비밀스러운 꿈에서 시작됐답니다."
+    ],
+    "en": [
+      "Long ago, in the middle of Florida, there was a quiet town built beside sparkling lakes and swampy woods. People say the town got its name from a soldier named Orlando Reeves, who once stood watch here to protect settlers—though nobody's completely sure that's how it happened, it became a story everyone loved to tell. For nearly a hundred years, orange groves and lakes were about all this town was known for.",
+      "Then, in the 1960s, a filmmaker named Walt Disney had a giant secret. He wanted to build a brand-new kind of magic park, bigger than anything before. So he quietly sent people to buy up mile after mile of swampy land around Orlando, using made-up company names so nobody would guess who was buying and raise the prices!",
+      "There was just one problem: this land was mostly wet, buggy swamp, not exactly perfect for building castles. So Disney's engineers built a hidden system of canals and pumps under the ground to drain the water away, keeping the whole park dry even in Florida's heaviest rains. They even built Cinderella Castle so its bricks get smaller near the top—a trick called forced perspective that makes the castle look far taller than it really is!",
+      "Since the park opened in 1971, Orlando has grown into the place with more theme parks than anywhere else on Earth—roller coasters, talking robots, real alligators sunning by lakes, and secret tunnels running beneath it all. And it all started with lakes, swamps, and one person's very big, very secret dream."
+    ],
+    "ja": [
+      "はるか昔、アメリカ・フロリダのど真ん中に、きらめく湖と沼地に囲まれた静かな町がありました。この町を守っていた兵士『オーランド・リーブス』の名前がついたという話が伝わっていますが、本当かどうかは誰も確かめられません。それでも、みんなが大好きな言い伝えになりました。百年近く、この町はオレンジ畑と湖だけで知られる静かな場所でした。",
+      "そして1960年代、映画を作っていた『ウォルト・ディズニー』という人に、大きな秘密が生まれました。今までにない、巨大な魔法の遊園地を作りたいと思ったのです。彼はこっそり人を送りこみ、オーランド周辺の沼地を少しずつ、たくさん買わせました。ディズニーが土地を買っていると知られたら値段が上がってしまうので、本物の会社名ではなく、わざと偽の会社名を使ったのです！",
+      "でも問題が一つありました。この土地はほとんどがじめじめした沼地で、お城を建てるのにはぴったりではなかったのです。そこでディズニーの技術者たちは、地下にこっそり運河とポンプの排水システムを作り、フロリダでどんなに雨が降っても遊園地が水びたしにならないようにしました。シンデレラ城は、上に行くほどレンガをどんどん小さくする『遠近法のトリック』を使い、実際よりずっと高く見えるように建てられたのです！",
+      "1971年に遊園地が開園してから、オーランドは地球で一番テーマパークが多い街へと育ちました。ジェットコースター、しゃべるロボット、湖辺で日光浴する本物のワニ、そして地下に続く秘密の通路まで！このすべては、湖と沼、そしてある一人のとても大きくて秘密の夢から始まったのです。"
+    ],
+    "zh": [
+      "很久很久以前，在美国佛罗里达州中部，有一座被闪闪发光的湖泊和沼泽环绕的安静小镇。人们说，这个小镇的名字来自一位曾在此守卫的士兵——奥兰多·里夫斯，虽然没人能确定这是不是真的，但大家都喜欢讲这个传说。差不多有一百年的时间，这座小镇只以橙子园和湖泊闻名。",
+      "到了20世纪60年代，一位拍电影的人——沃尔特·迪士尼——心里藏着一个巨大的秘密。他想建一座前所未有的、巨大的魔法乐园。于是他悄悄派人去，一点一点地买下奥兰多周围大片的沼泽地。为了不让别人发现是迪士尼在买地、把地价抬高，他们故意用假的公司名字来买地！",
+      "可是有一个问题：这片土地大多是湿漉漉的沼泽，并不适合建城堡。于是迪士尼的工程师们在地下悄悄建造了一套由运河和水泵组成的排水系统，就算佛罗里达下再大的雨，乐园也不会被淹。灰姑娘城堡则用了一种叫“强制透视”的建筑小技巧——越往上砖块越小，让城堡看起来比实际高得多！",
+      "自1971年乐园开幕以来，奥兰多渐渐成长为地球上主题乐园最多的地方。过山车、会说话的机器人、在湖边晒太阳的真鳄鱼，还有地下延伸的秘密通道！而这一切，都始于湖泊、沼泽，以及一个人心中一个巨大又神秘的梦想。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "월트 디즈니는 'M.T. 랏(M.T. Lott)'처럼 웃긴 가짜 회사 이름으로 땅을 몰래 샀어요. 소리 내어 읽으면 '빈 땅(empty lot)'이라는 뜻이 되죠!",
+      "신데렐라 성은 위로 갈수록 벽돌이 점점 작아져요. 그래서 실제 높이보다 훨씬 더 커 보이는 눈속임 기법이 숨어 있답니다.",
+      "매직 킹덤 땅 밑에는 '유틸리도어'라는 비밀 통로가 있어서, 일하는 사람들이 몰래 이동해요. 그래서 다른 나라 옷을 입은 사람이 여기저기 왔다갔다하는 걸 보기 어려워요.",
+      "올랜도 시내에는 호수가 100개도 넘게 있어요. 오래전 땅속 동굴이 무너져 생긴 동그란 '싱크홀 호수'도 많답니다.",
+      "'악어의 수도'라 불리는 게이터랜드에는 놀이공원이 생기기 훨씬 전부터 이곳에 살아온 진짜 악어들이 지금도 햇볕을 쬐고 있어요.",
+      "지금 올랜도에는 지구상 어떤 곳보다 테마파크가 많아요. 그런데 처음엔 아무도 거들떠보지 않던 늪이었다니 믿어져요?"
+    ],
+    "en": [
+      "Walt Disney bought land under silly made-up company names like 'M.T. Lott'—say it out loud and it sounds like 'empty lot'!",
+      "Cinderella Castle's bricks get smaller and smaller near the top—a hidden trick that makes it look far bigger than its real height.",
+      "Under Magic Kingdom is a secret tunnel system called the 'utilidors,' where workers move around unseen—so you almost never spot someone in the wrong land's costume.",
+      "Orlando has more than 100 lakes within the city, and many are round 'sinkhole lakes' formed long ago when underground caves collapsed.",
+      "At Gatorland, nicknamed the 'Alligator Capital of the World,' real alligators still sun themselves—just like they did long before any theme park arrived.",
+      "Orlando now has more theme parks than anywhere else on Earth—can you believe it all started as swampy land nobody wanted?"
+    ],
+    "ja": [
+      "ウォルト・ディズニーは『M.T.ロット(M.T. Lott)』のような、わざとおかしな偽の会社名で土地をこっそり買いました。声に出すと『空き地(empty lot)』という意味になるんです！",
+      "シンデレラ城は上に行くほどレンガがどんどん小さくなります。だから実際の高さよりずっと大きく見えるトリックが隠れているんです。",
+      "マジックキングダムの地下には『ユーティリドア』という秘密の通路があり、働く人たちはそこをこっそり移動します。だから違う国の衣装を着た人があちこち歩いているのを見ることはほとんどありません。",
+      "オーランドの街には100以上もの湖があります。昔、地下のほら穴がくずれてできた丸い『シンクホール湖』もたくさんあるんですよ。",
+      "『ワニの首都』と呼ばれるゲータランドには、遊園地ができるずっと前からここに住んでいた本物のワニたちが、今も日光浴をしています。",
+      "今オーランドには、地球上のどこよりもテーマパークがたくさんあります。でも最初は誰も見向きもしなかった沼地だったなんて、信じられますか？"
+    ],
+    "zh": [
+      "沃尔特·迪士尼用像“M.T. Lott”这样搞笑的假公司名字偷偷买地——念出声来听着就像“空地(empty lot)”！",
+      "灰姑娘城堡越往上砖块越小，这个“强制透视”的小把戏让它看起来比实际（57米）高得多。",
+      "神奇王国地下藏着叫“utilidor”的秘密通道，工作人员从那里悄悄穿梭，所以你几乎看不到穿着别的园区服装的人走错了地方。",
+      "奥兰多城里有100多个湖泊，很多都是很久以前地下洞穴塌陷后形成的圆形“天坑湖”。",
+      "有“世界鳄鱼之都”之称的鳄鱼乐园里，真正的野生鳄鱼在乐园建成前就已经生活在这里，如今依然在晒太阳。",
+      "如今奥兰多的主题乐园比地球上任何地方都多——可你能相信，这里最初只是一片没人愿意要的沼泽地吗？"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "악어들만 살던 늪이 세상에서 가장 마법 같은 놀이공원 도시가 됐대. 믿어져?",
+    "en": "A swamp where only alligators lived turned into the most magical theme-park city on Earth. Can you believe it?",
+    "ja": "ワニだけが住んでいた沼地が、世界で一番魔法みたいな遊園地の街になったんだって。信じられる？",
+    "zh": "曾经只有鳄鱼住的沼泽地，后来变成了世界上最像魔法一样的乐园城市。你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "신데렐라 성 (매직 킹덤)", "en": "Cinderella Castle (Magic Kingdom)", "ja": "シンデレラ城（マジックキングダム）", "zh": "灰姑娘城堡（神奇王国）" },
+      "blurb": {
+        "ko": "매직 킹덤 한가운데 우뚝 선 성이에요. 위로 갈수록 벽돌이 작아지는 눈속임 기법 덕분에 실제(57미터)보다 훨씬 높아 보여요. 성 아래에는 비밀 통로 '유틸리도어'도 숨어 있답니다.",
+        "en": "The castle rising at the very center of Magic Kingdom. Its bricks shrink as they go up—a trick called forced perspective that makes the real 189-foot castle look even taller. Hidden underneath run secret tunnels called the utilidors.",
+        "ja": "マジックキングダムの真ん中にそびえるお城。上に行くほどレンガが小さくなる『遠近法のトリック』で、実際の高さ（57メートル）よりずっと高く見えます。城の下には秘密の通路『ユーティリドア』も隠れています。",
+        "zh": "矗立在神奇王国正中央的城堡。越往上砖块越小的“强制透视”手法，让实际高57米的城堡看起来更高。城堡下方还藏着秘密通道“utilidor”。"
+      },
+      "coords": [28.4177, -81.5812]
+    },
+    {
+      "name": { "ko": "스페이스십 어스 (엡콧)", "en": "Spaceship Earth (EPCOT)", "ja": "スペースシップ・アース（エプコット）", "zh": "太空船地球（EPCOT）" },
+      "blurb": {
+        "ko": "거대한 은빛 공 모양 건물로, 엡콧의 상징이에요. 안에 타면 사람이 불을 처음 발견한 순간부터 우주로 나아가는 순간까지, 사람들의 이야기를 여행하듯 둘러볼 수 있어요.",
+        "en": "A giant silver ball that's the symbol of EPCOT. Ride inside and travel through the story of how people went from discovering fire all the way to reaching outer space.",
+        "ja": "巨大な銀色の球体で、エプコットの象徴です。中に乗ると、人が初めて火を見つけたときから宇宙に旅立つ瞬間まで、人類の物語をめぐる旅ができます。",
+        "zh": "一个巨大的银色球体建筑，是EPCOT的象征。坐进去，你可以踏上一段旅程，从人类第一次发现火种，一路看到飞向太空的那一刻。"
+      },
+      "coords": [28.3747, -81.5494]
+    },
+    {
+      "name": { "ko": "이올라 호수 공원", "en": "Lake Eola Park", "ja": "イオラ湖公園", "zh": "伊奥拉湖公园" },
+      "blurb": {
+        "ko": "올랜도 시내 한가운데 있는 반짝이는 호수예요. 백조 모양 페달보트를 타고 물 위를 떠다닐 수 있고, 밤이면 분수가 알록달록한 빛으로 반짝인답니다.",
+        "en": "A sparkling lake right in downtown Orlando. You can pedal around in giant swan-shaped boats, and at night the fountain lights up in glowing colors.",
+        "ja": "オーランドの街の真ん中にあるきらめく湖。白鳥の形をしたペダルボートに乗って水の上を進むことができ、夜には噴水が色とりどりの光で輝きます。",
+        "zh": "位于奥兰多市中心的一片闪闪发光的湖泊。你可以踩着天鹅形状的脚踏船在水面上悠游，夜晚喷泉还会亮起五彩缤纷的灯光。"
+      },
+      "coords": [28.5449, -81.3712]
+    },
+    {
+      "name": { "ko": "게이터랜드", "en": "Gatorland", "ja": "ゲータランド", "zh": "鳄鱼乐园" },
+      "blurb": {
+        "ko": "'악어의 수도'라 불리는 곳으로, 진짜 야생 악어들을 아주 가까이서 볼 수 있어요. 디즈니가 생기기 훨씬 전부터 이 늪지의 진짜 주인은 바로 악어들이었답니다.",
+        "en": "Nicknamed the 'Alligator Capital of the World,' where you can see real wild alligators up close. Long before Disney ever arrived, alligators were the true owners of this swampy land.",
+        "ja": "『ワニの首都』と呼ばれる場所で、本物の野生のワニをすぐ近くで見ることができます。ディズニーができるずっと前から、この沼地の本当の主人はワニたちだったのです。",
+        "zh": "素有“世界鳄鱼之都”之称，在这里可以近距离看到真正的野生鳄鱼。早在迪士尼乐园出现之前，鳄鱼才是这片沼泽地真正的主人。"
+      },
+      "coords": [28.3822, -81.3980]
+    }
+  ]
+}

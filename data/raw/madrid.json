@@ -1,0 +1,120 @@
+{
+  "id": "madrid",
+  "country": "es",
+  "coords": [40.4168, -3.7038],
+  "name": { "ko": "마드리드", "en": "Madrid", "ja": "マドリード", "zh": "马德里" },
+  "tagline": {
+    "ko": "지도 한가운데 있어서 수도가 된 도시, 마드리드",
+    "en": "Spain's capital, chosen because it sits at the very heart of the map",
+    "ja": "地図のど真ん中にあったから首都に選ばれた街",
+    "zh": "因为正好在地图正中央而成为首都的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 스페인 한가운데 작은 강이 흐르는 메마른 언덕 위에 이슬람 통치자들이 요새를 하나 세웠어요. 톨레도라는 큰 도시로 가는 길목을 지키기 위해서였죠. 사람들은 이곳을 '마이리트'라고 불렀는데, 땅 밑에서 퐁퐁 솟아나는 수많은 샘물에서 따온 이름이라고 해요. 그때만 해도 이 작은 마을이 훗날 수도가 되리라곤 아무도 상상하지 못했답니다.",
+      "그러다 1561년, 펠리페 2세 왕이 스페인 지도를 들여다보다 재미난 사실을 발견했어요. 마드리드라는 이 작은 마을이 나라의 딱 한가운데 있었던 거예요! 왕은 이곳을 새 수도로 정했고, 지금도 광장 바닥에는 '0킬로미터'라고 쓰인 동판이 있어요. 스페인의 모든 길이 바로 이 지점에서부터 거리를 재기 시작한답니다.",
+      "왕의 도시가 된 뒤 마드리드는 무섭게 커졌어요. 왕들은 방이 수천 개나 되는 커다란 왕궁을 지었고, 나중엔 '레티로'라는 초록 공원도 만들었는데, 유리 궁전과 배를 탈 수 있는 호수까지 있었죠. 벨라스케스와 고야 같은 화가들의 명작은 새로 지은 프라도 미술관을 가득 채웠어요.",
+      "하지만 마드리드에는 아직도 재미난 옛 비밀이 남아 있어요. 도시 문장에는 곰이 뒷다리로 서서 딸기나무에 손을 뻗는 모습이 그려져 있는데, 옛날엔 진짜 곰들이 도시 주변 숲에 살면서 달콤한 빨간 열매를 따 먹었기 때문이래요. 지금도 12월 31일 자정이 되면 사람들은 '0킬로미터' 지점에 모여, 시계가 열두 번 울릴 때마다 포도를 한 알씩 먹어요. 한 알에 소원 하나씩, 새해 열두 달의 행운을 비는 거랍니다."
+    ],
+    "en": [
+      "Long ago, on a dry hilltop above a small river in the middle of Spain, Muslim rulers built a fortress to guard the road to the great city of Toledo. They called it 'Mayrit,' probably from an old word for the many underground springs bubbling beneath the ground. For centuries it stayed a modest little town — nobody dreamed it would ever become a capital.",
+      "Then, in 1561, King Philip II looked at his map of Spain and noticed something: this small town called Madrid sat almost exactly in the middle of the whole country. So he picked it as his new capital, and today a brass plaque in the main square marks 'Kilometre Zero' — the very point every road in Spain is measured from.",
+      "Once it became the king's city, Madrid grew fast and grand. Kings built a giant Royal Palace with thousands of rooms, and later a lush green park called El Retiro, with a glass palace and a lake for rowing boats. Painters like Velázquez and Goya filled the new Prado Museum with some of the most famous paintings on Earth.",
+      "Madrid still keeps its wildest old secret, though: its coat of arms shows a bear standing on its hind legs, reaching up into a strawberry tree — because bears really once roamed the forests around the city, snacking on its sweet red berries. Every New Year's Eve, crowds still gather right at Kilometre Zero to eat twelve lucky grapes as the clock strikes midnight — one grape per chime, one wish per month of the year ahead."
+    ],
+    "ja": [
+      "はるか昔、スペインの真ん中を流れる小さな川のほとりの乾いた丘の上に、イスラムの支配者たちが砦を築きました。大都市トレドへ続く道を守るためでした。人々はそこを『マイリト』と呼び、地面の下からこんこんとわき出るたくさんの泉にちなんだ名前だと言われています。その頃はまだ、この小さな町がいつか首都になるなんて、だれも思っていませんでした。",
+      "ところが1561年、フェリペ2世がスペインの地図を見ていて、あることに気づきました。マドリードというこの小さな町が、国のほぼど真ん中にあったのです！王はここを新しい首都に選び、今も広場の地面には『キロメートル・ゼロ』と書かれた銅板が埋めこまれています。スペインじゅうの道路の距離は、すべてこの一点から測られているのです。",
+      "王の街になってから、マドリードはぐんぐん大きくなりました。王たちは部屋が何千もある巨大な王宮を建て、のちには『レティーロ』という緑の公園もつくり、そこにはガラスの宮殿やボートに乗れる湖もありました。ベラスケスやゴヤといった画家たちのすばらしい絵は、新しくできたプラド美術館をいっぱいに埋めました。",
+      "でも、マドリードには今も愉快な昔の秘密が残っています。街の紋章には、クマが後ろ足で立ち、イチゴノキに手を伸ばす姿が描かれていますが、これは昔、本物のクマが街の周りの森に住んで、甘い赤い実を食べていたからだそうです。今でも大みそかの夜になると、人々は『キロメートル・ゼロ』の場所に集まり、時計が12回鳴るたびにブドウを一粒ずつ食べます。一粒ごとに願いごとを一つ、新しい年の12か月分の幸運を願うのです。"
+    ],
+    "zh": [
+      "很久很久以前，在西班牙正中央一条小河边的干燥山丘上，穆斯林统治者建起了一座要塞，用来守卫通往大城市托莱多的道路。人们把这里叫作“迈里特”，据说这个名字来自地下咕嘟咕嘟冒出的许多泉眼。那时候，谁也没想到这个小小的城镇有一天会成为一国之都。",
+      "直到1561年，费利佩二世国王看着西班牙地图，发现了一件有趣的事：马德里这个小镇，竟然差不多正好位于全国的正中心！于是国王把这里定为新首都。如今广场地面上还嵌着一块写着“零公里”的铜牌——整个西班牙的公路，都是从这一点开始计算距离的。",
+      "成为王城之后，马德里飞速发展起来。国王们建起了拥有数千个房间的巨大王宫，后来又修建了一座叫“丽池”的绿色公园，里面有玻璃宫殿，还有能划船的湖。委拉斯开兹、戈雅等大画家的杰作，则填满了新建成的普拉多博物馆。",
+      "不过马德里至今还保留着一个有趣的古老秘密：城市的徽章上画着一只熊用后腿站立，伸手去够一棵草莓树——因为很久以前，真的有熊生活在城市周围的森林里，专门吃那些甜甜的红色果子。直到今天，每年12月31日午夜，人们还会聚集在“零公里”那个地点，随着钟声敲响十二下，一颗接一颗地吃葡萄。每吃一颗许一个愿，为新一年的十二个月都讨个好彩头。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "마드리드의 문장에는 곰이 딸기나무에 손을 뻗는 모습이 그려져 있어요. 옛날엔 진짜 곰들이 도시 주변 숲에 살았대요!",
+      "푸에르타 델 솔 광장 바닥엔 '0킬로미터'라고 쓰인 동판이 있는데, 스페인의 모든 도로 거리는 여기서부터 잰답니다.",
+      "마드리드는 해발 약 667미터에 있어서, 유럽에서 가장 높은 곳에 자리한 수도예요.",
+      "왕궁에는 방이 약 3000개나 있어요. 영국 버킹엄궁이나 프랑스 베르사유궁보다도 방이 많답니다!",
+      "고야가 그린 섬뜩한 '검은 그림들'은 원래 화가 자신의 집 벽에 그려져 있었는데, 나중에 조심스럽게 캔버스로 옮겨져 지금은 프라도 미술관에 걸려 있어요.",
+      "매년 12월 31일 밤, 사람들은 '0킬로미터' 지점에 모여 자정 종이 열두 번 울릴 때마다 포도를 한 알씩 먹으며 행운을 빌어요."
+    ],
+    "en": [
+      "Madrid's coat of arms shows a bear reaching up into a strawberry tree — real bears used to live in the forests around the city!",
+      "A bronze plaque in Puerta del Sol marks 'Kilometre Zero,' the exact spot every road distance in Spain is measured from.",
+      "At about 667 meters above sea level, Madrid is the highest capital city in Europe.",
+      "The Royal Palace has around 3,000 rooms — more rooms than Buckingham Palace or the Palace of Versailles!",
+      "Some of Goya's spookiest paintings, the 'Black Paintings,' were originally painted straight onto the walls of his own house before being carefully moved to canvas for the Prado Museum.",
+      "Every New Year's Eve, crowds gather at Kilometre Zero to eat 12 lucky grapes — one for each chime of the midnight clock."
+    ],
+    "ja": [
+      "マドリードの紋章には、クマがイチゴノキに手を伸ばす絵が描かれています。昔は本物のクマが街の周りの森に住んでいたんです！",
+      "プエルタ・デル・ソル広場の地面には『キロメートル・ゼロ』と書かれた銅板があり、スペインじゅうの道路の距離はここから測られます。",
+      "マドリードは標高約667メートルにあり、ヨーロッパで一番高い場所にある首都です。",
+      "王宮には部屋が約3000室もあり、イギリスのバッキンガム宮殿やフランスのベルサイユ宮殿より部屋数が多いんです！",
+      "ゴヤが描いたぶきみな『黒い絵』シリーズは、もともと画家自身の家の壁に直接描かれていましたが、後に注意深くキャンバスに移され、今はプラド美術館にかざられています。",
+      "毎年12月31日の夜、人々は『キロメートル・ゼロ』に集まり、真夜中の鐘が12回鳴るたびにブドウを一粒ずつ食べて幸運を願います。"
+    ],
+    "zh": [
+      "马德里的徽章上画着一只熊伸手去够草莓树——从前真的有熊生活在城市周围的森林里！",
+      "太阳门广场地面上有一块写着“零公里”的铜牌，整个西班牙的道路距离都是从这里开始计算的。",
+      "马德里海拔约667米，是欧洲地势最高的首都城市。",
+      "王宫大约有3000个房间，比英国白金汉宫和法国凡尔赛宫的房间还要多！",
+      "戈雅那些阴森的“黑色绘画”系列，最初是直接画在他自己家的墙壁上的，后来被小心翼翼地转移到画布上，如今挂在普拉多博物馆里。",
+      "每年12月31日夜里，人们聚集在“零公里”地点，随着午夜钟声敲响十二下，一颗接一颗地吃葡萄祈求好运。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "새해 전날 자정에 마드리드 사람들은 종이 다 울리기 전에 포도 12알을 다 먹어야 해요. 너라면 그렇게 빨리 먹을 수 있을까?",
+    "en": "At midnight on New Year's Eve, everyone in Madrid races to eat 12 grapes before the clock finishes ringing — do you think you could eat that fast?",
+    "ja": "大みそかの真夜中、マドリードの人たちは鐘が鳴り終わるまでにブドウを12粒食べきらなきゃいけません。きみならそんなに速く食べられるかな？",
+    "zh": "除夕夜的午夜，马德里人要赶在钟声敲完之前吃完12颗葡萄。你觉得自己能吃这么快吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "푸에르타 델 솔 광장", "en": "Puerta del Sol", "ja": "プエルタ・デル・ソル広場", "zh": "太阳门广场" },
+      "blurb": {
+        "ko": "이 활기찬 광장에는 스페인의 모든 도로 거리를 재는 기준점, '0킬로미터' 동판이 있어요. 곰이 딸기나무에 손을 뻗는 마드리드의 상징 동상도 찾아보세요. 12월 31일 밤엔 수천 명이 여기 모여 자정 포도를 먹는답니다.",
+        "en": "This bustling square is home to the 'Kilometre Zero' plaque, the exact point every Spanish road is measured from. Look for the statue of a bear reaching into a strawberry tree — Madrid's official symbol. On New Year's Eve, thousands gather here to eat their lucky midnight grapes.",
+        "ja": "このにぎやかな広場には、スペインの道路の距離をすべて測る基準点、『キロメートル・ゼロ』の銅板があります。クマがイチゴノキに手を伸ばす、マドリードの象徴の像もさがしてみて。大みそかの夜には何千人もの人がここに集まり、真夜中のブドウを食べます。",
+        "zh": "这个热闹的广场里有西班牙全国道路的起算点——“零公里”铜牌。别忘了找找那座熊伸手够草莓树的雕像，那是马德里的城市象征。每年12月31日夜里，成千上万的人聚在这里吃跨年葡萄。"
+      },
+      "coords": [40.4169, -3.7033]
+    },
+    {
+      "name": { "ko": "마드리드 왕궁", "en": "Royal Palace of Madrid", "ja": "マドリード王宮", "zh": "马德里王宫" },
+      "blurb": {
+        "ko": "유럽에서 손꼽히게 큰 궁전으로, 방이 약 3000개나 돼요. 버킹엄궁이나 베르사유궁보다도 많죠! 옛날엔 왕과 왕비가 여기 살았고, 지금도 스페인 왕실의 큰 행사 때 사용된답니다.",
+        "en": "This is one of the biggest palaces in Europe, with about 3,000 rooms — more than Buckingham Palace or Versailles! Kings and queens once lived here, and the Spanish royal family still uses it for grand ceremonies today.",
+        "ja": "ヨーロッパでも指折りの大きさをほこる宮殿で、部屋の数は約3000室。バッキンガム宮殿やベルサイユ宮殿より多いんです！昔は王や女王がここに住み、今もスペイン王室の大きな式典で使われています。",
+        "zh": "这是欧洲数一数二的大王宫，大约有3000个房间，比白金汉宫和凡尔赛宫都多！从前国王和王后住在这里，如今西班牙王室举行重大典礼时仍会用到它。"
+      },
+      "coords": [40.4180, -3.7144]
+    },
+    {
+      "name": { "ko": "프라도 미술관", "en": "Prado Museum", "ja": "プラド美術館", "zh": "普拉多博物馆" },
+      "blurb": {
+        "ko": "세계에서 손꼽히는 미술관으로, 벨라스케스와 고야의 명작이 가득해요. 원래 고야의 집 벽에 그려졌던 섬뜩한 '검은 그림들'도 꼭 찾아보세요.",
+        "en": "One of the greatest art museums on Earth, packed with masterpieces by Velázquez and Goya. Don't miss Goya's eerie 'Black Paintings,' once painted right onto the walls of his own house.",
+        "ja": "世界屈指の美術館で、ベラスケスやゴヤの傑作がずらり。もともとゴヤ自身の家の壁に描かれていた、ぶきみな『黒い絵』シリーズもお見逃しなく。",
+        "zh": "这是世界顶级的美术馆之一，收藏着委拉斯开兹和戈雅的杰作。千万别错过戈雅那组曾直接画在他家墙上的阴森“黑色绘画”。"
+      },
+      "coords": [40.4138, -3.6921]
+    },
+    {
+      "name": { "ko": "레티로 공원", "en": "Retiro Park", "ja": "レティーロ公園", "zh": "丽池公园" },
+      "blurb": {
+        "ko": "마드리드에서 가장 크고 멋진 이 공원엔 배를 탈 수 있는 호수와, 유리로 지은 반짝이는 '유리 궁전'이 있어요. 도시가 생기기 전 이곳을 뒤덮었던 울창한 숲과 어쩌면 곰까지 상상해보기 딱 좋은 곳이랍니다.",
+        "en": "Madrid's grandest park has a lake for rowing boats and a shimmering Crystal Palace made almost entirely of glass. It's the perfect place to imagine the wild forests — and maybe even bears — that once grew where the city now stands.",
+        "ja": "マドリードでいちばん壮大なこの公園には、ボートに乗れる湖と、ガラスでできたきらめく『ガラス宮殿』があります。街ができる前にここを覆っていた深い森や、もしかしたらクマのことも想像したくなる場所です。",
+        "zh": "这是马德里最壮观的公园，有能划船的湖，还有几乎全用玻璃建成、闪闪发光的“水晶宫”。在这里，你可以想象城市出现之前，这片土地曾是茂密的森林，说不定还有熊呢。"
+      },
+      "coords": [40.4153, -3.6844]
+    }
+  ]
+}

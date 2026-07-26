@@ -1,0 +1,120 @@
+{
+  "id": "split",
+  "country": "hr",
+  "coords": [43.5081, 16.4402],
+  "name": { "ko": "스플리트", "en": "Split", "ja": "スプリト", "zh": "斯普利特" },
+  "tagline": {
+    "ko": "황제의 궁전 안에서 사람들이 지금도 살고 있는 도시",
+    "en": "The Roman emperor's palace people still call home today",
+    "ja": "皇帝の宮殿の中で、今も人々が暮らす街",
+    "zh": "人们至今仍住在罗马皇帝宫殿里的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 로마 제국을 다스리던 황제 '디오클레티아누스'는 이제 좀 쉬고 싶다고 생각했어요. 그래서 반짝이는 아드리아해 바닷가, 자기 고향과 가까운 곳에 '내가 살 궁전을 지어라!'라고 명령했답니다. 그렇게 만들어진 건 그냥 커다란 집이 아니라, 두꺼운 돌담과 신전, 심지어 자기가 죽으면 묻힐 무덤까지 갖춘 어마어마한 궁전이었어요.",
+      "궁전은 서기 305년쯤 완성됐는데, 크기가 얼마나 컸는지 성문이 네 개나 있는 작은 성곽 도시 같았어요. 한가운데엔 하늘 높이 솟은 대리석 기둥들이 늘어선 '페리스틸'이라는 넓은 마당도 있었죠. 디오클레티아누스는 이곳에서 노년을 보내며 그토록 좋아하던 바다를 바라보았답니다.",
+      "세월이 흘러 로마 제국이 흔들리고 근처 도시가 공격을 받자, 겁에 질린 사람들이 가장 안전해 보이는 곳으로 달려갔어요. 바로 이 튼튼한 옛 궁전이었죠. 사람들은 그냥 잠시 숨은 게 아니라, 궁전의 오래된 돌벽 사이사이에 아예 집을 짓고, 복도를 골목길로 바꾸고, 심지어 황제의 무덤을 성당으로 바꿔버렸어요.",
+      "가장 놀라운 건, 사람들이 그 뒤로도 절대 떠나지 않았다는 거예요! 1700년이 지난 지금도, 스플리트의 옛 시가지에는 진짜 사람들이 살고, 가게 문을 열고, 빨래를 널며 하루하루를 보내고 있어요. 이곳은 유리 진열장 속 박물관이 아니라, 황제의 궁전 한복판에서 지금도 살아 숨 쉬는 진짜 동네랍니다."
+    ],
+    "en": [
+      "Long ago, a Roman emperor named Diocletian, tired from ruling a huge empire, decided it was finally time to retire. He picked a sparkling spot on the Adriatic coast near his hometown and gave one big order: 'Build me a palace to live in.' What rose from the ground wasn't just a fancy house—it was a massive palace with thick stone walls, temples, and even his own future tomb.",
+      "The palace was finished around the year 305, and it was so huge it felt like its own tiny walled town, with four grand gates and a wide courtyard called the Peristyle, ringed by tall marble columns. Diocletian spent his last years there, gazing out at the glittering sea he loved so much.",
+      "Years later, when the Roman Empire began to crumble and a nearby city was attacked, terrified families ran to the safest place they could find: this sturdy old palace. They didn't just hide there for a night—they built their houses right into the ancient stone walls, turned grand hallways into everyday streets, and even turned the emperor's own tomb into a church.",
+      "Here's the wildest part: people never left! Today, 1,700 years later, real families still live, run shops, and hang their laundry inside Diocletian's old palace walls. Walk through Split's Old Town and you're not peeking at a museum behind glass—you're strolling right through the middle of a living neighborhood, built inside an emperor's own home."
+    ],
+    "ja": [
+      "はるか昔、大きなローマ帝国を治めていた皇帝ディオクレティアヌスは、そろそろゆっくり暮らしたいなと思いました。そこで、故郷にほど近い、きらめくアドリア海のほとりに『わたしの住む宮殿を建てよ』と命じたのです。できあがったのはただの大きな家ではなく、分厚い石の壁と神殿、そして自分がいつか眠るお墓まで備えた、とてつもなく立派な宮殿でした。",
+      "宮殿が完成したのは西暦305年ごろ。あまりに大きくて、まるで城門を四つも持つ小さな城塞都市のようでした。真ん中には大理石の柱がずらりと並ぶ『ペリスティル』という広い中庭もありました。ディオクレティアヌスはここで晩年を過ごし、大好きな海をずっとながめていたそうです。",
+      "やがてローマ帝国がゆらぎ、近くの町がおそわれると、おびえた人々は一番安全そうな場所へと駆けこみました。それがこの頑丈な古い宮殿だったのです。人々はただ隠れただけではなく、古い石壁のすきまに家を建て、廊下を路地に変え、なんと皇帝自身のお墓まで教会につくり変えてしまいました。",
+      "いちばん驚くのは、その後も人々が決して出て行かなかったこと！1700年たった今も、スプリトの旧市街には本当の家族が暮らし、お店を開き、洗濯物を干して毎日を過ごしています。ここはガラスケースの中の博物館ではなく、皇帝の宮殿のまん中に今も息づく、生きた町なのです。"
+    ],
+    "zh": [
+      "很久很久以前，统治着庞大罗马帝国的皇帝戴克里先，觉得自己也该好好歇一歇了。他在离家乡不远、波光粼粼的亚得里亚海边选中一块地方，下了一道命令：“给我造一座宫殿。”结果建起来的可不是普通的大房子，而是一座拥有厚厚石墙、神庙，甚至连自己将来的陵墓都一并造好的巨大宫殿。",
+      "宫殿大约在公元305年建成，规模大到简直像一座拥有四座城门的小型城堡城市。正中央还有一个叫“列柱中庭”的宽阔庭院，四周立着高高的大理石柱子。戴克里先在这里度过了晚年，天天望着他深爱的大海。",
+      "许多年后，罗马帝国开始衰落，附近的城市遭到攻击，惊慌的人们纷纷跑向他们能找到的最安全的地方——就是这座坚固的古老宫殿。他们不只是躲一晚，而是直接把房子盖进了古老的石墙之间，把宽敞的走廊变成了寻常街道，甚至把皇帝自己的陵墓改成了教堂。",
+      "最不可思议的是，从那以后人们再也没有离开过！一千七百年过去的今天，真正的家庭依然住在戴克里先的旧宫殿里，开着小店，晾着衣裳，过着寻常日子。走进斯普利特老城，你参观的可不是玻璃柜里的博物馆，而是实实在在走进了一个建在皇帝家中央、至今仍活生生存在的社区。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "디오클레티아누스 궁전은 서기 305년쯤 완성된, 로마 황제를 위한 거대한 '은퇴 후 집'이었어요. 두꺼운 돌벽과 성문 네 개까지 갖췄죠.",
+      "이 옛 궁전 안에는 지금도 사람들이 진짜로 살고 있어요. 1700년 된 돌벽 사이사이에 집, 가게, 카페가 자리 잡고 있답니다.",
+      "디오클레티아누스는 크리스트교인들을 힘들게 했던 황제였는데, 훗날 그의 무덤이 성당(성 도무니오 대성당)이 됐어요. 지금도 처음 지어진 그 건물 그대로 쓰이는, 세계에서 가장 오래된 성당 중 하나랍니다.",
+      "궁전 중앙 광장을 지키는 돌 스핑크스는 무려 3500년도 더 됐어요! 궁전보다도 오래된 이 스핑크스는 먼 옛날 이집트에서 배를 타고 건너왔대요.",
+      "궁전 지하의 어둑어둑한 돌 홀은 예전엔 물건 창고였는데, 나중에 유명한 TV 드라마에서 용이 사는 장소로 촬영됐어요.",
+      "바닷가 근처 사람들은 100년도 더 전에 '피치긴'이라는 물장구 공놀이를 만들었어요. 지금은 소중한 세계 무형유산으로 지켜지고 있답니다."
+    ],
+    "en": [
+      "Diocletian's Palace was finished around 305 AD as a giant 'retirement home' for a Roman emperor—complete with thick stone walls and four gates.",
+      "People still really live inside this ancient palace today—real homes, shops, and cafés are tucked between 1,700-year-old stone walls.",
+      "Diocletian made life hard for early Christians, but centuries later his own tomb became a cathedral—Saint Domnius, one of the oldest cathedrals in the world still standing in its very first building.",
+      "A stone sphinx guarding the main square is over 3,500 years old—older than the palace itself! It sailed all the way from ancient Egypt.",
+      "The palace's dark stone basement halls, once used for storing goods, later became a famous dragon's lair in a hit TV show.",
+      "Locals by the beach invented a splashy ball game called picigin over a century ago—it's so beloved it's now protected as a piece of world heritage."
+    ],
+    "ja": [
+      "ディオクレティアヌス宮殿は西暦305年ごろに完成した、ローマ皇帝のための巨大な『老後の家』でした。分厚い石壁と四つの城門まで備えていました。",
+      "この古い宮殿には今も本当に人が住んでいます。1700年前の石壁のあいだに、住まいやお店、カフェがぎゅっとおさまっているんです。",
+      "ディオクレティアヌスはキリスト教徒をつらい目にあわせた皇帝でしたが、何百年もあとに彼のお墓は大聖堂（聖ドムニウス大聖堂）になりました。今も建てられた当時のままの建物を使う、世界最古級の大聖堂の一つです。",
+      "宮殿の中央広場を守る石のスフィンクスは、なんと3500年以上前のもの！宮殿よりも古いこのスフィンクスは、はるか昔にエジプトから船で運ばれてきたそうです。",
+      "宮殿の地下にある薄暗い石のホールは、昔は物置として使われていましたが、のちに有名なテレビドラマで竜の住みかとして撮影されました。",
+      "海辺の人たちは100年以上前に『ピチギン』という水しぶきの球技を生み出しました。今では大切な世界無形遺産として守られています。"
+    ],
+    "zh": [
+      "戴克里先宫殿大约在公元305年完工，是为一位罗马皇帝建造的巨大“退休之家”，还配有厚厚的石墙和四座城门。",
+      "如今真的有人住在这座古老的宫殿里——一千七百年历史的石墙之间，藏着一间间真正的住家、商店和咖啡馆。",
+      "戴克里先曾让早期基督徒的日子很难过，可几百年后，他自己的陵墓却变成了教堂——圣多姆尼乌斯大教堂，是世界上仍使用最初建筑的最古老大教堂之一。",
+      "守卫宫殿中央广场的石头狮身人面像已有三千五百多年历史,比宫殿本身还要古老！它是很久以前从埃及乘船远渡而来的。",
+      "宫殿地下那些昏暗的石头大厅，以前曾用来堆放货物，后来在一部热门电视剧里被拍成了巨龙居住的巢穴。",
+      "海边的当地人在一百多年前发明了一种叫“皮契金”的戏水球类游戏，如今它备受喜爱，被列为世界非物质文化遗产加以保护。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "1700년 된 황제의 궁전 안이 지금은 진짜 사람들이 사는 동네래. 너라면 그런 집에서 살아보고 싶어?",
+    "en": "Imagine your house was built right inside a 1,700-year-old emperor's palace. Would you want to live there?",
+    "ja": "1700年前の皇帝の宮殿の中に、今の人たちの家があるんだって。もしあなたの家だったら、住んでみたい？",
+    "zh": "一千七百年前皇帝的宫殿里,现在住着真正的居民。如果是你的家,你会想住在那儿吗?"
+  },
+  "places": [
+    {
+      "name": { "ko": "페리스틸 광장", "en": "The Peristyle", "ja": "ペリスティル広場", "zh": "列柱中庭广场" },
+      "blurb": {
+        "ko": "궁전의 심장이던 넓은 마당이에요. 높이 솟은 대리석 기둥들 사이에 서면, 여기서 로마 병사들이 줄지어 서고 사람들이 황제에게 인사하던 옛 모습이 절로 떠오른답니다. 지금도 스플리트 사람들의 만남의 장소예요.",
+        "en": "The grand courtyard that was the palace's beating heart. Standing among the tall marble columns, it's easy to picture Roman soldiers lining up and people bowing to the emperor. It's still where Split locals love to meet up today.",
+        "ja": "宮殿の心臓部だった広い中庭。高くそびえる大理石の柱の間に立つと、ローマ兵が並び、人々が皇帝にあいさつした昔の様子が目に浮かびます。今もスプリトの人たちの待ち合わせ場所です。",
+        "zh": "这里曾是宫殿的心脏地带,一片宽阔的庭院。站在高耸的大理石柱之间,仿佛能看见当年罗马士兵列队、人们向皇帝行礼的情景。如今这里依然是斯普利特人喜欢约见碰面的地方。"
+      },
+      "coords": [43.5083, 16.4405]
+    },
+    {
+      "name": { "ko": "성 도무니오 대성당", "en": "Cathedral of Saint Domnius", "ja": "聖ドムニウス大聖堂", "zh": "圣多姆尼乌斯大教堂" },
+      "blurb": {
+        "ko": "원래는 디오클레티아누스 황제의 무덤이었던 곳이 지금은 성당이 됐어요. 크리스트교인들을 힘들게 했던 황제의 무덤이 결국 성당이 됐다니, 역사는 참 재미있죠? 종탑에 올라가면 스플리트 전체와 반짝이는 바다가 한눈에 보여요.",
+        "en": "This was once Emperor Diocletian's own tomb—and now it's a cathedral. Funny twist of history: the emperor who made life hard for Christians ended up with a church for his final resting place! Climb the bell tower for a sweeping view of Split and the glittering sea.",
+        "ja": "もともとはディオクレティアヌス皇帝のお墓だった場所が、今は大聖堂になっています。キリスト教徒をつらい目にあわせた皇帝のお墓が教会になるなんて、歴史って面白いですね。鐘楼にのぼると、スプリトの街と輝く海が一望できます。",
+        "zh": "这里原本是戴克里先皇帝的陵墓,如今却变成了教堂。曾让基督徒吃尽苦头的皇帝,最后长眠之地竟成了教堂,历史真是充满巧合!爬上钟楼,还能俯瞰整个斯普利特和波光粼粼的大海。"
+      },
+      "coords": [43.5086, 16.4407]
+    },
+    {
+      "name": { "ko": "이집트 스핑크스", "en": "The Egyptian Sphinx", "ja": "エジプトのスフィンクス", "zh": "埃及狮身人面像" },
+      "blurb": {
+        "ko": "검은 돌로 만든 이 스핑크스는 3500년도 더 된, 궁전 안에서 가장 나이 많은 존재예요. 먼 옛날 이집트에서 배를 타고 여기까지 왔답니다. 오랜 세월 조용히 광장을 지켜 온 진짜 시간 여행자죠.",
+        "en": "Carved from black stone, this sphinx is over 3,500 years old—the oldest thing in the whole palace. It sailed all the way from ancient Egypt long, long ago. It's been quietly guarding the square ever since, like a real-life time traveler.",
+        "ja": "黒い石でできたこのスフィンクスは3500年以上前のもので、宮殿の中でいちばん古い存在です。はるか昔、エジプトから船に乗ってここまでやって来ました。ずっと静かに広場を見守ってきた、まるで本物のタイムトラベラーです。",
+        "zh": "这尊用黑石雕成的狮身人面像已有三千五百多年历史,是整座宫殿里年纪最老的“居民”。很久很久以前,它乘船远渡重洋从埃及来到这里,从此静静守护着广场,像一位真正穿越时空的旅行者。"
+      },
+      "coords": [43.5079, 16.4398]
+    },
+    {
+      "name": { "ko": "바치비체 해변", "en": "Bačvice Beach", "ja": "バチュヴィツェ・ビーチ", "zh": "巴奇维采海滩" },
+      "blurb": {
+        "ko": "얕고 모래가 부드러운 이 해변은 '피치긴'이라는 물장구 공놀이가 태어난 곳이에요. 여러 명이 둥글게 서서 작은 공이 물에 빠지지 않게 서로 튕겨주는 놀이인데, 100년 넘게 사랑받고 있답니다.",
+        "en": "This shallow, sandy beach is the birthplace of picigin, a splashy ball game where a circle of players keeps a tiny ball from ever touching the water. It's been a beloved local pastime for well over a century.",
+        "ja": "浅くて砂がやわらかいこのビーチは、『ピチギン』という水しぶきの球技が生まれた場所。みんなで輪になり、小さなボールを水に落とさないようにパスし合う遊びで、100年以上も愛され続けています。",
+        "zh": "这片水浅沙软的海滩,正是“皮契金”戏水球类游戏的诞生地。玩家们围成一圈,想办法不让小球落入水中,这项游戏已经被大家喜爱了一百多年。"
+      },
+      "coords": [43.5052, 16.4536]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "nice",
+  "country": "fr",
+  "coords": [43.7102, 7.2620],
+  "name": { "ko": "니스", "en": "Nice", "ja": "ニース", "zh": "尼斯" },
+  "tagline": {
+    "ko": "이름은 '승리', 해변은 조약돌! 프랑스 리비에라의 햇살 도시",
+    "en": "Named for Victory, with a beach made of pebbles — the sunniest city on the French Riviera",
+    "ja": "名前は『勝利』、浜辺は丸い小石！フランス・リビエラの陽光の街",
+    "zh": "名字意为“胜利”，海滩铺满鹅卵石！阳光普照的法国里维埃拉之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 그리스의 뱃사람들이 반짝이는 프랑스 남부 바닷가를 따라 항해하다가 작은 항구 마을을 세웠어요. 마침 전투에서 승리를 거둔 참이라, 승리의 여신 '니케'의 이름을 따서 이 마을을 불렀답니다. 그렇게 해서 이 도시는 '니스'라는 이름을 갖게 되었어요. 파란 산과 그보다 더 파란 바다 사이에 자리 잡은 니스를 사람들은 지금도 '아름다운 니스'라고 부른답니다.",
+      "그런데 놀라운 사실이 하나 있어요. 니스의 해변에는 부드러운 모래가 하나도 없답니다! 대신 수천 년 동안 파도에 깎이고 다듬어진 동글동글한 조약돌, '갈레'가 해변을 가득 덮고 있어요. 파도가 밀려갔다 빠져나갈 때마다 조약돌들이 달그락달그락 부딪히는데, 그 소리가 마치 니스만의 특별한 해변 음악처럼 들린답니다.",
+      "약 200년 전, 영국의 부유한 사람들이 춥고 흐린 고향 날씨를 피해 니스에서 겨울을 보내기 시작했어요. 그들은 반짝이는 '앙주만(천사의 만)'을 따라 산책하는 걸 무척 좋아해서, 바닷가를 따라 기다란 산책로를 만드는 데 돈을 보태기도 했답니다. 그 산책로가 바로 오늘날의 '프롬나드 데 장글레', 즉 '영국인의 산책로'예요. 지금도 사람들은 그 옛날 영국인들처럼 이 길을 따라 느긋하게 걸음을 즐긴답니다.",
+      "니스에는 또 하나의 놀라운 비밀이 있어요. 사실 니스는 처음부터 프랑스 땅이 아니었답니다! 오랫동안 국경 너머의 다른 왕국에 속해 있다가, 1860년에 니스 주민들이 투표를 통해 프랑스에 합류하기로 결정했어요. 그 뒤로 매년 겨울마다 니스는 세계에서 손꼽히는 커다란 카니발을 연답니다. 꽃으로 뒤덮인 거대한 퍼레이드 수레가 지나가고, '꽃 전쟁'이라는 축제에서는 무용수들이 진짜 꽃 수천 송이를 환호하는 사람들에게 던져준대요."
+    ],
+    "en": [
+      "Long, long ago, Greek sailors sailed along the sunny coast of southern France and founded a small port town. They had just won a battle, so they named it after Nike, the goddess of victory — and that's how the city got its name: Nice. Tucked between blue mountains and an even bluer sea, people still call it 'Nice the Beautiful.'",
+      "Here's something surprising: Nice's beach isn't covered in soft sand at all. It's covered in smooth, round pebbles called galets, polished by thousands of years of rolling waves. When the sea pulls back, the stones clatter and clink together — the sound of Nice's very own beach music.",
+      "About 200 years ago, wealthy visitors from England began spending their winters here, escaping the cold, gray skies back home. They loved strolling by the sparkling Baie des Anges, the Bay of Angels, so much that they helped pay for a long walkway right along the water. Today that walkway, the Promenade des Anglais — the 'Walkway of the English' — stretches for miles, and people still stroll it exactly the way those visitors once did.",
+      "Nice has one more surprise: it hasn't always been part of France! For a long time it belonged to a kingdom across the border, until 1860, when the people of Nice voted to join France instead. Every winter since, the city has thrown one of the world's biggest carnivals, with giant flower-covered floats and a joyful 'Battle of Flowers,' where dancers toss thousands of real blossoms into the cheering crowd."
+    ],
+    "ja": [
+      "はるか昔、ギリシャの船乗りたちが、フランス南部のきらめく海岸を航海しているうちに、小さな港町を築きました。ちょうど戦いに勝利したばかりだったので、勝利の女神『ニケ』の名にちなんでこの町を呼んだそうです。そうしてこの街は『ニース』という名前を得ました。青い山とそれ以上に青い海のあいだにあるこの街を、人々は今でも『美しきニース』と呼んでいます。",
+      "でも驚くことがひとつ。ニースの浜辺には、やわらかい砂がまったくありません！代わりに、何千年もの間、波にみがかれて丸くなった小石『ガレ』がびっしりと敷きつめられています。波が引くたびに、小石同士がカラカラと音を立てて転がる――それはまるでニースだけの浜辺の音楽のようです。",
+      "約200年前、イギリスのお金持ちたちが、寒くて曇りがちな故郷の冬をさけて、ニースで冬を過ごすようになりました。彼らはきらめく『天使の湾』沿いを散歩するのが大好きで、海辺に長い遊歩道を作るのにお金を出し合ったそうです。それが今の『プロムナード・デ・ザングレ』、つまり『イギリス人の遊歩道』です。今でも人々は、あの頃のイギリス人たちと同じように、この道をゆったりと歩いています。",
+      "ニースにはもうひとつ驚きの秘密があります。実はニースは、最初からフランスの街だったわけではないのです！長い間、国境の向こうの別の王国に属していましたが、1860年、ニースの住民たちが投票でフランスに加わることを決めました。それ以来、毎年冬になると、ニースでは世界有数の大きなカーニバルが開かれます。花で飾られた巨大なパレードの山車が通り、『花合戦』というお祭りではダンサーたちが本物の花を何千本も歓声をあげる人々に投げ入れるのです。"
+    ],
+    "zh": [
+      "很久很久以前，希腊水手们沿着法国南部闪闪发光的海岸航行，建立了一座小小的港口城镇。当时他们刚打了一场胜仗，于是就用胜利女神“尼刻”的名字来称呼这座城镇。就这样，这座城市有了自己的名字——“尼斯”。它坐落在蓝色群山与更蓝的大海之间，人们至今仍称它为“美丽的尼斯”。",
+      "不过有一件事很让人意外：尼斯的海滩上根本没有柔软的沙子！取而代之的，是被海浪冲刷打磨了几千年的圆滚滚鹅卵石，当地人叫它“加莱”。每当海浪退去，这些石头就会哗啦哗啦地互相碰撞，那声音就像尼斯专属的海滩音乐。",
+      "大约200年前，英国的富裕游客开始来尼斯过冬，躲开家乡又冷又阴的天气。他们非常喜欢沿着波光粼粼的“天使湾”散步，于是还出资帮忙修建了一条沿海的长长步道。这条步道就是今天的“英国人漫步大道”，意思是“英国人走的路”。如今，人们依然像当年的英国人一样，悠闲地漫步在这条大道上。",
+      "尼斯还有一个惊人的秘密：它并非一开始就属于法国！很长一段时间里，它属于边境另一边的另一个王国，直到1860年，尼斯居民投票决定加入法国。从那以后，每年冬天，尼斯都会举办一场世界数一数二的盛大狂欢节。铺满鲜花的巨大花车缓缓驶过，在“鲜花大战”中，表演者会把成千上万朵真花抛向欢呼的人群。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "니스라는 이름은 그리스 신화 속 승리의 여신 '니케'에서 왔어요. 약 2400년 전, 전투에서 승리한 뱃사람들이 이렇게 이름 붙였대요.",
+      "니스 해변에는 모래가 없어요! 파도에 부딪히면 달그락달그락 소리를 내는 동글동글한 조약돌 '갈레'로 가득하답니다.",
+      "유명한 해변 산책로 '프롬나드 데 장글레'는 길이가 7킬로미터도 넘어요. 겨울 바닷가 산책을 좋아하던 영국 부자들 덕분에 이런 이름이 붙었답니다.",
+      "니스는 처음부터 프랑스가 아니었어요. 원래는 사르데냐 왕국 땅이었다가, 1860년 주민 투표로 프랑스에 합류했답니다.",
+      "니스는 매년 세계적으로 손꼽히는 대규모 카니발을 열어요. '꽃 전쟁'에서는 커다란 퍼레이드 수레가 진짜 꽃 수천 송이를 사람들에게 던진답니다.",
+      "화가 앙리 마티스와 마르크 샤갈은 니스의 눈부신 햇빛을 무척 사랑해서 이곳에 살며 그림을 그렸어요. 지금 니스에는 두 화가의 작품을 만날 수 있는 미술관이 각각 있답니다."
+    ],
+    "en": [
+      "The name Nice comes from Nike, the Greek goddess of victory — sailors named it that almost 2,400 years ago after winning a battle.",
+      "Nice's beach isn't sandy at all — it's covered in smooth, round pebbles called 'galets' that clatter and clink when waves roll over them.",
+      "The famous seaside path, the Promenade des Anglais, is more than 7 kilometers long and got its name from the wealthy English visitors who loved winter walks by the sea.",
+      "Nice wasn't always part of France. It belonged to the Kingdom of Sardinia until 1860, when its people voted to join France instead.",
+      "Every year Nice holds one of the world's biggest carnivals, with a 'Battle of Flowers' where giant parade floats toss thousands of real flowers into the crowd.",
+      "Painters Henri Matisse and Marc Chagall loved Nice's bright light so much that they lived and painted here — and each now has a whole museum dedicated to their art in the city."
+    ],
+    "ja": [
+      "ニースという名前は、ギリシャ神話の勝利の女神『ニケ』に由来します。約2400年前、戦いに勝った船乗りたちがこう名づけたそうです。",
+      "ニースの浜辺には砂がありません！波に当たるとカラカラと音を立てる、丸くてつるつるの小石『ガレ』でおおわれています。",
+      "有名な海辺の遊歩道『プロムナード・デ・ザングレ』は長さ7キロ以上。冬の海辺散歩が大好きだったイギリスのお金持ちたちのおかげで、この名前がつきました。",
+      "ニースは最初からフランスだったわけではありません。もともとはサルデーニャ王国の土地でしたが、1860年、住民投票でフランスに加わりました。",
+      "ニースは毎年、世界屈指の大きなカーニバルを開きます。『花合戦』では、巨大なパレードの山車から本物の花が何千本も人々に投げられます。",
+      "画家アンリ・マティスとマルク・シャガールは、ニースのまぶしい光をこよなく愛し、ここに住んで絵を描きました。今ではニースに、二人それぞれの作品を楽しめる美術館があります。"
+    ],
+    "zh": [
+      "尼斯这个名字来自希腊神话中的胜利女神“尼刻”。大约2400年前，打了胜仗的水手们用她的名字为这座城市命名。",
+      "尼斯的海滩上没有沙子！铺满的是圆滚滚的鹅卵石“加莱”，海浪拍打时会发出哗啦哗啦的声响。",
+      "著名的海边步道“英国人漫步大道”长达7公里多。因为喜欢冬天沿海散步的英国富人们，这条路才有了这样的名字。",
+      "尼斯并非一开始就属于法国。它原本是撒丁王国的领土，直到1860年，当地居民投票决定加入法国。",
+      "尼斯每年都会举办世界数一数二的盛大狂欢节。在“鲜花大战”中，巨大的花车会把成千上万朵真花抛向人群。",
+      "画家亨利·马蒂斯和马克·夏加尔都深深爱上了尼斯明媚的阳光，在这里居住并作画。如今尼斯分别有一座博物馆，专门展出他们二人的作品。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "니스 해변에는 모래가 하나도 없고 동글동글한 돌멩이만 가득하대! 모래성 대신 돌멩이 성을 쌓아볼까?",
+    "en": "Nice's beach doesn't have any sand at all — it's covered in smooth round stones instead! Could you build a stone castle instead of a sandcastle?",
+    "ja": "ニースの浜辺には砂が一つもなくて、丸い小石でいっぱいなんだって！砂のお城の代わりに、石のお城を作ってみる？",
+    "zh": "尼斯的海滩上一粒沙子都没有，全是圆滚滚的小石头！要不要试试堆一座石头城堡，而不是沙堡？"
+  },
+  "places": [
+    {
+      "name": { "ko": "프롬나드 데 장글레 (영국인의 산책로)", "en": "Promenade des Anglais", "ja": "プロムナード・デ・ザングレ（イギリス人の遊歩道）", "zh": "英国人漫步大道" },
+      "blurb": {
+        "ko": "앙주만을 따라 몇 킬로미터나 이어지는 햇살 가득한 해변 산책로예요. 200년 전 영국의 부유한 방문객들이 겨울 내내 바닷가를 걷고 싶어서 돈을 보태 만들었는데, 지금도 사람들은 그때와 똑같이 이 길을 걷는답니다.",
+        "en": "This sunny seaside walkway stretches for miles along the Bay of Angels. Wealthy English visitors helped build it 200 years ago so they could stroll by the sea all winter long — and people still do exactly that today.",
+        "ja": "天使の湾沿いに何キロも続く、陽ざしいっぱいの海辺の遊歩道です。200年前、イギリスのお金持ちの旅行者たちが冬の間ずっと海辺を歩きたくて、お金を出し合って作りました。今でも人々は、その頃と同じようにこの道を歩いています。",
+        "zh": "这条阳光满溢的海滨步道沿着天使湾延伸好几公里。200年前，喜欢整个冬天都沿海散步的英国富有游客出资修建了它，如今人们依然和当年一样，在这条路上悠闲漫步。"
+      },
+      "coords": [43.6949, 7.2650]
+    },
+    {
+      "name": { "ko": "샤토 언덕", "en": "Colline du Château (Castle Hill)", "ja": "シャトー(城)の丘", "zh": "城堡山" },
+      "blurb": {
+        "ko": "예전에는 진짜 성이 있었지만 수백 년 전에 무너져 지금은 초록빛 언덕만 남았어요. 언덕에 오르면 시원한 폭포와 정원이 있고, 니스의 지붕들과 바다를 한눈에 내려다볼 수 있는 멋진 전망이 기다리고 있답니다.",
+        "en": "A tall green hill where a real castle once stood, until it was torn down hundreds of years ago. Climb up today and you'll find leafy gardens, a splashing waterfall, and the best view over all of Nice's rooftops and the sea.",
+        "ja": "昔は本物のお城があったのに、何百年も前にこわされてしまい、今では緑あふれる丘だけが残っています。丘に登ると、涼しげな滝や庭園があり、ニースの街並みと海をいっぺんに見わたせるすてきな景色が待っています。",
+        "zh": "这里曾经真的有一座城堡，可惜几百年前就被拆毁了，如今只剩下一座绿意盎然的小山。爬上山顶，你会看到清凉的瀑布和花园，还能将尼斯的屋顶和大海尽收眼底。"
+      },
+      "coords": [43.6968, 7.2814]
+    },
+    {
+      "name": { "ko": "쿠르 살레야 시장", "en": "Cours Saleya Market", "ja": "クール・サレヤ市場", "zh": "萨雷亚集市" },
+      "blurb": {
+        "ko": "니스 구시가지의 심장 같은 곳으로, 매일 아침 알록달록한 꽃과 과일, 향신료가 산더미처럼 쌓여요. 이곳에서 바삭한 병아리콩 팬케이크 '소카'를 꼭 맛보세요. 오래전부터 이어져 온 니스만의 특별한 간식이랍니다.",
+        "en": "The heart of Nice's old town, piled every morning with mountains of colorful flowers, fruit, and spices. Grab a warm slice of socca here — a crispy chickpea pancake that's been a Nice specialty for generations.",
+        "ja": "ニース旧市街の中心で、毎朝色とりどりの花や果物、スパイスが山のように積み上がります。ここではサクサクのひよこ豆パンケーキ『ソッカ』をぜひ味わってみて。昔から伝わるニースならではのおやつです。",
+        "zh": "这里是尼斯老城的心脏地带，每天清晨都堆满五彩缤纷的鲜花、水果和香料。一定要在这里尝尝香脆的鹰嘴豆薄饼“索卡”，这是尼斯传承已久的特色小吃。"
+      },
+      "coords": [43.6953, 7.2757]
+    },
+    {
+      "name": { "ko": "마티스 미술관", "en": "Musée Matisse", "ja": "マティス美術館", "zh": "马蒂斯博物馆" },
+      "blurb": {
+        "ko": "니스의 눈부신 햇빛에 반한 화가 앙리 마티스가 오랫동안 지내며 그림을 그렸던 곳이에요. 아름다운 옛 저택 안에 그의 그림과 색종이 오려붙이기 작품들이 가득 전시되어 있고, 미술관은 언덕 위 올리브 나무 숲에 조용히 자리 잡고 있답니다.",
+        "en": "A museum inside a beautiful old villa, filled with paintings and cut-paper artworks by Henri Matisse, who fell in love with Nice's sunlight and lived here for years. It sits in a peaceful olive grove above the city.",
+        "ja": "ニースのまぶしい光にほれこんだ画家アンリ・マティスが、長く住んで絵を描いた場所です。美しい古い邸宅の中に、彼の絵や切り紙の作品がたくさん展示されていて、美術館は丘の上のオリーブ林の中に静かにたたずんでいます。",
+        "zh": "画家亨利·马蒂斯深深迷恋尼斯耀眼的阳光，曾在这里长住并作画。这座美丽的古老别墅里陈列着他的绘画和剪纸作品，博物馆静静坐落在山坡上的橄榄树林间。"
+      },
+      "coords": [43.7218, 7.2735]
+    }
+  ]
+}

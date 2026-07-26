@@ -1,0 +1,120 @@
+{
+  "id": "hamburg",
+  "country": "de",
+  "coords": [53.5511, 9.9937],
+  "name": { "ko": "함부르크", "en": "Hamburg", "ja": "ハンブルク", "zh": "汉堡" },
+  "tagline": {
+    "ko": "말뚝과 물, 그리고 놀라움 위에 세워진 항구 도시",
+    "en": "The port city built on stilts, water, and wonder",
+    "ja": "杭と水と驚きの上に築かれた港町",
+    "zh": "建在木桩、水与奇迹之上的港口城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 독일 북쪽 엘베강이 바다와 만나는 곳에 작은 항구 마을이 하나 생겼어요. 배들이 쉴 새 없이 드나들며 향신료와 옷감, 곡식을 실어 날랐고, 마을은 해마다 점점 부유하고 북적이는 곳이 되었죠. 상인들은 유럽의 다른 무역 도시들과 손을 잡고 '한자 동맹'이라는 강력한 무역 조합을 만들었어요. 어느새 이 활기찬 항구의 이름은 모두가 아는 '함부르크'가 되었답니다.",
+      "물가의 땅 한 뼘이 아주 귀했기 때문에, 함부르크 상인들은 기발한 방법을 생각해냈어요. 수천 개의 나무 기둥을 진흙 깊숙이 박아 넣고, 그 위에 거대한 벽돌 창고들을 마치 다리 위에 서 있는 마을처럼 지은 거예요. 배들은 미로 같은 운하를 따라 창고 문 바로 앞까지 다가가 커피, 차, 카펫을 곧바로 실어 날랐죠. 오늘날 '슈파이허슈타트'라 불리는 이곳은 세계에서 가장 큰 창고 지구인데다, 다리가 어찌나 많은지 베네치아와 암스테르담의 다리를 합친 것보다도 더 많답니다.",
+      "약 15년 전, 항구 옆 낡은 창고 하나에 마법 같은 일이 일어났어요. 건축가들이 그 위에 파도 모양으로 반짝이는 유리 건물을 얹었고, 그 안에 세상에서 가장 아름다운 공연장 중 하나를 만들었죠. 이름은 '엘프필하모니'. 맑은 날엔 유리창이 아래 강물처럼 반짝여서, 마치 항구가 왕관을 쓴 것처럼 보인답니다.",
+      "지금도 함부르크는 물과 배, 그리고 작은 놀라움을 사랑하는 도시예요. 도심의 어느 거대한 방 안에서는 아주 정교한 미니어처 세상 속으로 모형 기차가 달리고, 작은 공항에서는 모형 비행기가 진짜로 이륙까지 한답니다. 항구에는 세계 곳곳에서 온 진짜 거대한 배들이 옛 창고들을 지나 여전히 미끄러져 들어오는데, 함부르크가 지구에서 가장 바쁘고 매력적인 항구 도시 중 하나라는 걸 보여주죠."
+    ],
+    "en": [
+      "Long, long ago, a small trading town grew up where the Elbe River flows into the sea in northern Germany. Ships came and went, carrying spices, cloth, and grain, and the town grew richer and busier every year. Merchants here joined forces with other trading towns across Europe, forming a powerful club called the Hanseatic League. Soon everyone knew the name of this bustling port: Hamburg.",
+      "Because every scrap of land near the water was precious, Hamburg's merchants built something clever: giant brick warehouses standing on thousands of wooden posts driven deep into the mud, like a whole neighborhood on stilts. Boats could glide right up to the warehouse doors along a maze of canals and load coffee, tea, and carpets straight from the ships. Today this area, called Speicherstadt, is the largest warehouse district in the world, and it's crisscrossed by so many little bridges that Hamburg actually has more of them than Venice and Amsterdam put together.",
+      "About fifteen years ago, something magical happened to one old warehouse by the harbor. Builders set a shimmering glass structure shaped like a wave right on top of it, and inside they built one of the most beautiful concert halls on Earth. It's called the Elbphilharmonie, and on a sunny day its glass panels sparkle like the water below, as if the harbor itself grew a crown.",
+      "Even now, Hamburg is a city that loves water, ships, and tiny wonders. In one enormous room downtown, model trains chug through a miniature world so detailed that airplanes actually take off from a tiny airport. Down at the harbor, giant real ships from every corner of the world still glide in past the old warehouses, proving Hamburg is still one of the busiest, most fascinating port cities on the planet."
+    ],
+    "ja": [
+      "はるか昔、ドイツ北部でエルベ川が海に注ぐあたりに、小さな港町がありました。船がひっきりなしに行き来して、香辛料や布地、穀物を運び、町は年々豊かでにぎやかになっていきました。商人たちはヨーロッパの他の貿易都市と手を組み、『ハンザ同盟』という強力な商業組織をつくりました。いつしか、このにぎやかな港の名前はみんなが知る『ハンブルク』になったのです。",
+      "水辺の土地はほんの少しも貴重だったので、ハンブルクの商人たちは知恵をしぼりました。何千本もの木の杭を泥の中深くに打ちこみ、その上に巨大なレンガ造りの倉庫を建てたのです。まるで橋の上に立つ町のようでした。船は迷路のような運河を通って倉庫の扉のすぐそばまで進み、コーヒーや紅茶、絨毯を直接積みおろしできました。今日『シュパイヒャーシュタット』と呼ばれるこの一帯は世界最大の倉庫街で、橋の数がとても多く、ヴェネツィアとアムステルダムの橋を合わせたより多いのです。",
+      "約15年前、港のそばにあった古い倉庫のひとつに、まるで魔法のようなことが起こりました。建築家たちがその上に波の形をしたきらめくガラスの建物をのせ、中に世界屈指の美しいコンサートホールをつくったのです。名前は『エルプフィルハーモニー』。晴れた日にはガラス窓が下の川面のように輝き、まるで港が王冠をかぶったように見えます。",
+      "今もハンブルクは、水と船、そして小さな驚きを愛する街です。街なかのある巨大な部屋では、精巧なミニチュアの世界を模型列車が走り、小さな空港では模型飛行機が本当に離陸します。港には世界中から来た本物の巨大な船が今も古い倉庫のわきをすべるように入ってきて、ハンブルクが地球でもっとも忙しく魅力的な港町のひとつであることを教えてくれます。"
+    ],
+    "zh": [
+      "很久很久以前，在德国北部易北河流入大海的地方，兴起了一座小小的港口城镇。船只川流不息，运来香料、布匹和谷物，小镇一年比一年富裕热闹。商人们和欧洲其他贸易城市联合起来，组成了一个强大的商业联盟，叫“汉萨同盟”。渐渐地，这座繁忙港口的名字家喻户晓——它就是汉堡。",
+      "因为临水的每一寸土地都无比珍贵，汉堡的商人们想出了一个聪明的办法：把成千上万根木桩深深打进泥地里，再在上面盖起巨大的砖砌仓库，整片街区就像立在桥上一样。船只沿着迷宫般的运河一路划到仓库门口，直接装卸咖啡、茶叶和地毯。如今这片区域叫“仓库城”，是世界上最大的仓库区，桥梁多到连威尼斯和阿姆斯特丹的桥加起来都比不上它。",
+      "大约十五年前，港边一座旧仓库上发生了一件神奇的事。建筑师们在它上面盖起一座波浪形的闪亮玻璃建筑，里面藏着全世界最美的音乐厅之一，名叫“易北爱乐厅”。晴天里，玻璃幕墙闪闪发光，像极了下面的河水，仿佛整个港口戴上了一顶王冠。",
+      "直到今天，汉堡依然是一座热爱水、船只和微型奇迹的城市。市中心一间巨大的房间里，模型火车穿梭在极其精细的迷你世界中，小小的机场里模型飞机居然真的能起飞。港口里，来自世界各地的真正巨轮仍然滑过古老的仓库驶入港湾，证明汉堡至今仍是地球上最繁忙、最迷人的港口城市之一。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "함부르크에는 다리가 약 2,500개나 있어서, 베네치아와 암스테르담의 다리를 합친 것보다 더 많아요.",
+      "슈파이허슈타트의 창고들은 진흙 속에 박은 수천 개의 나무 기둥 위에 서 있어요. 도시 전체가 다리 위에 있는 셈이죠!",
+      "엘프필하모니 공연장은 100년도 더 된 낡은 창고 위에 파도 모양의 유리 지붕을 얹어 지었어요.",
+      "미니어처 분더란트는 세계에서 가장 큰 모형 기차 나라예요. 작은 공항에선 모형 비행기가 진짜로 이륙한답니다.",
+      "함부르크 항구는 유럽에서 손꼽히게 큰 항구로, 100개가 넘는 나라에서 배들이 찾아와요.",
+      "함부르크 스테이크를 좋아하던 뱃사람과 이민자들 덕분에 '햄버거'라는 이름이 생겼다는 이야기도 있어요."
+    ],
+    "en": [
+      "Hamburg has about 2,500 bridges—more than Venice and Amsterdam combined.",
+      "The Speicherstadt warehouses stand on thousands of wooden piles driven into the mud—the whole neighborhood is basically on stilts!",
+      "The Elbphilharmonie concert hall was built by adding a wave-shaped glass roof on top of a century-old warehouse.",
+      "Miniatur Wunderland is the world's largest model railway, with a tiny airport where model planes really take off.",
+      "The Port of Hamburg is one of the biggest in Europe, welcoming ships from over 100 countries.",
+      "Some say the hamburger sandwich got its name from Hamburg, thanks to sailors and emigrants who loved 'Hamburg steak' and carried the taste overseas."
+    ],
+    "ja": [
+      "ハンブルクには橋が約2,500本もあり、ヴェネツィアとアムステルダムの橋を合わせたより多いんです。",
+      "シュパイヒャーシュタットの倉庫は、泥の中に打ちこまれた何千本もの木の杭の上に立っています。街全体が橋の上にあるようなものですね！",
+      "エルプフィルハーモニーは、100年以上前の古い倉庫の上に波の形のガラス屋根をのせて建てられました。",
+      "ミニチュア・ワンダーランドは世界最大の模型鉄道の国。小さな空港では模型飛行機が本当に離陸します。",
+      "ハンブルク港はヨーロッパ有数の大きさで、100か国以上から船がやってきます。",
+      "ハンブルクステーキが大好きだった船乗りや移民たちのおかげで『ハンバーガー』という名前が生まれた、という説もあります。"
+    ],
+    "zh": [
+      "汉堡大约有2,500座桥，比威尼斯和阿姆斯特丹的桥加起来还要多。",
+      "仓库城的仓库全都立在打入泥地的成千上万根木桩上——整座城区就像盖在桥上一样！",
+      "易北爱乐厅音乐厅是在一座百年老仓库上加盖波浪形玻璃屋顶建成的。",
+      "微缩景观世界是世界上最大的模型铁路王国，小小机场里的模型飞机真的会起飞。",
+      "汉堡港是欧洲数一数二的大港，有来自100多个国家的船只往来。",
+      "有人说，“汉堡包”这个名字正是源自汉堡——因为热爱“汉堡牛排”的水手和移民把这种口味带去了美洲。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "거대한 벽돌 창고 마을이 통째로 나무 기둥 위, 물 위에 떠 있듯 서 있대. 100년 넘게 가라앉지 않았다는 게 믿어져?",
+    "en": "A whole neighborhood of giant brick warehouses stands on wooden posts over the water—and it hasn't sunk in over 100 years. Can you believe that?",
+    "ja": "巨大なレンガ倉庫の街が、まるごと木の杭の上、水の上に立っているんだって。100年以上沈んでいないなんて信じられる？",
+    "zh": "一整片巨大的砖砌仓库区，居然全靠木桩立在水面上，一百多年都没有塌下去，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "슈파이허슈타트 (창고 도시)", "en": "Speicherstadt (Warehouse City)", "ja": "シュパイヒャーシュタット（倉庫街）", "zh": "仓库城（Speicherstadt）" },
+      "blurb": {
+        "ko": "물 위 나무 기둥 위에 세워진 세계에서 가장 큰 창고 지구예요. 붉은 벽돌 운하와 작은 다리 사이를 걷다 보면, 배를 위해 만들어진 동화 속 마을에 온 것 같답니다.",
+        "en": "The largest warehouse district in the world, standing on thousands of wooden piles above the water. Wander its red-brick canals and little bridges and you'll feel like you've stepped into a fairy-tale town built just for ships.",
+        "ja": "水の上、何千本もの木の杭の上に建つ世界最大の倉庫街。赤レンガの運河と小さな橋の間を歩くと、まるで船のためのおとぎ話の町に来たような気分になります。",
+        "zh": "立在成千上万根木桩之上的世界最大仓库区。走在红砖运河与小桥之间，仿佛走进了一座专为船只而建的童话小镇。"
+      },
+      "coords": [53.5445, 9.9931]
+    },
+    {
+      "name": { "ko": "엘프필하모니", "en": "Elbphilharmonie", "ja": "エルプフィルハーモニー", "zh": "易北爱乐厅" },
+      "blurb": {
+        "ko": "100년 된 낡은 창고 위에 파도 모양으로 지어진 반짝이는 공연장이에요. 길고 구불구불한 에스컬레이터를 타고 전망대에 오르면, 항구 전체가 지도처럼 펼쳐진답니다.",
+        "en": "A dazzling wave-shaped concert hall built right on top of a century-old warehouse. Ride the long curving escalator up to the viewing platform and the whole harbor spreads out below like a map.",
+        "ja": "築100年の倉庫の上に建てられた、波の形をしたきらめくコンサートホール。長く曲がったエスカレーターで展望台に上ると、港全体が地図のように広がって見えます。",
+        "zh": "建在百年老仓库之上、波浪造型的闪亮音乐厅。乘坐长长的弯曲电梯登上观景平台，整个港口会像地图一样在眼前展开。"
+      },
+      "coords": [53.5412, 9.9836]
+    },
+    {
+      "name": { "ko": "미니어처 분더란트", "en": "Miniatur Wunderland", "ja": "ミニチュア・ワンダーランド", "zh": "微缩景观世界" },
+      "blurb": {
+        "ko": "세계에서 가장 큰 모형 기차 나라로, 작은 기차와 도시, 그리고 모형 비행기가 진짜로 이륙하는 미니 공항까지 있어요. 숨은 디테일을 찾다 보면 하루가 훌쩍 지나갈 거예요.",
+        "en": "The world's largest model railway, packed with tiny trains, tiny cities, and even a miniature airport where little planes really take off. Kids could spend all day spotting the hidden details.",
+        "ja": "世界最大の模型鉄道の国。小さな列車や街、そして模型飛行機が本当に離陸するミニ空港まであります。隠れたディテールを探していると、一日があっという間に過ぎてしまいます。",
+        "zh": "世界上最大的模型铁路王国，有迷你火车、城市，甚至还有一个模型飞机真的会起飞的迷你机场。找找藏在其中的小细节，能玩上一整天。"
+      },
+      "coords": [53.5442, 9.9908]
+    },
+    {
+      "name": { "ko": "장크트파울리 란둥스브뤼켄 (부두)", "en": "St. Pauli Landungsbrücken (Harbor Piers)", "ja": "ザンクト・パウリ桟橋", "zh": "圣保利码头（兰东斯布吕肯）" },
+      "blurb": {
+        "ko": "함부르크 항구가 살아 숨 쉬는 웅장한 옛 부두예요. 100년 넘게 뱃사람들이 항해를 떠난 바로 이곳에서, 거대한 컨테이너선과 작은 여객선이 나란히 미끄러져 가는 걸 볼 수 있어요.",
+        "en": "The grand old piers where Hamburg's harbor comes alive. Right where sailors have set off on voyages for over a hundred years, you can watch giant container ships and tiny ferries glide by together.",
+        "ja": "ハンブルクの港が息づく壮大な古い桟橋。100年以上前から船乗りたちが航海に出たこの場所で、巨大なコンテナ船と小さなフェリーが並んで進んでいく様子を見られます。",
+        "zh": "汉堡港最富生气的老码头。一百多年来水手们从这里出海远航，如今你能看到巨型集装箱船和小小渡轮一同从眼前滑过。"
+      },
+      "coords": [53.5461, 9.9683]
+    }
+  ]
+}

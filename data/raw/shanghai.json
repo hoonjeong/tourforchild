@@ -1,0 +1,120 @@
+{
+  "id": "shanghai",
+  "country": "cn",
+  "coords": [31.2304, 121.4737],
+  "name": { "ko": "상하이", "en": "Shanghai", "ja": "上海（シャンハイ）", "zh": "上海" },
+  "tagline": {
+    "ko": "옛 유럽 같은 건물과 미래 도시가 강 하나를 사이에 두고 마주보는 도시",
+    "en": "The city where old European buildings and a futuristic skyline stare at each other across a river",
+    "ja": "古きヨーロッパ風の街と未来都市が、川をはさんで見つめ合う街",
+    "zh": "古老欧式建筑与未来都市隔江相望的城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 지금의 상하이 자리에는 황푸강이 바다와 만나는 곳에 작은 어촌 마을이 있었어요. 어부들은 그물을 손질했고, 배들은 흙탕물 위에서 둥실둥실 흔들렸죠. 이 조용한 마을이 훗날 지구에서 손꼽히는 큰 도시가 될 거라고는 아무도 상상하지 못했답니다.",
+      "그런데 약 180년 전, 상하이 항구가 세계 여러 나라의 무역선에 활짝 열리면서 모든 게 달라졌어요. 외국 상인들은 강가에 크고 멋진 은행과 무역 회사 건물을 지었는데, 이 거리를 오늘날 '와이탄(외탄)'이라고 불러요. 차와 비단, 향신료를 실은 배들이 밤낮으로 드나들면서, 작은 마을은 북적이는 국제 항구로 자랐답니다.",
+      "상하이는 계속 자라면서도 깜짝 놀랄 일을 멈추지 않았어요. 강 건너편, 예전엔 그저 논밭뿐이던 곳에 사람들은 '푸둥'이라는 완전히 새로운 동네를 꿈꿨어요. 도시의 시간으로는 거의 하룻밤 사이에, 커다란 구슬 모양 탑과 비틀어진 유리 마천루가 하늘 높이 솟아올랐답니다.",
+      "오늘날 와이탄에 서서 황푸강 건너편을 바라보면, 완전히 다른 두 세상을 한눈에 볼 수 있어요. 한쪽엔 100년도 더 된 우아한 옛 석조 건물들이, 다른 한쪽엔 반짝이는 미래 도시의 탑들이 서 있죠. 그래서 사람들은 상하이를 '강을 사이에 두고 과거와 미래가 서로 마주보는 도시'라고 부른답니다."
+    ],
+    "en": [
+      "Long, long ago, where Shanghai now stands, there was just a small fishing village where the Huangpu River meets the sea. Fishermen mended their nets, and boats bobbed gently on the muddy water. Nobody dreamed this quiet little spot would one day become one of the biggest cities on Earth.",
+      "Everything changed about 180 years ago, when Shanghai's port opened up to trading ships from all over the world. Foreign merchants built grand stone banks and trading houses along the riverbank, a strip now called the Bund. Ships loaded with tea, silk, and spices came and went day and night, and the small village grew into a bustling international harbor.",
+      "Shanghai kept growing and growing, but it never stopped surprising people. Across the river, where there had only ever been farmland, people dreamed up a brand-new district called Pudong. Almost overnight, in city-growing time, shining skyscrapers rose into the sky, including a giant pearl-shaped tower and a twisting glass spire.",
+      "Today, if you stand on the Bund and look across the Huangpu River, you can see two totally different worlds at once. On one side stand elegant old stone buildings from over a hundred years ago; on the other, a shining forest of futuristic towers. That's why people say Shanghai is a city where the past and the future stare at each other across the water."
+    ],
+    "ja": [
+      "はるか昔、今の上海がある場所には、黄浦江が海と出会うあたりに小さな漁村があるだけでした。漁師たちは網を繕い、船は濁った水の上でゆらゆら揺れていました。この静かな村が、やがて地球でも指折りの大都市になるなんて、だれも想像していませんでした。",
+      "ところが約180年前、上海の港が世界中の貿易船に開かれると、すべてが変わりました。外国の商人たちは川岸に立派な銀行や貿易会社のビルを建て、この一帯は今『外灘（ワイタン）』と呼ばれています。お茶や絹、香辛料を積んだ船が昼も夜も行き交い、小さな村はにぎやかな国際港へと育っていきました。",
+      "上海は大きくなり続けても、驚きを届けることを忘れませんでした。川の向こう側、かつては田んぼしかなかった場所に、人々は『浦東（プードン）』というまったく新しい街を思い描きました。街の時間で言えばほとんど一晩のうちに、真珠のような形の巨大な塔や、ねじれたガラスの超高層ビルが空高くそびえ立ったのです。",
+      "今、外灘に立って黄浦江の向こうを見わたすと、まったく違う二つの世界が同時に見えます。片方には100年以上前の優雅な石造りの建物が並び、もう片方には未来都市のきらめく塔がそびえています。だから人々は上海のことを『川をはさんで過去と未来がにらみ合う街』と呼ぶのです。"
+    ],
+    "zh": [
+      "很久很久以前，在今天上海所在的地方，黄浦江与大海相遇之处，只有一个小小的渔村。渔民们缝补渔网，船只在浑浊的江面上轻轻摇晃。谁也没想到，这个安静的小渔村有一天会变成地球上数一数二的大城市。",
+      "大约180年前，一切都变了——上海的港口向世界各国的商船敞开大门。外国商人们在江边建起了气派的银行和洋行大楼，这条街如今被称为“外滩”。装载着茶叶、丝绸和香料的商船昼夜穿梭往来，小渔村渐渐长成了一个热闹的国际港口。",
+      "上海不断长大，却从没停止带给人惊喜。江对岸，原本只有农田的地方，人们构想出一个全新的区域——浦东。几乎是在“城市的时间”里一夜之间，硕大的珍珠形高塔和扭曲的玻璃摩天大楼便拔地而起，直插云霄。",
+      "今天，如果你站在外滩，望向黄浦江对岸，会一眼看到两个完全不同的世界：一边是一百多年前优雅的欧式石砌建筑，另一边则是闪闪发光的未来高塔森林。所以人们说，上海是一座过去与未来隔江相望的城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "상하이 타워는 위로 올라갈수록 유리 외벽이 120도나 비틀려요. 세계에서 손꼽히게 높은 건물이랍니다.",
+      "상하이 공항에서 출발하는 자기부상열차는 바퀴 없이 자석 힘으로 떠서 시속 430km가 넘게 달려요!",
+      "와이탄에는 50채가 넘는 건물이 저마다 다른 스타일로 지어져 있어서, 걷다 보면 마치 여러 나라를 한 번에 여행하는 기분이 들어요.",
+      "예원의 다리는 지그재그로 꺾여 있어요. 옛날엔 나쁜 귀신이 직선으로만 걸을 수 있다고 믿어서, 이렇게 구불구불한 다리로 귀신을 막았대요!",
+      "상하이 항구는 세계에서 가장 바쁜 항구 중 하나예요. 해마다 어마어마하게 많은 컨테이너가 이곳을 오간답니다.",
+      "옛날에 '상하이(上海)'라는 이름은 '바다 위쪽'이라는 뜻이었어요. 강이 바다와 만나는 바로 그 자리에서 도시가 자라났기 때문이랍니다."
+    ],
+    "en": [
+      "Shanghai Tower's glass skin twists 120 degrees as it rises—it's one of the tallest buildings on Earth.",
+      "The Maglev train from Shanghai's airport floats on magnets instead of wheels and zooms over 430 km/h!",
+      "The Bund has more than 50 buildings, each built in a totally different style—walking along it feels like visiting many countries at once.",
+      "The bridge in Yu Garden zigzags back and forth. People once believed evil spirits could only walk in straight lines, so the zigzag kept them out!",
+      "Shanghai's port is one of the busiest in the world—an enormous number of shipping containers pass through every single year.",
+      "The name 'Shanghai' once simply meant 'up from the sea,' because the city grew right where a river meets the ocean."
+    ],
+    "ja": [
+      "上海タワーはのぼるにつれてガラスの外壁が120度もねじれています。世界でも指折りの高さをほこるビルです。",
+      "上海の空港から出発するリニアモーターカーは、車輪の代わりに磁石の力で浮かび、時速430kmを超えて走ります！",
+      "外灘には50以上のビルが並び、それぞれ違うスタイルで建てられているので、歩くだけでいろんな国を旅している気分になります。",
+      "豫園の橋はジグザグに曲がっています。昔、悪い霊はまっすぐにしか歩けないと信じられていて、この曲がった橋で霊を防いだそうです！",
+      "上海の港は世界でも指折りの忙しさ。毎年ものすごい数のコンテナがここを行き来しています。",
+      "『上海』という名前は昔、『海の上（かみ）』という意味でした。川がちょうど海と出会う場所で街が育ったからです。"
+    ],
+    "zh": [
+      "上海中心大厦越往上，玻璃外墙就扭转得越厉害，足足转了120度——它是世界最高的建筑之一。",
+      "从上海机场出发的磁悬浮列车没有轮子，靠磁力悬浮飞驰，时速能超过430公里！",
+      "外滩有50多栋风格各不相同的建筑，走一趟就像同时游览了好几个国家。",
+      "豫园里的桥曲曲折折。古人相信恶鬼只能直着走路，所以造了这样弯弯曲曲的桥来挡住它们！",
+      "上海港是世界上最繁忙的港口之一，每年都有数不清的集装箱在这里进进出出。",
+      "“上海”这个名字，原本的意思就是“海的上边”，因为这座城市正是在江海交汇之处成长起来的。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "귀신을 막으려고 다리를 일부러 구불구불하게 만들었대. 왜 그랬을까?",
+    "en": "People built a bridge with zigzags on purpose to keep ghosts away—can you guess why that would work?",
+    "ja": "幽霊を防ぐために、わざとジグザグの橋を作ったんだって。どうしてそれで防げるのかな？",
+    "zh": "古人特意把桥造成弯弯曲曲的样子来挡鬼，你猜猜为什么这样能管用？"
+  },
+  "places": [
+    {
+      "name": { "ko": "와이탄(외탄)", "en": "The Bund", "ja": "外灘（ワイタン）", "zh": "外滩" },
+      "blurb": {
+        "ko": "황푸강을 따라 걷는 산책로예요. 100년 전 유럽 스타일 건물들이 늘어서 있고, 강 건너편엔 반짝이는 미래 도시 푸둥이 보인답니다.",
+        "en": "A riverside promenade lined with grand European-style buildings from a hundred years ago. Look across the water and you'll spot the shining skyscrapers of futuristic Pudong.",
+        "ja": "黄浦江ぞいの遊歩道。100年前のヨーロッパ風の立派な建物が並び、川の向こうには未来都市・浦東の輝く高層ビルが見えます。",
+        "zh": "沿黄浦江而建的滨江步道。两旁是百年前的欧式建筑，隔江望去，就是未来感十足的浦东高楼群。"
+      },
+      "coords": [31.2397, 121.4900]
+    },
+    {
+      "name": { "ko": "예원", "en": "Yu Garden", "ja": "豫園", "zh": "豫园" },
+      "blurb": {
+        "ko": "명나라 시절에 만든 아름다운 정원이에요. 지그재그 다리를 건너면 잉어들이 헤엄치는 연못이 나온답니다.",
+        "en": "A beautiful garden built back in the Ming dynasty. Cross its zigzag bridge and you'll find a pond full of swimming koi fish.",
+        "ja": "明の時代に作られた美しい庭園。ジグザグの橋をわたると、鯉が泳ぐ池が待っています。",
+        "zh": "建于明代的美丽园林。走过弯弯曲曲的九曲桥，就能看到锦鲤畅游的池塘。"
+      },
+      "coords": [31.2273, 121.4920]
+    },
+    {
+      "name": { "ko": "동방명주탑", "en": "Oriental Pearl Tower", "ja": "東方明珠塔", "zh": "东方明珠塔" },
+      "blurb": {
+        "ko": "분홍빛 구슬 모양 탑이에요. 유리로 된 전망대 바닥에 서면 발밑으로 도시가 훤히 내려다보인답니다.",
+        "en": "A pink, pearl-shaped tower with a glass-floored observation deck. Stand on it and you can look straight down at the city below your feet!",
+        "ja": "ピンク色の真珠のような形の塔。ガラス張りの展望フロアに立てば、足もとに広がる街を見下ろせます。",
+        "zh": "粉色的珍珠形高塔。站在玻璃观光层上，能直接俯瞰脚下的城市。"
+      },
+      "coords": [31.2397, 121.4998]
+    },
+    {
+      "name": { "ko": "상하이 타워", "en": "Shanghai Tower", "ja": "上海中心大厦（上海タワー）", "zh": "上海中心大厦" },
+      "blurb": {
+        "ko": "비틀린 모양으로 하늘 높이 솟은 탑이에요. 세계에서 가장 빠른 엘리베이터를 타면 순식간에 꼭대기까지 올라간답니다.",
+        "en": "A twisting tower that spirals high into the sky. Ride the world's fastest elevator and you'll reach the top in a flash.",
+        "ja": "ねじれながら空高くそびえる塔。世界最速のエレベーターに乗れば、あっという間に頂上に着きます。",
+        "zh": "螺旋扭转直插云霄的高塔。乘坐世界最快的电梯，转眼间就能到达塔顶。"
+      },
+      "coords": [31.2336, 121.5014]
+    }
+  ]
+}

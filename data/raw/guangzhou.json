@@ -1,0 +1,120 @@
+{
+  "id": "guangzhou",
+  "country": "cn",
+  "coords": [23.1291, 113.2644],
+  "name": { "ko": "광저우", "en": "Guangzhou", "ja": "広州（コワンチョウ）", "zh": "广州" },
+  "tagline": {
+    "ko": "다섯 마리 양이 내려온 '꽃의 도시', 판다와 딤섬이 기다리는 곳",
+    "en": "The 'City of Flowers' where five rams once landed—now home to pandas and dim sum",
+    "ja": "五頭の羊が舞い降りた『花の街』、パンダと飲茶が待つ場所",
+    "zh": "五只仙羊降临的“花城”，熊猫和点心都在这里等你"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 중국 남쪽 하늘에서 다섯 신선이 양을 타고 내려왔어요. 양들은 저마다 입에 벼 이삭을 물고 있었는데, 신선들은 이 땅에 영원히 곡식이 풍성하기를 빌어주고는 홀연히 사라졌대요. 그리고 신기하게도, 양 다섯 마리는 그 자리에서 그대로 돌이 되었답니다. 그래서 이 도시는 지금도 '오양성', 즉 '다섯 양의 도시'라고 불려요.",
+      "그 도시가 바로 '광저우'예요. 광저우는 또 다른 이름으로 '캔톤'이라고도 불리는데, 세계적으로 유명한 딤섬과 광둥 요리가 태어난 곳이기도 해요. 대나무 찜통 안에 소복이 담긴 작은 만두와 빵을 손가락으로 콕 짚어 골라 먹는 게 바로 이 도시에서 시작됐답니다.",
+      "오늘날 광저우 옆 동네에는 '창룽 야생동물원'이라는 커다란 사파리가 있어요. 자동차를 타고 지나가면 사자와 기린이 코앞까지 어슬렁어슬렁 다가오고, 새하얀 호랑이와 사랑스러운 판다도 만날 수 있어요. 이곳은 아기 판다를 태어나게 하고 돌보는 일도 활발히 하는, 판다들의 소중한 보금자리랍니다.",
+      "도시 한가운데 우뚝 솟은 '광저우탑'은 허리가 잘록해서 '가느다란 허리'라는 별명을 갖고 있어요. 탑 꼭대기 근처에는 세상에서 가장 높고 빠른 야외 관람차가 매달려 빙글빙글 돌아요. 밤이 되면 진주강 위로 유람선이 떠다니고, 불빛으로 반짝이는 도시가 강물에 그대로 비친답니다."
+    ],
+    "en": [
+      "Long, long ago, five immortals rode down from the southern sky on five rams. Each ram carried a stalk of rice in its mouth, and the immortals blessed the land with rice forever, then vanished into thin air. Strangely enough, the five rams turned to stone right on the spot. That's why this city is still nicknamed the 'City of Five Rams' today.",
+      "That city is Guangzhou. It's also known as 'Canton,' and it's the birthplace of world-famous dim sum and Cantonese cooking. Choosing little steamed dumplings and buns from bamboo baskets, just by pointing at what you want, started right here.",
+      "Today, just outside the city, there's a huge safari called Chimelong Safari Park. Ride through in a car and lions and giraffes wander right up close, while snow-white tigers and adorable giant pandas wait to be met. It's also a treasured home where baby pandas are born and lovingly cared for.",
+      "Rising tall in the middle of the city is Canton Tower, nicknamed the 'Slender Waist' for its curvy, pinched-in shape. Near the very top, the world's highest and fastest outdoor Ferris wheel spins slowly around. At night, boats drift along the Pearl River, and the glowing city lights shimmer right back at you from the water."
+    ],
+    "ja": [
+      "はるか昔、中国南部の空から五人の仙人が羊に乗って舞い降りてきました。羊たちはそれぞれ口に稲穂をくわえていて、仙人たちはこの土地に永遠の豊作を授けると、ふっと姿を消しました。すると不思議なことに、五頭の羊はその場でそのまま石になったのです。だからこの街は今も『五羊城』、つまり『五頭の羊の街』と呼ばれています。",
+      "その街こそ『広州』です。広州は『カントン』とも呼ばれ、世界的に有名な飲茶（ヤムチャ）と広東料理が生まれた街でもあります。竹のせいろに並んだ小さな点心を、指さしで選んで食べるスタイルは、この街から始まったのですよ。",
+      "今日、広州の郊外には『長隆野生動物世界』という大きなサファリパークがあります。車に乗って進むと、ライオンやキリンがすぐそばまで近づいてきて、真っ白なトラやかわいいパンダにも出会えます。ここは赤ちゃんパンダが生まれ、大切に育てられる、パンダたちの大事なふるさとでもあります。",
+      "街の真ん中にそびえる『広州塔』は、くびれた形から『細いウエスト』というニックネームで呼ばれています。塔のてっぺん近くには、世界一高くて速い屋外観覧車がゆっくりと回っています。夜になると珠江に遊覧船が浮かび、光り輝く街並みが川面にそのまま映りこみます。"
+    ],
+    "zh": [
+      "很久很久以前，五位仙人从南方的天空骑着仙羊降临人间。每只羊嘴里都衔着一茎稻穗，仙人们祝愿这片土地五谷丰登、永世不绝，然后倏然消失。神奇的是，五只仙羊就在原地化作了石头。所以这座城市至今仍被叫作“五羊城”。",
+      "这座城市就是广州。广州也叫“Canton”（旧称“广府”），是世界闻名的点心和粤菜的发源地。用手指着竹蒸笼里一格格小巧的点心来点单，正是从这座城市开始的呢。",
+      "如今，在广州郊外，有一座巨大的野生动物园——长隆野生动物世界。坐车穿行其中，狮子和长颈鹿会悠悠地凑到车窗边，雪白的老虎和可爱的大熊猫也在等着与你相见。这里还是大熊猫繁育和悉心照料的珍贵家园。",
+      "矗立在市中心的广州塔，因为腰身纤细而得了个“小蛮腰”的昵称。塔顶附近，挂着世界上最高、转得最快的户外摩天轮，正缓缓转动。到了夜晚，游船在珠江上飘荡，闪闪发亮的城市倒映在江水里，美得像一幅画。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "광저우는 '오양성(다섯 양의 도시)'이라 불려요. 신선들이 타고 온 양 다섯 마리가 돌이 됐다는 전설 때문이에요. 지금도 위에슈 공원에 그 돌양 조각상이 서 있답니다.",
+      "딤섬(点心)과 광둥 요리가 태어난 고향이 바로 광저우예요. 카트에 실려 오는 작은 찜통을 보고 손가락으로 콕 짚어 고르는 방식이 여기서 시작됐어요.",
+      "창룽 야생동물원은 아시아에서 손꼽히게 큰 사파리 공원이에요. 자동차를 타고 지나가면 사자와 호랑이가 창밖까지 다가온답니다.",
+      "이곳에는 희귀한 새하얀 호랑이도 살고 있고, 아기 판다를 낳고 키우는 프로그램도 활발하게 이루어지고 있어요.",
+      "광저우탑은 높이가 약 600미터나 돼요. 허리가 잘록한 모양 때문에 '가느다란 허리'라는 별명이 붙었죠.",
+      "광저우탑 꼭대기 근처에는 세계에서 가장 높고 빠른 야외 관람차(버블 트램)가 있어서, 하늘 위를 걷는 기분을 느낄 수 있어요."
+    ],
+    "en": [
+      "Guangzhou is nicknamed the 'City of Five Rams,' from the legend of five rams that turned to stone. A statue of them still stands in Yuexiu Park today.",
+      "Dim sum and Cantonese cuisine were both born in Guangzhou. Ordering by pointing at little steamer baskets on a cart started right here.",
+      "Chimelong Safari Park is one of the biggest safari parks in Asia. Ride through in a car and lions and tigers come right up to the window.",
+      "The park is home to rare snow-white tigers, and it runs an active program for breeding and raising baby giant pandas.",
+      "Canton Tower stands about 600 meters tall. Its curvy, pinched-in shape earned it the nickname 'Slender Waist.'",
+      "Near the top of Canton Tower spins the world's highest and fastest outdoor Ferris wheel—the Bubble Tram—so riders feel like they're walking on air."
+    ],
+    "ja": [
+      "広州は『五羊城』とも呼ばれます。五頭の羊が石になったという伝説にちなんでいて、今もその石像が越秀公園に立っています。",
+      "飲茶（ヤムチャ）と広東料理が生まれた場所こそ広州です。ワゴンに乗った小さなせいろを指さして選ぶスタイルは、ここから始まりました。",
+      "長隆野生動物世界はアジア屈指の大きさを誇るサファリパーク。車に乗って進むと、ライオンやトラが窓のすぐそばまで来てくれます。",
+      "この動物園には珍しい真っ白なトラも暮らしていて、赤ちゃんパンダを産み育てるプログラムも盛んに行われています。",
+      "広州塔は高さ約600メートル。くびれた形から『細いウエスト』というニックネームがつきました。",
+      "広州塔のてっぺん近くには、世界一高くて速い屋外観覧車『バブルトラム』があり、まるで空の上を歩いているような気分になれます。"
+    ],
+    "zh": [
+      "广州被称为“五羊城”，源自五只仙羊化作石头的传说。如今那尊石羊雕像仍立在越秀公园里。",
+      "点心和粤菜正是诞生于广州。用手指着推车上的小蒸笼来点餐，这种方式就是从这里开始流行的。",
+      "长隆野生动物世界是亚洲数一数二的大型野生动物园。坐车穿行其中，狮子和老虎会靠近到车窗边。",
+      "园区里生活着罕见的雪白老虎，还积极开展大熊猫繁育和抚育的项目。",
+      "广州塔高约600米，因为腰身纤细弯曲，得名“小蛮腰”。",
+      "广州塔顶部附近有世界最高、转速最快的户外摩天轮“泡泡观光车”，坐上去仿佛漫步云端。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "다섯 마리 양이 돌로 변해서 도시를 지켜준다는 전설, 정말 믿을 수 있어?",
+    "en": "Five rams turned to stone to watch over the city forever—do you believe it?",
+    "ja": "五頭の羊が石になって街を見守っているという伝説、信じられるかな？",
+    "zh": "五只仙羊化作石头，永远守护着这座城市——你相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "위에슈 공원 (오양 조각상)", "en": "Yuexiu Park (Five-Ram Statue)", "ja": "越秀公園（五羊石像）", "zh": "越秀公园（五羊石像）" },
+      "blurb": {
+        "ko": "돌로 변한 다섯 마리 양의 전설을 새긴 커다란 조각상이 서 있는 공원이에요. 광저우 사람들은 이 양들이 도시에 영원한 풍요를 가져다준다고 믿는답니다.",
+        "en": "A park with a big statue honoring the legend of the five rams that turned to stone. People here believe the rams still bring the city everlasting good fortune.",
+        "ja": "石になった五頭の羊の伝説を刻んだ大きな像が立つ公園。人々はこの羊たちが街に永遠の豊かさをもたらすと信じています。",
+        "zh": "公园里立着一尊纪念仙羊化石传说的巨大雕像。广州人相信这几只羊会为城市带来永恒的丰饶。"
+      },
+      "coords": [23.1372, 113.2668]
+    },
+    {
+      "name": { "ko": "창룽 야생동물원 & 파라다이스", "en": "Chimelong Safari Park & Paradise", "ja": "長隆野生動物世界＆パラダイス", "zh": "长隆野生动物世界＆欢乐世界" },
+      "blurb": {
+        "ko": "자동차를 타고 지나가면 사자, 기린, 새하얀 호랑이가 코앞까지 다가오는 사파리예요. 바로 옆에는 롤러코스터가 가득한 놀이공원 '창룽 파라다이스'도 있어서, 판다를 만난 뒤 신나게 놀 수도 있답니다.",
+        "en": "Drive through and lions, giraffes, and snow-white tigers come right up close. Right next door is Chimelong Paradise, a huge amusement park full of roller coasters—so you can meet the pandas, then go have a blast.",
+        "ja": "車で進むと、ライオンやキリン、真っ白なトラがすぐそばまで来てくれるサファリ。すぐ隣にはジェットコースターがたくさんある遊園地『長隆パラダイス』もあり、パンダに会ったあと思いきり遊べます。",
+        "zh": "开车驶过，狮子、长颈鹿和雪白的老虎都会靠近车窗。旁边就是过山车云集的长隆欢乐世界，见完熊猫还能痛痛快快地玩一场。"
+      },
+      "coords": [22.9975, 113.3286]
+    },
+    {
+      "name": { "ko": "광저우탑", "en": "Canton Tower", "ja": "広州塔", "zh": "广州塔" },
+      "blurb": {
+        "ko": "높이 약 600미터, 잘록한 허리 모양 때문에 '가느다란 허리'라 불리는 탑이에요. 꼭대기 근처의 관람차를 타면 진주강과 도시 전체를 발아래로 내려다볼 수 있어요.",
+        "en": "About 600 meters tall, nicknamed 'Slender Waist' for its curvy shape. Ride the Ferris wheel near the top and look straight down at the Pearl River and the whole city below.",
+        "ja": "高さ約600メートル、くびれた形から『細いウエスト』と呼ばれる塔。てっぺん近くの観覧車に乗れば、珠江と街全体を見下ろせます。",
+        "zh": "塔高约600米，因腰身纤细而得名“小蛮腰”。乘上塔顶附近的摩天轮，可以俯瞰珠江和整座城市。"
+      },
+      "coords": [23.1093, 113.3245]
+    },
+    {
+      "name": { "ko": "진씨서원 (천가사)", "en": "Chen Clan Academy", "ja": "陳家祠", "zh": "陈家祠" },
+      "blurb": {
+        "ko": "100년도 더 된 아름다운 건물로, 지붕과 기둥마다 정교한 조각과 도자기 장식이 가득해요. 나무, 돌, 도자기에 새겨진 용과 꽃 무늬를 하나하나 찾아보는 재미가 쏠쏠하답니다.",
+        "en": "A beautiful building over a hundred years old, covered in detailed carvings and ceramic decorations on every roof and pillar. It's fun to hunt for the dragons and flowers carved into the wood, stone, and pottery.",
+        "ja": "100年以上前の美しい建物で、屋根や柱のすみずみまで精巧な彫刻と陶磁器の装飾で埋めつくされています。木や石、焼き物に彫られた龍や花の模様を探すのが楽しい場所です。",
+        "zh": "这座百年古建筑，屋顶和梁柱上布满精美的雕刻和陶塑装饰。在木雕、石刻和陶瓷上寻找一条条龙、一朵朵花，别有一番乐趣。"
+      },
+      "coords": [23.1256, 113.2506]
+    }
+  ]
+}

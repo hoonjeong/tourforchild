@@ -1,0 +1,120 @@
+{
+  "id": "guilin",
+  "country": "cn",
+  "coords": [25.2736, 110.2900],
+  "name": { "ko": "구이린 (계림)", "en": "Guilin", "ja": "桂林（グイリン）", "zh": "桂林" },
+  "tagline": {
+    "ko": "동화 속 그림 같은 초록 산봉우리들, 그리고 돈에까지 그려진 아름다운 강",
+    "en": "Hundreds of fairy-tale green mountains, and a river so pretty it's on the money",
+    "ja": "絵本のような緑の山々と、お金にまで描かれた美しい川",
+    "zh": "如童话般连绵的绿色山峰，美到被印上钞票的河流"
+  },
+  "story": {
+    "ko": [
+      "수백 개의 초록빛 뾰족한 산봉우리가 평평한 땅 위로 삐죽삐죽 솟아 있는 곳을 상상해 보세요. 마치 동화책 그림이 현실이 된 것처럼요. 그런 신비로운 곳이 진짜로 있는데, 바로 중국 남쪽의 '구이린(계림)'이에요. 이름에는 '향기로운 계수나무 숲'이라는 뜻이 담겨 있는데, 가을이면 작은 금빛 꽃들이 도시 곳곳에 피어나 달콤한 향기로 가득 채운답니다.",
+      "그런데 구이린에는 왜 이렇게 뾰족한 산들이 가득할까요? 아주 먼 옛날, 3억 년도 더 전에는 이곳이 따뜻하고 얕은 바다였어요. 수많은 작은 바다 생물들이 죽어서 남긴 껍데기가 오랜 세월 켜켜이 쌓여 부드러운 석회암이 되었죠. 바다가 사라지고 땅이 솟아오른 뒤, 비와 강물이 오랫동안 석회암을 조금씩 녹여내며 수천 개의 뾰족한 봉우리를 깎아 만들었어요. 마치 자연이 만든 모래성 같답니다.",
+      "그 수많은 봉우리 사이로 '리강(이강)'이라는 강이 굽이굽이 흐르는데, 얼마나 아름다운지 '구이린의 산과 물은 하늘 아래 으뜸이다'라는 말까지 있을 정도예요. 어찌나 유명한지 중국 돈 20위안 지폐 뒷면에도 이 풍경이 그려져 있답니다! 강가의 한 산봉우리에는 특별한 전설도 있어요. 코끼리가 강물에 코를 담그고 있는 모습을 꼭 닮았는데, 사람들은 마법의 코끼리가 돌로 변한 거라고 말해요. 그 등에는 옛 탑이 마치 칼자루처럼 세워져 있답니다.",
+      "오늘날에도 사람들은 대나무 뗏목을 타고 리강을 따라 내려가며, 가마우지라는 새를 훈련시켜 물고기를 잡는 어부들을 만날 수 있어요. 수백 년 전 사람들이 그랬던 것처럼요. 반짝이는 종유석 가득한 동굴 속을 탐험할 수도 있고, 달 모양 구멍이 뚫린 산에 올라볼 수도 있답니다. 구이린에서는 산 하나하나가 저마다의 신비로운 이야기를 들려주는 것 같아요."
+    ],
+    "en": [
+      "Picture a place where hundreds of green, pointy mountains poke up out of flat land, like a fairy-tale painting come to life. That magical place is real, and it's called Guilin, in southern China. Its name means 'Forest of Sweet Osmanthus'—because every autumn, tiny golden flowers bloom all over the city and fill the air with a sweet, sugary smell.",
+      "But how did Guilin get those strange, pointy mountains? Long, long ago—over 300 million years ago—this whole area was hidden under a warm, shallow sea. Billions of tiny sea creatures died and left their shells behind, and over millions of years those shells piled up and turned into soft limestone rock. When the sea disappeared and the land rose up, rain and rivers slowly dissolved the limestone, carving it into thousands of tall, pointy peaks—like nature's own sandcastles.",
+      "Right through the middle of all those peaks winds a river called the Li River, and the view is so beautiful that people say, 'Guilin's mountains and waters are the finest under heaven.' It's so famous that its picture is printed on the back of China's 20-yuan money! One hill by the river even has its own legend: it's shaped exactly like an elephant dipping its trunk into the water, and people say it's a magical elephant who was turned to stone, with an old pagoda sitting on its back like the hilt of a sword.",
+      "Today, families still float down the Li River on bamboo rafts, past fishermen who use trained birds called cormorants to help them catch fish, just like people did hundreds of years ago. You can duck into glowing caves full of sparkling rock formations, or climb a hill with a hole shaped like the moon. In Guilin, every mountain seems to be telling its own wondrous story."
+    ],
+    "ja": [
+      "平らな大地から、緑色のとがった山が何百も突き出している場所を想像してみてください。まるで絵本の絵がそのまま現実になったみたい。そんな不思議な場所が本当にあります。中国南部の『桂林（グイリン）』です。その名前には『甘い香りの金木犀（きんもくせい）の森』という意味があり、秋になると小さな金色の花が街じゅうに咲いて、甘い香りでいっぱいになるのです。",
+      "でも、どうして桂林にはこんなにとがった山がたくさんあるのでしょう？ はるか昔、3億年以上も前、この場所は暖かく浅い海の底でした。無数の小さな海の生き物たちが死んで残した殻が、何百万年もかけて積み重なり、やわらかい石灰岩になったのです。海が消えて陸地が持ち上がったあと、雨と川の水が長い年月をかけて石灰岩を少しずつ溶かし、何千もの尖った山々をつくりあげました。まるで自然がつくった砂のお城のようですね。",
+      "その山々の間を『漓江（りこう）』という川がくねくねと流れていて、あまりの美しさに『桂林の山水は天下一』と言われるほど。あまりに有名なので、中国のお金、20元札の裏側にもこの風景が描かれています！川沿いのある山には特別な伝説もあります。象が川に鼻をひたしているような形をしていて、魔法の象が石になったのだと言われているのです。その背中には昔の塔が、まるで剣の柄のように立っています。",
+      "今でも人々は竹のいかだで漓江を下り、鵜（う）という鳥を訓練して魚を捕る漁師たちに出会えます。何百年も前の人たちと同じように。きらきら光る鍾乳石でいっぱいの洞窟を探検したり、月のような形の穴があいた山に登ったりすることもできます。桂林では、どの山もそれぞれ不思議な物語を語りかけてくるようです。"
+    ],
+    "zh": [
+      "想象一下这样一个地方：几百座绿油油、尖尖的山峰，从一片平地上冒了出来，就像童话书里的画突然变成了真的。这个神奇的地方真实存在，它就是中国南方的桂林。它的名字意思是“芳香的桂花树林”——因为每到秋天，满城都会开满小小的金色桂花，空气里飘着甜甜的香味。",
+      "可是桂林为什么会有这么多尖尖的山呢？很久很久以前，三亿多年前，这里其实是一片温暖的浅海。无数微小的海洋生物死去后留下贝壳，经过几百万年一层层堆积，变成了松软的石灰岩。后来海水退去、陆地隆起，雨水和河流花了很长很长的时间，一点点溶解石灰岩，雕刻出成千上万座尖尖的山峰，就像大自然亲手堆出的沙堡。",
+      "一条叫漓江的河流，弯弯曲曲地穿行在这些山峰之间，景色美得让人赞叹，才有了“桂林山水甲天下”这句话。它实在太有名了，连中国20元人民币的背面都印着这幅风景！江边有一座山还藏着一个特别的传说：它的样子就像一头大象把鼻子伸进水里，人们说那是一头神象变成的石头，它的背上立着一座古塔，就像插着一把剑的剑柄。",
+      "直到今天，人们仍然乘着竹筏顺漓江而下，还能遇到训练鸬鹚（一种会捕鱼的鸟）来捕鱼的渔民，就跟几百年前的人一样。你还可以钻进闪闪发亮、长满钟乳石的山洞，或者爬上一座山顶有个月亮形状洞口的山。在桂林，每一座山峰,好像都在讲述自己的奇妙故事。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "구이린이라는 이름은 '향기로운 계수나무 숲'이라는 뜻이에요. 가을이면 온 도시가 달콤한 금빛 꽃향기로 가득 찬답니다.",
+      "뾰족한 산봉우리들은 3억 년 전 바다 생물의 껍데기에서 시작되어, 비와 강물이 오랜 세월 조금씩 깎아 만든 거예요.",
+      "리강의 풍경이 얼마나 유명한지, 중국 돈 20위안 지폐 뒷면에 그대로 그려져 있어요.",
+      "코끼리 코 모양을 닮은 '코끼리코산'에는 전설이 있어요. 마법의 코끼리가 돌로 변했는데, 등에 있는 탑이 마치 칼자루처럼 보인답니다.",
+      "루디옌(갈대피리 동굴)에는 반짝이는 형형색색의 종유석이 가득하고, 1000년 넘게 사람들이 벽에 시를 써 남겼대요.",
+      "구이린 어부들은 수백 년 전부터 '가마우지'라는 새를 훈련시켜 물고기를 잡아요. 목에 느슨한 고리를 걸어 큰 물고기는 삼키지 못하게 한답니다."
+    ],
+    "en": [
+      "Guilin's name means 'Forest of Sweet Osmanthus'—every autumn the whole city smells like sugary golden flowers.",
+      "The pointy karst mountains started as sea-creature shells over 300 million years ago, slowly carved by rain and rivers into thousands of peaks.",
+      "The Li River view is so famous it's printed on the back of China's 20-yuan banknote.",
+      "Elephant Trunk Hill looks just like an elephant drinking from the river—legend says it's a magic elephant turned to stone, with a pagoda on its back shaped like a sword's handle.",
+      "Reed Flute Cave is packed with glowing, colorful stalactites and stalagmites, and visitors have been writing poems on its walls for over 1,000 years.",
+      "For centuries, Guilin fishermen have used trained birds called cormorants, with a loose ring around their necks, to catch fish and bring them back without swallowing the big ones."
+    ],
+    "ja": [
+      "桂林という名前は『甘い香りの金木犀の森』という意味。秋になると街じゅうが甘い金色の花の香りに包まれます。",
+      "とがった山々は3億年前の海の生き物の殻から始まり、雨と川の水が長い時間をかけて少しずつ削って作りました。",
+      "漓江の景色があまりに有名なので、中国の20元札の裏に描かれています。",
+      "象の鼻の形にそっくりな『象鼻山』には伝説があります。魔法の象が石になったもので、背中の塔がまるで剣の柄のように見えるのです。",
+      "芦笛岩（ろてきがん）にはきらきら光るカラフルな鍾乳石がいっぱいで、1000年以上前から人々が壁に詩を書き残してきました。",
+      "桂林の漁師たちは何百年も前から鵜（う）という鳥を訓練して魚を捕ってきました。首にゆるい輪をつけて、大きな魚を飲みこめないようにするのです。"
+    ],
+    "zh": [
+      "桂林这个名字的意思是“芳香的桂花树林”。每到秋天，整座城市都会飘满金色桂花的甜香。",
+      "尖尖的山峰最初来自三亿年前海洋生物的贝壳，经过雨水和河流长年累月的雕琢才形成的。",
+      "漓江的风景实在太有名了，就印在中国20元人民币的背面。",
+      "长得像大象伸鼻子喝水的“象鼻山”有个传说：一头神象变成了石头，背上的古塔看起来就像插着一把剑的剑柄。",
+      "芦笛岩里布满了闪闪发光、五颜六色的钟乳石，一千多年来人们一直在洞壁上题诗留念。",
+      "桂林的渔民几百年来都会训练鸬鹚捕鱼，它们脖子上系着松松的圈，这样就不会把大鱼吞下去了。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "산이 사실은 마법에 걸려 돌로 변한 코끼리라면 믿을 수 있겠어?",
+    "en": "Do you think a mountain could really be a magic elephant that turned to stone?",
+    "ja": "山がじつは魔法で石になった象だったら、信じられるかな？",
+    "zh": "如果一座山其实是被魔法变成石头的大象，你会相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "리강", "en": "Li River", "ja": "漓江", "zh": "漓江" },
+      "blurb": {
+        "ko": "대나무 뗏목을 타고 리강을 따라 내려가면, 병풍처럼 이어진 초록 봉우리들 사이를 지나가요. 이 풍경이 얼마나 아름다운지 중국 20위안 지폐에도 그려져 있답니다.",
+        "en": "Float down the Li River on a bamboo raft and drift past endless green peaks lined up like a folding screen. The view is so famous it's painted onto China's 20-yuan bill.",
+        "ja": "竹のいかだで漓江を下ると、屏風のように連なる緑の山々の間を進みます。この景色があまりに美しいので、中国の20元札にも描かれているのです。",
+        "zh": "乘着竹筏顺漓江而下，穿行在一座座像屏风般排开的青翠山峰之间。这景色实在太美，被印在了中国的20元纸币上。"
+      },
+      "coords": [25.0126, 110.4783]
+    },
+    {
+      "name": { "ko": "코끼리코산 (샹비산)", "en": "Elephant Trunk Hill", "ja": "象鼻山（ぞうびさん）", "zh": "象鼻山" },
+      "blurb": {
+        "ko": "강물에 코를 담근 코끼리 모습을 꼭 닮은 산이에요. 전설에 따르면 마법의 코끼리가 돌로 변한 거래요. 등에 있는 옛 탑은 그 코끼리를 붙잡아 둔 칼자루처럼 보인답니다.",
+        "en": "This hill looks exactly like an elephant dipping its trunk into the river. Legend says it's a magical elephant turned to stone, and the old pagoda on its back looks just like the handle of a sword.",
+        "ja": "川に鼻をひたす象そっくりの形をした山。伝説では魔法の象が石になったとされ、背中の古い塔はまるで剣の柄のように見えます。",
+        "zh": "这座山的样子活像一头把鼻子伸进江水里的大象。传说它是一头神象变成的石头，背上的古塔看起来就像一把剑的剑柄。"
+      },
+      "coords": [25.2644, 110.2919]
+    },
+    {
+      "name": { "ko": "루디옌 (갈대피리 동굴)", "en": "Reed Flute Cave", "ja": "芦笛岩", "zh": "芦笛岩" },
+      "blurb": {
+        "ko": "알록달록한 조명이 반짝이는 종유석 동굴이에요. '자연이 만든 예술 궁전'이라 불릴 만큼 화려하고, 1000년 넘게 여행자들이 벽에 시와 그림을 남겼답니다.",
+        "en": "A cave glowing with colorful lights on sparkling stalactites and stalagmites. It's so dazzling people call it the 'Palace of Natural Art,' and travelers have been leaving poems and drawings on its walls for over 1,000 years.",
+        "ja": "きらめく鍾乳石にカラフルな光が当たる洞窟。あまりの美しさに『自然の芸術の宮殿』と呼ばれ、1000年以上前から旅人たちが壁に詩や絵を残してきました。",
+        "zh": "一个满是闪亮钟乳石、打着彩色灯光的洞穴。因为太美，被称为“大自然的艺术宫殿”，一千多年来旅行者们一直在洞壁上题诗作画。"
+      },
+      "coords": [25.2989, 110.2694]
+    },
+    {
+      "name": { "ko": "달산 (웨량산)", "en": "Moon Hill", "ja": "月亮山（げつりょうざん）", "zh": "月亮山" },
+      "blurb": {
+        "ko": "산꼭대기에 보름달처럼 둥근 구멍이 뻥 뚫려 있어요. 계단을 오르면 구멍 사이로 논밭과 봉우리들이 그림처럼 펼쳐진 풍경을 볼 수 있답니다.",
+        "en": "A hill with a giant hole near the top, shaped just like a full moon. Climb the steps and you can look right through the hole at a picture-perfect view of fields and peaks below.",
+        "ja": "山の頂上近くに満月そっくりの丸い穴がぽっかり開いています。階段をのぼると、その穴ごしに田んぼと山々が絵のように広がる景色が見えます。",
+        "zh": "山顶附近有一个圆圆的大洞，形状就像一轮满月。爬上台阶，透过洞口就能看到下方田野和山峰如画般的美景。"
+      },
+      "coords": [24.7469, 110.4919]
+    }
+  ]
+}

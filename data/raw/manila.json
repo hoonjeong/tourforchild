@@ -1,0 +1,120 @@
+{
+  "id": "manila",
+  "country": "ph",
+  "coords": [14.5995, 120.9842],
+  "name": { "ko": "마닐라", "en": "Manila", "ja": "マニラ", "zh": "马尼拉" },
+  "tagline": {
+    "ko": "지진과 화재, 전쟁까지 견디고 다시 빛난 성벽 도시",
+    "en": "The walled city that survived earthquakes, fire, and war to shine again",
+    "ja": "地震も火事も戦争も乗りこえて、また輝いた城壁の街",
+    "zh": "扛过地震、火灾与战火，又重新闪耀的城墙之城"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 스페인 배가 오기 전에도 파시그 강이 바다와 만나는 이 자리엔 '마이닐라'라는 활기찬 무역 도시가 있었어요. 중국과 보르네오에서 온 상인들이 배를 타고 들어와 비단과 도자기, 금을 항구 가득 부려놓았죠. 도시 이름은 강가에 무성하게 자라던 하얀 꽃 '닐라드'에서 따왔대요. 필리핀이라는 이름이 생기기 훨씬 전부터 이곳은 이미 물길 따라 북적이고 있었답니다.",
+      "1571년, 스페인 탐험가들이 도착해 옛 도시 위에 완전히 새로운 도시를 세웠어요. 그리고 그 도시를 두꺼운 돌 성벽으로 둘러쌌죠. 사람들은 이곳을 '인트라무로스', 즉 '성벽 안'이라고 불렀어요. 성벽 안에는 교회와 학교가 들어섰고, 강 어귀를 지키는 거대한 요새 '포트 산티아고'가 마치 돌로 만든 용처럼 우뚝 섰답니다.",
+      "수백 년 동안 성벽은 굳건히 버텼지만, 모든 걸 막아낼 순 없었어요. 지진이 몇 번이고 도시를 뒤흔들었고, 화재와 전쟁도 도시를 무너뜨리려 했죠. 그러다 제2차 세계대전, 끔찍한 한 달간의 전투로 성벽 안 도시 대부분이 폐허가 되고 말았어요. 거의 모든 것이 사라졌어요. 거의 말이에요.",
+      "딱 하나, 끝까지 무너지지 않은 건물이 있었어요. 황금빛 돌로 지은 '산 아구스틴 성당'이었죠. 지진도, 화재도, 폭탄도 다 견뎌내고 원래 그 자리에 그대로 서 있었답니다. 오늘날 인트라무로스의 다시 세워진 거리를 걷고, 알록달록 무지개색으로 칠한 지프니를 타고, 마닐라만으로 주홍빛 노을이 녹아드는 모습을 볼 수 있어요. 이 오래된 도시는 언제나 다시 빛나는 법을 찾아낸답니다."
+    ],
+    "en": [
+      "Long before Spanish ships arrived, a bustling trading kingdom called Maynila sat where the Pasig River met the sea. Traders sailed in from China, Borneo, and beyond, filling the harbor with silk, porcelain, and gold. The city took its name from a little white-flowered plant called nilad that grew thick along the riverbanks. Life buzzed along the water long before anyone had heard of the Philippines.",
+      "In 1571, Spanish explorers sailed in and built a brand-new city right on top of the old one, wrapping it in thick stone walls to keep it safe. They called it Intramuros, which simply means 'inside the walls.' Behind those walls rose churches, schools, and a mighty fortress named Fort Santiago, guarding the river mouth like a stone dragon.",
+      "For centuries the walls held strong, but they couldn't hold off everything. Earthquakes shook the city again and again, and fires and wars tried to bring it down. Then in World War II, one terrible month of fighting flattened almost the entire walled city into rubble. Almost everything was destroyed—almost.",
+      "One building refused to fall: a golden stone church called San Agustin. It had survived earthquakes, fires, and bombs, standing exactly where it always had. Today you can wander Intramuros's rebuilt streets, ride in a jeepney bursting with rainbow paint, and watch the sun melt into Manila Bay in fiery orange—proof that this old city always finds a way to shine again."
+    ],
+    "ja": [
+      "はるか昔、スペインの船がやって来るずっと前から、パシッグ川が海と出会うこの場所には『マイニラ』というにぎやかな貿易都市がありました。中国やボルネオから商人が船で訪れ、絹や陶磁器、金を港いっぱいに運び込みました。街の名前は、川岸にたくさん咲いていた白い花『ニラッド』にちなんでつけられたそうです。「フィリピン」という名前が生まれるずっと前から、この場所は水辺でにぎわっていたのです。",
+      "1571年、スペインの探検家たちがやって来て、古い街の上にまったく新しい街を築きました。そして分厚い石の城壁でぐるりと囲んだのです。人々はここを『イントラムロス』、つまり『城壁の中』と呼びました。城壁の中には教会や学校が建ち並び、川の入り口を守る大きな要塞『フォート・サンティアゴ』が、まるで石でできた竜のようにそびえていました。",
+      "何百年ものあいだ城壁は持ちこたえましたが、すべてを防げたわけではありません。地震が何度も街を揺らし、火事や戦争も街を壊そうとしました。そして第二次世界大戦、ひと月にもおよぶ激しい戦いで、城壁の中の街のほとんどが瓦礫となってしまいました。ほとんどすべてが失われたのです。ほとんど、ですが。",
+      "たったひとつだけ、最後まで倒れなかった建物がありました。黄金色の石でできた『サン・アグスティン教会』です。地震も火事も爆弾も乗り越え、もとの場所にそのまま立っていました。今日では、建て直されたイントラムロスの通りを歩き、虹色にペイントされたジープニーに乗り、マニラ湾にオレンジ色の夕日がとろけていくようすを見ることができます。この古い街は、いつだってまた輝く方法を見つけ出すのです。"
+    ],
+    "zh": [
+      "很久很久以前，西班牙人的船只到来之前，帕西格河与大海交汇的地方就有一座热闹的贸易城市，叫“麦尼拉”。来自中国和婆罗洲的商人乘船而来，把港口塞满了丝绸、瓷器和黄金。这座城市的名字，来自河岸边长满的一种白花植物“尼拉德”。早在“菲律宾”这个名字出现之前，这里就已经因水路贸易而热闹非凡了。",
+      "1571年，西班牙探险者来到这里，在旧城之上建起了一座全新的城市，并用厚厚的石头城墙把它团团围住。人们把这里叫做“内城”，意思就是“城墙之内”。城墙里立起了教堂和学校，还有一座守卫河口的巨大堡垒——“圣地亚哥城堡”，就像一条石头巨龙一样矗立着。",
+      "几百年来，城墙一直坚固不倒，但它挡不住一切。地震一次又一次摇撼这座城市，火灾和战争也曾试图把它击垮。到了第二次世界大战，一个月惨烈的战斗，几乎把整座内城夷为废墟。几乎所有建筑都被摧毁了——几乎。",
+      "只有一座建筑始终屹立不倒：一座金色石头砌成的教堂，叫“圣奥古斯丁教堂”。它挺过了地震、火灾和炮火，依然站在原来的地方。今天，你可以漫步在重建后的内城街道上，乘坐一辆涂满彩虹色彩的吉普尼，看夕阳把橙红色融进马尼拉湾——这座古老的城市，总能找到再次闪耀的方法。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "마닐라의 '비논도'는 1594년에 생긴, 세계에서 가장 오래된 차이나타운이에요!",
+      "지프니는 제2차 세계대전 뒤 남은 미군 지프를 알록달록 꾸며 만든 차예요. 지금은 필리핀을 상징하는 대중교통이 됐죠.",
+      "산 아구스틴 성당은 큰 지진을 일곱 번이나 견디고, 인트라무로스를 무너뜨린 2차 대전 폭격까지 이겨냈어요. 유네스코 세계유산이랍니다.",
+      "'마닐라'라는 이름은 강가에 자라던 하얀 꽃 '닐라드'에서 왔어요.",
+      "마닐라만의 노을은 세계에서 손꼽히게 아름답기로 유명해요. 하늘이 온통 주황빛으로 물든답니다.",
+      "포트 산티아고는 필리핀의 영웅 호세 리살이 처형 전 마지막 나날을 보낸 곳이에요. 그가 걸었던 마지막 발자국이 청동으로 새겨져 남아 있어요."
+    ],
+    "en": [
+      "Manila's Binondo, founded in 1594, is the oldest Chinatown in the entire world!",
+      "Jeepneys were made from leftover US military jeeps after World War II, painted in wild rainbow colors—now they're the Philippines' most iconic ride.",
+      "San Agustin Church survived seven major earthquakes and the WWII bombing that flattened the rest of Intramuros. It's a UNESCO World Heritage Site.",
+      "The name 'Manila' comes from nilad, a little white flower that once grew thick along the riverbank.",
+      "Manila Bay's sunsets are famous around the world for turning the whole sky fiery orange.",
+      "Fort Santiago is where national hero José Rizal spent his last days before his execution—his final footsteps are marked in bronze on the ground."
+    ],
+    "ja": [
+      "マニラの『ビノンド』は1594年にできた、世界で最も古いチャイナタウンなんです!",
+      "ジープニーは第二次世界大戦後に残されたアメリカ軍のジープを虹色にかざったもの。今ではフィリピンを代表する乗り物になりました。",
+      "サン・アグスティン教会は7回もの大地震と、イントラムロスの他の建物を壊した第二次世界大戦の爆撃を乗り越えました。世界遺産にも登録されています。",
+      "『マニラ』という名前は、川岸にたくさん咲いていた白い花『ニラッド』からきています。",
+      "マニラ湾の夕日は、空が真っ赤なオレンジ色に染まることで世界的に有名です。",
+      "フォート・サンティアゴは、フィリピンの英雄ホセ・リサールが処刑前の最後の日々を過ごした場所。彼の最後の足あとが、地面に青銅で刻まれて残っています。"
+    ],
+    "zh": [
+      "马尼拉的“岷伦洛”建于1594年，是世界上最古老的唐人街！",
+      "吉普尼是用二战后剩下的美军吉普车改装、涂上彩虹色彩制成的——如今已成为菲律宾最具代表性的交通工具。",
+      "圣奥古斯丁教堂挺过了七次大地震，还有摧毁内城其他建筑的二战炮火，它是联合国教科文组织世界遗产。",
+      "“马尼拉”这个名字，来自曾经在河岸边茂密生长的白色小花“尼拉德”。",
+      "马尼拉湾的日落闻名世界，能把整片天空染成炽热的橙红色。",
+      "圣地亚哥城堡是菲律宾民族英雄何塞·黎刹在被处决前度过最后时光的地方，他最后的脚印被铸成青铜印记留在地上。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "지진도, 화재도, 전쟁도 견뎌낸 성벽 도시에서, 딱 하나 끝까지 무너지지 않은 건물이 뭔지 맞혀볼래?",
+    "en": "A city inside stone walls survived earthquakes, fires, and even a war—can you guess which single building never fell down?",
+    "ja": "地震も火事も戦争も乗りこえた城壁の街で、たったひとつ最後まで倒れなかった建物、なんだと思う？",
+    "zh": "在这座扛过地震、火灾甚至战争的城墙城市里，你能猜到唯一始终没有倒下的建筑是什么吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "인트라무로스 (성벽 도시)", "en": "Intramuros", "ja": "イントラムロス", "zh": "内城（内特拉穆罗斯）" },
+      "blurb": {
+        "ko": "이 동네 전체가 16세기에 스페인 사람들이 옛 무역도시 마이닐라 위에 쌓은 두꺼운 돌 성벽으로 둘러싸여 있어요. 성문을 지나면 450년 역사 속으로 순간 이동하는 기분이 든답니다.",
+        "en": "This whole neighborhood is wrapped in thick 16th-century stone walls, built by Spanish settlers over the old trading city of Maynila. Walk through its gates and you step straight into 450 years of history.",
+        "ja": "この街全体が、16世紀にスペイン人が古い貿易都市マイニラの上に築いた分厚い石の城壁で囲まれています。門をくぐれば、450年の歴史にひとっ飛びでタイムスリップ！",
+        "zh": "整个街区都被16世纪西班牙人在古贸易城麦尼拉旧址上筑起的厚厚石墙包围着。穿过城门，就像一步跨进了450年的历史。"
+      },
+      "coords": [14.5906, 120.9750]
+    },
+    {
+      "name": { "ko": "포트 산티아고", "en": "Fort Santiago", "ja": "フォート・サンティアゴ", "zh": "圣地亚哥城堡" },
+      "blurb": {
+        "ko": "강 어귀를 용처럼 지키는 돌 요새예요. 필리핀의 영웅 호세 리살이 마지막 나날을 보낸 곳으로, 그가 처형 전 걸었던 길이 청동 발자국으로 새겨져 있어요.",
+        "en": "A stone fortress guarding the river mouth like a dragon. National hero José Rizal spent his final days here, and his bronze footsteps trace the very path he walked before his execution.",
+        "ja": "川の入り口を竜のように守る石の要塞。英雄ホセ・リサールが最後の日々を過ごした場所で、処刑前に歩いた道のりが青銅の足あとで示されています。",
+        "zh": "像巨龙一样守卫河口的石头堡垒。民族英雄何塞·黎刹在此度过了生命最后的日子，他刑前走过的路线被铸成青铜脚印保留至今。"
+      },
+      "coords": [14.5952, 120.9719]
+    },
+    {
+      "name": { "ko": "산 아구스틴 성당", "en": "San Agustin Church", "ja": "サン・アグスティン教会", "zh": "圣奥古斯丁教堂" },
+      "blurb": {
+        "ko": "필리핀에서 가장 오래된 돌 교회이자, 2차 대전 폭격 뒤 인트라무로스에서 유일하게 살아남은 건물이에요. 지진도 일곱 번이나 견뎌냈으니, 정말 튼튼하죠?",
+        "en": "The oldest stone church in the Philippines, and the only Intramuros building left standing after World War II bombs fell. It has survived seven earthquakes too—talk about tough!",
+        "ja": "フィリピンで最も古い石造りの教会で、第二次世界大戦の爆撃後もイントラムロスで唯一残った建物。地震も7回乗りこえた、まさに最強の教会です！",
+        "zh": "菲律宾最古老的石造教堂，也是二战炮火之后内城唯一幸存的建筑。它还挺过了七次地震，真是坚不可摧！"
+      },
+      "coords": [14.5895, 120.9739]
+    },
+    {
+      "name": { "ko": "리살 공원", "en": "Rizal Park", "ja": "リサール公園", "zh": "黎刹公园" },
+      "blurb": {
+        "ko": "마닐라만 옆에 있는 커다란 초록 공원으로, 호세 리살의 이름을 땄어요. 노을 질 때 바닷가에 자리 잡고 앉으면, 세계에서도 손꼽히는 주황빛 하늘을 볼 수 있답니다.",
+        "en": "A big green park by Manila Bay, named for hero José Rizal. Grab a spot near the water at sunset and watch the sky melt into orange—one of the most famous sunsets in the world.",
+        "ja": "マニラ湾のそばにある大きな緑の公園で、ホセ・リサールの名にちなんでいます。夕方、水辺に座れば、世界屈指と言われるオレンジ色の夕日が見られます。",
+        "zh": "马尼拉湾边一座绿意盎然的大公园，以英雄何塞·黎刹的名字命名。日落时分坐在海边，就能看到世界闻名的橙色天空。"
+      },
+      "coords": [14.5832, 120.9794]
+    }
+  ]
+}

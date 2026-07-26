@@ -1,0 +1,120 @@
+{
+  "id": "liverpool",
+  "country": "gb",
+  "coords": [53.4084, -2.9916],
+  "name": { "ko": "리버풀", "en": "Liverpool", "ja": "リヴァプール", "zh": "利物浦" },
+  "tagline": {
+    "ko": "세상으로 배를 보내고, 세상에 비틀즈를 선물한 항구 도시",
+    "en": "The port city that sent ships to the world—and gave the world the Beatles",
+    "ja": "世界へ船を送り出し、世界にビートルズを贈った港町",
+    "zh": "把船只送向世界,也把披头士献给世界的港口城市"
+  },
+  "story": {
+    "ko": [
+      "아주 오래전, 영국 서쪽 바닷가에는 '리버풀'이라는 항구 도시가 있었어요. 머지 강을 따라 세계 곳곳에서 온 배들이 밀려들었고, 뱃사람들은 설탕과 목화, 차를 내리며 낯선 나라의 신기한 이야기들을 함께 실어 왔지요. 리버풀은 어느새 세계에서 가장 바쁜 항구 중 하나가 되어, 늘 바다를 향해 눈을 반짝이는 도시로 자랐답니다.",
+      "배들은 짐만 실어 온 게 아니었어요. 뱃사람들은 저 멀리 미국에서 '로큰롤'이라는 신나는 새 음악이 담긴 레코드판도 가져왔죠. 그 음악에 푹 빠진 리버풀 소년 넷—존, 폴, 조지, 링고—은 항구에서 몇 걸음 떨어진 '캐번'이라는 작고 후덥지근한 지하 클럽에서 연주를 시작했어요.",
+      "점심시간 공연을 거의 300번쯤 이어가던 어느 날, 이 수수한 밴드 '비틀즈'는 세상에서 가장 유명한 그룹이 되었어요. 옛날 리버풀 항구에서 배들이 온 세상 바다로 떠났듯이, 이번엔 비틀즈의 노래가 이 도시에서 지구 곳곳으로 퍼져나갔답니다.",
+      "오늘도 물가에 우뚝 선 로열 리버 빌딩 꼭대기에는 거대한 청동 새 두 마리가 100년 넘게 도시를 내려다보고 있어요. 머지 강에는 여전히 페리가 오가고, 매튜 스트리트에서는 관광객들이 비틀즈 노래를 흥얼거리죠. 리버풀은 지금도 음악과 바다를 자랑스러워하는 도시랍니다."
+    ],
+    "en": [
+      "Long ago, on the west coast of England, ships from every corner of the world sailed up the River Mersey to a busy port called Liverpool. Sailors unloaded sugar, cotton, and tea, and carried home strange treasures and even stranger stories. Liverpool grew into one of the busiest ports on Earth, a city that always looked out toward the sea.",
+      "Ships didn't just carry cargo—sailors also brought back records from faraway places like America, full of a brand new sound called rock and roll. Four Liverpool boys who loved that music—John, Paul, George, and Ringo—started playing in a sweaty little cellar club called the Cavern, just steps from the docks.",
+      "Almost 300 lunchtime shows later, that scruffy band called The Beatles became the most famous group the world has ever known. Just like the ships that once sailed from Liverpool's port to every ocean, the Beatles' songs sailed out from this same city to every corner of the globe.",
+      "Today, giant bronze birds still perch on top of the Royal Liver Building at the water's edge, watching over the city just like they have for over a hundred years. Ferries still chug across the Mersey, tourists hum Beatles songs on Mathew Street, and Liverpool remains proudly a city of music and the sea."
+    ],
+    "ja": [
+      "はるか昔、イギリス西海岸に『リヴァプール』という港町がありました。マージー川をさかのぼって世界中から船がやってきて、船乗りたちは砂糖や綿花、紅茶を積みおろしながら、遠い国のふしぎな話も一緒に運んできました。リヴァプールはいつしか世界でも指折りの忙しい港となり、いつも海を見つめる街に育っていったのです。",
+      "船が運んできたのは荷物だけではありませんでした。船乗りたちは、遠いアメリカから『ロックンロール』という新しくてかっこいい音楽のレコードも持ち帰ってきたのです。その音楽に夢中になったリヴァプールの4人の少年—ジョン、ポール、ジョージ、リンゴ—は、港からほんの数歩の『キャバーン』という小さくて蒸し暑い地下クラブで演奏を始めました。",
+      "お昼のライブをおよそ300回も重ねたある日、この飾らないバンド『ザ・ビートルズ』は世界一有名なグループになりました。かつてリヴァプールの港から船が世界中の海へ旅立ったように、今度はビートルズの歌がこの街から地球のすみずみへと届いていったのです。",
+      "今日も水辺に立つロイヤル・リバー・ビルディングの屋上では、大きな青銅の鳥が2羽、100年以上も街を見守っています。マージー川にはフェリーが行き交い、マシュー・ストリートでは観光客がビートルズの歌を口ずさみます。リヴァプールは今も、音楽と海を誇りに思う街なのです。"
+    ],
+    "zh": [
+      "很久很久以前,在英格兰西海岸,有一座名叫“利物浦”的港口城市。船只沿着默西河从世界各地驶来,水手们卸下糖、棉花和茶叶,也带回了遥远国度的奇妙故事。利物浦渐渐成为世界上最繁忙的港口之一,一座总是望向大海的城市。",
+      "船只带来的可不只是货物。水手们还从遥远的美国带回了一种叫“摇滚乐”的全新音乐唱片。四个痴迷这种音乐的利物浦男孩——约翰、保罗、乔治和林戈——开始在离码头几步之遥、一个闷热的小地下俱乐部“洞穴俱乐部”里演出。",
+      "在午间演出了将近300场之后,这支朴素的乐队“披头士”成了世界上最有名的乐队。就像当年利物浦港口的船只驶向世界各大海洋一样,如今披头士的歌声也从这座城市传遍了地球的每个角落。",
+      "今天,矗立在水边的皇家利物大厦顶上,两只巨大的青铜鸟雕像依然守望着这座城市,已经一百多年了。渡轮依旧往来于默西河上,游客们在马修街哼唱着披头士的歌曲。利物浦至今仍是一座以音乐和大海为傲的城市。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "로열 리버 빌딩 꼭대기에는 '리버 버드'라는 거대한 청동 새 두 마리가 앉아 있어요. 한 마리는 바다를 보며 돌아오는 뱃사람을 기다리고, 다른 한 마리는 도시를 내려다본대요. 이 새들이 날아가 버리면 리버풀도 사라진다는 전설이 있답니다!",
+      "비틀즈는 유명해지기 전, 작은 캐번 클럽에서 거의 300번이나 공연을 했어요. 무대가 옷장만큼 좁아서 다닥다닥 붙어 연주했다는군요.",
+      "유명한 배 타이타닉호 뒷면에는 '리버풀'이라는 글자가 적혀 있었어요. 사실 리버풀에서 출항한 적은 없었는데도, 그곳을 '고향 항구'로 삼았거든요.",
+      "1800년대에는 새로운 삶을 꿈꾸며 미국으로 떠나려는 사람들이 리버풀 항구로 몰려들어서, 이 도시는 '유럽의 뉴욕'이라 불리기도 했어요.",
+      "리버풀에는 '스카우스'라는 특별한 스튜 요리가 있어요. 어찌나 유명한지 리버풀 사람들을 아예 '스카우저'라고 부른답니다.",
+      "리버풀에는 리버풀 FC와 에버턴이라는 유명한 축구 팀 두 개가 있는데, 두 경기장이 겨우 1킬로미터 떨어져 있어요. 영국에서 가장 가까운 라이벌 경기장이랍니다."
+    ],
+    "en": [
+      "Legend says two giant bronze birds called the Liver Birds sit on top of the Royal Liver Building—one watches out to sea for sailors coming home, the other watches over the city. People say if they ever flew away, Liverpool would disappear!",
+      "The Beatles played almost 300 shows at the tiny Cavern Club before they became famous, sometimes squeezed onto a stage barely bigger than a closet.",
+      "The famous ship Titanic had 'Liverpool' painted on its back as its home port, even though it never actually sailed from there.",
+      "In the 1800s, so many people boarded ships in Liverpool to start new lives in America that it was nicknamed 'the New York of Europe.'",
+      "Liverpool has its own special stew called 'scouse'—it's so famous that Liverpool locals are nicknamed 'Scousers.'",
+      "Liverpool is home to two famous football clubs, Liverpool FC and Everton, whose stadiums sit barely a kilometer apart—the closest rival stadiums in England."
+    ],
+    "ja": [
+      "ロイヤル・リバー・ビルディングの屋上には『リバー・バード』という巨大な青銅の鳥が2羽います。1羽は海を見つめて帰ってくる船乗りを待ち、もう1羽は街を見守っているそう。この鳥が飛び去ったらリヴァプールも消えてしまう、という言い伝えがあるんです!",
+      "ビートルズは有名になる前、小さなキャバーン・クラブでおよそ300回も演奏しました。ステージはクローゼットほどしか広さがなく、ぎゅうぎゅうになって演奏したそうです。",
+      "有名な客船タイタニック号の船尾には『リヴァプール』の文字が書かれていました。実際にはリヴァプールから出航したことは一度もないのに、そこを『母港』としていたのです。",
+      "1800年代、新しい人生を求めてアメリカへ渡ろうとする人々がリヴァプール港に押し寄せ、この街は『ヨーロッパのニューヨーク』とも呼ばれました。",
+      "リヴァプールには『スカウス』という特別なシチューがあります。あまりに有名で、リヴァプールの人々は『スカウザー』というあだ名で呼ばれるほどです。",
+      "リヴァプールにはリヴァプールFCとエヴァートンという有名なサッカークラブが二つあり、両方のスタジアムはたった1キロほどしか離れていません。イギリスで一番近いライバル同士のスタジアムなんです。"
+    ],
+    "zh": [
+      "皇家利物大厦顶上住着两只叫“利物鸟”的巨大青铜鸟像。一只望向大海,等待水手平安归来;另一只则俯瞰着整座城市。传说如果它们飞走了,利物浦就会消失!",
+      "披头士成名之前,曾在小小的洞穴俱乐部演出了将近300场。舞台小得像个衣柜,乐队成员挤在一起演奏。",
+      "著名的泰坦尼克号船尾漆着“利物浦”几个字,作为它的母港——尽管它其实从未真正从利物浦出发过。",
+      "19世纪时,无数怀揣新生活梦想的人们涌向利物浦港口准备远渡美国,这座城市因此被称为“欧洲的纽约”。",
+      "利物浦有一道特别的炖菜叫“斯高斯(scouse)”,太有名了,以至于当地人干脆被称为“斯高瑟(Scousers)”。",
+      "利物浦有两支著名的足球队——利物浦足球俱乐部和埃弗顿,两队的球场相距不到一公里,是英格兰距离最近的两个死敌球场。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "리버풀을 지키는 거대한 새 두 마리 중 하나는 바다를, 하나는 도시를 바라본대요. 네가 그 새라면 어느 쪽을 보고 싶어?",
+    "en": "Legend says two giant bird statues watch over Liverpool—one looking out to sea, one looking over the city. If you were one of those birds, which way would you look?",
+    "ja": "リヴァプールを見守る2羽の巨大な鳥、1羽は海を、1羽は街を見つめているそう。もし君がその鳥だったら、どっちを見ていたい?",
+    "zh": "守护利物浦的两只巨鸟,一只望向大海,一只望向城市。如果你是其中一只鸟,你想望向哪一边呢?"
+  },
+  "places": [
+    {
+      "name": { "ko": "캐번 클럽", "en": "The Cavern Club", "ja": "キャバーン・クラブ", "zh": "洞穴俱乐部" },
+      "blurb": {
+        "ko": "좁고 작은 이 지하 클럽은 비틀즈가 유명해지기 전 거의 300번이나 공연했던 곳이에요. 그들이 내려갔던 가파른 계단을 따라 내려가면, 그때 그 함성이 들리는 듯한 기분이 든답니다.",
+        "en": "This tiny underground club is where the Beatles played almost 300 shows before they were famous. Squeeze down the same steep stairs they once did, and you can almost hear that very first roar of the crowd.",
+        "ja": "この小さな地下クラブは、ビートルズが有名になる前にほぼ300回も演奏した場所です。彼らが下りた急な階段を歩けば、その日の歓声が聞こえてくるような気がします。",
+        "zh": "这家小小的地下俱乐部,是披头士成名前演出将近300场的地方。沿着他们当年走过的陡峭楼梯走下去,仿佛还能听见当年观众的欢呼声。"
+      },
+      "coords": [53.4057, -2.9918]
+    },
+    {
+      "name": { "ko": "로열 리버 빌딩", "en": "Royal Liver Building", "ja": "ロイヤル・リバー・ビルディング", "zh": "皇家利物大厦" },
+      "blurb": {
+        "ko": "물가에 우뚝 선 이 유명한 건물 꼭대기에는 거대한 청동 리버 버드 두 마리가 앉아 있어요. 한 마리는 돌아오는 뱃사람을 기다리며 바다를 바라보는데, 둘 다 날아가 버리면 리버풀도 사라진다는 전설이 있답니다.",
+        "en": "Two giant bronze Liver Birds perch on top of this famous waterfront building. Legend says one watches the sea for returning sailors, and if they both ever flew away, Liverpool itself would vanish.",
+        "ja": "水辺に立つこの有名な建物の屋上には、巨大な青銅のリバー・バードが2羽とまっています。1羽は帰ってくる船乗りを待って海を見つめ、もし2羽とも飛び去ったらリヴァプールも消えてしまう、という言い伝えがあります。",
+        "zh": "这座著名的滨水建筑顶上,栖息着两只巨大的青铜利物鸟。传说其中一只望着大海,等待水手归来;如果它们都飞走了,利物浦就会消失。"
+      },
+      "coords": [53.4075, -3.0004]
+    },
+    {
+      "name": { "ko": "로열 알버트 독", "en": "Royal Albert Dock", "ja": "ロイヤル・アルバート・ドック", "zh": "皇家阿尔伯特码头" },
+      "blurb": {
+        "ko": "예전엔 온 바다에서 온 배들로 가득했던 이 붉은 벽돌 창고들은 이제 물가 옆에서 박물관과 카페가 되었어요. 이곳을 걸으면 뱃사람과 화물, 그리고 비틀즈 팬들이 함께 북적였던 부두의 모습이 그려진답니다.",
+        "en": "Once packed with ships from every ocean, these red-brick warehouses now hold museums and cafes right beside the water. Walk here and you can imagine sailors, cargo, and Beatles fans all bustling along the same docks.",
+        "ja": "かつて世界中の海からの船でいっぱいだったこの赤レンガの倉庫は、今では水辺に博物館やカフェとして並んでいます。ここを歩けば、船乗りや荷物、そしてビートルズのファンでにぎわった昔の埠頭が目に浮かびます。",
+        "zh": "这些红砖仓库曾经挤满了来自世界各大洋的船只,如今在水边变成了博物馆和咖啡馆。走在这里,仿佛能想象出当年水手、货物和披头士乐迷一同熙来攘往的码头景象。"
+      },
+      "coords": [53.4005, -2.9926]
+    },
+    {
+      "name": { "ko": "비틀즈 동상", "en": "The Beatles Statue", "ja": "ビートルズ像", "zh": "披头士雕像" },
+      "blurb": {
+        "ko": "존, 폴, 조지, 링고의 청동상 네 개가 물가에 나란히 서서, 그들이 예전에 꿈꾸던 그 강을 영원히 바라보고 있어요. 전 세계 팬들이 이 동상 옆에 서보려고 이곳까지 찾아온답니다.",
+        "en": "Four bronze statues of John, Paul, George, and Ringo stand right at the water's edge, forever looking out over the same river the band once dreamed beside. Fans travel from all over the world just to stand next to them.",
+        "ja": "ジョン、ポール、ジョージ、リンゴの青銅像4体が水辺に並び、彼らがかつて夢を見たあの川をいつまでも見つめています。世界中のファンが、この像のそばに立ちたくてここまでやってきます。",
+        "zh": "约翰、保罗、乔治和林戈的四座青铜雕像并肩立在水边,永远眺望着他们当年怀揣梦想的那条河。世界各地的乐迷都会专程赶来,只为站在雕像旁合影。"
+      },
+      "coords": [53.4068, -2.9975]
+    }
+  ]
+}

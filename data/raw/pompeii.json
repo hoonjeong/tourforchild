@@ -1,0 +1,120 @@
+{
+  "id": "pompeii",
+  "country": "it",
+  "coords": [40.7497, 14.4869],
+  "name": { "ko": "폼페이", "en": "Pompeii", "ja": "ポンペイ", "zh": "庞贝" },
+  "tagline": {
+    "ko": "화산이 통째로 '얼려버린' 2000년 전 로마 도시",
+    "en": "The 2,000-year-old Roman city a volcano froze in time",
+    "ja": "火山がまるごと『時を止めた』2000年前のローマの街",
+    "zh": "被火山整个“定格”了两千年的古罗马城市"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 2000년 전 이탈리아 남쪽에는 '폼페이'라는 활기찬 도시가 있었어요. 시장은 사람들로 북적였고, 빵집에서는 갓 구운 빵 냄새가 솔솔 풍겼죠. 아이들은 돌로 포장된 길에서 뛰어놀았고, 도시 뒤에는 '베수비오'라는 커다란 산이 우뚝 서 있었어요. 그런데 사람들은 그 산이 무시무시한 화산이라는 걸 전혀 몰랐답니다.",
+      "그러던 서기 79년 어느 여름날, 산이 갑자기 '펑!' 하고 폭발했어요. 잿기둥이 하늘로 수십 킬로미터나 치솟았고, 뜨거운 재와 돌멩이가 도시 위로 이틀 동안이나 쏟아졌어요. 폼페이는 순식간에 6미터가 넘는 두꺼운 재에 파묻혀, 사람들의 기억 속에서 사라져 버렸답니다.",
+      "그런데 아주 신기한 일이 일어났어요. 재가 도시를 통째로 덮어버리는 바람에, 빵집의 빵도, 벽에 그린 그림도, 길에 남은 마차 바퀴 자국까지 그날 모습 그대로 굳어버린 거예요. 폼페이는 완전히 없어진 게 아니라, 2000년 동안 '쿨쿨 잠든' 거대한 타임캡슐이 된 셈이죠.",
+      "그리고 약 250년 전, 땅을 파던 사람들이 이 잠든 도시를 우연히 다시 발견했어요! 오늘날 우리가 폼페이를 걸으면, 2000년 전 로마 사람들이 어떻게 살고, 무엇을 먹고, 어떻게 놀았는지 마치 그날로 시간여행을 떠난 것처럼 생생하게 볼 수 있답니다."
+    ],
+    "en": [
+      "Long, long ago—2,000 years back—there was a lively city called Pompeii in southern Italy. Its markets buzzed with people, and bakeries smelled of fresh bread. Kids played on the stone-paved streets, and behind the town stood a huge mountain called Vesuvius. But nobody knew that mountain was actually a dangerous volcano.",
+      "Then, on a summer day in the year 79 AD, the mountain suddenly went 'BOOM!' A column of ash shot tens of kilometers into the sky, and hot ash and stones rained down on the city for two whole days. In no time, Pompeii was buried under more than 6 meters of ash and vanished from people's memory.",
+      "But something amazing happened. Because the ash covered the whole city so fast, the bread in the bakeries, the paintings on the walls, even the cart-wheel grooves in the road all hardened exactly as they were that day. Pompeii wasn't gone forever—it had become a giant time capsule, fast asleep for 2,000 years.",
+      "Then, about 250 years ago, people digging in the ground stumbled upon this sleeping city! Today, when you walk through Pompeii, you can see how Romans lived, what they ate, and how they played 2,000 years ago—like taking a time-travel trip back to that very day."
+    ],
+    "ja": [
+      "はるか昔、2000年前のイタリア南部に『ポンペイ』というにぎやかな街がありました。市場は人でにぎわい、パン屋からは焼きたてのパンのいい匂いがただよっていました。子どもたちは石畳の道で遊び、街の後ろには『ヴェスヴィオ』という大きな山がそびえていました。でも、人々はその山がおそろしい火山だとは知らなかったのです。",
+      "そして西暦79年のある夏の日、山が突然『ドカーン！』と噴火しました。灰の柱が空へ数十キロも立ちのぼり、熱い灰や石が二日間も街に降りそそぎました。ポンペイはあっという間に6メートル以上の灰にうもれ、人々の記憶から消えてしまいました。",
+      "ところが、とても不思議なことが起きました。灰が街をまるごとおおったおかげで、パン屋のパンも、壁の絵も、道に残った馬車のわだちまで、その日のまま固まったのです。ポンペイは消えたのではなく、2000年間ぐっすり眠る大きなタイムカプセルになったのですね。",
+      "そして約250年前、地面をほっていた人たちがこの眠る街をぐうぜん見つけました！今、ポンペイを歩くと、2000年前のローマの人々がどう暮らし、何を食べ、どう遊んだのかを、まるでその日にタイムトラベルしたように見ることができます。"
+    ],
+    "zh": [
+      "很久很久以前，在两千年前的意大利南部，有一座热闹的城市叫“庞贝”。市场里人来人往，面包店飘着刚出炉的面包香。孩子们在石板路上奔跑玩耍，城市后面耸立着一座叫“维苏威”的大山。可是人们完全不知道，那座山其实是一座可怕的火山。",
+      "到了公元79年的一个夏日，那座山突然“轰”地爆发了！灰柱冲上几十公里的高空，滚烫的火山灰和石块连续两天倾泻在城市上。转眼间，庞贝被六米多厚的火山灰掩埋，从人们的记忆中消失了。",
+      "但神奇的事情发生了。因为火山灰太快盖住了整座城市，面包店的面包、墙上的壁画，甚至路面上的马车轮印，都原样凝固在了那一天。庞贝并没有永远消失，而是变成了一个沉睡了两千年的巨大时间胶囊。",
+      "大约250年前，挖地的人们偶然重新发现了这座沉睡的城市！今天，当你走在庞贝，就能看到两千年前罗马人如何生活、吃什么、怎么玩——就像穿越回了那一天。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "화산재가 순식간에 덮으면서 빵, 그릇, 벽화까지 그대로 굳어 도시 전체가 타임캡슐이 됐어요.",
+      "돌바닥엔 마차 바퀴 자국이 깊게 파여 있고, 비 올 때 신발 안 젖게 폴짝 건너뛰던 디딤돌(옛날 횡단보도!)도 있어요.",
+      "벽에는 2000년 전 사람들이 남긴 낙서가 잔뜩! '누구누구 왔다감' 같은 낙서를 로마 사람들도 했대요.",
+      "재가 굳은 뒤 사라진 몸 자리에 빈 공간이 생겼는데, 거기에 석고를 부어 그때 사람과 강아지 모습을 되살려냈어요.",
+      "어느 집 현관 바닥엔 '개 조심(CAVE CANEM)'이라 쓴 강아지 모자이크가 있어요. 2000년 전에도 '맹견주의'가 있었네요!",
+      "폼페이 사람들은 '테르모폴리움'이라는 패스트푸드 가게에서 따뜻한 음식을 사 먹었어요. 지금의 분식집 같죠!"
+    ],
+    "en": [
+      "The ash covered everything so fast that bread, dishes, and paintings hardened in place—the whole city became a time capsule.",
+      "Deep cart-wheel grooves are still in the stone road, plus stepping-stones people hopped across so their shoes stayed dry—an ancient crosswalk!",
+      "The walls are covered in 2,000-year-old graffiti—Romans wrote 'so-and-so was here' too!",
+      "Where bodies vanished inside the hardened ash, empty spaces were left; plaster poured in brought back the shapes of people and even a dog.",
+      "One house has a floor mosaic reading 'CAVE CANEM'—'Beware of the dog.' They had 'beware of dog' signs 2,000 years ago!",
+      "Pompeians bought warm food at fast-food counters called 'thermopolia'—just like a snack bar today!"
+    ],
+    "ja": [
+      "灰があっという間に覆ったので、パンや食器、壁画までそのまま固まり、街全体がタイムカプセルになりました。",
+      "石畳には馬車のわだちが深く残り、雨でも靴がぬれないように渡る飛び石（昔の横断歩道！）もありました。",
+      "壁には2000年前の落書きがいっぱい！『だれだれ参上』のような落書きをローマ人もしていたそうです。",
+      "灰の中で消えた体のあとに空どうができ、そこに石膏を流しこんで、当時の人やワンちゃんの姿をよみがえらせました。",
+      "ある家の床には『犬に注意（CAVE CANEM）』のモザイクが。2000年前にも『猛犬注意』があったんですね！",
+      "ポンペイの人は『テルモポリウム』という屋台（ファストフード）で温かい食べ物を買っていました。今の軽食屋みたい！"
+    ],
+    "zh": [
+      "火山灰瞬间覆盖一切，连面包、碗碟、壁画都被原样凝固，整座城市变成了时间胶囊。",
+      "石头路面上还留着深深的马车轮印，还有下雨时供人跨过、免得弄湿鞋子的踏脚石（古代的斑马线！）。",
+      "墙上满是两千年前的涂鸦——罗马人也会写‘某某到此一游’呢！",
+      "在灰烬中消失的身体留下了空洞，人们灌入石膏，重现了当时的人甚至一只小狗的模样。",
+      "有户人家的地板上有‘小心恶犬（CAVE CANEM）’的马赛克。两千年前就有‘小心狗’的牌子啦！",
+      "庞贝人会在叫‘热食铺（thermopolium）’的快餐摊买热腾腾的食物，就像今天的小吃店！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "화산이 폭발했는데, 어떻게 도시가 2000년 동안이나 그대로 남을 수 있었을까?",
+    "en": "A volcano exploded—so how could a whole city stay almost the same for 2,000 years?",
+    "ja": "火山が噴火したのに、どうして街が2000年もそのまま残れたのかな？",
+    "zh": "火山都爆发了，为什么整座城市还能几乎原样保存两千年呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "포룸 (중앙 광장)", "en": "The Forum", "ja": "フォロ（中央広場）", "zh": "古罗马广场" },
+      "blurb": {
+        "ko": "폼페이의 심장이던 넓은 광장이에요. 옛날엔 여기서 물건을 사고팔고, 재판도 하고, 축제도 열렸대요. 여기서 뒤를 돌아보면 이 모든 일을 벌인 베수비오 화산이 딱 보인답니다.",
+        "en": "The wide square that was Pompeii's beating heart. People shopped, held trials, and threw festivals here. Turn around and you'll see Vesuvius—the volcano that started it all.",
+        "ja": "ポンペイの心臓部だった広い広場。昔はここで買い物や裁判、お祭りが行われました。振り返ると、すべての原因となったヴェスヴィオ火山が見えます。",
+        "zh": "曾是庞贝心脏的宽阔广场。人们在这里买卖、审判、举办节庆。一回头，就能看到引发这一切的维苏威火山。"
+      },
+      "coords": [40.7489, 14.4842]
+    },
+    {
+      "name": { "ko": "원형경기장", "en": "Amphitheatre", "ja": "円形闘技場", "zh": "圆形竞技场" },
+      "blurb": {
+        "ko": "지금까지 남아 있는 로마 원형경기장 중 가장 오래된 것 중 하나예요. 2만 명이 들어가 검투사 경기를 응원했다고 해요. 지금의 축구 경기장과 꽤 비슷하죠?",
+        "en": "One of the oldest surviving Roman amphitheatres. Up to 20,000 fans packed in to cheer on gladiator fights—a lot like a soccer stadium today!",
+        "ja": "現存する中でも最古級のローマ円形闘技場。2万人が入り、剣闘士の戦いを応援したそうです。今のサッカースタジアムに似ていますね。",
+        "zh": "现存最古老的罗马圆形竞技场之一。曾容纳两万名观众为角斗士呐喊助威——是不是很像今天的足球场？"
+      },
+      "coords": [40.7513, 14.4954]
+    },
+    {
+      "name": { "ko": "테르모폴리움 (옛날 분식집)", "en": "Thermopolium (ancient snack bar)", "ja": "テルモポリウム（古代の屋台）", "zh": "热食铺（古代小吃店）" },
+      "blurb": {
+        "ko": "2000년 전 폼페이의 '패스트푸드' 가게예요. 돌 카운터에 커다란 항아리를 박아 따뜻한 음식을 담아 팔았대요. 벽에는 메뉴 그림도 그려져 있었답니다!",
+        "en": "Pompeii's 2,000-year-old 'fast-food' shop. Big jars were set into a stone counter to keep food warm, and there were even painted menu pictures on the wall!",
+        "ja": "2000年前のポンペイの『ファストフード』店。石のカウンターに大きなつぼをはめこみ、温かい料理を売っていました。壁にはメニューの絵まで！",
+        "zh": "庞贝两千年前的“快餐店”。石台上嵌着大陶罐用来保温食物，墙上甚至画着菜单图案！"
+      },
+      "coords": [40.7501, 14.4869]
+    },
+    {
+      "name": { "ko": "도망자의 정원 (석고상)", "en": "Garden of the Fugitives", "ja": "逃げ惑う人々の庭", "zh": "逃亡者花园" },
+      "blurb": {
+        "ko": "화산에서 도망치던 사람들의 마지막 모습을 석고로 되살린 곳이에요. 슬프지만, 2000년 전 그날을 가장 생생하게 느낄 수 있는 뭉클한 장소랍니다.",
+        "en": "Plaster casts here bring back the final moments of people fleeing the eruption. It's sad, but it's the most vivid, moving way to feel that day 2,000 years ago.",
+        "ja": "噴火から逃げようとした人々の最後の姿を石膏でよみがえらせた場所。悲しいけれど、2000年前のその日を最も生々しく感じられる、胸にせまるスポットです。",
+        "zh": "这里用石膏重现了人们逃离火山时的最后一刻。虽然悲伤，却是最能生动感受那两千年前一天的动人之地。"
+      },
+      "coords": [40.7486, 14.4917]
+    }
+  ]
+}

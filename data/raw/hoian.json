@@ -1,0 +1,120 @@
+{
+  "id": "hoian",
+  "country": "vn",
+  "coords": [15.8801, 108.3380],
+  "name": { "ko": "호이안", "en": "Hoi An", "ja": "ホイアン", "zh": "会安" },
+  "tagline": {
+    "ko": "전깃불 대신 등불이 강을 밝히는, 시간이 멈춘 옛 무역항",
+    "en": "The old trading port where time stopped — now lit by lanterns, not lights",
+    "ja": "電気ではなく、ちょうちんが川を照らす――時が止まった昔の貿易港",
+    "zh": "时间仿佛停住的古老贸易港——如今用灯笼而非电灯照亮河面"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 베트남의 작은 강가 마을 '호이안'은 아시아에서 가장 북적이는 항구 중 하나였어요. 일본, 중국, 인도, 심지어 저 멀리 네덜란드에서 온 배들이 투본강을 거슬러 올라와, 갑판 가득 비단과 향신료, 파란 무늬 도자기를 싣고 왔답니다. 수백 년 동안 여러 나라 선원들이 같은 골목길을 걸으며 물건을 사고팔고, 여러 언어로 이야기를 나눴어요.",
+      "이곳에 눌러앉은 상인들은 저마다 자기 동네를 만들었어요. 일본 상인들은 작은 사당이 딸린 아름다운 지붕 다리를 지었고, 다리 양 끝엔 돌로 만든 동물이 지키고 서 있었죠. 중국 상인들은 용 조각으로 장식한 커다란 회관을 세웠고요. 신기하게도 서로 다른 이 모든 건축 양식이 한데 어우러져, 세상 어디에도 없는 독특한 마을이 되었답니다.",
+      "그런데 시간이 흐르며 강에 모래가 조금씩 쌓이기 시작했고, 커다란 무역선들은 더 이상 강을 거슬러 올라올 수 없게 되었어요. 상인들은 하나둘 떠났고, 호이안은 조용해졌죠. 하지만 몇백 년 동안 별다른 일이 없었던 덕분에, 아무도 오래된 나무집을 부수고 새 건물을 짓지 않았어요. 마을 전체가 하품하다 그대로 멈춘 것처럼, 옛 모습 그대로 살포시 잠들어버린 거예요.",
+      "오늘날 호이안은 다시 활기를 되찾았지만, 옛집과 다리, 회관은 여전히 그 자리에 남아 있어요. 한 달에 한 번, 보름달이 뜨는 밤이면 마을은 전깃불을 모두 끄고, 대신 수천 개의 색색 등불을 밝혀요. 붉고 노랗고 금빛인 등불이 강물에 비쳐 반짝이죠. 밤에 호이안 골목을 걸으면, 옛날 뱃사람들의 발소리가 들려오는 것만 같답니다."
+    ],
+    "en": [
+      "Long, long ago, a small river town in Vietnam called Hoi An became one of the busiest harbors in all of Asia. Ships from Japan, China, India, and even faraway Holland sailed up the Thu Bon River, their decks piled with silk, spices, and blue-and-white porcelain. For hundreds of years, sailors from many countries walked the same narrow streets, trading goods and swapping stories in a dozen different languages.",
+      "The merchants who came to stay built their own little neighborhoods side by side. The Japanese traders built a beautiful covered bridge with a tiny temple tucked inside it, guarded by stone animals at each end. Chinese merchants built grand meeting halls with dragon-carved roofs. Somehow, all these different styles blended together into one town that felt like nowhere else on Earth.",
+      "Then, slowly, the river began to fill with sand, and the big trading ships could no longer squeeze through. One by one, the merchants sailed away, and Hoi An grew quiet. But because nothing much happened there for a couple hundred years, nobody knocked down the old wooden houses to build something new — the whole town simply dozed off, perfectly preserved, like a town caught mid-yawn.",
+      "Today, Hoi An has woken back up — but its ancient houses, bridge, and halls are all still standing right where they were. Once a month, on the night of the full moon, the town switches off its electric lights, and thousands of paper lanterns glow instead — red, yellow, and gold, reflecting in the river. Walk through Hoi An at night and you can almost hear the old sailors' footsteps again."
+    ],
+    "ja": [
+      "はるか昔、ベトナムの小さな川辺の町「ホイアン」は、アジアでも指折りのにぎやかな港でした。日本、中国、インド、遠くオランダからも船がトゥボン川をさかのぼり、甲板いっぱいに絹や香辛料、青い模様の陶磁器を積んでやって来ました。何百年もの間、いろいろな国の船乗りたちが同じ路地を歩き、品物を売り買いし、いくつもの言葉で話をしていたのです。",
+      "この町に住みついた商人たちは、それぞれ自分たちの町並みを作りました。日本の商人は小さな社（やしろ）を中に持つ美しい屋根つきの橋を建て、橋の両端には石の動物の像が見張り役として置かれました。中国の商人たちは竜の彫刻で飾られた大きな会館を建てました。不思議なことに、これらまったく違う建築様式が一つに混ざり合い、世界のどこにもない独特な町になったのです。",
+      "しかし時が経つにつれ、川に少しずつ砂がたまっていき、大きな貿易船はもう川をさかのぼれなくなりました。商人たちは一人また一人と去っていき、ホイアンは静かになりました。けれど、その後何百年もの間これといった出来事がなかったおかげで、誰も古い木造の家をこわして新しい建物を建てることはありませんでした。町全体が、あくびの途中でそのまま止まったように、昔の姿のまま静かに眠りについたのです。",
+      "今日、ホイアンは再びにぎわいを取りもどしましたが、古い家々や橋、会館は今もそのままの場所に残っています。月に一度、満月の夜になると、町は電気の明かりをすべて消し、代わりに何千もの色とりどりのちょうちんをともします。赤や黄色、金色の明かりが川面にゆらめきます。夜のホイアンを歩くと、昔の船乗りたちの足音が聞こえてくるような気がします。"
+    ],
+    "zh": [
+      "很久很久以前，越南有一个叫“会安”的江边小镇，曾是亚洲最繁忙的港口之一。来自日本、中国、印度，甚至远在荷兰的船只，都沿着秋盆河驶来，甲板上堆满了丝绸、香料和青花瓷器。几百年间，来自不同国家的水手们走在同一条小巷里，做买卖，用好几种语言交谈。",
+      "留下来定居的商人们，各自建起了自己的小社区。日本商人建了一座漂亮的带屋顶的桥，桥里还藏着一座小庙，桥的两端立着石雕的动物守护着。中国商人则建起了雕满龙纹的大会馆。神奇的是，这些完全不同的建筑风格竟融合在了一起，变成了世界上独一无二的小镇。",
+      "可是随着时间流逝，河里渐渐淤积起泥沙，大船再也开不进来了。商人们一个接一个离开，会安渐渐安静了下来。不过，正因为之后的几百年里没什么大事发生，没有人拆掉那些老木屋去盖新楼——整座小镇就像打哈欠打到一半突然定住了一样，静静地保留了当年的模样。",
+      "如今，会安又重新热闹了起来，但那些老房子、老桥和会馆依然矗立在原地。每个月满月的夜晚，小镇会关掉所有的电灯，换成成千上万盏彩色灯笼——红的、黄的、金色的灯光倒映在河面上闪闪发亮。夜里走在会安的小巷，仿佛还能听见当年水手们的脚步声。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "호이안은 유네스코 세계유산 마을로, 동남아시아에서 옛 무역항 모습이 가장 잘 남아 있는 곳 중 하나예요.",
+      "일본식 다리(내원교)는 지어진 지 약 400년이나 됐고, 다리 안엔 작은 사당이 있으며 양쪽 끝을 돌로 만든 개와 원숭이 조각상이 지키고 있어요.",
+      "한 달에 한 번, 음력 14일 밤이 되면 호이안은 전깃불을 모두 끄고 마을 전체를 등불로만 밝혀요.",
+      "호이안 재단사들은 손님 옷을 단 24시간 만에 딱 맞게 만들어 주는 걸로 유명해요!",
+      "떤끼 고가는 지어진 지 200년이 넘었는데, 벽에는 옛날 홍수 때 물이 어디까지 차올랐는지 표시한 선이 남아 있어요.",
+      "사람들은 투본강에 촛불을 켠 작은 종이 등을 띄우며 소원을 빌어요. 등불이 어두운 강물을 따라 두둥실 떠내려간답니다."
+    ],
+    "en": [
+      "Hoi An is a UNESCO World Heritage town — one of the best-preserved old trading ports left anywhere in Southeast Asia.",
+      "The Japanese Covered Bridge is about 400 years old and has its own tiny temple inside, guarded by carved stone dogs and monkeys at either end.",
+      "Once a month, on the 14th night of the lunar month, Hoi An turns off its street lights completely — the whole Old Town glows with lanterns instead.",
+      "Hoi An's tailors are famous for sewing a custom-made outfit for you in as little as 24 hours!",
+      "Tan Ky House has stood for over 200 years and even has faint marks on its walls showing how high floodwater has risen in past storms.",
+      "People float tiny candle-lit paper lanterns down the Thu Bon River and make a wish as the flame drifts away into the dark."
+    ],
+    "ja": [
+      "ホイアンはユネスコ世界遺産の町で、東南アジアで昔の貿易港の姿が最もよく残っている場所の一つです。",
+      "日本橋（来遠橋）は建てられてから約400年。橋の中には小さな社があり、両端には石でできた犬とサルの像が見張っています。",
+      "月に一度、旧暦14日の夜になると、ホイアンは電気の明かりを全部消し、町全体をちょうちんの明かりだけで照らします。",
+      "ホイアンの仕立て屋さんは、なんとたった24時間でぴったりの服を仕立ててくれることで有名です！",
+      "タンキー古民家は建てられてから200年以上たっていて、壁には昔の洪水で水がどこまで来たかを示す線が今も残っています。",
+      "人々はトゥボン川にろうそくを灯した小さな紙のちょうちんを流し、願いごとをします。明かりは暗い川面をゆらゆらと流れていきます。"
+    ],
+    "zh": [
+      "会安是联合国教科文组织世界遗产小镇，是东南亚保存最完好的古代贸易港口之一。",
+      "日本廊桥（来远桥）已有约400年历史，桥内藏着一座小庙，两端还有石雕的狗和猴子守护着。",
+      "每逢农历十四的夜晚，会安会关掉全城的电灯，只用灯笼照亮整座古镇。",
+      "会安的裁缝以能在短短24小时内为客人量身定做一套合身衣服而闻名！",
+      "进记古宅已有200多年历史，墙上至今还留着标记，记录着当年洪水曾经淹到过的高度。",
+      "人们会在秋盆河上放漂着蜡烛的小纸灯笼许愿，灯光顺着幽暗的河水悠悠漂远。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "마을 전체가 전깃불을 다 끄고 종이 등불만 강물에 둥둥 띄운다면, 너는 어떤 소원을 물에 띄워 보내고 싶어?",
+    "en": "Imagine a whole town turning off every light at once, lit only by paper lanterns floating on a river — what wish would you send drifting down the water?",
+    "ja": "町じゅうの電気を全部消して、紙のちょうちんだけを川に流したら――きみならどんな願いごとを流したい？",
+    "zh": "如果整个小镇关掉所有电灯，只剩纸灯笼漂在河面上，你想把什么愿望放进灯笼里，让它顺水漂走呢？"
+  },
+  "places": [
+    {
+      "name": { "ko": "일본식 다리 (내원교)", "en": "Japanese Covered Bridge", "ja": "日本橋（来遠橋）", "zh": "日本廊桥（来远桥）" },
+      "blurb": {
+        "ko": "400년 전 호이안에 살던 일본 상인들이 지은 우아한 지붕 다리예요. 다리 안에는 작은 사당이 숨어 있고, 양쪽 끝엔 돌로 만든 개와 원숭이가 지키고 서 있죠. 호이안을 상징하는 곳이라, 베트남 2만 동 지폐에도 그려져 있답니다!",
+        "en": "Built about 400 years ago by Hoi An's Japanese merchants, this graceful covered bridge has a tiny temple hidden inside and stone dogs and monkeys standing guard at either end. It's the symbol of the whole town — it even appears on Vietnam's 20,000-dong banknote!",
+        "ja": "400年前、ホイアンに住んだ日本人商人たちが建てた優美な屋根つきの橋。橋の中には小さな社が隠れていて、両端には石の犬とサルが見張っています。町の象徴で、ベトナムの2万ドン紙幣にも描かれているんですよ！",
+        "zh": "由400年前定居会安的日本商人所建，这座优雅的廊桥内藏着一座小庙，两端还有石雕的狗和猴子守护着。它是整个小镇的象征，甚至印在越南两万盾纸币上呢！"
+      },
+      "coords": [15.8767, 108.3260]
+    },
+    {
+      "name": { "ko": "떤끼 고가", "en": "Tan Ky Old House", "ja": "タンキー古民家", "zh": "进记古宅" },
+      "blurb": {
+        "ko": "200년 넘은 이 상인 집엔 베트남과 중국, 일본 양식이 한 건물 안에 다 섞여 있어요. 마당 근처 벽을 자세히 보면, 옛날 홍수 때 물이 어디까지 차올랐는지 표시된 희미한 선을 찾을 수 있답니다!",
+        "en": "This 200-plus-year-old merchant house blends Vietnamese, Chinese, and Japanese design all in one building. Look closely at the walls near the courtyard — faint lines mark exactly how high floodwater has risen in past storms!",
+        "ja": "200年以上前に建てられたこの商家は、ベトナム・中国・日本の様式が一つの建物の中に混ざり合っています。中庭近くの壁をよく見ると、昔の洪水で水がどこまで来たかを示すうっすらとした線が見つかりますよ！",
+        "zh": "这座有200多年历史的商人宅院，把越南、中国和日本的建筑风格融合在了同一栋房子里。仔细看看院子附近的墙壁，还能找到当年洪水淹到过的浅浅水痕呢！"
+      },
+      "coords": [15.8776, 108.3271]
+    },
+    {
+      "name": { "ko": "복건 회관", "en": "Fujian Assembly Hall", "ja": "福建会館", "zh": "福建会馆" },
+      "blurb": {
+        "ko": "중국 푸젠 지방 상인들이 바다의 안전을 지켜준다는 여신 '티엔허우'를 모시려고 지은 화려한 회관이에요. 문과 지붕은 용 조각으로 뒤덮여 있고, 천장에는 거대한 소용돌이 모양의 향이 천천히 타며 매달려 있답니다.",
+        "en": "Chinese merchants from Fujian built this grand hall to honor Thien Hau, the goddess said to protect sailors at sea. Its gate and roof are covered in swirling dragons, and giant coiled incense spirals hang from the ceiling, burning slowly for days.",
+        "ja": "中国福建省出身の商人たちが、船乗りを守るとされる女神ティエンハウをまつるために建てた壮麗な会館。門や屋根には竜の彫刻がびっしり施され、天井には渦巻き状の大きなお香がゆっくりと燃えながらつるされています。",
+        "zh": "来自中国福建的商人们建造了这座宏伟会馆，用来供奉据说能保佑水手平安的天后娘娘。大门和屋顶上盘绕着精美的龙纹雕刻，天花板下还挂着一圈圈缓缓燃烧数日的巨大盘香。"
+      },
+      "coords": [15.8781, 108.3288]
+    },
+    {
+      "name": { "ko": "투본강 등불 유람", "en": "Thu Bon River Lantern Boats", "ja": "トゥボン川のちょうちん舟", "zh": "秋盆河灯笼船" },
+      "blurb": {
+        "ko": "밤이 되면 작은 나무배들이 등불을 가득 싣고 강을 오가요. 등불 하나를 사서 촛불을 켜고 강물에 띄우면, 등불이 어둠 속으로 흘러가는 걸 보며 소원을 빌 수 있다고 해요.",
+        "en": "At night, little wooden boats glide along the river, each one loaded with paper lanterns for sale. Buy one, light its candle, and set it afloat — locals believe watching your lantern drift into the dark carries your wish along with it.",
+        "ja": "夜になると、小さな木の舟が紙のちょうちんをたくさん積んで川を行き来します。ちょうちんを一つ買ってろうそくに火をともし、川に流せば、暗闇へ流れていく明かりとともに願いごとが届くと言われています。",
+        "zh": "到了晚上，小小的木船载满纸灯笼，在河面上来回穿梭。买一盏灯笼，点亮蜡烛放入河中，当地人相信，看着灯笼漂向黑暗的河面，愿望也会随之而去。"
+      },
+      "coords": [15.8756, 108.3268]
+    }
+  ]
+}

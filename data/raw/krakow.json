@@ -1,0 +1,120 @@
+{
+  "id": "krakow",
+  "country": "pl",
+  "coords": [50.0647, 19.9450],
+  "name": { "ko": "크라쿠프", "en": "Kraków", "ja": "クラクフ", "zh": "克拉科夫" },
+  "tagline": {
+    "ko": "용을 물리친 옛 수도, 나팔 소리가 매시간 한 음에서 뚝 멈추는 도시",
+    "en": "The dragon-slaying old capital where a trumpet call stops mid-note, every single hour",
+    "ja": "ドラゴンを退治した古都、ラッパの音が毎時間途中で止まる街",
+    "zh": "曾经屠龙的古都，号角声每到整点都会戛然而止"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 폴란드 남쪽 비스와 강이 굽이도는 언덕 위에 '크라크'라는 왕이 성을 지었어요. 성 둘레에 마을이 생겼고, 사람들은 왕의 이름을 따서 이 도시를 '크라쿠프'라고 불렀답니다. 크라쿠프는 수백 년 동안 폴란드의 수도였고, 지금도 옛 시가지는 마치 기사와 용이 살던 시절 그대로예요.",
+      "그런데 전설에 따르면 이 언덕이 늘 안전한 건 아니었대요. 성 아래 동굴에 불을 뿜는 용이 살면서 양은 물론 가끔은 사람까지 잡아먹었거든요. 어떤 기사도 용을 이기지 못했는데, 어느 날 스쿠바라는 꾀 많은 젊은 구두장이가 묘안을 냈어요. 양가죽 안에 유황을 가득 채워 동굴 앞에 놓아둔 거예요. 용은 그걸 냉큼 삼켰다가 배 속이 활활 타는 듯 뜨거워지자, 강물을 벌컥벌컥 들이켜기 시작했어요. 물을 너무 많이 마신 나머지 몸이 둥둥 떠오르더니, 강을 따라 둥실둥실 떠내려가 그 후로 다시는 크라쿠프에 나타나지 않았대요.",
+      "크라쿠프에는 또 다른 놀라운 비밀이 있어요. 유럽의 수많은 옛 도시들과 달리, 크라쿠프는 제2차 세계대전의 무서운 전쟁 피해를 거의 입지 않았어요. 그래서 지금 이 도시의 돌바닥 광장과 높은 성당 탑, 알록달록한 집들은 대부분 다시 지은 게 아니라 진짜 중세시대 그대로의 건물이랍니다.",
+      "하루도 빠짐없이, 낮이나 밤이나 한 시간마다 나팔수가 성모 마리아 성당 탑에 올라가 '헤이나우'라는 곡을 연주해요. 그런데 이 곡은 늘 한 음이 채 끝나기도 전에 뚝 멈춘답니다. 왜냐고요? 아주 오래전, 적군이 몰려오는 걸 발견한 나팔수가 마을에 위험을 알리려고 나팔을 불다가 화살에 맞아 연주를 멈췄기 때문이에요. 그날 이후 크라쿠프는 용감한 파수꾼을 기리며, 지금도 이 곡을 미완성인 채로 연주한답니다."
+    ],
+    "en": [
+      "Long, long ago, on a hill above a bend in the Vistula River in southern Poland, a king named Krak built a castle. A town grew up around it, and people named the city after him — Kraków. For hundreds of years it was Poland's royal capital, and its old town still looks almost exactly like it did back in the days of knights and dragons.",
+      "But legend says the hill wasn't always so safe. A fire-breathing dragon lived in a cave beneath the castle, and it loved gobbling up sheep — and sometimes people, too! No knight could ever beat it, until a clever young shoemaker named Skuba had a brilliant idea. He stuffed a sheepskin full of sulfur and left it outside the dragon's cave. The dragon swallowed it whole, and its belly began to burn like fire! It drank and drank from the river to cool the burning down — until it had drunk so much that it floated right off its feet, drifted away downstream, and was never seen in Kraków again.",
+      "Kraków has another amazing secret: unlike so many old European cities, it was barely touched by the terrible fighting of World War II. So today its cobblestone square, tall church towers, and colorful houses are almost all real, original medieval buildings — not rebuilt copies.",
+      "Every single hour, day and night, a trumpeter climbs the tower of St. Mary's Basilica and plays a tune called the hejnał — but it always stops suddenly, right in the middle of a note. Why? Centuries ago, a trumpeter spotted invaders approaching and blew the alarm to warn the city, until an arrow stopped him mid-note. Kraków has played the song unfinished ever since, as a little salute to a brave watchman."
+    ],
+    "ja": [
+      "はるか昔、ポーランド南部、ヴィスワ川が曲がる丘の上に、クラクという王様がお城を建てました。その周りに町ができ、人々は王様の名にちなんでこの街を『クラクフ』と呼びました。クラクフは何百年もの間ポーランドの王都で、旧市街は今も騎士とドラゴンの時代そのままの姿を残しています。",
+      "でも伝説によると、この丘はいつも安全だったわけではありません。お城の下のほら穴には火を吹くドラゴンが住んでいて、羊はもちろん、時には人まで食べてしまったのです。どんな騎士もドラゴンには勝てませんでしたが、ある日スクバという知恵者の若い靴職人が名案を思いつきました。羊の皮の中に硫黄をぎっしり詰めて、ほら穴の前に置いたのです。ドラゴンはそれをぱくりと丸のみし、お腹が火のように熱くなると、川の水をごくごくと飲み始めました。あまりにたくさん飲んだせいで体が浮き上がり、そのまま川下へふわふわと流されていって、二度とクラクフに現れなかったそうです。",
+      "クラクフにはもう一つ驚きの秘密があります。ヨーロッパの多くの古い街とちがって、クラクフは第二次世界大戦のはげしい戦いをほとんど受けませんでした。だから今の石畳の広場や高い教会の塔、色とりどりの家々は、建て直したものではなく、ほとんどが本物の中世そのままの建物なのです。",
+      "一日も欠かさず、昼も夜も一時間ごとに、ラッパ手が聖マリア教会の塔にのぼり『ヘイナウ』という曲を吹きます。でもこの曲はいつも、音の途中でぷつりと止まるのです。なぜかというと、その昔、敵が攻めてくるのを見つけたラッパ手が街に危険を知らせようと吹いていたところ、矢に当たって演奏が止まってしまったから。その日以来クラクフは、勇敢な見張り番をたたえて、今もこの曲を未完成のまま吹き続けているのです。"
+    ],
+    "zh": [
+      "很久很久以前，在波兰南部维斯瓦河转弯处的一座山丘上，有位叫克拉克的国王建了一座城堡。城堡周围渐渐形成了一座城市，人们就用国王的名字给它命名，叫“克拉科夫”。几百年来，克拉科夫一直是波兰的王都，如今它的老城看起来，几乎还是骑士与巨龙时代的模样。",
+      "不过传说中，这座山丘并非一直太平。城堡下的洞穴里住着一条会喷火的巨龙，它不但爱吃羊，有时候还会吃人！没有一个骑士能打败它，直到一位聪明的年轻鞋匠斯库巴想出了妙计。他把硫磺塞满一张羊皮，放在龙洞门口。巨龙一口把它吞了下去，肚子里顿时火烧火燎，它只好跑到河边咕嘟咕嘟地大口喝水降温。它喝了太多太多的水，喝到身子都飘了起来，就这样顺着河水漂漂荡荡地流走了，从此再也没有出现在克拉科夫。",
+      "克拉科夫还有一个了不起的秘密：和欧洲许多古老城市不同，它在第二次世界大战的激烈战火中几乎毫发无损。所以今天广场上的石板路、高高的教堂钟楼、五颜六色的房子，绝大多数都是真正的中世纪原物，而不是重建的复制品。",
+      "每天不论白天黑夜，每到整点，都会有一位号手爬上圣玛丽教堂的塔楼，吹奏一首叫“海纳乌”的号曲——可这首曲子总是在一个音符中间突然停住。为什么呢？很久以前，一位号手发现敌军来袭，吹号想要警告全城，却在吹到一半时被箭射中，曲子戛然而止。从那天起，克拉科夫就一直保留着这首未完成的曲子，用来纪念那位勇敢的守望者。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "나팔 곡 '헤이나우'는 매시간 연주되다가 늘 한 음에서 뚝 멈춰요. 옛날 적의 침입을 알리다 화살에 맞은 파수꾼을 기리는 거래요.",
+      "크라쿠프의 중앙광장 '리네크 그워브니'는 유럽에서 가장 큰 중세 광장 중 하나예요. 700년 넘게 모양이 그대로랍니다.",
+      "전설 속 불 뿜는 용이 살았다는 바벨 언덕 동굴 앞에는 지금도 용 동상이 있는데, 진짜로 불을 뿜어요!",
+      "성모 마리아 성당의 두 탑은 높이가 서로 달라요. 형제가 각자 하나씩 지었는데 그만 사이가 틀어졌다는 전설이 있답니다.",
+      "크라쿠프 구시가지는 제2차 세계대전 때 거의 피해를 입지 않아서, 건물 대부분이 다시 지은 게 아니라 진짜 중세시대 원본이에요.",
+      "크라쿠프 근처 비엘리치카에는 광부들이 땅속 깊이 소금으로 만든 성당이 있어요. 제단도 샹들리에도 전부 소금이랍니다!"
+    ],
+    "en": [
+      "The hejnał trumpet tune stops abruptly every single hour, honoring a watchman who was struck by an arrow while warning the city of an attack, centuries ago.",
+      "Kraków's main square, Rynek Główny, is one of the largest medieval town squares in Europe — and it's kept the very same shape for over 700 years.",
+      "Legend says a fire-breathing dragon once lived in a cave under Wawel Hill; today a metal dragon statue stands there — and it really breathes fire!",
+      "St. Mary's Basilica has two towers of different heights — legend says two rival brothers each built one, and it didn't end well between them.",
+      "Kraków's Old Town survived World War II almost untouched, so its buildings are the real medieval originals, not rebuilt copies.",
+      "Near Kraków, miners carved an entire cathedral — altars, chandeliers, and all — out of salt, deep underground at Wieliczka."
+    ],
+    "ja": [
+      "ラッパ曲『ヘイナウ』は毎時間演奏され、いつも一音の途中でぷつりと止まります。昔、敵の襲来を知らせて矢に当たった見張り番をたたえてのことだそうです。",
+      "クラクフの中央広場『リネク・グウヴヌィ』はヨーロッパ最大級の中世広場のひとつ。700年以上、形が変わっていません。",
+      "伝説の火吹きドラゴンが住んでいたというヴァヴェル丘の洞くつの前には今も竜の像があり、なんと本当に火を吹きます！",
+      "聖マリア教会の二つの塔は高さがちがいます。兄弟がそれぞれ一つずつ建てたけれど、仲たがいしてしまったという伝説があるんです。",
+      "クラクフの旧市街は第二次世界大戦でほとんど被害を受けなかったので、建物のほとんどが建て直しではなく本物の中世の建築です。",
+      "クラクフ近くのヴィエリチカでは、鉱山労働者たちが地下深くに、祭壇もシャンデリアもすべて塩でできた大聖堂を彫り上げました。"
+    ],
+    "zh": [
+      "号曲“海纳乌”每到整点都会演奏，却总在一个音符中间突然停住——据说是为了纪念很久以前那位示警时被箭射中的守望者。",
+      "克拉科夫的中央广场“里内克”是欧洲最大的中世纪广场之一，700多年来形状几乎没变过。",
+      "传说中喷火巨龙曾住在瓦维尔山丘的洞穴里，如今那里立着一座金属巨龙雕像——它真的会喷火哦！",
+      "圣玛丽教堂的两座钟楼高度不同——传说是两兄弟各建一座，结果闹了矛盾。",
+      "克拉科夫老城在二战中几乎没有受损，所以城里的建筑大多是真正的中世纪原物，而非重建的仿品。",
+      "克拉科夫附近的维利奇卡，矿工们在地下深处，用盐雕出了整座教堂——祭坛、吊灯，全都是盐做的！"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "매시간 울리는 나팔 곡이 늘 한 음에서 뚝 멈춘대. 왜 그런지 맞혀볼래?",
+    "en": "A trumpet song that stops in the middle, every single hour, forever — can you guess why?",
+    "ja": "毎時間鳴るラッパの曲が、いつも途中でぷつりと止まるんだって。どうしてか当ててみる？",
+    "zh": "每到整点响起的号曲，总在一半突然停住——你猜猜为什么？"
+  },
+  "places": [
+    {
+      "name": { "ko": "리네크 그워브니 (중앙 시장 광장)", "en": "Rynek Główny (Main Market Square)", "ja": "リネク・グウヴヌィ（中央市場広場）", "zh": "里内克广场（中央市场广场）" },
+      "blurb": {
+        "ko": "유럽에서 손꼽히게 큰 중세 광장이에요. 700년 넘게 상인들이 물건을 팔던 곳으로, 지금도 마차와 꽃 마차, 노점이 가득해서 마치 그 시절로 돌아간 것 같답니다.",
+        "en": "One of Europe's biggest medieval squares. Merchants have sold their goods here for over 700 years, and it's still packed with flower stalls and horse carriages that make it feel like stepping back in time.",
+        "ja": "ヨーロッパ最大級の中世広場。700年以上前から商人たちがここで商売をしてきました。今も花売りや馬車でにぎわい、まるでその時代に戻ったよう。",
+        "zh": "欧洲最大的中世纪广场之一。700多年来商人们一直在这里做买卖，如今仍摆满花摊和马车，仿佛穿越回了那个年代。"
+      },
+      "coords": [50.0617, 19.9373]
+    },
+    {
+      "name": { "ko": "성모 마리아 성당", "en": "St. Mary's Basilica", "ja": "聖マリア教会", "zh": "圣玛丽教堂" },
+      "blurb": {
+        "ko": "매시간 나팔수가 올라가 '헤이나우'를 연주하는 성당이에요. 곡이 한 음에서 뚝 멈추는 순간을 광장에서 귀 기울여 들어보세요.",
+        "en": "The church where a trumpeter climbs the tower every hour to play the hejnał. Stand in the square and listen for the exact moment the tune stops short.",
+        "ja": "毎時間ラッパ手が塔にのぼり『ヘイナウ』を演奏する教会。広場に立って、曲がぷつりと止まる瞬間に耳をすませてみて。",
+        "zh": "每到整点都有号手爬上塔楼吹奏“海纳乌”的教堂。站在广场上仔细听，感受曲子突然停住的那一刻。"
+      },
+      "coords": [50.0614, 19.9392]
+    },
+    {
+      "name": { "ko": "바벨 언덕 - 성과 용의 동굴", "en": "Wawel Hill — Castle & Dragon's Den", "ja": "ヴァヴェル丘 - 城とドラゴンのほら穴", "zh": "瓦维尔山丘（城堡与龙洞）" },
+      "blurb": {
+        "ko": "왕들이 살던 성이자, 전설 속 불 뿜는 용이 살았다는 동굴이 있는 언덕이에요. 지금도 동굴 입구의 용 동상이 진짜 불을 뿜는답니다.",
+        "en": "Home to Poland's kings and, legend says, a fire-breathing dragon's cave. A metal dragon statue still guards the entrance — and it actually breathes real fire!",
+        "ja": "ポーランド王たちの居城で、伝説では火吹きドラゴンのほら穴もあった場所。入り口には今も竜の像が立ち、本当に火を吹きます！",
+        "zh": "波兰历代国王居住的城堡，传说喷火巨龙也曾住在这里的洞穴中。洞口至今立着一座巨龙雕像，真的会喷火！"
+      },
+      "coords": [50.0544, 19.9356]
+    },
+    {
+      "name": { "ko": "비엘리치카 소금 광산", "en": "Wieliczka Salt Mine", "ja": "ヴィエリチカ岩塩坑", "zh": "维利奇卡盐矿" },
+      "blurb": {
+        "ko": "땅속 깊이 파고들어 소금으로 통째로 만든 예배당이 있는 신비한 광산이에요. 바닥도 조각상도 샹들리에도 모두 소금으로 만들어졌어요.",
+        "en": "A mysterious mine where workers carved an entire chapel deep underground — out of salt. The floors, statues, even the chandeliers are all made of salt.",
+        "ja": "地下深くに塩だけで礼拝堂を彫り上げた不思議な鉱山。床も彫刻もシャンデリアも、すべて塩でできています。",
+        "zh": "一座神秘的矿场，矿工们在地下深处用盐雕出了整座礼拜堂。地板、雕像甚至吊灯，全都由盐制成。"
+      },
+      "coords": [49.9850, 20.0530]
+    }
+  ]
+}

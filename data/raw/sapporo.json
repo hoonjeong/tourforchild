@@ -1,0 +1,120 @@
+{
+  "id": "sapporo",
+  "country": "jp",
+  "coords": [43.0618, 141.3545],
+  "name": { "ko": "삿포로", "en": "Sapporo", "ja": "札幌", "zh": "札幌" },
+  "tagline": {
+    "ko": "텅 빈 지도 위에 그려진, 일본에서 가장 젊은 눈의 도시",
+    "en": "Japan's young snow capital, drawn from scratch on a blank map",
+    "ja": "まっさらな地図の上に描かれた、日本でいちばん若い雪の街",
+    "zh": "在空白地图上画出来的,日本最年轻的雪之都"
+  },
+  "story": {
+    "ko": [
+      "아주 먼 옛날, 일본 북쪽의 커다란 섬 홋카이도는 깊은 숲과 거친 강으로 뒤덮여 있었어요. 이곳에 오래전부터 살아온 아이누 사람들은 넓고 맑은 강이 흐르는 곳을 '삿포로펫'이라고 불렀는데, '메마르고 커다란 강'이라는 뜻이었죠. 훗날 이곳에 새로운 도시를 세운 사람들은 바로 그 이름을 따서 도시 이름을 '삿포로'라고 지었답니다.",
+      "교토나 나라 같은 일본의 옛 수도들과 달리, 삿포로는 텅 빈 지도 위에서 태어난 도시예요. 약 150년 전, 사람들은 마치 모눈종이처럼 반듯한 바둑판 모양으로 길을 쭉쭉 그렸어요. 그리고 미국인 선생님 윌리엄 클라크를 초청해 학교와 농장 만드는 법을 배웠는데, 그는 고향으로 떠나며 학생들에게 '소년이여, 야망을 가져라!'라는 말을 남겼고, 이 말은 지금도 삿포로 사람들 마음속에 남아 있답니다.",
+      "삿포로는 겨울마다 눈의 나라로 변해요. 눈이 어찌나 많이 내리던지, 1950년에 학생들이 도심 공원에 커다란 눈 조각상 여섯 개를 만들었어요. 사람들이 너무 좋아한 나머지, 이 작은 눈더미는 점점 자라나 건물만큼 커다란 얼음·눈 조각들이 가득한 세계적인 '삿포로 눈축제'가 되었답니다.",
+      "오늘날 삿포로는 일본에서 다섯 번째로 큰 도시가 되었지만, 개척 시절의 마음을 여전히 간직하고 있어요. 옛날 사람들이 듣던 것과 똑같은 시계탑 종소리를 들을 수 있고, 일본 최초의 맥주 공장에서 만든 시원한 음료도 맛볼 수 있어요. 그리고 축제 조명 아래 반짝이는 수백만 개의 눈송이도 볼 수 있죠. 삿포로는 반듯한 길 하나, 눈송이 하나씩 쌓아 올린 꿈의 도시랍니다."
+    ],
+    "en": [
+      "Long, long ago, the northern island of Hokkaido was covered in deep forests and wild rivers, and only the Ainu people called this land home. They named a spot where a river ran wide and clear 'Sat poro pet'—a dry, big river. Long after, when settlers built a brand-new city right there, they picked that very name for it: Sapporo.",
+      "Unlike Japan's ancient capitals such as Kyoto or Nara, Sapporo was born on a blank map. About 150 years ago, planners drew arrow-straight streets in a perfect grid, like graph paper, and even invited an American teacher named William Clark to help build schools and farms. Before he sailed home, he told his students, 'Boys, be ambitious!'—words Sapporo still remembers today.",
+      "Every winter, Sapporo turns into a wonderland of snow. So much snow falls that in 1950, a group of students piled it into six giant snow statues in a park downtown. People loved it so much that this small snow pile grew into the world-famous Sapporo Snow Festival, with sculptures as tall as buildings.",
+      "Today Sapporo is Japan's fifth-largest city, but it still remembers its pioneer days. You can hear the same clock tower bell settlers once heard, sip fizzy drinks from Japan's very first beer brewery, and watch millions of snowflakes glitter under festival lights. It's a city built by dreamers—one straight street, and one snowflake, at a time."
+    ],
+    "ja": [
+      "はるか昔、日本の北にある大きな島・北海道は、深い森と荒々しい川におおわれていました。ここに古くから暮らすアイヌの人々は、広く澄んだ川が流れる場所を『サッ・ポロ・ペッ』、つまり『乾いた、大きな川』と呼んでいました。のちにこの地に新しい街をつくった人々は、その名前をそのまま使い、『札幌』と名付けたのです。",
+      "京都や奈良のような日本の古い都とちがい、札幌はまっさらな地図の上で生まれた街です。今から約150年前、人々は方眼紙のように碁盤の目状の道をまっすぐ引きました。そしてアメリカ人教師ウィリアム・クラークを招き、学校や農場のつくり方を学びました。彼は帰国する際、生徒たちに『少年よ、大志を抱け』という言葉を残し、この言葉は今も札幌の人々の心に残っています。",
+      "札幌は冬になると雪の国に変わります。あまりにたくさん雪が降るので、1950年に学生たちが街なかの公園に大きな雪像を6体つくりました。人々に大人気となったこの小さな雪の山は、やがてビルほど大きな雪と氷の彫刻がずらりと並ぶ、世界的な『さっぽろ雪まつり』へと成長しました。",
+      "今、札幌は日本で5番目に大きな街になりましたが、開拓の心を今も忘れていません。開拓者たちが聞いたのと同じ鐘の音を時計台で聞くことができ、日本で最初のビール工場でつくられた炭酸の飲み物も味わえます。そして祭りの明かりの下できらめく何百万もの雪の結晶も見られます。札幌は、まっすぐな道と雪の結晶を一つひとつ積み重ねてつくられた、夢の街なのです。"
+    ],
+    "zh": [
+      "很久很久以前，日本北部的大岛北海道被茂密的森林和奔流的河川覆盖着。世代居住在这里的阿伊努人，把一处宽阔清澈的河流之地称为“萨波罗佩特”，意思是“干燥的大河”。后来在这里建立新城市的人们，就沿用了这个名字，把城市取名为“札幌”。",
+      "和京都、奈良这些日本古老的都城不同，札幌是在一张空白地图上诞生的城市。大约150年前，人们像画方格纸一样，把街道笔直地划成整整齐齐的棋盘格。他们还邀请了一位名叫威廉·克拉克的美国老师，来教大家如何建学校、办农场。他启程回国前，对学生们留下一句话：“少年，要胸怀大志！”这句话至今仍留在札幌人的心里。",
+      "每到冬天，札幌就变成一片雪的国度。雪下得实在太大了，1950年，一群学生就在市中心的公园里堆了六座巨大的雪雕。人们太喜欢这些雪雕了，这一小堆雪渐渐长成了如今世界闻名的“札幌雪祭”，那些和大楼一样高的雪雕冰雕，让人惊叹不已。",
+      "如今，札幌已是日本第五大城市，但它从未忘记开拓者的精神。你可以听到和当年开拓者一模一样的钟楼钟声，也能尝到用日本第一家啤酒厂酿造的气泡酒。在节日的灯光下，你还能看到数百万片雪花闪闪发光。札幌，就是一座由一条条笔直的街道和一片片雪花，慢慢堆砌起来的梦想之城。"
+    ]
+  },
+  "funFacts": {
+    "ko": [
+      "'삿포로'라는 이름은 아이누 말 '삿포로펫(메마르고 커다란 강)'에서 왔어요.",
+      "도심 전체가 바둑판처럼 반듯하게 나뉘어 있어서, 길 이름 대신 숫자만 봐도 위치를 찾을 수 있어요.",
+      "어떤 해에는 눈이 5미터 넘게 쌓이기도 해요. 큰 도시치고는 세계에서 손꼽히게 눈이 많이 온답니다!",
+      "삿포로 눈축제는 1950년 학생들이 만든 눈 조각상 6개에서 시작됐는데, 지금은 해마다 200만 명이 넘는 사람이 찾아온대요.",
+      "일본에서 가장 오래된 삿포로 맥주 공장은 지금도 홋카이도 개척자들의 상징인 빨간 별을 로고로 쓰고 있어요.",
+      "미국인 선생님 클라크가 떠나며 남긴 '소년이여, 야망을 가져라!'라는 말은 일본에서 가장 유명한 명언 중 하나가 되었고, 그의 동상이 지금도 도시를 지켜보고 있어요."
+    ],
+    "en": [
+      "The name 'Sapporo' comes from the Ainu phrase 'sat poro pet,' meaning 'dry, big river.'",
+      "Downtown Sapporo is laid out in a neat grid—so tidy that you can find a spot just by its numbers instead of a street name.",
+      "In some winters, Sapporo can pile up more than 5 meters (16+ feet) of snow—among the snowiest big cities on Earth!",
+      "The Sapporo Snow Festival began in 1950 with just six snow statues built by local students—now over two million visitors come to see the giant sculptures every year.",
+      "Sapporo Beer, Japan's oldest brewery, still uses a red star—Hokkaido's pioneer symbol—as its logo.",
+      "American teacher William Clark's parting words, 'Boys, be ambitious!' became one of Japan's most famous quotes, and his statue still watches over the city."
+    ],
+    "ja": [
+      "『札幌』という名前は、アイヌ語の『サッ・ポロ・ペッ（乾いた、大きな川）』に由来します。",
+      "街の中心は碁盤の目のように整然と区切られていて、名前ではなく数字だけで場所を見つけられます。",
+      "年によっては雪が5メートル以上も積もることがあります。大都市の中では世界でも屈指の雪の多さです！",
+      "さっぽろ雪まつりは1950年、学生たちがつくった6体の雪像から始まりましたが、今では毎年200万人以上が訪れます。",
+      "日本最古のサッポロビール工場は、今も北海道開拓のシンボルである赤い星をロゴに使っています。",
+      "アメリカ人教師クラークが残した『少年よ、大志を抱け』は日本で最も有名な言葉の一つとなり、彼の像は今も街を見守っています。"
+    ],
+    "zh": [
+      "“札幌”这个名字来自阿伊努语“萨波罗佩特”，意思是“干燥的大河”。",
+      "市中心的街道排列得像棋盘一样整齐，靠数字就能找到位置，不用记街名。",
+      "有些年份，札幌积雪能超过5米厚——在世界大城市里，这样的降雪量都算是数一数二的！",
+      "札幌雪祭始于1950年，最初只有学生们堆的六座雪雕，如今每年吸引超过200万游客前来观赏。",
+      "日本历史最悠久的札幌啤酒厂，至今仍使用象征北海道开拓精神的红星作为标志。",
+      "美国老师克拉克临别时留下的“少年，要胸怀大志！”成了日本最著名的名言之一，他的雕像至今仍守望着这座城市。"
+    ]
+  },
+  "kidQuestion": {
+    "ko": "텅 빈 지도 위에 선을 쭉쭉 그어서 도시를 통째로 만들었대. 그리고 겨울마다 너보다 큰 눈이 쌓인다면 믿을 수 있어?",
+    "en": "They drew a few straight lines on a blank map and built a whole city from it—and every winter, snow piles up taller than you. Can you believe that?",
+    "ja": "まっさらな地図に線を引いて街をまるごと作ったんだって。それに冬には自分の背より高く雪が積もるなんて、信じられる？",
+    "zh": "在一张空白的地图上画几条直线，就造出了一整座城市;冬天积雪还能比你还高，你敢相信吗？"
+  },
+  "places": [
+    {
+      "name": { "ko": "삿포로 시계탑", "en": "Sapporo Clock Tower", "ja": "札幌時計台", "zh": "札幌钟楼" },
+      "blurb": {
+        "ko": "1878년 학교 강당으로 지어졌는데, 지금은 도시를 상징하는 건물이 되었어요. 지금도 그때와 똑같은 종소리가 울려 퍼진답니다.",
+        "en": "Built in 1878 as a school hall, it's now the symbol of the whole city. The very same bell still rings out today, just as it did back then.",
+        "ja": "1878年に学校の講堂として建てられ、今では街の象徴になっています。今も当時と同じ鐘の音が響きます。",
+        "zh": "建于1878年，最初是学校的礼堂，如今已成为城市的象征。至今仍能听到和当年一样的钟声。"
+      },
+      "coords": [43.0621, 141.3536]
+    },
+    {
+      "name": { "ko": "오도리 공원", "en": "Odori Park", "ja": "大通公園", "zh": "大通公园" },
+      "blurb": {
+        "ko": "도시 한가운데를 가로지르는 길쭉한 공원이에요. 겨울엔 눈축제의 거대한 눈 조각들이, 여름엔 알록달록한 꽃들이 이곳을 가득 채운답니다.",
+        "en": "A long, narrow park that slices right through the city center. In winter it fills with the Snow Festival's giant snow sculptures, and in summer with bright, colorful flowers.",
+        "ja": "街のまんなかを横切る細長い公園。冬には雪まつりの巨大な雪像が、夏にはカラフルな花々がここを埋めつくします。",
+        "zh": "一条贯穿市中心的狭长公园。冬天，这里摆满雪祭的巨型雪雕;夏天，五彩缤纷的鲜花开满全园。"
+      },
+      "coords": [43.0596, 141.3540]
+    },
+    {
+      "name": { "ko": "삿포로 맥주 박물관", "en": "Sapporo Beer Museum", "ja": "サッポロビール博物館", "zh": "札幌啤酒博物馆" },
+      "blurb": {
+        "ko": "붉은 벽돌로 지어진 옛 맥주 공장이에요. 1876년부터 보글보글 맥주를 만들어온 일본 유일의 맥주 박물관이랍니다.",
+        "en": "An old red-brick brewery building. It's Japan's only beer museum, and beer has been fizzing away here since 1876.",
+        "ja": "赤レンガづくりの古いビール工場。1876年からビールを造り続けてきた、日本で唯一のビール博物館です。",
+        "zh": "一座红砖砌成的老啤酒厂。这里从1876年就开始酿造啤酒，是日本唯一的啤酒博物馆。"
+      },
+      "coords": [43.0709, 141.3564]
+    },
+    {
+      "name": { "ko": "모이와산 로프웨이", "en": "Mt. Moiwa Ropeway", "ja": "藻岩山ロープウェイ", "zh": "藻岩山缆车" },
+      "blurb": {
+        "ko": "케이블카를 타고 산 위로 올라가면, 일본 3대 야경 중 하나로 손꼽히는 반짝이는 삿포로 도시 전체를 내려다볼 수 있어요.",
+        "en": "Ride a cable car up the mountain, and you'll look down on sparkling Sapporo—a view ranked among Japan's three best night views.",
+        "ja": "ロープウェイで山の上まで登ると、日本三大夜景の一つに数えられる、きらめく札幌の街を一望できます。",
+        "zh": "乘缆车登上山顶，就能俯瞰被誉为日本三大夜景之一的璀璨札幌夜色。"
+      },
+      "coords": [43.0417, 141.3199]
+    }
+  ]
+}
